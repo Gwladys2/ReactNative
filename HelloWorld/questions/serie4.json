@@ -1,0 +1,334 @@
+[
+  {
+    "question": "1 - Quelle propriété CSS permet de créer une grille de mise en page complexe ?",
+    "options": [
+      "flex",
+      "grid",
+      "float",
+      "block"
+    ],
+    "answerIndex": 1,
+    "explications": "La propriété display: grid permet de structurer une page en lignes et colonnes.\n Exemple: \n.container {\n display: grid; \n grid-template-columns: 1fr 2fr; \n}"
+  }
+,
+  {
+    "question": "2 - Que fait z-index ?",
+    "options": [
+      "Agrandit l’élément",
+      "Change sa couleur",
+      "Gère la superposition",
+      "Applique une ombre"
+    ],
+    "answerIndex": 2,
+    "explication": "z-index contrôle l’ordre d’empilement des éléments superposés. \n Exemple: \n .box1 { \n z-index: 1;\n}\n.box2 { \n z-index: 10; /* sera au-dessus */ \n}\n"
+  },
+  {
+    "question": "3 -Quelle propriété CSS crée une animation ?",
+    "options": [
+      " transition",
+      "transform",
+      "delay",
+      "animation"
+    ],
+    "answerIndex": 3,
+    "explication": "animation permet de faire évoluer un élément dans le temps à l’aide de @keyframes. \n Exemple: \n @keyframes fade  { \n from { opacity: 0; } \n to { opacity: 1; }\n}\n div { \n animation: fade 2s ease-in-out; \n }"
+  },
+  {
+    "question": "4 - Quelle unité est relative à la taille de la police parente ?",
+    "options": [
+      "px",
+      "%",
+      "em",
+      "rem"
+    ],
+    "answerIndex": 2,
+    "explication": "1em correspond à la taille de la police définie sur l’élément parent. \n Exemple: \n .parent { \n font-size: 20px;\n } \n .child { \n font-size: 2em; /* 40px */ \n }"
+  },
+  {
+    "question": "5 - Que fait position: sticky ?",
+    "options": [
+      "Le fixe entre deux positions",
+      "Fige l’élément complètement",
+      "Le rend mobile",
+      "Le centre"
+    ],
+    "answerIndex": 0,
+    "explication": "L’élément reste à sa position normale, mais devient fixe quand on le fait défiler. \n Exemple: \n header { \n position: sticky; \n top: 0; \n }"
+  },
+  {
+    "question": "6 - Quelle propriété permet d’ajouter une ombre au texte ?",
+    "options": [
+      "box-shadow",
+      "shadow",
+      "text-shadow",
+      "glow"
+    ],
+    "answerIndex": 2,
+    "explication": "text-shadow applique une ombre floue derrière le texte. \n Exemple:\n h1 { \n text-shadow: 2px 2px 4px rgba(0,0,0,0.5); \n } \n "
+  },
+  {
+    "question": "7 - Quelle propriété CSS permet de transformer un élément (rotation, échelle...) ?",
+    "options": [
+      "transition",
+      "transform",
+      "translate",
+      "animation"
+    ],
+    "answerIndex": 1,
+    "explication": "transform modifie l’apparence : rotation, translation, mise à l’échelle, etc. \n Exemple: \n div:hover { \n transform: scale(1.2); \n }\n"
+  },
+  {
+    "question": "8 - Quelle propriété évite qu’un élément déborde de son conteneur ?",
+    "options": [
+      "overflow",
+      "visible",
+      "contain",
+      "display"
+    ],
+    "answerIndex": 0,
+    "explication": "overflow contrôle ce qui se passe si le contenu dépasse. \n Exemple: \n .container { \n width: 300px;\n overflow: hidden; \n }"
+  },
+  {
+    "question": "9 - Que permet calc() en CSS ?",
+    "options": [
+      "Créer un composant",
+      "Charger un script",
+      "Réinitialiser les marges",
+      "Faire des calculs dynamiques"
+    ],
+    "answerIndex": 2,
+    "explication": "calc() permet d’utiliser des valeurs dynamiques avec des opérations.\n Exemple: \n div { \n width: calc(100% - 50px); \n }"
+  },
+  {
+    "question": "10 - Quelle propriété est utile pour aligner verticalement un élément Flexbox ?",
+    "options": [
+      "align-items",
+      "flex-direction",
+      "justify-content",
+      "vertical-align"
+    ],
+    "answerIndex": 0,
+    "explication": "align-items aligne les éléments selon l’axe vertical dans un flex container. \n Exemple:\n .container { \n display: flex; \n align-items: center; \n }"
+  },
+  {
+    "question": "11 - À quoi sert :nth-child(n) ?",
+    "options": [
+      "Styliser le dernier enfant",
+      "Cibler un enfant spécifique selon sa position",
+      "Remplacer une classe",
+      "Appliquer une animation"
+    ],
+    "answerIndex": 1,
+    "explication": ":nth-child(n) cible les éléments selon leur ordre dans le parent. \n Exemple: \n li:nth-child(2) { \n color: red; /* 2e élément <li> */ \n }"
+  },
+  {
+    "question": "12 - Quel sélecteur cible tous les descendants directs ?",
+    "options": [
+      "A B",
+      "A ~ B",
+      "A + B",
+       "A > B"
+      
+    ],
+    "answerIndex": 3,
+    "explication": " A > B cible uniquement les enfants directs de A. \n Exemple:\n  ul > li { \n color: blue; \n }"
+  },
+  {
+    "question": "13 - Que permet backface-visibility: hidden ?",
+    "options": [
+      "Cacher la face arrière d’un élément en 3D",
+      "Cacher les arrière-plans",
+      "Masquer un élément complètement",
+      " Gérer la transparence"
+    ],
+    "answerIndex": 0,
+    "explication": " Elle cache le verso d’un élément tourné avec transform: rotateY. \n Exemple: .card { \n backface-visibility: hidden; \n transform: rotateY(180deg); \n}"
+  },
+  {
+    "question": "14 - Que fait object-fit: cover sur une image ?",
+    "options": [
+      "Déforme l’image",
+      "Centre l’image",
+      "Remplit sans déformation",
+      "Coupe pour remplir le conteneur"
+    ],
+    "answerIndex": 3,
+    "explication": "L’image remplit tout le conteneur tout en gardant son ratio, quitte à être coupée. \n Exemple: \n img { \n width: 100%; \n height: 300px; \n object-fit: cover; \n }"
+  },
+  {
+    "question": "15 - Que permet la pseudo-classe :not() ?",
+    "options": [
+      "Inverser une classe",
+      "Cibler tous les éléments sauf certains ",
+      "Appliquer une animation",
+      "Masquer un élément"
+    ],
+    "answerIndex": 1,
+    "explication": ":not() exclut un élément du ciblage.\n Exemple:\n p:not(.important) { \n color: gray; \n }"
+  },
+  {
+    "question": "16 - Quelle propriété rend un élément invisible mais garde sa place ?",
+    "options": [
+      "display: none",
+      "visibility: hidden",
+      "opacity: 0",
+      "z-index: -1"
+    ],
+    "answerIndex": 1,
+    "explication": "visibility: hidden cache l’élément sans retirer l’espace qu’il occupe. \n Exemple: \n .box {\n visibility: hidden; \n }"
+  },
+  {
+    "question": "17 - À quoi sert clamp() en CSS ?",
+    "options": [
+      "Limiter les marges",
+      "Réduire une image",   
+      "Donner une valeur fluide entre min et max",
+      "Changer l’échelle d’un élément"
+    ],
+    "answerIndex": 2,
+    "explication": "clamp(min, val, max) fixe une valeur adaptable, mais bornée. \n Exemple: \n h1 { \n font-size: clamp(1rem, 5vw, 3rem); \n }"
+  },
+  {
+    "question": "18 - Quelle propriété permet de masquer la barre de défilement tout en gardant le scroll ?",
+    "options": [
+      "overflow: none",
+      "overflow: hidden",
+      "scrollbar-width: none",
+      "scroll: auto"
+    ],
+    "answerIndex": 2,
+    "explication": "scrollbar-width: none (ou ::-webkit-scrollbar) masque la barre de défilement.\n Exemple: \n .container { \n overflow: scroll; \n scrollbar-width: none; /* Firefox */\n } \n .container::-webkit-scrollbar { \n display: none; /* Chrome */ \n }"
+  },
+  {
+    "question": "19 - Que permet minmax() en CSS Grid ?",
+    "options": [ 
+      "Définir une taille entre deux limites",
+      "Fixer une hauteur",
+      "Ajouter une marge minimale",
+      "Ajuster le padding"
+    ],
+    "answerIndex": 0,
+    "explication": "minmax(min, max) donne une flexibilité entre une valeur minimale et maximale. \n Exemple: \n grid-template-columns: repeat(3, minmax(200px, 1fr));"
+  },
+  {
+    "question": "20 - Que fait isolation: isolate ?",
+    "options": [
+      "Empêche la fusion des calques",
+      "Crée une bordure",
+      "Masque un élément",
+      "Fixe un élément à l’écran"
+    ],
+    "answerIndex": 0,
+    "explication": "Elle crée un nouveau contexte d’empilement, utile avec mix-blend-mode. \n Exemple: \n .overlay { \n isolation: isolate; \n }"
+  },
+  {
+    "question": "21 - Quelle propriété permet de définir des colonnes multiples en CSS ?",
+    "options": [
+      "flex",
+      "display: inline",
+      "grid",
+      "columns"
+    ],
+    "answerIndex": 3,
+    "explication": "columns divise le contenu en colonnes comme dans un journal. \n Exemple: \n .article { \n columns: 2; \n }"
+  },
+  {
+    "question": "22 - Quel pseudo-élément cible la première lettre d’un paragraphe ?",
+    "options": [
+      "::first",
+      "::first-letter",
+      "::first-line",
+      ":first-child"
+    ],
+    "answerIndex": 1,
+    "explication": "::first-letter permet de styliser la première lettre d’un texte.\n Exemple: \n p::first-letter { \n font-size: 2em; \n color: red; \n }"
+  },
+  {
+    "question": "23 - Que fait mix-blend-mode: multiply ?",
+    "options": [
+      " Mélange les couleurs avec celles du fond",
+      " Multiplie la taille",
+      "Change la luminosité",
+      "Remplace une image"
+    ],
+    "answerIndex": 0,
+    "explication": "mix-blend-mode détermine comment un élément se mélange avec ce qui est derrière. \n Exemple: \n .image { \n mix-blend-mode: multiply; \n }"
+  },
+  {
+    "question": "24 - Quelle propriété CSS contrôle la manière dont le texte déborde ?",
+    "options": [
+      "overflow",
+      "word-wrap",
+      "text-overflow",
+      "clip-path"
+    ],
+    "answerIndex": 2,
+    "explication": "text-overflow permet de gérer les débordements textuels comme .... \n Exemple: \n p { \n white-space: nowrap; \n overflow: hidden; \n text-overflow: ellipsis; \n }"
+},
+  {
+    "question": "25 - À quoi sert will-change ?",
+    "options": [
+      "Ajouter une animation",
+      "Mettre à jour le DOM",
+      "Déclencher un événement",
+      "Prévenir le navigateur d’un changement à venir"
+    ],
+    "answerIndex": 3,
+    "explication": "Optimise les performances si un élément est susceptible d’être animé. \n Exemple: \n div { \n will-change: transform; \n }"
+  },
+  {
+    "question": "26 - Quel sélecteur CSS permet de cibler un champ invalide ?",
+    "options": [
+      ":valid",
+      ":invalid ",
+      ":required",
+      ":checked"
+    ],
+    "answerIndex": 1,
+    "explication": ":invalid permet de styliser les champs non valides.\n Exemple: \n input:invalid { \n border: 2px solid red; \n }"
+  },
+  {
+    "question": "27 - Quelle propriété CSS crée un masque sur un élément ?",
+    "options": [
+      "filter",
+      "opacity",
+      "clip-path",
+      "visibility"
+    ],
+    "answerIndex": 2,
+    "explication": "clip-path permet de découper un élément selon une forme. \n Exemple: \n div { \n clip-path: circle(50%); \n }"
+  },
+  {
+    "question": "28 - Quelle unité est idéale pour un design fluide basé sur la taille du viewport ?",
+    "options": [
+      "vh / vw",
+      "em",
+      "px",
+      "rem"
+    ],
+    "answerIndex": 0,
+    "explication": "vh (hauteur viewport) et vw (largeur viewport) permettent des tailles adaptables. \n Exemple: \n section { \n height: 100vh; \n }"
+  },
+  {
+    "question": "29 - Quelle propriété CSS active le mode sombre sur certains navigateurs ?",
+    "options": [
+      "prefers-color-scheme",
+      "dark-mode",
+      "media-dark",
+      "theme: dark"
+    ],
+    "answerIndex": 0,
+    "explication": "prefers-color-scheme détecte les préférences système (clair ou sombre). \n Exemple: \n @media (prefers-color-scheme: dark) { \n body { \n background: black; \n color: white; \n } \n }\n"
+  },
+  {
+    "question": "30 - Que fait pointer-events: none ?",
+    "options": [
+      "Empêche l’élément d’être visible",
+      "Empêche les interactions souris",
+      "Empêche le scroll",
+      "Masque un lien"
+    ],
+    "answerIndex": 1,
+    "explication": "pointer-events: none désactive tous les événements souris/clavier sur l’élément. \n Exemple: \n button.disabled { \n pointer-events: none; \n opacity: 0.5; \n }"
+  }
+]

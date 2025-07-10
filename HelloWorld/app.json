@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Développement web",
+    "slug": "Développement web",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/gladDevLogo.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/gladDevLogo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/gladDevLogo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/gladDevLogo.png"
+    }
+  }
+}

@@ -1,0 +1,450 @@
+[
+  {
+    "question": "1 - Quel est le rôle principal du HTML ?",
+    "options": [
+      "Ajouter du style à la page",
+      "Ajouter de l’interactivité",
+      "Structurer le contenu",
+      "Gérer les bases de données"
+    ],
+    "answerIndex": 2,
+    "explications": "HTML (HyperText Markup Language) sert à structurer le contenu d’une page web. Il organise les titres, paragraphes, images, etc."
+  }
+    ,
+  {
+    "question": "2 - Quel attribut HTML est utilisé pour ajouter un texte alternatif à une image ?",
+    "options": [
+      "alt",
+      "title",
+      "src",
+      "text"
+    ],
+    "answerIndex": 0,
+    "explication": "L’attribut alt donne un texte alternatif à une image, utile en cas de non-chargement ou pour les lecteurs d’écran. \n Exemple :\n <img src=\"chat.jpg\" alt=\"Un chat mignon\">"
+  },
+  {
+    "question": "3 - Quelle balise est utilisée pour insérer une liste non ordonnée ?",
+    "options": [
+      "<list>",
+      "<ul>",
+      "<ol>",
+      "<li>"
+    ],
+    "answerIndex": 1,
+    "explication": " <ul> crée une liste à puces. <ol> crée une liste numérotée. <li> est pour chaque élément. \n Exemple : \n<ul>\n  <li>HTML</li>\n  <li>CSS</li>\n</ul>"
+  },
+  {
+    "question": "4 - Quelle balise permet d’afficher une image ?",
+    "options": [
+      "<img>",
+      "<image>",
+      "<src>",
+      "<pic>"
+    ],
+    "answerIndex": 0,
+    "explication": "La balise <img> permet d’afficher une image. Elle est auto-fermante et nécessite l’attribut src. \n Exemple: \n <img src=\"photo.jpg\" alt=\"Description de l'image\">\n"
+  },
+  {
+    "question": "5 - Quel attribut HTML ouvre un lien dans un nouvel onglet ?",
+    "options": [
+      "newtab",
+      "target=\"_blank\"",
+      "href=\"_blank\"",
+      "<open=\"true\">"
+    ],
+    "answerIndex": 1,
+    "explication": "L’attribut target=\"_blank\" indique au navigateur d’ouvrir le lien dans un nouvel onglet."
+  },
+  {
+    "question": "6 - Quel élément contient les métadonnées d'une page web ?",
+    "options": [
+      "<meta>",
+      "<header>",
+      "<head>",
+      "<body>"
+    ],
+    "answerIndex": 2,
+    "explication": "La balise <head> contient les balises <title>, <meta>, <link>, etc., qui ne sont pas affichées à l'écran."
+  },
+  {
+    "question": "7 - Quel élément HTML est utilisé pour créer un champ de texte dans un formulaire ?",
+    "options": [
+      "<textarea>",
+      "<input type=\"text\">",
+      "<form>",
+      "Les deux A et B"
+    ],
+    "answerIndex": 3,
+    "explication": " <input type=\"text\"> est pour une ligne, <textarea> pour plusieurs lignes."
+  },
+  {
+    "question": "8 - Quelle est la balise pour insérer une ligne horizontale ?",
+    "options": [
+      "<line>",
+      "<hr>",
+      "<br>",
+      "<border>"
+    ],
+    "answerIndex": 1,
+    "explication": " <hr> signifie \"horizontal rule\". Elle crée une séparation visuelle entre sections."
+  },
+  {
+    "question": "9 - Quelle est la balise correcte pour insérer un commentaire HTML ?",
+    "options": [
+      "<!-- Ceci est un commentaire -->",
+      "// Ceci est un commentaire",
+      "/* Ceci est un commentaire */",
+      "Ceci est un commentaire"
+    ],
+    "answerIndex": 0,
+    "explication": " Les commentaires HTML sont invisibles à l'affichage, utiles pour documenter."
+  },
+  {
+    "question": "10 - La balise <br> sert à :",
+    "options": [
+      "Mettre du texte en gras",
+      " Insérer une image",
+      "Créer un retour à la ligne",
+      "Souligner du texte"
+    ],
+    "answerIndex": 2,
+    "explication": "<br> est une balise auto-fermante utilisée pour forcer un saut de ligne. "
+  },
+  {
+    "question": "11 - Laquelle de ces balises n’est pas sémantique ?",
+    "options": [
+      "<header>",
+      "<article>",
+      "<div>",
+      "<section>"
+    ],
+    "answerIndex": 2,
+    "explication": "<div> est générique. Les balises sémantiques donnent un sens au contenu (utile pour SEO/accessibilité)."
+  },
+  {
+    "question": "12 - Quelle balise représente un contenu principal de la page ?",
+    "options": [
+      "<section>",
+      "<article>",
+      "<body>",
+      "<main>"
+    ],
+    "answerIndex": 3,
+    "explication": "<main> est utilisée pour encadrer le contenu principal d'une page, excluant les barres latérales ou pieds de page."
+  },
+  {
+    "question": "13 - La balise <title> doit être placée dans :",
+    "options": [
+      "<head>",
+      "<body>",
+      "<footer>",
+      "<section>"
+    ],
+    "answerIndex": 0,
+    "explication": "Le contenu de <title> s'affiche dans l’onglet du navigateur et est important pour le référencement."
+  },
+  {
+    "question": "14 - Quelle balise permet de créer un tableau ?",
+    "options": [
+      "<table>",
+      "<tab>",
+      "<tr>",
+      "<td>"
+    ],
+    "answerIndex": 0,
+    "explication": "<table> crée un tableau. <tr> définit une ligne, <td> une cellule, et <th> une cellule d’en-tête."
+  },
+  {
+    "question": "15 - Quel attribut HTML est utilisé pour donner une info-bulle à un élément ?",
+    "options": [
+      "tooltip",
+      "alt",
+      "title",
+      "info"
+    ],
+    "answerIndex": 2,
+    "explication": "L’attribut title affiche une infobulle quand on survole l’élément."
+  },
+  {
+    "question": "16 - Quelle balise est utilisée pour insérer une vidéo ?",
+    "options": [
+      "<video>",
+      "<media>",
+      "<vid>",
+      "<movie>"
+    ],
+    "answerIndex": 0,
+    "explication": "Exemple: \n <video controls>\n  <source src=\"video.mp4\" type=\"video/mp4\">\n</video>"
+  },
+  {
+    "question": "17 - Quelle est la structure de base d’un document HTML ?",
+    "options": [
+      "<html><body><head></head></body></html>",
+      "<html><head></head><body></body></html>",
+      "<head><html><body></body></html></head>",
+      "<body><html></html></body>"
+    ],
+    "answerIndex": 1,
+    "explication": "<html> englobe tout, avec un <head> pour les métadonnées, et un <body> pour le contenu visible."
+  },
+  {
+    "question": "18 - Quel attribut est utilisé pour relier un champ à son label ?",
+    "options": [
+      "rel",
+      "link",
+      "for",
+      "id"
+    ],
+    "answerIndex": 2,
+    "explication": "Exemple: \n <label for=\"email\">Email</label>\n<input type=\"email\" id=\"email\">\n"
+  },
+  {
+    "question": "19 - Quel attribut rend un champ de formulaire obligatoire ?",
+    "options": [
+      "mandatory",
+      "validate",
+      "check",
+      "required"
+    ],
+    "answerIndex": 3,
+    "explication": " L’attribut required empêche l’envoi du formulaire si le champ est vide. \n Exemple: \n <input type=\"text\" required>\n"
+  },
+  {
+    "question": "20 - Quelle balise est utilisée pour regrouper des éléments de formulaire ?",
+    "options": [
+      "<formgroup>",
+      "<fieldset>",
+      "<container>",
+      "<inputbox>"
+    ],
+    "answerIndex": 1,
+    "explication": "<fieldset> permet de grouper visuellement des champs, souvent avec <legend> pour le titre du groupe."
+  },
+  {
+    "question": "21 - Que fait la balise <strong> ?",
+    "options": [
+      "Elle ajoute une bordure",
+      "Elle rend le texte plus grand",
+      "Elle met le texte en gras avec importance",
+      "Elle n’a aucun effet"
+    ],
+    "answerIndex": 2,
+    "explication": "<strong> indique que le texte est important (avec du gras par défaut). Pour du gras sans importance sémantique, utiliser <b>."
+  },
+  {
+    "question": "22 - Quelle balise permet d'insérer une citation courte ?",
+    "options": [
+      "<q>",
+      "<cite>",
+      "<blockquote>",
+      "<quote>"
+    ],
+    "answerIndex": 0,
+    "explication": "<q> est utilisée pour les citations courtes intégrées au texte. Elle ajoute automatiquement des guillemets. \n Exemple: \n <p>Il a dit : <q>Le code, c’est la vie</q>.</p>\n "
+  },
+  {
+    "question": "23 - Quelle balise HTML est utilisée pour insérer une ligne de code ?",
+    "options": [
+      "<script>",
+      "<code>",
+      "<pre>",
+      "<var>"
+    ],
+    "answerIndex": 1,
+    "explication": "<code> est utilisée pour afficher du texte sous forme de code. On peut l’utiliser à l’intérieur de <pre> pour garder les indentations."
+  },
+  {
+    "question": "24 - Quelle balise permet d’ajouter une description à une image dans une figure ?",
+    "options": [
+      "<caption>",
+      "<desc>",
+      "<figcaption>",
+      "<legend>"
+    ],
+    "answerIndex": 2,
+    "explication": "<figcaption> est utilisée avec <figure> pour ajouter une légende à une image. \n Exemple:\n <figure>\n  <img src=\"photo.jpg\" alt=\"Forêt\">\n  <figcaption>Une belle forêt au printemps</figcaption>\n</figure>\n "
+  },
+  {
+    "question": "25 - Quel attribut permet de désactiver un champ de formulaire ?",
+    "options": [
+      "inactive",
+      "readonly",
+      "block",
+      "disabled"
+    ],
+    "answerIndex": 3,
+    "explication": "L’attribut disabled rend le champ inutilisable et grisé. readonly autorise la lecture mais pas la modification"
+  },
+  {
+    "question": "26 - La balise <em> est utilisée pour : ",
+    "options": [
+      "Centrer le texte",
+      "Mettre en gras",
+      "Souligner",
+      " Ajouter une emphase (italique + sens)"
+    ],
+    "answerIndex": 3,
+    "explication": "<em> signifie \"emphasis\". Elle donne de l’importance au texte, souvent affichée en italique."
+  },
+  {
+    "question": "27 - Quelle balise HTML est obsolète ?",
+    "options": [
+      "<b>",
+      "<u>",
+      "<center>",
+      "<strong>"
+    ],
+    "answerIndex": 2,
+    "explication": "<center> est obsolète (deprecated). On centre désormais avec du CSS."
+  },
+  {
+    "question": "28 - Quelle balise HTML permet d’intégrer un fichier externe CSS ?",
+    "options": [
+      "<css>",
+      "<style src=\"style.css\">",
+      "<link rel=\"stylesheet\" href=\"style.css\">",
+      "<stylesheet>"
+    ],
+    "answerIndex": 2,
+    "explication": " La balise <link> permet de lier une feuille de style CSS externe depuis le <head>."
+  },
+  {
+    "question": "29 - Quelle balise permet d'afficher un champ de saisie de mot de passe ?",
+    "options": [
+      "<input type=\"password\">",
+      "<input type=\"secret\">",
+      "<input type=\"hidden\">",
+      "<password>"
+    ],
+    "answerIndex": 0,
+    "explication": "type=\"password\" masque les caractères saisis."
+  },
+  {
+    "question": "30 - Quelle balise HTML permet d’ajouter une barre de progression ?",
+    "options": [
+      "<bar>",
+      "<loading>",
+      "<meter>",
+      "<progress>"
+    ],
+    "answerIndex": 3,
+    "explication": "<progress> indique la progression d’une tâche. \n Exemple: \n <progress value=\"30\" max=\"100\"></progress>\n"
+  },
+  {
+    "question": "31 - Quelle balise HTML est utilisée pour créer une liste déroulante",
+    "options": [
+      "<dropdown>",
+      "<select>",
+      "<options>",
+      "<input type=\"dropdown\">"
+    ],
+    "answerIndex": 1,
+    "explication": "<select> crée un menu déroulant, avec des <option> à l’intérieur."
+  },
+  {
+    "question": "32 - Quelle balise HTML est utilisée pour insérer du son ?",
+    "options": [
+      "<mp3>",
+      "<sound>",
+      "<audio>",
+      "<media>"
+    ],
+    "answerIndex": 2,
+    "explication": "<audio> permet d’intégrer un fichier audio. \n Exemple: \n <audio controls>\n  <source src=\"son.mp3\" type=\"audio/mpeg\">\n</audio>\n"
+  },
+  {
+    "question": "33 - Quelle balise permet d'ajouter un bouton dans un formulaire ?",
+    "options": [
+      "<input type=\"submit\">",
+      "<button>",
+      "Les deux",
+      "Aucune des deux"
+    ],
+    "answerIndex": 2,
+    "explication": " On peut utiliser <input type=\"submit\"> ou <button type=\"submit\">. Le second permet d’ajouter du HTML à l’intérieur."
+  },
+  {
+    "question": "34 - Quelle est la différence entre <span> et <div> ?",
+    "options": [
+      "Aucune",
+      "<div> est en ligne, <span> en bloc",
+      "<div> est un bloc, <span> en ligne",
+      "<span> rend le texte gras"
+    ],
+    "answerIndex": 2,
+    "explication": "<div> est un conteneur de type bloc, alors que <span> est un conteneur en ligne."
+  }
+,
+  {
+    "question": "35 - Quelle balise affiche une image de fond ?",
+    "options": [
+      "<img background=\"url.jpg\">",
+      "<background>",
+      "<style background=\"url.jpg\">",
+      "Ce n’est pas une balise HTML, mais du CSS"
+    ],
+    "answerIndex": 3,
+    "explication": "Il faut utiliser CSS pour ajouter une image de fond. \n Exemple: \n body {\n  background-image: url('fond.jpg');\n}\n "
+  }
+,
+  {
+    "question": "36 - Quelle balise est utilisée pour une cellule d’en-tête de tableau ?",
+    "options": [
+      "<header>",
+      "<th>",
+      "<td class=\"header\">",
+      "<thead>"
+    ],
+    "answerIndex": 1,
+    "explication": "<th> (table header) est utilisée pour les titres de colonnes/ligne dans un tableau."
+  }
+,
+  {
+    "question": "37 - Quelle balise permet d’ajouter des métadonnées dans le HTML ?",
+    "options": [
+      "<meta>",
+      "<data>",
+      "<info>",
+      "<keywords>"
+    ],
+    "answerIndex": 0,
+    "explication": "<meta> est utilisée dans le <head> pour fournir des infos comme le charset, la description, etc."
+  }
+,
+  {
+    "question": "38 - Que permet de faire la balise <label> ?",
+    "options": [
+      "Ajouter du texte décoratif",
+      "Lier du texte à un champ de formulaire",
+      "Ajouter un champ obligatoire",
+      "Ajouter un nom de variable"
+    ],
+    "answerIndex": 1,
+    "explication": "<label> est utilisé pour étiqueter un champ de formulaire et améliorer l’accessibilité."
+  }
+,
+  {
+    "question": "39 - Que fait l’attribut placeholder ?",
+    "options": [
+      "Il remplit le champ automatiquement",
+      "Il affiche un exemple temporaire dans un champ",
+      "Il supprime le champ",
+      "Il change la couleur du champ"
+    ],
+    "answerIndex": 1,
+    "explication": "placeholder affiche un texte grisé comme exemple, jusqu’à ce que l’utilisateur saisisse une valeur."
+  }
+,
+  {
+    "question": "40 - Quelle balise HTML est utilisée pour insérer un contenu sémantique principal ?",
+    "options": [
+      "<main>",
+      "<content>",
+      "<container>",
+      "<section>"
+    ],
+    "answerIndex": 0,
+    "explication": "<main> désigne le contenu principal de la page, utile pour les lecteurs d’écran et la sémantique."
+  }
+
+]

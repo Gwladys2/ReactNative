@@ -1,0 +1,333 @@
+[
+  {
+    "question": "1 - Que signifie CSS ?",
+    "options": [
+      "Creative Style Sheets",
+      "Colorful Style Sheets",
+      "Cascading Style Sheets",
+      "Computer Style Sheets"
+    ],
+    "answerIndex": 2,
+    "explications": "CSS signifie Cascading Style Sheets. Il sert à styliser des pages web HTML. Exemple: body {\n  background-color: lightblue;\n}\n"
+  }
+,
+  {
+    "question": "2 - Quelle balise HTML est utilisée pour lier une feuille de style CSS externe ?",
+    "options": [
+      "<style>",
+      "<link>",
+      "<script>",
+      "<css>"
+    ],
+    "answerIndex": 1,
+    "explication": "La balise <link> permet d'inclure une feuille CSS externe dans un fichier HTML. Exemple: <link rel=\"stylesheet\" href=\"styles.css\">\n"
+  },
+  {
+    "question": "3 - Quel symbole est utilisé pour sélectionner une classe en CSS ?",
+    "options": [
+      " #",
+      ".",
+      " *",
+      "$"
+    ],
+    "answerIndex": 1,
+    "explication": "Le point (.) précède un nom de classe. Exemple: .container {\n  padding: 10px;\n}\n"
+  },
+  {
+    "question": "4 - Quel symbole est utilisé pour sélectionner un identifiant (ID) ?",
+    "options": [
+      "#",
+      ".",
+      "@",
+      "*"
+    ],
+    "answerIndex": 0,
+    "explication": " Le # précède un identifiant. Exemple: #header {\n  background-color: grey;\n}\n "
+  },
+  {
+    "question": "5 - Lequel définit une couleur de fond ?",
+    "options": [
+      "font-color",
+      "color",
+      "text-color",
+      "background-color "
+    ],
+    "answerIndex": 3,
+    "explication": "La propriété background-color définit la couleur de fond. Exemple: div {\n  background-color: yellow;\n}\n"
+  },
+  {
+    "question": "6 - Comment rendre un texte en gras ?",
+    "options": [
+      "font-weight: bold;",
+      "font-style: italic;",
+      "text-decoration: underline;",
+      " text-style: bold;"
+    ],
+    "answerIndex": 0,
+    "explication": "font-weight: bold; rend un texte en gras. Exemple: p {\n  font-weight: bold;\n}\n"
+  },
+  {
+    "question": "7 - Quelle propriété permet de changer la couleur du texte ?",
+    "options": [
+      "background-color",
+      "font-color",
+      "color",
+      "text-color"
+    ],
+    "answerIndex": 2,
+    "explication": "color modifie la couleur du texte. Exemple: h1 {\n  color: red;\n}\n"
+  },
+  {
+    "question": "8 - Quel est le sélecteur universel en CSS ?",
+    "options": [
+      "*",
+      ".",
+      "#",
+      "?"
+    ],
+    "answerIndex": 0,
+    "explication": " Le sélecteur * s’applique à tous les éléments HTML. Exemple: * {\n  margin: 0;\n  padding: 0;\n}\n"
+  },
+  {
+    "question": "9 - Quelle unité permet d'utiliser un pourcentage de la largeur du parent ?",
+    "options": [
+      "px",
+      "em",
+      "%",
+      "pt"
+    ],
+    "answerIndex": 2,
+    "explication": "% définit une valeur relative à l’élément parent. Exemple: div {\n  width: 50%;\n}\n"
+  },
+  {
+    "question": "10 - Comment centrer horizontalement un élément en bloc ?",
+    "options": [
+      "margin: center;",
+      "text-align: center;",
+      "margin: 0 auto;",
+      "align: center;"
+    ],
+    "answerIndex": 2,
+    "explication": "margin: 0 auto; centre un bloc horizontalement si une largeur est définie. Exemple: .container {\n  width: 300px;\n  margin: 0 auto;\n}\n"
+  },
+  {
+    "question": "11 - Quelle propriété contrôle la taille du texte ?",
+    "options": [
+      "text-size",
+      "font-size",
+      "text-height",
+      "font"
+    ],
+    "answerIndex": 1,
+    "explication": "font-size définit la taille du texte. Exemple: p {\n  font-size: 18px;\n}\n"
+  },
+  {
+    "question": "12 - Comment rendre un texte en italique ?",
+    "options": [
+      "font-weight: light;",
+      "text-transform: italic;",
+      "font-variant: italic;",
+      "font-style: italic;"
+    ],
+    "answerIndex": 3,
+    "explication": "font-style: italic; applique l’italique. Exemple: em {\n  font-style: italic;\n}\n"
+  },
+  {
+    "question": "13 - Quelle propriété ajoute de l’espace à l’intérieur d’un élément ?",
+    "options": [
+      "margin",
+      " border",
+      "padding",
+      "spacing"
+    ],
+    "answerIndex": 2,
+    "explication": "padding ajoute de l’espace intérieur, entre le contenu et la bordure. Exemple: .box {\n  padding: 20px;\n}\n"
+  },
+  {
+    "question": "14 - Quelle propriété ajoute de l’espace à l’extérieur d’un élément ?",
+    "options": [
+      "padding",
+      "margin",
+      "border-spacing",
+      "offset"
+    ],
+    "answerIndex": 1,
+    "explication": "margin crée un espace autour d’un élément (extérieur). Exemple: .box {\n  margin: 10px;\n}\n"
+  },
+  {
+    "question": "15 - Quelle propriété change la police d’un texte ?",
+    "options": [
+      "font-family",
+      "font-type",
+      "text-font",
+      "font-style"
+    ],
+    "answerIndex": 0,
+    "explication": "Explication : font-family définit la famille de polices. Exemple: body {\n  font-family: Arial, sans-serif;\n}\n"
+  },
+  {
+    "question": "16 - Quelle valeur donne un affichage horizontal à des éléments ?",
+    "options": [
+      "display: block",
+      "display: inline",
+      "display: center",
+      "float: left"
+    ],
+    "answerIndex": 1,
+    "explication": "display: inline; affiche les éléments à la suite, sans saut de ligne.\n\n Exemple: span {\n  display: inline;\n}\n"
+  },
+  {
+    "question": "17 - Quelle propriété permet d’ajouter une bordure ?",
+    "options": [
+      "border ",
+      "outline",
+      "stroke",
+      "line"
+    ],
+    "answerIndex": 0,
+    "explication": "border ajoute une bordure autour d’un élément. Exemple: div {\n  border: 1px solid black;\n}\n"
+  },
+  {
+    "question": " 18 -Quel mot-clé CSS permet d’hériter une propriété du parent ?",
+    "options": [
+      "inherit",
+      "initial",
+      "default",
+      "auto"
+    ],
+    "answerIndex": 0,
+    "explication": "inherit force l’héritage d’une propriété CSS. Explication: p {\n color: inherit;\n}\n"
+  },
+  {
+    "question": " 19 - Que fait la propriété text-align: center; ?",
+    "options": [
+      "Centre l’élément",
+      " Centre le texte à l’intérieur",
+      "Aligne l’élément à gauche",
+      "Agrandit le texte"
+    ],
+    "answerIndex": 1,
+    "explication": "text-align aligne le contenu textuel à l’intérieur de l’élément. Explication: h2 {\n text-align: center;\n}\n"
+  },
+  {
+    "question": "20 - Quelle valeur de position permet de fixer un élément à un endroit précis même au scroll ?",
+    "options": [
+      "relative",
+      "absolute",
+      "fixed",
+      "sticky"
+    ],
+    "answerIndex": 2,
+    "explication": "position: fixed; fige un élément par rapport à la fenêtre. Explication: nav {\n position: fixed; \n top: 0; \n width: 100%;\n}"
+  },
+  {
+    "question": "21 - Quel mot-clé CSS applique un style uniquement si aucun autre n’a été défini ?",
+    "options": [
+      "auto",
+      "initial",
+      "default",
+      "inherit"
+    ],
+    "answerIndex": 1,
+    "explication": "initial rétablit la valeur par défaut du navigateur. Exemple: div {\n display: initial; \n}\n"
+  },
+  {
+    "question": "22 - Quelle propriété permet de souligner du texte ?",
+    "options": [
+      "text-decoration",
+      "underline",
+      "decoration",
+      "font-effect"
+    ],
+    "answerIndex": 0,
+    "explication": "text-decoration: underline; applique un soulignement. Exemple: a { \n text-decoration: underline; \n}\n"
+  },
+  {
+    "question": "23 - Comment rendre un élément invisible sans le retirer du flux ?",
+    "options": [
+      "display: none",
+      "visibility: hidden",
+      "z-index: -1",
+      "opacity: 0"
+    ],
+    "answerIndex": 3,
+    "explication": "opacity: 0; rend invisible tout en gardant la place de l’élément. Exemple: .box { \n opacity: 0; \n }\n"
+  },
+  {
+    "question": "24 - Quel mot-clé permet de cibler un élément enfant direct ?",
+    "options": [
+      "+",
+      ">",
+      "~",
+      "/"
+    ],
+    "answerIndex": 1,
+    "explication": "> cible les enfants directs d’un élément parent. Exemple: ul > li { \n color: blue; \n }\n"
+  },
+  {
+    "question": "25 - Quelle pseudo-classe cible le premier élément d’un groupe ?",
+    "options": [
+      ":first-child",
+      ":first",
+      ":start",
+      ":head"
+    ],
+    "answerIndex": 0,
+    "explication": " :first-child cible le premier enfant d’un parent. Exemple: p:first-child { \n font-weight: bold; \n }\n"
+  },
+  {
+    "question": "26 - Que fait display: none; ?",
+    "options": [
+      "Réduit l’opacité",
+      "Supprime la bordure",
+      "Cache l’élément et le supprime du flux",
+      "Le transforme en commentaire"
+    ],
+    "answerIndex": 2,
+    "explication": "display: none; retire l’élément visuellement et structurellement.\n Exemple:\n .alert { \n display: none; \n}\n"
+  },
+  {
+    "question": "27 - Quelle propriété ajoute une ombre au texte ?",
+    "options": [
+      "box-shadow",
+      "shadow-text",
+      "text-shadow",
+      "font-shadow"
+    ],
+    "answerIndex": 3,
+    "explication": "text-shadow ajoute une ombre aux caractères.\n Exemple: \n h1 { \n text-shadow: 2px 2px 4px gray;\n}\n"
+  },
+  {
+    "question": "28 - Quelle propriété permet de transformer un texte en majuscules ?",
+    "options": [
+      "text-format",
+      "font-style",
+      "text-transform",
+      "font-case"
+    ],
+    "answerIndex": 2,
+    "explication": " text-transform: uppercase; rend le texte en majuscules.\n Exemple:\n h2 { \n text-transform: uppercase; \n }\n"
+  },
+  {
+    "question": "29 - Quel sélecteur cible TOUS les paragraphes dans une div avec la classe .content ?",
+    "options": [
+      "div p",
+      ".content p",
+      "p.content",
+      "div.content > p"
+    ],
+    "answerIndex": 1,
+    "explication": ".content p cible tous les <p> dans une balise avec classe content. \n Exemple: \n .content p { \n color: green; \n }\n"
+  },
+  {
+    "question": "30 - Quelle propriété permet de gérer le débordement du contenu ?",
+    "options": [
+      "overflow",
+      "scroll",
+      "hidden",
+      "clip"
+    ],
+    "answerIndex": 0,
+    "explication": "overflow gère ce qui se passe quand le contenu dépasse un élément.\n Exemple:\n .box { \n width: 100px; \n height: 100px; \n overflow: auto; \n } \n"
+  }
+]

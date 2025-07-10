@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Quelle est la fonction principale de la balise <template> en HTML5 ?",
+    "options": [
+      "Créer un formulaire",
+      "Afficher un texte temporaire",
+      "Définir un fragment HTML invisible pour usage ultérieur",
+      "Ajouter des métadonnées"
+    ],
+    "answerIndex": 2,
+    "explications": "La balise <template> permet de définir du contenu HTML qui n'est pas rendu à l'affichage, mais peut être cloné dynamiquement via JavaScript. Exemple: <template id=\"user-template\">\n  <div class=\"user-card\">\n    <h2></h2>\n    <p></p>\n  </div>\n</template>\n"
+  },
+  {
+    "question": "Que signifie l'attribut aria-label en HTML ?",
+    "options": [
+      "C’est une nouvelle balise HTML",
+      "C’est un attribut pour les lecteurs d’écran",
+      "Il sert à styliser un bouton",
+      " Il affiche un label visible au survol"
+    ],
+    "answerIndex": 1,
+    "explication": "Les attributs aria-* (Accessible Rich Internet Applications) améliorent l’accessibilité des interfaces pour les technologies d’assistance."
+  },
+  {
+    "question": "Quel attribut permet de désactiver un champ de formulaire HTML ?",
+    "options": [
+      "inactive",
+      "readonly",
+      "closed",
+      "disabled"
+    ],
+    "answerIndex": 3,
+    "explication": "L’attribut disabled empêche l’utilisateur d’interagir avec le champ."
+  },
+  {
+    "question": "Quelle est la différence entre readonly et disabled sur un champ <input> ?",
+    "options": [
+      "readonly empêche la saisie mais pas la sélection, disabled désactive complètement",
+      "Les deux font la même chose",
+      "disabled est utilisé en CSS uniquement",
+      "readonly masque le champ"
+    ],
+    "answerIndex": 0,
+    "explications": "readonly permet de copier le texte, mais pas de le modifier. disabled le rend totalement inactif."
+  },
+  {
+    "question": "À quoi sert la balise <output> en HTML ?",
+    "options": [
+      "À afficher des erreurs",
+      "À afficher un résultat calculé par JavaScript",
+      "À créer un champ de recherche",
+      " À dessiner avec Canvas"
+    ],
+    "answerIndex": 1,
+    "explication": "<output> est utilisée pour afficher des résultats, souvent en lien avec des calculs dynamiques. Exemple: <form oninput=\"result.value = a.valueAsNumber + b.valueAsNumber\">\n  <input type=\"number\" name=\"a\"> +\n  <input type=\"number\" name=\"b\"> =\n  <output name=\"result\"></output>\n</form>\n"
+  },
+  {
+    "question": "Que fait l’attribut autocomplete sur un formulaire ou un champ ?",
+    "options": [
+      "Il empêche les erreurs de saisie",
+      "Il enregistre les saisies dans une base de données",
+      "Il valide automatiquement le formulaire",
+      "Il autorise ou interdit la saisie automatique par le navigateur"
+    ],
+    "answerIndex": 3,
+    "explication": "L’attribut autocomplete permet d’indiquer au navigateur s’il doit pré-remplir automatiquement les champs d’un formulaire avec des valeurs précédemment saisies par l’utilisateur.\n\nCela améliore l’expérience utilisateur en évitant de devoir ressaisir à chaque fois une adresse e-mail, un nom, une adresse, etc.\n\nIl peut être utilisé :\n\nSur la balise <form> : pour activer/désactiver l’autocomplétion globale du formulaire.\n\nSur les balises <input> individuellement : pour contrôler champ par champ.\n"
+  },
+  {
+    "question": "Quelle est la finalité de l'attribut hidden en HTML5 ?",
+    "options": [
+      "Masquer un élément à l'affichage",
+      "Supprimer un élément du DOM",
+      "Rendre l'élément invisible seulement sur mobile",
+      " Le rendre accessible uniquement avec JavaScript"
+    ],
+    "answerIndex": 0,
+    "explications": "hidden est un attribut booléen qui cache un élément sans le supprimer du code source."
+  },
+  {
+    "question": "Quelle balise HTML5 est conçue pour indiquer une zone de navigation ?",
+    "options": [
+      "<nav>",
+      "<aside>",
+      "<menu>",
+      "<section>"
+    ],
+    "answerIndex": 0,
+    "explication": "<nav> est utilisée pour regrouper des liens de navigation (menu principal, pagination, etc.)."
+  },
+  {
+    "question": "Que fait l’attribut form sur un bouton ou un champ ?",
+    "options": [
+      "Il relie une balise <label> à un champ",
+      "Il redirige le formulaire vers une autre page",
+      " Il permet de cibler un formulaire spécifique en dehors de la balise <form>",
+      " Il remplit automatiquement les champs"
+    ],
+    "answerIndex": 2,
+    "explication": "Un champ ou bouton peut être lié à un formulaire même s’il n’est pas imbriqué dedans via form=\"id_du_formulaire\"."
+  },
+  {
+    "question": "Quelle balise HTML est utilisée pour insérer des données tabulaires avec des relations complexes (ex: résumé, colonne multi-lignes) ?\n",
+    "options": [
+      "<grid>",
+      "<table>",
+      "<complex-table>",
+      "<data>"
+    ],
+    "answerIndex": 1,
+    "explications": "Bien que seule la balise <table> existe, les relations complexes doivent être structurées avec <thead>, <tbody>, <tfoot>, et les attributs rowspan / colspan."
+  },
+  {
+    "question": "Quelle est l'utilité de la balise <details> ?",
+    "options": [
+      "Cacher du contenu secret",
+      "Ajouter des informations à une image",
+      "Créer un bloc de citation",
+      "Afficher un résumé déroulable"
+    ],
+    "answerIndex": 3,
+    "explication": "<details> crée un bloc dépliable. Combinée avec <summary>, elle offre une UI native pour afficher/masquer du contenu."
+  },
+  {
+    "question": "Pourquoi utilise-t-on l’attribut novalidate dans un formulaire ?",
+    "options": [
+      "Pour améliorer l’accessibilité",
+      "Pour désactiver la validation HTML5",
+      "Pour valider côté serveur uniquement",
+      "Pour effacer automatiquement les erreurs"
+    ],
+    "answerIndex": 1,
+    "explication": "L’attribut novalidate empêche le navigateur d’effectuer une validation automatique à la soumission du formulaire."
+  }
+]

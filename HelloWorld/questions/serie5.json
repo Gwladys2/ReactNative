@@ -1,0 +1,560 @@
+[
+  {
+    "question": "1. Comment déclare-t-on une variable en JavaScript ?",
+    "options": [
+      "int x = 5",
+      "x := 5",
+      "let x = 5",
+      "var x == 5"
+    ],
+    "answerIndex": 2,
+    "explications": "let permet de déclarer une variable modifiable. \n Exemple:\n let age = 30; "
+  }
+,
+  {
+    "question": "2 - Quelle est la différence entre let et const ?",
+    "options": [
+      " Aucune différence",
+      "let crée une constante",
+      "const est utilisée dans les boucles",
+      "const ne peut pas être modifiée"
+    ],
+    "answerIndex": 3,
+    "explication": "const signifie que la valeur ne peut pas être changée. \n Exemple:\n const pi = 3.14; // impossible de faire pi = 4;"
+  },
+  {
+    "question": "3 - Quel est le type de \"Hello\" ?",
+    "options": [
+      "text",
+      "string",
+      "char",
+      "object"
+    ],
+    "answerIndex": 3,
+    "explication": "Une chaîne de caractères est de type \"string\". \n Exemple:\n console.log(typeof \"Hello\"); // \"string\" "
+    },
+    {
+    "question": "4 - Que renvoie typeof null ?",
+    "options": [
+      "null",
+      "object",
+      "undefined",
+      "boolean"
+    ],
+    "answerIndex": 1,
+    "explication": " C’est un bug historique dans JavaScript. \n Exemple:\n console.log(typeof null); // \"object\""
+  },
+  {
+    "question": "5 - Quelle méthode affiche un message dans la console ?",
+    "options": [
+      "print()",
+      "alert()",
+      "console.log()",
+      "write()"
+    ],
+    "answerIndex": 2,
+    "explication": "\n Exemple:\n console.log(\"coucou\");"
+  },
+  {
+    "question": "6 - Que vaut 2 + \"2\" ?",
+    "options": [
+      "4",
+      "22",
+      "NaN",
+      "undefined"
+    ],
+    "answerIndex": 1,
+    "explication": "Le chiffre 2 est converti en chaîne, donc on concatène. \n Exemple:\n console.log(2 + \"2\"); // \"22\" "
+  },
+  {
+    "question": "7 - Quelle est la sortie de 3 == \"3\" ? ",
+    "options": [
+      "true",
+      "false",
+      "undefined",
+      "NaN"
+    ],
+    "answerIndex": 0,
+    "explication": " === compare la valeur ET le type.\n Exemple: \n console.log(3 === \"3\"); // false"
+  },
+  {
+    "question": "8 - Quelle est la sortie de 3 === \"3\" ? ",
+    "options": [
+      "true",
+      "false",
+      "undefined",
+      "true si dans une condition"
+    ],
+    "answerIndex": 1,
+    "explication": "=== compare la valeur ET le type. \n Exemple: \n console.log(3 === \"3\"); // false\n }"
+  },
+  {
+    "question": "9 -  Que fait alert(\"Bonjour\") ?",
+    "options": [
+      "Envoie un mail",
+      "Redémarre la page",
+      "Affiche dans la console",
+      "Affiche une boîte de dialogue"
+    ],
+    "answerIndex": 3,
+    "explication": "Affiche un message dans une pop-up.\n Exemple: \n alert(\"Bonjour !\"); \n "
+  },
+  {
+    "question": "10 - Que renvoie typeof undefined ?",
+    "options": [
+      "null",
+      "object",
+      "undefined",
+      "string"
+    ],
+    "answerIndex": 2,
+    "explication": "Une variable non initialisée est undefined."
+  },
+  {
+    "question": "11 -Quelle méthode permet de convertir une chaîne en nombre ?",
+    "options": [
+      "Number()",
+      "String()",
+      "parseText()",
+      "toNumber()"
+
+
+    ],
+    "answerIndex": 0,
+    "explication": "Number(\"5\") donne le nombre 5. \n Exemple: \n let x = Number(\"42\"); // x = 42"
+  },
+  {
+    "question": "12 - Que fait NaN en JavaScript ?",
+    "options": [
+      "C'est un mot-clé réservé",
+      "Signifie \"Not a Number\" ",
+      "C'est une erreur",
+      "Une chaîne vide"
+      
+    ],
+    "answerIndex": 1,
+    "explication": " NaN apparaît quand une opération ne donne pas un nombre. \n Exemple:\n  let x = \"hello\" * 3; // NaN"
+  },
+  {
+    "question": "13 -Comment créer une fonction ?",
+    "options": [
+      "function = myFunc()",
+      "create function myFunc()",
+      "function myFunc() {}",
+      " define myFunc()"
+    ],
+    "answerIndex": 2,
+    "explication": "C’est la syntaxe de base d’une fonction."
+  },
+  {
+    "question": "14 - Comment appelle-t-on une fonction saluer ?",
+    "options": [
+      "saluer.call()",
+      "run saluer",
+      "saluer();",
+      "execute saluer"
+    ],
+    "answerIndex": 3,
+    "explication": " On appelle une fonction avec (). \n Exemple: \n function saluer() { \n alert(\"Bonjour !\"); \n } \n saluer();"
+  },
+  {
+    "question": "15 - Que signifie return dans une fonction ?",
+    "options": [
+      "Elle arrête le script",
+      "Elle affiche une alerte ",
+      "Elle renvoie une valeur",
+      "Elle supprime une variable"
+    ],
+    "answerIndex": 2,
+    "explication": "return renvoie une valeur utilisable ensuite. \n Exemple: \n function addition(a, b) { \n return a + b; \n } \n let resultat = addition(3, 4); // 7"
+  },
+  {
+    "question": "16 - Quelle est la bonne syntaxe pour une condition if ?",
+    "options": [
+      "if x > 10 then {...}",
+      "if (x > 10) {...}",
+      "if x > 10: {...}",
+      "if x > 10 do {...}"
+    ],
+    "answerIndex": 1,
+    "explication": " En JavaScript, une condition est toujours entre parenthèses et le bloc entre accolades. \n Exemple: \n let age = 20; \n if (age >= 18) { \n console.log(\"Majeur\"); \n }"
+  },
+  {
+    "question": "17 - Comment écrire un commentaire sur une seule ligne ?",
+    "options": [
+      "/* commentaire */",
+      "// commentaire",   
+      "-- commentaire",
+      "# commentaire"
+    ],
+    "answerIndex": 1,
+    "explication": "// est utilisé pour les commentaires sur une seule ligne. \n Exemple: \n // Ceci est un commentaire \n let x = 5; \n "
+  },
+  {
+    "question": "18 - Quelle méthode permet de vérifier si une variable est un tableau ? ",
+    "options": [
+      "Array.isArray()",
+      "isArray()",
+      "typeof",
+      "instanceof Array()"
+    ],
+    "answerIndex": 0,
+    "explication": "Array.isArray() est la méthode officielle pour tester si une variable est un tableau.\n Exemple: \n let fruits = [\"pomme\", \"banane\"]; \n console.log(Array.isArray(fruits)); // true"
+  },
+  {
+    "question": "19 - Que fait push() ?",
+    "options": [ 
+      "Supprime un élément",
+      "Trie le tableau",
+      "Ajoute un élément à la fin du tableau",
+      " Vide le tableau"
+    ],
+    "answerIndex": 2,
+    "explication": "push() ajoute un ou plusieurs éléments à la fin d’un tableau. \n Exemple: \n let couleurs = [\"rouge\"]; \n couleurs.push(\"bleu\"); // [\"rouge\", \"bleu\"]"
+  },
+  {
+    "question": "20 - Que fait pop() ?",
+    "options": [
+      "Supprime le dernier élément du tableau",
+      "Supprime le premier élément",
+      "Vide complètement le tableau",
+      "Ajoute un élément"
+    ],
+    "answerIndex": 0,
+    "explication": "pop() enlève et renvoie le dernier élément du tableau. \n Exemple: \n let chiffres = [1, 2, 3]; \n chiffres.pop(); // [1, 2]"
+  },
+  {
+    "question": "21 - Que renvoie true && false ?",
+    "options": [
+      " true",
+      "false",
+      "undefined",
+      "null"
+    ],
+    "answerIndex": 1,
+    "explication": "L’opérateur && retourne true seulement si les deux conditions sont vraies \n Exemple: \n .console.log(true && false); // false \n "
+  },
+  {
+    "question": "22 - Comment vérifier si une variable est undefined ?",
+    "options": [
+      "x == null",
+      "x.isUndefined()",
+      "typeof x === \"undefined\"",
+      "x == undefined"
+    ],
+    "answerIndex": 2,
+    "explication": "typeof permet de tester le type d'une variable même si elle n'existe pas encore.\n Exemple: \n let x; \n if (typeof x === \"undefined\") { \n console.log(\"x n'est pas défini\");\n}"
+  },
+  {
+    "question": "23 - Quel opérateur signifie OU logique ?",
+    "options": [
+      " &&",
+      "||",
+      "==",
+      "!=="
+    ],
+    "answerIndex": 1,
+    "explication": "|| renvoie true si l’une des deux conditions est vraie. \n Exemple: \n let age = 16; \n if (age < 18 || age > 65) { \n console.log(\"Tarif réduit\"); \n}"
+  },
+  {
+    "question": "24 - Que fait Math.random() ?",
+    "options": [
+      "Renvoie une valeur fixe",
+      "Trie les nombres aléatoirement",
+      "Renvoie un entier aléatoire",
+      "Renvoie un nombre décimal aléatoire entre 0 et 1"
+    ],
+    "answerIndex": 2,
+    "explication": "Math.random() retourne un nombre flottant pseudo-aléatoire entre 0 (inclus) et 1 (exclus). \n Exemple: \n  let alea = Math.random(); \n console.log(alea); // Ex: 0.3748"
+},
+  {
+    "question": "25 - Que fait \"abc\".toUpperCase() ?",
+    "options": [
+      "Remplace les lettres par des chiffres",
+      "Transforme la chaîne en majuscules",
+      "Supprime les accents",
+      "Coupe la chaîne"
+    ],
+    "answerIndex": 1,
+    "explication": "La méthode toUpperCase() renvoie une nouvelle chaîne avec toutes les lettres en majuscules. \n Exemple: \n let nom = \"alice\"; \n console.log(nom.toUpperCase()); // \"ALICE\""
+  },
+  {
+    "question": "26 - Que renvoie \"5\"== 5 ?",
+    "options": [
+      "true",
+      "false",
+      "erreur",
+      "undefined"
+    ],
+    "answerIndex": 0,
+    "explication": "== effectue une conversion de type avant de comparer, donc \"5\" est converti en nombre. \n Exemple: \n console.log(\"5\" == 5); // true"
+  },
+  {
+    "question": "27 - Et que renvoie \"5\" === 5 ?",
+    "options": [
+      "true",
+      "erreur",
+      "undefined",
+      "false"
+    ],
+    "answerIndex": 3,
+    "explication": "=== compare sans conversion, donc types différents = false. \n Exemple: console.log(\"5\" === 5); // false"
+  },
+  {
+    "question": "28 - Que fait break dans une boucle ?",
+    "options": [
+      "Ignore l’itération",
+      "Sort de la boucle immédiatement",
+      "Pause la boucle",
+      "Réinitialise la boucle"
+    ],
+    "answerIndex": 1,
+    "explication": "break arrête une boucle dès qu’elle est rencontrée. \n Exemple: \n for (let i = 0; i < 5; i++) { \n if (i === 3) break; \n console.log(i); // 0, 1, 2 \n }"
+  },
+  {
+    "question": "29 - Que fait continue ?",
+    "options": [
+      "Arrête la boucle",
+      "Relance toute la boucle",
+      "Passe à l’itération suivante",
+      "Supprime un élément"
+    ],
+    "answerIndex": 2,
+    "explication": "continue saute l’itération courante sans arrêter la boucle.\n Exemple: \n  for (let i = 0; i < 5; i++) { \n if (i === 2) continue; \n console.log(i); // 0, 1, 3, 4}"
+  },
+  {
+    "question": "30 - Structure de base d'une boucle for ",
+    "options": [
+      "for (initialisation; condition; incrément)",
+      "for condition then block",
+      "for (let i in array)",
+      "foreach(i of array)"
+    ],
+    "answerIndex": 0,
+    "explication": "La structure classique du for contrôle l’index, la condition de sortie, et l’incrément.\n Exemple: \n for (let i = 0; i < 3; i++) { \n console.log(i); // 0, 1, 2 \n }"
+  },
+  {
+    "question": "31. Quelle méthode permet de joindre les éléments d’un tableau en une seule chaîne ?",
+    "options": [
+      "combine()",
+      "sum()",
+      "join()",
+      "concat()"
+    ],
+    "answerIndex": 2,
+    "explications": ".join() transforme un tableau en chaîne, séparée par un caractère choisi. \n Exemple:\n let fruits = [\"pomme\", \"banane\"]; \n console.log(fruits.join(', '));// \"pomme, banane\""
+  }
+,
+  {
+    "question": "32 - ",
+    "options": [
+      " Aucune différence",
+      "let crée une constante",
+      "const est utilisée dans les boucles",
+      "const ne peut pas être modifiée"
+    ],
+    "answerIndex": 3,
+    "explication": "const signifie que la valeur ne peut pas être changée. \n Exemple:\n const pi = 3.14; // impossible de faire pi = 4;"
+  },
+  {
+    "question": "33 - ",
+    "options": [
+      "text",
+      "string",
+      "char",
+      "object"
+    ],
+    "answerIndex": 3,
+    "explication": "Une chaîne de caractères est de type \"string\". \n Exemple:\n console.log(typeof \"Hello\"); // \"string\" "
+    },
+    {
+    "question": "34 - ",
+    "options": [
+      "null",
+      "object",
+      "undefined",
+      "boolean"
+    ],
+    "answerIndex": 1,
+    "explication": " C’est un bug historique dans JavaScript. \n Exemple:\n console.log(typeof null); // \"object\""
+  },
+  {
+    "question": "5 - Quelle méthode affiche un message dans la console ?",
+    "options": [
+      "print()",
+      "alert()",
+      "console.log()",
+      "write()"
+    ],
+    "answerIndex": 2,
+    "explication": "\n Exemple:\n console.log(\"coucou\");"
+  },
+  {
+    "question": "6 - Que vaut 2 + \"2\" ?",
+    "options": [
+      "4",
+      "22",
+      "NaN",
+      "undefined"
+    ],
+    "answerIndex": 1,
+    "explication": "Le chiffre 2 est converti en chaîne, donc on concatène. \n Exemple:\n console.log(2 + \"2\"); // \"22\" "
+  },
+  {
+    "question": "7 - Quelle est la sortie de 3 == \"3\" ? ",
+    "options": [
+      "true",
+      "false",
+      "undefined",
+      "NaN"
+    ],
+    "answerIndex": 0,
+    "explication": " === compare la valeur ET le type.\n Exemple: \n console.log(3 === \"3\"); // false"
+  },
+  {
+    "question": "8 - Quelle est la sortie de 3 === \"3\" ? ",
+    "options": [
+      "true",
+      "false",
+      "undefined",
+      "true si dans une condition"
+    ],
+    "answerIndex": 1,
+    "explication": "=== compare la valeur ET le type. \n Exemple: \n console.log(3 === \"3\"); // false\n }"
+  },
+  {
+    "question": "9 -  Que fait alert(\"Bonjour\") ?",
+    "options": [
+      "Envoie un mail",
+      "Redémarre la page",
+      "Affiche dans la console",
+      "Affiche une boîte de dialogue"
+    ],
+    "answerIndex": 3,
+    "explication": "Affiche un message dans une pop-up.\n Exemple: \n alert(\"Bonjour !\"); \n "
+  },
+  {
+    "question": "10 - Que renvoie typeof undefined ?",
+    "options": [
+      "null",
+      "object",
+      "undefined",
+      "string"
+    ],
+    "answerIndex": 2,
+    "explication": "Une variable non initialisée est undefined."
+  },
+  {
+    "question": "11 -Quelle méthode permet de convertir une chaîne en nombre ?",
+    "options": [
+      "Number()",
+      "String()",
+      "parseText()",
+      "toNumber()"
+
+
+    ],
+    "answerIndex": 0,
+    "explication": "Number(\"5\") donne le nombre 5. \n Exemple: \n let x = Number(\"42\"); // x = 42"
+  },
+  {
+    "question": "12 - Que fait NaN en JavaScript ?",
+    "options": [
+      "C'est un mot-clé réservé",
+      "Signifie \"Not a Number\" ",
+      "C'est une erreur",
+      "Une chaîne vide"
+      
+    ],
+    "answerIndex": 1,
+    "explication": " NaN apparaît quand une opération ne donne pas un nombre. \n Exemple:\n  let x = \"hello\" * 3; // NaN"
+  },
+  {
+    "question": "13 -Comment créer une fonction ?",
+    "options": [
+      "function = myFunc()",
+      "create function myFunc()",
+      "function myFunc() {}",
+      " define myFunc()"
+    ],
+    "answerIndex": 2,
+    "explication": "C’est la syntaxe de base d’une fonction."
+  },
+  {
+    "question": "14 - Comment appelle-t-on une fonction saluer ?",
+    "options": [
+      "saluer.call()",
+      "run saluer",
+      "saluer();",
+      "execute saluer"
+    ],
+    "answerIndex": 3,
+    "explication": " On appelle une fonction avec (). \n Exemple: \n function saluer() { \n alert(\"Bonjour !\"); \n } \n saluer();"
+  },
+  {
+    "question": "15 - Que signifie return dans une fonction ?",
+    "options": [
+      "Elle arrête le script",
+      "Elle affiche une alerte ",
+      "Elle renvoie une valeur",
+      "Elle supprime une variable"
+    ],
+    "answerIndex": 2,
+    "explication": "return renvoie une valeur utilisable ensuite. \n Exemple: \n function addition(a, b) { \n return a + b; \n } \n let resultat = addition(3, 4); // 7"
+  },
+  {
+    "question": "16 - Quelle est la bonne syntaxe pour une condition if ?",
+    "options": [
+      "if x > 10 then {...}",
+      "if (x > 10) {...}",
+      "if x > 10: {...}",
+      "if x > 10 do {...}"
+    ],
+    "answerIndex": 1,
+    "explication": " En JavaScript, une condition est toujours entre parenthèses et le bloc entre accolades. \n Exemple: \n let age = 20; \n if (age >= 18) { \n console.log(\"Majeur\"); \n }"
+  },
+  {
+    "question": "17 - Comment écrire un commentaire sur une seule ligne ?",
+    "options": [
+      "/* commentaire */",
+      "// commentaire",   
+      "-- commentaire",
+      "# commentaire"
+    ],
+    "answerIndex": 1,
+    "explication": "// est utilisé pour les commentaires sur une seule ligne. \n Exemple: \n // Ceci est un commentaire \n let x = 5; \n "
+  },
+  {
+    "question": "18 - Quelle méthode permet de vérifier si une variable est un tableau ? ",
+    "options": [
+      "Array.isArray()",
+      "isArray()",
+      "typeof",
+      "instanceof Array()"
+    ],
+    "answerIndex": 0,
+    "explication": "Array.isArray() est la méthode officielle pour tester si une variable est un tableau.\n Exemple: \n let fruits = [\"pomme\", \"banane\"]; \n console.log(Array.isArray(fruits)); // true"
+  },
+  {
+    "question": "19 - Que fait push() ?",
+    "options": [ 
+      "Supprime un élément",
+      "Trie le tableau",
+      "Ajoute un élément à la fin du tableau",
+      " Vide le tableau"
+    ],
+    "answerIndex": 2,
+    "explication": "push() ajoute un ou plusieurs éléments à la fin d’un tableau. \n Exemple: \n let couleurs = [\"rouge\"]; \n couleurs.push(\"bleu\"); // [\"rouge\", \"bleu\"]"
+  },
+  {
+    "question": "20 - Que fait pop() ?",
+    "options": [
+      "Supprime le dernier élément du tableau",
+      "Supprime le premier élément",
+      "Vide complètement le tableau",
+      "Ajoute un élément"
+    ],
+    "answerIndex": 0,
+    "explication": "pop() enlève et renvoie le dernier élément du tableau. \n Exemple: \n let chiffres = [1, 2, 3]; \n chiffres.pop(); // [1, 2]"
+  }
+]
