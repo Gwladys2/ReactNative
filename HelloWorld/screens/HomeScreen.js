@@ -5,10 +5,11 @@ import { ProgressContext } from '../context/ProgressContext';
 import HeaderStats from '../components/HeaderStats';
 
 export default function HomeScreen({ navigation }) {
-    const { xp, lives, updateProgress, loading } = useContext(ProgressContext);
+    const { xp, lives, updateProgress, loading, livesEarnedFromXp } = useContext(ProgressContext);
 
     const  recommencer=()=>{
-         updateProgress(0, 0);
+         updateProgress(0, 5, 1, true);
+
     }
 
     const handleLessonStart = () => {
@@ -16,7 +17,7 @@ export default function HomeScreen({ navigation }) {
     };
 
     const handleRestart = async () => {
-        await updateProgress(xp, 5);
+        await updateProgress(0, 5, 1, true);
         navigation.navigate('Lesson');
     };
 
@@ -42,6 +43,7 @@ export default function HomeScreen({ navigation }) {
                 <Button title="Recommencer" onPress={recommencer} color="#ff4444" />
             )
             }
+        
 
         </View>
     );

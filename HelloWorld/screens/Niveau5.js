@@ -1,6 +1,6 @@
 import React, { useContext, useState } from 'react';
 import { View, Text, Button, StyleSheet, Alert } from 'react-native';
-import questions from '../questions/serie2.json';
+import questions from '../questions/serie5.json';
 import { ProgressContext } from '../context/ProgressContext';
 import HeaderStats from '../components/HeaderStats';
 

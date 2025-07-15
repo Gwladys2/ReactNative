@@ -71,8 +71,8 @@ export default function LessonScreen({ navigation }) {
                         title="Retour à la sélection des niveaux"
                         onPress={() => navigation.navigate('HomeScreen2')}
                         color="#ff4444"
-                   
                    />
+                 
                 </>
             ) : (
                 <>
