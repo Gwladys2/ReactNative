@@ -13,12 +13,12 @@ export default function HomeScreen({ navigation }) {
     }
 
     const handleLessonStart = () => {
-        navigation.navigate('Lesson');
+        navigation.navigate('HomeScreen2');
     };
 
     const handleRestart = async () => {
         await updateProgress(0, 5, 1, true);
-        navigation.navigate('Lesson');
+        navigation.navigate('HomeScreen2');
     };
 
     if (loading) {

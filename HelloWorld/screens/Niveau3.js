@@ -49,7 +49,7 @@ export default function LessonScreen({ navigation }) {
 
     const handleRestart = async () => {
         await updateProgress(0, 5);
-        navigation.navigate('Lesson');
+        navigation.navigate('HomeScreen2');
     };
 
     return (

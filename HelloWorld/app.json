@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Développement web",
-    "slug": "Développement web",
+    "slug": "developpement-web",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/gladDevLogo.png",
@@ -20,10 +20,16 @@
         "foregroundImage": "./assets/gladDevLogo.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.gwladys77.developpementweb"
     },
     "web": {
       "favicon": "./assets/gladDevLogo.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "06eb09c3-284d-41a9-863a-c3b48504189e"
+      }
     }
   }
 }
