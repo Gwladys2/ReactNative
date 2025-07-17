@@ -10,16 +10,16 @@ export default function LoadingScreen({ navigation }) {
         if (!loading) {
             switch (niveau) {
                 case 1:
-                    navigation.replace('Lesson'); // Niveau 1
+                    navigation.replace('HTML 1'); // Niveau 1
                     break;
                 case 2:
-                    navigation.replace('Niveau2');
+                    navigation.replace('HTML 2');
                     break;
                 case 3:
-                    navigation.replace('Niveau3');
+                    navigation.replace('CSS 1');
                     break;
                 default:
-                    navigation.replace('Home'); // par défaut
+                    navigation.replace('Accueil'); // par défaut
             }
         }
     }, [loading]);

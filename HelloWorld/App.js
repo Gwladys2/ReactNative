@@ -10,7 +10,7 @@ import Niveau5 from './screens/Niveau5';
 import Niveau6 from './screens/Niveau6';
 import LoadingScreen from "./screens/LoadingScreen";
 import { ProgressProvider } from './context/ProgressContext';
-import HomeScreen2 from './screens/HomeScreen2';
+import Accueil from './screens/HomeScreen2';
 
 
 
@@ -20,16 +20,16 @@ export default function App() {
     return (
         <ProgressProvider>
         <NavigationContainer>
-            <Stack.Navigator id="rootStack" initialRouteName="HomeScreen2">
+            <Stack.Navigator id="rootStack" initialRouteName="Accueil">
                 <Stack.Screen name="Loading" component={LoadingScreen} options={{ headerShown: false }} />
                 <Stack.Screen name="Home" component={HomeScreen} />
-                <Stack.Screen name="Lesson" component={LessonScreen} />
-                <Stack.Screen name="HomeScreen2" component={HomeScreen2} />
-                <Stack.Screen name="Niveau2" component={Niveau2} />
-                <Stack.Screen name="Niveau3" component={Niveau3} />
-                <Stack.Screen name="Niveau4" component={Niveau4} />
-                <Stack.Screen name="Niveau5" component={Niveau5} />
-                <Stack.Screen name="Niveau6" component={Niveau6} />
+                <Stack.Screen name="HTML 1" component={LessonScreen} />
+                <Stack.Screen name="Accueil" component={Accueil} />
+                <Stack.Screen name="HTML 2" component={Niveau2} />
+                <Stack.Screen name="CSS 1" component={Niveau3} />
+                <Stack.Screen name="CSS 2" component={Niveau4} />
+                <Stack.Screen name="JAVASCRIPT 1" component={Niveau5} />
+                <Stack.Screen name="JAVASCRIPT 2" component={Niveau6} />
             </Stack.Navigator>
         </NavigationContainer>
         </ProgressProvider>

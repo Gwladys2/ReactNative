@@ -49,7 +49,7 @@ export default function LessonScreen({ navigation }) {
 
     const handleRestart = async () => {
         await updateProgress(0, 5);
-        navigation.navigate('HomeScreen2');
+        navigation.navigate('Acceuil');
     };
 
     return (
@@ -65,7 +65,7 @@ export default function LessonScreen({ navigation }) {
                     ))}
                      <Button 
                                             title="Retour à la sélection des niveaux"
-                                            onPress={() => navigation.navigate('HomeScreen2')}
+                                            onPress={() => navigation.navigate('Acceuil')}
                                             color="#ff4444"
                                         />
                 </>

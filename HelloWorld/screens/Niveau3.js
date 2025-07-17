@@ -49,7 +49,7 @@ export default function LessonScreen({ navigation }) {
 
     const handleRestart = async () => {
         await updateProgress(0, 5);
-        navigation.navigate('HomeScreen2');
+        navigation.navigate('Accueil');
     };
 
     return (
@@ -65,15 +65,15 @@ export default function LessonScreen({ navigation }) {
                     ))}
                      <Button
                                             title="Retour à la sélection des niveaux"
-                                            onPress={() => navigation.navigate('HomeScreen2')}
+                                            onPress={() => navigation.navigate('Accueil')}
                                             color="#ff4444"
                                         />
                 </>
             ) : (
                 <>
                     <Text style={styles.question}>Leçon terminée 🎉</Text>
-                    <Button title="revenir au niveau 2" onPress={() => navigation.navigate('Niveau2')} />
-                    <Button title="passer au niveau 4" onPress={() => navigation.navigate('Niveau4')} />
+                    <Button title="revenir au HTML niveau 2" onPress={() => navigation.navigate('HTML 2')} />
+                    <Button title="passer au CSS niveau 2" onPress={() => navigation.navigate('CSS 2')} />
                     <Button title="Recommencer à  0" onPress={handleRestart} color="#ff4444" />
                 </>
             )}

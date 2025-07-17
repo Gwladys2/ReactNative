@@ -3,12 +3,12 @@ import { View, Text, TouchableOpacity, StyleSheet } from 'react-native';
 
 const HomeScreen2 = ({ navigation }) => {
   const niveaux = [
-    { label: 'Le HTML niveau débutant', screen: 'Lesson' },
-    { label: 'Le HTML niveau avancé', screen: 'Niveau2' },
-    { label: 'Le CSS niveau débutant', screen: 'Niveau3' },
-    { label: 'Le CSS niveau avancé', screen: 'Niveau4' },
-    { label: 'JAVASCRIPT niveau débutant', screen: 'Niveau5' },
-    { label: 'JAVASCRIPT niveau avancé', screen: 'Niveau6' },
+    { label: 'Le HTML niveau débutant', screen: 'HTML 1' },
+    { label: 'Le HTML niveau avancé', screen: 'HTML 2' },
+    { label: 'Le CSS niveau débutant', screen: 'CSS 1' },
+    { label: 'Le CSS niveau avancé', screen: 'CSS 2' },
+    { label: 'JAVASCRIPT niveau débutant', screen: 'JAVASCRIPT 1' },
+    { label: 'JAVASCRIPT niveau avancé', screen: 'JAVASCRIPT 2' },
   ];
 
   return (

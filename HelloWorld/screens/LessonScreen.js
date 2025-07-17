@@ -69,7 +69,7 @@ export default function LessonScreen({ navigation }) {
                     ))}
                      <Button
                         title="Retour à la sélection des niveaux"
-                        onPress={() => navigation.navigate('HomeScreen2')}
+                        onPress={() => navigation.navigate('Accueil')}
                         color="#ff4444"
                    />
                  
@@ -77,8 +77,8 @@ export default function LessonScreen({ navigation }) {
             ) : (
                 <>
                     <Text style={styles.question}>Leçon terminée 🎉</Text>
-                    <Button title="Passer au niveau 2" onPress={() => navigation.navigate('Niveau2')} />
-                    <Button title="Recommencer à  0" onPress={handleRestart} color="#ff4444" />
+                    <Button title="Passer au HTML niveau 2" onPress={() => navigation.navigate('HTML 2')} />
+                    <Button title="Recommencer (réinitialise vies et xp )" onPress={handleRestart} color="#ff4444" />
                 </>
             )}
         </View>
