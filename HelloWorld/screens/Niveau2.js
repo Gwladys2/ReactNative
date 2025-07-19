@@ -3,6 +3,7 @@ import { View, Text, Button, StyleSheet, Alert } from 'react-native';
 import questions from '../questions/serie2.json';
 import { ProgressContext } from '../context/ProgressContext';
 import HeaderStats from '../components/HeaderStats';
+import Logo from '../screens/Logo'; 
 
 
 
@@ -48,7 +49,7 @@ export default function LessonScreen({ navigation }) {
     const current = questions[currentIndex];
 
     const handleRestart = async () => {
-        await updateProgress(0, 5);
+         await updateProgress(0, 5, 1, true);
         navigation.navigate('Accueil');
     };
 
@@ -56,10 +57,12 @@ export default function LessonScreen({ navigation }) {
 
     return (
         <View style={styles.container}>
+            
             <HeaderStats />
+            <Logo/>
             {!showRestart ? (
                 <>
-                    <Text style={styles.question}>Le HTML niveau avancé </Text>
+                    <Text style={styles.titre}>Le HTML niveau avancé </Text>
 
                     <Text style={styles.question}>{current.question}</Text>
                     {current.options.map((option, i) => (
@@ -76,7 +79,7 @@ export default function LessonScreen({ navigation }) {
                     <Text style={styles.question}>Leçon terminée 🎉</Text>
                     <Button title="revenir au HTML niveau 1" onPress={() => navigation.navigate('HTML 1')} />
                     <Button title="passer au CSS niveau 1" onPress={() => navigation.navigate('CSS 1')} />
-                    <Button title="Recommencer à  0" onPress={handleRestart} color="#ff4444" />
+                    <Button title="Recommencer à  0 (réinitialise vies et xp)" onPress={handleRestart} color="#ff4444" />
                 </>
             )}
 
@@ -85,6 +88,7 @@ export default function LessonScreen({ navigation }) {
 }
 
 const styles = StyleSheet.create({
-    container: { flex: 1, padding: 20, justifyContent: 'center' },
-    question: { fontSize: 20, marginBottom: 20, fontWeight: 'bold' }
+    container: { flex: 1, padding: 20, justifyContent: 'flex-start' },
+    question: { fontSize: 20, marginBottom: 20, fontWeight: 'bold'},
+    titre:{textAlign: 'center', fontSize: 20, marginBottom: 20, fontWeight: 'bold', marginTop:10}
 });

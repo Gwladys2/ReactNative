@@ -55,7 +55,7 @@ export default function HomeScreen({ navigation }) {
 }
 
 const styles = StyleSheet.create({
-    container: { flex: 1, justifyContent: 'center', alignItems: 'center' },
+    container: { flex: 1,  justifyContent: 'flex-start', alignItems: 'center' },
     title: { fontSize: 24, fontWeight: 'bold', marginBottom: 20 },
     stat: { fontSize: 18, marginBottom: 10 },
     montexte: { marginBottom: 20, marginTop:20, justifyContent:'center',}

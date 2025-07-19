@@ -13,7 +13,8 @@ const HomeScreen2 = ({ navigation }) => {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Sélectionne un niveau :</Text>
+      <Text style={styles.title}>HTML CSS JAVASCRIPT</Text>
+      <Text >Sélectionne un niveau :</Text>
       {niveaux.map(({ label, screen }) => (
         <TouchableOpacity
           key={label}

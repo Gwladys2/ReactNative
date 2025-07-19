@@ -154,7 +154,7 @@
       "saluer();",
       "execute saluer"
     ],
-    "answerIndex": 3,
+    "answerIndex": 2,
     "explication": " On appelle une fonction avec (). \n Exemple: \n function saluer() { \n alert(\"Bonjour !\"); \n } \n saluer();"
   },
   {
@@ -264,7 +264,7 @@
       "Renvoie un entier aléatoire",
       "Renvoie un nombre décimal aléatoire entre 0 et 1"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "explication": "Math.random() retourne un nombre flottant pseudo-aléatoire entre 0 (inclus) et 1 (exclus). \n Exemple: \n  let alea = Math.random(); \n console.log(alea); // Ex: 0.3748"
 },
   {
@@ -354,7 +354,7 @@
       "Trie les éléments"
     ],
     "answerIndex": 1,
-    "explication": ".slice() renvoie une copie d’une portion du tableau sans le modifier. \n Exemple:\n let lettres = [\"a\", \"b\", \"c\", \"d\"];console.log(lettres.slice(1, 3)); // [\"b\", \"c\"]"
+    "explication": ".slice() renvoie une copie d’une portion du tableau sans le modifier. \n Exemple:\n let lettres = [\"a\", \"b\", \"c\", \"d\"]; \n console.log(lettres.slice(1, 3)); // [\"b\", \"c\"]"
   },
   {
     "question": "33 - Quelle méthode trie un tableau ?",
@@ -364,7 +364,7 @@
       "order()",
       "sequence()"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "explication": ".sort() trie les éléments par défaut comme des chaînes. \n Exemple:\n let nombres = [3, 1, 2]; \n console.log(nombres.sort()); // [1, 2, 3]"
     },
     {
@@ -419,7 +419,7 @@
       "\"undefined\"",
       "\"string\""
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explication": "NaN est un type number, même s’il n’est pas utilisable comme tel. \n Exemple: \n console.log(typeof NaN); // \"number\""
   },
   {

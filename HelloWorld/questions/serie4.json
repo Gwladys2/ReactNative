@@ -96,7 +96,7 @@
       "Réinitialiser les marges",
       "Faire des calculs dynamiques"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "explication": "calc() permet d’utiliser des valeurs dynamiques avec des opérations.\n Exemple: \n div { \n width: calc(100% - 50px); \n }"
   },
   {
@@ -142,7 +142,7 @@
       " Gérer la transparence"
     ],
     "answerIndex": 0,
-    "explication": " Elle cache le verso d’un élément tourné avec transform: rotateY. \n Exemple: .card { \n backface-visibility: hidden; \n transform: rotateY(180deg); \n}"
+    "explication": " Elle cache le verso d’un élément tourné avec transform: rotateY. \n Exemple: \n .card { \n backface-visibility: hidden; \n transform: rotateY(180deg); \n}"
   },
   {
     "question": "14 - Que fait object-fit: cover sur une image ?",
@@ -330,5 +330,192 @@
     ],
     "answerIndex": 1,
     "explication": "pointer-events: none désactive tous les événements souris/clavier sur l’élément. \n Exemple: \n button.disabled { \n pointer-events: none; \n opacity: 0.5; \n }"
+  },
+  {
+    "question": "31 - Quelle propriété CSS permet de rendre un élément transparent au clic ?",
+    "options": [
+      "opacity: 0",
+      "visibility: hidden",
+      "pointer-events: none",
+      "display: none"
+    ],
+    "answerIndex": 2,
+    "explication": "pointer-events: none désactive l'interaction utilisateur sur un élément sans le cacher.\nExemple:\n .btn-disabled {\n pointer-events: none; opacity: 0.5; \n }"
+  },
+  {
+    "question": "32 - Que fait la propriété CSS isolation ?",
+    "options": [
+      "Crée un nouveau contexte d'empilement",
+      "Isole un élément pour le rendre indépendant au focus",
+      "Isoler le texte d'un paragraphe",
+      "Désactive les animations sur un élément"
+    ],
+    "answerIndex": 0,
+    "explication": "isolation: isolate crée un nouveau contexte d'empilement pour empêcher les mélanges visuels.\nExemple:\n .modal {\n isolation: isolate; \n}"
+  },
+  {
+    "question": "33 - Quelle propriété CSS permet d'ajouter une transition sur plusieurs propriétés ?",
+    "options": [
+      "transition-property",
+      "transition-all",
+      "transition-multi",
+      "transition-multiple"
+    ],
+    "answerIndex": 0,
+    "explication": "transition-property permet de définir quelles propriétés CSS seront animées.\nExemple:\n div { \n transition-property: opacity, transform; \n transition-duration: 0.3s;\n }"
+  },
+  {
+    "question": "34 - Que fait la propriété CSS scroll-snap-type ?",
+    "options": [
+      "Active un effet de défilement fluide",
+      "Crée un alignement automatique lors du scroll",
+      "Permet le scroll infini",
+      "Désactive le scroll"
+    ],
+    "answerIndex": 1,
+    "explication": "scroll-snap-type définit la façon dont le scroll s'accroche à certains points.\nExemple:\n .container { \n scroll-snap-type: x mandatory; \n }"
+  },
+  {
+    "question": "35 - Quelle unité CSS est basée sur la largeur de la fenêtre ?",
+    "options": [
+      "vh",
+      "vw",
+      "rem",
+      "em"
+    ],
+    "answerIndex": 1,
+    "explication": "vw correspond à 1% de la largeur de la fenêtre (viewport width).\nExemple:\n div {\n width: 50vw; /* 50% de la largeur fenêtre */ \n}"
+  },
+  {
+    "question": "36 - Que fait la propriété CSS filter: blur(5px) ?",
+    "options": [
+      "Applique un flou de 5 pixels",
+      "Augmente la luminosité",
+      "Définit la couleur d'arrière-plan",
+      "Crée une ombre portée"
+    ],
+    "answerIndex": 0,
+    "explication": "filter: blur() applique un flou gaussien sur l'élément.\nExemple:\n img {\n filter: blur(5px);\n }"
+  },
+  {
+    "question": "37 - Quel pseudo-élément CSS cible le dernier enfant d'un parent ?",
+    "options": [
+      ":last-child",
+      ":last-of-type",
+      "::last",
+      ":last"
+    ],
+    "answerIndex": 0,
+    "explication": ":last-child cible le dernier élément enfant d'un parent.\nExemple:\n li:last-child { \n color: red; \n }"
+  },
+  {
+    "question": "38 - Que fait la propriété CSS aspect-ratio ?",
+    "options": [
+      "Fixe un ratio largeur/hauteur pour un élément",
+      "Contrôle l'opacité selon un ratio",
+      "Modifie le ratio des colonnes grid",
+      "Ajuste la taille des images"
+    ],
+    "answerIndex": 0,
+    "explication": "aspect-ratio maintient un ratio proportionnel lors du redimensionnement.\nExemple:\n div {\n aspect-ratio: 16 / 9; \n }"
+  },
+  {
+    "question": "39 - Quelle propriété CSS permet de créer un dégradé de fond ?",
+    "options": [
+      "background-gradient",
+      "background-image",
+      "gradient",
+      "background-color"
+    ],
+    "answerIndex": 1,
+    "explication": "background-image peut prendre une valeur linéaire ou radiale pour créer des dégradés.\nExemple:\n div { \n background-image: linear-gradient(to right, red, blue);\n }"
+  },
+  {
+    "question": "40 - Quelle est la différence entre em et rem en CSS ?",
+    "options": [
+      "em est relatif à la racine, rem au parent",
+      "em est relatif à l’élément parent, rem à la racine",
+      "Ils sont équivalents",
+      "em est une unité absolue, rem relative"
+    ],
+    "answerIndex": 1,
+    "explication": "em est relatif à la taille de police de l’élément parent, rem à la taille de la racine (html).\nExemple:\n html { \n font-size: 16px; \n }\n p { \n font-size: 1.5rem; /* 24px */\n }"
+  },
+  {
+    "question": "41 - Que fait la propriété CSS writing-mode ?",
+    "options": [
+      "Change l’orientation du texte (vertical, horizontal)",
+      "Modifie la taille de la police",
+      "Applique un style d’écriture manuscrite",
+      "Active un correcteur orthographique"
+    ],
+    "answerIndex": 0,
+    "explication": "writing-mode change la direction d’écriture, utile pour textes verticaux.\nExemple:\n p { \n writing-mode: vertical-rl; \n }"
+  },
+  {
+    "question": "42 - Que fait la propriété CSS contain ?",
+    "options": [
+      "Indique au navigateur que l’élément est isolé pour optimiser le rendu",
+      "Cache un élément",
+      "Contient le texte dans un cadre",
+      "Crée un conteneur flex"
+    ],
+    "answerIndex": 0,
+    "explication": "contain optimise la peinture en isolant un élément.\nExemple:\n div { \n contain: layout style; \n }"
+  },
+  {
+    "question": "43 - Quel est l’effet de isolation: isolate; sur un élément ?",
+    "options": [
+      "Il crée un nouveau contexte d'empilement",
+      "Il rend l’élément invisible",
+      "Il applique un filtre",
+      "Il force un alignement vertical"
+    ],
+    "answerIndex": 0,
+    "explication": "isolation crée un contexte d'empilement pour gérer le mélange des calques.\nExemple:\n .overlay { \n isolation: isolate; \n }"
+  },
+  {
+    "question": "44 - Que fait la propriété CSS gap dans un flex container ?",
+    "options": [
+      "Ajoute une marge interne au container",
+      "Décale le container",
+      "Crée un effet de survol",
+      "Ajoute un espace entre les items"
+    ],
+    "answerIndex": 3,
+    "explication": "gap ajoute un espacement entre les éléments d’un flex ou grid container.\nExemple:\n .container { \n display: flex; \n gap: 20px; \n }"
+  },
+  {
+    "question": "45 - Que fait la propriété CSS mix-blend-mode ?",
+    "options": [
+      "Contrôle la transparence",
+      "Active un filtre de flou",
+      "Définit comment un élément se mélange avec l’arrière-plan",
+      "Applique un masque"
+    ],
+    "answerIndex": 2,
+    "explication": "mix-blend-mode définit la méthode de mélange des couleurs d’un élément avec son arrière-plan.\nExemple:\n img {\n mix-blend-mode: multiply; \n}"
+  },
+  {
+    "question": "46 - Quelle propriété CSS permet de définir le comportement d'un élément lors du passage au mode sombre (dark mode) ?",
+    "options": [
+      "prefers-color-scheme",
+      "color-scheme",
+      "dark-mode",
+      "theme-color"
+    ],
+    "answerIndex": 1,
+    "explication": "color-scheme indique au navigateur les modes de couleur pris en charge pour adapter les formulaires et autres éléments natifs.\nExemple:\n body { \n color-scheme: light dark; \n }"
+  },
+  {
+    "question": "47 - Quelle propriété CSS permet de contrôler la visibilité d’un élément sans affecter la mise en page ?",
+    "options": [
+      "visibility: hidden",
+      "display: none",
+      "opacity: 0",
+      "pointer-events: none"
+    ],
+    "answerIndex": 0,
+    "explication": "visibility: hidden masque l’élément mais garde son espace occupé.\nExemple:\n div { \n visibility: hidden; \n }"
   }
 ]

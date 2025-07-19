@@ -445,6 +445,141 @@
     ],
     "answerIndex": 0,
     "explication": "<main> désigne le contenu principal de la page, utile pour les lecteurs d’écran et la sémantique."
+  },
+  {
+    "question": "41 - Quelle balise est utilisée pour insérer une ligne dans un tableau ?",
+    "options": ["<tr>", "<td>", "<table>", "<line>"],
+    "answerIndex": 0,
+    "explication": "<tr> (table row) est utilisée pour créer une ligne dans un tableau HTML."
+  },
+  {
+    "question": "42 - Quelle balise est utilisée pour créer une cellule dans un tableau ?",
+    "options": ["<td>", "<tr>", "<table>", "<cell>"],
+    "answerIndex": 0,
+    "explication": "<td> (table data) représente une cellule dans une ligne de tableau."
+  },
+  {
+    "question": "43 - Quelle balise HTML permet de créer un lien hypertexte ?",
+    "options": ["<link>", "<href>", "<a>", "<url>"],
+    "answerIndex": 2,
+    "explication": "<a> est utilisée pour créer un lien, avec l’attribut href pour l’adresse cible."
+  },
+  {
+    "question": "44 - Quelle est l’attribut pour ajouter une info lors du survol d’un élément ?",
+    "options": ["title", "tooltip", "hover", "info"],
+    "answerIndex": 0,
+    "explication": "L’attribut title affiche une infobulle au survol de l’élément."
+  },
+  {
+    "question": "45 - Quelle est la balise utilisée pour écrire un texte barré ?",
+    "options": ["<strike>", "<del>", "<s>", "<remove>"],
+    "answerIndex": 1,
+    "explication": "<del> est la balise moderne et sémantique pour indiquer un texte supprimé ou barré."
+  },
+  {
+    "question": "46 - Quelle balise HTML est utilisée pour regrouper un contenu multimédia et sa description ?",
+    "options": ["<media>", "<figure>", "<section>", "<gallery>"],
+    "answerIndex": 1,
+    "explication": "<figure> regroupe un média (image, vidéo...) et sa légende via <figcaption>."
+  },
+  {
+    "question": "47 - Quelle balise HTML est utilisée pour afficher du texte préformaté ?",
+    "options": ["<code>", "<pre>", "<format>", "<txt>"],
+    "answerIndex": 1,
+    "explication": "<pre> conserve les espaces, retours à la ligne et indentation du texte tel quel."
+  },
+  {
+    "question": "48 - Quel attribut HTML permet d’associer une image à un lien ?",
+    "options": ["href", "src", "link", "a avec img à l’intérieur"],
+    "answerIndex": 3,
+    "explication": "On utilise une balise <a> contenant une balise <img> pour créer une image cliquable."
+  },
+  {
+    "question": "49 - Quel est le rôle de la balise <noscript> ?",
+    "options": [
+      "Elle désactive JavaScript",
+      "Elle affiche un contenu si JavaScript est désactivé",
+      "Elle affiche une alerte",
+      "Elle charge un script de secours"
+    ],
+    "answerIndex": 1,
+    "explication": "<noscript> permet d’afficher un contenu alternatif si JavaScript est désactivé dans le navigateur."
+  },
+  {
+    "question": "50 - Quelle balise est utilisée pour intégrer une iframe ?",
+    "options": ["<frame>", "<embed>", "<iframe>", "<object>"],
+    "answerIndex": 2,
+    "explication": "<iframe> permet d’intégrer une page web externe dans une autre page."
+  },
+  {
+    "question": "51 - Quelle balise permet de grouper logiquement les options d’un menu déroulant ?",
+    "options": ["<group>", "<fieldset>", "<optgroup>", "<selectgroup>"],
+    "answerIndex": 2,
+    "explication": "<optgroup> permet de regrouper des <option> dans un menu <select>."
+  },
+  {
+    "question": "52 - À quoi sert l’attribut 'autocomplete' dans un formulaire ?",
+    "options": [
+      "À ajouter automatiquement des champs",
+      "À suggérer des valeurs déjà saisies",
+      "À valider automatiquement le formulaire",
+      "À enregistrer le formulaire"
+    ],
+    "answerIndex": 1,
+    "explication": "autocomplete permet au navigateur de suggérer ou non des valeurs précédemment saisies dans un champ."
+  },
+  {
+    "question": "53 - Quelle balise est utilisée pour insérer du contenu JavaScript ?",
+    "options": ["<js>", "<script>", "<code>", "<javascript>"],
+    "answerIndex": 1,
+    "explication": "<script> permet d’insérer ou de lier du JavaScript dans un document HTML."
+  },
+  {
+    "question": "54 - Que permet l’attribut 'readonly' dans un champ de formulaire ?",
+    "options": [
+      "Il rend le champ invisible",
+      "Il empêche la modification du champ",
+      "Il supprime le champ",
+      "Il rend le champ obligatoire"
+    ],
+    "answerIndex": 1,
+    "explication": "readonly permet d’afficher un champ non modifiable, tout en pouvant l’envoyer avec le formulaire."
+  },
+  {
+    "question": "55 - Quelle balise HTML indique un contenu mis à jour ?",
+    "options": ["<update>", "<changed>", "<time>", "<ins>"],
+    "answerIndex": 3,
+    "explication": "<ins> est utilisée pour indiquer un contenu ajouté récemment, souvent souligné par défaut."
+  },
+  {
+    "question": "56 - Quelle balise permet d’intégrer un objet externe (Flash, PDF, etc.) ?",
+    "options": ["<object>", "<external>", "<iframe>", "<embed>"],
+    "answerIndex": 0,
+    "explication": "<object> permet d’intégrer un contenu externe, souvent utilisé avec type et data."
+  },
+  {
+    "question": "57 - Quelle balise est utilisée pour insérer une adresse ?",
+    "options": ["<contact>", "<adress>", "<address>", "<info>"],
+    "answerIndex": 2,
+    "explication": "<address> est une balise sémantique utilisée pour représenter les coordonnées d’un auteur ou d’un site."
+  },
+  {
+    "question": "58 - Quel attribut permet de définir la langue d’un document HTML ?",
+    "options": ["lang", "language", "xml:lang", "locale"],
+    "answerIndex": 0,
+    "explication": "L’attribut lang est défini dans la balise <html>. \n Exemple : \n <html lang=\"fr\">"
+  },
+  {
+    "question": "59 - Quelle balise HTML représente généralement le pied de page ?",
+    "options": ["<bottom>", "<footer>", "<end>", "<down>"],
+    "answerIndex": 1,
+    "explication": "<footer> est utilisée pour définir un pied de page (liens, contact, infos légales, etc.)."
+  },
+  {
+    "question": "60 - Quelle balise permet d’afficher une ligne de séparation thématique dans un texte ?",
+    "options": ["<line>", "<border>", "<rule>", "<hr>"],
+    "answerIndex": 3,
+    "explication": "<hr> insère une ligne horizontale pour marquer une rupture ou un changement de sujet."
   }
 
 ]

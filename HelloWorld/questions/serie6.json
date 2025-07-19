@@ -118,10 +118,9 @@
       "Convertit un objet en chaîne JSON",
       "Compresse un objet"
 
-
     ],
     "answerIndex": 2,
-    "explication": "Cette méthode transforme un objet JavaScript en chaîne JSON, utile pour le stockage ou l’envoi via une API. \n Exemple: \n const user = { name: \"Alice\", age: 30 };\n console.log(JSON.stringify(user)); \n // '{\"name\":\"Alice\",\"age\":30}'"
+    "explication": "Cette méthode transforme un objet JavaScript en chaîne JSON, utile pour le stockage ou l’envoi via une API. \n Exemple: \n const user = { \n name: \"Alice\", age: 30\n };\n console.log(JSON.stringify(user)); \n // '{\"name\":\"Alice\",\"age\":30}'"
   },
   {
     "question": "12 - Quelle est la sortie de typeof NaN ?",
@@ -155,12 +154,12 @@
       "Exécute plusieurs fonctions"
     ],
     "answerIndex": 2,
-    "explication": ".bind() retourne une nouvelle fonction avec un this prédéfini, utile pour garder le contexte. \n Exemple: \n const person = { name: \"Alice\" };\n function greet() { console.log(\"Bonjour\" + this.name); } \n const greetAlice = greet.bind(person); \n greetAlice(); // Bonjour Alice"
+    "explication": ".bind() retourne une nouvelle fonction avec un this prédéfini, utile pour garder le contexte. \n Exemple: \n const person = { name: \"Alice\" };\n function greet() { \n console.log(\"Bonjour\" + this.name); \n } \n const greetAlice = greet.bind(person); \n greetAlice(); // Bonjour Alice"
   },
   {
     "question": "15 - Que retourne [1, 2, 3].reduce((a, b) => a + b, 0) ?",
     "options": [
-      "6",
+      "62",
       "123",
       "6",
       "[1, 2, 3]"
@@ -180,15 +179,10 @@
     "explication": "Object.freeze() empêche toute modification future de l’objet (ajout, suppression, modification de propriétés). \n Exemple: \n  const user = Object.freeze({ name: \"Alice\" }); \n user.name = \"Bob\"; \n console.log(user.name); // \"Alice\""
   },
   {
-    "question": "17 - Quelle est la différence entre == et === ?",
-    "options": [
-      "=== compare aussi le type",
-      "== est plus strict",   
-      "== compare les références",
-      "=== convertit les types"
-    ],
-    "answerIndex": 0,
-    "explication": "=== compare la valeur ET le type, contrairement à == qui convertit les types avant comparaison. \n Exemple: \n console.log(5 == \"5\");  // true \n console.log(5 === \"5\"); // false"
+    "question": "17 - Quelle est la sortie de ce code ? `console.log([...'hello'])`",
+    "options": ["['hello']", "['h', 'e', 'l', 'l', 'o']", "['he', 'll', 'o']", "Erreur"],
+    "answerIndex": 1,
+    "explication": "L'opérateur de décomposition `...` décompose la chaîne de caractères en caractères individuels. Résultat : ['h', 'e', 'l', 'l', 'o']"
   },
   {
     "question": "18 - Que fait setTimeout(fn, 0) ?",
@@ -222,6 +216,317 @@
     ],
     "answerIndex": 3,
     "explication": ".slice() sans argument retourne une copie du tableau d'origine. \n Exemple: \n const original = [1, 2, 3]; \n const copy = original.slice(); \n  console.log(copy); // [1, 2, 3]"
+  },
+   {
+    "question": "21 - Que fait la méthode Array.prototype.flat() ?",
+    "options": [
+      "Elle trie un tableau",
+      "Elle fusionne deux tableaux",
+      "Elle aplatit les tableaux imbriqués",
+      "Elle supprime les doublons"
+    ],
+    "answerIndex": 2,
+    "explication": "flat() aplatit un tableau de tableaux imbriqués en un seul niveau. \nExemple:\nconst arr = [1, [2, [3, 4]]];\nconsole.log(arr.flat(2)); // [1, 2, 3, 4]"
+  },
+  {
+    "question": "22 - Que retourne Array.from('123') ?",
+    "options": [
+      "[1, 2, 3]",
+      "['123']",
+      "['1', '2', '3']",
+      "[123]"
+    ],
+    "answerIndex": 2,
+    "explication": "Array.from() transforme une chaîne ou un objet itérable en tableau d’éléments. \n Exemple:\n console.log(Array.from('123')); // ['1', '2', '3']"
+  },
+  {
+    "question": "23 - Que fait une closure en JavaScript ?",
+    "options": [
+      "Elle crée une promesse",
+      "Elle protège des données en les encapsulant",
+      "Elle exécute une fonction immédiatement",
+      "Elle lie une fonction à un événement"
+    ],
+    "answerIndex": 1,
+    "explication": "Une closure permet à une fonction d’accéder à des variables définies dans une portée supérieure même après l’exécution de cette dernière. \nExemple:\nfunction outer() {\n let count = 0;\n return function() { \n count++; \n return count;\n }\n}\n const counter = outer();\n console.log(counter()); // 1"
+  },
+  {
+    "question": "24 - Que fait le mot-clé yield dans une fonction génératrice ?",
+    "options": [
+      "Il retourne une valeur finale",
+      "Il interrompt définitivement la fonction",
+      "Il génère une erreur",
+      "Il suspend l’exécution et retourne une valeur temporaire"
+    ],
+    "answerIndex": 3,
+    "explication": "Le mot-clé yield suspend temporairement l’exécution d’une fonction génératrice, qui peut être reprise plus tard. \nExemple:\nfunction* gen() {\n  yield 1;\n  yield 2;\n}\nconst g = gen();\nconsole.log(g.next().value); // 1"
+  },
+  {
+    "question": "25 - Comment créer un objet sans prototype ?",
+    "options": [
+      "Object.empty()",
+      "Object.create(Object.prototype)",
+      "Object.create(null)",
+      "{}",
+      "new Object()"
+    ],
+    "answerIndex": 2,
+    "explication": "Object.create(null) crée un objet sans héritage ni prototype. \nExemple:\nconst obj = Object.create(null);\nconsole.log(obj.toString); // undefined"
+  },
+  {
+    "question": "26 - Que fait la méthode Object.entries() ?",
+    "options": [
+      "Elle retourne les noms des méthodes",
+      "Elle retourne un tableau de clés",
+      "Elle retourne un tableau de valeurs",
+      "Elle retourne un tableau de paires [clé, valeur]"
+    ],
+    "answerIndex": 3,
+    "explication": "Object.entries() transforme un objet en tableau de paires [clé, valeur]. \nExemple:\nconst user = {name: 'Alice', age: 30};\nconsole.log(Object.entries(user)); // [['name', 'Alice'], ['age', 30]]"
+  },
+  {
+    "question": "27 - Que retourne [1, 2, 3].find(x => x > 1) ?",
+    "options": [
+      "[2, 3]",
+      "true",
+      "2",
+      "undefined"
+    ],
+    "answerIndex": 2,
+    "explication": "find() retourne le premier élément qui satisfait la condition. \nExemple:\nconst result = [1, 2, 3].find(x => x > 1);\nconsole.log(result); // 2"
+  },
+  {
+    "question": "28 - Quelle méthode permet de vérifier si un tableau contient une valeur ?",
+    "options": [
+      "includes()",
+      "has()",
+      "contains()",
+      "exist()"
+    ],
+    "answerIndex": 0,
+    "explication": "includes() vérifie si un tableau contient une certaine valeur. \nExemple:\nconst fruits = ['pomme', 'banane'];\nconsole.log(fruits.includes('banane')); // true"
+  },
+  {
+    "question": "29 - Comment convertir une chaîne en nombre ?",
+    "options": [
+      "parseNumber()",
+      "Number()",
+      "toInt()",
+      "float()"
+    ],
+    "answerIndex": 1,
+    "explication": "Number() convertit une chaîne en nombre si possible. \nExemple:\nconsole.log(Number('42')); // 42"
+  },
+  {
+    "question": "30 - Que fait Promise.all() ?",
+    "options": [
+      "Elle résout la première promesse",
+      "Elle enchaîne des promesses",
+      "Elle arrête dès qu’une promesse échoue",
+      "Elle attend que toutes les promesses soient résolues"
+    ],
+    "answerIndex": 3,
+    "explication": "Promise.all() exécute plusieurs promesses en parallèle et retourne leurs résultats une fois toutes résolues. \nExemple:\nPromise.all([Promise.resolve(1), Promise.resolve(2)]).then(console.log); // [1, 2]"
+  },
+  {
+    "question": "31 - Quelle est la différence entre var, let et const ?",
+    "options": [
+      "Aucune",
+      "const peut être modifié",
+      "let et const sont à portée de bloc, var à portée de fonction",
+      "var est toujours préférable"
+    ],
+    "answerIndex": 2,
+    "explication": "let et const ont une portée de bloc ({}), contrairement à var qui a une portée de fonction. const ne permet pas de réassignation. \nExemple : \n if (true) { \n blet x = 5; \n} \nconsole.log(x); // Erreur car x n'existe qu'à l’intérieur du bloc."
+  },
+  {
+    "question": "32 - Quelle est la sortie de '5' + 3 ?",
+    "options": [
+      "8",
+      "53",
+      "Erreur",
+      "NaN"
+    ],
+    "answerIndex": 1,
+    "explication": "L'opérateur + effectue une **concaténation** si l’un des opérandes est une chaîne. \nExemple : \nconsole.log('5' + 3); // '53'"
+  },
+  {
+    "question": "33 - Que fait la méthode Array.prototype.find() ?",
+    "options": [
+      "Retourne tous les éléments qui correspondent",
+      "Retourne l'index de l'élément",
+      "Retourne le premier élément qui satisfait une condition",
+      "Trie le tableau"
+    ],
+    "answerIndex": 2,
+    "explication": "find() retourne le **premier** élément du tableau qui satisfait la condition passée. \nExemple : \nconst nums = [1, 4, 6]; \nconst found = nums.find(n => n > 4); \nconsole.log(found); // 6"
+  },
+  {
+    "question": "34 - Que fait une closure (fermeture) en JavaScript ?",
+    "options": [
+      "Permet à une fonction d’accéder à des variables d’un scope parent",
+      "Rend les variables globales",
+      "Efface les variables après exécution",
+      "Interrompt l'exécution"
+    ],
+    "answerIndex": 0,
+    "explication": "Une closure permet à une fonction imbriquée de **retenir l'accès aux variables** de sa portée parente même après la fin de cette dernière. \nExemple : \n function outer() { \n let x = 10;\n return function() { \nreturn x; \n};\n } \nconst getX = outer(); \n console.log(getX()); // 10"
+  },
+  {
+    "question": "35 - Quelle est la sortie de [...'abc'] ?",
+    "options": [
+      "['abc']",
+      "[...'abc']",
+      "['a', 'b', 'c']",
+      "Erreur"
+    ],
+    "answerIndex": 2,
+    "explication": "L'opérateur de décomposition (...) transforme la chaîne en tableau de caractères. \nExemple : \nconsole.log([...\"abc\"]); // ['a', 'b', 'c']"
+  },
+  {
+    "question": "36 - Que fait `Promise.all()` ?",
+    "options": [
+      "Attend la première promesse résolue",
+      "Rejette si une promesse est rejetée",
+      "Exécute les promesses de manière séquentielle",
+      "Résout dès que toutes sont rejetées"
+    ],
+    "answerIndex": 1,
+    "explication": "`Promise.all()` prend un tableau de promesses et retourne une seule promesse **résolue quand toutes le sont**, ou **rejetée si une échoue**. \n Exemple : \n Promise.all([Promise.resolve(1), Promise.resolve(2)]).then(console.log); // [1, 2]"
+  },
+  {
+    "question": "37 - Quelle méthode convertit un nombre en chaîne ?",
+    "options": [
+      "toString()",
+      "parseInt()",
+      "Number()",
+      "Stringify()"
+    ],
+    "answerIndex": 0,
+    "explication": "`toString()` convertit un nombre en chaîne. \n Exemple : \n let n = 42; \n console.log(n.toString()); // '42'"
+  },
+  {
+    "question": "38 - Que fait `Array.from()` ?",
+    "options": [
+      "Crée une chaîne depuis un tableau",
+      "Copie un objet",
+      "Crée un tableau à partir d’un objet itérable",
+      "Transforme un tableau en objet"
+    ],
+    "answerIndex": 2,
+    "explication": "`Array.from()` transforme un objet **itérable** (ex : chaîne, arguments, Set) en **tableau**. \nExemple : \nconsole.log(Array.from('123')); // ['1', '2', '3']"
+  },
+  {
+    "question": "39 - Que retourne une fonction sans return explicite ?",
+    "options": [
+      "undefined",
+      "null",
+      "false",
+      "0"
+    ],
+    "answerIndex": 0,
+    "explication": "Si une fonction n’a pas de `return`, elle retourne `undefined` par défaut. \nExemple : \nfunction sayHi() { \n console.log('Hi'); \n } \nconsole.log(sayHi()); // undefined"
+  },
+  {
+    "question": "40 - Que fait la méthode .includes() sur un tableau ?",
+    "options": [
+      "Ajoute un élément",
+      "Supprime un élément",
+      "Trie le tableau",
+      "Vérifie si un élément existe"
+    ],
+    "answerIndex": 3,
+    "explication": "`.includes()` vérifie si un tableau **contient** une valeur. \nExemple : \nconst fruits = ['apple', 'banana']; \nconsole.log(fruits.includes('banana')); // true"
+  },
+  {
+    "question": "41- Quel est l'effet du mot-clé `async` devant une fonction ?",
+    "options": ["Elle exécute le code en parallèle", "Elle retourne toujours une Promise", "Elle empêche les erreurs", "Elle rend la fonction plus rapide"],
+    "answerIndex": 1,
+    "explication": "Une fonction `async` retourne toujours une **Promise**, même si vous retournez une valeur simple. Cela permet l’utilisation de `await` à l’intérieur."
+  },
+ {
+    "question": "42 - Quelle est la sortie de ce code : `console.log(0.1 + 0.2 === 0.3)` ?",
+    "options": ["true", "false", "undefined", "NaN"],
+    "answerIndex": 1,
+    "explication": "En raison des imprécisions de l'arithmétique en virgule flottante en JavaScript, `0.1 + 0.2` donne 0.30000000000000004. Donc l'expression retourne `false`."
+  },
+ {
+    "question": "43 - Que fait le mot-clé `yield` dans une fonction génératrice ?",
+    "options": ["Il arrête complètement la fonction", "Il crée une boucle", "Il appelle une fonction interne", "Il retourne une valeur temporaire et peut reprendre plus tard"],
+    "answerIndex": 3,
+    "explication": "`yield` est utilisé dans les **fonctions génératrices** pour produire une valeur temporaire. L'exécution peut reprendre ensuite avec `.next()`.\nEx :\nfunction* gen() {\n  yield 1;\n  yield 2;\n}\nconst g = gen();\nconsole.log(g.next().value); // 1"
+  },
+   {
+    "question": "44 - À quoi sert `Object.defineProperty()` ?",
+    "options": ["Définir une propriété avec contrôle fin (writable, enumerable...)","Créer un objet",  "Supprimer une propriété", "Cloner un objet"],
+    "answerIndex": 0,
+    "explication": "`Object.defineProperty()` permet de créer ou modifier une propriété avec des options avancées comme `writable`, `enumerable`, et `configurable`.\nExemple :\nconst obj = {};\nObject.defineProperty(obj, 'name', {\n  value: 'Alice',\n  writable: false\n});"
+  },
+  {
+    "question": "45 - Quelle est la différence entre `call()` et `apply()` ?",
+    "options": [
+      "`call()` prend un tableau d’arguments, `apply()` les sépare",
+      "`call()` est asynchrone, `apply()` est synchrone",
+      "`call()` et `apply()` font la même chose mais avec une syntaxe différente",
+      "`apply()` est déprécié"
+    ],
+    "answerIndex": 2,
+    "explication": "`call()` et `apply()` appellent une fonction en changeant son `this`, mais `call()` prend les arguments un à un, tandis que `apply()` les prend sous forme de tableau.\nExemple :\n js\nfunction greet(msg) { \n console.log(msg + ', ' + this.name);\n } \n const user = { name: 'Sara' }; \n greet.call(user, 'Hello'); \n greet.apply(user, ['Hi']);\n "
+  },
+  {
+    "question": "46 - Que fait le mot-clé `await` dans une fonction async ?",
+    "options": [
+      "Met en pause l'exécution de la fonction jusqu’à la fin du script",
+      "Rejette automatiquement une promesse",
+      "Attends la résolution d’une promesse avant de continuer",
+      "Transforme une fonction en promesse"
+    ],
+    "answerIndex": 2,
+    "explication": "`await` suspend l’exécution de la fonction `async` jusqu’à ce que la promesse soit résolue ou rejetée.\nExemple :\n async function fetchData() {\n const data = await fetch('/api');\n console.log(data);\n}\n"
+  },
+  {
+    "question": "47 - Que permet setTimeout(fn, 0) ?",
+    "options": [
+      "Appelle immédiatement la fonction",
+      "Bloque le thread",
+      "Exécute la fonction de façon synchrone",
+      "Ajoute la fonction à la file d'attente d'exécution"
+    ],
+    "answerIndex": 3,
+    "explication": "`setTimeout(fn, 0)` n'exécute pas immédiatement la fonction, mais la place à la fin de la file d'attente. \nExemple : \nsetTimeout(() => console.log('Hello'), 0); \nconsole.log('World'); // Affiche 'World' puis 'Hello'"
+  },
+  {
+    "question": "48 - Que fait Object.assign() ?",
+    "options": [
+      "Crée un tableau",
+      "Ajoute un élément à un objet",
+      "Fusionne des objets",
+      "Crée une classe"
+    ],
+    "answerIndex": 2,
+    "explication": "`Object.assign()` copie les propriétés de un ou plusieurs objets dans un objet cible. \nExemple : \nconst a = {x:1}; \nconst b = {y:2}; \nconst c = Object.assign({}, a, b); \nconsole.log(c); // {x:1, y:2}"
+  },
+  {
+    "question": "49 - Que permet l’opérateur spread (...) dans un tableau ?",
+    "options": [
+      "Effacer des éléments",
+      "Fusionner des tableaux",
+      "Trier un tableau",
+      "Ajouter une propriété"
+    ],
+    "answerIndex": 1,
+    "explication": "L'opérateur `...` (spread) permet d'étendre ou de fusionner des tableaux ou objets. \nExemple : \nconst a = [1,2]; const b = [3,4]; \nconst c = [...a, ...b]; \nconsole.log(c); // [1,2,3,4]"
+  },
+  {
+    "question": "50 - À quoi sert une IIFE (Immediately Invoked Function Expression) ?",
+    "options": [
+      "Exécuter immédiatement une fonction et isoler son scope",
+      "Créer une boucle",
+      "Créer une fonction globale",
+      "Créer un objet"
+    ],
+    "answerIndex": 0,
+    "explication": "Une IIFE est une fonction immédiatement exécutée, utile pour encapsuler des variables sans polluer l’espace global. \nExemple : \n(function() { console.log('Hello'); })();"
   }
   
   

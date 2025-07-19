@@ -19,9 +19,10 @@ const styles = StyleSheet.create({
         justifyContent: 'space-between',
         backgroundColor: '#f3f3f3',
         paddingVertical: 10,
-        paddingHorizontal: 20,
+        paddingHorizontal: 10,
         borderBottomColor: '#ccc',
-        borderBottomWidth: 1
+        borderBottomWidth: 1,
+       
     },
     stat: {
         fontSize: 16,

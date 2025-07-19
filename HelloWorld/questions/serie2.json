@@ -8,7 +8,7 @@
       "Ajouter des métadonnées"
     ],
     "answerIndex": 2,
-    "explications": "La balise <template> permet de définir du contenu HTML qui n'est pas rendu à l'affichage, mais peut être cloné dynamiquement via JavaScript. Exemple: <template id=\"user-template\">\n  <div class=\"user-card\">\n    <h2></h2>\n    <p></p>\n  </div>\n</template>\n"
+    "explications": "La balise <template> permet de définir du contenu HTML qui n'est pas rendu à l'affichage, mais peut être cloné dynamiquement via JavaScript. \n Exemple:\n <template id=\"user-template\">\n  <div class=\"user-card\">\n    <h2></h2>\n    <p></p>\n  </div>\n</template>\n"
   },
   {
     "question": "2 - Quelle est la fonction principale de la balise <template> en HTML5 ?",
@@ -19,7 +19,7 @@
       "Ajouter des métadonnées"
     ],
     "answerIndex": 2,
-    "explications": "La balise <template> permet de définir du contenu HTML qui n'est pas rendu à l'affichage, mais peut être cloné dynamiquement via JavaScript. Exemple: <template id=\"user-template\">\n  <div class=\"user-card\">\n    <h2></h2>\n    <p></p>\n  </div>\n</template>\n"
+    "explications": "La balise <template> permet de définir du contenu HTML qui n'est pas rendu à l'affichage, mais peut être cloné dynamiquement via JavaScript. \n Exemple:\n <template id=\"user-template\">\n  <div class=\"user-card\">\n    <h2></h2>\n    <p></p>\n  </div>\n</template>\n"
   },
   {
     "question": "3 - Que signifie l'attribut aria-label en HTML ?",
@@ -63,7 +63,7 @@
       " À dessiner avec Canvas"
     ],
     "answerIndex": 1,
-    "explication": "<output> est utilisée pour afficher des résultats, souvent en lien avec des calculs dynamiques. Exemple: <form oninput=\"result.value = a.valueAsNumber + b.valueAsNumber\">\n  <input type=\"number\" name=\"a\"> +\n  <input type=\"number\" name=\"b\"> =\n  <output name=\"result\"></output>\n</form>\n"
+    "explication": "<output> est utilisée pour afficher des résultats, souvent en lien avec des calculs dynamiques. \n Exemple: \n <form oninput=\"result.value = a.valueAsNumber + b.valueAsNumber\">\n  <input type=\"number\" name=\"a\"> +\n  <input type=\"number\" name=\"b\"> =\n  <output name=\"result\"></output>\n</form>\n"
   },
   {
     "question": "7 - Que fait l’attribut autocomplete sur un formulaire ou un champ ?",
@@ -103,8 +103,8 @@
     "options": [
       "Il relie une balise <label> à un champ",
       "Il redirige le formulaire vers une autre page",
-      " Il permet de cibler un formulaire spécifique en dehors de la balise <form>",
-      " Il remplit automatiquement les champs"
+      "Il permet de cibler un formulaire spécifique en dehors de la balise <form>",
+      "Il remplit automatiquement les champs"
     ],
     "answerIndex": 2,
     "explication": "Un champ ou bouton peut être lié à un formulaire même s’il n’est pas imbriqué dedans via form=\"id_du_formulaire\"."
@@ -170,11 +170,11 @@
     "options": [
       "Ajouter un champ d’édition invisible",
       "Rendre le texte sélectionnable",
-      " Modifier le CSS en ligne",
+      "Modifier le CSS en ligne",
       "Permettre à l’utilisateur de modifier le contenu HTML directement"
     ],
     "answerIndex": 3,
-    "explication": "contenteditable=\"true\" rend un élément éditable par l’utilisateur (comme un champ texte mais sans formulaire). Exemple: <p contenteditable=\"true\">Cliquez ici pour modifier ce texte.</p>"
+    "explication": "contenteditable=\"true\" rend un élément éditable par l’utilisateur (comme un champ texte mais sans formulaire). \n Exemple: \n <p contenteditable=\"true\">Cliquez ici pour modifier ce texte.</p>"
   },
   {
     "question": "17 - Quelle différence entre <article> et <section> ?",
@@ -251,7 +251,7 @@
       "Créer une liste déroulante sans <select>"
     ],
     "answerIndex": 1,
-    "explication": "Afficher une liste de choix pour un champ <input>. Exemple: <input list=\"langages\" name=\"langage\" />\n<datalist id=\"langages\">\n  <option value=\"HTML\">\n  <option value=\"CSS\">\n  <option value=\"JavaScript\">\n</datalist>\n"
+    "explication": "Afficher une liste de choix pour un champ <input>. \n Exemple:\n <input list=\"langages\" name=\"langage\" />\n<datalist id=\"langages\">\n  <option value=\"HTML\">\n  <option value=\"CSS\">\n  <option value=\"JavaScript\">\n</datalist>\n"
   },
   {
     "question": "24 - Quelle différence entre <b> et <strong> ?",
@@ -306,7 +306,7 @@
       "srcset"
     ],
     "answerIndex": 2,
-    "explication": "L’attribut <link rel=\"preload\"> permet de dire au navigateur :\n\n« Charge ce fichier dès que possible car j’en aurai bientôt besoin. »\n\nCela aide à gagner du temps lors du chargement d’une page, surtout pour :\n\nDes polices\n\nDes images\n\nDes scripts JavaScript\n\nOu des vidéos. Exemple: <link rel=\"preload\" href=\"style.css\" as=\"style\">\n . Exemple: Ici, on précharge la feuille de style, ce qui permet à la page de s’afficher plus vite. "
+    "explication": "L’attribut <link rel=\"preload\"> permet de dire au navigateur :\n\n« Charge ce fichier dès que possible car j’en aurai bientôt besoin. »\n\nCela aide à gagner du temps lors du chargement d’une page, surtout pour :\n\nDes polices\n\nDes images\n\nDes scripts JavaScript\n\nOu des vidéos. \n Exemple: \n <link rel=\"preload\" href=\"style.css\" as=\"style\">.\n  Exemple: Ici, on précharge la feuille de style, ce qui permet à la page de s’afficher plus vite. "
   },
   {
     "question": "29 - Quelle est la bonne pratique pour inclure une vidéo accessible ?",
@@ -319,6 +319,217 @@
     ],
     "answerIndex": 3,
     "explication": "<video controls>\n  <source src=\"video.mp4\" type=\"video/mp4\">\n  <track src=\"sous-titres.vtt\" kind=\"subtitles\" srclang=\"fr\" label=\"Français\">\n</video>\n"
+  },
+  {
+    "question": "30 - Que permet la balise <picture> en HTML5 ?",
+    "options": [
+      "Créer un carrousel d’images",
+      "Afficher plusieurs images simultanément",
+      "Fournir des sources d’images alternatives selon l’écran",
+      "Compresser les images automatiquement"
+    ],
+    "answerIndex": 2,
+    "explication": "La balise <picture> permet de définir plusieurs sources d’image selon les conditions (ex: largeur écran). \nExemple : <picture><source media=\"(min-width: 800px)\" srcset=\"grande.jpg\"><img src=\"petite.jpg\"></picture>"
+  },
+ 
+  {
+    "question": "31 - Quel attribut permet de spécifier un type MIME pour une ressource ?",
+    "options": [
+      "type",
+      "rel",
+      "src",
+      "content"
+    ],
+    "answerIndex": 0,
+    "explication": "L’attribut 'type' est utilisé pour indiquer le type MIME, utile pour <script>, <link>, <object>... \nExemple : \n <script type=\"module\" src=\"main.js\">"
+  },
+  {
+    "question": "32 - Quelle balise HTML permet d’afficher un contenu mathématique ?",
+    "options": [
+      "<math>",
+      "<equation>",
+      "<calc>",
+      "<mml>"
+    ],
+    "answerIndex": 0,
+    "explication": "La balise <math> permet d’intégrer des équations avec MathML. \n Exemple : \n <math><mi>x</mi><mo>=</mo><mn>5</mn>\n</math>"
+  },
+  {
+    "question": "33 - Quel élément HTML permet d'intégrer des données JSON dans une page ?",
+    "options": [
+      "<json>",
+      "<script type=\"application/json\">",
+      "<data>",
+      "<meta content=\"json\">"
+    ],
+    "answerIndex": 1,
+    "explication": "On peut insérer du JSON brut dans une balise <script> avec le type 'application/json'. \n Exemple : \n <script type=\"application/json\">{ \"nom\": \"Alice\" }</script>"
+  },
+  {
+    "question": "34 - Quelle balise HTML5 permet d’indiquer le texte de sortie d’un calcul ?",
+    "options": [
+      "<result>",
+      "<output>",
+      "<calc>",
+      "<return>"
+    ],
+    "answerIndex": 1,
+    "explication": "La balise <output> est utilisée pour afficher un résultat calculé. \nExemple : \n <output id=\"res\"></output>"
+  },
+  {
+    "question": "35 - Quel attribut rend un champ non modifiable mais sélectionnable ?",
+    "options": [
+      "disabled",
+      "readonly",
+      "static",
+      "unchangeable"
+    ],
+    "answerIndex": 1,
+    "explication": "readonly empêche la modification mais permet de copier ou tabuler. \nExemple : \n <input type=\"text\" readonly value=\"123\">"
+  },
+  {
+    "question": "36 - Quelle est la bonne pratique pour inclure un favicon dans une page HTML ?",
+    "options": [
+      "<link rel=\"icon\" href=\"favicon.ico\">",
+      "<favicon src=\"favicon.ico\">",
+      "<img rel=\"favicon\">",
+      "<meta name=\"favicon\">"
+    ],
+    "answerIndex": 0,
+    "explication": "La balise <link> avec rel=\"icon\" est la bonne méthode. \nExemple : \n <link rel=\"icon\" href=\"favicon.ico\">"
+  },
+  {
+    "question": "37 - Que fait l'attribut 'spellcheck' ?",
+    "options": [
+      "Corrige automatiquement la syntaxe HTML",
+      "Vérifie l’orthographe du contenu éditable",
+      "Désactive les erreurs JavaScript",
+      "Ajoute une grammaire automatique"
+    ],
+    "answerIndex": 1,
+    "explication": "spellcheck active ou désactive la vérification orthographique. \nExemple : \n <textarea spellcheck=\"true\"></textarea>"
+  },
+  {
+    "question": "38 - Quel attribut HTML permet de limiter le nombre maximal de caractères ?",
+    "options": [
+      "maxlength",
+      "maxchar",
+      "limit",
+      "charlimit"
+    ],
+    "answerIndex": 0,
+    "explication": "maxlength fixe un nombre maximum de caractères acceptés dans un champ. \nExemple : \n <input maxlength=\"20\">"
+  },
+  {
+    "question": "39 - Quelle est la fonction de l’attribut 'download' sur un lien ?",
+    "options": [
+     
+      "Ouvrir une fenêtre modale",
+      "Exécuter une requête AJAX",
+      "Empêcher le clic droit",
+      "Télécharger un fichier sans quitter la page"
+    ],
+    "answerIndex": 3,
+    "explication": "download force le téléchargement du fichier lié. \nExemple : \n <a href=\"fichier.pdf\" download>Télécharger</a>"
+  },
+  {
+    "question": "40 - Que permet la balise <mark> ?",
+    "options": [
+      "Surbrillance textuelle",
+      "Insertion de code",
+      "Ajouter un lien",
+      "Mettre en gras"
+    ],
+    "answerIndex": 0,
+    "explication": "<mark> permet de mettre en surbrillance un texte, souvent pour montrer une recherche. \nExemple : \n <mark>important</mark>"
+  },
+  {
+    "question": "41 - Quelle est la particularité de <time>? ",
+    "options": [
+      "C’est une balise obsolète",
+      "Elle permet d’indiquer une heure lisible par machine",
+      "Elle sert à afficher des horloges",
+      "Elle remplace <date>"
+    ],
+    "answerIndex": 1,
+    "explication": "<time datetime=\"2025-07-15\">15 juillet 2025</time> est compréhensible à la fois par l'humain et la machine."
+  },
+  {
+    "question": "42 - Quel attribut HTML permet d’indiquer un modèle de saisie attendu ?",
+    "options": [
+      "example",
+      "pattern",
+      "mask",
+      "type"
+    ],
+    "answerIndex": 1,
+    "explication": "pattern permet d’imposer une expression régulière pour la saisie. \nExemple : \n <input pattern=\"[A-Za-z]{3}\">"
+  },
+  {
+    "question": "43 - Quelle balise permet d'intégrer un plugin externe (PDF, Flash, etc.) ?",
+    "options": [
+      "<object>",
+      "<plugin>",
+      "<embed>",
+      "<external>"
+    ],
+    "answerIndex": 0,
+    "explication": "<object> permet d’intégrer divers types de contenus externes. \nExemple : \n <object data=\"doc.pdf\" type=\"application/pdf\">\n</object>"
+  },
+  {
+    "question": "44 - Quelle balise permet d’afficher une légende pour une image ?",
+    "options": [
+      "<legend>",
+      "<caption>",
+      "<figcaption>",
+      "<label>"
+    ],
+    "answerIndex": 2,
+    "explication": "<figcaption> est utilisée avec <figure> pour ajouter une légende à une image ou diagramme. \nExemple : \n <figure>\n<img src=\"chat.jpg\">\n<figcaption>Un chat</figcaption>\n</figure>"
+  },
+  {
+    "question": "45 - Quelle est la particularité de l’attribut 'novalidate' ?",
+    "options": [
+      "Ignore tous les champs du formulaire",
+      "Empêche la validation HTML5",
+      "Supprime les erreurs de console",
+      "Bloque l’envoi du formulaire"
+    ],
+    "answerIndex": 1,
+    "explication": "novalidate désactive la validation automatique HTML du formulaire. \nExemple : \n <form novalidate>"
+  },
+  {
+    "question": "46 - À quoi sert la balise <details> ?",
+    "options": [
+      "Créer un résumé de page",
+      "Créer une infobulle",
+      "Gérer l'animation d’un champ",
+      "Afficher du contenu déroulant"
+    ],
+    "answerIndex": 3,
+    "explication": "<details> permet de masquer/afficher du contenu cliquable. \nExemple :\n <details><summary>Lire plus</summary>Texte caché</details>"
+  },
+  {
+    "question": "47 - Que fait l’attribut 'draggable' ?",
+    "options": [
+      "Empêche la saisie",
+      "Rend un élément déplaçable",
+      "Ajoute un curseur",
+      "Crée une animation"
+    ],
+    "answerIndex": 1,
+    "explication": "draggable permet de rendre un élément déplaçable par glisser-déposer. \nExemple : \n <div draggable=\"true\">Déplace-moi</div>"
+  },
+  {
+    "question": "48 - Quelle est la signification de la balise <wbr> ?",
+    "options": [
+      "Balise de fin de ligne",
+      "Balise de retour en arrière",
+      "Point de coupure de mot",
+      "Espace non sécable"
+    ],
+    "answerIndex": 2,
+    "explication": "<wbr> insère un point où le navigateur peut couper le mot en cas de besoin. \nExemple : \n Super<wbr>califragilistic"
   }
 
 ]
