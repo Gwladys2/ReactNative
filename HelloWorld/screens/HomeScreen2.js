@@ -18,8 +18,8 @@ const HomeScreen2 = ({ navigation }) => {
     <View style={styles.container}>
      
     
-      <Text style={styles.title}>HTML CSS JAVASCRIPT</Text>
-      <Text >Sélectionne un niveau :</Text>
+      <Text style={styles.title}>Sélectionne un niveau :</Text>
+      
       {niveaux.map(({ label, screen }) => (
         <TouchableOpacity
           key={label}
@@ -45,7 +45,7 @@ const styles = StyleSheet.create({
     padding: 20,
   },
   title: {
-    fontSize: 22,
+    fontSize: 15,
     marginBottom: 20,
     fontWeight: 'bold',
   },

@@ -1,9 +1,9 @@
 import React, { useContext, useState } from 'react';
 import { View, Text, Button, StyleSheet, Alert } from 'react-native';
-import questions from '../questions/serie5.json';
+import questions from '../questions/Architecture/serie1.json';
 import { ProgressContext } from '../context/ProgressContext';
 import HeaderStats from '../components/HeaderStats';
-import Logo from '../screens/Logo';
+import Logo from '../screens/Logo'; 
 
 
 
@@ -11,7 +11,7 @@ export default function LessonScreen({ navigation }) {
     const { xp, lives, updateProgress } = useContext(ProgressContext);
     const [currentIndex, setCurrentIndex] = useState(0);
     const [showRestart, setShowRestart] = useState(false);
-    const [niveau, setNiveau]=useState(5);
+    const [niveau, setNiveau]=useState(2);
 
     const handleAnswer = async (index) => {
         const current = questions[currentIndex];
@@ -53,30 +53,26 @@ export default function LessonScreen({ navigation }) {
         navigation.navigate('Accueil');
     };
 
+
+
     return (
         <View style={styles.container}>
+            
             <HeaderStats />
             <Logo/>
             {!showRestart ? (
                 <>
-                    <Text style={styles.titre}>JavaScript niveau débutant</Text>
+                    <Text style={styles.titre}>Architecture de l'ordinateur</Text>
 
                     <Text style={styles.question}>{current.question}</Text>
                     {current.options.map((option, i) => (
                         <Button key={i} title={option} onPress={() => handleAnswer(i)} />
                     ))}
-                     <Button 
-                        title="Retour à la sélection des niveaux"
-                        onPress={() =>
-                            navigation.navigate('Accueil')}
-                        color="#ff4444"
-                        />
+                     
                 </>
             ) : (
                 <>
                     <Text style={styles.question}>Leçon terminée 🎉</Text>
-                    <Button title="revenir au CSS niveau 2" onPress={() => navigation.navigate('CSS 2')} />
-                    <Button title="passer au JAVASCRIPT niveau 2" onPress={() => navigation.navigate('JAVASCRIPT 2')} />
                     <Button title="Recommencer à  0 (réinitialise vies et xp)" onPress={handleRestart} color="#ff4444" />
                 </>
             )}
@@ -87,7 +83,6 @@ export default function LessonScreen({ navigation }) {
 
 const styles = StyleSheet.create({
     container: { flex: 1, padding: 20, justifyContent: 'flex-start' },
-    question: { fontSize: 20, marginBottom: 20, fontWeight: 'bold' },
+    question: { fontSize: 20, marginBottom: 20, fontWeight: 'bold'},
     titre:{textAlign: 'center', fontSize: 20, marginBottom: 20, fontWeight: 'bold', marginTop:10}
-    
 });

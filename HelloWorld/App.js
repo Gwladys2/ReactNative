@@ -2,6 +2,7 @@ import React from 'react';
 import { View, StyleSheet } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
+
 import HomeScreen from './screens/HomeScreen';
 import LessonScreen from './screens/LessonScreen';
 import Niveau2 from './screens/Niveau2';
@@ -15,8 +16,10 @@ import Reseaux from './screens/Reseaux';
 import SystReseaux from './screens/SystReseaux';
 import Systemes from './screens/Systemes';
 import SystResMenu from './screens/SystResMenu';
+import Architecture from './screens/Architecture';
 import { ProgressProvider } from './context/ProgressContext';
 import Accueil from './screens/HomeScreen2';
+
 import Footer from './components/Footer'; // ton composant Footer
 
 const Stack = createNativeStackNavigator();
@@ -24,12 +27,13 @@ const Stack = createNativeStackNavigator();
 export default function App() {
   return (
     <ProgressProvider>
-      <View style={styles.container}>
-        
-        {/* Navigation = contenu principal */}
-        <View style={styles.content}>
-          <NavigationContainer>
-            <Stack.Navigator id="rootStack" initialRouteName="Menu">
+      <NavigationContainer>
+        {/* Layout global */}
+        <View style={styles.container}>
+
+          {/* Navigation = contenu principal */}
+          <View style={styles.content}>
+            <Stack.Navigator initialRouteName="Menu">
               <Stack.Screen name="Loading" component={LoadingScreen} options={{ headerShown: false }} />
               <Stack.Screen name="Home" component={HomeScreen} />
               <Stack.Screen name="HTML 1" component={LessonScreen} />
@@ -44,22 +48,23 @@ export default function App() {
               <Stack.Screen name="SystResMenu" component={SystResMenu} />
               <Stack.Screen name="Reseaux" component={Reseaux} />
               <Stack.Screen name="SystReseaux" component={SystReseaux} />
+              <Stack.Screen name="Architecture" component={Architecture} />
             </Stack.Navigator>
-          </NavigationContainer>
-        </View>
+          </View>
 
-        {/* Footer global et fixe */}
-        <Footer />
-      </View>
+          {/* Footer global et fixe */}
+          <Footer />
+        </View>
+      </NavigationContainer>
     </ProgressProvider>
   );
 }
 
 const styles = StyleSheet.create({
-  container: { 
-    flex: 1 
+  container: {
+    flex: 1,
   },
-  content: { 
-    flex: 1 // occupe tout l’espace sauf le footer
-  }
+  content: {
+    flex: 1, // occupe tout l’espace sauf le footer
+  },
 });

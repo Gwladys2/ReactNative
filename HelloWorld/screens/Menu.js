@@ -24,7 +24,7 @@ export default function MonAccueil({ navigation }) {
                 
              <Button
                     title="Architecture de l'ordinateur"
-                    onPress={() => navigation.navigate('Accueil')}
+                    onPress={() => navigation.navigate('Architecture')}
                     color="#4498ffff"
                     />     
         </View>

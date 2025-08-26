@@ -1,0 +1,332 @@
+[
+  {
+    "question": "1 - Quel est le rôle principal de l’unité centrale (CPU) dans un ordinateur ?",
+    "options": [
+      "Stocker les données",
+      "Exécuter les instructions",
+      "Afficher les images",
+      "Gérer les périphériques"
+    ],
+    "answerIndex": 1,
+    "explications": "Le CPU (Central Processing Unit) est le cerveau de l’ordinateur, chargé d’exécuter les instructions des programmes."
+  },
+  {
+    "question": "2 - Quelle est la différence entre la RAM et la ROM ?",
+    "options": [
+      "La RAM est volatile, la ROM est non volatile",
+      "La RAM contient le BIOS, la ROM stocke les données temporaires",
+      "La RAM est permanente, la ROM est temporaire",
+      "Aucune différence"
+    ],
+    "answerIndex": 0,
+    "explications": "La RAM (mémoire vive) perd son contenu à l’arrêt, alors que la ROM (mémoire morte) conserve ses données."
+  },
+  {
+    "question": "3 - Dans le modèle de Von Neumann, où sont stockées les instructions d’un programme ?",
+    "options": [
+      "Dans l’unité arithmétique et logique",
+      "Dans la mémoire principale",
+      "Dans le disque dur",
+      "Dans la carte graphique"
+    ],
+    "answerIndex": 1,
+    "explications": "Le modèle de Von Neumann stipule que données et instructions sont stockées dans la même mémoire principale."
+  },
+  {
+    "question": "4 - Quelle est la fonction de l’unité de contrôle (CU) du processeur ?",
+    "options": [
+      "Effectuer les calculs",
+      "Coordonner l’exécution des instructions",
+      "Stocker les données",
+      "Afficher les résultats"
+    ],
+    "answerIndex": 1,
+    "explications": "L’unité de contrôle (CU) orchestre l’exécution des instructions en dirigeant le flux des données et des signaux."
+  },
+  {
+    "question": "5 - Quel composant est utilisé pour effectuer les opérations arithmétiques et logiques ?",
+    "options": [
+      "ALU",
+      "Cache",
+      "BIOS",
+      "ROM"
+    ],
+    "answerIndex": 0,
+    "explications": "L’ALU (Arithmetic and Logic Unit) est dédiée aux calculs et comparaisons logiques."
+  },
+  {
+    "question": "6 - À quoi sert la mémoire cache ?",
+    "options": [
+      "Stocker le système d’exploitation",
+      "Accélérer l’accès aux données fréquentes",
+      "Augmenter la capacité du disque dur",
+      "Remplacer la RAM"
+    ],
+    "answerIndex": 1,
+    "explications": "La mémoire cache garde les données fréquemment utilisées pour accélérer l’exécution des programmes."
+  },
+  {
+    "question": "7 - Quel bus relie le processeur à la mémoire principale ?",
+    "options": [
+      "Bus de données",
+      "Bus d’adresses",
+      "Bus système",
+      "Bus USB"
+    ],
+    "answerIndex": 2,
+    "explications": "Le bus système inclut le bus de données, d’adresses et de contrôle pour relier CPU, mémoire et périphériques."
+  },
+  {
+    "question": "8 - Quelle est la différence entre un processeur 32 bits et un processeur 64 bits ?",
+    "options": [
+      "Le 64 bits est deux fois plus rapide",
+      "Le 64 bits peut gérer plus de mémoire",
+      "Le 32 bits ne peut pas exécuter Windows",
+      "Aucune différence"
+    ],
+    "answerIndex": 1,
+    "explications": "L’architecture 64 bits permet d’adresser une mémoire beaucoup plus grande que 32 bits."
+  },
+  {
+    "question": "9 - Quelle est la fonction du BIOS ou de l’UEFI ?",
+    "options": [
+      "Exécuter les applications",
+      "Initialiser le matériel au démarrage",
+      "Sauvegarder les fichiers",
+      "Gérer les impressions"
+    ],
+    "answerIndex": 1,
+    "explications": "Le BIOS/UEFI configure et initialise les composants matériels au démarrage avant de charger l’OS."
+  },
+  {
+    "question": "10 - Quelle mémoire est la plus rapide ?",
+    "options": [
+      "Disque dur",
+      "RAM",
+      "Mémoire cache",
+      "SSD"
+    ],
+    "answerIndex": 2,
+    "explications": "La mémoire cache est la plus rapide car située directement dans ou très proche du CPU."
+  },
+  {
+    "question": "11 - Quel composant exécute le cycle d’instruction (fetch, decode, execute) ?",
+    "options": [
+      "GPU",
+      "CPU",
+      "RAM",
+      "ROM"
+    ],
+    "answerIndex": 1,
+    "explications": "Le CPU exécute en permanence le cycle : chercher l’instruction, la décoder et l’exécuter."
+  },
+  {
+    "question": "12 - Que signifie ALU ?",
+    "options": [
+      "Arithmetic and Logic Unit",
+      "Advanced Level Unit",
+      "Automated Logic Utility",
+      "Application Layer Utility"
+    ],
+    "answerIndex": 0,
+    "explications": "ALU = Arithmetic and Logic Unit, responsable des calculs arithmétiques et logiques."
+  },
+  {
+    "question": "13 - Quel type de mémoire est utilisée pour stocker le système d’exploitation et les programmes ?",
+    "options": [
+      "Cache",
+      "RAM",
+      "ROM",
+      "Registres"
+    ],
+    "answerIndex": 1,
+    "explications": "La RAM stocke temporairement le système et les programmes en cours d’exécution."
+  },
+  {
+    "question": "14 - Quel composant contient les registres du processeur ?",
+    "options": [
+      "RAM",
+      "CPU",
+      "ROM",
+      "Carte mère"
+    ],
+    "answerIndex": 1,
+    "explications": "Les registres sont des petites mémoires ultra-rapides intégrées dans le processeur."
+  },
+  {
+    "question": "15 - Quelle est la différence entre la mémoire volatile et non volatile ?",
+    "options": [
+      "La volatile garde les données en permanence",
+      "La non volatile perd les données à l’arrêt",
+      "La volatile perd les données à l’arrêt",
+      "Aucune"
+    ],
+    "answerIndex": 2,
+    "explications": "La mémoire volatile (RAM) perd ses données quand l’ordinateur est éteint, contrairement à la ROM ou aux disques."
+  },
+  {
+    "question": "16 - Quel est le rôle du GPU ?",
+    "options": [
+      "Traiter les calculs graphiques",
+      "Remplacer la RAM",
+      "Gérer les imprimantes",
+      "Contrôler les disques"
+    ],
+    "answerIndex": 0,
+    "explications": "Le GPU (Graphics Processing Unit) est spécialisé dans le traitement des images et calculs parallèles."
+  },
+  {
+    "question": "17 - Quel périphérique est considéré comme périphérique d’entrée ?",
+    "options": [
+      "Écran",
+      "Clavier",
+      "Imprimante",
+      "Haut-parleurs"
+    ],
+    "answerIndex": 1,
+    "explications": "Un clavier est un périphérique d’entrée, tandis qu’un écran ou une imprimante sont des périphériques de sortie."
+  },
+  {
+    "question": "18 - Comment appelle-t-on le programme qui fait le lien entre matériel et système d’exploitation ?",
+    "options": [
+      "Pilote",
+      "BIOS",
+      "Registre",
+      "Processeur"
+    ],
+    "answerIndex": 0,
+    "explications": "Un pilote (driver) permet au système d’exploitation de communiquer avec un périphérique matériel."
+  },
+  {
+    "question": "19 - Que représente le terme Hertz (Hz) appliqué au processeur ?",
+    "options": [
+      "La capacité mémoire",
+      "La vitesse d’exécution des cycles",
+      "La taille du cache",
+      "La largeur du bus"
+    ],
+    "answerIndex": 1,
+    "explications": "La fréquence en Hertz indique le nombre de cycles d’horloge que le processeur peut exécuter par seconde."
+  },
+  {
+    "question": "20 - Quelle différence entre un SSD et un disque dur (HDD) ?",
+    "options": [
+      "Un SSD est plus rapide et n’a pas de pièces mécaniques",
+      "Un HDD est plus rapide",
+      "Un SSD est toujours plus grand",
+      "Aucune différence"
+    ],
+    "answerIndex": 0,
+    "explications": "Les SSD (Solid State Drive) sont basés sur la mémoire flash, donc plus rapides et silencieux que les HDD mécaniques."
+  },
+  {
+    "question": "21 - Quelle est la fonction du bus de données ?",
+    "options": [
+      "Transporter les instructions du BIOS",
+      "Transférer les bits entre CPU, mémoire et périphériques",
+      "Stocker les fichiers",
+      "Augmenter la RAM"
+    ],
+    "answerIndex": 1,
+    "explications": "Le bus de données sert au transfert des informations entre les différents composants de l’ordinateur."
+  },
+  {
+    "question": "22 - Quelle est la fonction du bus d’adresses ?",
+    "options": [
+      "Indiquer l’emplacement en mémoire des données",
+      "Stocker les adresses IP",
+      "Transférer les instructions graphiques",
+      "Envoyer les adresses mail"
+    ],
+    "answerIndex": 0,
+    "explications": "Le bus d’adresses indique où se trouvent les données/instructions dans la mémoire."
+  },
+  {
+    "question": "23 - Quelle est la fonction du bus de contrôle ?",
+    "options": [
+      "Gérer les signaux de commande entre composants",
+      "Stocker les programmes",
+      "Transférer uniquement les images",
+      "Contrôler Internet"
+    ],
+    "answerIndex": 0,
+    "explications": "Le bus de contrôle synchronise et gère les signaux d’activation, lecture et écriture entre composants."
+  },
+  {
+    "question": "24 - Que signifie le terme pipeline dans un processeur ?",
+    "options": [
+      "Une mémoire spéciale",
+      "Un mode d’exécution parallèle des instructions",
+      "Un bus de communication",
+      "Un registre d’adresses"
+    ],
+    "answerIndex": 1,
+    "explications": "Le pipeline permet de découper l’exécution des instructions en étapes parallèles pour accélérer le CPU."
+  },
+  {
+    "question": "25 - Quel est le rôle d’un registre dans un processeur ?",
+    "options": [
+      "Stocker temporairement des données ou adresses",
+      "Remplacer la RAM",
+      "Contrôler les disques",
+      "Stocker le BIOS"
+    ],
+    "answerIndex": 0,
+    "explications": "Les registres sont de petites mémoires ultra rapides intégrées au CPU pour stocker données et adresses temporaires."
+  },
+  {
+    "question": "26 - Que signifie l’acronyme IRQ ?",
+    "options": [
+      "Internet Request Queue",
+      "Interrupt Request",
+      "Internal RAM Query",
+      "Input Read Quick"
+    ],
+    "answerIndex": 1,
+    "explications": "IRQ (Interrupt Request) est un signal qui interrompt le CPU pour traiter un événement matériel."
+  },
+  {
+    "question": "27 - Quelle différence entre architecture RISC et CISC ?",
+    "options": [
+      "RISC utilise moins d’instructions simples, CISC plus d’instructions complexes",
+      "RISC est toujours plus rapide",
+      "CISC ne peut pas exécuter Linux",
+      "Aucune différence"
+    ],
+    "answerIndex": 0,
+    "explications": "RISC (Reduced Instruction Set Computing) privilégie des instructions simples et rapides, contrairement à CISC."
+  },
+  {
+    "question": "28 - Quel type de mémoire est utilisée dans les clés USB ?",
+    "options": [
+      "RAM",
+      "Mémoire flash",
+      "Cache",
+      "ROM uniquement"
+    ],
+    "answerIndex": 1,
+    "explications": "Les clés USB utilisent de la mémoire flash, non volatile et réinscriptible."
+  },
+  {
+    "question": "29 - Quel est le rôle du chipset sur la carte mère ?",
+    "options": [
+      "Assurer la communication entre processeur, mémoire et périphériques",
+      "Stocker les programmes",
+      "Exécuter le BIOS",
+      "Contrôler l’écran"
+    ],
+    "answerIndex": 0,
+    "explications": "Le chipset est un ensemble de circuits qui assure la communication entre CPU, RAM, GPU et périphériques."
+  },
+  {
+    "question": "30 - Quelle est la fonction principale d’un système de bus dans un ordinateur ?",
+    "options": [
+      "Augmenter la fréquence du processeur",
+      "Permettre la communication entre composants",
+      "Stocker le système d’exploitation",
+      "Gérer uniquement la carte graphique"
+    ],
+    "answerIndex": 1,
+    "explications": "Un bus est un système de communication qui transporte données, adresses et signaux de contrôle entre composants."
+  }
+]
