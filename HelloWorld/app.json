@@ -2,23 +2,25 @@
   "expo": {
     "name": "Glad Dev",
     "slug": "developpement-web",
-    "version": "1.0.0",
+    "version": "1.0.4",
     "orientation": "portrait",
-    "icon": "./assets/LogoModif.png",
+    "icon": "./assets/LogoModif2.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/LogoModif.png",
+      "image": "./assets/LogoModif2.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
     "ios": {
       "supportsTablet": true
     },
-    "android": {
+    "android": { 
+      "versionCode": 9,
       "adaptiveIcon": {
-        "foregroundImage": "./assets/LogoModif.png",
+        "foregroundImage": "./assets/LogoModif2.png",
         "backgroundColor": "#ffffff"
+        
       },
       "edgeToEdgeEnabled": true,
       "package": "com.gwladys77.developpementweb"

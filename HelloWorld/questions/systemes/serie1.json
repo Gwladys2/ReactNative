@@ -1,0 +1,332 @@
+[
+  {
+    "question": "1 - Quel est le rôle principal d'un système d'exploitation ?",
+    "options": [
+      "Assurer la communication entre matériel et logiciel",
+      "Exécuter uniquement des programmes graphiques",
+      "Remplacer le processeur",
+      "Créer des câbles réseau"
+    ],
+    "answerIndex": 0,
+    "explications": "Le système d'exploitation sert d'interface entre le matériel (CPU, RAM, disque) et les applications logicielles."
+  },
+  {
+    "question": "2 - Quel système d’exploitation est basé sur le noyau Linux ?",
+    "options": [
+      "Ubuntu",
+      "Windows 10",
+      "macOS",
+      "MS-DOS"
+    ],
+    "answerIndex": 0,
+    "explications": "Ubuntu est une distribution Linux, utilisant le noyau Linux."
+  },
+  {
+    "question": "3 - Dans Windows, quel raccourci permet d'ouvrir le gestionnaire de tâches ?",
+    "options": [
+      "Ctrl + Alt + Suppr",
+      "Ctrl + Maj + Échap",
+      "Alt + F4",
+      "Win + R"
+    ],
+    "answerIndex": 1,
+    "explications": "Ctrl + Maj + Échap ouvre directement le gestionnaire de tâches sous Windows."
+  },
+  {
+    "question": "4 - Quel est le rôle du noyau (kernel) d’un système d’exploitation ?",
+    "options": [
+      "Gérer les ressources matérielles",
+      "Créer des pages web",
+      "Exécuter uniquement des scripts",
+      "Installer des câbles réseau"
+    ],
+    "answerIndex": 0,
+    "explications": "Le noyau gère la mémoire, les processus, les périphériques et les appels système."
+  },
+  {
+    "question": "5 - Sous Linux, quelle commande permet de lister les fichiers d’un répertoire ?",
+    "options": [
+      "ls",
+      "dir",
+      "list",
+      "show"
+    ],
+    "answerIndex": 0,
+    "explications": "La commande 'ls' affiche la liste des fichiers et répertoires."
+  },
+  {
+    "question": "6 - Dans Windows, comment s'appelle le processus qui gère l'interface graphique ?",
+    "options": [
+      "explorer.exe",
+      "taskmgr.exe",
+      "cmd.exe",
+      "winlogon.exe"
+    ],
+    "answerIndex": 0,
+    "explications": "explorer.exe est le processus qui gère l’interface graphique (bureau, barre des tâches, etc.)."
+  },
+  {
+    "question": "7 - Quel est le rôle de la mémoire vive (RAM) ?",
+    "options": [
+      "Stocker temporairement les données en cours d’utilisation",
+      "Stocker les fichiers de manière permanente",
+      "Exécuter uniquement le BIOS",
+      "Gérer la carte réseau"
+    ],
+    "answerIndex": 0,
+    "explications": "La RAM stocke temporairement les données nécessaires aux programmes en cours d’exécution."
+  },
+  {
+    "question": "8 - Quelle commande Linux affiche le chemin du répertoire courant ?",
+    "options": [
+      "pwd",
+      "cd",
+      "path",
+      "showdir"
+    ],
+    "answerIndex": 0,
+    "explications": "pwd (print working directory) affiche le répertoire de travail courant."
+  },
+  {
+    "question": "9 - Quel fichier de configuration contient les comptes utilisateurs sous Linux ?",
+    "options": [
+      "/etc/shadow",
+      "/etc/passwd",
+      "/etc/users",
+      "/home/config"
+    ],
+    "answerIndex": 1,
+    "explications": "Le fichier /etc/passwd contient les informations de base sur les comptes utilisateurs."
+  },
+  {
+    "question": "10 - Sous Windows, quelle extension désigne un fichier exécutable ?",
+    "options": [
+      ".exe",
+      ".bat",
+      ".sh",
+      ".dll"
+    ],
+    "answerIndex": 0,
+    "explications": "Les fichiers exécutables portent généralement l’extension .exe sous Windows."
+  },
+  {
+    "question": "11 - Quelle commande Linux permet d’éteindre ou redémarrer le système ?",
+    "options": [
+      "shutdown",
+      "halt",
+      "reboot",
+      "Toutes les réponses"
+    ],
+    "answerIndex": 3,
+    "explications": "shutdown, halt et reboot permettent tous d’arrêter ou redémarrer un système Linux."
+  },
+  {
+    "question": "12 - Quel est le rôle du BIOS/UEFI ?",
+    "options": [
+      "Démarrer l’ordinateur et initialiser le matériel",
+      "Remplacer le disque dur",
+      "Exécuter des scripts réseau",
+      "Gérer uniquement la carte graphique"
+    ],
+    "answerIndex": 0,
+    "explications": "Le BIOS/UEFI initialise le matériel au démarrage et lance le chargeur du système d’exploitation."
+  },
+  {
+    "question": "13 - Quelle commande Linux permet de changer les permissions d’un fichier ?",
+    "options": [
+      "chmod",
+      "chperm",
+      "permset",
+      "setrights"
+    ],
+    "answerIndex": 0,
+    "explications": "chmod (change mode) permet de modifier les droits d’accès d’un fichier ou répertoire."
+  },
+  {
+    "question": "14 - Quel système de fichiers est utilisé par défaut sous Windows ?",
+    "options": [
+      "NTFS",
+      "FAT32",
+      "ext4",
+      "HFS+"
+    ],
+    "answerIndex": 0,
+    "explications": "NTFS est le système de fichiers par défaut de Windows."
+  },
+  {
+    "question": "15 - Quelle commande Linux permet de créer un nouvel utilisateur ?",
+    "options": [
+      "adduser",
+      "newuser",
+      "mkuser",
+      "createuser"
+    ],
+    "answerIndex": 0,
+    "explications": "adduser (ou useradd selon la distribution) permet de créer un utilisateur sous Linux."
+  },
+  {
+    "question": "16 - Dans Windows, quel est le rôle du registre (registry) ?",
+    "options": [
+      "Stocker les paramètres système et logiciels",
+      "Enregistrer les mots de passe des utilisateurs",
+      "Contenir uniquement les pilotes matériels",
+      "Créer des fichiers temporaires"
+    ],
+    "answerIndex": 0,
+    "explications": "Le registre Windows stocke les configurations matérielles, logicielles et système."
+  },
+  {
+    "question": "17 - Quelle commande Linux permet d'afficher l’utilisation du disque ?",
+    "options": [
+      "df",
+      "du",
+      "lsblk",
+      "diskusage"
+    ],
+    "answerIndex": 0,
+    "explications": "La commande 'df' montre l’utilisation des partitions et systèmes de fichiers."
+  },
+  {
+    "question": "18 - Quelle commande Linux permet de tuer un processus ?",
+    "options": [
+      "kill",
+      "stop",
+      "end",
+      "terminate"
+    ],
+    "answerIndex": 0,
+    "explications": "La commande 'kill' envoie un signal à un processus pour l’arrêter."
+  },
+  {
+    "question": "19 - Dans Windows, quelle application permet de gérer les disques et partitions ?",
+    "options": [
+      "Disk Management",
+      "DiskPart",
+      "Gestionnaire de périphériques",
+      "PowerShell"
+    ],
+    "answerIndex": 0,
+    "explications": "L’outil 'Disk Management' (Gestion des disques) permet de créer, supprimer ou formater des partitions."
+  },
+  {
+    "question": "20 - Quelle commande Linux permet de changer de répertoire ?",
+    "options": [
+      "cd",
+      "pwd",
+      "ls",
+      "mv"
+    ],
+    "answerIndex": 0,
+    "explications": "La commande 'cd' (change directory) permet de naviguer entre répertoires."
+  },
+  {
+    "question": "21 - Quelle est la commande pour afficher l’adresse IP sous Windows ?",
+    "options": [
+      "ipconfig",
+      "ifconfig",
+      "ping",
+      "netstat"
+    ],
+    "answerIndex": 0,
+    "explications": "Sous Windows, 'ipconfig' affiche les informations réseau de la machine."
+  },
+  {
+    "question": "22 - Quelle commande Linux permet d’éditer un fichier en mode terminal ?",
+    "options": [
+      "nano",
+      "edit",
+      "open",
+      "gedit"
+    ],
+    "answerIndex": 0,
+    "explications": "nano est un éditeur de texte en mode terminal très courant sous Linux."
+  },
+  {
+    "question": "23 - Quelle commande Linux affiche les processus en cours ?",
+    "options": [
+      "ps",
+      "jobs",
+      "proc",
+      "showps"
+    ],
+    "answerIndex": 0,
+    "explications": "La commande 'ps' liste les processus en cours sur le système."
+  },
+  {
+    "question": "24 - Quel est le rôle d’un hyperviseur ?",
+    "options": [
+      "Créer et gérer des machines virtuelles",
+      "Installer des mises à jour système",
+      "Compiler du code source",
+      "Superviser les utilisateurs"
+    ],
+    "answerIndex": 0,
+    "explications": "Un hyperviseur permet de créer, exécuter et gérer des machines virtuelles."
+  },
+  {
+    "question": "25 - Dans Linux, quelle commande permet de changer le mot de passe d’un utilisateur ?",
+    "options": [
+      "passwd",
+      "chpass",
+      "setpass",
+      "usermod"
+    ],
+    "answerIndex": 0,
+    "explications": "passwd permet de modifier le mot de passe d’un utilisateur."
+  },
+  {
+    "question": "26 - Quel est le rôle principal d’un pilote (driver) ?",
+    "options": [
+      "Assurer la communication entre le système et le matériel",
+      "Améliorer la vitesse du CPU",
+      "Créer des fichiers exécutables",
+      "Sauvegarder les données"
+    ],
+    "answerIndex": 0,
+    "explications": "Un pilote est un logiciel qui permet au système d’exploitation de communiquer avec un périphérique matériel."
+  },
+  {
+    "question": "27 - Dans Linux, quelle commande permet de voir l’espace mémoire utilisé ?",
+    "options": [
+      "free",
+      "top",
+      "memstat",
+      "vmstat"
+    ],
+    "answerIndex": 0,
+    "explications": "La commande 'free' affiche l’utilisation de la mémoire RAM et swap."
+  },
+  {
+    "question": "28 - Quelle commande Linux permet d’afficher les dernières lignes d’un fichier ?",
+    "options": [
+      "tail",
+      "head",
+      "less",
+      "cat"
+    ],
+    "answerIndex": 0,
+    "explications": "tail affiche la fin d’un fichier, souvent utilisé pour consulter les logs."
+  },
+  {
+    "question": "29 - Dans Windows, quel utilitaire en ligne de commande permet de partitionner un disque ?",
+    "options": [
+      "diskpart",
+      "format",
+      "chkdsk",
+      "fdisk"
+    ],
+    "answerIndex": 0,
+    "explications": "diskpart est l’outil Windows permettant de gérer partitions et volumes en ligne de commande."
+  },
+  {
+    "question": "30 - Quelle commande Linux permet de copier un fichier ?",
+    "options": [
+      "cp",
+      "copy",
+      "mv",
+      "clone"
+    ],
+    "answerIndex": 0,
+    "explications": "cp permet de copier un fichier ou un dossier sous Linux."
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "question": "1 - Quel est le rôle principal d’un réseau informatique ?",
+    "options": [
+      "Permettre la communication et le partage de ressources entre machines",
+      "Améliorer la vitesse du processeur",
+      "Installer des systèmes d’exploitation",
+      "Compiler des programmes"
+    ],
+    "answerIndex": 0,
+    "explications": "Un réseau sert à relier plusieurs équipements pour échanger des données et partager des ressources (imprimante, fichiers, internet)."
+  },
+  {
+    "question": "2 - Combien de couches possède le modèle OSI ?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answerIndex": 3,
+    "explications": "Le modèle OSI comporte 7 couches : physique, liaison de données, réseau, transport, session, présentation et application."
+  },
+  {
+    "question": "3 - Quelle est la couche 3 du modèle OSI ?",
+    "options": [
+      "Transport",
+      "Réseau",
+      "Liaison de données",
+      "Application"
+    ],
+    "answerIndex": 1,
+    "explications": "La couche 3 (Réseau) gère l’adressage et le routage des paquets (ex : IP)."
+  },
+  {
+    "question": "4 - Quelle commande Windows permet de tester la connectivité réseau ?",
+    "options": [
+      "ping",
+      "ipconfig",
+      "tracert",
+      "netstat"
+    ],
+    "answerIndex": 0,
+    "explications": "La commande 'ping' envoie des requêtes ICMP pour tester la connectivité vers une adresse."
+  },
+  {
+    "question": "5 - Quelle adresse IPv4 est réservée pour localhost ?",
+    "options": [
+      "192.168.0.1",
+      "127.0.0.1",
+      "10.0.0.1",
+      "255.255.255.0"
+    ],
+    "answerIndex": 1,
+    "explications": "127.0.0.1 est l’adresse de loopback utilisée pour tester la pile réseau localement."
+  },
+  {
+    "question": "6 - Quel protocole est utilisé pour envoyer des emails ?",
+    "options": [
+      "SMTP",
+      "IMAP",
+      "POP3",
+      "FTP"
+    ],
+    "answerIndex": 0,
+    "explications": "SMTP (Simple Mail Transfer Protocol) est utilisé pour l’envoi d’emails."
+  },
+  {
+    "question": "7 - Quelle est la fonction principale du protocole DNS ?",
+    "options": [
+      "Traduire les noms de domaine en adresses IP",
+      "Sécuriser les paquets réseau",
+      "Attribuer automatiquement des adresses IP",
+      "Contrôler l’accès au réseau"
+    ],
+    "answerIndex": 0,
+    "explications": "DNS convertit un nom de domaine (ex : www.google.com) en adresse IP."
+  },
+  {
+    "question": "8 - Quelle commande Linux affiche la configuration IP ?",
+    "options": [
+      "ifconfig",
+      "ipconfig",
+      "netstat",
+      "route"
+    ],
+    "answerIndex": 0,
+    "explications": "Sous Linux, 'ifconfig' (ou 'ip a') affiche la configuration réseau de la machine."
+  },
+  {
+    "question": "9 - Que signifie DHCP ?",
+    "options": [
+      "Dynamic Host Configuration Protocol",
+      "Data Host Connection Protocol",
+      "Direct Hardware Control Protocol",
+      "Domain Host Configuration Process"
+    ],
+    "answerIndex": 0,
+    "explications": "DHCP attribue automatiquement des adresses IP et paramètres réseau aux machines."
+  },
+  {
+    "question": "10 - Quel protocole est utilisé pour naviguer sur un site web sécurisé ?",
+    "options": [
+      "HTTP",
+      "HTTPS",
+      "FTP",
+      "TELNET"
+    ],
+    "answerIndex": 1,
+    "explications": "HTTPS est HTTP sécurisé avec chiffrement TLS/SSL."
+  },
+  {
+    "question": "11 - Quelle commande Windows affiche la table de routage ?",
+    "options": [
+      "route print",
+      "ipconfig /all",
+      "ping 127.0.0.1",
+      "arp -a"
+    ],
+    "answerIndex": 0,
+    "explications": "'route print' affiche la table de routage IP sous Windows."
+  },
+  {
+    "question": "12 - Quelle est la plage d’adresses privées définie par la norme IPv4 ?",
+    "options": [
+      "192.168.0.0/16, 172.16.0.0/12, 10.0.0.0/8",
+      "127.0.0.0/8 uniquement",
+      "8.8.8.8 et 1.1.1.1",
+      "255.255.255.0/24"
+    ],
+    "answerIndex": 0,
+    "explications": "Les adresses privées sont 10.0.0.0/8, 172.16.0.0/12 et 192.168.0.0/16."
+  },
+  {
+    "question": "13 - Quelle couche du modèle OSI utilise le protocole TCP ?",
+    "options": [
+      "Application",
+      "Transport",
+      "Réseau",
+      "Liaison"
+    ],
+    "answerIndex": 1,
+    "explications": "TCP (Transmission Control Protocol) fonctionne à la couche Transport."
+  },
+  {
+    "question": "14 - Quelle est la taille d’une adresse IPv6 ?",
+    "options": [
+      "32 bits",
+      "64 bits",
+      "128 bits",
+      "256 bits"
+    ],
+    "answerIndex": 2,
+    "explications": "Les adresses IPv6 ont une longueur de 128 bits, soit 8 groupes hexadécimaux."
+  },
+  {
+    "question": "15 - Quelle commande Linux permet de suivre le chemin des paquets ?",
+    "options": [
+      "traceroute",
+      "tracepath",
+      "ping",
+      "netstat"
+    ],
+    "answerIndex": 0,
+    "explications": "traceroute montre les routeurs traversés jusqu’à la destination."
+  },
+  {
+    "question": "16 - Quel est le rôle d’un pare-feu (firewall) ?",
+    "options": [
+      "Filtrer le trafic réseau",
+      "Accélérer le processeur",
+      "Stocker les fichiers utilisateurs",
+      "Attribuer des adresses IP"
+    ],
+    "answerIndex": 0,
+    "explications": "Un pare-feu contrôle le trafic réseau entrant et sortant selon des règles de sécurité."
+  },
+  {
+    "question": "17 - Quelle adresse IPv4 représente le broadcast ?",
+    "options": [
+      "0.0.0.0",
+      "255.255.255.255",
+      "127.0.0.1",
+      "192.168.1.1"
+    ],
+    "answerIndex": 1,
+    "explications": "255.255.255.255 est l’adresse IPv4 de diffusion (broadcast)."
+  },
+  {
+    "question": "18 - Quelle commande affiche les connexions réseau actives sous Windows ?",
+    "options": [
+      "netstat",
+      "ping",
+      "ipconfig",
+      "nslookup"
+    ],
+    "answerIndex": 0,
+    "explications": "netstat affiche les connexions en cours et les ports utilisés."
+  },
+  {
+    "question": "19 - Quelle est la différence entre TCP et UDP ?",
+    "options": [
+      "TCP est fiable et orienté connexion, UDP est rapide mais sans garantie",
+      "UDP est plus sécurisé que TCP",
+      "TCP est uniquement utilisé en local",
+      "UDP est utilisé uniquement pour les emails"
+    ],
+    "answerIndex": 0,
+    "explications": "TCP assure la fiabilité avec accusés de réception, UDP est sans connexion ni garantie."
+  },
+  {
+    "question": "20 - Quel protocole est utilisé pour transférer des fichiers ?",
+    "options": [
+      "FTP",
+      "SMTP",
+      "IMAP",
+      "SSH"
+    ],
+    "answerIndex": 0,
+    "explications": "FTP (File Transfer Protocol) est utilisé pour transférer des fichiers sur un réseau."
+  },
+  {
+    "question": "21 - Que signifie l’acronyme VPN ?",
+    "options": [
+      "Virtual Private Network",
+      "Visual Protocol Network",
+      "Verified Protected Node",
+      "Virtual Program Name"
+    ],
+    "answerIndex": 0,
+    "explications": "VPN (Virtual Private Network) permet de créer un tunnel sécurisé entre un client et un serveur."
+  },
+  {
+    "question": "22 - Quelle est la fonction du protocole ARP ?",
+    "options": [
+      "Associer une adresse IP à une adresse MAC",
+      "Attribuer automatiquement une IP",
+      "Traduire un nom de domaine",
+      "Chiffrer les communications"
+    ],
+    "answerIndex": 0,
+    "explications": "ARP (Address Resolution Protocol) traduit les adresses IP en adresses MAC."
+  },
+  {
+    "question": "23 - Quelle commande teste la résolution DNS sous Windows ?",
+    "options": [
+      "nslookup",
+      "ping",
+      "tracert",
+      "route print"
+    ],
+    "answerIndex": 0,
+    "explications": "nslookup permet de tester et diagnostiquer la résolution DNS."
+  },
+  {
+    "question": "24 - Quelle est la fonction de la couche liaison de données (couche 2 OSI) ?",
+    "options": [
+      "Assurer la communication physique avec adresses MAC",
+      "Traduire les adresses IP en noms de domaine",
+      "Contrôler la session",
+      "Gérer la mémoire"
+    ],
+    "answerIndex": 0,
+    "explications": "La couche 2 gère les trames, adresses MAC et l’accès au support physique."
+  },
+  {
+    "question": "25 - Quelle est la plage d’adresses IPv4 de classe C privée ?",
+    "options": [
+      "192.168.0.0 – 192.168.255.255",
+      "10.0.0.0 – 10.255.255.255",
+      "172.16.0.0 – 172.31.255.255",
+      "224.0.0.0 – 239.255.255.255"
+    ],
+    "answerIndex": 0,
+    "explications": "La plage 192.168.0.0/16 correspond à la classe C privée."
+  },
+  {
+    "question": "26 - Quel protocole est utilisé pour la navigation web non sécurisée ?",
+    "options": [
+      "HTTP",
+      "FTP",
+      "SMTP",
+      "SSH"
+    ],
+    "answerIndex": 0,
+    "explications": "HTTP est utilisé pour le transfert de pages web en clair."
+  },
+  {
+    "question": "27 - Quelle commande Linux affiche la table ARP ?",
+    "options": [
+      "arp -n",
+      "ifconfig",
+      "ip route",
+      "ping"
+    ],
+    "answerIndex": 0,
+    "explications": "La commande 'arp -n' affiche la table ARP contenant les correspondances IP/MAC."
+  },
+  {
+    "question": "28 - Quelle est la fonction principale d’un switch réseau ?",
+    "options": [
+      "Transmettre les paquets selon les adresses MAC",
+      "Attribuer des adresses IP",
+      "Connecter un réseau à Internet",
+      "Traduire les adresses DNS"
+    ],
+    "answerIndex": 0,
+    "explications": "Un switch fonctionne en couche 2 et transmet les trames en fonction des adresses MAC."
+  },
+  {
+    "question": "29 - Quelle est la fonction principale d’un routeur ?",
+    "options": [
+      "Acheminer les paquets entre différents réseaux",
+      "Connecter les périphériques via adresses MAC",
+      "Traduire des noms de domaine",
+      "Chiffrer le trafic réseau"
+    ],
+    "answerIndex": 0,
+    "explications": "Un routeur fonctionne en couche 3 et permet de relier plusieurs réseaux différents."
+  },
+  {
+    "question": "30 - Quelle technologie permet de segmenter un réseau physique en réseaux logiques ?",
+    "options": [
+      "VLAN",
+      "VPN",
+      "NAT",
+      "DNS"
+    ],
+    "answerIndex": 0,
+    "explications": "Un VLAN (Virtual LAN) permet de créer des réseaux logiques distincts sur une même infrastructure physique."
+  }
+]

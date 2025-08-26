@@ -1,25 +1,19 @@
 import React from 'react';
 import { View, Text, TouchableOpacity, StyleSheet } from 'react-native';
 
-
-
-
-const HomeScreen2 = ({ navigation }) => {
+const SystResMenu = ({ navigation }) => {
   const niveaux = [
-    { label: 'Le HTML niveau débutant', screen: 'HTML 1' },
-    { label: 'Le HTML niveau avancé', screen: 'HTML 2' },
-    { label: 'Le CSS niveau débutant', screen: 'CSS 1' },
-    { label: 'Le CSS niveau avancé', screen: 'CSS 2' },
-    { label: 'JAVASCRIPT niveau débutant', screen: 'JAVASCRIPT 1' },
-    { label: 'JAVASCRIPT niveau avancé', screen: 'JAVASCRIPT 2' },
+    { label: 'Les Systèmes', screen: 'Systemes' },
+    { label: 'Les Réseaux', screen: 'Reseaux' },
+    { label: 'Systèmes et Réseaux', screen: 'SystReseaux' },
+    
+    
   ];
 
   return (
     <View style={styles.container}>
-     
-    
-      <Text style={styles.title}>HTML CSS JAVASCRIPT</Text>
-      <Text >Sélectionne un niveau :</Text>
+      <Text style={styles.title}>Systèmes et réseaux</Text>
+      <Text >Sélectionnez un sujet :</Text>
       {niveaux.map(({ label, screen }) => (
         <TouchableOpacity
           key={label}
@@ -29,12 +23,11 @@ const HomeScreen2 = ({ navigation }) => {
           <Text style={styles.buttonText}>{label}</Text>
         </TouchableOpacity>
       ))}
-     
     </View>
   );
 };
 
-export default HomeScreen2;
+export default SystResMenu;
 
 const styles = StyleSheet.create({
   container: {

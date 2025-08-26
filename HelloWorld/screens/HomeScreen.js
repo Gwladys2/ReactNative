@@ -19,7 +19,7 @@ export default function HomeScreen({ navigation }) {
 
     const handleRestart = async () => {
         await updateProgress(0, 5, 1, true);
-        navigation.navigate('Accueil');
+        navigation.navigate('Menu');
     };
 
     if (loading) {

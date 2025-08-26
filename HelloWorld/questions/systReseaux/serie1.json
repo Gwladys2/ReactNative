@@ -1,0 +1,222 @@
+[
+  {
+    "question": "1 - Quel composant du système d’exploitation gère la communication avec la carte réseau ?",
+    "options": [
+      "Le gestionnaire de fichiers",
+      "Le pilote (driver) réseau",
+      "Le planificateur de tâches",
+      "Le BIOS"
+    ],
+    "answerIndex": 1,
+    "explications": "C’est le pilote réseau, installé dans le système, qui fait le lien entre le matériel (carte réseau) et les applications qui communiquent via Internet."
+  },
+  {
+    "question": "2 - Quel protocole est utilisé par le système pour attribuer automatiquement une adresse IP à une machine ?",
+    "options": [
+      "DNS",
+      "HTTP",
+      "DHCP",
+      "FTP"
+    ],
+    "answerIndex": 2,
+    "explications": "DHCP (Dynamic Host Configuration Protocol) attribue automatiquement une adresse IP. Le système d’exploitation utilise ce service pour configurer la pile réseau."
+  },
+  {
+    "question": "3 - Dans une architecture client-serveur, quel rôle joue le système d’exploitation du serveur ?",
+    "options": [
+      "Gérer la mémoire, les processus et les connexions réseau",
+      "Traduire les requêtes en langage binaire",
+      "Afficher une interface graphique au client",
+      "Forcer le chiffrement SSL"
+    ],
+    "answerIndex": 0,
+    "explications": "Le système d’exploitation du serveur gère les ressources (CPU, RAM, sockets réseau) et permet aux services réseau (ex : Apache, MySQL) de répondre aux clients."
+  },
+  {
+    "question": "4 - Quel protocole traduit les noms de domaine en adresses IP que le système peut utiliser ?",
+    "options": [
+      "DHCP",
+      "DNS",
+      "IPSec",
+      "SSH"
+    ],
+    "answerIndex": 1,
+    "explications": "Le protocole DNS (Domain Name System) permet de traduire un nom lisible (ex : google.com) en une adresse IP compréhensible par le système et la carte réseau."
+  },
+  {
+    "question": "5 - Quel rôle joue la table ARP dans le système ?",
+    "options": [
+      "Associer une adresse IP à une adresse MAC",
+      "Stocker les fichiers des utilisateurs",
+      "Gérer la mémoire virtuelle",
+      "Bloquer les paquets non sécurisés"
+    ],
+    "answerIndex": 0,
+    "explications": "ARP (Address Resolution Protocol) est géré par le système d’exploitation et permet de lier une adresse IP (logique) à une adresse MAC (physique)."
+  },
+  {
+    "question": "6 - Quel service système écoute par défaut sur le port 22 pour les connexions distantes sécurisées ?",
+    "options": [
+      "Telnet",
+      "FTP",
+      "SSH",
+      "SMTP"
+    ],
+    "answerIndex": 2,
+    "explications": "SSH (Secure Shell) est un service réseau qui tourne sur le système d’exploitation et permet une connexion distante sécurisée via le port 22."
+  },
+  {
+    "question": "7 - Lorsqu’une application réseau (ex : navigateur) envoie une requête, quel rôle joue le système ?",
+    "options": [
+      "Traduire la requête en signaux électriques pour la carte réseau",
+      "Créer automatiquement une copie des fichiers",
+      "Augmenter la fréquence CPU",
+      "Bloquer le trafic sortant"
+    ],
+    "answerIndex": 0,
+    "explications": "Le système d’exploitation prend les données de l’application, les encapsule dans des paquets et les transmet via la carte réseau."
+  },
+  {
+    "question": "8 - Quelle commande système permet de vérifier la connectivité réseau avec une autre machine ?",
+    "options": [
+      "ls",
+      "ping",
+      "cd",
+      "ps"
+    ],
+    "answerIndex": 1,
+    "explications": "La commande ping envoie des paquets ICMP à une autre machine pour tester la connectivité réseau."
+  },
+  {
+    "question": "9 - Quel protocole de transport est utilisé par le système pour assurer la fiabilité des transmissions ?",
+    "options": [
+      "UDP",
+      "TCP",
+      "ICMP",
+      "HTTP"
+    ],
+    "answerIndex": 1,
+    "explications": "TCP (Transmission Control Protocol) est géré par la pile réseau du système pour garantir une transmission fiable avec accusés de réception."
+  },
+  {
+    "question": "10 - Quel est le rôle de l’adresse MAC par rapport au système et au réseau ?",
+    "options": [
+      "Identifier de façon unique une interface réseau",
+      "Remplacer l’adresse IP publique",
+      "Accélérer l’accès disque",
+      "Attribuer un mot de passe à l’utilisateur"
+    ],
+    "answerIndex": 0,
+    "explications": "Chaque carte réseau a une adresse MAC unique, utilisée par le système et le réseau local pour identifier l’interface physique."
+  },
+  {
+    "question": "11 - Dans une communication réseau, quel composant du système assigne les numéros de port aux applications ?",
+    "options": [
+      "Le BIOS",
+      "Le noyau (kernel)",
+      "Le pare-feu",
+      "Le cache DNS"
+    ],
+    "answerIndex": 1,
+    "explications": "Le noyau du système attribue les numéros de ports aux applications pour leur permettre de communiquer via TCP/UDP."
+  },
+  {
+    "question": "12 - Quelle couche du modèle OSI est directement gérée par le système d’exploitation ?",
+    "options": [
+      "Couche réseau",
+      "Couche liaison de données",
+      "Couche physique",
+      "Toutes les couches basses (liaison, réseau, transport)"
+    ],
+    "answerIndex": 3,
+    "explications": "Le système d’exploitation gère les couches basses (liaison, réseau, transport) pour offrir des services de communication aux applications."
+  },
+  {
+    "question": "13 - Quelle commande système permet de voir les interfaces réseau actives ?",
+    "options": [
+      "ipconfig / ifconfig",
+      "ls -l",
+      "top",
+      "netstat"
+    ],
+    "answerIndex": 0,
+    "explications": "ipconfig (Windows) et ifconfig (Linux) permettent de voir la configuration des interfaces réseau gérées par le système."
+  },
+  {
+    "question": "14 - Quelle est la fonction du pare-feu intégré au système d’exploitation ?",
+    "options": [
+      "Bloquer ou autoriser certains paquets réseau",
+      "Améliorer la vitesse du processeur",
+      "Augmenter la taille de la RAM",
+      "Corriger les erreurs logicielles"
+    ],
+    "answerIndex": 0,
+    "explications": "Le pare-feu est un module système qui filtre les paquets réseau entrants ou sortants selon des règles définies."
+  },
+  {
+    "question": "15 - Quel protocole utilise le système pour envoyer des emails ?",
+    "options": [
+      "POP3",
+      "IMAP",
+      "SMTP",
+      "DNS"
+    ],
+    "answerIndex": 2,
+    "explications": "SMTP (Simple Mail Transfer Protocol) est utilisé par le système pour envoyer des emails via un serveur de messagerie."
+  },
+  {
+    "question": "16 - Dans une connexion réseau, qu’est-ce qu’un socket ?",
+    "options": [
+      "Un câble Ethernet",
+      "Un point de communication géré par le système",
+      "Un protocole de sécurité",
+      "Une mémoire cache"
+    ],
+    "answerIndex": 1,
+    "explications": "Un socket est une structure gérée par le système qui relie une adresse IP et un port à une application pour communiquer sur le réseau."
+  },
+  {
+    "question": "17 - Quelle commande système permet de voir les connexions réseau actives ?",
+    "options": [
+      "netstat",
+      "mkdir",
+      "lsusb",
+      "df -h"
+    ],
+    "answerIndex": 0,
+    "explications": "netstat affiche les connexions réseau actives et les ports utilisés par les applications sur le système."
+  },
+  {
+    "question": "18 - Quel protocole utilise le système pour chiffrer les échanges web ?",
+    "options": [
+      "HTTP",
+      "HTTPS",
+      "FTP",
+      "Telnet"
+    ],
+    "answerIndex": 1,
+    "explications": "HTTPS utilise SSL/TLS pour chiffrer les communications. Le système gère les certificats et la sécurité de la connexion."
+  },
+  {
+    "question": "19 - Quelle ressource système est sollicitée quand un serveur web reçoit beaucoup de requêtes réseau ?",
+    "options": [
+      "Le processeur (CPU)",
+      "Le disque dur",
+      "La mémoire RAM",
+      "Toutes les réponses"
+    ],
+    "answerIndex": 3,
+    "explications": "Un serveur sollicite toutes ses ressources système (CPU, RAM, disque, sockets réseau) pour gérer un grand nombre de connexions simultanées."
+  },
+  {
+    "question": "20 - Quelle couche du modèle TCP/IP correspond au rôle du système d’exploitation qui gère les paquets ?",
+    "options": [
+      "Application",
+      "Transport et Internet",
+      "Présentation",
+      "Session"
+    ],
+    "answerIndex": 1,
+    "explications": "Le système gère la couche Transport (TCP/UDP) et Internet (IP) pour assurer la transmission des paquets."
+  }
+]
