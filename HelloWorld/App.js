@@ -4,6 +4,8 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 
 import HomeScreen from './screens/HomeScreen';
+import ScienceEducation from './screens/ScienceEducation';
+import GrandPedagogue from './screens/GrandPedagogue';
 import LessonScreen from './screens/LessonScreen';
 import Niveau2 from './screens/Niveau2';
 import Niveau3 from './screens/Niveau3';
@@ -35,6 +37,8 @@ export default function App() {
           <View style={styles.content}>
             <Stack.Navigator initialRouteName="Menu">
               <Stack.Screen name="Loading" component={LoadingScreen} options={{ headerShown: false }} />
+              <Stack.Screen name="ScienceEducation" component={ScienceEducation} />
+              <Stack.Screen name="GrandPedagogue" component={GrandPedagogue} />
               <Stack.Screen name="Home" component={HomeScreen} />
               <Stack.Screen name="HTML 1" component={LessonScreen} />
               <Stack.Screen name="Accueil" component={Accueil} />

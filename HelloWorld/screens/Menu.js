@@ -26,7 +26,12 @@ export default function MonAccueil({ navigation }) {
                     title="Architecture de l'ordinateur"
                     onPress={() => navigation.navigate('Architecture')}
                     color="#4498ffff"
-                    />     
+                    />   
+             <Button
+                    title="Science de l'Education"
+                    onPress={() => navigation.navigate('ScienceEducation')}
+                    color="#4498ffff"
+                    />       
         </View>
     );
 }

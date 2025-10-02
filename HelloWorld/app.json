@@ -15,12 +15,11 @@
     "ios": {
       "supportsTablet": true
     },
-    "android": { 
+    "android": {
       "versionCode": 9,
       "adaptiveIcon": {
         "foregroundImage": "./assets/LogoModif2.png",
         "backgroundColor": "#ffffff"
-        
       },
       "edgeToEdgeEnabled": true,
       "package": "com.gwladys77.developpementweb"
@@ -32,6 +31,13 @@
       "eas": {
         "projectId": "06eb09c3-284d-41a9-863a-c3b48504189e"
       }
+    },
+    "owner": "gwladys77",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/06eb09c3-284d-41a9-863a-c3b48504189e"
     }
   }
 }

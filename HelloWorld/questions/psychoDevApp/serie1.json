@@ -1,0 +1,890 @@
+[
+  {
+    "question": "1 - La psychologie du développement étudie principalement :",
+    "options": [
+      "La biologie des gènes",
+      "Le développement psychologique de l’enfant",
+      "La médecine générale",
+      "La linguistique"
+    ],
+    "answerIndex": 1,
+    "explication": "La psychologie du développement s'intéresse à l'évolution mentale, émotionnelle et comportementale de l'enfant, pas directement à la biologie des gènes."
+  },
+  {
+    "question": "2 - Le développement est dit qualitatif lorsqu’il concerne :",
+    "options": [
+      "La taille et le poids",
+      "La manière de penser et raisonner",
+      "La quantité de jouets possédés",
+      "Le nombre d'amis"
+    ],
+    "answerIndex": 1,
+    "explication": "Le développement qualitatif concerne les transformations profondes de l'enfant, comme sa façon de penser, de raisonner et de comprendre le monde."
+  },
+  {
+    "question": "3 - Le développement quantitatif concerne :",
+    "options": [
+      "La logique de raisonnement",
+      "La croissance physique et l’acquisition de connaissances",
+      "Les relations sociales",
+      "Les émotions"
+    ],
+    "answerIndex": 1,
+    "explication": "Le développement quantitatif correspond à ce qui peut être mesuré : taille, poids, vocabulaire, nombre de connaissances."
+  },
+  {
+    "question": "4 - La psychologie génétique est :",
+    "options": [
+      "L’étude des gènes",
+      "La psychologie du développement",
+      "La génétique médicale",
+      "Une science du comportement animal"
+    ],
+    "answerIndex": 1,
+    "explication": "Le terme génétique ici vient de 'genèse', c’est-à-dire la formation et l’évolution de l’enfant, et non des gènes biologiques."
+  },
+  {
+    "question": "5 - L’objectif principal de la psychologie du développement est :",
+    "options": [
+      "Comprendre la biologie humaine",
+      "Comprendre l’enfant pour mieux comprendre l’adulte",
+      "Analyser les maladies infantiles",
+      "Créer des programmes scolaires"
+    ],
+    "answerIndex": 1,
+    "explication": "En étudiant l’évolution de l’enfant, on comprend comment se construit l’adulte."
+  },
+  {
+    "question": "6 - Une transformation qualitative pourrait être :",
+    "options": [
+      "Apprendre à parler correctement",
+      "Grandir de 5 cm",
+      "Prendre du poids",
+      "Avoir un vocabulaire de 500 mots"
+    ],
+    "answerIndex": 0,
+    "explication": "Apprendre à parler correctement est un changement profond dans la manière de communiquer, donc qualitatif."
+  },
+  {
+    "question": "7 - Une transformation quantitative pourrait être :",
+    "options": [
+      "Comprendre la logique des nombres",
+      "Augmenter son vocabulaire de 100 mots",
+      "Savoir résoudre des problèmes abstraits",
+      "Développer son autonomie"
+    ],
+    "answerIndex": 1,
+    "explication": "L’augmentation du vocabulaire est mesurable et correspond à une transformation quantitative."
+  },
+  {
+    "question": "8 - Le mot 'génétique' dans psychologie génétique signifie :",
+    "options": [
+      "L’étude des gènes",
+      "L’étude du développement et de la formation",
+      "L’étude des maladies héréditaires",
+      "L’étude des comportements innés"
+    ],
+    "answerIndex": 1,
+    "explication": "Ici, génétique signifie 'genèse', c’est-à-dire la formation et l’évolution de l’enfant."
+  },
+  {
+    "question": "9 - Pourquoi la psychologie du développement est-elle importante pour l’éducation ?",
+    "options": [
+      "Elle permet de calculer le QI",
+      "Elle aide à mieux adapter l’enseignement aux enfants",
+      "Elle remplace la pédagogie",
+      "Elle remplace la biologie"
+    ],
+    "answerIndex": 1,
+    "explication": "Comprendre comment l’enfant se développe permet aux éducateurs de proposer des méthodes adaptées à chaque âge et besoin."
+  },
+  {
+    "question": "10 - Quel est le lien entre enfance et adulte dans cette psychologie ?",
+    "options": [
+      "Il n’y a aucun lien",
+      "L’adulte est construit à partir de l’évolution de l’enfant",
+      "L’enfant est indépendant de l’adulte",
+      "L’adulte détermine complètement l’enfant"
+    ],
+    "answerIndex": 1,
+    "explication": "La psychologie du développement montre que l’adulte résulte d’un processus de croissance et d’apprentissage débuté dans l’enfance."
+  },
+  
+  {
+    "question": "11 - Dans l’Antiquité, l’enfant était principalement considéré comme :",
+    "options": [
+      "Un être à comprendre en soi",
+      "Un futur adulte ou citoyen",
+      "Un objet d’étude scientifique",
+      "Un être social autonome"
+    ],
+    "answerIndex": 1,
+    "explication": "Dans l’Antiquité, on s’intéressait surtout à l’adolescent ou futur citoyen ; l’enfant lui-même n’était pas étudié en profondeur."
+  },
+  {
+    "question": "12 - Montaigne, à la Renaissance, insistait sur :",
+    "options": [
+      "La discipline stricte",
+      "L’importance de l’âme enfantine",
+      "La croissance physique",
+      "Les mathématiques"
+    ],
+    "answerIndex": 1,
+    "explication": "Montaigne considère que l’enfant a une valeur propre et une âme spécifique, qu’il faut respecter dans l’éducation."
+  },
+  {
+    "question": "13 - Selon Locke, l’enfant est :",
+    "options": [
+      "Un adulte miniature à façonner",
+      "Un être autonome dès la naissance",
+      "Un être guidé uniquement par l’instinct",
+      "Un être naturellement moral"
+    ],
+    "answerIndex": 0,
+    "explication": "Locke développe la notion de tabula rasa : l’enfant naît vierge et doit être éduqué, c’est un adulte miniature."
+  },
+  {
+    "question": "14 - La théorie de la tabula rasa signifie :",
+    "options": [
+      "L’enfant naît avec toutes les connaissances",
+      "L’enfant naît vierge et acquiert ses connaissances par l’expérience",
+      "L’enfant est déterminé par ses gènes",
+      "L’enfant est un être social dès la naissance"
+    ],
+    "answerIndex": 1,
+    "explication": "Selon Locke, l’enfant apprend tout par l’expérience et l’éducation, il n’a pas de connaissances innées."
+  },
+  {
+    "question": "15 - Rousseau considérait que l’enfant :",
+    "options": [
+      "Est un adulte miniature",
+      "Est un être spécifique qui évolue par stades",
+      "N’a pas besoin d’éducation",
+      "Doit suivre des règles strictes dès la naissance"
+    ],
+    "answerIndex": 1,
+    "explication": "Rousseau met l’accent sur la spécificité de l’enfant et la progression par stades naturels de développement."
+  },
+  {
+    "question": "16 - Condillac insistait sur :",
+    "options": [
+      "Le rôle des gènes",
+      "Le rôle des émotions et de l’expérience sensorielle",
+      "L’importance de la discipline stricte",
+      "La supériorité de l’intelligence adulte"
+    ],
+    "answerIndex": 1,
+    "explication": "Condillac montre que les connaissances se construisent par les sens et que les émotions influencent l’apprentissage."
+  },
+  {
+    "question": "17 - Itard est célèbre pour :",
+    "options": [
+      "La découverte de la psychanalyse",
+      "L’éducation de Victor, l’enfant sauvage de l’Aveyron",
+      "La théorie du développement par stades",
+      "La création du QI"
+    ],
+    "answerIndex": 1,
+    "explication": "Itard a montré qu’un enfant sauvage, sans contact social, pouvait apprendre grâce à une pédagogie adaptée."
+  },
+  {
+    "question": "18 - Au XIXe siècle, l’école devient :",
+    "options": [
+      "Réservée aux riches",
+      "Obligatoire et adaptée aux enfants",
+      "Inutile pour le développement",
+      "Centres uniquement religieux"
+    ],
+    "answerIndex": 1,
+    "explication": "Avec l’école obligatoire, on cherche à adapter l’enseignement aux besoins et capacités des enfants."
+  },
+  {
+    "question": "19 - Darwin a influencé la psychologie du développement en :",
+    "options": [
+      "Créant des écoles pour tous",
+      "Montrant l’importance de l’évolution et de la biologie dans la croissance humaine",
+      "Proposant la psychanalyse",
+      "Inventant le béhaviorisme"
+    ],
+    "answerIndex": 1,
+    "explication": "Les théories de Darwin sur l’évolution ont inspiré la compréhension scientifique du développement et de la maturation."
+  },
+  {
+    "question": "20 - Le début du XXe siècle se caractérise par :",
+    "options": [
+      "La continuité de l’approche philosophique uniquement",
+      "L’émergence d’une psychologie scientifique de l’enfant",
+      "L’abandon de l’éducation",
+      "L’exclusion des enfants de la recherche"
+    ],
+    "answerIndex": 1,
+    "explication": "On passe de réflexions philosophiques à des observations et études scientifiques sur le développement de l’enfant."
+  },
+  
+  {
+    "question": "21 - Selon Rousseau, la spontanéité de l’enfant doit être :",
+    "options": [
+      "Réprimée strictement",
+      "Respectée et encouragée",
+      "Ignorée",
+      "Remplacée par l’enseignement"
+    ],
+    "answerIndex": 1,
+    "explication": "Rousseau insiste sur le respect du rythme naturel et de la spontanéité de l’enfant pour un développement harmonieux."
+  },
+  {
+    "question": "22 - Locke et Rousseau sont en désaccord sur :",
+    "options": [
+      "La nécessité de l’école",
+      "La nature de l’enfant à la naissance",
+      "L’importance des jeux",
+      "Le rôle des émotions"
+    ],
+    "answerIndex": 1,
+    "explication": "Locke voit l’enfant comme une ardoise vierge, tandis que Rousseau considère que l’enfant a une nature propre et des stades de développement spécifiques."
+  },
+  {
+    "question": "23 - L’humanisme de la Renaissance a conduit à :",
+    "options": [
+      "Ignorer l’enfant",
+      "S’intéresser à l’enfant et à son âme",
+      "Interdire l’école",
+      "Réduire les jeux"
+    ],
+    "answerIndex": 1,
+    "explication": "Les humanistes comme Montaigne valorisent l’enfant et sa dimension humaine, pas seulement l’adolescent futur citoyen."
+  },
+  {
+    "question": "24 - Selon Condillac, l’apprentissage repose surtout sur :",
+    "options": [
+      "L’instinct",
+      "L’expérience sensorielle",
+      "La génétique",
+      "Les idées innées"
+    ],
+    "answerIndex": 1,
+    "explication": "Condillac insiste sur le rôle des sens (vue, toucher, ouïe) et des émotions dans la construction des connaissances."
+  },
+  {
+    "question": "25 - La pédagogie adaptée développée au XIXe siècle visait à :",
+    "options": [
+      "Favoriser uniquement les enfants doués",
+      "Soutenir tous les enfants selon leurs besoins",
+      "Se concentrer sur les adultes",
+      "Supprimer les jeux et activités pratiques"
+    ],
+    "answerIndex": 1,
+    "explication": "Avec Itard et l’école obligatoire, l’objectif était d’adapter l’enseignement aux capacités et besoins spécifiques de chaque enfant."
+  },
+  {
+    "question": "26 - Victor, l’enfant sauvage, a permis de montrer que :",
+    "options": [
+      "L’enfant ne peut jamais apprendre",
+      "Même un enfant très en retard peut progresser avec une pédagogie adaptée",
+      "L’éducation n’est pas nécessaire",
+      "Les émotions sont inutiles"
+    ],
+    "answerIndex": 1,
+    "explication": "L’expérience d’Itard avec Victor montre que l’apprentissage et le développement sont possibles même dans des conditions extrêmes, grâce à des méthodes adaptées."
+  },
+  {
+    "question": "27 - À la fin du XIXe siècle, l’école pour tous permet :",
+    "options": [
+      "De standardiser l’enseignement sans tenir compte des différences",
+      "De mettre en place des méthodes différenciées selon l’enfant",
+      "De réduire le rôle de l’éducation",
+      "D’enseigner uniquement la discipline militaire"
+    ],
+    "answerIndex": 1,
+    "explication": "L’école obligatoire a favorisé l’adaptation pédagogique pour répondre aux besoins divers des enfants."
+  },
+  {
+    "question": "28 - L’influence de Darwin sur la psychologie du développement se traduit par :",
+    "options": [
+      "L’étude des maladies infantiles",
+      "La comparaison des stades de développement humains avec l’évolution",
+      "L’abandon de l’école",
+      "La psychanalyse"
+    ],
+    "answerIndex": 1,
+    "explication": "Darwin inspire une approche scientifique et comparative, reliant évolution biologique et stades de développement de l’enfant."
+  },
+  {
+    "question": "29 - L’évolution de la psychologie de l’enfant du XVIIIe au XXe siècle montre :",
+    "options": [
+      "Un passage de l’intuition à la science",
+      "Une régression vers la philosophie",
+      "Un abandon de l’éducation",
+      "Une focalisation sur la génétique"
+    ],
+    "answerIndex": 0,
+    "explication": "On passe progressivement de réflexions philosophiques et intuitives à une psychologie scientifique basée sur l’observation et l’expérience."
+  },
+  {
+    "question": "30 - L’intérêt pour l’enfant au XXe siècle marque :",
+    "options": [
+      "La fin de la psychologie",
+      "La naissance d’une psychologie scientifique de l’enfant",
+      "Une approche exclusivement philosophique",
+      "Un retour à la pédagogie classique"
+    ],
+    "answerIndex": 1,
+    "explication": "Au début du XXe siècle, les chercheurs observent et expérimentent de manière systématique, fondant la psychologie scientifique du développement."
+  },
+  
+  {
+    "question": "31 - Le béhaviorisme se concentre sur :",
+    "options": [
+      "Les pensées et émotions internes",
+      "Les comportements observables",
+      "La génétique de l’enfant",
+      "La philosophie morale"
+    ],
+    "answerIndex": 1,
+    "explication": "Le béhaviorisme étudie ce qui est mesurable et observable : les actions et réactions de l’enfant, pas ses pensées ou sentiments internes."
+  },
+  {
+    "question": "32 - Pavlov est célèbre pour :",
+    "options": [
+      "Le conditionnement opérant",
+      "Le conditionnement classique",
+      "La psychanalyse",
+      "Les stades du développement cognitif"
+    ],
+    "answerIndex": 1,
+    "explication": "Pavlov a montré que les organismes peuvent associer un stimulus neutre à un stimulus naturel pour produire une réponse conditionnée."
+  },
+  {
+    "question": "33 - Dans l’expérience de Pavlov, les chiens salivent en réponse à :",
+    "options": [
+      "La nourriture uniquement",
+      "Un stimulus sonore associé à la nourriture",
+      "Un ordre verbal",
+      "Un autre chien"
+    ],
+    "answerIndex": 1,
+    "explication": "Après répétition, le chien associe le son de la cloche à la nourriture et salive même sans nourriture, illustrant le conditionnement classique."
+  },
+  {
+    "question": "34 - Watson est connu pour :",
+    "options": [
+      "Le conditionnement classique des chiens",
+      "Le conditionnement opérant",
+      "L’expérience du petit Albert",
+      "L’étude des émotions innées uniquement"
+    ],
+    "answerIndex": 2,
+    "explication": "Watson a étudié les réactions émotionnelles conditionnées chez le bébé Albert, prouvant que la peur pouvait être apprise."
+  },
+  {
+    "question": "35 - L’expérience du petit Albert montre que :",
+    "options": [
+      "La peur est uniquement innée",
+      "La peur peut être conditionnée par l’environnement",
+      "La peur ne peut pas être modifiée",
+      "La peur est inexistante chez les bébés"
+    ],
+    "answerIndex": 1,
+    "explication": "Albert a appris à avoir peur d’un rat blanc après l’association répétée avec un bruit fort, illustrant la peur apprise par conditionnement."
+  },
+  {
+    "question": "36 - Skinner est associé à :",
+    "options": [
+      "Le conditionnement classique",
+      "Le conditionnement opérant",
+      "La psychanalyse",
+      "La psychologie cognitive"
+    ],
+    "answerIndex": 1,
+    "explication": "Skinner a étudié l’apprentissage par les conséquences : récompenses et punitions influencent la probabilité qu’un comportement se reproduise."
+  },
+  {
+    "question": "37 - Le conditionnement opérant consiste à :",
+    "options": [
+      "Associer deux stimuli",
+      "Modifier le comportement par ses conséquences",
+      "Étudier l’inconscient",
+      "Observer les rêves"
+    ],
+    "answerIndex": 1,
+    "explication": "Le comportement est appris ou modifié selon qu’il est suivi d’une récompense ou d’une punition."
+  },
+  {
+    "question": "38 - Exemple de renforcement positif selon Skinner :",
+    "options": [
+      "Ignorer un comportement indésirable",
+      "Féliciter un enfant qui range ses jouets",
+      "Punir un enfant pour ne pas avoir fait ses devoirs",
+      "Récompenser un animal pour un réflexe naturel"
+    ],
+    "answerIndex": 1,
+    "explication": "Le renforcement positif augmente la probabilité qu’un comportement se reproduise grâce à une récompense agréable."
+  },
+  {
+    "question": "39 - Différence majeure entre Pavlov et Skinner :",
+    "options": [
+      "Pavlov étudie le comportement, Skinner l’inconscient",
+      "Pavlov = association stimulus-réponse, Skinner = conséquences sur le comportement",
+      "Pavlov = psychanalyse, Skinner = apprentissage social",
+      "Il n’y a pas de différence"
+    ],
+    "answerIndex": 1,
+    "explication": "Pavlov étudie l’apprentissage par association de stimuli, Skinner par renforcement ou punition en réponse au comportement."
+  },
+  {
+    "question": "40 - La contribution principale du béhaviorisme est :",
+    "options": [
+      "L’importance de l’inconscient",
+      "L’étude scientifique et objective du comportement",
+      "La génétique de l’intelligence",
+      "Les stades du développement"
+    ],
+    "answerIndex": 1,
+    "explication": "Le béhaviorisme a permis de transformer la psychologie en science en se basant sur l’observation et la mesure des comportements observables."
+  },
+
+  {
+    "question": "41 - Freud considérait que la personnalité adulte est influencée par :",
+    "options": [
+      "L’éducation uniquement",
+      "Les conflits et expériences de l’enfance",
+      "Les résultats scolaires",
+      "La génétique uniquement"
+    ],
+    "answerIndex": 1,
+    "explication": "Freud montre que les expériences, conflits et pulsions non résolus dans l’enfance façonnent la personnalité adulte."
+  },
+  {
+    "question": "42 - Les stades psychosexuels de Freud incluent :",
+    "options": [
+      "Oral, anal, phallique, latent, génital",
+      "Sensoriel, symbolique, concret, abstrait",
+      "Physique, social, émotionnel, cognitif",
+      "Inné, acquis, motivé, conditionné"
+    ],
+    "answerIndex": 0,
+    "explication": "Freud définit cinq stades où l’énergie psychique se focalise sur différentes zones du corps, influençant le développement."
+  },
+  {
+    "question": "43 - Selon Freud, un conflit non résolu au stade anal peut entraîner :",
+    "options": [
+      "Des problèmes émotionnels et des traits obsessionnels",
+      "Un retard physique",
+      "Une intelligence réduite",
+      "Une créativité accrue automatiquement"
+    ],
+    "answerIndex": 0,
+    "explication": "Un enfant trop contrôlé ou trop laxiste peut développer rigidité, obsession ou désordre dans la vie adulte."
+  },
+  {
+    "question": "44 - Piaget est associé à :",
+    "options": [
+      "La psychanalyse",
+      "Le constructivisme et les stades du développement cognitif",
+      "Le conditionnement opérant",
+      "La théorie historico-culturelle"
+    ],
+    "answerIndex": 1,
+    "explication": "Piaget a montré que l’enfant construit activement son intelligence à travers des stades universels et successifs."
+  },
+  {
+    "question": "45 - Le stade sensori-moteur de Piaget correspond à :",
+    "options": [
+      "0–2 ans, intelligence pratique et découverte par les sens",
+      "2–7 ans, pensée symbolique",
+      "7–11 ans, raisonnement abstrait",
+      "11 ans et +, pensée critique"
+    ],
+    "answerIndex": 0,
+    "explication": "Pendant cette période, l’enfant découvre le monde par les sens et l’action sur les objets."
+  },
+  {
+    "question": "46 - Le stade préopératoire de Piaget se caractérise par :",
+    "options": [
+      "Pensée symbolique et égocentrique, imagination",
+      "Logique abstraite",
+      "Inhibition cognitive",
+      "Conditionnement classique"
+    ],
+    "answerIndex": 0,
+    "explication": "L’enfant peut utiliser le langage et l’imagination mais sa pensée reste centrée sur lui-même et intuitive."
+  },
+  {
+    "question": "47 - Wallon insiste sur :",
+    "options": [
+      "La logique et le raisonnement uniquement",
+      "Les émotions et le rôle du social",
+      "Le conditionnement",
+      "L’inconscient uniquement"
+    ],
+    "answerIndex": 1,
+    "explication": "Wallon met en avant l’importance des relations affectives et sociales dans le développement de l’enfant."
+  },
+  {
+    "question": "48 - Selon Wallon, les émotions :",
+    "options": [
+      "Sont secondaires",
+      "Sont un moteur du développement",
+      "Doivent être réprimées",
+      "Ne servent qu’à la communication"
+    ],
+    "answerIndex": 1,
+    "explication": "Les émotions influencent la manière dont l’enfant apprend et interagit avec les autres."
+  },
+  {
+    "question": "49 - Vygotski a développé :",
+    "options": [
+      "Le constructivisme",
+      "La théorie historico-culturelle",
+      "Le béhaviorisme",
+      "La psychanalyse"
+    ],
+    "answerIndex": 1,
+    "explication": "Vygotski souligne le rôle du langage, de la culture et des interactions sociales dans le développement cognitif."
+  },
+  {
+    "question": "50 - La zone proximale de développement (ZPD) de Vygotski correspond à :",
+    "options": [
+      "Ce que l’enfant peut faire seul",
+      "Ce que l’enfant peut faire avec l’aide d’un adulte ou pair compétent",
+      "Ce que l’enfant ne peut jamais faire",
+      "Ce que l’enfant apprend instinctivement"
+    ],
+    "answerIndex": 1,
+    "explication": "La ZPD représente l’espace d’apprentissage optimal avec accompagnement, où l’enfant progresse le plus."
+  },
+  {
+    "question": "51 - Le langage chez Vygotski est important car :",
+    "options": [
+      "Il sert uniquement à communiquer",
+      "Il structure la pensée et permet le développement cognitif",
+      "Il est secondaire dans l’apprentissage",
+      "Il remplace les émotions"
+    ],
+    "answerIndex": 1,
+    "explication": "Parler, dialoguer et expliquer aident l’enfant à organiser sa pensée et développer ses compétences."
+  },
+  {
+    "question": "52 - Freud et Piaget diffèrent car :",
+    "options": [
+      "Freud étudie le cognitif, Piaget l’inconscient",
+      "Freud se concentre sur l’inconscient et la personnalité, Piaget sur la construction de l’intelligence",
+      "Ils sont identiques",
+      "Piaget rejette les émotions totalement"
+    ],
+    "answerIndex": 1,
+    "explication": "Freud analyse l’influence de l’inconscient et des stades psychosexuels, tandis que Piaget étudie le développement cognitif par étapes logiques."
+  },
+  {
+    "question": "53 - Wallon et Piaget se différencient principalement par :",
+    "options": [
+      "Wallon étudie les émotions et le social, Piaget la cognition",
+      "Wallon utilise le conditionnement",
+      "Ils ont la même approche",
+      "Piaget rejette l’intelligence"
+    ],
+    "answerIndex": 0,
+    "explication": "Wallon insiste sur les interactions sociales et affectives, Piaget sur le raisonnement et la pensée."
+  },
+  {
+    "question": "54 - Selon Vygotski, l’apprentissage est optimal :",
+    "options": [
+      "Quand l’enfant apprend seul",
+      "Quand l’enfant est guidé et interagit socialement",
+      "Quand l’enfant suit uniquement les règles",
+      "Quand l’enfant imite un adulte sans réfléchir"
+    ],
+    "answerIndex": 1,
+    "explication": "L’accompagnement social et l’interaction sont essentiels pour que l’enfant dépasse ses capacités actuelles."
+  },
+  {
+    "question": "55 - Le constructivisme de Piaget montre que l’enfant :",
+    "options": [
+      "Est passif dans son apprentissage",
+      "Construit activement son intelligence par expérience",
+      "Ne progresse qu’avec un adulte",
+      "Est limité par sa génétique"
+    ],
+    "answerIndex": 1,
+    "explication": "Piaget démontre que l’enfant explore, manipule et expérimente pour construire ses connaissances."
+  },
+  {
+    "question": "56 - L’apport commun de Wallon et Vygotski est :",
+    "options": [
+      "Le rôle central des émotions et interactions sociales",
+      "La psychanalyse",
+      "Le conditionnement",
+      "Les stades psychosexuels"
+    ],
+    "answerIndex": 0,
+    "explication": "Tous deux soulignent que le développement se fait dans un contexte social et affectif."
+  },
+  {
+    "question": "57 - L’approche freudienne a surtout influencé :",
+    "options": [
+      "La pédagogie active",
+      "La psychologie clinique et la psychanalyse",
+      "Le béhaviorisme",
+      "La neurosciences"
+    ],
+    "answerIndex": 1,
+    "explication": "Freud a marqué la psychologie clinique en insistant sur l’inconscient et l’importance des expériences infantiles."
+  },
+  {
+    "question": "58 - Les stades de Piaget permettent de :",
+    "options": [
+      "Déterminer l’âge physique exact",
+      "Comprendre l’évolution des capacités cognitives",
+      "Mesurer la motivation",
+      "Calculer le QI"
+    ],
+    "answerIndex": 1,
+    "explication": "Chaque stade correspond à une façon particulière de penser et de raisonner à différents âges."
+  },
+  {
+    "question": "59 - L’approche de Vygotski a inspiré :",
+    "options": [
+      "Les méthodes de tutorat et d’apprentissage collaboratif",
+      "Le conditionnement opérant",
+      "La psychanalyse",
+      "Le béhaviorisme classique"
+    ],
+    "answerIndex": 0,
+    "explication": "La ZPD et l’importance de l’interaction sociale ont inspiré des pédagogies où les élèves apprennent ensemble et avec l’aide d’un adulte."
+  },
+  {
+    "question": "60 - Freud, Piaget, Wallon et Vygotski :",
+    "options": [
+      "Ont tous rejeté le rôle de l’enfant",
+      "Ont tous contribué à comprendre le développement de l’enfant sous différents aspects",
+      "Se concentrent uniquement sur la génétique",
+      "Ne sont plus étudiés aujourd’hui"
+    ],
+    "answerIndex": 1,
+    "explication": "Chacun apporte une perspective : Freud (inconscient), Piaget (cognition), Wallon (émotions et social), Vygotski (langage et interactions)."
+  },
+  
+  {
+    "question": "61 - Selon Damasio, les émotions :",
+    "options": [
+      "Sont séparées de la raison",
+      "Influencent la mémoire, la prise de décision et la conscience",
+      "Sont inutiles pour l’apprentissage",
+      "Doivent être supprimées"
+    ],
+    "answerIndex": 1,
+    "explication": "Damasio montre que les émotions ne sont pas un obstacle à la raison, mais qu’elles sont essentielles pour mémoriser, décider et développer la conscience."
+  },
+  {
+    "question": "62 - Un climat scolaire positif favorise l’apprentissage car :",
+    "options": [
+      "Les élèves sont moins attentifs",
+      "Les émotions positives stimulent la mémorisation et l’intérêt",
+      "Les récompenses sont inutiles",
+      "Les élèves travaillent seuls"
+    ],
+    "answerIndex": 1,
+    "explication": "Un environnement bienveillant et motivant active les circuits émotionnels qui facilitent la mémorisation et la participation."
+  },
+  {
+    "question": "63 - Houdé souligne que les erreurs viennent souvent de :",
+    "options": [
+      "Problèmes physiques",
+      "Fausse intuition ou stratégies automatiques",
+      "Manque de motivation uniquement",
+      "Capacités innées fixes"
+    ],
+    "answerIndex": 1,
+    "explication": "Les élèves peuvent se tromper en suivant des intuitions ou automatismes inadaptés à la tâche, ce qui nécessite de les corriger."
+  },
+  {
+    "question": "64 - L’inhibition cognitive consiste à :",
+    "options": [
+      "Ignorer les erreurs",
+      "Supprimer les mauvaises intuitions pour adopter une stratégie correcte",
+      "Punir l’élève",
+      "Apprendre uniquement par mémorisation"
+    ],
+    "answerIndex": 1,
+    "explication": "Il s’agit de freiner les réponses automatiques inadaptées pour permettre un raisonnement correct et réfléchi."
+  },
+  {
+    "question": "65 - La plasticité cérébrale signifie que :",
+    "options": [
+      "Le cerveau reste fixe après 5 ans",
+      "Le cerveau peut se modifier et s’adapter toute la vie",
+      "Seules les émotions changent",
+      "L’intelligence est entièrement génétique"
+    ],
+    "answerIndex": 1,
+    "explication": "Le cerveau est capable de se réorganiser, de créer de nouvelles connexions et d’apprendre à tout âge."
+  },
+  {
+    "question": "66 - Pour exploiter la plasticité cérébrale, il est conseillé de :",
+    "options": [
+      "Répéter des exercices régulièrement et de manière variée",
+      "Faire travailler l’enfant une seule fois",
+      "Ignorer les erreurs",
+      "Se concentrer uniquement sur la mémorisation"
+    ],
+    "answerIndex": 0,
+    "explication": "La répétition espacée et la diversité des exercices renforcent les circuits neuronaux et facilitent l’apprentissage durable."
+  },
+  {
+    "question": "67 - Les neurosciences montrent que l’attention :",
+    "options": [
+      "Est illimitée",
+      "Est limitée et fonctionne par cycles",
+      "Ne dépend pas de l’environnement",
+      "N’influence pas la mémoire"
+    ],
+    "answerIndex": 1,
+    "explication": "L’attention a des pics et des périodes de fatigue ; il est donc important de varier les activités et de faire des pauses."
+  },
+  {
+    "question": "68 - Fractionner les leçons en séquences courtes permet :",
+    "options": [
+      "D’ennuyer les élèves",
+      "D’optimiser l’attention et la mémorisation",
+      "De perdre du temps",
+      "D’augmenter le stress"
+    ],
+    "answerIndex": 1,
+    "explication": "Des séquences courtes avec activités variées respectent le rythme attentionnel des élèves et facilitent l’apprentissage."
+  },
+  {
+    "question": "69 - Donner du sens à l’apprentissage favorise :",
+    "options": [
+      "La mémorisation et la motivation",
+      "La répétition mécanique",
+      "L’oubli rapide",
+      "La dépendance aux adultes"
+    ],
+    "answerIndex": 0,
+    "explication": "Quand l’élève comprend pourquoi il apprend, il s’engage davantage et retient mieux les connaissances."
+  },
+  {
+    "question": "70 - Exemple d’application des neurosciences en classe :",
+    "options": [
+      "Faire un exercice monotone de 30 minutes sans pause",
+      "Proposer un petit défi ludique avec retour immédiat",
+      "Ignorer les erreurs des élèves",
+      "Punir les erreurs pour stimuler l’apprentissage"
+    ],
+    "answerIndex": 1,
+    "explication": "Les activités ludiques, interactives et avec feedback mobilisent l’attention, les émotions positives et renforcent la plasticité cérébrale."
+  },
+
+{
+    "question": "71 - L’objectif principal de Binet et Simon était :",
+    "options": [
+      "Mesurer l’intelligence des adultes",
+      "Identifier les enfants en avance ou en retard pour adapter l’enseignement",
+      "Créer des tests pour le plaisir",
+      "Évaluer les émotions"
+    ],
+    "answerIndex": 1,
+    "explication": "Binet et Simon cherchaient à aider l’école à proposer un enseignement adapté aux capacités de chaque enfant."
+  },
+  {
+    "question": "72 - Les tests de Binet et Simon étaient adaptés :",
+    "options": [
+      "À tous les âges de la même manière",
+      "À chaque âge de l’enfant",
+      "Uniquement aux adolescents",
+      "Uniquement aux enfants surdoués"
+    ],
+    "answerIndex": 1,
+    "explication": "Les tâches étaient conçues pour être adaptées au développement de chaque tranche d’âge afin d’évaluer l’âge mental de l’enfant."
+  },
+  {
+    "question": "73 - L’âge mental correspond à :",
+    "options": [
+      "L’âge réel de l’enfant",
+      "La performance cognitive mesurée par les tests",
+      "La taille et le poids",
+      "Le niveau d’émotion"
+    ],
+    "answerIndex": 1,
+    "explication": "L’âge mental reflète le niveau de performance intellectuelle d’un enfant par rapport à ce qui est attendu pour son âge réel."
+  },
+  {
+    "question": "74 - La formule du QI est :",
+    "options": [
+      "QI = Âge réel ÷ Âge mental × 100",
+      "QI = Âge mental ÷ Âge réel × 100",
+      "QI = Taille ÷ Poids × 100",
+      "QI = Nombre de réponses correctes ÷ total × 10"
+    ],
+    "answerIndex": 1,
+    "explication": "Le QI est calculé en comparant l’âge mental (résultats du test) à l’âge réel, multiplié par 100 pour obtenir un score standardisé."
+  },
+  {
+    "question": "75 - Un QI supérieur à 100 indique :",
+    "options": [
+      "Un retard intellectuel",
+      "Un enfant en avance",
+      "Un enfant normal",
+      "Une erreur de test"
+    ],
+    "answerIndex": 1,
+    "explication": "Un QI supérieur à 100 signifie que l’âge mental de l’enfant est supérieur à son âge réel, donc il est en avance."
+  },
+  {
+    "question": "76 - Un exemple de tâche du test Binet-Simon est :",
+    "options": [
+      "Répéter une série de chiffres",
+      "Faire un dessin libre sans consignes",
+      "Courir le plus vite possible",
+      "Observer un animal"
+    ],
+    "answerIndex": 0,
+    "explication": "Répéter des chiffres ou résoudre des petites épreuves adaptées à l’âge permet d’évaluer la mémoire et les capacités cognitives."
+  },
+  {
+    "question": "77 - Les tests Binet-Simon ont été conçus pour :",
+    "options": [
+      "Évaluer toutes les formes d’intelligence",
+      "Évaluer certaines compétences cognitives spécifiques",
+      "Évaluer uniquement la créativité",
+      "Évaluer le caractère"
+    ],
+    "answerIndex": 1,
+    "explication": "Ils mesuraient principalement la mémoire, le langage et la logique, mais pas la créativité ou l’intelligence sociale."
+  },
+  {
+    "question": "78 - L’avantage principal de ces tests est :",
+    "options": [
+      "De remplacer l’école",
+      "De permettre une pédagogie différenciée",
+      "De classer tous les enfants définitivement",
+      "De prédire la réussite professionnelle exacte"
+    ],
+    "answerIndex": 1,
+    "explication": "Ils aident à identifier les besoins spécifiques de chaque enfant et à adapter l’enseignement pour mieux le soutenir."
+  },
+  {
+    "question": "79 - Une limite des tests de Binet-Simon est :",
+    "options": [
+      "Ils mesurent toutes les compétences",
+      "Ils ne prennent pas en compte la créativité, les émotions ou la motivation",
+      "Ils sont inutiles",
+      "Ils remplacent la psychologie"
+    ],
+    "answerIndex": 1,
+    "explication": "Les tests évaluent surtout certaines capacités cognitives et ne reflètent pas l’intelligence dans toutes ses dimensions."
+  },
+  {
+    "question": "80 - Ces tests ont été la base de :",
+    "options": [
+      "La psychanalyse",
+      "Les futurs tests de QI",
+      "Le conditionnement opérant",
+      "Les neurosciences"
+    ],
+    "answerIndex": 1,
+    "explication": "Les travaux de Binet et Simon ont servi de fondation à tous les tests de quotient intellectuel modernes."
+  }
+
+
+]

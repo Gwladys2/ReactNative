@@ -1,0 +1,452 @@
+[
+  {
+    "question": "1 - En quelle année est né Célestin Freinet ?",
+    "options": ["1886", "1896", "1906", "1916"],
+    "answerIndex": 1,
+    "explication": "Freinet est né en 1896 dans les Alpes-Maritimes."
+  },
+  {
+    "question": "2 - Où est né Célestin Freinet ?",
+    "options": ["Paris", "Marseille", "Alpes-Maritimes", "Lyon"],
+    "answerIndex": 2,
+    "explication": "Il est né en milieu rural, dans un village quasi autarcique des Alpes-Maritimes."
+  },
+  {
+    "question": "3 - Quel concours Freinet réussit en 1912 ?",
+    "options": ["L’agrégation", "Le CAPES", "L’entrée à l’école normale d’instituteurs", "L’ENA"],
+    "answerIndex": 2,
+    "explication": "À 16 ans, il réussit le concours pour devenir instituteur."
+  },
+  {
+    "question": "4 - Quelle expérience marqua profondément Freinet pendant sa jeunesse ?",
+    "options": ["Un exil forcé", "La Première Guerre mondiale", "La Révolution de 1917", "La Seconde Guerre mondiale"],
+    "answerIndex": 1,
+    "explication": "Blessé à la guerre, il reste mutilé à 70 %, ce qui influencera sa pédagogie."
+  },
+  {
+    "question": "5 - Quelle conséquence eut sa blessure de guerre ?",
+    "options": ["Une cécité", "Une mutilation de 70 %", "Une surdité", "Une paralysie totale"],
+    "answerIndex": 1,
+    "explication": "Il souffrait de difficultés respiratoires et d’un handicap permanent (70 %)."
+  },
+  {
+    "question": "6 - Quel parti politique Freinet rejoint après la guerre ?",
+    "options": ["Parti socialiste", "Parti communiste", "Parti radical", "Parti gaulliste"],
+    "answerIndex": 1,
+    "explication": "Il s’engage au parti communiste, voyant l’éducation comme un outil d’émancipation sociale."
+  },
+  {
+    "question": "7 - Quelle fut sa première grande innovation pédagogique ?",
+    "options": ["L’ordinateur en classe", "L’imprimerie scolaire", "Les tablettes numériques", "L’enseignement à distance"],
+    "answerIndex": 1,
+    "explication": "Dès 1924, il introduit une imprimerie dans sa classe pour donner sens à l’écrit."
+  },
+  {
+    "question": "8 - Quelle affaire obligea Freinet à quitter l’Éducation nationale en 1933 ?",
+    "options": ["L’affaire de Vichy", "L’affaire de Saint-Paul de Vence", "L’affaire Dreyfus", "L’affaire du Front populaire"],
+    "answerIndex": 1,
+    "explication": "Contesté pour ses méthodes innovantes, il quitte l’école publique et fonde sa propre école à Vence."
+  },
+  {
+    "question": "9 - Quelle organisation Freinet fonde en 1947 ?",
+    "options": ["ICEM (Institut de l’École Moderne)", "UNESCO", "UNICEF", "FIMEM"],
+    "answerIndex": 0,
+    "explication": "L’ICEM structure le mouvement Freinet en France."
+  },
+  {
+    "question": "10 - Quand est mort Célestin Freinet ?",
+    "options": ["1956", "1966", "1976", "1986"],
+    "answerIndex": 1,
+    "explication": "Il est décédé en 1966, laissant un héritage encore très présent dans les pédagogies alternatives."
+  },
+  {
+    "question": "11 - Quel était le projet de « l’école du peuple » selon Freinet ?",
+    "options": ["Maintenir l’élitisme scolaire", "Démocratiser l’enseignement", "Former uniquement les futurs cadres", "Fermer l’école aux cultures populaires"],
+    "answerIndex": 1,
+    "explication": "Freinet refusait l’élitisme et voulait une école démocratique, ouverte aux cultures populaires."
+  },
+  {
+    "question": "12 - Quelle métaphore célèbre Freinet utilise-t-il pour critiquer une pédagogie déconnectée des besoins des enfants ?",
+    "options": ["La poule qui pond sans grain", "Le cheval qui n’a pas soif", "L’arbre sans racines", "Le navire sans capitaine"],
+    "answerIndex": 1,
+    "explication": "Il reprochait à l’école traditionnelle d’enseigner des savoirs sans sens, comme donner à boire à un cheval qui n’a pas soif."
+  },
+  {
+    "question": "13 - Comment Freinet conçoit-il l’acquisition des connaissances ?",
+    "options": ["Par répétition mécanique", "Par le tâtonnement expérimental", "Par simple mémorisation", "Par transmission magistrale"],
+    "answerIndex": 1,
+    "explication": "Les enfants apprennent par essais, erreurs, hypothèses et vérifications, avec l’aide de l’enseignant."
+  },
+  {
+    "question": "14 - Selon Freinet, qu’est-ce que « la libre expression » ?",
+    "options": ["La liberté de bavarder", "La liberté de critiquer les enseignants", "La possibilité d’exprimer idées, émotions et impressions", "Le rejet des règles scolaires"],
+    "answerIndex": 2,
+    "explication": "Elle permet aux enfants de s’exprimer librement à travers leurs textes et activités."
+  },
+  {
+    "question": "15 - Quelle est la conception de « l’éducation au travail » pour Freinet ?",
+    "options": ["Une simple occupation des enfants", "Une contrainte disciplinaire", "Une activité créatrice et formatrice", "Une corvée imposée"],
+    "answerIndex": 2,
+    "explication": "Le travail est vu comme une activité porteuse de créativité et d’apprentissage, pas une tâche subie."
+  },
+  {
+    "question": "16 - La « révolution copernicienne » en pédagogie selon Freinet signifie que :",
+    "options": ["L’enfant doit s’adapter à l’école", "L’école doit s’adapter à l’enfant", "L’enseignant est au centre de la classe", "Les savoirs passent avant les élèves"],
+    "answerIndex": 1,
+    "explication": "Comme tous les pédagogues de l’éducation nouvelle, Freinet place l’enfant au centre du dispositif éducatif."
+  },
+  {
+    "question": "17 - Quelle invention pédagogique de Freinet donne un sens concret à l’écrit ?",
+    "options": ["Le tableau noir", "L’imprimerie scolaire", "Les fiches de lecture", "Le cahier de textes"],
+    "answerIndex": 1,
+    "explication": "L’imprimerie permet aux élèves de produire, reproduire et diffuser leurs écrits."
+  },
+  {
+    "question": "18 - Le « texte libre » chez Freinet correspond à :",
+    "options": ["Des dictées quotidiennes", "Des rédactions imposées", "Des productions écrites choisies librement par les élèves", "Des copies d’auteurs classiques"],
+    "answerIndex": 2,
+    "explication": "Les élèves écrivent selon leurs envies et leurs centres d’intérêt, puis discutent et impriment leurs textes."
+  },
+  {
+    "question": "19 - La « correspondance scolaire » permet surtout :",
+    "options": ["De perfectionner la grammaire", "De communiquer avec d’autres classes", "De recopier des textes littéraires", "De remplir un cahier de devoirs"],
+    "answerIndex": 1,
+    "explication": "Elle met en valeur l’écrit comme outil de communication réelle avec d’autres écoles."
+  },
+  {
+    "question": "20 - Quelle revue pédagogique Freinet a-t-il créée ?",
+    "options": ["Le Monde de l’Éducation", "La Nouvelle Revue Pédagogique", "La Bibliothèque de Travail (BT)", "L’Éducation nationale"],
+    "answerIndex": 2,
+    "explication": "La BT fournissait aux enfants des textes adaptés à leur niveau et liés à leurs intérêts."
+  },
+  {
+    "question": "21 - Quelle est l’année d’introduction de l’imprimerie scolaire dans la classe de Freinet ?",
+    "options": ["1912", "1924", "1932", "1947"],
+    "answerIndex": 1,
+    "explication": "Freinet introduit l’imprimerie en 1924 pour donner du sens aux écrits des enfants."
+  },
+  {
+    "question": "22 - Pourquoi l’imprimerie scolaire est-elle centrale dans la pédagogie Freinet ?",
+    "options": ["Parce qu’elle remplaçait le tableau noir", "Parce qu’elle donnait un sens concret à l’écriture", "Parce qu’elle était imposée par l’administration", "Parce qu’elle rendait la classe plus silencieuse"],
+    "answerIndex": 1,
+    "explication": "Elle permet de produire, reproduire et diffuser des textes écrits par les élèves."
+  },
+  {
+    "question": "23 - Que deviennent souvent les textes libres des élèves ?",
+    "options": ["Ils sont jetés après lecture", "Ils sont notés par l’enseignant", "Ils peuvent être imprimés et publiés dans le journal scolaire", "Ils sont envoyés à l’inspection académique"],
+    "answerIndex": 2,
+    "explication": "Les productions des élèves sont valorisées par la publication et le partage collectif."
+  },
+  {
+    "question": "24 - Quelle finalité principale a la correspondance scolaire chez Freinet ?",
+    "options": ["Améliorer la calligraphie", "Communiquer avec d’autres classes", "Réviser l’orthographe", "Tester les élèves"],
+    "answerIndex": 1,
+    "explication": "Elle met en valeur l’écriture comme communication réelle et ouvre la classe vers d’autres horizons."
+  },
+  {
+    "question": "25 - Quelle est la particularité de la « Bibliothèque de Travail » (BT) ?",
+    "options": ["C’est une bibliothèque classique de littérature", "C’est une revue produite pour les enfants", "C’est une méthode de mathématiques", "C’est un manuel officiel de l’État"],
+    "answerIndex": 1,
+    "explication": "La BT propose des brochures adaptées au niveau des élèves et liées à leurs centres d’intérêt."
+  },
+  {
+    "question": "26 - Les « démarches de découverte » consistent principalement à :",
+    "options": ["Rester en classe pour lire des manuels", "Sortir dans le milieu réel et observer", "Apprendre uniquement par mémoire", "Écouter le maître réciter des leçons"],
+    "answerIndex": 1,
+    "explication": "Freinet encourage les sorties scolaires pour relier la classe à la vie quotidienne et à l’environnement."
+  },
+  {
+    "question": "27 - Qu’est-ce que le « plan de travail » dans la pédagogie Freinet ?",
+    "options": ["Un emploi du temps fixe imposé par l’enseignant", "Un cahier d’évaluations hebdomadaires", "Une organisation du travail co-construite avec les élèves", "Un tableau affiché dans la salle des professeurs"],
+    "answerIndex": 2,
+    "explication": "Le plan de travail personnalise l’apprentissage en fonction des besoins et projets des enfants."
+  },
+  {
+    "question": "28 - Quel est le rôle principal du « conseil de classe » dans la pédagogie Freinet ?",
+    "options": ["Noter les élèves", "Organiser et réguler la vie de classe", "Décider du programme officiel", "Corriger les devoirs"],
+    "answerIndex": 1,
+    "explication": "Le conseil réunit élèves et enseignant pour discuter, décider et gérer la classe collectivement."
+  },
+  {
+    "question": "29 - Quels rôles peuvent tenir les élèves au sein du conseil de classe ?",
+    "options": ["Aucun, seul l’enseignant dirige", "Président, secrétaire, etc.", "Inspecteur et recteur", "Parent d’élève et surveillant"],
+    "answerIndex": 1,
+    "explication": "Les élèves assument des responsabilités démocratiques comme président ou secrétaire du conseil."
+  },
+  {
+    "question": "30 - En quoi le « tâtonnement expérimental » se distingue-t-il d’un simple essai-erreur ?",
+    "options": ["Il est anarchique et sans but", "Il est encadré par l’enseignant et mène à une vérification", "Il consiste uniquement à répéter des exercices", "Il exclut toute hypothèse des élèves"],
+    "answerIndex": 1,
+    "explication": "Le tâtonnement expérimental est une méthode naturelle d’apprentissage, guidée par l’enseignant pour vérifier et construire des savoirs."
+  },
+  {
+    "question": "31 - Quel est le but principal des démarches de découverte selon Freinet ?",
+    "options": ["Remplacer les manuels scolaires", "Relier les apprentissages à la vie réelle", "Supprimer les enseignants", "Former uniquement des scientifiques"],
+    "answerIndex": 1,
+    "explication": "La démarche de découverte relie la classe à l’environnement naturel, humain et culturel."
+  },
+  {
+    "question": "32 - Pourquoi Freinet insiste-t-il sur les liens entre école et environnement local ?",
+    "options": ["Pour réduire les coûts de l’école", "Pour donner du sens concret aux apprentissages", "Pour éviter les contrôles de l’inspection", "Pour occuper les élèves à l’extérieur"],
+    "answerIndex": 1,
+    "explication": "Le savoir doit être ancré dans le vécu des enfants et leur milieu de vie."
+  },
+  {
+    "question": "33 - Quelle dimension démocratique est centrale dans la pédagogie Freinet ?",
+    "options": ["Le vote des enseignants", "La gestion collective de la classe par le conseil", "L’obéissance stricte à l’autorité", "La discipline militaire"],
+    "answerIndex": 1,
+    "explication": "Le conseil de classe donne aux élèves un rôle actif dans l’organisation de la vie scolaire."
+  },
+  {
+    "question": "34 - Quelle valeur politique sous-tend l’œuvre pédagogique de Freinet ?",
+    "options": ["Le libéralisme économique", "L’élitisme scolaire", "L’émancipation sociale et collective", "La neutralité totale"],
+    "answerIndex": 2,
+    "explication": "Freinet voyait l’éducation comme un outil de libération et de justice sociale."
+  },
+  {
+    "question": "35 - Quelle rupture politique marque Freinet dans les années 1950 ?",
+    "options": ["Son entrée au Parti socialiste", "Sa rupture avec le Parti communiste", "Son exil forcé en URSS", "Sa nomination comme ministre"],
+    "answerIndex": 1,
+    "explication": "Après avoir été membre du Parti communiste, il s’en détache au début des années 1950."
+  },
+  {
+    "question": "36 - Quel est le rôle de l’enseignant dans la pédagogie Freinet ?",
+    "options": ["Transmettre les savoirs magistralement", "Encadrer et aménager le milieu d’apprentissage", "Sanctionner les erreurs systématiquement", "Être le seul acteur de la classe"],
+    "answerIndex": 1,
+    "explication": "L’enseignant crée les conditions favorables pour que les élèves tâtonnent et apprennent activement."
+  },
+  {
+    "question": "37 - Quelle critique principale Freinet adresse-t-il à l’école traditionnelle ?",
+    "options": ["Elle est trop centrée sur les manuels et la transmission magistrale", "Elle utilise trop de nouvelles technologies", "Elle ne donne pas assez de devoirs", "Elle met trop l’accent sur le sport"],
+    "answerIndex": 0,
+    "explication": "Il rejette une école rigide et déconnectée de la vie des enfants."
+  },
+  {
+    "question": "38 - Quelle ressource pédagogique Freinet développe pour soutenir ses méthodes après-guerre ?",
+    "options": ["Les films pédagogiques", "Les fiches autocorrectives", "Les dictées imposées", "Les manuels classiques"],
+    "answerIndex": 1,
+    "explication": "Les fiches autocorrectives permettent un travail autonome et personnalisé."
+  },
+  {
+    "question": "39 - Quelle dimension du travail Freinet valorise-t-il dans sa pédagogie ?",
+    "options": ["Sa valeur marchande", "Sa valeur punitive", "Sa valeur créatrice et formatrice", "Sa valeur utilitaire uniquement"],
+    "answerIndex": 2,
+    "explication": "Le travail bien compris réveille et stimule la créativité des enfants."
+  },
+  {
+    "question": "40 - Quel est l’objectif du plan de travail hebdomadaire ?",
+    "options": ["Uniformiser les tâches pour tous les élèves", "Permettre une personnalisation des apprentissages", "Supprimer les projets collectifs", "Imposer le rythme de l’enseignant"],
+    "answerIndex": 1,
+    "explication": "Le plan de travail est co-construit selon les besoins et projets des enfants."
+  },
+  {
+    "question": "41 - Quelle phrase illustre le mieux la vision de Freinet sur l’enfant ?",
+    "options": ["L’enfant est une page blanche à remplir", "L’enfant est un être actif qui apprend par expérience", "L’enfant doit se soumettre à la discipline", "L’enfant apprend uniquement par mémoire"],
+    "answerIndex": 1,
+    "explication": "Pour Freinet, l’enfant est acteur de ses apprentissages, pas passif."
+  },
+  {
+    "question": "42 - Dans quelle pédagogie place-t-on aussi l’enfant au centre, comme chez Freinet ?",
+    "options": ["La pédagogie traditionnelle", "L’éducation nouvelle", "La pédagogie militaire", "L’enseignement religieux ancien"],
+    "answerIndex": 1,
+    "explication": "Freinet partage avec Montessori, Decroly, etc., le principe d’une école centrée sur l’enfant."
+  },
+  {
+    "question": "43 - Quel dispositif permet la participation démocratique des élèves dans la pédagogie Freinet ?",
+    "options": ["Les élections municipales", "Le conseil de classe Freinet", "Le bulletin scolaire", "Le cahier de textes"],
+    "answerIndex": 1,
+    "explication": "Le conseil donne aux enfants une voix dans la gestion de leur classe."
+  },
+  {
+    "question": "44 - En quoi la pédagogie Freinet se distingue-t-elle des simples « occupations » scolaires ?",
+    "options": ["Elle privilégie la contrainte", "Elle fait du travail une activité signifiante et créatrice", "Elle supprime les apprentissages fondamentaux", "Elle se contente de jeux libres"],
+    "answerIndex": 1,
+    "explication": "Le travail est une activité constructive, pas une besogne sans sens."
+  },
+  {
+    "question": "45 - Quelle œuvre cinématographique illustre l’esprit de Freinet ?",
+    "options": ["Zéro de conduite (Vigo)", "L’école buissonnière (1949)", "Les Choristes", "Le Cercle des poètes disparus"],
+    "answerIndex": 1,
+    "explication": "Le film de Jean-Paul Le Chanois montre une école ouverte et vivante, proche des idées de Freinet."
+  },
+  {
+    "question": "46 - Quelle organisation internationale fut fondée en 1957 autour des idées de Freinet ?",
+    "options": ["UNESCO", "FIMEM (Fédération Internationale des Mouvements de l’École Moderne)", "ONU", "OCDE"],
+    "answerIndex": 1,
+    "explication": "La FIMEM regroupe les mouvements Freinet à l’échelle internationale."
+  },
+  {
+    "question": "47 - Quelle influence la guerre a-t-elle eue sur la pédagogie de Freinet ?",
+    "options": ["Elle l’a poussé à devenir militaire", "Elle l’a amené à penser l’école comme instrument de paix et de justice", "Elle a supprimé son intérêt pour l’éducation", "Elle l’a conduit à abandonner la pédagogie"],
+    "answerIndex": 1,
+    "explication": "Sa blessure et son expérience de guerre ont renforcé son engagement pour une école humaniste et pacifiste."
+  },
+  {
+    "question": "48 - Quelle critique majeure fut adressée à Freinet à Saint-Paul de Vence en 1932-1933 ?",
+    "options": ["De ne pas enseigner assez les maths", "De pratiquer une pédagogie jugée trop novatrice et déstabilisante", "De donner trop de devoirs", "De favoriser uniquement les bons élèves"],
+    "answerIndex": 1,
+    "explication": "Contesté pour ses méthodes innovantes, il quitta l’école publique et ouvrit sa propre école."
+  },
+  {
+    "question": "49 - Quelle notion centrale relie la pédagogie Freinet à une vision émancipatrice de l’éducation ?",
+    "options": ["L’élitisme scolaire", "La coopération", "La compétition", "La hiérarchie"],
+    "answerIndex": 1,
+    "explication": "Coopération, entraide et travail collectif sont au cœur de sa pédagogie."
+  },
+  {
+    "question": "50 - Comment résumer en une phrase la pédagogie de Freinet ?",
+    "options": ["Une pédagogie traditionnelle stricte", "Une pédagogie centrée sur l’enfant, coopérative, ancrée dans la vie réelle", "Une pédagogie réservée aux élites", "Une pédagogie uniquement ludique"],
+    "answerIndex": 1,
+    "explication": "Sa pédagogie propose une école démocratique, active et ouverte sur la vie, où l’enfant est acteur de ses apprentissages."
+  },
+  {
+    "question": "51 - Freinet insistait sur l’ouverture de l’école à la vie. Dans une classe d’aujourd’hui, quelle pratique refléterait le mieux ce principe ?",
+    "options": ["Lire uniquement le manuel scolaire", "Organiser une sortie pour étudier l’environnement local", "Faire réciter la leçon par cœur", "Multiplier les contrôles de connaissances"],
+    "answerIndex": 1,
+    "explication": "L’école doit être en lien avec le milieu de vie des enfants, pas coupée de la réalité."
+  },
+  {
+    "question": "52 - Le tâtonnement expérimental peut se rapprocher de quelle méthode actuelle ?",
+    "options": ["Les cours magistraux", "Les pédagogies par projet", "Les dictées quotidiennes", "Les fiches de révision à apprendre par cœur"],
+    "answerIndex": 1,
+    "explication": "Les projets permettent aux élèves de chercher, essayer, se tromper et vérifier, exactement comme le tâtonnement expérimental."
+  },
+  {
+    "question": "53 - Si on appliquait la pédagogie Freinet au numérique, quelle activité serait la plus cohérente ?",
+    "options": ["Faire copier des pages Wikipédia", "Créer un blog de classe alimenté par les élèves", "Lire des PDF imposés par l’enseignant", "Limiter l’usage d’Internet en classe"],
+    "answerIndex": 1,
+    "explication": "Comme l’imprimerie et le journal scolaire, le blog donne du sens à l’écriture en la diffusant."
+  },
+  {
+    "question": "54 - Quelle critique Freinet adresserait sans doute à l’école actuelle ?",
+    "options": ["Trop d’autonomie laissée aux élèves", "Trop d’évaluations standardisées", "Pas assez de manuels scolaires", "Trop de sorties éducatives"],
+    "answerIndex": 1,
+    "explication": "L’école actuelle reste marquée par une logique de tests et de notes, loin de l’esprit Freinet."
+  },
+  {
+    "question": "55 - Le conseil de classe Freinet visait surtout à :",
+    "options": ["Permettre aux élèves de participer aux décisions collectives", "Distribuer les notes de trimestre", "Organiser les emplois du temps des enseignants", "Faire respecter le règlement officiel"],
+    "answerIndex": 0,
+    "explication": "C’est une instance démocratique qui met les enfants en responsabilité."
+  },
+  {
+    "question": "56 - Dans une école urbaine d’aujourd’hui, quelle activité serait la plus fidèle à l’esprit de Freinet ?",
+    "options": ["Écrire un texte libre sur son quartier", "Répéter un poème imposé", "Faire un contrôle surprise", "Copier un extrait de manuel"],
+    "answerIndex": 0,
+    "explication": "Le texte libre ancré dans le vécu relie apprentissage et environnement des enfants."
+  },
+  {
+    "question": "57 - Quelle limite actuelle à l’application de la pédagogie Freinet pourrait-on relever ?",
+    "options": ["La surcharge des programmes officiels", "Le manque de manuels", "La discipline trop souple", "Le refus d’utiliser la technologie"],
+    "answerIndex": 0,
+    "explication": "Les enseignants doivent souvent « boucler le programme », ce qui laisse peu de place à l’expérimentation."
+  },
+  {
+    "question": "58 - La coopération entre élèves selon Freinet se distingue de la compétition scolaire car :",
+    "options": ["Elle vise à exclure les élèves faibles", "Elle favorise l’entraide et le progrès collectif", "Elle permet de sélectionner les meilleurs", "Elle se limite aux activités sportives"],
+    "answerIndex": 1,
+    "explication": "La coopération est un principe fondateur, à l’opposé de l’élitisme scolaire."
+  },
+  {
+    "question": "59 - Freinet verrait dans les technologies numériques actuelles surtout :",
+    "options": ["Un danger à bannir", "Un outil pour renforcer la libre expression des élèves", "Un moyen de contrôler les élèves", "Un simple gadget"],
+    "answerIndex": 1,
+    "explication": "Dans la logique de l’imprimerie et de la correspondance, les outils numériques ouvrent de nouveaux espaces d’expression."
+  },
+  {
+    "question": "60 - L’héritage le plus durable de Freinet pour l’école actuelle est :",
+    "options": ["La discipline militaire", "La centralité de l’enfant et de ses expériences", "Le retour aux savoirs classiques", "L’obéissance aveugle à l’autorité"],
+    "answerIndex": 1,
+    "explication": "Sa pédagogie a marqué l’idée que l’enfant doit être acteur de ses apprentissages."
+  },
+  {
+    "question": "61 - Quelle pratique scolaire risquerait le plus de ressembler à la « pédagogie du cheval qui n’a pas soif » selon Freinet ?",
+    "options": ["Demander aux élèves d’apprendre une leçon sans lien avec leur vécu", "Organiser un projet d’écriture sur leurs centres d’intérêt", "Faire une enquête dans le quartier", "Travailler en groupe sur une question choisie par les élèves"],
+    "answerIndex": 0,
+    "explication": "Freinet critique l’enseignement qui impose des savoirs sans sens pour l’enfant."
+  },
+  {
+    "question": "62 - Dans la pédagogie Freinet, le plan de travail hebdomadaire sert surtout à :",
+    "options": ["Uniformiser les apprentissages de tous", "Permettre aux élèves d’organiser et personnaliser leur travail", "Contrôler les élèves à distance", "Remplacer le professeur"],
+    "answerIndex": 1,
+    "explication": "Le plan de travail responsabilise l’élève et rend l’apprentissage plus autonome."
+  },
+  {
+    "question": "63 - Quelle activité serait la moins conforme à la pédagogie Freinet ?",
+    "options": ["L’écriture de textes libres", "La correction collective des productions", "L’évaluation par notes chiffrées systématiques", "La correspondance entre classes"],
+    "answerIndex": 2,
+    "explication": "Freinet valorise l’expression et la coopération, pas la notation rigide."
+  },
+  {
+    "question": "64 - Le conseil de classe chez Freinet développe principalement :",
+    "options": ["La compétition entre élèves", "L’apprentissage de la démocratie", "La soumission aux règles imposées", "Le respect des manuels officiels"],
+    "answerIndex": 1,
+    "explication": "Il permet aux enfants de débattre, voter, décider et gérer leur vie collective."
+  },
+  {
+    "question": "65 - Comment pourrait-on actualiser la correspondance scolaire de Freinet aujourd’hui ?",
+    "options": ["Par l’échange de mails ou de blogs entre classes", "Par la récitation de textes officiels", "Par la copie d’extraits de manuels", "Par des dictées collectives"],
+    "answerIndex": 0,
+    "explication": "Le numérique prolonge le principe d’une écriture tournée vers la communication réelle."
+  },
+  {
+    "question": "66 - Quelle idée rapproche Freinet d’autres pédagogues comme Montessori ?",
+    "options": ["L’école centrée sur l’enfant", "L’autorité absolue du maître", "L’élitisme scolaire", "La compétition permanente"],
+    "answerIndex": 0,
+    "explication": "Tous deux appartiennent au mouvement de l’éducation nouvelle, centrée sur l’enfant."
+  },
+  {
+    "question": "67 - Pourquoi l’imprimerie scolaire a-t-elle été une révolution dans la classe ?",
+    "options": ["Elle a remplacé les cahiers", "Elle a donné une dimension publique et concrète à l’écriture", "Elle a permis d’éviter les fautes d’orthographe", "Elle a supprimé les exercices écrits"],
+    "answerIndex": 1,
+    "explication": "L’imprimerie donne un sens réel aux productions des élèves, en les diffusant."
+  },
+  {
+    "question": "68 - Selon la logique de Freinet, quelle activité renforcerait le mieux l’autonomie des élèves ?",
+    "options": ["Un cours magistral de 2 heures", "La réalisation d’un projet choisi par le groupe", "Une série de dictées quotidiennes", "La lecture imposée d’un manuel"],
+    "answerIndex": 1,
+    "explication": "L’autonomie se construit par la responsabilisation dans des projets."
+  },
+  {
+    "question": "69 - Quelle critique Freinet adresserait probablement à certaines pratiques scolaires actuelles ?",
+    "options": ["Le manque de contrôle écrit", "La centration excessive sur les évaluations standardisées", "Le trop grand nombre de sorties", "L’utilisation du numérique"],
+    "answerIndex": 1,
+    "explication": "Il aurait dénoncé une école centrée sur la performance chiffrée au détriment du sens."
+  },
+  {
+    "question": "70 - Dans une classe Freinet, l’erreur est considérée comme :",
+    "options": ["Une faute grave à sanctionner", "Un obstacle insurmontable", "Une étape naturelle de l’apprentissage", "Une preuve de paresse"],
+    "answerIndex": 2,
+    "explication": "Le tâtonnement expérimental fait de l’erreur un moment d’apprentissage."
+  },
+  {
+    "question": "71 - Pourquoi peut-on dire que la pédagogie Freinet est « émancipatrice » ?",
+    "options": ["Parce qu’elle supprime les enseignants", "Parce qu’elle vise à libérer l’élève par l’expression et la coopération", "Parce qu’elle refuse les savoirs scolaires", "Parce qu’elle interdit la discipline"],
+    "answerIndex": 1,
+    "explication": "L’élève apprend à s’exprimer, coopérer et devenir acteur de sa vie sociale et scolaire."
+  },
+  {
+    "question": "72 - Quelle activité en classe correspond le mieux à la vision freinetienne de « l’éducation au travail » ?",
+    "options": ["Construire un jardin scolaire collectif", "Répéter des règles de grammaire par cœur", "Copier dix fois une définition", "Réviser uniquement pour le contrôle"],
+    "answerIndex": 0,
+    "explication": "Le travail est vu comme activité créatrice et porteuse de sens, pas comme besogne mécanique."
+  },
+  {
+    "question": "73 - Quelle valeur politique traverse toute l’œuvre pédagogique de Freinet ?",
+    "options": ["La hiérarchie", "La compétition", "La coopération", "L’élitisme"],
+    "answerIndex": 2,
+    "explication": "Sa pédagogie est indissociable d’un idéal démocratique et coopératif."
+  },
+  {
+    "question": "74 - Si un professeur impose systématiquement les thèmes de rédaction aux élèves, Freinet dirait que :",
+    "options": ["C’est conforme à sa pédagogie", "C’est contraire à l’esprit du texte libre", "C’est une bonne manière de contrôler la classe", "C’est une preuve de discipline scolaire"],
+    "answerIndex": 1,
+    "explication": "Le texte libre repose sur la liberté d’expression des élèves."
+  },
+  {
+    "question": "75 - Pourquoi peut-on dire que la pédagogie Freinet est encore actuelle ?",
+    "options": ["Elle valorise des principes intemporels comme coopération, autonomie, sens des apprentissages", "Elle a supprimé les savoirs fondamentaux", "Elle est réservée aux élites", "Elle dépend uniquement de l’imprimerie"],
+    "answerIndex": 0,
+    "explication": "Même si les outils changent, ses valeurs éducatives restent très modernes."
+  }
+]
