@@ -1,0 +1,302 @@
+[
+  {
+    "question": "1 - Que signifie 'instruire' ?",
+    "options": [ "Former la personnalité et les valeurs", "Éduquer à la citoyenneté", "Transmettre des savoirs et connaissances","Apprendre uniquement la morale"],
+    "answerIndex": 2,
+    "explication": "Instruire, c’est transmettre des connaissances et des informations objectives."
+  },
+  {
+    "question": "2 - Que signifie 'éduquer' ?",
+    "options": ["Accompagner la maturation de l’individu, ses valeurs et sa socialisation", "Apprendre des faits bruts", "Se concentrer sur la mémorisation", "Donner uniquement des règles de conduite"],
+    "answerIndex": 0,
+    "explication": "Éduquer va au-delà de l’instruction : il s’agit de former la personne dans sa globalité."
+  },
+  {
+    "question": "3 - Quelle question philosophique centrale pose ce chapitre ?",
+    "options": [ "Combien de matières enseigner ?", "Comment noter les élèves ?", "L’école doit-elle instruire seulement ou aussi éduquer ?","Quelle méthode choisir pour la grammaire ?"],
+    "answerIndex": 2,
+    "explication": "La question clé est de savoir si l’école se limite à transmettre des savoirs ou forme aussi des citoyens."
+  },
+  {
+    "question": "4 - Que signifie former des citoyens selon le cours ?",
+    "options": ["Développer esprit critique, valeurs et participation à la vie démocratique", "Appliquer un catéchisme", "Transmettre uniquement des règles", "Éviter tout apprentissage moral"],
+    "answerIndex": 0,
+    "explication": "Former un citoyen, c’est développer sa capacité à penser et agir dans la société."
+  },
+  {
+    "question": "5 - Quelle est la différence principale entre instruire et éduquer ?",
+    "options": [ "Instruire = morale, Éduquer = mathématiques", "Instruire = obéir, Éduquer = contrôler","Instruire = savoirs, Éduquer = personnalité et valeurs", "Instruire = liberté, Éduquer = discipline"],
+    "answerIndex": 2,
+    "explication": "L’instruction transmet des connaissances ; l’éducation accompagne la croissance globale de l’individu."
+  },
+  {
+    "question": "6 - L’école républicaine doit-elle imposer un catéchisme ?",
+    "options": [ "Oui, pour transmettre des valeurs républicaines", "Non, elle doit donner les moyens de penser par soi-même", "Oui, mais seulement en histoire", "Non, elle ignore toute valeur"],
+    "answerIndex": 1,
+    "explication": "L’école forme des citoyens libres, pas des adhérents d’un dogme."
+  },
+  {
+    "question": "7 - Quel aspect l’instruction couvre-t-elle ?",
+    "options": ["Valeurs morales", "Développement social", "Participation citoyenne","Savoirs et connaissances"],
+    "answerIndex": 3,
+    "explication": "L’instruction se concentre sur la transmission de connaissances et compétences intellectuelles."
+  },
+  {
+    "question": "8 - Quel aspect l’éducation couvre-t-elle ?",
+    "options": [ "Mathématiques et sciences", "Valeurs, socialisation, culture, citoyenneté","Mémorisation et examens", "Organisation des emplois du temps"],
+    "answerIndex": 1,
+    "explication": "L’éducation englobe les valeurs, le comportement social et le développement global de l’individu."
+  },
+  {
+    "question": "9 - Pourquoi l’éducation ne doit-elle pas imposer des idées ?",
+    "options": [ "Pour rendre l’enseignement facile", "Pour suivre les traditions","Pour favoriser l’autonomie critique et la réflexion", "Pour éviter les conflits"],
+    "answerIndex": 2,
+    "explication": "L’éducation doit éveiller l’esprit critique et la capacité à réfléchir par soi-même."
+  },
+  {
+    "question": "10 - Quelle est la relation entre instruire et éduquer ?",
+    "options": [ "Opposée : l’une exclut l’autre","Complémentaire : instruire contient déjà une dimension éducative", "Identique : les termes sont synonymes", "Sans lien : elles n’ont pas le même but"],
+    "answerIndex": 1,
+    "explication": "Instruire et éduquer sont liés : transmettre des savoirs contribue aussi à former l’individu."
+  },
+  {
+    "question": "11 - Quel philosophe est associé à l’instruction publique pendant la Révolution française ?",
+    "options": [ "Rousseau", "Voltaire", "Condorcet","Montesquieu"],
+    "answerIndex": 2,
+    "explication": "Condorcet a rédigé le Rapport sur l’instruction publique en 1791-1792."
+  },
+  {
+    "question": "12 - Quelle est la mission principale selon Condorcet ?",
+    "options": [ "Former uniquement des techniciens","Former des citoyens libres et éclairés", "Former à obéir", "Former à l’histoire ancienne"],
+    "answerIndex": 1,
+    "explication": "Condorcet voulait que l’école émancipe les citoyens et développe leur autonomie."
+  },
+  {
+    "question": "13 - Quelle caractéristique l’instruction publique devait-elle avoir selon Condorcet ?",
+    "options": [ "Privée et religieuse", "Payante et sélective", "Centrée sur la discipline uniquement","Gratuite, universelle et laïque"],
+    "answerIndex": 3,
+    "explication": "L’instruction devait être accessible à tous et indépendante de la religion."
+  },
+  {
+    "question": "14 - Condorcet refuse le dogmatisme. Que cela signifie-t-il ?",
+    "options": [ "Interdire toute opinion", "Suivre uniquement l’État","Ne pas imposer d’opinions comme vérité absolue", "Appliquer une idéologie républicaine"],
+    "answerIndex": 2,
+    "explication": "Les élèves doivent apprendre à réfléchir, pas à accepter aveuglément."
+  },
+  {
+    "question": "15 - Condorcet refuse l’obscurantisme. Que cela implique-t-il ?",
+    "options": [ "Ne pas enseigner les sciences", "S’appuyer sur la raison et la science","Ne pas apprendre la culture", "Se concentrer sur les croyances"],
+    "answerIndex": 1,
+    "explication": "L’enseignement doit être fondé sur la connaissance et la rationalité."
+  },
+  {
+    "question": "16 - Condorcet refuse le conformisme. Pourquoi ?",
+    "options": ["Pour encourager l’autonomie critique", "Pour imposer la discipline", "Pour copier les traditions", "Pour suivre les lois religieuses"],
+    "answerIndex": 0,
+    "explication": "L’éducation doit former des esprits capables de penser par eux-mêmes."
+  },
+  {
+    "question": "17 - Quelle valeur essentielle Condorcet associe-t-il à l’instruction ?",
+    "options": [ "Richesse et pouvoir", "Obéissance et discipline", "Autorité et dogme","Émancipation et égalité"],
+    "answerIndex": 3,
+    "explication": "L’instruction publique est un outil pour rendre les citoyens libres et égaux."
+  },
+  {
+    "question": "18 - Condorcet considère que l’éducation doit développer :",
+    "options": ["Uniformiser tous les élèves", "Se concentrer uniquement sur la mémoire","Les talents individuels",  "Les compétences militaires"],
+    "answerIndex": 2,
+    "explication": "L’école doit permettre à chacun de réaliser son potentiel."
+  },
+  {
+    "question": "19 - Quelle dimension de l’éducation Condorcet met-il en avant ?",
+    "options": ["Conformisme", "Autonomie critique", "Dogmatisme", "Obéissance stricte"],
+    "answerIndex": 1,
+    "explication": "L’objectif est de former des citoyens capables de réfléchir et de juger."
+  },
+  {
+    "question": "20 - Condorcet associe l’instruction à quel idéal républicain ?",
+    "options": ["Liberté et égalité", "Richesse et pouvoir", "Obéissance et discipline", "Tradition et dogme"],
+    "answerIndex": 0,
+    "explication": "L’instruction publique est vue comme un levier pour une société libre et égalitaire."
+  },
+  {
+    "question": "21 - Selon Reboul, l’éducation vise à :",
+    "options": [ "Transmettre uniquement des faits", "Imposer la morale", "Apprendre à devenir homme", "Former des machines à calculer"],
+    "answerIndex": 2,
+    "explication": "L’éducation contribue à l’humanisation et au développement des capacités personnelles."
+  },
+  {
+    "question": "22 - Quels sont les trois champs de l’éducation selon Kerlan ?",
+    "options": [ "Maths, sciences, langues", "Culture/valeurs, individu/nature, société/ordre","Discipline, obéissance, conformité", "Sport, musique, arts"],
+    "answerIndex": 1,
+    "explication": "L’éducation doit équilibrer culture, développement personnel et vie sociale."
+  },
+  {
+    "question": "23 - Que distingue l’humain de l’animal selon ce chapitre ?",
+    "options": [ "La force physique", "Le langage uniquement", "La reproduction","L’accès à la culture et la capacité à réfléchir"],
+    "answerIndex": 3,
+    "explication": "L’éducation permet de dépasser l’instinct pour accéder à la culture et à la raison."
+  },
+  {
+    "question": "24 - L’éducation permet à l’individu de :",
+    "options": [ "Obéir aux ordres sans réfléchir", "Se conformer aux traditions", "Développer ses potentialités","Apprendre uniquement par imitation"],
+    "answerIndex": 2,
+    "explication": "Elle offre un espace pour s’épanouir et devenir autonome."
+  },
+  {
+    "question": "25 - L’éducation combine :",
+    "options": ["Valeurs, développement personnel et ordre social", "Mémorisation, discipline, exercices", "Normes, tests, examens", "Obéissance, hiérarchie, contrôle"],
+    "answerIndex": 0,
+    "explication": "Elle doit équilibrer la formation intellectuelle, morale et sociale."
+  },
+  {
+    "question": "26 - Pourquoi la culture est-elle importante ?",
+    "options": [ "Elle assure l’obéissance", "Elle uniformise les élèves", "Elle distingue l’humain et transmet des valeurs","Elle remplace la morale"],
+    "answerIndex": 2,
+    "explication": "La culture est un vecteur de connaissance, de pensée critique et de valeurs."
+  },
+  {
+    "question": "27 - Quelle est la finalité sociale de l’éducation ?",
+    "options": [ "Obéir aux enseignants", "Apprendre uniquement pour soi", "Respecter les traditions","Maintenir l’ordre et préparer à la citoyenneté"],
+    "answerIndex": 3,
+    "explication": "L’éducation prépare à vivre dans la société et à participer à la démocratie."
+  },
+  {
+    "question": "28 - Quel est l’objectif du développement individuel ?",
+    "options": [ "Appliquer des règles strictes", "Faire réussir aux examens", "Accompagner la maturation et les talents de chacun","Uniformiser les comportements"],
+    "answerIndex": 2,
+    "explication": "L’éducation doit respecter les capacités et la singularité de chaque individu."
+  },
+  {
+    "question": "29 - La dimension culturelle de l’éducation inclut :",
+    "options": ["Transmission de savoirs et de valeurs", "Simple apprentissage technique", "Obéissance aux règles", "Formation militaire"],
+    "answerIndex": 0,
+    "explication": "La culture inclut connaissances, valeurs et capacité de jugement."
+  },
+  {
+    "question": "30 - L’éducation vise aussi :",
+    "options": [ "À suivre aveuglément l’autorité", "À former des citoyens autonomes et responsables","À mémoriser sans réfléchir", "À enseigner la soumission"],
+    "answerIndex": 1,
+    "explication": "L’objectif est l’autonomie intellectuelle, morale et civique."
+  },
+  {
+    "question": "31 - L’éducation à l’engagement citoyen vise à :",
+    "options": [ "Mémoriser des faits historiques", "Appliquer des règles religieuses", "Développer la participation à la vie collective", "Uniformiser les opinions des élèves"],
+    "answerIndex": 2,
+    "explication": "L’objectif est de former des citoyens capables de s’impliquer et de réfléchir aux enjeux collectifs."
+  },
+  {
+    "question": "32 - Qu’est-ce que l’école doit éviter lorsqu’elle éduque à l’engagement ?",
+    "options": ["L’apprentissage des mathématiques", "La lecture et l’écriture", "Les activités sportives","L’endoctrinement"],
+    "answerIndex": 3,
+    "explication": "L’école doit éveiller la réflexion critique, pas imposer une idéologie."
+  },
+  {
+    "question": "33 - L’éducation à l’engagement inclut souvent :",
+    "options": ["Éducation à l’écocitoyenneté et au développement durable", "Enseignement uniquement des sciences", "Cours de discipline stricte", "Uniformisation des opinions politiques"],
+    "answerIndex": 0,
+    "explication": "Elle vise à former des citoyens responsables et conscients des enjeux sociaux et environnementaux."
+  },
+  {
+    "question": "34 - Pourquoi l’esprit critique est-il essentiel dans ce type d’éducation ?",
+    "options": [ "Pour imposer des valeurs républicaines", "Pour permettre aux élèves de réfléchir et juger par eux-mêmes","Pour mémoriser plus vite", "Pour réussir aux examens"],
+    "answerIndex": 1,
+    "explication": "L’éducation à l’engagement ne consiste pas à réciter des idées, mais à développer la capacité de penser et d’agir."
+  },
+  {
+    "question": "35 - Quelle est la relation entre engagement et autonomie ?",
+    "options": [ "L’autonomie empêche toute participation", "L’autonomie se limite à la réussite scolaire","L’autonomie permet un engagement réfléchi", "L’engagement impose des règles strictes"],
+    "answerIndex": 2,
+    "explication": "Un citoyen autonome peut choisir de s’engager de manière responsable et critique."
+  },
+  {
+    "question": "36 - Quel est un exemple concret d’éducation à l’engagement ?",
+    "options": [ "Répétition de leçons par cœur", "Contrôle strict des comportements", "Cours magistraux sans débat","Projets de solidarité ou d’écologie à l’école"],
+    "answerIndex": 3,
+    "explication": "Les projets concrets permettent aux élèves de mettre en pratique les valeurs étudiées."
+  },
+  {
+    "question": "37 - Quel rôle joue la diversité des points de vue ?",
+    "options": ["Elle permet de développer le jugement critique", "Elle complique inutilement l’enseignement", "Elle n’a pas de rôle pédagogique", "Elle impose des choix idéologiques"],
+    "answerIndex": 0,
+    "explication": "Exposer les élèves à plusieurs perspectives favorise leur autonomie de pensée."
+  },
+  {
+    "question": "38 - L’éducation à l’engagement fait partie de :",
+    "options": ["L’enseignement technique", "La mémorisation des dates", "L’éducation citoyenne",  "Les évaluations standardisées"],
+    "answerIndex": 2,
+    "explication": "Elle prépare à la vie démocratique et sociale."
+  },
+  {
+    "question": "39 - Quelle compétence principale l’élève développe-t-il ?",
+    "options": [ "Capacité à réciter des faits","Capacité à réfléchir et agir pour la collectivité", "Obéissance stricte aux règles", "Mémorisation sans compréhension"],
+    "answerIndex": 1,
+    "explication": "L’objectif est de former des citoyens autonomes et responsables."
+  },
+  {
+    "question": "40 - L’éducation à l’engagement doit combiner :",
+    "options": ["Seules notions théoriques", "Obéissance aux enseignants", "Uniformité des opinions","Réflexion critique et expériences concrètes"],
+    "answerIndex": 3,
+    "explication": "Penser et agir sont indissociables pour une formation citoyenne efficace."
+  },
+  {
+    "question": "41 - L’instruction et l’éducation sont :",
+    "options": ["Complémentaires", "Opposées", "Identiques", "Sans lien"],
+    "answerIndex": 0,
+    "explication": "L’instruction transmet des savoirs, l’éducation forme l’individu. Elles se complètent."
+  },
+  {
+    "question": "42 - L’instruction publique a pour but :",
+    "options": ["Émancipation et autonomie des citoyens", "Imposer un dogme", "Uniformiser les opinions", "Former uniquement des techniciens"],
+    "answerIndex": 0,
+    "explication": "Elle permet aux individus de réfléchir, juger et agir dans la société."
+  },
+  {
+    "question": "43 - L’éducation repose sur quelles valeurs ?",
+    "options": ["Liberté, égalité, respect, justice, solidarité", "Obéissance, discipline, uniformité", "Mémorisation, répétition, rigueur", "Pouvoir, richesse, hiérarchie"],
+    "answerIndex": 0,
+    "explication": "Ces valeurs guident la formation morale et civique des élèves."
+  },
+  {
+    "question": "44 - Quelle est la principale mission de l’école ?",
+    "options": ["Former des citoyens capables de penser et agir", "Transmettre uniquement des connaissances", "Obéir aux traditions", "Appliquer des programmes stricts"],
+    "answerIndex": 0,
+    "explication": "La formation citoyenne inclut savoirs et compétences sociales et morales."
+  },
+  {
+    "question": "45 - Pourquoi faut-il rester vigilant dans l’éducation ?",
+    "options": ["Pour éviter l’endoctrinement", "Pour imposer des valeurs", "Pour suivre aveuglément l’État", "Pour uniformiser les comportements"],
+    "answerIndex": 0,
+    "explication": "L’école doit favoriser l’esprit critique plutôt que la soumission à une idéologie."
+  },
+  {
+    "question": "46 - L’instruction contient-elle une dimension éducative ?",
+    "options": ["Oui, elle vise à former un citoyen autonome", "Non, elle se limite aux savoirs", "Non, elle est neutre", "Oui, mais seulement pour les sciences"],
+    "answerIndex": 0,
+    "explication": "Apprendre à raisonner et comprendre le monde contribue à l’éducation globale."
+  },
+  {
+    "question": "47 - Quel est le lien entre histoire et éducation selon ce cours ?",
+    "options": ["L’histoire est secondaire", "L’histoire impose des valeurs", "L’histoire enseigne uniquement des dates","L’histoire montre que l’instruction publique a toujours eu une dimension éducative"],
+    "answerIndex": 3,
+    "explication": "Les exemples historiques illustrent la continuité entre instruire et éduquer."
+  },
+  {
+    "question": "48 - Philosopher sur l’éducation sert à :",
+    "options": [ "Suivre un programme sans question", "Appliquer des méthodes pédagogiques","Réfléchir aux finalités et aux valeurs", "Évaluer les élèves"],
+    "answerIndex": 2,
+    "explication": "La philosophie permet de penser le sens de l’éducation, pas seulement ses moyens."
+  },
+  {
+    "question": "49 - Quelle est la mission de l’école républicaine ?",
+    "options": ["Appliquer des dogmes", "Obéir à l’État sans critique", "Former des citoyens libres et capables de jugement","Uniformiser les opinions politiques"],
+    "answerIndex": 2,
+    "explication": "L’école forme des individus autonomes, capables de participation démocratique."
+  },
+  {
+    "question": "50 - En résumé, que permet l’éducation bien conçue ?",
+    "options": ["Émancipation, autonomie, sens critique et citoyenneté", "Simple transmission de connaissances", "Uniformisation des comportements", "Obéissance stricte aux règles"],
+    "answerIndex": 0,
+    "explication": "Elle combine savoirs, valeurs et développement personnel pour former des citoyens responsables."
+  }
+]

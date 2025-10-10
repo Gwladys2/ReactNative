@@ -18,6 +18,10 @@ import Reseaux from './screens/Reseaux';
 import SystReseaux from './screens/SystReseaux';
 import Systemes from './screens/Systemes';
 import SystResMenu from './screens/SystResMenu';
+import PsychoEducation from './screens/PsychoEducation';
+import PhiloEducation from './screens/PhiloEducation';
+import LettresArts from './screens/LettresArts';
+import PsychoEducation2 from './screens/PsychoEducation2';
 import Architecture from './screens/Architecture';
 import { ProgressProvider } from './context/ProgressContext';
 import Accueil from './screens/HomeScreen2';
@@ -39,6 +43,10 @@ export default function App() {
               <Stack.Screen name="Loading" component={LoadingScreen} options={{ headerShown: false }} />
               <Stack.Screen name="ScienceEducation" component={ScienceEducation} />
               <Stack.Screen name="GrandPedagogue" component={GrandPedagogue} />
+              <Stack.Screen name="PsychoEducation" component={PsychoEducation} />
+              <Stack.Screen name="PsychoEducation2" component={PsychoEducation2} />
+              <Stack.Screen name="PhiloEducation" component={PhiloEducation} />
+               <Stack.Screen name="LettresArts" component={LettresArts} />
               <Stack.Screen name="Home" component={HomeScreen} />
               <Stack.Screen name="HTML 1" component={LessonScreen} />
               <Stack.Screen name="Accueil" component={Accueil} />
@@ -53,6 +61,7 @@ export default function App() {
               <Stack.Screen name="Reseaux" component={Reseaux} />
               <Stack.Screen name="SystReseaux" component={SystReseaux} />
               <Stack.Screen name="Architecture" component={Architecture} />
+            
             </Stack.Navigator>
           </View>
 

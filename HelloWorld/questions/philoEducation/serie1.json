@@ -1,0 +1,422 @@
+[
+  {
+    "question": "1 - Que signifie littéralement le mot 'philosophie' ?",
+    "options": [ "Recherche de la vérité absolue", "Science des sciences", "Savoir de la foi","Amour de la sagesse"],
+    "answerIndex": 3,
+    "explication": "Philo = amour, Sophia = sagesse. La philosophie est l’amour de la sagesse."
+  },
+  {
+    "question": "2 - Selon Kerlan, qu’est-ce que la philosophie ?",
+    "options": ["Une simple théorie intellectuelle", "Une activité de réflexion et une manière de vivre", "Un ensemble de règles morales", "Une science exacte"],
+    "answerIndex": 1,
+    "explication": "Kerlan souligne que la philosophie est à la fois une construction théorique et une manière de penser sa vie."
+  },
+  {
+    "question": "3 - Pour Kant et Reboul, que doit-on apprendre ?",
+    "options": ["À philosopher", "La philosophie", "Les textes philosophiques", "Les dogmes philosophiques"],
+    "answerIndex": 0,
+    "explication": "On n’apprend pas la philosophie comme un savoir figé, mais à philosopher, c’est-à-dire à réfléchir."
+  },
+  {
+    "question": "4 - Qu’est-ce qui fait naître la philosophie selon la tradition grecque ?",
+    "options": [ "La colère", "La peur", "L’étonnement","La foi"],
+    "answerIndex": 2,
+    "explication": "La philosophie naît de l’étonnement (thaumazein), le désir de comprendre ce qui nous surprend."
+  },
+  {
+    "question": "5 - Pour Charles Hadji, sur quoi la philosophie s’interroge-t-elle ?",
+    "options": ["La légitimité des pratiques et des valeurs", "Les méthodes pédagogiques", "Les résultats scolaires", "Les statistiques éducatives"],
+    "answerIndex": 0,
+    "explication": "Elle questionne le sens et la justification des pratiques éducatives et des valeurs qui les fondent."
+  },
+  {
+    "question": "6 - Que veut dire Reboul lorsqu’il écrit qu’un éducateur qui réfléchit philosophe ?",
+    "options": ["Qu’il suit une méthode scientifique", "Qu’il met en question le sens de son travail", "Qu’il enseigne la philosophie", "Qu’il lit Kant"],
+    "answerIndex": 1,
+    "explication": "Réfléchir sur le sens de son action éducative, c’est déjà philosopher."
+  },
+  {
+    "question": "7 - La philosophie est avant tout :",
+    "options": ["Une accumulation de savoirs", "Une activité de questionnement", "Une morale", "Un ensemble de lois"],
+    "answerIndex": 1,
+    "explication": "Philosopher, c’est questionner, pas simplement apprendre des réponses."
+  },
+  {
+    "question": "8 - Quelle est la nature de la philosophie selon Kerlan ?",
+    "options": ["Double : théorie et pratique de vie","Purement théorique", "Scientifique", "Religieuse"],
+    "answerIndex": 0,
+    "explication": "Elle est à la fois une activité intellectuelle et une façon de vivre et de penser."
+  },
+  {
+    "question": "9 - Que signifie philosopher en éducation selon Reboul ?",
+    "options": [ "Appliquer les règles scolaires", "Réfléchir sur le sens de l’acte éducatif","Évaluer les élèves", "Faire de la recherche en sciences"],
+    "answerIndex": 1,
+    "explication": "Philosopher en éducation, c’est donner du sens à son rôle d’éducateur."
+  },
+  {
+    "question": "10 - Que rejette la philosophie dans sa démarche ?",
+    "options": ["La raison", "Le dogmatisme", "La réflexion", "Le dialogue"],
+    "answerIndex": 1,
+    "explication": "La philosophie s’oppose à toute forme de vérité imposée sans questionnement."
+  },
+  {
+    "question": "11 - Pourquoi la philosophie reste-t-elle nécessaire en sciences de l’éducation ?",
+    "options": ["Elle complète les sciences en questionnant leurs fondements", "Elle remplace la psychologie", "Elle s’oppose à la science", "Elle enseigne des dogmes"],
+    "answerIndex": 0,
+    "explication": "La philosophie interroge ce que les sciences ne questionnent pas : valeurs, finalités, légitimité."
+  },
+  {
+    "question": "12 - Quelle question pose Michel Fabre à propos de la formation ?",
+    "options": [ "Comment enseigner les mathématiques ?", "Pourquoi évaluer ?", "Quelle autorité avons-nous ?","Que voulons-nous dire quand nous formons ?"],
+    "answerIndex": 3,
+    "explication": "Fabre interroge le sens même de la formation."
+  },
+  {
+    "question": "13 - Que cherchent à déterminer les sciences de l’éducation ?",
+    "options": ["Les méthodes", "Les finalités", "Les valeurs", "Les émotions"],
+    "answerIndex": 0,
+    "explication": "Les sciences s’intéressent souvent au comment, la philosophie au pourquoi."
+  },
+  {
+    "question": "14 - Que questionne la philosophie que les neurosciences ne peuvent pas mesurer ?",
+    "options": [ "Les connexions neuronales", "Les comportements","Les valeurs et finalités", "Les réflexes cognitifs"],
+    "answerIndex": 2,
+    "explication": "Les valeurs et les buts de l’éducation échappent à la mesure scientifique."
+  },
+  {
+    "question": "15 - Selon Hadji, quelle question est au cœur de l’évaluation ?",
+    "options": [ "Comment noter rapidement ?", "Pourquoi donner des devoirs ?", "Que prétendons-nous faire quand nous évaluons ?", "Comment enseigner ?"],
+    "answerIndex": 2,
+    "explication": "La philosophie s’interroge sur le sens et la finalité de l’évaluation."
+  },
+  {
+    "question": "16 - Quelle est la quatrième grande question de Fabre ?",
+    "options": ["Sur quoi fondons-nous notre autorité d’éducateur ?", "Comment enseigner la morale ?", "Pourquoi lire Kant ?", "Comment enseigner le sport ?"],
+    "answerIndex": 0,
+    "explication": "Elle questionne la légitimité du rôle de l’éducateur."
+  },
+  {
+    "question": "17 - La philosophie s’intéresse surtout à :",
+    "options": [ "La technique d’enseignement", "La légitimité et les valeurs","Les programmes scolaires", "Les résultats chiffrés"],
+    "answerIndex": 1,
+    "explication": "Elle interroge le sens profond de l’éducation."
+  },
+  {
+    "question": "18 - Que permet la philosophie face à la diversité des sciences de l’éducation ?",
+    "options": [ "Une concurrence", "Une séparation", "Une hiérarchie","Une mise en cohérence et en sens"],
+    "answerIndex": 3,
+    "explication": "Elle relie les savoirs entre eux autour du sens éducatif."
+  },
+  {
+    "question": "19 - Selon Fabre, la philosophie aide à penser :",
+    "options": ["Les finalités de l’éducation", "Les statistiques scolaires", "Les niveaux de classe", "Les politiques économiques"],
+    "answerIndex": 0,
+    "explication": "Elle aide à définir pourquoi et pour quoi on éduque."
+  },
+  {
+    "question": "20 - En un mot, que cherche la philosophie dans l’éducation ?",
+    "options": [ "La technique", "La note", "Le sens","L’obéissance"],
+    "answerIndex": 2,
+    "explication": "Elle cherche à comprendre le sens de l’acte éducatif."
+  },
+  {
+    "question": "21 - Que signifie le caractère 'total' du questionnement philosophique ?",
+    "options": ["Il ne concerne que l’éducation", "Il peut s’appliquer à tout domaine de la vie humaine", "Il est limité à la science", "Il se concentre sur la morale"],
+    "answerIndex": 1,
+    "explication": "Le questionnement philosophique peut porter sur tout : Dieu, science, art, éducation, etc."
+  },
+  {
+    "question": "22 - En quoi le questionnement philosophique est-il radical ?",
+    "options": ["Il cherche les fondements et les raisons profondes", "Il rejette la science", "Il se base sur l’émotion", "Il se limite aux faits concrets"],
+    "answerIndex": 0,
+    "explication": "Radical vient de 'racine' : il cherche les fondements de l’éducation, pas seulement les méthodes."
+  },
+  {
+    "question": "23 - Quelle est la dimension 'existentielle' de la philosophie de l’éducation ?",
+    "options": ["Elle s’intéresse aux programmes scolaires", "Elle engage la vie humaine, la liberté et le sens de l’existence", "Elle étudie les examens", "Elle cherche des chiffres"],
+    "answerIndex": 1,
+    "explication": "La philosophie touche à des questions de sens : vie, liberté, mort, transmission."
+  },
+  {
+    "question": "24 - Pourquoi la philosophie est-elle rationnelle ?",
+    "options": ["Elle se base sur la foi", "Elle repose sur la raison et la logique", "Elle dépend de la tradition", "Elle se fonde sur les émotions"],
+    "answerIndex": 1,
+    "explication": "Elle utilise la raison et la cohérence logique pour construire ses réflexions."
+  },
+  {
+    "question": "25 - Quelle question illustre la démarche radicale ?",
+    "options": ["Pourquoi et pour quoi éduquer ?","Comment enseigner ?",  "Combien d’élèves par classe ?", "Quel manuel utiliser ?"],
+    "answerIndex": 0,
+    "explication": "Elle cherche le sens et la finalité de l’acte éducatif."
+  },
+  {
+    "question": "26 - Le questionnement philosophique s’oppose à :",
+    "options": [ "L’acceptation sans réflexion", "La recherche de sens", "L’argumentation","La curiosité"],
+    "answerIndex": 0,
+    "explication": "Philosopher, c’est refuser d’accepter les évidences sans réflexion."
+  },
+  {
+    "question": "27 - Le caractère 'total' du questionnement signifie qu’il :",
+    "options": ["S’applique à tous les domaines", "Ignore les autres sciences", "Se limite à l’éducation", "Rejette la pratique"],
+    "answerIndex": 0,
+    "explication": "La philosophie interroge tout ce qui concerne l’être humain."
+  },
+  {
+    "question": "28 - Que cherche le questionnement philosophique en éducation ?",
+    "options": [ "Les statistiques scolaires", "Les moyens financiers", "Les causes et les finalités","Les programmes politiques"],
+    "answerIndex": 2,
+    "explication": "Il cherche le 'pourquoi' et le 'pour quoi' de l’éducation."
+  },
+  {
+    "question": "29 - Pourquoi dit-on que la philosophie pousse jusqu’à la racine ?",
+    "options": ["Elle examine les fondements du sens", "Elle parle de botanique", "Elle s’intéresse à la nature", "Elle étudie la morale chrétienne"],
+    "answerIndex": 0,
+    "explication": "Elle remonte à l’origine et au fondement des idées éducatives."
+  },
+  {
+    "question": "30 - Quelle est la principale différence entre science et philosophie dans l’éducation ?",
+    "options": ["La philosophie observe, la science réfléchit", "La philosophie cherche le sens, la science cherche les faits", "Elles sont identiques", "La philosophie remplace la science"],
+    "answerIndex": 1,
+    "explication": "La science explique comment, la philosophie cherche pourquoi."
+  },
+  {
+    "question": "31 - Quelle est la finalité de la méthode historique ?",
+    "options": [ "Appliquer des théories anciennes", "Rejeter la modernité", "Imiter les anciens sans réfléchir","Étudier les philosophes du passé pour comprendre nos problèmes actuels"],
+    "answerIndex": 3,
+    "explication": "La méthode historique permet de comprendre comment les problèmes éducatifs ont été pensés avant nous."
+  },
+  {
+    "question": "32 - Que fait la méthode critique ou épistémologique ?",
+    "options": [ "Elle teste les élèves", "Elle crée de nouvelles lois", "Elle analyse les limites et la validité des sciences de l’éducation","Elle remplace la pédagogie"],
+    "answerIndex": 2,
+    "explication": "Elle interroge la scientificité et les valeurs des recherches en éducation."
+  },
+  {
+    "question": "33 - L’analyse logique consiste à :",
+    "options": ["Clarifier le langage et les concepts", "Créer de nouveaux mots", "Raconter des histoires", "Faire des statistiques"],
+    "answerIndex": 0,
+    "explication": "Elle vise à dissiper les confusions et à préciser les termes philosophiques."
+  },
+  {
+    "question": "34 - Quelle est la méthode qui définit un concept par son contraire ?",
+    "options": [ "Méthode dialectique", "Méthode historique", "Méthode a contrario","Méthode critique"],
+    "answerIndex": 2,
+    "explication": "Ex : comprendre la justice à partir de l’injustice."
+  },
+  {
+    "question": "35 - Que cherche la dialectique ?",
+    "options": [ "À répéter une opinion","À confronter des idées opposées pour en construire une synthèse", "À supprimer les contradictions", "À décrire des faits concrets"],
+    "answerIndex": 1,
+    "explication": "Elle met en tension des points de vue contraires pour progresser dans la pensée."
+  },
+  {
+    "question": "36 - Que fait la phénoménologie selon Kerlan ?",
+    "options": ["Elle décrit le vécu et l’expérience éducative", "Elle calcule les résultats", "Elle analyse les statistiques", "Elle critique les programmes"],
+    "answerIndex": 0,
+    "explication": "La phénoménologie décrit le vécu concret de l’acte éducatif."
+  },
+  {
+    "question": "37 - Selon Wittgenstein, les méthodes philosophiques forment :",
+    "options": [ "Un livre sacré", "Un manuel d’enseignement", "Une théorie unique","Une boîte à outils"],
+    "answerIndex": 3,
+    "explication": "Chaque méthode est un outil adapté à une situation ou un problème donné."
+  },
+  {
+    "question": "38 - Quelle méthode pourrait-on utiliser pour étudier Platon et Rousseau ?",
+    "options": [ "Méthode a contrario","Méthode historique", "Méthode critique", "Dialectique"],
+    "answerIndex": 1,
+    "explication": "La méthode historique permet de comprendre la pensée des grands auteurs."
+  },
+  {
+    "question": "39 - Quelle méthode est utile pour clarifier les concepts flous comme 'liberté' ou 'autorité' ?",
+    "options": ["Analyse logique", "Méthode historique", "Phénoménologie", "Dialectique"],
+    "answerIndex": 0,
+    "explication": "L’analyse logique cherche à définir précisément les concepts."
+  },
+  {
+    "question": "40 - Quelle méthode met en lumière l’expérience subjective de l’apprenant ?",
+    "options": [ "A contrario", "Historique", "Dialectique","Phénoménologie"],
+    "answerIndex": 3,
+    "explication": "Elle décrit l’expérience vécue, par exemple celle de l’élève ou de l’enseignant."
+  },
+  {
+    "question": "41 - Quelle est la fonction 'élucidatrice' selon Avanzini ?",
+    "options": [ "Elle mesure les résultats scolaires", "Elle évalue les enseignants", "Elle clarifie les idées et les traditions éducatives","Elle applique les méthodes"],
+    "answerIndex": 2,
+    "explication": "Elle aide à comprendre le sens réel des notions et des pratiques éducatives."
+  },
+  {
+    "question": "42 - Que fait la fonction épistémologique ?",
+    "options": ["Elle examine la validité scientifique des savoirs éducatifs", "Elle critique les enseignants", "Elle définit les programmes", "Elle observe les comportements"],
+    "answerIndex": 0,
+    "explication": "Elle analyse les fondements et la scientificité des sciences de l’éducation."
+  },
+  {
+    "question": "43 - Quelle question relève de la fonction axiologique ?",
+    "options": [ "Combien d’élèves par classe ?", "Comment enseigner la lecture ?", "Quelle est la meilleure note ?","Quelle justice à l’école ?"],
+    "answerIndex": 3,
+    "explication": "La fonction axiologique s’intéresse aux valeurs et à l’éthique éducative."
+  },
+  {
+    "question": "44 - Ces fonctions permettent de penser l’éducation :",
+    "options": [ "Uniquement dans la pratique", "Sans théorie","Dans sa complexité globale", "Sous un angle politique"],
+    "answerIndex": 2,
+    "explication": "Elles permettent de comprendre l’éducation dans toutes ses dimensions : valeurs, savoirs, pratiques."
+  },
+  {
+    "question": "45 - La fonction épistémologique interroge notamment :",
+    "options": ["La scientificité de la pédagogie", "Les bulletins scolaires", "La discipline des élèves", "Les salaires des professeurs"],
+    "answerIndex": 0,
+    "explication": "Elle questionne les méthodes et la validité des sciences de l’éducation."
+  },
+  {
+    "question": "46 - Quelle fonction interroge les valeurs et les finalités ?",
+    "options": [ "Épistémologique", "Élucidatrice", "Historique","Axiologique"],
+    "answerIndex": 3,
+    "explication": "L’axiologie s’intéresse à ce qui est juste, bien, ou souhaitable en éducation."
+  },
+  {
+    "question": "47 - Quelle fonction aide à comprendre les traditions éducatives ?",
+    "options": [ "Axiologique", "Élucidatrice","Critique", "Phénoménologique"],
+    "answerIndex": 1,
+    "explication": "Elle éclaire le sens des traditions pour mieux comprendre les enjeux actuels."
+  },
+  {
+    "question": "48 - Ces fonctions ont pour but :",
+    "options": [ "De supprimer la théorie", "De remplacer la pédagogie", "De dépasser la simple pratique","De standardiser l’éducation"],
+    "answerIndex": 2,
+    "explication": "Elles permettent de réfléchir au-delà de la simple application technique."
+  },
+  {
+    "question": "49 - L’étude des valeurs éducatives relève de la fonction :",
+    "options": [ "Épistémologique", "Axiologique","Historique", "Technique"],
+    "answerIndex": 1,
+    "explication": "Axiologique = réflexion sur les valeurs et finalités."
+  },
+  {
+    "question": "50 - Dans la philosophie de l’éducation, ces fonctions servent à :",
+    "options": ["Penser et comprendre l’éducation", "Évaluer les élèves", "Créer des manuels", "Gérer les écoles"],
+    "answerIndex": 0,
+    "explication": "Elles permettent de donner sens et cohérence à l’acte éducatif."
+  },
+  {
+    "question": "51 - Que signifie philosopher dans l’éducation ?",
+    "options": [ "Appliquer mécaniquement des méthodes pédagogiques", "Évaluer les élèves", "Suivre un programme scolaire","Réfléchir sur le sens, les buts et les valeurs de l’acte d’éduquer"],
+    "answerIndex": 3,
+    "explication": "Philosopher dans l’éducation, c’est réfléchir au sens profond de ce qu’on fait en tant qu’éducateur."
+  },
+  {
+    "question": "52 - Qu’est-ce qu’une problématique philosophique en éducation ?",
+    "options": [ "Un exercice à choix multiples", "Une recette pédagogique", "Une question ouverte qui cherche un sens","Un énoncé scientifique"],
+    "answerIndex": 2,
+    "explication": "La problématique sert à poser une vraie question de sens, pas à chercher une seule bonne réponse."
+  },
+  {
+    "question": "53 - Quel est l’objectif de la pratique philosophique en éducation ?",
+    "options": [ "Remplacer la pédagogie", "Appliquer les théories sans réfléchir","Lier théorie et expérience", "Faire des statistiques scolaires"],
+    "answerIndex": 2,
+    "explication": "Philosopher, c’est relier la réflexion théorique à l’expérience vécue sur le terrain."
+  },
+  {
+    "question": "54 - Quelle tension une problématique cherche-t-elle à identifier ?",
+    "options": ["Une tension entre deux idées ou valeurs", "Une solution technique", "Une opposition politique", "Une méthode d’enseignement"],
+    "answerIndex": 0,
+    "explication": "La problématique philosophique naît d’une tension ou d’un paradoxe à explorer."
+  },
+  {
+    "question": "55 - Quel est un exemple de problématique philosophique ?",
+    "options": [ "Comment faire une fiche de lecture ?", "Quel manuel choisir ?", "Quelle note donner ?","Avons-nous des devoirs seulement envers les humains ou aussi envers la nature ?"],
+    "answerIndex": 3,
+    "explication": "Cette question engage des valeurs morales, écologiques et éducatives."
+  },
+  {
+    "question": "56 - Philosopher dans l’éducation suppose :",
+    "options": [ "Une répétition de doctrines", "Une obéissance aux consignes", "Une démarche critique et réflexive","Une analyse de données brutes"],
+    "answerIndex": 2,
+    "explication": "Il s’agit de penser par soi-même le sens de son travail éducatif."
+  },
+  {
+    "question": "57 - Quelle relation la philosophie entretient-elle avec la pratique éducative ?",
+    "options": ["Une relation vivante et réflexive", "Une opposition totale", "Une hiérarchie stricte", "Une ignorance réciproque"],
+    "answerIndex": 0,
+    "explication": "Philosopher, c’est interroger la pratique éducative pour lui donner du sens."
+  },
+  {
+    "question": "58 - Quelle est la différence entre philosopher et appliquer une méthode ?",
+    "options": [ "Philosopher imite, la méthode innove", "Philosopher répète, la méthode invente","Philosopher interroge le sens, la méthode applique des techniques", "Elles sont identiques"],
+    "answerIndex": 2,
+    "explication": "Philosopher, c’est réfléchir avant d’agir, pas seulement agir."
+  },
+  {
+    "question": "59 - Philosopher dans l’éducation, c’est aussi :",
+    "options": [ "Chercher la vérité unique", "Suivre les consignes officielles", "Appliquer un manuel","Accepter le doute et la complexité"],
+    "answerIndex": 3,
+    "explication": "Le philosophe accepte le questionnement et la pluralité des réponses."
+  },
+  {
+    "question": "60 - Quelle dimension rend la philosophie de l’éducation 'vivante' ?",
+    "options": [ "Sa neutralité totale", "Le lien entre pensée et expérience humaine","Son absence de pratique", "Sa séparation d’avec le réel"],
+    "answerIndex": 1,
+    "explication": "Elle relie la réflexion abstraite à l’expérience concrète de l’éducation."
+  },
+  {
+    "question": "61 - La philosophie de l’éducation est avant tout :",
+    "options": ["Une pensée critique et interrogative", "Une doctrine à appliquer", "Une religion de l’enseignement", "Une science expérimentale"],
+    "answerIndex": 0,
+    "explication": "Elle cherche à questionner et comprendre, non à imposer une vérité."
+  },
+  {
+    "question": "62 - Que cherche principalement la philosophie de l’éducation ?",
+    "options": [ "À créer des programmes scolaires", "À calculer des notes", "À comprendre les finalités de l’éducation", "À organiser des examens"],
+    "answerIndex": 2,
+    "explication": "Elle s’intéresse au sens et aux buts de l’acte éducatif."
+  },
+  {
+    "question": "63 - Quelles disciplines la philosophie de l’éducation mobilise-t-elle ?",
+    "options": ["Psychologie, sociologie, politique, anthropologie", "Physique, chimie, biologie", "Médecine, droit, commerce", "Aucune autre discipline"],
+    "answerIndex": 0,
+    "explication": "Elle s’appuie sur plusieurs sciences humaines pour enrichir sa réflexion."
+  },
+  {
+    "question": "64 - Quelle est sa relation avec la tradition philosophique ?",
+    "options": [ "Elle rejette la tradition", "Elle ignore les anciens", "Elle copie uniquement Aristote","Elle dialogue avec les penseurs classiques comme Platon, Kant ou Dewey"],
+    "answerIndex": 3,
+    "explication": "Elle relie les idées classiques aux enjeux contemporains."
+  },
+  {
+    "question": "65 - En quoi la philosophie de l’éducation diffère-t-elle d’une méthode pédagogique ?",
+    "options": [ "Elles sont identiques", "Elle ne s’intéresse pas à la pratique", "Elle questionne les finalités, la pédagogie propose des moyens","Elle impose des règles"],
+    "answerIndex": 2,
+    "explication": "La pédagogie répond au 'comment', la philosophie au 'pourquoi'."
+  },
+  {
+    "question": "66 - Quels sont les grands enjeux contemporains abordés par la philosophie de l’éducation ?",
+    "options": [ "Les politiques économiques", "L’éducation morale, citoyenne, numérique et écologique", "La géographie mondiale", "L’architecture des écoles"],
+    "answerIndex": 1,
+    "explication": "Elle relie les questions de sens aux enjeux éducatifs actuels."
+  },
+  {
+    "question": "67 - Quelle est la finalité principale de la philosophie de l’éducation ?",
+    "options": ["Aider à penser l’éducation plutôt qu’à appliquer des méthodes", "Remplacer les sciences de l’éducation", "Créer des manuels", "Gérer les institutions"],
+    "answerIndex": 0,
+    "explication": "Elle aide à réfléchir avant d’agir dans le domaine éducatif."
+  },
+  {
+    "question": "68 - En quoi la philosophie de l’éducation est-elle critique ?",
+    "options": [ "Elle s’oppose à toute réforme", "Elle suit aveuglément les traditions", "Elle remet en question les évidences et les pratiques","Elle refuse la réflexion"],
+    "answerIndex": 2,
+    "explication": "Son rôle est de questionner le sens et la légitimité des pratiques éducatives."
+  },
+  {
+    "question": "69 - Comment la philosophie de l’éducation articule-t-elle théorie et pratique ?",
+    "options": [ "En séparant totalement les deux", "En supprimant la pratique", "En imposant des dogmes","En reliant la réflexion abstraite à la réalité du terrain"],
+    "answerIndex": 3,
+    "explication": "Elle met en dialogue la pensée et l’expérience éducative réelle."
+  },
+  {
+    "question": "70 - Que permet de développer la philosophie de l’éducation chez l’éducateur ?",
+    "options": [ "Une obéissance passive", "Un automatisme d’enseignement", "Une posture réflexive et éthique","Une stricte application des ordres"],
+    "answerIndex": 2,
+    "explication": "Elle encourage l’éducateur à réfléchir à ses valeurs, à ses choix et à sa mission."
+  }
+]
