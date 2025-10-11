@@ -79,7 +79,7 @@ export default function LessonScreen({ navigation }) {
                     <Text style={styles.question}>Leçon terminée 🎉</Text>
                     <Button title="revenir au niveau 1" onPress={() => navigation.navigate('PsychoEducation')} />
                     <Button title="passer au niveau 3" onPress={() => navigation.navigate('PsychoEducation3')} />
-                    <Button title="Recommencer à  0 (réinitialise vies et xp)" onPress={handleRestart} color="#ff4444" />
+                   
                 </>
             )}
 

@@ -6,6 +6,7 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import HomeScreen from './screens/HomeScreen';
 import ScienceEducation from './screens/ScienceEducation';
 import GrandPedagogue from './screens/GrandPedagogue';
+import GrandPedagogue2 from './screens/GrandPedagogue2';
 import LessonScreen from './screens/LessonScreen';
 import Niveau2 from './screens/Niveau2';
 import Niveau3 from './screens/Niveau3';
@@ -22,6 +23,7 @@ import PsychoEducation from './screens/PsychoEducation';
 import PhiloEducation from './screens/PhiloEducation';
 import LettresArts from './screens/LettresArts';
 import PsychoEducation2 from './screens/PsychoEducation2';
+import PsychoEducation3 from './screens/PsychoEducation3';
 import Architecture from './screens/Architecture';
 import { ProgressProvider } from './context/ProgressContext';
 import Accueil from './screens/HomeScreen2';
@@ -43,10 +45,12 @@ export default function App() {
               <Stack.Screen name="Loading" component={LoadingScreen} options={{ headerShown: false }} />
               <Stack.Screen name="ScienceEducation" component={ScienceEducation} />
               <Stack.Screen name="GrandPedagogue" component={GrandPedagogue} />
+              <Stack.Screen name="GrandPedagogue2" component={GrandPedagogue2} />
               <Stack.Screen name="PsychoEducation" component={PsychoEducation} />
               <Stack.Screen name="PsychoEducation2" component={PsychoEducation2} />
+              <Stack.Screen name="PsychoEducation3" component={PsychoEducation3} />
               <Stack.Screen name="PhiloEducation" component={PhiloEducation} />
-               <Stack.Screen name="LettresArts" component={LettresArts} />
+              <Stack.Screen name="LettresArts" component={LettresArts} />
               <Stack.Screen name="Home" component={HomeScreen} />
               <Stack.Screen name="HTML 1" component={LessonScreen} />
               <Stack.Screen name="Accueil" component={Accueil} />

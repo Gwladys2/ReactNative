@@ -1,6 +1,6 @@
 import React, { useContext, useState } from 'react';
 import { View, Text, Button, StyleSheet, Alert } from 'react-native';
-import questions from '../questions/ScienceEducation/GrandPedagogue/serie1.json';
+import questions from '../questions/ScienceEducation/GrandPedagogue/serie3.json';
 import { ProgressContext } from '../context/ProgressContext';
 import HeaderStats from '../components/HeaderStats';
 import Logo from './Logo'; 
@@ -62,7 +62,7 @@ export default function LessonScreen({ navigation }) {
             <Logo/>
             {!showRestart ? (
                 <>
-                    <Text style={styles.titre}>Les Grands Pédagogues Niveau 1</Text>
+                    <Text style={styles.titre}>Les Grands Pédagogues Niveau 3</Text>
 
                     <Text style={styles.question}>{current.question}</Text>
                     {current.options.map((option, i) => (
@@ -74,7 +74,7 @@ export default function LessonScreen({ navigation }) {
                 <>
                     <Text style={styles.question}>Leçon terminée 🎉</Text>
                     <Button title="revenir à la liste des UE" onPress={() => navigation.navigate('ScienceEducation')} />
-                    <Button title="passer au niveau 2" onPress={() => navigation.navigate('GrandPedagogue2')} />
+                    <Button title="revenir au niveau 2" onPress={() => navigation.navigate('GrandPedagogue2')} /> 
                 </>
             )}
 

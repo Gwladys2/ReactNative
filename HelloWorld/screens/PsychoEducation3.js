@@ -1,6 +1,6 @@
 import React, { useContext, useState } from 'react';
 import { View, Text, Button, StyleSheet, Alert } from 'react-native';
-import questions from '../questions/serie2.json';
+import questions from '../questions/psychoDevApp/serie3.json';
 import { ProgressContext } from '../context/ProgressContext';
 import HeaderStats from '../components/HeaderStats';
 import Logo from './Logo'; 
@@ -79,7 +79,7 @@ export default function LessonScreen({ navigation }) {
                     <Text style={styles.question}>Leçon terminée 🎉</Text>
                     <Button title="revenir au niveau 2" onPress={() => navigation.navigate('PsychoEducation2')} />
                     <Button title="passer au niveau 4" onPress={() => navigation.navigate('CSS 1')} />
-                    <Button title="Recommencer à  0 (réinitialise vies et xp)" onPress={handleRestart} color="#ff4444" />
+                    
                 </>
             )}
 

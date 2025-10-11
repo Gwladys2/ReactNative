@@ -1,0 +1,422 @@
+[
+  {
+    "question": "1 - Quelle est la question centrale posée par le cours « Une école Freinet au XXIe siècle » ?",
+    "options": ["Freinet est-il toujours enseigné dans les écoles ?",  "Faut-il créer une école privée Freinet ?", "Peut-on encore appliquer les principes de Freinet aujourd’hui ?","Les méthodes Freinet sont-elles interdites ?"],
+    "answerIndex": 2,
+    "explication": "Le cours s’interroge sur la pertinence contemporaine de la pédagogie Freinet, notamment à travers l’exemple de l’école de Mons-en-Barœul."
+  },
+  {
+    "question": "2 - Quelle école actuelle sert d’exemple pour illustrer la pédagogie Freinet ?",
+    "options": ["L’école de Saint-Paul-de-Vence", "L’école Freinet de Mons-en-Barœul", "L’école Decroly de Bruxelles", "L’école Montessori de Paris"],
+    "answerIndex": 1,
+    "explication": "L’école Freinet de Mons-en-Barœul, dans le Nord de la France, incarne aujourd’hui les principes freinetiens adaptés au système public."
+  },
+  {
+    "question": "3 - Comment Freinet conçoit-il l’école en général ?",
+    "options": ["Comme un lieu de transmission de savoirs figés", "Comme une entreprise éducative", "Comme un espace uniquement récréatif", "Comme une micro-société démocratique"],
+    "answerIndex": 3,
+    "explication": "Freinet voit l’école comme une société miniature où les enfants expérimentent la démocratie, la coopération et la responsabilité."
+  },
+  {
+    "question": "4 - Que signifie le mot « institution » dans le contexte freinetien ?",
+    "options": ["Une organisation hiérarchique fermée", "Une structure pensée collectivement, avec des règles et des responsabilités partagées", "Un règlement imposé par l’enseignant", "Un lieu où seul l’adulte décide"],
+    "answerIndex": 1,
+    "explication": "L’institution désigne un cadre démocratique construit ensemble, garant de la vie collective et de la justice scolaire."
+  },
+  {
+    "question": "5 - Selon Freinet, pourquoi rien ne doit être implicite dans l’école ?",
+    "options": ["Parce que tout doit être discuté et compris par tous","Pour garder le contrôle sur les élèves",  "Pour accélérer le rythme des apprentissages", "Pour éviter les débats inutiles"],
+    "answerIndex": 0,
+    "explication": "La transparence et la participation permettent à chacun de comprendre et de s’approprier les règles de la vie collective."
+  },
+  {
+    "question": "6 - À quel niveau s’exprime l’institutionnalisation selon Freinet ?",
+    "options": ["Uniquement au niveau national",  "Seulement dans les manuels scolaires", "Dans les associations d’enseignants", "À tous les niveaux : Éducation nationale, école, classe"],
+    "answerIndex": 2,
+    "explication": "L’école, comme l’État ou la classe, doit être instituée : tout cadre démocratique se construit et se régule collectivement."
+  },
+  {
+    "question": "7 - Que vise l’organisation collective des règles dans une école Freinet ?",
+    "options": ["La compréhension du vivre-ensemble","La discipline militaire",  "La suppression de toute autorité", "L’efficacité économique"],
+    "answerIndex": 0,
+    "explication": "En participant à l’élaboration des règles, les élèves apprennent à vivre ensemble et à comprendre le sens de la loi."
+  },
+  {
+    "question": "8 - Quelle est la fonction principale du conseil de classe dans une école Freinet ?",
+    "options": ["Distribuer des notes", "Punir les comportements inadaptés",  "Réguler la vie collective et favoriser la parole démocratique","Évaluer les enseignants"],
+    "answerIndex": 2,
+    "explication": "Le conseil de classe est un lieu d’échange, de régulation et de prise de décision où les élèves participent activement."
+  },
+  {
+    "question": "9 - Quelles sont les valeurs portées par l’école Freinet ?",
+    "options": ["Compétition et réussite individuelle", "Discipline et hiérarchie", "Performance et sélection", "Coopération, entraide et démocratie"],
+    "answerIndex": 3,
+    "explication": "Freinet défend une école fondée sur la solidarité, la coopération et la responsabilité collective."
+  },
+  {
+    "question": "10 - Pourquoi dit-on que l’école Freinet est « ouverte sur l’extérieur » ?",
+    "options": ["Parce qu’elle accueille les parents en classe tous les jours",  "Parce qu’elle n’a pas de murs", "Parce qu’elle entretient des liens avec le monde réel, les familles et la société", "Parce qu’elle ne suit pas le programme national"],
+    "answerIndex": 2,
+    "explication": "L’école Freinet est reliée à la vie : elle s’ouvre sur la société à travers les correspondances, les projets et les sorties."
+  },
+  {
+    "question": "11 - Comment l’école Freinet conçoit-elle l’apprentissage ?",
+    "options": ["Comme une activité signifiante ancrée dans la vie réelle","Comme une répétition mécanique",  "Comme une activité de compétition", "Comme une accumulation de savoirs théoriques"],
+    "answerIndex": 0,
+    "explication": "L’apprentissage prend sens lorsqu’il relie les savoirs aux expériences et aux besoins des enfants."
+  },
+  {
+    "question": "12 - Quelle est la place du manuel scolaire dans la pédagogie Freinet ?",
+    "options": ["Il est central et obligatoire", "Il remplace le maître", "Il est interdit", "Il est un outil parmi d’autres, mais non imposé"],
+    "answerIndex": 3,
+    "explication": "Freinet n’exclut pas le manuel, mais préfère que les savoirs émergent d’expériences et de projets réels."
+  },
+  {
+    "question": "13 - Que symbolise l’expression « école du peuple » pour Freinet ?",
+    "options": ["Une école gratuite", "Une école démocratique et émancipatrice", "Une école rurale", "Une école syndiquée"],
+    "answerIndex": 1,
+    "explication": "L’école du peuple vise à former des citoyens libres et responsables, non à reproduire les inégalités sociales."
+  },
+  {
+    "question": "14 - Pourquoi l’échec scolaire n’est-il pas considéré comme une faute individuelle ?",
+    "options": ["Parce que l’élève n’est jamais responsable",  "Parce qu’il faut éviter les notes", "Parce que les programmes sont trop simples","Parce qu’il traduit souvent une défaillance du dispositif éducatif"],
+    "answerIndex": 3,
+    "explication": "Freinet considère que si un élève échoue, c’est le signe que le cadre ou la méthode doivent être repensés."
+  },
+  {
+    "question": "15 - Quel rôle le maître doit-il tenir selon Freinet ?",
+    "options": ["Guide et accompagnateur","Chef autoritaire",  "Observateur passif", "Correcteur automatique"],
+    "answerIndex": 0,
+    "explication": "L’enseignant Freinet guide l’enfant, garantit le cadre et stimule la recherche sans imposer."
+  },
+  {
+    "question": "16 - Quelle tension le maître Freinet doit-il gérer en permanence ?",
+    "options": ["Entre liberté et exigence", "Entre loisirs et travail", "Entre autorité et sanction", "Entre parents et élèves"],
+    "answerIndex": 0,
+    "explication": "Le maître doit savoir équilibrer autonomie et rigueur, pour que la liberté ne devienne pas désordre."
+  },
+  {
+    "question": "17 - Pourquoi parle-t-on d’un enseignant « équilibriste » chez Freinet ?",
+    "options": ["Parce qu’il travaille sans préparation", "Parce qu’il ajuste sans cesse entre cadre, autonomie et coopération", "Parce qu’il évite les conflits", "Parce qu’il est seul face à la classe"],
+    "answerIndex": 1,
+    "explication": "Le maître doit constamment trouver l’équilibre entre liberté et discipline, entre collectif et individuel."
+  },
+  {
+    "question": "18 - Comment l’enfant est-il perçu dans la pédagogie Freinet ?",
+    "options": ["Comme un être passif à former", "Comme un sujet actif qui apprend par l’expérience", "Comme un simple exécutant", "Comme un individu indiscipliné"],
+    "answerIndex": 1,
+    "explication": "L’enfant est acteur de ses apprentissages, il construit le savoir à partir de son expérience et de sa curiosité."
+  },
+  {
+    "question": "19 - Quel type d’apprentissage Freinet promeut-il ?",
+    "options": ["Apprentissage magistral", "Apprentissage par la répétition", "Apprentissage par le tâtonnement expérimental", "Apprentissage par la contrainte"],
+    "answerIndex": 2,
+    "explication": "Le tâtonnement expérimental permet à l’élève de découvrir par essais, erreurs et vérifications successives."
+  },
+  {
+    "question": "20 - Que signifie « apprendre dans une histoire » selon Freinet ?",
+    "options": ["Apprendre par les récits historiques", "Apprendre en récitant des dates", "Apprendre en laissant des traces de sa progression","Apprendre par les mythes"],
+    "answerIndex": 2,
+    "explication": "L’élève conserve des traces (affiches, brevets, carnets) qui lui permettent de visualiser ses progrès dans le temps."
+  },
+  {
+    "question": "21 - Quelle est la condition pour qu’un enfant puisse apprendre sereinement ?",
+    "options": ["L’évaluation permanente", "Une discipline stricte", "La peur de l’échec", "Un climat sécurisant et bienveillant"],
+    "answerIndex": 3,
+    "explication": "Le droit à l’erreur et le respect du rythme de chacun sont essentiels pour apprendre durablement."
+  },
+  {
+    "question": "22 - Comment la coopération contribue-t-elle à l’apprentissage ?",
+    "options": ["En rendant le travail collectif et porteur de sens", "En supprimant les différences de niveaux", "En évitant les erreurs individuelles", "En diminuant la motivation personnelle"],
+    "answerIndex": 0,
+    "explication": "Coopérer permet d’apprendre les uns des autres, de mutualiser les savoirs et de donner du sens au travail scolaire."
+  },
+  {
+    "question": "23 - Que veut dire « apprendre en se distanciant du faire » ?",
+    "options": ["Arrêter de travailler", "Analyser et comprendre ce qu’on a fait", "Éviter l’action", "Faire des pauses"],
+    "answerIndex": 1,
+    "explication": "L’élève apprend aussi en prenant du recul, en réfléchissant à son action pour mieux la comprendre."
+  },
+  {
+    "question": "24 - Pourquoi les rôles varient-ils souvent dans la classe Freinet ?",
+    "options": ["Pour distraire les élèves", "Parce que les enseignants changent souvent de classe", "Pour réduire le temps d’étude", "Pour que chacun expérimente plusieurs postures d’apprentissage"],
+    "answerIndex": 3,
+    "explication": "En étant tour à tour chercheur, critique ou secrétaire, l’élève découvre différents rapports au savoir."
+  },
+  {
+    "question": "25 - Quelle est la place de la règle dans la classe Freinet ?",
+    "options": ["Elle est imposée par le maître", "Elle est discutée, adoptée et évolutive", "Elle est absente", "Elle dépend du comportement individuel"],
+    "answerIndex": 1,
+    "explication": "La règle fait l’objet d’un consensus collectif, garantissant à la fois justice et participation démocratique."
+  },
+  {
+    "question": "26 - Pourquoi Freinet considère-t-il que l’échec scolaire est une question collective ?",
+    "options": ["Parce que tous les élèves doivent avoir la même note", "Parce que l’échec traduit souvent un problème d’organisation pédagogique", "Parce que les parents doivent être tenus responsables", "Parce que l’enfant n’aime pas l’école"],
+    "answerIndex": 1,
+    "explication": "Pour Freinet, l’échec est un signal que le cadre d’apprentissage doit être repensé, et non une faute de l’élève."
+  },
+  {
+    "question": "27 - Comment l’école Freinet construit-elle l’élève comme sujet apprenant ?",
+    "options": ["En nourrissant sa curiosité et son autonomie","En lui imposant des règles strictes",  "En le laissant seul dans ses apprentissages", "En supprimant toute évaluation"],
+    "answerIndex": 0,
+    "explication": "Freinet cherche à éveiller la curiosité et le sens critique des enfants pour les rendre acteurs de leurs apprentissages."
+  },
+  {
+    "question": "28 - Quelle est la principale mission de l’enseignant Freinet ?",
+    "options": ["Transmettre le programme mot pour mot", "Corriger les erreurs systématiquement", "Contrôler les élèves en permanence", "Créer des dispositifs d’apprentissage adaptés et stimulants"],
+    "answerIndex": 3,
+    "explication": "L’enseignant est un concepteur de situations d’apprentissage et un accompagnateur actif."
+  },
+  {
+    "question": "29 - Quelle attitude Freinet rejette-t-il chez l’enseignant ?",
+    "options": ["L’autorité ferme", "L’organisation du travail", "Le dogmatisme et la rigidité", "La participation au conseil"],
+    "answerIndex": 2,
+    "explication": "Freinet refuse les modèles d’enseignement autoritaires et figés qui étouffent la créativité et la coopération."
+  },
+  {
+    "question": "30 - Que signifie être un « adjuvant » pour l’enseignant ?",
+    "options": ["Soutenir sans se substituer à l’élève","Remplacer l’élève",  "Faire le travail à la place des enfants", "Donner des réponses toutes faites"],
+    "answerIndex": 0,
+    "explication": "Le maître aide, guide et soutient, mais laisse à l’élève la responsabilité de ses apprentissages."
+  },
+  {
+    "question": "31 - Quelle est la place du collectif dans l’apprentissage selon Freinet ?",
+    "options": ["Secondaire, l’individu passe d’abord", "Essentielle, car on apprend mieux ensemble", "Inutile, car cela ralentit la classe", "Optionnelle, selon les matières"],
+    "answerIndex": 1,
+    "explication": "La coopération favorise la construction du savoir, l’entraide et le respect mutuel."
+  },
+  {
+    "question": "32 - Pourquoi le climat de classe est-il primordial dans la pédagogie Freinet ?",
+    "options": ["Pour instaurer la peur de l’échec", "Pour renforcer l’autorité de l’enseignant", "Pour éviter les discussions collectives", "Pour créer un espace de sécurité et de confiance"],
+    "answerIndex": 3,
+    "explication": "La sécurité émotionnelle est indispensable pour que l’élève ose s’exprimer, expérimenter et apprendre."
+  },
+  {
+    "question": "33 - Que veut dire Freinet lorsqu’il parle d’un apprentissage « signifiant » ?",
+    "options": ["Un apprentissage lié à l’expérience et à la vie réelle","Un apprentissage dicté par le programme",  "Un apprentissage basé sur la compétition", "Un apprentissage noté et standardisé"],
+    "answerIndex": 0,
+    "explication": "Apprendre n’a de valeur que si cela fait sens pour l’élève et se relie à son vécu quotidien."
+  },
+  {
+    "question": "34 - Que représente le conseil de classe dans une école Freinet ?",
+    "options": ["Un moment de sanction collective" ,"Un examen hebdomadaire", "Un outil d’évaluation chiffrée", "Une institution démocratique de parole et de régulation"],
+    "answerIndex": 3,
+    "explication": "Le conseil est un pilier de la vie démocratique : il régule les conflits et valorise la parole de chacun."
+  },
+  {
+    "question": "35 - Quelle est la différence entre la liberté freinetienne et le laxisme ?",
+    "options": ["Aucune, ce sont des synonymes", "La liberté suppose un cadre collectif et des responsabilités", "Le laxisme est une liberté organisée", "Le laxisme impose des règles strictes"],
+    "answerIndex": 1,
+    "explication": "Freinet distingue la liberté encadrée, formatrice, du laisser-faire sans cadre ni exigence."
+  },
+  {
+    "question": "36 - Quelle importance revêt la notion de « traces » dans les apprentissages ?",
+    "options": ["Elle permet de suivre la progression de chaque élève dans le temps", "Elle sert uniquement à décorer la classe", "Elle remplace les notes", "Elle n’a aucune utilité réelle"],
+    "answerIndex": 0,
+    "explication": "Les traces (affiches, cahiers, productions) matérialisent les apprentissages et renforcent la conscience de ses progrès."
+  },
+  {
+    "question": "37 - Pourquoi le droit à l’erreur est-il central dans la pédagogie Freinet ?",
+    "options": ["Parce qu’il permet de punir moins souvent", "Parce qu’il fait partie du processus d’apprentissage", "Parce qu’il rend les contrôles inutiles", "Parce qu’il évite le travail individuel"],
+    "answerIndex": 1,
+    "explication": "L’erreur est une étape naturelle du tâtonnement expérimental, essentielle à la compréhension et à l’autonomie."
+  },
+  {
+    "question": "38 - Quelle est la finalité du plan de travail chez Freinet ?",
+    "options": ["Imposer un rythme identique à tous", "Évaluer les élèves chaque jour", "Supprimer les projets collectifs", "Permettre à chaque élève d’organiser son travail selon ses besoins"],
+    "answerIndex": 3,
+    "explication": "Le plan de travail est un outil de personnalisation et d’autonomie dans la gestion du temps et des apprentissages."
+  },
+  {
+    "question": "39 - Comment l’école Freinet aborde-t-elle la question de la discipline ?",
+    "options": ["Par la discussion et la régulation collective","Par des punitions sévères",  "Par le silence imposé", "Par des exclusions fréquentes"],
+    "answerIndex": 0,
+    "explication": "Les conflits se règlent dans le dialogue et la coopération, afin de responsabiliser les élèves."
+  },
+  {
+    "question": "40 - En quoi la pédagogie Freinet favorise-t-elle la justice scolaire ?",
+    "options": ["En imposant les mêmes devoirs à tous", "En récompensant les meilleurs",  "En rendant les règles transparentes et négociées collectivement", "En supprimant les conseils d’élèves"],
+    "answerIndex": 2,
+    "explication": "La justice naît de la compréhension partagée des règles et de la participation à leur élaboration."
+  },
+  {
+    "question": "41 - Quel rôle joue la parole dans la classe Freinet ?",
+    "options": ["Aucun, seul l’écrit compte", "Elle permet de réguler, réfléchir et coopérer", "Elle remplace le travail manuel", "Elle sert uniquement à réciter"],
+    "answerIndex": 1,
+    "explication": "La parole est un outil d’apprentissage, de régulation et de pensée collective."
+  },
+  {
+    "question": "42 - Comment Freinet conçoit-il l’autorité du maître ?",
+    "options": ["Comme une domination", "Comme une relation de pouvoir", "Comme une contrainte nécessaire", "Comme une autorité de compétence et de justice"],
+    "answerIndex": 3,
+    "explication": "L’autorité du maître repose sur la confiance, la compétence et le respect du cadre partagé."
+  },
+  {
+    "question": "43 - Quel type d’évaluation est privilégié dans une école Freinet ?",
+    "options": ["L’autoévaluation et les bilans coopératifs", "L’examen hebdomadaire", "L’évaluation chiffrée", "La note sur 20 imposée"],
+    "answerIndex": 2,
+    "explication": "Les évaluations sont formatives, réflexives et coopératives : elles servent à progresser, non à classer."
+  },
+  {
+    "question": "44 - Comment les élèves participent-ils à l’organisation de la classe ?",
+    "options": ["Ils observent le maître", "Ils occupent des rôles tournants (président, secrétaire, etc.)", "Ils imposent leurs propres règles", "Ils restent spectateurs"],
+    "answerIndex": 1,
+    "explication": "Les élèves expérimentent la démocratie à travers des responsabilités concrètes."
+  },
+  {
+    "question": "45 - Pourquoi le travail manuel ou concret est-il valorisé ?",
+    "options": ["Parce qu’il donne du sens à l’apprentissage et relie savoirs et action", "Parce qu’il est plus simple que la théorie", "Parce qu’il remplace les mathématiques", "Parce qu’il fatigue moins les élèves"],
+    "answerIndex": 0,
+    "explication": "L’action concrète permet d’expérimenter et de comprendre les notions abstraites par le vécu."
+  },
+  {
+    "question": "46 - Quelle est la vision de Freinet sur les relations entre élèves ?",
+    "options": ["Elles doivent être concurrentielles", "Elles doivent être limitées", "Elles doivent être hiérarchisées", "Elles doivent être basées sur la coopération et l’entraide"],
+    "answerIndex": 3,
+    "explication": "Freinet promeut un climat de solidarité et de coopération plutôt que de compétition."
+  },
+  {
+    "question": "47 - Quelle fonction éducative a le travail collectif ?",
+    "options": ["Créer de la rivalité", "Renforcer la cohésion et la responsabilité", "Remplacer le travail personnel", "Faire gagner du temps"],
+    "answerIndex": 1,
+    "explication": "Le travail collectif apprend à coopérer, à s’écouter et à partager les savoirs."
+  },
+  {
+    "question": "48 - Pourquoi parle-t-on de l’école Freinet comme d’une école du « sens » ?",
+    "options": ["Parce que chaque activité est reliée à la vie réelle et au développement de la personne","Parce qu’elle impose des valeurs religieuses",  "Parce qu’elle favorise uniquement la logique", "Parce qu’elle évite les projets"],
+    "answerIndex": 0,
+    "explication": "Le sens des apprentissages est au cœur de la pédagogie Freinet : on apprend pour comprendre le monde et agir sur lui."
+  },
+  {
+    "question": "49 - Quelle qualité essentielle l’enseignant Freinet doit-il cultiver ?",
+    "options": ["L’autorité et la distance", "L’obéissance au programme", "La neutralité totale", "L’écoute et la capacité à se remettre en question"],
+    "answerIndex": 3,
+    "explication": "L’enseignant Freinet doit être à la fois exigeant et à l’écoute, capable d’ajuster ses pratiques aux besoins des élèves."
+  },
+  {
+    "question": "50 - Comment résumer la place du maître dans une école Freinet ?",
+    "options": ["Un chef qui décide de tout", "Un simple animateur","Un accompagnateur qui structure la liberté des élèves", "Un juge de la discipline"],
+    "answerIndex": 2,
+    "explication": "Le maître Freinet accompagne les apprentissages, garantit le cadre et rend possible la coopération démocratique."
+  },
+  {
+    "question": "51 - Quelle transformation la pédagogie Freinet opère-t-elle face à la violence scolaire ?",
+    "options": ["Elle la transforme en sujet de parole et de régulation collective","Elle la nie complètement",  "Elle la punit sévèrement", "Elle l’ignore pour privilégier le travail"],
+    "answerIndex": 0,
+    "explication": "Freinet fait de la parole et du conseil de classe des outils de pacification, remplaçant la peur par la responsabilité collective."
+  },
+  {
+    "question": "52 - Que signifie la « déqualification idéologique de la violence » ?",
+    "options": ["La banalisation des conflits", "Le fait que la force n’a plus de valeur symbolique positive dans la classe", "La disparition de toute autorité", "La punition automatique des élèves violents"],
+    "answerIndex": 1,
+    "explication": "Dans l’école Freinet, la force physique cesse d’être un moyen de domination : l’autorité appartient au collectif."
+  },
+  {
+    "question": "53 - Comment la pédagogie Freinet régule-t-elle les conflits entre élèves ?",
+    "options": [ "Par des exclusions temporaires", "Par le recours systématique aux parents", "Par la médiation et la discussion en conseil","Par le silence imposé"],
+    "answerIndex": 2,
+    "explication": "Les conflits sont discutés dans un cadre collectif où chacun peut s’exprimer et apprendre à résoudre les désaccords pacifiquement."
+  },
+  {
+    "question": "54 - Quelle conséquence produit la régulation collective sur les élèves ?",
+    "options": ["Une peur du groupe", "Un fort sentiment de justice et d’appartenance", "Une absence d’autorité", "Une perte de repères"],
+    "answerIndex": 1,
+    "explication": "La participation aux décisions renforce le sentiment d’équité et la cohésion du groupe."
+  },
+  {
+    "question": "55 - Quelle limite de cette régulation collective est observée ?",
+    "options": ["Tous les élèves adhèrent immédiatement", "Elle supprime complètement les conflits", "Elle empêche les apprentissages", "Certains élèves résistent au cadre démocratique"],
+    "answerIndex": 3,
+    "explication": "Certains élèves rejettent la logique collective et cherchent à tester les limites du cadre démocratique."
+  },
+  {
+    "question": "56 - Quel problème soulève le passage des élèves Freinet au collège ?",
+    "options": ["Ils ont du mal à s’adapter à un système plus hiérarchique et noté","Ils sont en avance sur les programmes",  "Ils ne savent pas travailler seuls", "Ils refusent tout cadre scolaire"],
+    "answerIndex": 0,
+    "explication": "Le contraste entre l’école coopérative et le collège plus rigide crée un choc d’adaptation pour certains élèves."
+  },
+  {
+    "question": "57 - Comment les anciens élèves Freinet se distinguent-ils au collège ?",
+    "options": ["Ils ont plus de mal à suivre les consignes" ,"Ils dépendent davantage de l’enseignant", "Ils sont souvent plus autonomes et réflexifs","Ils sont désintéressés du travail"],
+    "answerIndex": 2,
+    "explication": "Les élèves issus d’une école Freinet savent organiser leur travail, exprimer leur pensée et réfléchir sur leurs apprentissages."
+  },
+  {
+    "question": "58 - Quelle est la conception freinetienne de l’évaluation ?",
+    "options": ["Une mesure chiffrée de la performance", "Un outil de réflexion sur le progrès", "Une sanction du comportement", "Un concours entre élèves"],
+    "answerIndex": 1,
+    "explication": "L’évaluation sert à faire progresser, non à classer : elle est formative et coopérative."
+  },
+  {
+    "question": "59 - Pourquoi la note n’est-elle pas centrale dans la pédagogie Freinet ?",
+    "options": ["Parce qu’elle fige le jugement au lieu de valoriser la progression","Parce que les élèves n’aiment pas les notes",  "Parce qu’elle simplifie la correction", "Parce qu’elle est interdite par Freinet"],
+    "answerIndex": 0,
+    "explication": "La note réduit l’apprentissage à une performance ; Freinet préfère des bilans qualitatifs et réflexifs."
+  },
+  {
+    "question": "60 - Quelle place occupe la coopération dans l’évaluation ?",
+    "options": ["Aucune, l’évaluation est individuelle", "Elle remplace les contrôles", "Elle crée de la compétition collective", "Elle sert à apprendre à s’autoévaluer et à évaluer les autres avec bienveillance"],
+    "answerIndex": 3,
+    "explication": "Les élèves apprennent à reconnaître leurs réussites et celles des autres, dans un esprit d’entraide."
+  },
+  {
+    "question": "61 - Comment la pédagogie Freinet aborde-t-elle les apprentissages mathématiques ?",
+    "options": ["Par des exercices répétitifs", "Par la simple mémorisation des formules", "Par des situations concrètes, de raisonnement et de verbalisation","Par la lecture du manuel"],
+    "answerIndex": 2,
+    "explication": "Les mathématiques sont abordées à travers des situations réelles qui développent la logique et la compréhension conceptuelle."
+  },
+  {
+    "question": "62 - Quels sont les résultats des élèves Freinet en mathématiques selon les études ?",
+    "options": ["Toujours inférieurs à la moyenne", "Similaires ou supérieurs dans les domaines de raisonnement et de géométrie", "Nuls à cause du manque de manuel", "Excellents mais sans compréhension"],
+    "answerIndex": 1,
+    "explication": "Les élèves Freinet montrent une bonne maîtrise du raisonnement et de la géométrie, même si leur vocabulaire technique est parfois moins précis."
+  },
+  {
+    "question": "63 - Quelle différence principale distingue la pédagogie Freinet d’un simple activisme scolaire ?",
+    "options": ["Le travail a une finalité éducative et intellectuelle", "L’école Freinet privilégie uniquement le jeu", "Les élèves ne travaillent pas", "Elle se limite à des activités manuelles"],
+    "answerIndex": 0,
+    "explication": "Chaque activité dans l’école Freinet a un but éducatif : relier l’action à la compréhension et à la réflexion."
+  },
+  {
+    "question": "64 - Quelle valeur politique traverse toute la pédagogie Freinet ?",
+    "options": ["La hiérarchie", "La compétition", "La coopération démocratique", "La neutralité politique"],
+    "answerIndex": 2,
+    "explication": "Freinet inscrit sa pédagogie dans un idéal démocratique et émancipateur fondé sur la coopération."
+  },
+  {
+    "question": "65 - Quelle est la conception de l’école chez Freinet face à la société ?",
+    "options": ["Une école fermée sur elle-même", "Une école ouverte, en lien avec le monde réel", "Une école religieuse", "Une école déconnectée du travail"],
+    "answerIndex": 1,
+    "explication": "L’école doit préparer à la vie réelle, non s’en isoler : elle apprend à agir dans la société."
+  },
+  {
+    "question": "66 - Pourquoi la pédagogie Freinet est-elle dite émancipatrice ?",
+    "options": ["Parce qu’elle supprime le maître", "Parce qu’elle libère les enfants par l’expression, la coopération et la pensée critique", "Parce qu’elle élimine les savoirs classiques", "Parce qu’elle refuse les contraintes scolaires"],
+    "answerIndex": 1,
+    "explication": "Freinet veut former des citoyens libres et conscients, capables de penser et d’agir collectivement."
+  },
+  {
+    "question": "67 - Comment la pédagogie Freinet envisage-t-elle la place de la technologie moderne ?",
+    "options": ["Comme un outil au service de l’expression et de la coopération", "Comme une distraction à éviter", "Comme un risque pour l’école", "Comme une fin en soi"],
+    "answerIndex": 0,
+    "explication": "Les outils numériques peuvent prolonger les valeurs freinetiennes s’ils favorisent la création, la communication et la liberté d’expression."
+  },
+  {
+    "question": "68 - Quelle est la condition essentielle pour qu’une école Freinet fonctionne ?",
+    "options": ["Des enseignants formés et unis dans le projet coopératif", "Des élèves très disciplinés", "Un budget illimité", "Des classes à effectif réduit"],
+    "answerIndex": 0,
+    "explication": "Le collectif enseignant doit partager les mêmes valeurs et s’engager dans une cohérence pédagogique commune."
+  },
+  {
+    "question": "69 - Quelle est la principale contribution de Freinet à l’école d’aujourd’hui ?",
+    "options": ["L’introduction du numérique", "La valorisation de la coopération, du sens et de la démocratie scolaire", "La création d’écoles privées", "La simplification des programmes"],
+    "answerIndex": 1,
+    "explication": "Freinet a inspiré les démarches d’autonomie, de coopération et d’éducation citoyenne toujours présentes dans les écoles modernes."
+  },
+  {
+    "question": "70 - Pourquoi peut-on dire que la pédagogie Freinet reste actuelle au XXIe siècle ?",
+    "options": ["Parce qu’elle valorise des principes intemporels comme coopération, autonomie et sens des apprentissages", "Parce qu’elle a supprimé les savoirs fondamentaux", "Parce qu’elle ne concerne que les écoles rurales", "Parce qu’elle dépend uniquement de l’imprimerie scolaire"],
+    "answerIndex": 0,
+    "explication": "Les valeurs de coopération, de responsabilité et de liberté d’expression défendues par Freinet répondent toujours aux enjeux éducatifs contemporains."
+  }
+]

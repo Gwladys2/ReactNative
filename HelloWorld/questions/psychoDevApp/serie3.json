@@ -1,0 +1,483 @@
+[
+  {
+    "question": "1 - Qui est le fondateur de la psychanalyse ?",
+    "options": ["Carl Jung", "Jean Piaget", "Sigmund Freud", "Ivan Pavlov"],
+    "answerIndex": 2,
+    "explication": "Sigmund Freud (1856-1939) est le fondateur de la psychanalyse, une méthode d’exploration du psychisme fondée sur l’inconscient."
+  },
+  {
+    "question": "2 - En quelle année Freud obtient-il son diplôme de médecin ?",
+    "options": ["1875", "1881", "1886", "1895"],
+    "answerIndex": 1,
+    "explication": "Freud devient médecin en 1881 avant de se spécialiser dans les maladies nerveuses."
+  },
+  {
+    "question": "3 - Avec quel neurologue Freud s’est-il formé à Paris ?",
+    "options": ["Charcot", "Pinel", "Binet", "Wundt"],
+    "answerIndex": 0,
+    "explication": "Freud a étudié à la Salpêtrière auprès de Jean-Martin Charcot, spécialiste de l’hystérie et de l’hypnose."
+  },
+  {
+    "question": "4 - Quel ouvrage Freud publie-t-il avec Joseph Breuer ?",
+    "options": ["Le Moi et le Ça", "L’Interprétation des rêves", "Études sur l’hystérie", "Totem et tabou"],
+    "answerIndex": 2,
+    "explication": "En 1895, Freud et Breuer publient 'Études sur l’hystérie', considéré comme le texte fondateur de la psychanalyse."
+  },
+  {
+    "question": "5 - Que désigne le terme 'hystérie' selon Freud et Breuer ?",
+    "options": ["Une maladie organique", "Une névrose sans cause anatomique", "Une psychose grave", "Une simple simulation"],
+    "answerIndex": 1,
+    "explication": "L’hystérie est une névrose présentant des symptômes physiques sans lésion organique, d’origine psychique."
+  },
+  {
+    "question": "6 - Comment appelait-on le trouble apparu chez les soldats de 14-18 après une explosion ?",
+    "options": ["La neurasthénie", "L’obusite", "La catatonie", "La schizophrénie"],
+    "answerIndex": 1,
+    "explication": "L’obusite désignait les troubles psychiques des soldats exposés aux explosions ; elle préfigure le stress post-traumatique."
+  },
+  {
+    "question": "7 - Quelle est l’origine du mot 'hystérie' ?",
+    "options": ["Latin", "Arabe", "Hébreu", "Grec – husterikos (utérus)"],
+    "answerIndex": 3,
+    "explication": "Le mot 'hystérie' vient du grec 'husterikos', signifiant 'utérus', en lien avec les anciennes croyances médicales."
+  },
+  {
+    "question": "8 - Quelle énergie psychique Freud introduit-il dans sa théorie ?",
+    "options": ["La libido","La motivation",  "L’énergie vitale", "Le potentiel psychique"],
+    "answerIndex": 0,
+    "explication": "Freud définit la libido comme l’énergie psychique issue des pulsions sexuelles et de vie."
+  },
+  {
+    "question": "9 - Quelle est la différence entre pulsion et instinct selon Freud ?",
+    "options": ["Aucune différence", "La pulsion est consciente", "L’instinct est animal, la pulsion est humaine", "La pulsion est sociale"],
+    "answerIndex": 2,
+    "explication": "L’instinct est propre aux animaux, tandis que la pulsion désigne une force psychique inconsciente chez l’humain."
+  },
+  {
+    "question": "10 - Quelle est la source des pulsions ?",
+    "options": ["Psychique", "Sociale", "Morale", "Somatique"],
+    "answerIndex": 3,
+    "explication": "La source des pulsions est corporelle : une excitation interne cherchant à être apaisée."
+  },
+  {
+    "question": "11 - Quel est le but d’une pulsion ?",
+    "options": ["Créer du plaisir", "Éliminer la tension interne", "Se reproduire", "Contrôler le Moi"],
+    "answerIndex": 1,
+    "explication": "Le but de toute pulsion est la réduction de la tension, c’est-à-dire le retour à un état de quiétude."
+  },
+  {
+    "question": "12 - Quelles sont les deux grandes catégories de pulsions selon Freud en 1905 ?",
+    "options": ["Pulsions sociales et morales", "Pulsions de vie et de mort", "Pulsions d’autoconservation et pulsions sexuelles", "Pulsions conscientes et inconscientes"],
+    "answerIndex": 2,
+    "explication": "Freud distingue d’abord les pulsions d’autoconservation (individu) et les pulsions sexuelles (espèce)."
+  },
+  {
+    "question": "13 - Quelle nouvelle opposition Freud introduit-il en 1920 ?",
+    "options": ["Ça / Surmoi", "Vie / Mort", "Réel / Imaginaire", "Plaisir / Réalité"],
+    "answerIndex": 1,
+    "explication": "Freud regroupe les pulsions de vie (Éros) et introduit les pulsions de mort (Thanatos)."
+  },
+  {
+    "question": "14 - Dans quelle œuvre Freud présente-t-il la première topique ?",
+    "options": ["Le Moi et le Ça", "Totem et tabou", "L’Interprétation des rêves", "Introduction à la psychanalyse"],
+    "answerIndex": 2,
+    "explication": "La première topique (inconscient, préconscient, conscient) est exposée dans 'L’Interprétation des rêves' en 1900."
+  },
+  {
+    "question": "15 - Que contient l’inconscient selon Freud ?",
+    "options": ["Des souvenirs neutres", "Des idées conscientes", "Des désirs refoulés et inacceptables", "Des perceptions sensorielles"],
+    "answerIndex": 2,
+    "explication": "L’inconscient renferme les désirs et pensées refoulés, souvent d’ordre sexuel ou agressif."
+  },
+  {
+    "question": "16 - Comment Freud accède-t-il au contenu de l’inconscient ?",
+    "options": ["Par l’association libre et l’interprétation des rêves","Par l’hypnose", "Par la suggestion",  "Par le test de QI"],
+    "answerIndex": 0,
+    "explication": "Freud utilise les associations libres et l’analyse des rêves pour explorer l’inconscient."
+  },
+  {
+    "question": "17 - Que désigne le 'préconscient' ?",
+    "options": ["Les souvenirs refoulés", "Les pensées accessibles à la conscience", "Les pulsions inconscientes", "Les instincts biologiques"],
+    "answerIndex": 1,
+    "explication": "Le préconscient regroupe les pensées non conscientes mais facilement accessibles à la conscience."
+  },
+  {
+    "question": "18 - Quelle est la fonction du 'Moi' dans la deuxième topique ?",
+    "options": ["Satisfaire les pulsions sans contrainte", "Représenter les interdits moraux", "Faire le lien entre le Ça, le Surmoi et la réalité", "Créer les rêves"],
+    "answerIndex": 2,
+    "explication": "Le Moi cherche à concilier les exigences du Ça, du Surmoi et de la réalité extérieure."
+  },
+  {
+    "question": "19 - Quelle instance psychique est présente dès la naissance ?",
+    "options": ["Le Moi", "Le Surmoi", "Le Ça", "Le Préconscient"],
+    "answerIndex": 2,
+    "explication": "Le Ça, siège des pulsions, est présent dès la naissance et gouverne les comportements primaires."
+  },
+  {
+    "question": "20 - Quelle instance représente les valeurs morales intériorisées ?",
+    "options": ["Le Moi", "Le Ça", "Le Conscient", "Le Surmoi"],
+    "answerIndex": 3,
+    "explication": "Le Surmoi incarne les interdits et normes transmis par les parents et la société."
+  },
+
+  {
+    "question": "21 - Que cherche à faire le Moi face aux exigences contradictoires du Ça et du Surmoi ?",
+    "options": ["Les ignorer", "Trouver un compromis", "Les réprimer toutes", "Les satisfaire entièrement"],
+    "answerIndex": 1,
+    "explication": "Le Moi agit comme médiateur et cherche à équilibrer les exigences pulsionnelles et morales."
+  },
+  {
+    "question": "22 - Quel mécanisme de défense consiste à rejeter une idée hors de la conscience ?",
+    "options": ["Projection", "Rationalisation", "Refoulement", "Sublimation"],
+    "answerIndex": 2,
+    "explication": "Le refoulement est un processus inconscient qui écarte les pensées inacceptables du champ conscient."
+  },
+  {
+    "question": "23 - Quelle est la définition de la sublimation ?",
+    "options": ["Un retour à un stade infantile", "Une transformation d’une pulsion en activité valorisée", "Une suppression de la libido", "Une fuite de la réalité"],
+    "answerIndex": 1,
+    "explication": "La sublimation permet de transformer l’énergie pulsionnelle en activité socialement utile ou créative."
+  },
+  {
+    "question": "24 - Quel mécanisme consiste à attribuer à autrui ses propres pulsions inacceptables ?",
+    "options": ["Projection","Rationalisation",  "Compensation", "Régression"],
+    "answerIndex": 0,
+    "explication": "La projection reporte sur autrui ce que le sujet refuse de reconnaître en lui-même."
+  },
+  {
+    "question": "25 - Comment se manifeste la régression ?",
+    "options": ["Par la création artistique", "Par un retour à un mode de comportement infantile", "Par la fuite dans le travail", "Par une rationalisation excessive"],
+    "answerIndex": 1,
+    "explication": "La régression consiste à revenir à un mode de fonctionnement psychique plus ancien et rassurant."
+  },
+  {
+    "question": "26 - Quelle défense permet d’éviter une situation jugée trop déprimante ?",
+    "options": ["Refoulement", "Formation réactionnelle", "Projection", "Fuite"],
+    "answerIndex": 3,
+    "explication": "La fuite est une défense consistant à éviter les situations sources d’angoisse ou de conflit."
+  },
+  {
+    "question": "27 - Quelle défense donne une justification acceptable à un comportement répréhensible ?",
+    "options": ["Compensation", "Rationalisation", "Sublimation", "Refoulement"],
+    "answerIndex": 1,
+    "explication": "La rationalisation fournit une explication logique à une conduite motivée par des pulsions moins nobles."
+  },
+  {
+    "question": "28 - Que fait la formation réactionnelle ?",
+    "options": ["Exprime la pulsion directement", "Supprime le Surmoi", "Remplace une pulsion par son contraire","Rend le Moi inactif"],
+    "answerIndex": 2,
+    "explication": "La formation réactionnelle consiste à adopter un comportement opposé à la pulsion inacceptable."
+  },
+  {
+    "question": "29 - Quelle défense consiste à réussir ailleurs pour compenser un échec ?",
+    "options": ["Compensation","Projection",  "Sublimation", "Refoulement"],
+    "answerIndex": 0,
+    "explication": "La compensation permet de maintenir une estime de soi en obtenant un succès dans un autre domaine."
+  },
+  {
+    "question": "30 - Sur quoi Freud base-t-il ses hypothèses du développement psychique ?",
+    "options": ["Des enfants observés", "Des expériences de laboratoire", "Des récits mythologiques", "Des patients adultes névrosés"],
+    "answerIndex": 3,
+    "explication": "Freud élabore sa théorie à partir de l’analyse d’adultes présentant des névroses."
+  },
+  {
+    "question": "31 - Quelle est la méthode de Freud pour comprendre le passé infantile ?",
+    "options": ["L’expérimentation directe", "La reconstruction à partir de symptômes", "L’hypnose", "L’observation de bébés"],
+    "answerIndex": 1,
+    "explication": "Freud agit comme un historien : il reconstitue les événements infantiles à partir des traces dans le présent."
+  },
+  {
+    "question": "32 - Quelle est la particularité de la démarche de Freud par rapport à Piaget ?",
+    "options": ["Elle repose sur l’interprétation de symptômes","Elle est plus biologique",  "Elle étudie le comportement observable", "Elle refuse la notion d’inconscient"],
+    "answerIndex": 0,
+    "explication": "Contrairement à Piaget, Freud infère le développement psychique à partir de troubles adultes."
+  },
+  {
+    "question": "33 - Quelle est l’unité de base de la théorie freudienne ?",
+    "options": ["Le comportement", "La perception",  "La pulsion", "Le réflexe"],
+    "answerIndex": 2,
+    "explication": "La pulsion est l’unité fondamentale, à la frontière du biologique et du psychique."
+  },
+  {
+    "question": "34 - Que cherche la pulsion selon Freud ?",
+    "options": ["La morale", "La réalité", "L’apprentissage","La satisfaction"],
+    "answerIndex": 3,
+    "explication": "Toute pulsion vise à réduire la tension interne en atteignant la satisfaction."
+  },
+  {
+    "question": "35 - Quelle distinction Freud fait-il entre pulsions de vie et pulsions de mort ?",
+    "options": ["Les deux sont identiques","L’une construit, l’autre détruit", "Les deux sont morales", "Les deux concernent la survie de l’espèce"],
+    "answerIndex": 1,
+    "explication": "Les pulsions de vie (Éros) visent à unir, tandis que les pulsions de mort (Thanatos) tendent à détruire."
+  },
+  {
+    "question": "36 - Quel ouvrage introduit la deuxième topique ?",
+    "options": ["L’Interprétation des rêves", "Le Moi et le Ça", "Totem et tabou", "Au-delà du principe de plaisir"],
+    "answerIndex": 1,
+    "explication": "Le Moi et le Ça (1923) introduit la deuxième topique avec ses trois instances."
+  },
+  {
+    "question": "37 - À quel moment se développe le Surmoi ?",
+    "options": ["À la naissance", "Pendant l’adolescence", "Lors de l’intériorisation des règles parentales", "Après la puberté"],
+    "answerIndex": 2,
+    "explication": "Le Surmoi se forme lorsque l’enfant intériorise les interdits parentaux et sociaux."
+  },
+  {
+    "question": "38 - Quelle est la fonction du Surmoi ?",
+    "options": ["Juger et interdire","Produire les rêves", "Réguler les émotions",  "Créer le plaisir"],
+    "answerIndex": 0,
+    "explication": "Le Surmoi agit comme une instance de jugement moral et de censure."
+  },
+  {
+    "question": "39 - Que fait le Moi face à une pulsion du Ça inacceptable pour le Surmoi ?",
+    "options": ["Il l’exprime librement", "Il l’ignore", "Il l’élimine définitivement", "Il met en place un mécanisme de défense"],
+    "answerIndex": 3,
+    "explication": "Le Moi utilise un mécanisme de défense pour gérer les conflits entre le Ça et le Surmoi."
+  },
+  {
+    "question": "40 - Quelle méthode Freud a-t-il privilégiée après l’hypnose ?",
+    "options": ["La psychanalyse des rêves", "L’association libre", "La suggestion", "Le conditionnement"],
+    "answerIndex": 1,
+    "explication": "Freud abandonne l’hypnose pour l’association libre, plus adaptée à faire émerger l’inconscient."
+  },
+  {
+    "question": "41 - Dans quelle situation les mécanismes de défense deviennent-ils pathologiques ?",
+    "options": ["Quand ils sont conscients", "Quand ils renforcent le Moi", "Quand ils se répètent excessivement", "Quand ils sont absents"],
+    "answerIndex": 2,
+    "explication": "Les défenses deviennent pathologiques si elles sont rigides et empêchent l’adaptation à la réalité."
+  },
+  {
+    "question": "42 - Quel rôle joue la censure dans les rêves selon Freud ?",
+    "options": ["Elle empêche les désirs inconscients d’apparaître clairement","Aucun",  "Elle crée le rêve", "Elle interprète les symboles"],
+    "answerIndex": 0,
+    "explication": "La censure déforme les désirs inconscients pour les rendre acceptables dans le rêve."
+  },
+  {
+    "question": "43 - Quelle différence Freud établit-il entre le conscient et le préconscient ?",
+    "options": ["Le conscient est permanent", "Le préconscient est temporaire", "Aucune différence", "Le préconscient contient les pensées momentanément non conscientes"],
+    "answerIndex": 3,
+    "explication": "Le préconscient regroupe les souvenirs disponibles, non présents à l’esprit mais accessibles."
+  },
+  {
+    "question": "44 - Quelle fonction a l’inconscient dans le comportement humain ?",
+    "options": ["Aucune", "Il influence les actions malgré l’absence de conscience", "Il ne concerne que le sommeil", "Il ne se manifeste que par les rêves"],
+    "answerIndex": 1,
+    "explication": "L’inconscient détermine de nombreux comportements sans que le sujet en ait conscience."
+  },
+  {
+    "question": "45 - Quel est le rôle du Moi dans l’adaptation à la réalité ?",
+    "options": ["Ignorer les désirs" ,"Réprimer les émotions", "Négocier entre les pulsions, la morale et la réalité", "Exprimer les interdits"],
+    "answerIndex": 2,
+    "explication": "Le Moi ajuste les besoins internes et les contraintes extérieures pour maintenir l’équilibre psychique."
+  },
+  {
+    "question": "46 - Quelle est la première instance à apparaître chez l’enfant ?",
+    "options": [ "Le Ça","Le Moi", "Le Surmoi", "Le Conscient"],
+    "answerIndex": 0,
+    "explication": "Le Ça est présent dès la naissance, contenant les pulsions fondamentales."
+  },
+  {
+    "question": "47 - Comment Freud explique-t-il la névrose ?",
+    "options": ["Par un trouble organique", "Par une déficience intellectuelle", "Par un traumatisme visible", "Par un déséquilibre entre Ça, Moi et Surmoi"],
+    "answerIndex": 3,
+    "explication": "La névrose résulte d’un conflit non résolu entre les exigences pulsionnelles et morales."
+  },
+  {
+    "question": "48 - Quelle est la relation entre pulsion et libido ?",
+    "options": ["Aucune", "La libido est l’énergie des pulsions de vie", "La pulsion crée la libido", "Elles sont opposées"],
+    "answerIndex": 1,
+    "explication": "La libido est l’énergie psychique mobilisée par les pulsions de vie."
+  },
+  {
+    "question": "49 - Pourquoi la psychanalyse a-t-elle influencé la psychologie de l’enfant ?",
+    "options": ["Elle a étudié les comportements observables", "Elle a nié l’importance de la famille", "Elle a mis en avant le rôle de l’affectivité et de la sexualité infantile", "Elle a créé les tests de QI"],
+    "answerIndex": 2,
+    "explication": "Freud a été le premier à montrer que l’affectivité et la sexualité sont présentes dès l’enfance."
+  },
+  {
+    "question": "50 - Quel est l’impact de la théorie freudienne sur l’éducation ?",
+    "options": ["Elle a influencé les méthodes éducatives et la compréhension de l’enfant","Aucun",  "Elle a supprimé la morale", "Elle a remplacé Piaget"],
+    "answerIndex": 0,
+    "explication": "Les idées freudiennes ont inspiré la psychologie scolaire et les pratiques éducatives modernes."
+  },
+  {
+    "question": "51 - Quelle est la position de Freud sur l’universalité de la psychanalyse ?",
+    "options": ["Elle est propre à l’Occident", "Elle est universelle", "Elle est limitée aux névroses", "Elle est relative aux cultures"],
+    "answerIndex": 1,
+    "explication": "Freud considérait la psychanalyse comme une théorie universelle du psychisme humain."
+  },
+  {
+    "question": "52 - Qui a publié 'L’Œdipe africain' en 1966 ?",
+    "options": [ "Jung et Adler", "Wallon et Piaget", "Charcot et Breuer","Les époux Ortigues"],
+    "answerIndex": 3,
+    "explication": "Marie-Cécile et Edmond Ortigues ont adapté la psychanalyse au contexte africain."
+  },
+  {
+    "question": "53 - Quelle critique est adressée à la psychanalyse freudienne ?",
+    "options": ["Trop objective", "Trop expérimentale", "Trop centrée sur la culture occidentale", "Pas assez médicale"],
+    "answerIndex": 2,
+    "explication": "Beaucoup estiment que la théorie freudienne reflète surtout la société occidentale du début du XXe siècle."
+  },
+  {
+    "question": "54 - Quelle distinction la psychanalyse fait-elle entre parenté et parentalité ?",
+    "options": ["Aucune", "Parenté = lien juridique ; parentalité = lien psychique", "Parenté = adoption ; parentalité = éducation", "Parenté = sociale ; parentalité = biologique"],
+    "answerIndex": 1,
+    "explication": "La parenté est une construction sociale, tandis que la parentalité désigne le vécu psychique d’être parent."
+  },
+  {
+    "question": "55 - Quelle difficulté la psychanalyse rencontre-t-elle avec l’homoparentalité ?",
+    "options": ["Aucune", "Elle nie l’existence des pulsions", "Elle valorise la polyparentalité","Elle s’appuie sur la famille nucléaire classique"],
+    "answerIndex": 3,
+    "explication": "La psychanalyse freudienne repose sur le modèle père-mère-enfant, difficile à adapter à l’homoparentalité."
+  },
+  {
+    "question": "56 - Que reproche Laurie Laufer à certains psychanalystes dans le débat sur le mariage pour tous ?",
+    "options": ["Leur silence", "Leur manque de rigueur scientifique", "Leur posture morale et réactionnaire", "Leur soutien excessif aux mouvements queer"],
+    "answerIndex": 2,
+    "explication": "Laurie Laufer dénonce la posture normative et parfois homophobe de certains psychanalystes."
+  },
+  {
+    "question": "57 - Que désigne le 'trouble pithiatique' selon les anciens termes médicaux ?",
+    "options": ["Une maladie neurologique", "Un trouble mental guéri par la persuasion", "Une psychose chronique", "Une paralysie physique réelle"],
+    "answerIndex": 1,
+    "explication": "Les troubles pithiatique désignent les symptômes hystériques pouvant être reproduits ou guéris par la suggestion."
+  },
+  {
+    "question": "58 - Qu’est-ce que le 'refoulement' dans le rêve ?",
+    "options": ["Une déformation de celui-ci pour le rendre acceptable","Une disparition du désir",  "Une censure totale du rêve", "Un souvenir de la veille"],
+    "answerIndex": 0,
+    "explication": "Dans le rêve, le désir refoulé se manifeste de manière déguisée afin d’échapper à la censure."
+  },
+  {
+    "question": "59 - Quel est le but ultime du travail psychanalytique ?",
+    "options": ["Supprimer l’inconscient", "Augmenter les défenses du Moi", "Réprimer les pulsions", "Rendre conscient l’inconscient"],
+    "answerIndex": 3,
+    "explication": "La psychanalyse vise à faire émerger le contenu refoulé pour le rendre conscient et donc maîtrisable."
+  },
+  {
+    "question": "60 - Quelle instance agit selon le principe de plaisir ?",
+    "options": ["Le Surmoi", "Le Moi", "Le Ça", "Le Préconscient"],
+    "answerIndex": 2,
+    "explication": "Le Ça recherche la satisfaction immédiate des pulsions selon le principe de plaisir."
+  },
+  {
+    "question": "61 - Quelle instance agit selon le principe de réalité ?",
+    "options": ["Le Moi","Le Ça", "Le Surmoi",  "L’inconscient"],
+    "answerIndex": 0,
+    "explication": "Le Moi se conforme au principe de réalité, cherchant des moyens réalistes de satisfaire les pulsions."
+  },
+  {
+    "question": "62 - Quelle fonction principale le Surmoi remplit-il ?",
+    "options": ["Protéger l’individu des pulsions destructrices", "Contrôler la moralité du comportement", "Créer la libido", "Assurer la perception sensorielle"],
+    "answerIndex": 1,
+    "explication": "Le Surmoi incarne les normes morales et sociales intégrées par l’individu."
+  },
+  {
+    "question": "63 - Quelle est la fonction première du rêve pour Freud ?",
+    "options": ["Divertir le dormeur", "Révéler le futur", "Répondre à un désir inconscient", "Créer des symboles universels"],
+    "answerIndex": 2,
+    "explication": "Freud considère le rêve comme l’accomplissement déguisé d’un désir inconscient."
+  },
+  {
+    "question": "64 - Quelle méthode Freud appelle-t-il « voie royale vers l’inconscient » ?",
+    "options": ["L’interprétation des actes manqués", "L’hypnose", "L’observation clinique", "L’interprétation des rêves"],
+    "answerIndex": 3,
+    "explication": "Freud qualifie l’interprétation des rêves de « voie royale vers l’inconscient »."
+  },
+  {
+    "question": "65 - Comment Freud définit-il la névrose ?",
+    "options": ["Une psychose grave", "Un conflit psychique inconscient", "Une maladie héréditaire", "Une simulation consciente"],
+    "answerIndex": 1,
+    "explication": "La névrose est un trouble causé par un conflit entre pulsion et interdit moral."
+  },
+  {
+    "question": "66 - Quelle technique thérapeutique remplace la suggestion dans la psychanalyse ?",
+    "options": ["L’association libre","La régression hypnotique",  "Le rêve éveillé", "La méditation"],
+    "answerIndex": 0,
+    "explication": "Freud substitue à la suggestion la méthode de l’association libre pour laisser s’exprimer l’inconscient."
+  },
+  {
+    "question": "67 - Quel est le principe du 'retour du refoulé' ?",
+    "options": ["Le refoulé disparaît", "Il s’efface totalement", "Il devient conscient directement","Le refoulé revient sous une autre forme"],
+    "answerIndex": 3,
+    "explication": "Le refoulé revient dans la conscience sous forme de symptômes ou de rêves déguisés."
+  },
+  {
+    "question": "68 - Quelle fonction l’éducation moderne a-t-elle tirée de Freud ?",
+    "options": ["L’importance de la discipline", "La prise en compte de l’affectivité", "L’apprentissage par cœur", "Le rejet de la psychologie"],
+    "answerIndex": 1,
+    "explication": "L’éducation s’inspire de Freud pour valoriser la parole, l’écoute et la vie affective de l’enfant."
+  },
+  {
+    "question": "69 - Que représente le concept de narcissisme introduit par Freud ?",
+    "options": ["L’amour de soi", "Le rejet des autres", "La pulsion de mort", "L’agressivité"],
+    "answerIndex": 0,
+    "explication": "Le narcissisme désigne l’investissement libidinal tourné vers le Moi."
+  },
+  {
+    "question": "70 - Quelles sont les deux grandes catégories de topiques chez Freud ?",
+    "options": ["Interne et externe", "Consciente et inconsciente", "Réaliste et symbolique", "Première et deuxième"],
+    "answerIndex": 3,
+    "explication": "Freud a élaboré deux topiques successives : la première (1900) et la deuxième (1920)."
+  },
+  {
+    "question": "71 - Quelle est la particularité du développement du Moi selon Freud ?",
+    "options": ["Il est inné", "Il se forme grâce aux interactions avec l’environnement", "Il est identique au Surmoi", "Il disparaît à l’âge adulte"],
+    "answerIndex": 1,
+    "explication": "Le Moi se construit progressivement à travers les échanges entre l’enfant et son entourage."
+  },
+  {
+    "question": "72 - Quelle instance est liée à la culpabilité ?",
+    "options": ["Le Moi", "Le Ça", "Le Surmoi", "L’inconscient"],
+    "answerIndex": 2,
+    "explication": "Le Surmoi produit le sentiment de culpabilité en jugeant les désirs du Ça."
+  },
+  {
+    "question": "73 - Quelle pulsion regroupe l’autoconservation et la sexualité ?",
+    "options": ["La pulsion de vie","La pulsion de mort",  "La pulsion de survie", "La pulsion narcissique"],
+    "answerIndex": 0,
+    "explication": "Freud regroupe ces pulsions sous la catégorie des pulsions de vie, ou Éros."
+  },
+  {
+    "question": "74 - Quelle est la relation entre le stress post-traumatique et la psychanalyse ?",
+    "options": ["Aucune", "Il remplace la psychanalyse", "Il nie l’inconscient", "Il prolonge les travaux sur l’hystérie"],
+    "answerIndex": 3,
+    "explication": "Le TSPT est une reconnaissance tardive de phénomènes proches de ceux décrits par Freud dans l’hystérie."
+  },
+  {
+    "question": "75 - Quelle place Freud accorde-t-il à l’affectivité dans le développement ?",
+    "options": ["Secondaire", "Centrale", "Inexistante", "Purement biologique"],
+    "answerIndex": 1,
+    "explication": "Freud place l’affectivité et la relation sociale au cœur du développement humain."
+  },
+  {
+    "question": "76 - Quelle méthode thérapeutique découle de la psychanalyse ?",
+    "options": ["La cure par la parole","La méditation transcendantale",  "Le conditionnement opérant", "L’hypnose directive"],
+    "answerIndex": 0,
+    "explication": "La psychanalyse repose sur la 'talking cure', ou cure par la parole."
+  },
+  {
+    "question": "77 - Quelle est la fonction du symptôme selon Freud ?",
+    "options": ["Une maladie organique", "Une erreur du cerveau", "Une illusion sensorielle", "Un compromis entre désir et interdit"],
+    "answerIndex": 3,
+    "explication": "Le symptôme exprime un compromis entre un désir inconscient et la censure du Surmoi."
+  },
+  {
+    "question": "78 - Quelle critique majeure la société moderne adresse-t-elle encore à Freud ?",
+    "options": [ "Son excès de rigueur", "Son manque de scientificité","Son rejet du Moi", "Son approche biologique"],
+    "answerIndex": 1,
+    "explication": "La psychanalyse est souvent critiquée pour son absence de méthode expérimentale rigoureuse."
+  },
+  {
+    "question": "79 - Pourquoi Freud reste-t-il étudié aujourd’hui ?",
+    "options": ["Pour sa biologie", "Parce qu’il place les émotions et les relations au centre du développement", "Parce qu’il a inventé le test de QI", "Pour ses statistiques"],
+    "answerIndex": 1,
+    "explication": "Freud demeure essentiel car il relie affectivité, inconscient et développement humain."
+  },
+  {
+    "question": "80 - Que représente finalement la psychanalyse freudienne dans la psychologie moderne ?",
+    "options": ["Une simple théorie dépassée", "Une erreur médicale", "Une religion de la pensée", "Une base historique et conceptuelle toujours influente"],
+    "answerIndex": 3,
+    "explication": "Même critiquée, la psychanalyse reste un pilier conceptuel fondateur de la psychologie moderne."
+  }
+]

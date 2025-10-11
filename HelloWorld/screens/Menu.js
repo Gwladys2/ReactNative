@@ -30,7 +30,7 @@ export default function MonAccueil({ navigation }) {
              <Button
                     title="Science de l'Education"
                     onPress={() => navigation.navigate('ScienceEducation')}
-                    color="#4498ffff"
+                    color="#04152bff"
                     />       
         </View>
     );
