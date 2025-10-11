@@ -24,6 +24,7 @@ import PhiloEducation from './screens/PhiloEducation';
 import LettresArts from './screens/LettresArts';
 import PsychoEducation2 from './screens/PsychoEducation2';
 import PsychoEducation3 from './screens/PsychoEducation3';
+import PsychoEducation4 from './screens/PsychoEducation4';
 import Architecture from './screens/Architecture';
 import { ProgressProvider } from './context/ProgressContext';
 import Accueil from './screens/HomeScreen2';
@@ -49,6 +50,7 @@ export default function App() {
               <Stack.Screen name="PsychoEducation" component={PsychoEducation} />
               <Stack.Screen name="PsychoEducation2" component={PsychoEducation2} />
               <Stack.Screen name="PsychoEducation3" component={PsychoEducation3} />
+              <Stack.Screen name="PsychoEducation4" component={PsychoEducation4} />
               <Stack.Screen name="PhiloEducation" component={PhiloEducation} />
               <Stack.Screen name="LettresArts" component={LettresArts} />
               <Stack.Screen name="Home" component={HomeScreen} />

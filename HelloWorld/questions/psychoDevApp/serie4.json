@@ -1,0 +1,482 @@
+[
+  {
+    "question": "1 - Que représente le narcissisme primaire selon Freud ?",
+    "options": ["Une pathologie mentale", "Un état normal du nouveau-né replié sur lui-même", "Un stade phallique précoce", "Un trouble de la relation à la mère"],
+    "answerIndex": 1,
+    "explication": "Le narcissisme primaire désigne un état initial où le nourrisson est centré sur lui-même, sans distinction entre le moi et le monde extérieur."
+  },
+  {
+    "question": "2 - Quelle expérience Freud compare-t-il à la vie intra-utérine ?",
+    "options": ["Le sommeil","La veille",  "L’angoisse", "La marche"],
+    "answerIndex": 0,
+    "explication": "Freud assimile le sommeil à la vie intra-utérine, moment de repli et de bien-être total."
+  },
+  {
+    "question": "3 - Que provoque la naissance selon Freud ?",
+    "options": ["Un plaisir intense", "Une expérience neutre", "Une perte de conscience", "Un choc traumatique et angoissant"],
+    "answerIndex": 3,
+    "explication": "La naissance est vécue comme une rupture brutale du bien-être fœtal, créant une angoisse originaire."
+  },
+  {
+    "question": "4 - À quoi correspond le désir inconscient de retour au bonheur perdu ?",
+    "options": ["À la pulsion d’agression", "À la pulsion de mort", "À la pulsion de bonheur", "À la pulsion scopique"],
+    "answerIndex": 2,
+    "explication": "La pulsion de bonheur traduit le désir nostalgique de retrouver la fusion prénatale sans tension ni manque."
+  },
+  {
+    "question": "5 - Quel lien Freud établit-il entre narcissisme primaire et psychose ?",
+    "options": ["Aucun", "La psychose serait un retour à l’auto-érotisme absolu", "La psychose le dépasse", "La psychose est liée au Surmoi"],
+    "answerIndex": 1,
+    "explication": "Freud voit dans la psychose un retour pathologique à l’état de clôture narcissique du tout-petit."
+  },
+  {
+    "question": "6 - Quelle est la zone érogène du stade oral ?",
+    "options": ["Les mains", "L’anus", "La bouche", "Les organes génitaux"],
+    "answerIndex": 2,
+    "explication": "La bouche est la zone érogène dominante du stade oral, source de plaisir par la succion et l’alimentation."
+  },
+  {
+    "question": "7 - Qu’est-ce que l’étayage selon Freud ?",
+    "options": ["Le soutien de la pulsion sexuelle sur une fonction vitale","Une dépendance pathologique",  "Une fixation infantile", "Une pulsion inconsciente"],
+    "answerIndex": 0,
+    "explication": "L’étayage est le fait que les pulsions sexuelles s’appuient d’abord sur les fonctions vitales comme la nutrition."
+  },
+  {
+    "question": "8 - Quel objet est central au stade oral ?",
+    "options": ["Le jouet", "Le sein maternel", "Le regard", "La voix"],
+    "answerIndex": 1,
+    "explication": "Le sein maternel est l’objet du plaisir oral, symbole d’amour et de relation fusionnelle avec la mère."
+  },
+  {
+    "question": "9 - Quel est le mécanisme psychique majeur du stade oral ?",
+    "options": ["La projection", "La rétention", "La sublimation","L’incorporation"],
+    "answerIndex": 3,
+    "explication": "L’incorporation consiste à désirer faire entrer l’objet aimé en soi pour en garder la trace affective."
+  },
+  {
+    "question": "10 - Quel événement traumatique marque la fin du stade oral ?",
+    "options": ["La marche", "Le sevrage", "La parole", "La propreté"],
+    "answerIndex": 1,
+    "explication": "Le sevrage met fin à la fusion orale et provoque une angoisse de perte et de séparation."
+  },
+  {
+    "question": "11 - Que signifie la phrase de Winnicott : « Un bébé, ça n’existe pas seul » ?",
+    "options": ["Le bébé n’a pas de conscience de soi",  "Le bébé n’existe qu’en relation avec la personne qui s’en occupe","Le bébé ne pense pas", "Le bébé ne ressent rien"],
+    "answerIndex": 2,
+    "explication": "Winnicott souligne que le bébé est indissociable de la relation affective qui le relie à sa mère ou son substitut."
+  },
+  {
+    "question": "12 - Que désigne la mère ‘suffisamment bonne’ selon Winnicott ?",
+    "options": ["Une mère parfaite", "Une mère qui répond toujours aux besoins", "Une mère qui s’adapte progressivement aux besoins du bébé", "Une mère autoritaire"],
+    "answerIndex": 2,
+    "explication": "La mère suffisamment bonne répond assez bien aux besoins du bébé pour lui permettre de se construire sans dépendance totale."
+  },
+  {
+    "question": "13 - Quel est le premier ‘organisateur du psychisme’ décrit par Spitz ?",
+    "options": ["Le ‘non’", "L’angoisse du 8e mois", "La marche", "Le sourire social"],
+    "answerIndex": 3,
+    "explication": "Le sourire social, vers 2 mois, marque la première distinction entre soi et autrui."
+  },
+  {
+    "question": "14 - Quelle est la conséquence du manque de lien maternel selon Spitz ?",
+    "options": ["La somnolence", "L’hospitalisme", "La psychose", "Le sadisme"],
+    "answerIndex": 1,
+    "explication": "L’hospitalisme décrit les troubles graves observés chez les nourrissons privés de relation affective stable."
+  },
+  {
+    "question": "15 - Quelle est la zone érogène du stade anal ?",
+    "options": ["L’anus","La bouche",  "Le regard", "Les organes génitaux"],
+    "answerIndex": 0,
+    "explication": "L’anus devient la zone de plaisir principale durant la période du contrôle sphinctérien."
+  },
+  {
+    "question": "16 - Quel est le thème symbolique majeur du stade anal ?",
+    "options": ["L’amour", "La dépendance", "Le contrôle et la maîtrise", "La fusion"],
+    "answerIndex": 2,
+    "explication": "Le stade anal est associé à la maîtrise de soi et à la découverte du pouvoir sur le corps et sur l’environnement."
+  },
+  {
+    "question": "17 - Quelle dualité caractérise le stade anal ?",
+    "options": ["Curiosité et peur", "Sadisme et masochisme", "Fusion et rupture", "Amour et indifférence"],
+    "answerIndex": 1,
+    "explication": "Le stade anal est marqué par une ambivalence entre plaisir d’expulser (sadisme) et plaisir à retenir (masochisme)."
+  },
+  {
+    "question": "18 - Quelle fonction éducative est liée au stade anal ?",
+    "options": ["Le langage", "L’alimentation", "La propreté", "La marche"],
+    "answerIndex": 2,
+    "explication": "L’apprentissage de la propreté mobilise la maîtrise corporelle et les enjeux de contrôle."
+  },
+  {
+    "question": "19 - Que représente la ‘scène primitive’ chez Freud ?",
+    "options": ["Le fantasme du rapport sexuel parental", "Une scène réelle observée", "Un souvenir du stade oral", "Une peur de la séparation"],
+    "answerIndex": 0,
+    "explication": "La scène primitive est le fantasme inconscient de l’enfant qui imagine le rapport sexuel entre ses parents."
+  },
+  {
+    "question": "20 - À quoi les excréments sont-ils symboliquement associés selon Freud ?",
+    "options": ["À la nourriture", "À l’amour", "À l’argent", "À la honte"],
+    "answerIndex": 2,
+    "explication": "Les excréments deviennent des symboles d’échange et de valeur, anticipant la notion de don et d’argent."
+  },
+  {
+    "question": "21 - Quelle est la zone érogène dominante du stade phallique ?",
+    "options": ["L’anus", "Les organes génitaux", "La bouche", "Le regard"],
+    "answerIndex": 1,
+    "explication": "Les organes génitaux deviennent le centre du plaisir et de la curiosité sexuelle durant le stade phallique."
+  },
+  {
+    "question": "22 - Quelle découverte provoque la crise du stade phallique ?",
+    "options": ["Le sevrage", "Le langage", "L’alimentation", "La différence des sexes"],
+    "answerIndex": 3,
+    "explication": "La découverte de la différence anatomique des sexes provoque de fortes tensions et fantasmes."
+  },
+  {
+    "question": "23 - Quel complexe se manifeste durant le stade phallique ?",
+    "options": ["Le complexe de dépendance", "Le complexe d’Œdipe", "Le complexe d’infériorité", "Le complexe anal"],
+    "answerIndex": 1,
+    "explication": "Le complexe d’Œdipe se développe durant le stade phallique et structure la personnalité future."
+  },
+  {
+    "question": "24 - Dans la forme positive du complexe d’Œdipe, que ressent l’enfant ?",
+    "options": ["De l’amour pour le parent du même sexe", "De l’indifférence parentale", "De l’amour pour le parent du sexe opposé", "Du rejet des deux parents"],
+    "answerIndex": 2,
+    "explication": "Dans la forme positive, l’enfant aime le parent du sexe opposé et rivalise avec celui du même sexe."
+  },
+  {
+    "question": "25 - Quelle angoisse caractérise le garçon à ce stade ?",
+    "options": ["L’angoisse de castration","L’angoisse d’abandon",  "L’angoisse de mort", "L’angoisse de séparation"],
+    "answerIndex": 0,
+    "explication": "Le garçon craint de perdre son pénis en punition de ses désirs œdipiens : c’est l’angoisse de castration."
+  },
+  {
+    "question": "26 - Quelle conséquence a l’angoisse de castration chez le garçon ?",
+    "options": ["Il reste fusionné à sa mère", "Il se détourne de sa mère et s’identifie à son père", "Il rejette toute sexualité", "Il développe un complexe d’infériorité"],
+    "answerIndex": 1,
+    "explication": "Par peur de la castration, le garçon renonce à la mère et s’identifie au père, intégrant la loi symbolique."
+  },
+  {
+    "question": "27 - Comment la fille entre-t-elle dans le complexe d’Œdipe ?",
+    "options": ["Par peur de la castration", "Par identification à la mère", "Par imitation du père", "Par envie du pénis"],
+    "answerIndex": 3,
+    "explication": "La fille découvre son absence de phallus et désire ce qu’elle croit perdu, d’où son entrée dans l’Œdipe."
+  },
+  {
+    "question": "28 - Que représente le ‘désir d’enfant’ chez la fille selon Freud ?",
+    "options": ["Une sublimation du désir de phallus", "Une pulsion d’agression", "Une compensation alimentaire", "Un rejet de la mère"],
+    "answerIndex": 0,
+    "explication": "Freud interprète le désir d’enfant comme la transformation symbolique du désir de pénis."
+  },
+  {
+    "question": "29 - Qu’est-ce que l’identification selon Freud ?",
+    "options": ["Une imitation superficielle", "Un processus de construction du Moi par assimilation d’autrui", "Un acte conscient d’admiration", "Une défense pathologique"],
+    "answerIndex": 1,
+    "explication": "L’identification est un processus inconscient par lequel l’enfant intègre les qualités du parent et forme son Moi."
+  },
+  {
+    "question": "30 - Quelle instance se forme grâce à l’identification au père ?",
+    "options": ["Le Ça", "Le Moi", "Le Surmoi", "Le Préconscient"],
+    "answerIndex": 2,
+    "explication": "Le Surmoi se forme lorsque l’enfant s’identifie au père et intériorise les interdits et la loi symbolique."
+  },
+  {
+    "question": "31 - Que désigne la ‘fonction paternelle’ au-delà du père biologique ?",
+    "options": ["Le lien d’attachement", "La protection physique", "Le rôle éducatif", "La fonction symbolique de la Loi et de la séparation"],
+    "answerIndex": 3,
+    "explication": "La fonction paternelle symbolique introduit la loi, la séparation et la reconnaissance de la différence."
+  },
+  {
+    "question": "32 - Quelle est la période où la sexualité est refoulée ?",
+    "options": ["Stade oral", "Stade phallique", "Période de latence", "Période fœtale"],
+    "answerIndex": 2,
+    "explication": "Entre 6 et 12 ans, la libido est mise en sommeil partiel par le refoulement : c’est la période de latence."
+  },
+  {
+    "question": "33 - Que sont les 'digues psychiques' selon Freud ?",
+    "options": ["Des barrières biologiques", "Des mécanismes de défense moraux : pudeur, dégoût, honte", "Des symptômes névrotiques", "Des fantasmes inconscients"],
+    "answerIndex": 1,
+    "explication": "Les digues psychiques sont des formations mentales qui limitent les pulsions, comme la pudeur et la morale."
+  },
+  {
+    "question": "34 - Quelle instance se consolide durant la latence ?",
+    "options": ["Le Surmoi","Le Ça", "Le Moi",  "L’inconscient"],
+    "answerIndex": 0,
+    "explication": "Le Surmoi se renforce pendant la latence grâce à l’intériorisation des interdits parentaux."
+  },
+  {
+    "question": "35 - Quelle notion explique l’oubli des souvenirs sexuels de l’enfance ?",
+    "options": ["La régression", "L’amnésie infantile", "La projection", "La sublimation"],
+    "answerIndex": 1,
+    "explication": "L’amnésie infantile résulte du refoulement des expériences sexuelles précoces durant la latence."
+  },
+  {
+    "question": "36 - Quelle transformation de la libido s’opère pendant la latence ?",
+    "options": ["Elle disparaît", "Elle se dédouble", "Elle devient sublimée dans des activités valorisées","Elle se fixe sur le Moi"],
+    "answerIndex": 2,
+    "explication": "La libido se canalise dans des activités sociales, intellectuelles ou artistiques par sublimation."
+  },
+  {
+    "question": "37 - Quelle période suit la latence ?",
+    "options": ["Le stade oral", "Le stade anal", "La puberté", "Le narcissisme primaire"],
+    "answerIndex": 2,
+    "explication": "La puberté marque le réveil des pulsions et l’organisation génitale adulte."
+  },
+  {
+    "question": "38 - Que signifie ‘organisation génitale’ à la puberté ?",
+    "options": ["La maîtrise du langage", "L’unification des pulsions autour de la sexualité reproductive", "La disparition du Surmoi", "La séparation du Moi"],
+    "answerIndex": 1,
+    "explication": "L’organisation génitale désigne l’unification des pulsions en une sexualité tournée vers la reproduction et autrui."
+  },
+  {
+    "question": "39 - Que doit accomplir l’adolescent pour devenir adulte selon Freud ?",
+    "options": ["Rompre le lien œdipien et se séparer psychiquement des parents","Refuser ses désirs",  "Renforcer sa dépendance", "Sublimer entièrement ses pulsions"],
+    "answerIndex": 0,
+    "explication": "L’adolescent doit symboliquement rompre avec le complexe d’Œdipe et construire une identité autonome."
+  },
+  {
+    "question": "40 - Quelle forme de relation caractérise la sexualité adulte équilibrée ?",
+    "options": ["La fusion", "La domination", "La relation d’objet totale", "L’auto-érotisme"],
+    "answerIndex": 2,
+    "explication": "La sexualité adulte suppose la reconnaissance de l’autre comme sujet distinct : relation d’objet totale."
+  },
+  {
+    "question": "41 - Quelle est la conséquence d’un sevrage trop brutal selon Freud ?",
+    "options": ["Un développement cognitif accéléré", "Une angoisse de perte et de dépendance affective", "Une absence d’émotions", "Un renforcement du Surmoi"],
+    "answerIndex": 1,
+    "explication": "Un sevrage précoce ou mal vécu provoque une angoisse de perte et peut fixer la personnalité dans la dépendance affective."
+  },
+  {
+    "question": "42 - Quelle est la fonction de l’incorporation symbolique ?",
+    "options": ["Assimiler un aliment", "Faire entrer symboliquement l’objet aimé en soi", "Créer la peur de l’objet", "Rejeter le lien social"],
+    "answerIndex": 1,
+    "explication": "L’incorporation traduit le désir de posséder et de garder en soi l’objet d’amour."
+  },
+  {
+    "question": "43 - Quelle qualité la mère 'suffisamment bonne' doit-elle éviter selon Winnicott ?",
+    "options": ["L’excès de soin", "L’indifférence", "La tendresse", "L’impatience"],
+    "answerIndex": 0,
+    "explication": "Une mère trop parfaite empêche l’enfant de développer sa propre autonomie."
+  },
+  {
+    "question": "44 - Que permet la fonction 'holding' décrite par Winnicott ?",
+    "options": ["L’autonomie motrice", "Le maintien de la sécurité psychique de l’enfant", "La séparation immédiate", "L’éducation intellectuelle"],
+    "answerIndex": 1,
+    "explication": "Le holding (portage) assure au bébé un sentiment de continuité et de sécurité nécessaire à la constitution du Moi."
+  },
+  {
+    "question": "45 - Quel événement déclenche l’angoisse du huitième mois selon Spitz ?",
+    "options": ["Le sevrage", "La reconnaissance du visage maternel", "La marche", "La propreté"],
+    "answerIndex": 1,
+    "explication": "Vers 8 mois, l’enfant reconnaît le visage de sa mère et manifeste une peur des étrangers : c’est une étape de différenciation."
+  },
+  {
+    "question": "46 - Quelle fonction exerce le ‘non’ à 18 mois selon Spitz ?",
+    "options": ["Une opposition affective", "Une affirmation du Moi et de la volonté propre", "Une angoisse de séparation", "Un rejet du lien social"],
+    "answerIndex": 1,
+    "explication": "Le 'non' manifeste la conquête de l’autonomie et la différenciation du Moi face à l’autorité parentale."
+  },
+  {
+    "question": "47 - Quelle relation d’objet domine au stade oral ?",
+    "options": ["Relation triangulaire", "Relation sociale", "Relation de rivalité", "Relation duelle fusionnelle"],
+    "answerIndex": 3,
+    "explication": "Le nourrisson vit une relation fusionnelle et exclusive avec la mère, sans tierce personne."
+  },
+  {
+    "question": "48 - Quelle est la finalité symbolique de la propreté au stade anal ?",
+    "options": ["La conformité sociale et le contrôle du corps", "Le plaisir sensoriel", "La rivalité fraternelle", "Le refoulement sexuel"],
+    "answerIndex": 0,
+    "explication": "La propreté symbolise la maîtrise de soi et la conformité aux attentes parentales et sociales."
+  },
+  {
+    "question": "49 - Quel risque découle d’une éducation trop stricte au stade anal ?",
+    "options": ["Une dépendance orale", "Une rigidité obsessionnelle", "Une absence de surmoi", "Une régression œdipienne"],
+    "answerIndex": 1,
+    "explication": "Une exigence excessive de contrôle peut fixer la personnalité dans la rigidité et le perfectionnisme."
+  },
+  {
+    "question": "50 - Que symbolise la 'rétention' au stade anal ?",
+    "options": ["Le refus de donner et la maîtrise du pouvoir", "Le plaisir du contact", "L’amour parental", "Le déni de la loi"],
+    "answerIndex": 0,
+    "explication": "La rétention symbolise la maîtrise, le contrôle et parfois le refus symbolique de donner à l’autre."
+  },
+  {
+    "question": "51 - Quelle forme de relation s’installe au stade phallique ?",
+    "options": ["La relation d’objet partielle", "La relation d’objet totale", "La relation triangulaire", "La relation narcissique"],
+    "answerIndex": 2,
+    "explication": "L’enfant découvre la relation triangulaire père-mère-enfant, base du complexe d’Œdipe."
+  },
+  {
+    "question": "52 - Quelle différence fondamentale Freud observe-t-il entre garçon et fille dans la résolution de l’Œdipe ?",
+    "options": ["Aucune", "Le garçon sort de l’Œdipe par peur, la fille y entre par envie", "La fille sort plus tôt", "Le garçon reste fusionné à la mère"],
+    "answerIndex": 1,
+    "explication": "Le garçon renonce à la mère par peur de la castration, la fille y entre en cherchant symboliquement le phallus."
+  },
+  {
+    "question": "53 - Quelle fonction psychique naît de la résolution du complexe d’Œdipe ?",
+    "options": ["L’inconscient", "Le Préconscient", "La libido", "Le Surmoi"],
+    "answerIndex": 3,
+    "explication": "La résolution du complexe d’Œdipe conduit à la formation du Surmoi, intériorisation des interdits parentaux."
+  },
+  {
+    "question": "54 - Que symbolise le père dans la fonction paternelle selon Freud ?",
+    "options": ["Un rival amoureux", "Une figure d’autorité biologique",  "L’incarnation de la loi et de la séparation","Un modèle moral seulement"],
+    "answerIndex": 2,
+    "explication": "Le père symbolise la loi et sépare l’enfant de la fusion maternelle, introduisant la socialisation."
+  },
+  {
+    "question": "55 - Quelle conception contemporaine remet en cause la 'fonction paternelle' classique ?",
+    "options": ["La psychanalyse lacanienne", "Les nouvelles formes familiales et de genre", "La pédagogie traditionnelle", "Le behaviorisme"],
+    "answerIndex": 1,
+    "explication": "Les structures familiales actuelles et la diversité des genres questionnent la fonction paternelle unique."
+  },
+  {
+    "question": "56 - Quelle transformation affective domine la période de latence ?",
+    "options": ["Le refoulement de la sexualité","La régression orale",  "La curiosité sexuelle accrue", "L’auto-érotisme"],
+    "answerIndex": 0,
+    "explication": "La latence correspond à une accalmie pulsionnelle où la sexualité est refoulée au profit de la socialisation."
+  },
+  {
+    "question": "57 - Quelles sont les nouvelles valeurs qui apparaissent durant la latence ?",
+    "options": [ "La pudeur, le dégoût, la morale", "Le plaisir immédiat", "Le sadisme","La dépendance et la fusion"],
+    "answerIndex": 3,
+    "explication": "Ces valeurs agissent comme des digues morales qui régulent les pulsions."
+  },
+  {
+    "question": "58 - Quelle fonction psychique domine à la puberté ?",
+    "options": ["La sublimation", "La resexualisation et l’intégration des pulsions", "Le refoulement total", "La dépendance affective"],
+    "answerIndex": 1,
+    "explication": "La puberté réactive la libido et l’organise autour d’une sexualité adulte tournée vers autrui."
+  },
+  {
+    "question": "59 - Quelle est la tâche principale de l’adolescent selon la psychanalyse ?",
+    "options": ["La séparation psychique d’avec les parents et la construction d’une identité","La socialisation",  "Le développement moteur", "L’acquisition du langage"],
+    "answerIndex": 0,
+    "explication": "L’adolescent doit se détacher symboliquement des parents pour former une identité autonome."
+  },
+  {
+    "question": "60 - Quelle transformation psychique accompagne la maturité sexuelle ?",
+    "options": ["La fusion narcissique", "Le repli sur soi", "L’angoisse de castration", "La relation d’objet totale"],
+    "answerIndex": 3,
+    "explication": "La sexualité adulte équilibrée suppose la reconnaissance de l’autre comme sujet autonome."
+  },
+  {
+    "question": "61 - Que devient la libido à l’âge adulte selon Freud ?",
+    "options": ["Elle disparaît", "Elle se fixe sur un objet extérieur total", "Elle reste auto-érotique", "Elle est refoulée"],
+    "answerIndex": 1,
+    "explication": "La libido est désormais tournée vers des objets d’amour extérieurs et socialement reconnus."
+  },
+  {
+    "question": "62 - Quelle est la conséquence d’une fixation au stade oral ?",
+    "options": ["L’obsession de la propreté", "L’agressivité", "La dépendance affective ou la passivité", "La curiosité sexuelle"],
+    "answerIndex": 2,
+    "explication": "Une fixation orale se manifeste souvent par des comportements de dépendance ou de recherche de fusion."
+  },
+  {
+    "question": "63 - Quelle pathologie est liée à une fixation au stade anal ?",
+    "options": ["L’angoisse de séparation", "Les dépressions", "Les psychoses maniaques", "Les troubles obsessionnels"],
+    "answerIndex": 3,
+    "explication": "Une éducation trop stricte peut fixer le sujet dans la rigidité et l’ordre, caractéristiques de l’obsession."
+  },
+  {
+    "question": "64 - Quelle conséquence possible d’un complexe d’Œdipe mal résolu Freud évoque-t-il ?",
+    "options": ["La névrose","La psychose",  "La schizophrénie", "La régression orale"],
+    "answerIndex": 0,
+    "explication": "Une mauvaise résolution du complexe d’Œdipe peut entraîner des névroses à l’âge adulte."
+  },
+  {
+    "question": "65 - Que signifie la ‘sublimation’ selon Freud ?",
+    "options": ["La disparition des pulsions", "La transformation des pulsions en activités socialement valorisées", "La satisfaction sexuelle", "La régression"],
+    "answerIndex": 1,
+    "explication": "La sublimation détourne l’énergie sexuelle vers des activités créatives, intellectuelles ou altruistes."
+  },
+  {
+    "question": "66 - Quelle est la relation entre refoulement et inconscient ?",
+    "options": [ "L’inconscient supprime le refoulement", "Ils sont indépendants", "Ils s’annulent","Le refoulement crée l’inconscient"],
+    "answerIndex": 3,
+    "explication": "Le refoulement est à l’origine de l’inconscient, où se logent les désirs interdits."
+  },
+  {
+    "question": "67 - Que désigne la ‘relation d’objet totale’ ?",
+    "options": ["L’amour fusionnel", "L’amour d’un individu reconnu comme sujet", "L’amour narcissique", "Le rejet de l’autre"],
+    "answerIndex": 1,
+    "explication": "La relation d’objet totale suppose la reconnaissance de l’autre comme personne distincte et autonome."
+  },
+  {
+    "question": "68 - Quelle influence Freud a-t-il eue sur la psychiatrie infantile ?",
+    "options": ["Nulle", "Décisive, en introduisant la notion de conflit inconscient", "Minime", "Purement biologique"],
+    "answerIndex": 1,
+    "explication": "Freud a ouvert la voie à la psychiatrie infantile en considérant l’origine psychique des troubles."
+  },
+  {
+    "question": "69 - Quelle fonction symbolique l’argent revêt-il selon Freud ?",
+    "options": ["La puissance", "La pureté", "Les excréments symboliques", "L’amour parental"],
+    "answerIndex": 2,
+    "explication": "Freud voit dans l’argent un symbole dérivé de la valeur accordée aux excréments durant le stade anal."
+  },
+  {
+    "question": "70 - Que signifie l’expression 'auto-érotisme' ?",
+    "options": ["L’amour de soi", "Une relation d’objet totale", "Une sublimation réussie", "La recherche du plaisir sans objet extérieur"],
+    "answerIndex": 3,
+    "explication": "L’auto-érotisme désigne le plaisir trouvé dans son propre corps sans relation à autrui."
+  },
+  {
+    "question": "71 - Quelle notion oppose l’auto-érotisme à la relation d’objet ?",
+    "options": ["La dépendance", "L’autonomie", "L’ouverture à autrui", "La maîtrise corporelle"],
+    "answerIndex": 2,
+    "explication": "La relation d’objet suppose la reconnaissance d’un autre extérieur au Moi, contrairement à l’auto-érotisme."
+  },
+  {
+    "question": "72 - Quelle figure contemporaine a prolongé la théorie freudienne du lien mère-enfant ?",
+    "options": ["Winnicott", "Charcot", "Piaget", "Lacan"],
+    "answerIndex": 0,
+    "explication": "Donald Winnicott a approfondi le rôle du lien maternel et de l’environnement dans le développement affectif."
+  },
+  {
+    "question": "73 - Que décrit le concept d’hospitalisme de Spitz ?",
+    "options": ["Une maladie physique", "Les troubles liés à la privation d’amour maternel", "Un trouble du langage", "Un excès d’autorité paternelle"],
+    "answerIndex": 1,
+    "explication": "L’hospitalisme désigne les troubles graves du développement observés chez les enfants séparés précocement de leur mère."
+  },
+  {
+    "question": "74 - Quelle est la conséquence d’un narcissisme primaire non dépassé ?",
+    "options": ["Une ouverture sociale", "Un excès de curiosité", "Une meilleure autonomie", "Un risque de repli psychotique"],
+    "answerIndex": 3,
+    "explication": "Un narcissisme primaire non surmonté peut entraîner un repli pathologique sur soi proche de la psychose."
+  },
+  {
+    "question": "75 - Quelle est la tâche du Moi face aux pulsions selon Freud ?",
+    "options": ["Les supprimer", "Les réguler et les canaliser selon la réalité", "Les exprimer librement", "Les ignorer"],
+    "answerIndex": 1,
+    "explication": "Le Moi sert de médiateur entre le Ça, le Surmoi et la réalité pour maintenir l’équilibre psychique."
+  },
+  {
+    "question": "76 - Quelle dimension symbolique traverse tous les stades du développement libidinal ?",
+    "options": ["Le rapport à la loi et à la séparation","La fusion",  "La passivité", "La dépendance biologique"],
+    "answerIndex": 0,
+    "explication": "La séparation et l’accès à la loi symbolique constituent le fil conducteur du développement psychique."
+  },
+  {
+    "question": "77 - Quelle valeur centrale la psychanalyse freudienne attribue-t-elle à la sexualité infantile ?",
+    "options": ["Une déviance", "Un phénomène purement biologique", "Un tabou social", "Une énergie structurante du développement psychique"],
+    "answerIndex": 3,
+    "explication": "Freud voit dans la sexualité infantile une énergie psychique essentielle à la structuration du Moi et du Surmoi."
+  },
+  {
+    "question": "78 - Quelle notion explique le passage d’un stade libidinal à l’autre ?",
+    "options": ["La régression", "La maturation biologique et psychique", "La sublimation", "Le refoulement"],
+    "answerIndex": 1,
+    "explication": "Chaque stade succède au précédent grâce à la maturation psychique et à la réorganisation des zones érogènes."
+  },
+  {
+    "question": "79 - Que devient l’énergie libidinale non résolue d’un stade précédent ?",
+    "options": ["Elle disparaît", "Elle se transforme en pulsion de mort",  "Elle reste fixée et influence la personnalité","Elle devient inconsciente sans effet"],
+    "answerIndex": 2,
+    "explication": "Une fixation libidinale non résolue laisse des traces inconscientes qui influencent les comportements adultes."
+  },
+  {
+    "question": "80 - Quelle idée principale résume la théorie freudienne des stades de la libido ?",
+    "options": ["L’évolution affective et psychosexuelle de l’enfant vers la maturité","Le développement intellectuel",  "La morale et l’éducation", "Le conditionnement social"],
+    "answerIndex": 0,
+    "explication": "Freud décrit le développement humain comme un parcours d’organisation progressive de la libido vers la sexualité adulte équilibrée."
+  }
+]

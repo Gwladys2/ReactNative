@@ -77,7 +77,9 @@ export default function LessonScreen({ navigation }) {
                     <Button title="passer au niveau 2" onPress={() => navigation.navigate('PsychoEducation2')} />
                 </>
             )}
-
+           <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation2')}>
+                        🚀 niveau 2
+                    </Text>
         </View>
     );
 }
@@ -85,5 +87,12 @@ export default function LessonScreen({ navigation }) {
 const styles = StyleSheet.create({
     container: { flex: 1, padding: 20, justifyContent: 'flex-start' },
     question: { fontSize: 20, marginBottom: 20, fontWeight: 'bold'},
-    titre:{textAlign: 'center', fontSize: 20, marginBottom: 20, fontWeight: 'bold', marginTop:10}
+    titre:{textAlign: 'center', fontSize: 20, marginBottom: 20, fontWeight: 'bold', marginTop:10},
+     link: {
+        fontSize: 18,
+        color: '#007BFF', // bleu comme un lien
+        textDecorationLine: 'underline',
+        marginVertical: 10,
+        textAlign: 'center'
+    }
 });

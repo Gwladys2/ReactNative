@@ -1,9 +1,9 @@
 import React, { useContext, useState } from 'react';
 import { View, Text, Button, StyleSheet, Alert } from 'react-native';
-import questions from '../questions/psychoDevApp/serie2.json';
+import questions from '../questions/psychoDevApp/serie4.json';
 import { ProgressContext } from '../context/ProgressContext';
 import HeaderStats from '../components/HeaderStats';
-import Logo from '../screens/Logo'; 
+import Logo from './Logo'; 
 
 
 
@@ -62,20 +62,24 @@ export default function LessonScreen({ navigation }) {
             <Logo/>
             {!showRestart ? (
                 <>
-                    <Text style={styles.titre}>Psychologie du développement et de l'éducation Niveau 2</Text>
+                    <Text style={styles.titre}>Psychologie du développement et de l'éducation Niveau 4</Text>
 
                     <Text style={styles.question}>{current.question}</Text>
                     {current.options.map((option, i) => (
                         <Button key={i} title={option} onPress={() => handleAnswer(i)} />
                     ))}
-                    
+                     <Button
+                                            title="Retour à la sélection des niveaux"
+                                            onPress={() => navigation.navigate('Accueil')}
+                                            color="#ff4444"
+                                        />
                 </>
             ) : (
                 <>
                     <Text style={styles.question}>Leçon terminée 🎉</Text>
-                    <Button title="revenir au niveau 1" onPress={() => navigation.navigate('PsychoEducation')} />
-                    <Button title="passer au niveau 3" onPress={() => navigation.navigate('PsychoEducation3')} />
-                   
+                    <Button title="revenir au niveau 3" onPress={() => navigation.navigate('PsychoEducation3')} />
+                    <Button title="passer au niveau 5" onPress={() => navigation.navigate('CSS 1')} />
+                    
                 </>
             )}
 
