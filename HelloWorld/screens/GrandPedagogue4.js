@@ -1,10 +1,10 @@
 import React, { useContext, useState } from 'react';
 import { View, Text, Button, StyleSheet, Alert } from 'react-native';
-import questions from '../questions/ScienceEducation/GrandPedagogue/serie2.json';
+import questions from '../questions/ScienceEducation/GrandPedagogue/serie4.json';
 import { ProgressContext } from '../context/ProgressContext';
 import HeaderStats from '../components/HeaderStats';
 import Logo from './Logo'; 
-import { ScrollView } from 'react-native';
+
 
 
 export default function LessonScreen({ navigation }) {
@@ -56,13 +56,13 @@ export default function LessonScreen({ navigation }) {
 
 
     return (
-        <ScrollView contentContainerStyle={styles.container}>
+        <View style={styles.container}>
             
             <HeaderStats />
             <Logo/>
             {!showRestart ? (
                 <>
-                    <Text style={styles.titre}>Les Grands Pédagogues Freinet part 2</Text>
+                    <Text style={styles.titre}>Les Grands Pédagogues Montessori part 2</Text>
 
                     <Text style={styles.question}>{current.question}</Text>
                     {current.options.map((option, i) => (
@@ -74,8 +74,7 @@ export default function LessonScreen({ navigation }) {
                 <>
                     <Text style={styles.question}>Leçon terminée 🎉</Text>
                     <Button title="revenir à la liste des UE" onPress={() => navigation.navigate('ScienceEducation')} />
-                    <Button title="revenir au niveau 1" onPress={() => navigation.navigate('GrandPedagogue')} /> 
-                    <Button title="passer au niveau 3" onPress={() => navigation.navigate('GrandPedagogue3')} />
+                    <Button title="revenir au niveau 2" onPress={() => navigation.navigate('GrandPedagogue2')} /> 
                 </>
             )}
 
@@ -86,27 +85,40 @@ export default function LessonScreen({ navigation }) {
                                 <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue4')}> 🚀 Montessori 2</Text>
                                </View>
        
-              </ScrollView>
+               </View>
            );
        }
        const styles = StyleSheet.create({
-    container: { 
-        flexGrow: 1,             // ✅ permet à ScrollView de remplir tout l’espace disponible
-        padding: 20, 
-        justifyContent: 'flex-start' 
-    },
-    question: { fontSize: 20, marginBottom: 20, fontWeight: 'bold' },
-    titre: { textAlign: 'center', fontSize: 20, marginBottom: 20, fontWeight: 'bold', marginTop: 10 },
-    linkContainer: {
-        flexDirection: 'row',
-        justifyContent: 'center',
-        flexWrap: 'wrap',
-        marginTop: 20
-    },
-    link: {
-        fontSize: 16,
-        color: '#007BFF',
-        textDecorationLine: 'underline',
-        marginHorizontal: 8
-    }
-});
+           container: { 
+               flex: 1, 
+               padding: 20, 
+               justifyContent: 'flex-start' 
+           },
+           question: { 
+               fontSize: 20, 
+               marginBottom: 20, 
+               fontWeight: 'bold' 
+           },
+           titre: { 
+               textAlign: 'center', 
+               fontSize: 20, 
+               marginBottom: 20, 
+               fontWeight: 'bold', 
+               marginTop: 10 
+           },
+           linkContainer: {
+               flexDirection: 'row',        // ✅ aligne les liens horizontalement
+               justifyContent: 'center',    // ✅ centre la ligne de liens
+               flexWrap: 'wrap',            // ✅ permet le retour à la ligne si trop long
+               marginTop: 20
+           },
+           link: {
+               fontSize: 16,
+               color: '#007BFF',
+               textDecorationLine: 'underline',
+               marginHorizontal: 8 // ✅ espace horizontal entre les liens
+           }
+       });
+       
+       
+       

@@ -1,8 +1,302 @@
 [
   {
-    "question": "1 - à déterminer",
-    "options": ["Freinet est-il toujours enseigné dans les écoles ?", "Peut-on encore appliquer les principes de Freinet aujourd’hui ?", "Faut-il créer une école privée Freinet ?", "Les méthodes Freinet sont-elles interdites ?"],
-    "answerIndex": 1,
-    "explication": "Le cours s’interroge sur la pertinence contemporaine de la pédagogie Freinet, notamment à travers l’exemple de l’école de Mons-en-Barœul."
+    "question": "1 - Quelle est la particularité de Maria Montessori dans ses études universitaires ?",
+    "options": ["Elle est la première femme médecin d’Italie", "Elle a étudié exclusivement la philosophie", "Elle a abandonné ses études", "Elle a été la première enseignante publique"],
+    "answerIndex": 0,
+    "explication": "Maria Montessori fut la première femme à obtenir un doctorat en médecine en Italie, un fait exceptionnel à la fin du XIXe siècle."
+  },
+  {
+    "question": "2 - Dans quel domaine Maria Montessori s’est-elle d’abord spécialisée ?",
+    "options": ["La médecine", "L’enseignement religieux", "L’économie", "La politique"],
+    "answerIndex": 0,
+    "explication": "Avant de devenir pédagogue, Montessori exerçait comme médecin, notamment auprès d’enfants déficients mentaux."
+  },
+  {
+    "question": "3 - Quelle est la principale observation de Montessori avec les enfants déficients ?",
+    "options": ["Ils ont besoin de pédagogie plus que de médecine", "Ils ne peuvent pas apprendre", "Ils doivent être isolés", "Ils apprennent uniquement par imitation"],
+    "answerIndex": 0,
+    "explication": "Montessori remarque que l’accompagnement éducatif est plus bénéfique que le traitement médical pour ces enfants."
+  },
+  {
+    "question": "4 - Quelle expérience éducative fonde la pédagogie Montessori en 1907 ?",
+    "options": ["La Casa dei Bambini", "Le lycée expérimental de Rome", "L’école des arts appliqués", "La classe Freinet"],
+    "answerIndex": 0,
+    "explication": "La première ‘Casa dei Bambini’ à Rome accueille des enfants défavorisés de 3 à 6 ans et devient le laboratoire de sa méthode."
+  },
+  {
+    "question": "5 - Quel âge avaient les enfants de la première Casa dei Bambini ?",
+    "options": ["3 à 6 ans", "6 à 10 ans", "10 à 14 ans", "1 à 3 ans"],
+    "answerIndex": 0,
+    "explication": "Montessori s’adresse d’abord aux jeunes enfants d’âge préscolaire, période qu’elle juge cruciale pour le développement cognitif."
+  },
+  {
+    "question": "6 - Quel fut le résultat observé dans la première Casa dei Bambini ?",
+    "options": ["Les enfants devinrent polis, calmes et apprirent à lire et écrire", "Les enfants refusèrent d’apprendre", "Les enfants devinrent dépendants des adultes", "Les enfants quittèrent l’école"],
+    "answerIndex": 0,
+    "explication": "Les enfants montrèrent une transformation remarquable : autonomie, calme, discipline et apprentissage naturel."
+  },
+  {
+    "question": "7 - Quel penseur a soutenu Maria Montessori ?",
+    "options": ["Sigmund Freud", "Karl Marx", "Émile Durkheim", "Jean-Jacques Rousseau"],
+    "answerIndex": 0,
+    "explication": "Freud apprécia la dimension psychologique et bienveillante de la pédagogie montessorienne."
+  },
+  {
+    "question": "8 - En quelle année est créée l’Association Montessori Internationale (AMI) ?",
+    "options": ["1929", "1907", "1945", "1952"],
+    "answerIndex": 0,
+    "explication": "L’AMI fut fondée en 1929 pour préserver et diffuser la méthode Montessori dans le monde entier."
+  },
+  {
+    "question": "9 - Quelle est la vision de Montessori sur l’enfant ?",
+    "options": ["L’enfant porte en lui son propre plan de développement", "L’enfant doit être entièrement guidé par l’adulte", "L’enfant ne peut apprendre seul", "L’enfant est passif face à la connaissance"],
+    "answerIndex": 0,
+    "explication": "Selon Montessori, chaque enfant possède un potentiel de développement intérieur qu’il faut respecter et accompagner."
+  },
+  {
+    "question": "10 - Que risque l’intervention excessive de l’adulte selon Montessori ?",
+    "options": ["D’entraver le développement naturel de l’enfant", "De renforcer la motivation", "D’accélérer l’apprentissage", "De rendre l’enfant plus curieux"],
+    "answerIndex": 0,
+    "explication": "Trop d’interventions parentales ou éducatives peuvent empêcher l’enfant d’explorer et de se construire par lui-même."
+  },
+  {
+    "question": "11 - Qu’est-ce que l’‘esprit absorbant’ selon Montessori ?",
+    "options": ["La capacité naturelle de l’enfant à apprendre en observant et en expérimentant", "Une méthode de mémorisation mécanique", "Un outil pédagogique", "Une période de passivité intellectuelle"],
+    "answerIndex": 0,
+    "explication": "L’esprit absorbant décrit la faculté des jeunes enfants à capter naturellement les informations de leur environnement."
+  },
+  {
+    "question": "12 - Quelle est la base spirituelle de la pédagogie Montessori ?",
+    "options": ["La croyance en un ordre divin dans le développement de l’enfant", "Le rejet de toute spiritualité", "La soumission totale à l’adulte", "L’apprentissage par la punition"],
+    "answerIndex": 0,
+    "explication": "Montessori considère que Dieu a fixé des lois naturelles de développement que l’éducateur doit respecter."
+  },
+  {
+    "question": "13 - Quelle est la condition de l’attention chez l’enfant selon Montessori ?",
+    "options": ["Un environnement motivant et une activité librement choisie", "Une surveillance stricte", "Une succession rapide d’activités", "Un contrôle permanent de l’adulte"],
+    "answerIndex": 0,
+    "explication": "L’attention durable naît quand l’enfant choisit librement une activité adaptée à ses capacités et à ses intérêts."
+  },
+  {
+    "question": "14 - Quelle devise résume l’autonomie dans la pédagogie Montessori ?",
+    "options": ["Aide-moi à faire tout seul", "Fais ce que je dis", "Apprends sans réfléchir", "Obéis sans questionner"],
+    "answerIndex": 0,
+    "explication": "Cette phrase symbolise l’équilibre entre accompagnement et liberté, cœur de la méthode Montessori."
+  },
+  {
+    "question": "15 - Comment l’adulte doit-il intervenir selon Montessori ?",
+    "options": ["Avec humilité et discrétion", "En imposant les règles constamment", "En dirigeant chaque action", "En évaluant sans arrêt"],
+    "answerIndex": 0,
+    "explication": "L’adulte doit observer, guider et intervenir uniquement quand cela favorise la progression autonome de l’enfant."
+  },
+  {
+    "question": "16 - Quelle qualité principale doit posséder l’éducateur montessorien ?",
+    "options": ["L’humilité", "L’autorité", "La rapidité", "La sévérité"],
+    "answerIndex": 0,
+    "explication": "L’humilité permet à l’éducateur de se mettre au service de l’enfant, sans imposer son propre rythme ou ses attentes."
+  },
+  {
+    "question": "17 - Quel est le rôle principal de l’adulte ?",
+    "options": ["Mettre l’enfant en contact avec son environnement", "Transmettre des savoirs par la parole", "Sanctionner les erreurs", "Imposer un modèle unique"],
+    "answerIndex": 0,
+    "explication": "L’éducateur prépare l’environnement et permet à l’enfant d’y évoluer de façon autonome et constructive."
+  },
+  {
+    "question": "18 - Pourquoi l’observation est-elle essentielle dans cette pédagogie ?",
+    "options": ["Pour adapter l’intervention au bon moment", "Pour noter les comportements", "Pour juger les enfants", "Pour établir des classements"],
+    "answerIndex": 0,
+    "explication": "L’observation permet de comprendre le rythme et les besoins de chaque enfant afin d’intervenir sans perturber son apprentissage."
+  },
+  {
+    "question": "19 - Quelle attitude l’éducateur doit-il éviter ?",
+    "options": ["Être un obstacle entre l’enfant et son expérience", "Encourager la curiosité", "Observer discrètement", "Soutenir l’autonomie"],
+    "answerIndex": 0,
+    "explication": "L’adulte doit éviter toute intrusion qui empêche l’enfant de vivre pleinement son expérience éducative."
+  },
+  {
+    "question": "20 - Quelle valeur centrale guide la démarche pédagogique montessorienne ?",
+    "options": ["La bienveillance", "La compétition", "La performance", "L’évaluation normative"],
+    "answerIndex": 0,
+    "explication": "La bienveillance est le fondement du climat éducatif montessorien : respect, confiance et absence de jugement."
+  },
+  {
+    "question": "21 - Comment l’échec est-il perçu dans la pédagogie Montessori ?",
+    "options": ["Comme une étape normale d’apprentissage", "Comme une faute à sanctionner", "Comme une faiblesse", "Comme une perte de temps"],
+    "answerIndex": 0,
+    "explication": "L’erreur est une opportunité d’auto-correction et de compréhension, non une faute à punir."
+  },
+  {
+    "question": "22 - Qu’est-ce qu’un ‘environnement préparé’ ?",
+    "options": ["Un espace pensé pour favoriser l’autonomie et la concentration", "Une salle remplie de jouets", "Un espace strictement dirigé par l’adulte", "Une classe ordinaire sans matériel spécifique"],
+    "answerIndex": 0,
+    "explication": "L’environnement préparé est organisé pour permettre à l’enfant d’agir librement tout en apprenant de manière structurée."
+  },
+  {
+    "question": "23 - Quelles sont les qualités d’un environnement montessorien ?",
+    "options": ["Simplicité, ordre, beauté, autonomie", "Compétition, bruit, agitation", "Uniformité, rigidité, contraintes", "Surveillance, sanction, récompense"],
+    "answerIndex": 0,
+    "explication": "Un cadre esthétique, ordonné et calme aide l’enfant à se concentrer et à développer son autonomie."
+  },
+  {
+    "question": "24 - Que favorise le mélange des âges dans une classe Montessori ?",
+    "options": ["L’entraide et la coopération", "La compétition", "Le désordre", "La confusion des niveaux"],
+    "answerIndex": 0,
+    "explication": "Les enfants plus âgés guident les plus jeunes, créant un climat d’entraide et d’apprentissage collectif."
+  },
+  {
+    "question": "25 - Quelle est la fonction principale du matériel Montessori ?",
+    "options": ["Permettre l’apprentissage par la manipulation sensorielle", "Servir de décoration", "Remplacer l’enseignant", "Tester la mémoire"],
+    "answerIndex": 0,
+    "explication": "Les outils sensoriels permettent à l’enfant de comprendre les concepts abstraits par l’expérimentation concrète."
+  },
+  {
+    "question": "26 - Pourquoi le matériel Montessori est-il limité en quantité ?",
+    "options": ["Pour encourager la patience et la coopération", "Pour économiser de l’espace", "Pour réduire les coûts", "Pour décourager l’enfant"],
+    "answerIndex": 0,
+    "explication": "Un seul exemplaire par matériel incite les enfants à attendre leur tour, favorisant la socialisation et la gestion de la frustration."
+  },
+  {
+    "question": "27 - Comment est conçu le matériel Montessori ?",
+    "options": ["De manière scientifique à partir de l’observation des enfants", "Selon les goûts des adultes", "Par hasard", "Sans objectif pédagogique précis"],
+    "answerIndex": 0,
+    "explication": "Chaque matériel découle d’une démarche empirique rigoureuse et vise un apprentissage spécifique."
+  },
+  {
+    "question": "28 - Quelle progression suit le matériel pédagogique ?",
+    "options": ["Du concret à l’abstrait", "De l’abstrait au concret", "Du compliqué au simple", "Du hasard à la logique"],
+    "answerIndex": 0,
+    "explication": "L’enfant apprend d’abord en manipulant des objets concrets avant de comprendre les notions abstraites qu’ils représentent."
+  },
+  {
+    "question": "29 - Que permet la manipulation sensorielle ?",
+    "options": ["D’ancrer les apprentissages de façon durable", "D’éviter toute réflexion", "De jouer sans apprendre", "De se distraire"],
+    "answerIndex": 0,
+    "explication": "Les expériences sensorielles aident l’enfant à construire des représentations mentales solides des concepts appris."
+  },
+  {
+    "question": "30 - Dans l’apprentissage de la lecture-écriture, quelle est la première étape ?",
+    "options": ["Reconnaître les lettres et les sons", "Lire des phrases entières", "Écrire des textes", "Répéter des mots sans sens"],
+    "answerIndex": 0,
+    "explication": "L’approche Montessori commence par la conscience phonétique et la reconnaissance des lettres."
+  },
+  {
+    "question": "31 - Quelle place occupe la liberté dans la pédagogie Montessori ?",
+    "options": ["Centrale, mais encadrée par un cadre sécurisant", "Totale sans règles", "Absente", "Conditionnelle à la performance"],
+    "answerIndex": 0,
+    "explication": "L’enfant est libre de choisir ses activités dans un cadre structuré qui garantit le respect des autres et du matériel."
+  },
+  {
+    "question": "32 - Que représente la phrase 'l’enfant constructeur de lui-même' ?",
+    "options": ["L’enfant participe activement à son propre développement", "L’enfant imite uniquement les adultes", "L’enfant ne peut rien sans l’enseignant", "L’enfant apprend passivement"],
+    "answerIndex": 0,
+    "explication": "Montessori voit l’enfant comme l’acteur principal de sa croissance intellectuelle et morale."
+  },
+  {
+    "question": "33 - Quelle idée Montessori partage-t-elle avec Piaget ?",
+    "options": ["L’importance des stades du développement", "La supériorité de la mémoire", "L’autorité de l’adulte", "L’apprentissage par punition"],
+    "answerIndex": 0,
+    "explication": "Les deux insistent sur les étapes de maturation cognitive et la nécessité de respecter le rythme de l’enfant."
+  },
+  {
+    "question": "34 - Comment Montessori conçoit-elle l’éducation pour la paix ?",
+    "options": ["Comme une éducation à la tolérance et à la coopération", "Comme une discipline militaire", "Comme une compétition nationale", "Comme une neutralité politique"],
+    "answerIndex": 0,
+    "explication": "Elle voyait l’éducation comme un moyen de construire des sociétés pacifiques par le respect et la compréhension mutuelle."
+  },
+  {
+    "question": "35 - Quelle était la relation de Montessori avec le régime de Mussolini ?",
+    "options": ["Une relation d’abord favorable puis rompue", "Une alliance durable", "Un rejet immédiat", "Aucune relation"],
+    "answerIndex": 0,
+    "explication": "Mussolini a d’abord soutenu Montessori avant que leurs visions éducatives divergentes ne provoquent une rupture."
+  },
+  {
+    "question": "36 - Quel type d’écoles applique la pédagogie Montessori aujourd’hui ?",
+    "options": ["Des écoles privées, souvent hors contrat", "Uniquement les écoles publiques", "Les écoles militaires", "Les universités"],
+    "answerIndex": 0,
+    "explication": "En France, la plupart des écoles Montessori sont privées et indépendantes du système national."
+  },
+  {
+    "question": "37 - Combien d’écoles Montessori existent environ dans le monde ?",
+    "options": ["Plus de 20 000", "Moins de 500", "Environ 1 000", "Environ 5 000"],
+    "answerIndex": 0,
+    "explication": "La pédagogie Montessori connaît une diffusion mondiale avec plus de 20 000 établissements."
+  },
+  {
+    "question": "38 - Quelle compétence l’enfant développe grâce à l’autonomie ?",
+    "options": ["La responsabilité", "La dépendance", "La peur de l’erreur", "L’obéissance passive"],
+    "answerIndex": 0,
+    "explication": "L’autonomie nourrit le sentiment de compétence et la responsabilité personnelle de l’enfant."
+  },
+  {
+    "question": "39 - Pourquoi la beauté du matériel est-elle importante ?",
+    "options": ["Elle stimule le désir d’apprendre et le respect des objets", "Elle sert à décorer la classe", "Elle impressionne les parents", "Elle n’a aucun effet"],
+    "answerIndex": 0,
+    "explication": "Montessori pensait qu’un environnement beau et ordonné encourage le respect et l’engagement."
+  },
+  {
+    "question": "40 - Quelle est la conséquence d’un environnement désordonné selon Montessori ?",
+    "options": ["Il nuit à la concentration et à l’autonomie", "Il favorise la créativité", "Il rend l’enfant plus intelligent", "Il n’a aucun effet"],
+    "answerIndex": 0,
+    "explication": "Le désordre empêche l’enfant de se repérer et de se concentrer efficacement sur ses activités."
+  },
+  {
+    "question": "41 - Quelle méthode d’évaluation privilégie Montessori ?",
+    "options": ["L’autoévaluation", "Les notes chiffrées", "Les classements", "Les examens oraux"],
+    "answerIndex": 0,
+    "explication": "L’enfant apprend à se corriger seul en observant les conséquences de ses actes, plutôt qu’à travers une note."
+  },
+  {
+    "question": "42 - Comment l’enfant apprend-il à corriger ses erreurs ?",
+    "options": ["Grâce au matériel auto-correctif", "Grâce à la punition", "Grâce à la note", "Grâce à l’adulte qui le gronde"],
+    "answerIndex": 0,
+    "explication": "Chaque matériel Montessori permet à l’enfant d’identifier et de corriger ses erreurs sans aide extérieure."
+  },
+  {
+    "question": "43 - Quelle est la finalité de la pédagogie Montessori ?",
+    "options": ["Le développement global de l’enfant", "La réussite aux examens", "L’obéissance stricte", "La mémorisation rapide"],
+    "answerIndex": 0,
+    "explication": "La pédagogie vise l’épanouissement intellectuel, social, moral et émotionnel de l’enfant."
+  },
+  {
+    "question": "44 - Quelle notion est absente de la pédagogie Montessori ?",
+    "options": ["La punition", "L’autonomie", "L’observation", "La liberté"],
+    "answerIndex": 0,
+    "explication": "Montessori refuse la punition et la récompense comme moteurs d’apprentissage, au profit de la motivation interne."
+  },
+  {
+    "question": "45 - Quel est l’effet de la liberté sur la concentration de l’enfant ?",
+    "options": ["Elle la renforce", "Elle la détruit", "Elle la rend impossible", "Elle la rend aléatoire"],
+    "answerIndex": 0,
+    "explication": "Un enfant libre de choisir son activité s’investit davantage et développe une attention profonde."
+  },
+  {
+    "question": "46 - Quel type d’apprentissage favorise la pédagogie Montessori ?",
+    "options": ["L’apprentissage actif et expérimental", "La récitation mécanique", "L’apprentissage passif", "L’imitation sans réflexion"],
+    "answerIndex": 0,
+    "explication": "L’enfant apprend en expérimentant directement avec le matériel et en découvrant par lui-même."
+  },
+  {
+    "question": "47 - Que permet la répétition dans le travail Montessori ?",
+    "options": ["La maîtrise et la confiance", "L’ennui", "La fatigue", "Le désintérêt"],
+    "answerIndex": 0,
+    "explication": "La répétition volontaire d’un exercice permet à l’enfant d’approfondir sa compréhension et de renforcer sa concentration."
+  },
+  {
+    "question": "48 - Quelle vertu découle de la coopération entre enfants ?",
+    "options": ["L’empathie", "La compétition", "La dépendance", "La rivalité"],
+    "answerIndex": 0,
+    "explication": "La collaboration entre enfants développe la solidarité, l’écoute et le sens moral."
+  },
+  {
+    "question": "49 - Quelle place tient la joie dans la classe Montessori ?",
+    "options": ["C’est un moteur d’apprentissage naturel", "Elle est interdite", "Elle dépend des récompenses", "Elle est sans importance"],
+    "answerIndex": 0,
+    "explication": "Montessori voyait la joie comme le signe d’un apprentissage authentique et libre."
+  },
+  {
+    "question": "50 - Quelle phrase résume l’esprit de la pédagogie Montessori ?",
+    "options": ["L’enfant n’est pas un vase qu’on remplit, mais une source qu’on laisse jaillir", "L’enfant doit obéir sans discuter", "L’adulte sait toujours mieux", "L’apprentissage passe par la contrainte"],
+    "answerIndex": 0,
+    "explication": "Cette métaphore illustre la confiance en la capacité naturelle de l’enfant à se développer de l’intérieur."
   }
 ]

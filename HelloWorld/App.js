@@ -7,6 +7,8 @@ import HomeScreen from './screens/HomeScreen';
 import ScienceEducation from './screens/ScienceEducation';
 import GrandPedagogue from './screens/GrandPedagogue';
 import GrandPedagogue2 from './screens/GrandPedagogue2';
+import GrandPedagogue3 from './screens/GrandPedagogue3';
+import GrandPedagogue4 from './screens/GrandPedagogue4';
 import LessonScreen from './screens/LessonScreen';
 import Niveau2 from './screens/Niveau2';
 import Niveau3 from './screens/Niveau3';
@@ -47,6 +49,8 @@ export default function App() {
               <Stack.Screen name="ScienceEducation" component={ScienceEducation} />
               <Stack.Screen name="GrandPedagogue" component={GrandPedagogue} />
               <Stack.Screen name="GrandPedagogue2" component={GrandPedagogue2} />
+              <Stack.Screen name="GrandPedagogue3" component={GrandPedagogue3} />
+              <Stack.Screen name="GrandPedagogue4" component={GrandPedagogue4} />
               <Stack.Screen name="PsychoEducation" component={PsychoEducation} />
               <Stack.Screen name="PsychoEducation2" component={PsychoEducation2} />
               <Stack.Screen name="PsychoEducation3" component={PsychoEducation3} />

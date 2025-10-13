@@ -68,11 +68,7 @@ export default function LessonScreen({ navigation }) {
                     {current.options.map((option, i) => (
                         <Button key={i} title={option} onPress={() => handleAnswer(i)} />
                     ))}
-                     <Button
-                                            title="Retour à la sélection des niveaux"
-                                            onPress={() => navigation.navigate('Accueil')}
-                                            color="#ff4444"
-                                        />
+                     
                 </>
             ) : (
                 <>
@@ -82,13 +78,47 @@ export default function LessonScreen({ navigation }) {
                     
                 </>
             )}
+            
+                     <View style={styles.linkContainer}>
+                        <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation')}> 🚀 niveau 1</Text>
+                       <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation2')}> 🚀 niveau 2</Text>
+                        <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation3')}> 🚀 niveau 3</Text>
+                         <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation4')}> 🚀 niveau 4</Text>
+                        </View>
 
         </View>
     );
 }
 
 const styles = StyleSheet.create({
-    container: { flex: 1, padding: 20, justifyContent: 'flex-start' },
-    question: { fontSize: 20, marginBottom: 20, fontWeight: 'bold'},
-    titre:{textAlign: 'center', fontSize: 20, marginBottom: 20, fontWeight: 'bold', marginTop:10}
+    container: { 
+        flex: 1, 
+        padding: 20, 
+        justifyContent: 'flex-start' 
+    },
+    question: { 
+        fontSize: 20, 
+        marginBottom: 20, 
+        fontWeight: 'bold' 
+    },
+    titre: { 
+        textAlign: 'center', 
+        fontSize: 20, 
+        marginBottom: 20, 
+        fontWeight: 'bold', 
+        marginTop: 10 
+    },
+    linkContainer: {
+        flexDirection: 'row',        // ✅ aligne les liens horizontalement
+        justifyContent: 'center',    // ✅ centre la ligne de liens
+        flexWrap: 'wrap',            // ✅ permet le retour à la ligne si trop long
+        marginTop: 20
+    },
+    link: {
+        fontSize: 16,
+        color: '#007BFF',
+        textDecorationLine: 'underline',
+        marginHorizontal: 8 // ✅ espace horizontal entre les liens
+    }
 });
+
