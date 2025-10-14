@@ -1,0 +1,552 @@
+[
+  {
+    "question": "1 - Qu'est-ce qu'une allégorie ?",
+    "options": [
+      "Une exagération d'une idée pour la rendre comique",
+      "Une figure qui représente une idée abstraite sous une forme concrète ou imagée",
+      "Une répétition d'un mot en début de phrase",
+      "Un jeu de mots basé sur des sons similaires"
+    ],
+    "answerIndex": 1,
+    "explication": "L'allégorie consiste à représenter une idée abstraite (comme la liberté, la mort, la justice) sous une forme concrète, souvent humaine. Exemple : Marianne représente la République."
+  },
+  {
+    "question": "2 - Qu'est-ce qu'une allitération ?",
+    "options": [
+      "La répétition d’un même son consonantique",
+      "La répétition d’un mot à la fin d’une phrase",
+      "Une comparaison avec un outil comparant",
+      "Une expression adoucie"
+    ],
+    "answerIndex": 0,
+    "explication": "L'allitération répète un son consonantique (comme les 's' dans 'le serpent silencieux siffle'), créant un effet sonore et souvent imitatif."
+  },
+  {
+    "question": "3 - L'anacoluthe désigne :",
+    "options": [
+      "Une rupture de construction grammaticale",
+      "Une suite d’idées logiques et ordonnées",
+      "Une absence de ponctuation",
+      "Une exagération volontaire"
+    ],
+    "answerIndex": 0,
+    "explication": "L'anacoluthe est une rupture dans la syntaxe d'une phrase. Elle surprend le lecteur et marque souvent une émotion ou une maladresse volontaire."
+  },
+  {
+    "question": "4 - Quelle figure reprend le dernier mot d’une phrase au début de la suivante ?",
+    "options": [
+      "Anaphore",
+      "Anadiplose",
+      "Chiasme",
+      "Antithèse"
+    ],
+    "answerIndex": 1,
+    "explication": "L'anadiplose enchaîne deux phrases en reprenant le dernier mot de la première au début de la seconde. Elle crée un effet de continuité."
+  },
+  {
+    "question": "5 - L’anaphore consiste à :",
+    "options": [
+      "Répéter un mot en fin de phrase",
+      "Répéter un mot en début de phrase ou de vers",
+      "Opposer deux termes contraires",
+      "Répéter un son vocalique"
+    ],
+    "answerIndex": 1,
+    "explication": "L’anaphore répète un mot ou groupe de mots en tête de phrase ou de vers pour insister sur une idée. Exemple : 'Moi président...' (François Hollande)."
+  },
+  {
+    "question": "6 - Quelle est la figure inverse de l’anaphore ?",
+    "options": [
+      "Antithèse",
+      "Épiphore",
+      "Allitération",
+      "Oxymore"
+    ],
+    "answerIndex": 1,
+    "explication": "L'épiphore répète un mot ou groupe de mots en fin de phrase, alors que l’anaphore le répète au début."
+  },
+  {
+    "question": "7 - L’antiphrase consiste à :",
+    "options": [
+      "Dire le contraire de ce qu’on pense pour faire comprendre l’inverse",
+      "Répéter le même mot plusieurs fois",
+      "Employer un mot dans un sens figuré",
+      "Simplifier une expression complexe"
+    ],
+    "answerIndex": 0,
+    "explication": "L'antiphrase consiste à dire le contraire de ce que l'on pense, souvent pour exprimer de l'ironie. Exemple : 'Quel génie !' pour dire 'Quel idiot !'."
+  },
+  {
+    "question": "8 - Qu'est-ce qu'une antithèse ?",
+    "options": [
+      "Une opposition de deux idées dans une même phrase",
+      "Une répétition de sons voyelles",
+      "Un mot utilisé pour en remplacer un autre",
+      "Une exagération humoristique"
+    ],
+    "answerIndex": 0,
+    "explication": "L’antithèse met en valeur un contraste fort entre deux idées. Exemple : 'Il est riche en pauvreté, pauvre en richesse.'"
+  },
+  {
+    "question": "9 - L’antonomase, c’est :",
+    "options": [
+      "L’emploi d’un nom commun comme nom propre ou inversement",
+      "Une exagération volontaire",
+      "Une métaphore prolongée",
+      "Une rime interne"
+    ],
+    "answerIndex": 0,
+    "explication": "L’antonomase remplace un nom propre par un nom commun ou inversement. Exemple : 'C’est un Don Juan' pour dire 'un séducteur'."
+  },
+  {
+    "question": "10 - Que désigne une aposiopèse ?",
+    "options": [
+      "Une figure d’interruption marquant une émotion ou un silence",
+      "Une succession de rimes identiques",
+      "Un retour du même mot à la fin d’un vers",
+      "Une figure d’amplification"
+    ],
+    "answerIndex": 0,
+    "explication": "L’aposiopèse interrompt brusquement une phrase, suggérant l’émotion ou la réticence. Exemple : 'Si tu continues, je...' "
+  },
+  {
+    "question": "11 - Quelle différence entre allitération et assonance ?",
+    "options": [
+      "L’allitération répète des consonnes, l’assonance des voyelles",
+      "Elles signifient la même chose",
+      "L’allitération est une rime, l’assonance une répétition",
+      "L’assonance est toujours à la fin du vers"
+    ],
+    "answerIndex": 0,
+    "explication": "L’allitération répète des consonnes ('s' sifflant), tandis que l’assonance répète des voyelles ('a', 'o'). Les deux créent une harmonie sonore."
+  },
+  {
+    "question": "12 - L’asyndète consiste à :",
+    "options": [
+      "Supprimer les liens de coordination (et, mais...)",
+      "Relier tous les éléments d’une phrase par 'et'",
+      "Répéter un mot en fin de vers",
+      "Faire rimer deux mots opposés"
+    ],
+    "answerIndex": 0,
+    "explication": "L’asyndète supprime les liens logiques ('et', 'ou'), créant un effet de rapidité. Exemple : 'Je suis venu, j’ai vu, j’ai vaincu.'"
+  },
+  {
+    "question": "13 - La brachylogie désigne :",
+    "options": [
+      "Une expression concise, presque abrupte",
+      "Une exagération comique",
+      "Une répétition de sons",
+      "Une suppression de mots inutiles"
+    ],
+    "answerIndex": 0,
+    "explication": "La brachylogie condense l’expression au maximum, donnant un effet de densité. Exemple : 'Veni, vidi, vici.'"
+  },
+  {
+    "question": "14 - Quelle figure de style compare deux réalités sans outil de comparaison ?",
+    "options": [
+      "Comparaison",
+      "Métaphore",
+      "Métonymie",
+      "Synecdoque"
+    ],
+    "answerIndex": 1,
+    "explication": "La métaphore établit une relation d’analogie sans outil comparant ('comme', 'tel'). Exemple : 'Cet homme est un lion.'"
+  },
+  {
+    "question": "15 - La métonymie consiste à :",
+    "options": [
+      "Remplacer un mot par un autre selon un rapport logique (contenu/contenant, cause/effet...)",
+      "Faire une comparaison directe",
+      "Répéter un mot dans une phrase",
+      "Employer un mot dans son contraire"
+    ],
+    "answerIndex": 0,
+    "explication": "La métonymie repose sur un rapport logique ou concret : 'Boire un verre' pour 'boire le contenu du verre'."
+  },
+  {
+    "question": "16 - La synecdoque est :",
+    "options": [
+      "Une variété de métonymie (partie pour le tout, ou tout pour la partie)",
+      "Une comparaison développée",
+      "Une opposition de deux termes",
+      "Une répétition sonore"
+    ],
+    "answerIndex": 0,
+    "explication": "La synecdoque remplace un mot par un autre lié par inclusion : 'Le fer' pour 'l’épée'."
+  },
+  {
+    "question": "17 - L’hyperbole sert à :",
+    "options": [
+      "Exagérer volontairement une idée pour créer un effet fort",
+      "Atténuer une réalité difficile",
+      "Répéter un mot plusieurs fois",
+      "Créer une contradiction"
+    ],
+    "answerIndex": 0,
+    "explication": "L’hyperbole amplifie volontairement : 'Je meurs de faim !' = 'J’ai très faim.'"
+  },
+  {
+    "question": "18 - Quelle figure atténue une idée brutale ?",
+    "options": [
+      "Euphémisme",
+      "Hyperbole",
+      "Oxymore",
+      "Litote"
+    ],
+    "answerIndex": 0,
+    "explication": "L’euphémisme adoucit une idée choquante : 'Il nous a quittés' pour 'Il est mort'."
+  },
+  {
+    "question": "19 - La litote consiste à :",
+    "options": [
+      "Dire moins pour faire entendre plus",
+      "Dire le contraire de ce qu’on pense",
+      "Répéter une idée plusieurs fois",
+      "Supprimer les liens logiques"
+    ],
+    "answerIndex": 0,
+    "explication": "La litote sous-entend davantage que ce qu’elle dit : 'Ce n’est pas mauvais' = 'C’est bon'."
+  },
+  {
+    "question": "20 - L’oxymore associe :",
+    "options": [
+      "Deux mots opposés dans un même groupe",
+      "Deux sons identiques",
+      "Deux comparaisons successives",
+      "Une idée et son contraire dans deux phrases séparées"
+    ],
+    "answerIndex": 0,
+    "explication": "L’oxymore associe deux contraires : 'le soleil noir de la mélancolie' (Nerval)."
+  },
+  {
+    "question": "21 - Qu’est-ce qu’un chiasme ?",
+    "options": [
+      "Une opposition de deux mots dans le même ordre",
+      "Une répétition de sons voyelles",
+      "Une disposition croisée des éléments (AB/BA)",
+      "Une succession de synonymes"
+    ],
+    "answerIndex": 2,
+    "explication": "Le chiasme inverse la structure pour créer un effet de symétrie : 'Il faut manger pour vivre et non vivre pour manger.'"
+  },
+  {
+    "question": "22 - Quelle est la différence entre comparaison et métaphore ?",
+    "options": [
+      "La comparaison a un outil comparant, la métaphore non",
+      "La métaphore est plus longue",
+      "La comparaison parle toujours de personnes",
+      "La métaphore n’a pas de sens figuré"
+    ],
+    "answerIndex": 0,
+    "explication": "La comparaison utilise un outil comparant ('comme', 'tel'), alors que la métaphore fait le rapprochement directement."
+  },
+  {
+    "question": "23 - La dérivation consiste à :",
+    "options": [
+      "Employer des mots du même radical dans une phrase",
+      "Répéter un mot identique plusieurs fois",
+      "Comparer deux sons proches",
+      "Créer une rime interne"
+    ],
+    "answerIndex": 0,
+    "explication": "La dérivation utilise plusieurs mots issus du même radical pour créer un champ lexical : 'parler', 'parole', 'parleur'."
+  },
+  {
+    "question": "24 - Qu’est-ce qu’une ellipse ?",
+    "options": [
+      "Une suppression d’éléments dans une phrase",
+      "Une phrase très longue sans ponctuation",
+      "Une inversion du sujet et du verbe",
+      "Une comparaison entre deux idées"
+    ],
+    "answerIndex": 0,
+    "explication": "L’ellipse omet volontairement un ou plusieurs mots sous-entendus : 'Pierre mange plus que Paul [ne mange]'."
+  },
+  {
+    "question": "25 - Une hyperbate se reconnaît quand :",
+    "options": [
+      "Un mot attendu est rejeté en fin de phrase",
+      "Un mot est répété plusieurs fois",
+      "On met un mot au début au lieu de la fin",
+      "Il y a rime interne"
+    ],
+    "answerIndex": 0,
+    "explication": "L’hyperbate rejette un mot en fin de phrase pour le mettre en valeur. Exemple : 'Le roman est toujours un imaginaire, et au même degré.'"
+  },
+  {
+    "question": "26 - Quelle est la fonction principale d’une hypotypose ?",
+    "options": [
+      "Créer une description vivante et visuelle, comme un tableau",
+      "Comparer deux sons",
+      "Donner un effet de lenteur",
+      "Simplifier une phrase"
+    ],
+    "answerIndex": 0,
+    "explication": "L’hypotypose peint une scène de manière si vivante qu’on la voit presque. C’est une description très visuelle et animée."
+  },
+  {
+    "question": "27 - Quelle figure prête des sentiments humains à des objets ?",
+    "options": [
+      "Métaphore",
+      "Personnification",
+      "Métonymie",
+      "Synecdoque"
+    ],
+    "answerIndex": 1,
+    "explication": "La personnification attribue des comportements humains à des objets ou idées abstraites. Exemple : 'Le vent hurle dans la nuit.'"
+  },
+  {
+    "question": "28 - La prosopopée est proche de la personnification car :",
+    "options": [
+      "Elle fait parler un être absent, mort ou inanimé",
+      "Elle répète des mots à la suite",
+      "Elle exagère une émotion",
+      "Elle décrit un objet sans le nommer"
+    ],
+    "answerIndex": 0,
+    "explication": "La prosopopée met en scène une voix absente ou morte. Exemple : 'Ô lac ! l'année à peine a fini sa carrière...' (Lamartine)."
+  },
+  {
+    "question": "29 - L’hypallage consiste à :",
+    "options": [
+      "Attribuer à un mot les qualités d’un autre mot du groupe",
+      "Comparer deux idées",
+      "Employer un mot dans un sens contraire",
+      "Exagérer un sentiment"
+    ],
+    "answerIndex": 0,
+    "explication": "L’hypallage déplace un adjectif d’un mot à un autre : 'Je suis d’un pas rêveur le sentier solitaire.' (Lamartine)."
+  },
+  {
+    "question": "30 - Quelle figure met des éléments en commun dans une phrase pour alléger la syntaxe ?",
+    "options": [
+      "Zeugme",
+      "Ellipse",
+      "Anacoluthe",
+      "Asyndète"
+    ],
+    "answerIndex": 0,
+    "explication": "Le zeugme relie deux éléments avec un seul mot commun : 'Il prit du pain et son courage.'"
+  },
+  {
+    "question": "31 - Qu’est-ce qu’une anaphore sert à faire dans un texte lyrique ?",
+    "options": [
+      "Introduire une émotion par la répétition rythmée",
+      "Créer un effet d’opposition",
+      "Simplifier une phrase complexe",
+      "Répéter des sons vocaliques"
+    ],
+    "answerIndex": 0,
+    "explication": "Dans le registre lyrique, l’anaphore renforce l’émotion par le rythme et la répétition insistante d’un mot ou d’une idée."
+  },
+  {
+    "question": "32 - Quelle figure exprime une gradation ?",
+    "options": [
+      "Une succession d’éléments de plus en plus forts",
+      "Une inversion syntaxique",
+      "Une atténuation",
+      "Une répétition sonore"
+    ],
+    "answerIndex": 0,
+    "explication": "La gradation organise une montée en intensité : 'Va, cours, vole et nous venge !' (Corneille)."
+  },
+  {
+    "question": "33 - La paronomase rapproche :",
+    "options": [
+      "Deux mots aux sons proches mais aux sens différents",
+      "Deux idées opposées",
+      "Deux rimes identiques",
+      "Deux synonymes"
+    ],
+    "answerIndex": 0,
+    "explication": "La paronomase joue sur la ressemblance phonétique : 'Qui vole un œuf vole un bœuf.'"
+  },
+  {
+    "question": "34 - Quelle figure remplace un mot par une expression plus longue ?",
+    "options": [
+      "Périphrase",
+      "Litote",
+      "Métonymie",
+      "Antiphrase"
+    ],
+    "answerIndex": 0,
+    "explication": "La périphrase utilise plusieurs mots à la place d’un seul : 'L’astre du jour' pour 'le soleil'."
+  },
+  {
+    "question": "35 - Quelle figure exagère l’émotion pour susciter la compassion ?",
+    "options": [
+      "Le pathétique",
+      "Le tragique",
+      "L’hyperbole",
+      "L’antithèse"
+    ],
+    "answerIndex": 0,
+    "explication": "Le registre pathétique cherche à émouvoir le lecteur par la mise en scène de la souffrance et de la douleur."
+  },
+  {
+    "question": "36 - Quelle figure crée un effet de croisement syntaxique (ABBA) ?",
+    "options": [
+      "Antithèse",
+      "Chiasme",
+      "Zeugme",
+      "Ellipse"
+    ],
+    "answerIndex": 1,
+    "explication": "Le chiasme inverse l’ordre des éléments : 'Il faut manger pour vivre et non vivre pour manger.'"
+  },
+  {
+    "question": "37 - Quelle figure consiste à anticiper un événement futur dans le récit ?",
+    "options": [
+      "Prolepse",
+      "Ellipse",
+      "Flashback",
+      "Euphémisme"
+    ],
+    "answerIndex": 0,
+    "explication": "La prolepse annonce à l’avance un événement à venir. Elle crée une tension narrative ou dramatique."
+  },
+  {
+    "question": "38 - La prétérition consiste à :",
+    "options": [
+      "Dire qu’on ne va pas parler de quelque chose tout en le disant",
+      "Exagérer volontairement",
+      "Atténuer une idée",
+      "Faire une interruption brutale"
+    ],
+    "answerIndex": 0,
+    "explication": "La prétérition souligne ironiquement un point tout en feignant de le taire : 'Je ne mentionnerai pas ses défauts…'"
+  },
+  {
+    "question": "39 - Quelle figure exprime une inversion de deux termes ?",
+    "options": [
+      "Antithèse",
+      "Chiasme",
+      "Hypallage",
+      "Antanaclase"
+    ],
+    "answerIndex": 2,
+    "explication": "L’hypallage déplace un adjectif d’un mot à un autre, créant un effet poétique : 'Un pas rêveur sur un sentier solitaire.'"
+  },
+  {
+    "question": "40 - La syllepse joue sur :",
+    "options": [
+      "Le double sens d’un mot (propre et figuré)",
+      "Le son des mots",
+      "L’absence de verbe",
+      "Le mélange des registres"
+    ],
+    "answerIndex": 0,
+    "explication": "La syllepse emploie un mot à la fois dans son sens concret et figuré. Exemple : 'Les Indiens sont nus parce que Colomb les a découverts.' (Hugo)."
+  },
+  {
+    "question": "41 - En versification, qu’est-ce qu’un alexandrin ?",
+    "options": [
+      "Un vers de 12 syllabes",
+      "Un vers de 10 syllabes",
+      "Un vers de 8 syllabes",
+      "Un vers de 6 syllabes"
+    ],
+    "answerIndex": 0,
+    "explication": "L’alexandrin est le vers classique de 12 syllabes, souvent divisé par une césure en deux hémistiches de 6 syllabes."
+  },
+  {
+    "question": "42 - Qu’est-ce qu’une césure ?",
+    "options": [
+      "Une pause rythmique qui divise le vers en deux hémistiches",
+      "Un accent tonique final",
+      "Une répétition de sons",
+      "Un enjambement"
+    ],
+    "answerIndex": 0,
+    "explication": "La césure divise un vers long (souvent l’alexandrin) en deux parties équilibrées, marquant une respiration rythmique."
+  },
+  {
+    "question": "43 - Quelle est la différence entre assonance et rime ?",
+    "options": [
+      "L’assonance répète les voyelles, la rime répète les sons à la fin des vers",
+      "Il n’y a aucune différence",
+      "La rime se trouve en milieu de vers",
+      "L’assonance ne s’emploie qu’en prose"
+    ],
+    "answerIndex": 0,
+    "explication": "L’assonance répète les voyelles n’importe où, tandis que la rime est une répétition de sons en fin de vers."
+  },
+  {
+    "question": "44 - Quelle structure rimique correspond à des rimes croisées ?",
+    "options": [
+      "AABB",
+      "ABAB",
+      "ABBA",
+      "AAAA"
+    ],
+    "answerIndex": 1,
+    "explication": "Les rimes croisées suivent le schéma ABAB, alternant les sons d’un vers à l’autre."
+  },
+  {
+    "question": "45 - Quelle structure rimique correspond à des rimes embrassées ?",
+    "options": [
+      "AABB",
+      "ABAB",
+      "ABBA",
+      "AAAA"
+    ],
+    "answerIndex": 2,
+    "explication": "Les rimes embrassées encadrent le couple central : ABBA."
+  },
+  {
+    "question": "46 - Qu’est-ce qu’un enjambement ?",
+    "options": [
+      "Le fait qu’une phrase continue sur le vers suivant sans pause",
+      "Une répétition de sons",
+      "Un changement de rime",
+      "Une rime interne"
+    ],
+    "answerIndex": 0,
+    "explication": "L’enjambement fait déborder la phrase sur le vers suivant, rompant le rythme régulier et attirant l’attention sur le mot déplacé."
+  },
+  {
+    "question": "47 - Quelle est la différence entre rejet et contre-rejet ?",
+    "options": [
+      "Le rejet met en valeur le début du vers suivant, le contre-rejet la fin du vers précédent",
+      "Ce sont des synonymes",
+      "Le rejet est plus long",
+      "Le contre-rejet n’existe qu’en prose"
+    ],
+    "answerIndex": 0,
+    "explication": "Le rejet prolonge la phrase sur le vers suivant, tandis que le contre-rejet commence une phrase avant la rime et la continue après."
+  },
+  {
+    "question": "48 - Que désigne le 'e muet' en poésie ?",
+    "options": [
+      "Une syllabe parfois comptée, parfois non selon sa position",
+      "Une rime obligatoire",
+      "Une voyelle accentuée",
+      "Une césure marquée"
+    ],
+    "answerIndex": 0,
+    "explication": "Le 'e muet' compte comme une syllabe devant une consonne mais pas en fin de vers ni devant une voyelle."
+  },
+  {
+    "question": "49 - Que signifie le mot 'strophe' ?",
+    "options": [
+      "Un ensemble de vers formant une unité",
+      "Un vers isolé",
+      "Une rime répétée",
+      "Une figure de style"
+    ],
+    "answerIndex": 0,
+    "explication": "Une strophe regroupe plusieurs vers formant un ensemble cohérent. Exemples : quatrain (4 vers), tercet (3 vers)."
+  },
+  {
+    "question": "50 - Qu’est-ce qu’un hiatus ?",
+    "options": [
+      "La rencontre de deux voyelles prononcées distinctement",
+      "Une répétition de rimes",
+      "Une coupure métrique",
+      "Un vers trop court"
+    ],
+    "answerIndex": 0,
+    "explication": "Le hiatus est le contact de deux voyelles entre deux mots ('il a été'), souvent évité dans la poésie classique."
+  }
+]

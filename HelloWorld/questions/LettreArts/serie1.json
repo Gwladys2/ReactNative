@@ -1,13 +1,302 @@
 [
   {
-    "question": "1 - à déterminer2",
-    "options": [
-      "La biologie des gènes",
-      "Le développement psychologique de l’enfant",
-      "La médecine générale",
-      "La linguistique"
-    ],
+    "question": "1 - Quel est le thème principal du cours « Littérature et peinture » ?",
+    "options": ["Les liens entre les arts visuels et la musique", "Les liens entre littérature et peinture", "L’histoire des peintres français", "La poésie moderne"],
     "answerIndex": 1,
-    "explication": "La psychologie du développement s'intéresse à l'évolution mentale, émotionnelle et comportementale de l'enfant, pas directement à la biologie des gènes."
+    "explication": "Le cours étudie comment littérature et peinture dialoguent, s’influencent et se distinguent dans leur manière de représenter le monde."
+  },
+  {
+    "question": "2 - Quel est le moyen d’expression de la littérature ?",
+    "options": ["Les sons", "Les images", "Les mots", "Les gestes"],
+    "answerIndex": 2,
+    "explication": "La littérature s’exprime à travers le langage écrit ou oral, donc par les mots."
+  },
+  {
+    "question": "3 - Quel est le moyen d’expression de la peinture ?",
+    "options": ["Les mots", "Les couleurs et les formes", "Les chiffres", "Les sons"],
+    "answerIndex": 1,
+    "explication": "La peinture s’exprime par des formes, des lignes et des couleurs visibles sur une surface."
+  },
+  {
+    "question": "4 - Quelle est la principale différence entre lire un texte et regarder un tableau ?",
+    "options": ["Le texte est instantané et la peinture est progressive", "Le texte se découvre dans le temps, la peinture d’un seul coup d’œil", "Le texte se regarde et la peinture se lit", "Aucune différence"],
+    "answerIndex": 1,
+    "explication": "Un texte se lit phrase après phrase, donc dans le temps, alors qu’un tableau se perçoit globalement en un instant."
+  },
+  {
+    "question": "5 - Selon Daniel Bergez, pourquoi la peinture paraît-elle plus immédiate ?",
+    "options": ["Parce qu’elle utilise des signes naturels", "Parce qu’elle demande une traduction", "Parce qu’elle dépend d’un code linguistique", "Parce qu’elle est abstraite"],
+    "answerIndex": 0,
+    "explication": "La peinture imite visuellement le réel, donc son langage est naturel et immédiatement compréhensible."
+  },
+  {
+    "question": "6 - Comment appelle-t-on le concept grec d’imitation artistique ?",
+    "options": ["Catharsis", "Poïésis", "Mimèsis", "Éthos"],
+    "answerIndex": 2,
+    "explication": "La mimèsis, chez Platon et Aristote, désigne l’imitation ou la représentation du réel par l’art."
+  },
+  {
+    "question": "7 - Pour Platon, l’art est-il une copie fidèle du réel ?",
+    "options": ["Oui, il révèle la vérité", "Non, il imite seulement les apparences", "Oui, mais de manière symbolique", "Il ne parle pas du tout d’art"],
+    "answerIndex": 1,
+    "explication": "Platon critique la peinture, car elle ne montre qu’une apparence du vrai, un simple reflet trompeur."
+  },
+  {
+    "question": "8 - Pour Aristote, quel est le rôle de la mimèsis ?",
+    "options": ["Copier la nature", "Créer une version plus belle ou plus juste du réel", "Supprimer la réalité", "Rejeter les émotions"],
+    "answerIndex": 1,
+    "explication": "Aristote voit l’imitation comme un acte créatif : l’artiste transforme la réalité pour la rendre plus signifiante."
+  },
+  {
+    "question": "9 - Que signifie la formule latine « Ut pictura poesis » d’Horace ?",
+    "options": ["La peinture est inutile", "La peinture est comme la poésie", "La poésie imite la sculpture", "Les arts sont inférieurs à la nature"],
+    "answerIndex": 1,
+    "explication": "Horace rapproche peinture et poésie : les deux représentent le monde, mais par des moyens différents."
+  },
+  {
+    "question": "10 - À la Renaissance, comment les artistes considèrent-ils la peinture ?",
+    "options": ["Comme un art mineur", "Comme une simple technique", "Comme un art aussi noble que la poésie", "Comme un divertissement"],
+    "answerIndex": 2,
+    "explication": "Grâce à Horace, la peinture est reconnue comme un art intellectuel et inventif, au même niveau que la littérature."
+  },
+  {
+    "question": "11 - Quel peintre est cité comme exemple d’art mythologique à la Renaissance ?",
+    "options": ["Delacroix", "Nicolas Poussin", "Claude Monet", "David Hockney"],
+    "answerIndex": 1,
+    "explication": "Nicolas Poussin illustre l’influence de la mythologie antique avec des œuvres comme Écho et Narcisse."
+  },
+  {
+    "question": "12 - Quelle est l’idée principale du philosophe Lessing dans « Laocoon » ?",
+    "options": ["Les arts doivent rester séparés", "Les arts doivent se mélanger", "La littérature imite la musique", "La peinture est supérieure à la poésie"],
+    "answerIndex": 0,
+    "explication": "Lessing distingue la peinture (espace, simultanéité) de la poésie (temps, succession), affirmant leurs limites respectives."
+  },
+  {
+    "question": "13 - Que représente la sculpture du Laocoon ?",
+    "options": ["Une scène mythologique grecque", "Un paysage romantique", "Une allégorie religieuse", "Une nature morte"],
+    "answerIndex": 0,
+    "explication": "Elle montre Laocoon et ses fils attaqués par des serpents, épisode tiré de l’Énéide de Virgile."
+  },
+  {
+    "question": "14 - Quelle période redonne une importance forte à l’émotion et à l’imagination ?",
+    "options": ["Le classicisme", "Le romantisme", "Le réalisme", "Le symbolisme"],
+    "answerIndex": 1,
+    "explication": "Le romantisme met en avant la subjectivité, la liberté et les sentiments plutôt que les règles classiques."
+  },
+  {
+    "question": "15 - Que signifie le mot « romantique » à l’origine ?",
+    "options": ["Ce qui vient de Rome", "Ce qui rappelle les romans, donc ce qui fait rêver", "Ce qui est rationnel", "Ce qui est scientifique"],
+    "answerIndex": 1,
+    "explication": "Le mot vient du mot anglais 'romantic', qui désigne d’abord ce qui évoque les histoires de roman, donc l’imaginaire."
+  },
+  {
+    "question": "16 - Quelle opposition se forme entre 'classique' et 'romantique' ?",
+    "options": ["Raison contre imagination", "Nature contre ville", "Musique contre silence", "Guerre contre paix"],
+    "answerIndex": 0,
+    "explication": "Le romantique valorise la passion et la liberté, tandis que le classique privilégie la règle et la raison."
+  },
+  {
+    "question": "17 - Qui est Eugène Delacroix ?",
+    "options": ["Un poète romantique", "Un philosophe grec", "Un peintre romantique français", "Un romancier naturaliste"],
+    "answerIndex": 2,
+    "explication": "Delacroix est un grand peintre romantique français, inspiré par la littérature et les émotions fortes."
+  },
+  {
+    "question": "18 - Quelle œuvre de Delacroix s’inspire de Walter Scott ?",
+    "options": ["La Barque de Don Juan", "Rebecca et Ivanhoé blessé", "La Liberté guidant le peuple", "Les Massacres de Scio"],
+    "answerIndex": 1,
+    "explication": "Delacroix peint Rebecca et Ivanhoé blessé d’après le roman 'Ivanhoé' de Walter Scott."
+  },
+  {
+    "question": "19 - Quelle œuvre de Delacroix s’inspire de Byron ?",
+    "options": ["La Barque de Don Juan", "Dante et Virgile aux enfers", "Écho et Narcisse", "Les Demoiselles d’Avignon"],
+    "answerIndex": 0,
+    "explication": "Delacroix s’inspire du poème de Byron pour peindre La Barque de Don Juan."
+  },
+  {
+    "question": "20 - Que décrit Théophile Gautier dans son Histoire du romantisme ?",
+    "options": ["Une rivalité entre poètes et peintres", "Une époque d’échanges et d’enthousiasme entre les arts", "Un déclin des arts visuels", "Une période classique"],
+    "answerIndex": 1,
+    "explication": "Gautier montre l’effervescence romantique : poètes et peintres s’inspirent mutuellement dans un élan collectif."
+  },
+  {
+    "question": "21 - Qu’était le Salon de l’Arsenal de Charles Nodier ?",
+    "options": ["Un musée de peinture", "Un lieu de rencontre entre artistes et écrivains", "Une école d’art officielle", "Un journal romantique"],
+    "answerIndex": 1,
+    "explication": "Ce salon rassemblait peintres, poètes et musiciens dans un esprit de collaboration artistique."
+  },
+  {
+    "question": "22 - Qu’est-ce qu’un 'album amicorum' au XIXe siècle ?",
+    "options": ["Un album de musique", "Un carnet d’amitié mêlant dessins et poèmes", "Un recueil de critique d’art", "Un roman collectif"],
+    "answerIndex": 1,
+    "explication": "L’album amicorum réunissait textes et croquis d’artistes amis, symbole concret de la fraternité des arts."
+  },
+  {
+    "question": "23 - Que devient la figure de l’artiste au XIXe siècle ?",
+    "options": ["Un simple artisan", "Un génie inspiré et tourmenté", "Un travailleur anonyme", "Un imitateur"],
+    "answerIndex": 1,
+    "explication": "L’artiste romantique est vu comme un être exceptionnel, inspiré, parfois incompris et souffrant."
+  },
+  {
+    "question": "24 - Quel est le thème central du « Chef-d’œuvre inconnu » de Balzac ?",
+    "options": ["La réussite sociale", "La jalousie amoureuse", "La quête impossible de la perfection artistique", "L’apprentissage de la peinture"],
+    "answerIndex": 2,
+    "explication": "Balzac illustre la folie de l’artiste qui cherche à créer la beauté absolue au point de tout détruire."
+  },
+  {
+    "question": "25 - Comment se termine l’histoire du 'Chef-d’œuvre inconnu' ?",
+    "options": ["L’œuvre est admirée par tous", "Le peintre abandonne", "L’œuvre devient incompréhensible sauf un pied parfait", "Le tableau est volé"],
+    "answerIndex": 2,
+    "explication": "Frenhofer crée un tableau incompréhensible, sauf un fragment parfait : symbole du mystère de la création."
+  },
+  {
+    "question": "26 - Que symbolise le personnage de Frenhofer ?",
+    "options": ["Le peintre raté", "Le génie dévoré par sa passion", "Un critique d’art", "Un collectionneur"],
+    "answerIndex": 1,
+    "explication": "Frenhofer incarne le créateur absolu, prêt à se perdre pour atteindre la perfection artistique."
+  },
+  {
+    "question": "27 - Quelle idée Nathalie Heinich développe à propos de l’artiste moderne ?",
+    "options": ["Il travaille pour l’argent", "Il voit son art comme une mission sacrée", "Il se détache du monde", "Il n’a plus d’inspiration"],
+    "answerIndex": 1,
+    "explication": "Elle parle de « régime vocationnel » : l’artiste agit par passion et voit l’art comme une vocation presque religieuse."
+  },
+  {
+    "question": "28 - Quelle phrase de Bernard Vouilloux résume le tournant du XIXe siècle ?",
+    "options": ["La littérature devient un art visuel", "La peinture imite le théâtre", "La poésie rejette la musique", "La littérature domine tous les arts"],
+    "answerIndex": 0,
+    "explication": "Selon Vouilloux, la littérature adopte des procédés visuels : écrire revient à peindre avec des mots."
+  },
+  {
+    "question": "29 - Quelle phrase célèbre résume la fusion romantique des arts ?",
+    "options": ["Ut pictura poesis", "Cogito ergo sum", "Carpe diem", "Ars longa vita brevis"],
+    "answerIndex": 0,
+    "explication": "La formule 'Ut pictura poesis' illustre le parallèle entre poésie et peinture, idée reprise par les romantiques."
+  },
+  {
+    "question": "30 - Que valorisent les artistes romantiques ?",
+    "options": ["La raison", "La règle", "L’émotion et l’imagination", "La géométrie"],
+    "answerIndex": 2,
+    "explication": "Les romantiques veulent exprimer leurs sentiments et leur vision personnelle, en liberté."
+  },
+  {
+    "question": "31 - Quelle faculté la peinture sollicite-t-elle surtout ?",
+    "options": ["L’ouïe", "La vue", "La mémoire", "La logique"],
+    "answerIndex": 1,
+    "explication": "La peinture s’adresse directement à la perception visuelle : elle se regarde avant de se comprendre."
+  },
+  {
+    "question": "32 - Quelle faculté la littérature sollicite-t-elle surtout ?",
+    "options": ["L’esprit et la réflexion", "Le toucher", "La mémoire visuelle", "L’instinct"],
+    "answerIndex": 0,
+    "explication": "La lecture demande un effort de compréhension et d’imagination, elle sollicite surtout la pensée."
+  },
+  {
+    "question": "33 - Pourquoi dit-on que le langage de la peinture est 'naturel' ?",
+    "options": ["Parce qu’il ne demande pas de traduction", "Parce qu’il est abstrait", "Parce qu’il est toujours religieux", "Parce qu’il dépend des mots"],
+    "answerIndex": 0,
+    "explication": "Les formes et couleurs sont universelles : elles imitent directement la réalité, sans code linguistique."
+  },
+  {
+    "question": "34 - Pourquoi le langage de la littérature est-il 'arbitraire' ?",
+    "options": ["Parce qu’il n’a aucun sens", "Parce qu’il utilise des signes que seule la langue rend compréhensibles", "Parce qu’il est simple", "Parce qu’il ne représente rien"],
+    "answerIndex": 1,
+    "explication": "Les mots n’ont pas de lien direct avec ce qu’ils désignent : leur sens dépend d’un code linguistique appris."
+  },
+  {
+    "question": "35 - Que veut dire le mot 'mimèsis' en grec ?",
+    "options": ["Création", "Imitation", "Écriture", "Perception"],
+    "answerIndex": 1,
+    "explication": "Le mot 'mimèsis' signifie imitation. Il désigne la capacité de l’art à reproduire le monde."
+  },
+  {
+    "question": "36 - Quelle est la différence entre la vision de Platon et celle d’Aristote sur l’art ?",
+    "options": ["Platon valorise l’art, Aristote le rejette", "Platon le rejette, Aristote le valorise", "Les deux pensent que l’art ne sert à rien", "Ils pensent la même chose"],
+    "answerIndex": 1,
+    "explication": "Platon critique l’art car il trompe, Aristote le défend comme une imitation utile et créatrice."
+  },
+  {
+    "question": "37 - Comment Lessing différencie-t-il peinture et poésie ?",
+    "options": ["La peinture agit dans le temps, la poésie dans l’espace", "La peinture agit dans l’espace, la poésie dans le temps", "Elles sont identiques", "Il ne les différencie pas"],
+    "answerIndex": 1,
+    "explication": "Lessing explique que la peinture montre ce qui est visible en même temps, la poésie raconte ce qui se déroule dans le temps."
+  },
+  {
+    "question": "38 - Quel lien existe entre Dante et Delacroix ?",
+    "options": ["Delacroix a illustré Dante", "Dante a peint Delacroix", "Ils ont collaboré ensemble", "Aucun lien"],
+    "answerIndex": 0,
+    "explication": "Delacroix peint 'Dante et Virgile aux Enfers', inspiré d’un passage de 'L’Enfer' de Dante."
+  },
+  {
+    "question": "39 - Quelle émotion le romantisme cherche-t-il avant tout à exprimer ?",
+    "options": ["L’ennui", "La logique", "La passion et l’émotion", "La raison"],
+    "answerIndex": 2,
+    "explication": "Le romantisme valorise les émotions fortes, les rêves, l’imagination et la sensibilité."
+  },
+  {
+    "question": "40 - Quelle place occupe la nature dans la peinture romantique ?",
+    "options": ["Aucune", "Elle est absente", "Elle devient symbole d’émotions intérieures", "Elle est traitée comme un simple décor"],
+    "answerIndex": 2,
+    "explication": "Chez les romantiques, la nature reflète l’âme et les émotions humaines : elle est vivante et spirituelle."
+  },
+  {
+    "question": "41 - Que veut dire l’expression « poésie muette » ?",
+    "options": ["Une poésie sans mots", "Une peinture qui exprime comme la poésie", "Une musique sans son", "Une poésie inachevée"],
+    "answerIndex": 1,
+    "explication": "À la Renaissance, on dit que la peinture est une 'poésie muette', car elle transmet des émotions sans langage."
+  },
+  {
+    "question": "42 - Que veut dire l’expression « peinture parlante » ?",
+    "options": ["Une peinture sonore", "Une poésie qui évoque des images visuelles", "Une sculpture colorée", "Une peinture interactive"],
+    "answerIndex": 1,
+    "explication": "La poésie est comparée à une peinture 'parlante' : elle fait naître des images dans l’esprit du lecteur."
+  },
+  {
+    "question": "43 - Que représente le « pied parfait » dans 'Le Chef-d’œuvre inconnu' ?",
+    "options": ["Le raté de l’artiste", "La beauté absolue atteinte partiellement", "Une erreur du peintre", "Un détail sans importance"],
+    "answerIndex": 1,
+    "explication": "Le pied symbolise le fragment de perfection : ce que l’artiste a réussi avant d’aller trop loin."
+  },
+  {
+    "question": "44 - Quelle idée générale se dégage du 'Chef-d’œuvre inconnu' ?",
+    "options": ["L’art est une affaire d’argent", "L’art absolu est inaccessible", "La technique suffit à créer la beauté", "La perfection est facile à atteindre"],
+    "answerIndex": 1,
+    "explication": "Balzac montre que la quête de perfection détruit l’œuvre : l’art parfait est un idéal impossible."
+  },
+  {
+    "question": "45 - Selon Bernard Vouilloux, que devient la littérature au XIXe siècle ?",
+    "options": ["Elle s’inspire de la peinture", "Elle devient scientifique", "Elle rejette l’image", "Elle abandonne les émotions"],
+    "answerIndex": 0,
+    "explication": "Vouilloux parle d’un 'tournant artiste' : la littérature emprunte à la peinture ses manières de voir et de décrire."
+  },
+  {
+    "question": "46 - Que critique Edmond de Goncourt à propos du métier d’écrivain ?",
+    "options": ["Sa facilité", "Sa douleur intellectuelle par rapport au plaisir du peintre", "Son manque de créativité", "Son aspect manuel"],
+    "answerIndex": 1,
+    "explication": "Goncourt envierait la peinture, art du geste et du plaisir, alors que l’écriture est un travail de l’esprit et de la souffrance."
+  },
+  {
+    "question": "47 - Quelle est la différence entre peinture et littérature selon Lessing ?",
+    "options": ["L’une utilise des sons, l’autre des couleurs", "L’une agit dans l’espace, l’autre dans le temps", "Elles ne diffèrent pas", "La littérature est supérieure"],
+    "answerIndex": 1,
+    "explication": "Lessing distingue clairement les domaines : la peinture est spatiale, la littérature temporelle."
+  },
+  {
+    "question": "48 - Quelle idée unit les artistes romantiques ?",
+    "options": ["L’art doit être collectif et inspiré", "L’art doit être industriel", "L’art doit imiter la nature", "L’art doit respecter les règles classiques"],
+    "answerIndex": 0,
+    "explication": "Les romantiques croient à une fraternité des arts : tous doivent exprimer l’inspiration et l’émotion."
+  },
+  {
+    "question": "49 - Que cherche l’artiste romantique à atteindre ?",
+    "options": ["La richesse", "La gloire politique", "L’absolu et l’infini", "Le réalisme exact"],
+    "answerIndex": 2,
+    "explication": "L’artiste romantique vise une beauté totale, un idéal souvent inatteignable, d’où sa souffrance créatrice."
+  },
+  {
+    "question": "50 - Quelle est la phrase qui résume le mieux l’ensemble du cours ?",
+    "options": ["La peinture et la littérature s’ignorent", "La littérature devient visuelle et la peinture devient poétique", "Les deux arts se séparent définitivement", "La littérature domine la peinture"],
+    "answerIndex": 1,
+    "explication": "Le cours montre comment, à travers l’histoire, la littérature et la peinture se rapprochent jusqu’à se nourrir mutuellement."
   }
 ]

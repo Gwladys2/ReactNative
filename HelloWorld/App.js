@@ -24,6 +24,9 @@ import SystResMenu from './screens/SystResMenu';
 import PsychoEducation from './screens/PsychoEducation';
 import PhiloEducation from './screens/PhiloEducation';
 import LettresArts from './screens/LettresArts';
+import LettresArts2 from './screens/LettresArts2';
+import LettresArts3 from './screens/LettresArts3';
+import LettresArts4 from './screens/LettresArts4';
 import PsychoEducation2 from './screens/PsychoEducation2';
 import PsychoEducation3 from './screens/PsychoEducation3';
 import PsychoEducation4 from './screens/PsychoEducation4';
@@ -57,6 +60,9 @@ export default function App() {
               <Stack.Screen name="PsychoEducation4" component={PsychoEducation4} />
               <Stack.Screen name="PhiloEducation" component={PhiloEducation} />
               <Stack.Screen name="LettresArts" component={LettresArts} />
+              <Stack.Screen name="LettresArts2" component={LettresArts2} />
+              <Stack.Screen name="LettresArts3" component={LettresArts3} />
+              <Stack.Screen name="LettresArts4" component={LettresArts4} />
               <Stack.Screen name="Home" component={HomeScreen} />
               <Stack.Screen name="HTML 1" component={LessonScreen} />
               <Stack.Screen name="Accueil" component={Accueil} />

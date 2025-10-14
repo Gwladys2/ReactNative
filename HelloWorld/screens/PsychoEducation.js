@@ -78,10 +78,10 @@ export default function LessonScreen({ navigation }) {
                 </>
             )}
              <View style={styles.linkContainer}>
-             <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation')}> 🚀 niveau 1</Text>
-           <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation2')}> 🚀 niveau 2</Text>
-            <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation3')}> 🚀 niveau 3</Text>
-             <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation4')}> 🚀 niveau 4</Text>
+             <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation')}> 🚀 Repères historiques</Text>
+           <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation2')}> 🚀 Les 1ères siences psychologiques</Text>
+            <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation3')}> 🚀 La théorie freudienne part1</Text>
+             <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation4')}> 🚀 La théorie freudienne part2</Text>
             </View>
 
         </View>
