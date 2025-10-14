@@ -13,20 +13,20 @@
   },
   {
     "question": "3 - Quel concours Freinet réussit en 1912 ?",
-    "options": ["L’agrégation", "Le CAPES", "L’entrée à l’école normale d’instituteurs", "L’ENA"],
-    "answerIndex": 2,
+    "options": ["L’agrégation", "Le CAPES", "L’ENA", "L’entrée à l’école normale d’instituteurs"],
+    "answerIndex": 3,
     "explication": "À 16 ans, il réussit le concours pour devenir instituteur."
   },
   {
     "question": "4 - Quelle expérience marqua profondément Freinet pendant sa jeunesse ?",
-    "options": ["Un exil forcé", "La Première Guerre mondiale", "La Révolution de 1917", "La Seconde Guerre mondiale"],
-    "answerIndex": 1,
+    "options": ["Un exil forcé", "La Révolution de 1917", "La Seconde Guerre mondiale", "La Première Guerre mondiale"],
+    "answerIndex": 3,
     "explication": "Blessé à la guerre, il reste mutilé à 70 %, ce qui influencera sa pédagogie."
   },
   {
     "question": "5 - Quelle conséquence eut sa blessure de guerre ?",
-    "options": ["Une cécité", "Une mutilation de 70 %", "Une surdité", "Une paralysie totale"],
-    "answerIndex": 1,
+    "options": ["Une cécité", "Une surdité",  "Une mutilation de 70 %","Une paralysie totale"],
+    "answerIndex": 2,
     "explication": "Il souffrait de difficultés respiratoires et d’un handicap permanent (70 %)."
   },
   {
@@ -37,14 +37,14 @@
   },
   {
     "question": "7 - Quelle fut sa première grande innovation pédagogique ?",
-    "options": ["L’ordinateur en classe", "L’imprimerie scolaire", "Les tablettes numériques", "L’enseignement à distance"],
-    "answerIndex": 1,
+    "options": ["L’ordinateur en classe", "Les tablettes numériques", "L’enseignement à distance", "L’imprimerie scolaire"],
+    "answerIndex": 3,
     "explication": "Dès 1924, il introduit une imprimerie dans sa classe pour donner sens à l’écrit."
   },
   {
     "question": "8 - Quelle affaire obligea Freinet à quitter l’Éducation nationale en 1933 ?",
-    "options": ["L’affaire de Vichy", "L’affaire de Saint-Paul de Vence", "L’affaire Dreyfus", "L’affaire du Front populaire"],
-    "answerIndex": 1,
+    "options": ["L’affaire de Vichy", "L’affaire Dreyfus", "L’affaire de Saint-Paul de Vence", "L’affaire du Front populaire"],
+    "answerIndex": 2,
     "explication": "Contesté pour ses méthodes innovantes, il quitte l’école publique et fonde sa propre école à Vence."
   },
   {
@@ -55,8 +55,8 @@
   },
   {
     "question": "10 - Quand est mort Célestin Freinet ?",
-    "options": ["1956", "1966", "1976", "1986"],
-    "answerIndex": 1,
+    "options": ["1956", "1976", "1986", "1966"],
+    "answerIndex": 3,
     "explication": "Il est décédé en 1966, laissant un héritage encore très présent dans les pédagogies alternatives."
   },
   {
@@ -67,14 +67,14 @@
   },
   {
     "question": "12 - Quelle métaphore célèbre Freinet utilise-t-il pour critiquer une pédagogie déconnectée des besoins des enfants ?",
-    "options": ["La poule qui pond sans grain", "Le cheval qui n’a pas soif", "L’arbre sans racines", "Le navire sans capitaine"],
-    "answerIndex": 1,
+    "options": ["La poule qui pond sans grain" ,"L’arbre sans racines", "Le cheval qui n’a pas soif", "Le navire sans capitaine"],
+    "answerIndex": 2,
     "explication": "Il reprochait à l’école traditionnelle d’enseigner des savoirs sans sens, comme donner à boire à un cheval qui n’a pas soif."
   },
   {
     "question": "13 - Comment Freinet conçoit-il l’acquisition des connaissances ?",
-    "options": ["Par répétition mécanique", "Par le tâtonnement expérimental", "Par simple mémorisation", "Par transmission magistrale"],
-    "answerIndex": 1,
+    "options": ["Par répétition mécanique", "Par simple mémorisation", "Par transmission magistrale", "Par le tâtonnement expérimental"],
+    "answerIndex": 3,
     "explication": "Les enfants apprennent par essais, erreurs, hypothèses et vérifications, avec l’aide de l’enseignant."
   },
   {
@@ -97,8 +97,8 @@
   },
   {
     "question": "17 - Quelle invention pédagogique de Freinet donne un sens concret à l’écrit ?",
-    "options": ["Le tableau noir", "L’imprimerie scolaire", "Les fiches de lecture", "Le cahier de textes"],
-    "answerIndex": 1,
+    "options": ["L’imprimerie scolaire","Le tableau noir",  "Les fiches de lecture", "Le cahier de textes"],
+    "answerIndex": 0,
     "explication": "L’imprimerie permet aux élèves de produire, reproduire et diffuser leurs écrits."
   },
   {
@@ -115,8 +115,8 @@
   },
   {
     "question": "20 - Quelle revue pédagogique Freinet a-t-il créée ?",
-    "options": ["Le Monde de l’Éducation", "La Nouvelle Revue Pédagogique", "La Bibliothèque de Travail (BT)", "L’Éducation nationale"],
-    "answerIndex": 2,
+    "options": ["Le Monde de l’Éducation", "La Nouvelle Revue Pédagogique", "L’Éducation nationale", "La Bibliothèque de Travail (BT)"],
+    "answerIndex": 3,
     "explication": "La BT fournissait aux enfants des textes adaptés à leur niveau et liés à leurs intérêts."
   },
   {
@@ -127,8 +127,8 @@
   },
   {
     "question": "22 - Pourquoi l’imprimerie scolaire est-elle centrale dans la pédagogie Freinet ?",
-    "options": ["Parce qu’elle remplaçait le tableau noir", "Parce qu’elle donnait un sens concret à l’écriture", "Parce qu’elle était imposée par l’administration", "Parce qu’elle rendait la classe plus silencieuse"],
-    "answerIndex": 1,
+    "options": ["Parce qu’elle remplaçait le tableau noir", "Parce qu’elle était imposée par l’administration", "Parce qu’elle rendait la classe plus silencieuse", "Parce qu’elle donnait un sens concret à l’écriture"],
+    "answerIndex": 3,
     "explication": "Elle permet de produire, reproduire et diffuser des textes écrits par les élèves."
   },
   {
@@ -145,14 +145,14 @@
   },
   {
     "question": "25 - Quelle est la particularité de la « Bibliothèque de Travail » (BT) ?",
-    "options": ["C’est une bibliothèque classique de littérature", "C’est une revue produite pour les enfants", "C’est une méthode de mathématiques", "C’est un manuel officiel de l’État"],
-    "answerIndex": 1,
+    "options": ["C’est une revue produite pour les enfants","C’est une bibliothèque classique de littérature",  "C’est une méthode de mathématiques", "C’est un manuel officiel de l’État"],
+    "answerIndex": 0,
     "explication": "La BT propose des brochures adaptées au niveau des élèves et liées à leurs centres d’intérêt."
   },
   {
     "question": "26 - Les « démarches de découverte » consistent principalement à :",
-    "options": ["Rester en classe pour lire des manuels", "Sortir dans le milieu réel et observer", "Apprendre uniquement par mémoire", "Écouter le maître réciter des leçons"],
-    "answerIndex": 1,
+    "options": ["Rester en classe pour lire des manuels", "Apprendre uniquement par mémoire", "Écouter le maître réciter des leçons", "Sortir dans le milieu réel et observer"],
+    "answerIndex": 3,
     "explication": "Freinet encourage les sorties scolaires pour relier la classe à la vie quotidienne et à l’environnement."
   },
   {
@@ -169,26 +169,26 @@
   },
   {
     "question": "29 - Quels rôles peuvent tenir les élèves au sein du conseil de classe ?",
-    "options": ["Aucun, seul l’enseignant dirige", "Président, secrétaire, etc.", "Inspecteur et recteur", "Parent d’élève et surveillant"],
-    "answerIndex": 1,
+    "options": ["Aucun, seul l’enseignant dirige", "Inspecteur et recteur", "Parent d’élève et surveillant", "Président, secrétaire, etc."],
+    "answerIndex": 3,
     "explication": "Les élèves assument des responsabilités démocratiques comme président ou secrétaire du conseil."
   },
   {
     "question": "30 - En quoi le « tâtonnement expérimental » se distingue-t-il d’un simple essai-erreur ?",
-    "options": ["Il est anarchique et sans but", "Il est encadré par l’enseignant et mène à une vérification", "Il consiste uniquement à répéter des exercices", "Il exclut toute hypothèse des élèves"],
-    "answerIndex": 1,
+    "options": ["Il est encadré par l’enseignant et mène à une vérification","Il est anarchique et sans but",  "Il consiste uniquement à répéter des exercices", "Il exclut toute hypothèse des élèves"],
+    "answerIndex": 0,
     "explication": "Le tâtonnement expérimental est une méthode naturelle d’apprentissage, guidée par l’enseignant pour vérifier et construire des savoirs."
   },
   {
     "question": "31 - Quel est le but principal des démarches de découverte selon Freinet ?",
-    "options": ["Remplacer les manuels scolaires", "Relier les apprentissages à la vie réelle", "Supprimer les enseignants", "Former uniquement des scientifiques"],
-    "answerIndex": 1,
+    "options": ["Remplacer les manuels scolaires",  "Supprimer les enseignants", "Relier les apprentissages à la vie réelle","Former uniquement des scientifiques"],
+    "answerIndex": 2,
     "explication": "La démarche de découverte relie la classe à l’environnement naturel, humain et culturel."
   },
   {
     "question": "32 - Pourquoi Freinet insiste-t-il sur les liens entre école et environnement local ?",
-    "options": ["Pour réduire les coûts de l’école", "Pour donner du sens concret aux apprentissages", "Pour éviter les contrôles de l’inspection", "Pour occuper les élèves à l’extérieur"],
-    "answerIndex": 1,
+    "options": ["Pour réduire les coûts de l’école", "Pour éviter les contrôles de l’inspection", "Pour occuper les élèves à l’extérieur", "Pour donner du sens concret aux apprentissages"],
+    "answerIndex": 3,
     "explication": "Le savoir doit être ancré dans le vécu des enfants et leur milieu de vie."
   },
   {
@@ -211,8 +211,8 @@
   },
   {
     "question": "36 - Quel est le rôle de l’enseignant dans la pédagogie Freinet ?",
-    "options": ["Transmettre les savoirs magistralement", "Encadrer et aménager le milieu d’apprentissage", "Sanctionner les erreurs systématiquement", "Être le seul acteur de la classe"],
-    "answerIndex": 1,
+    "options": ["Transmettre les savoirs magistralement", "Sanctionner les erreurs systématiquement", "Être le seul acteur de la classe", "Encadrer et aménager le milieu d’apprentissage"],
+    "answerIndex": 3,
     "explication": "L’enseignant crée les conditions favorables pour que les élèves tâtonnent et apprennent activement."
   },
   {
@@ -235,44 +235,44 @@
   },
   {
     "question": "40 - Quel est l’objectif du plan de travail hebdomadaire ?",
-    "options": ["Uniformiser les tâches pour tous les élèves", "Permettre une personnalisation des apprentissages", "Supprimer les projets collectifs", "Imposer le rythme de l’enseignant"],
-    "answerIndex": 1,
+    "options": ["Uniformiser les tâches pour tous les élèves", "Supprimer les projets collectifs", "Imposer le rythme de l’enseignant", "Permettre une personnalisation des apprentissages"],
+    "answerIndex": 3,
     "explication": "Le plan de travail est co-construit selon les besoins et projets des enfants."
   },
   {
     "question": "41 - Quelle phrase illustre le mieux la vision de Freinet sur l’enfant ?",
-    "options": ["L’enfant est une page blanche à remplir", "L’enfant est un être actif qui apprend par expérience", "L’enfant doit se soumettre à la discipline", "L’enfant apprend uniquement par mémoire"],
-    "answerIndex": 1,
+    "options": ["L’enfant est une page blanche à remplir", "L’enfant doit se soumettre à la discipline",  "L’enfant est un être actif qui apprend par expérience","L’enfant apprend uniquement par mémoire"],
+    "answerIndex": 2,
     "explication": "Pour Freinet, l’enfant est acteur de ses apprentissages, pas passif."
   },
   {
     "question": "42 - Dans quelle pédagogie place-t-on aussi l’enfant au centre, comme chez Freinet ?",
-    "options": ["La pédagogie traditionnelle", "L’éducation nouvelle", "La pédagogie militaire", "L’enseignement religieux ancien"],
-    "answerIndex": 1,
+    "options": ["L’éducation nouvelle","La pédagogie traditionnelle",  "La pédagogie militaire", "L’enseignement religieux ancien"],
+    "answerIndex": 0,
     "explication": "Freinet partage avec Montessori, Decroly, etc., le principe d’une école centrée sur l’enfant."
   },
   {
     "question": "43 - Quel dispositif permet la participation démocratique des élèves dans la pédagogie Freinet ?",
-    "options": ["Les élections municipales", "Le conseil de classe Freinet", "Le bulletin scolaire", "Le cahier de textes"],
-    "answerIndex": 1,
+    "options": ["Les élections municipales", "Le bulletin scolaire", "Le cahier de textes", "Le conseil de classe Freinet"],
+    "answerIndex": 3,
     "explication": "Le conseil donne aux enfants une voix dans la gestion de leur classe."
   },
   {
     "question": "44 - En quoi la pédagogie Freinet se distingue-t-elle des simples « occupations » scolaires ?",
-    "options": ["Elle privilégie la contrainte", "Elle fait du travail une activité signifiante et créatrice", "Elle supprime les apprentissages fondamentaux", "Elle se contente de jeux libres"],
-    "answerIndex": 1,
+    "options": ["Elle privilégie la contrainte", "Elle supprime les apprentissages fondamentaux", "Elle fait du travail une activité signifiante et créatrice", "Elle se contente de jeux libres"],
+    "answerIndex": 2,
     "explication": "Le travail est une activité constructive, pas une besogne sans sens."
   },
   {
     "question": "45 - Quelle œuvre cinématographique illustre l’esprit de Freinet ?",
-    "options": ["Zéro de conduite (Vigo)", "L’école buissonnière (1949)", "Les Choristes", "Le Cercle des poètes disparus"],
-    "answerIndex": 1,
+    "options": ["L’école buissonnière (1949)","Zéro de conduite (Vigo)",  "Les Choristes", "Le Cercle des poètes disparus"],
+    "answerIndex": 0,
     "explication": "Le film de Jean-Paul Le Chanois montre une école ouverte et vivante, proche des idées de Freinet."
   },
   {
     "question": "46 - Quelle organisation internationale fut fondée en 1957 autour des idées de Freinet ?",
-    "options": ["UNESCO", "FIMEM (Fédération Internationale des Mouvements de l’École Moderne)", "ONU", "OCDE"],
-    "answerIndex": 1,
+    "options": ["UNESCO", "ONU", "OCDE", "FIMEM (Fédération Internationale des Mouvements de l’École Moderne)"],
+    "answerIndex": 3,
     "explication": "La FIMEM regroupe les mouvements Freinet à l’échelle internationale."
   },
   {
@@ -283,14 +283,14 @@
   },
   {
     "question": "48 - Quelle critique majeure fut adressée à Freinet à Saint-Paul de Vence en 1932-1933 ?",
-    "options": ["De ne pas enseigner assez les maths", "De pratiquer une pédagogie jugée trop novatrice et déstabilisante", "De donner trop de devoirs", "De favoriser uniquement les bons élèves"],
-    "answerIndex": 1,
+    "options": ["De ne pas enseigner assez les maths", "De donner trop de devoirs", "De pratiquer une pédagogie jugée trop novatrice et déstabilisante", "De favoriser uniquement les bons élèves"],
+    "answerIndex": 2,
     "explication": "Contesté pour ses méthodes innovantes, il quitta l’école publique et ouvrit sa propre école."
   },
   {
     "question": "49 - Quelle notion centrale relie la pédagogie Freinet à une vision émancipatrice de l’éducation ?",
-    "options": ["L’élitisme scolaire", "La coopération", "La compétition", "La hiérarchie"],
-    "answerIndex": 1,
+    "options": ["L’élitisme scolaire", "La compétition", "La hiérarchie", "La coopération"],
+    "answerIndex": 3,
     "explication": "Coopération, entraide et travail collectif sont au cœur de sa pédagogie."
   },
   {
@@ -301,14 +301,14 @@
   },
   {
     "question": "51 - Freinet insistait sur l’ouverture de l’école à la vie. Dans une classe d’aujourd’hui, quelle pratique refléterait le mieux ce principe ?",
-    "options": ["Lire uniquement le manuel scolaire", "Organiser une sortie pour étudier l’environnement local", "Faire réciter la leçon par cœur", "Multiplier les contrôles de connaissances"],
-    "answerIndex": 1,
+    "options": ["Lire uniquement le manuel scolaire", "Faire réciter la leçon par cœur", "Multiplier les contrôles de connaissances", "Organiser une sortie pour étudier l’environnement local"],
+    "answerIndex": 3,
     "explication": "L’école doit être en lien avec le milieu de vie des enfants, pas coupée de la réalité."
   },
   {
     "question": "52 - Le tâtonnement expérimental peut se rapprocher de quelle méthode actuelle ?",
-    "options": ["Les cours magistraux", "Les pédagogies par projet", "Les dictées quotidiennes", "Les fiches de révision à apprendre par cœur"],
-    "answerIndex": 1,
+    "options": ["Les pédagogies par projet","Les cours magistraux",  "Les dictées quotidiennes", "Les fiches de révision à apprendre par cœur"],
+    "answerIndex": 0,
     "explication": "Les projets permettent aux élèves de chercher, essayer, se tromper et vérifier, exactement comme le tâtonnement expérimental."
   },
   {
@@ -319,8 +319,8 @@
   },
   {
     "question": "54 - Quelle critique Freinet adresserait sans doute à l’école actuelle ?",
-    "options": ["Trop d’autonomie laissée aux élèves", "Trop d’évaluations standardisées", "Pas assez de manuels scolaires", "Trop de sorties éducatives"],
-    "answerIndex": 1,
+    "options": ["Trop d’autonomie laissée aux élèves", "Pas assez de manuels scolaires",  "Trop d’évaluations standardisées","Trop de sorties éducatives"],
+    "answerIndex": 2,
     "explication": "L’école actuelle reste marquée par une logique de tests et de notes, loin de l’esprit Freinet."
   },
   {
@@ -331,14 +331,14 @@
   },
   {
     "question": "56 - Dans une école urbaine d’aujourd’hui, quelle activité serait la plus fidèle à l’esprit de Freinet ?",
-    "options": ["Écrire un texte libre sur son quartier", "Répéter un poème imposé", "Faire un contrôle surprise", "Copier un extrait de manuel"],
-    "answerIndex": 0,
+    "options": [ "Répéter un poème imposé", "Faire un contrôle surprise", "Copier un extrait de manuel","Écrire un texte libre sur son quartier"],
+    "answerIndex": 3,
     "explication": "Le texte libre ancré dans le vécu relie apprentissage et environnement des enfants."
   },
   {
     "question": "57 - Quelle limite actuelle à l’application de la pédagogie Freinet pourrait-on relever ?",
-    "options": ["La surcharge des programmes officiels", "Le manque de manuels", "La discipline trop souple", "Le refus d’utiliser la technologie"],
-    "answerIndex": 0,
+    "options": [ "Le manque de manuels", "La discipline trop souple", "La surcharge des programmes officiels","Le refus d’utiliser la technologie"],
+    "answerIndex": 2,
     "explication": "Les enseignants doivent souvent « boucler le programme », ce qui laisse peu de place à l’expérimentation."
   },
   {
@@ -355,14 +355,14 @@
   },
   {
     "question": "60 - L’héritage le plus durable de Freinet pour l’école actuelle est :",
-    "options": ["La discipline militaire", "La centralité de l’enfant et de ses expériences", "Le retour aux savoirs classiques", "L’obéissance aveugle à l’autorité"],
-    "answerIndex": 1,
+    "options": ["La centralité de l’enfant et de ses expériences","La discipline militaire",  "Le retour aux savoirs classiques", "L’obéissance aveugle à l’autorité"],
+    "answerIndex": 0,
     "explication": "Sa pédagogie a marqué l’idée que l’enfant doit être acteur de ses apprentissages."
   },
   {
     "question": "61 - Quelle pratique scolaire risquerait le plus de ressembler à la « pédagogie du cheval qui n’a pas soif » selon Freinet ?",
-    "options": ["Demander aux élèves d’apprendre une leçon sans lien avec leur vécu", "Organiser un projet d’écriture sur leurs centres d’intérêt", "Faire une enquête dans le quartier", "Travailler en groupe sur une question choisie par les élèves"],
-    "answerIndex": 0,
+    "options": ["Organiser un projet d’écriture sur leurs centres d’intérêt", "Faire une enquête dans le quartier", "Travailler en groupe sur une question choisie par les élèves","Demander aux élèves d’apprendre une leçon sans lien avec leur vécu"],
+    "answerIndex": 3,
     "explication": "Freinet critique l’enseignement qui impose des savoirs sans sens pour l’enfant."
   },
   {
@@ -391,8 +391,8 @@
   },
   {
     "question": "66 - Quelle idée rapproche Freinet d’autres pédagogues comme Montessori ?",
-    "options": ["L’école centrée sur l’enfant", "L’autorité absolue du maître", "L’élitisme scolaire", "La compétition permanente"],
-    "answerIndex": 0,
+    "options": ["L’autorité absolue du maître","L’élitisme scolaire", "La compétition permanente", "L’école centrée sur l’enfant"],
+    "answerIndex": 3,
     "explication": "Tous deux appartiennent au mouvement de l’éducation nouvelle, centrée sur l’enfant."
   },
   {
@@ -403,14 +403,14 @@
   },
   {
     "question": "68 - Selon la logique de Freinet, quelle activité renforcerait le mieux l’autonomie des élèves ?",
-    "options": ["Un cours magistral de 2 heures", "La réalisation d’un projet choisi par le groupe", "Une série de dictées quotidiennes", "La lecture imposée d’un manuel"],
-    "answerIndex": 1,
+    "options": ["Un cours magistral de 2 heures", "Une série de dictées quotidiennes", "La lecture imposée d’un manuel", "La réalisation d’un projet choisi par le groupe"],
+    "answerIndex": 3,
     "explication": "L’autonomie se construit par la responsabilisation dans des projets."
   },
   {
     "question": "69 - Quelle critique Freinet adresserait probablement à certaines pratiques scolaires actuelles ?",
-    "options": ["Le manque de contrôle écrit", "La centration excessive sur les évaluations standardisées", "Le trop grand nombre de sorties", "L’utilisation du numérique"],
-    "answerIndex": 1,
+    "options": ["Le manque de contrôle écrit",  "Le trop grand nombre de sorties", "La centration excessive sur les évaluations standardisées","L’utilisation du numérique"],
+    "answerIndex": 2,
     "explication": "Il aurait dénoncé une école centrée sur la performance chiffrée au détriment du sens."
   },
   {
@@ -427,8 +427,8 @@
   },
   {
     "question": "72 - Quelle activité en classe correspond le mieux à la vision freinetienne de « l’éducation au travail » ?",
-    "options": ["Construire un jardin scolaire collectif", "Répéter des règles de grammaire par cœur", "Copier dix fois une définition", "Réviser uniquement pour le contrôle"],
-    "answerIndex": 0,
+    "options": ["Répéter des règles de grammaire par cœur", "Copier dix fois une définition", "Réviser uniquement pour le contrôle","Construire un jardin scolaire collectif"],
+    "answerIndex": 3,
     "explication": "Le travail est vu comme activité créatrice et porteuse de sens, pas comme besogne mécanique."
   },
   {

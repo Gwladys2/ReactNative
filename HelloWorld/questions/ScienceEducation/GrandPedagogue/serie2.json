@@ -97,8 +97,8 @@
   },
   {
     "question": "17 - Pourquoi parle-t-on d’un enseignant « équilibriste » chez Freinet ?",
-    "options": ["Parce qu’il travaille sans préparation", "Parce qu’il ajuste sans cesse entre cadre, autonomie et coopération", "Parce qu’il évite les conflits", "Parce qu’il est seul face à la classe"],
-    "answerIndex": 1,
+    "options": ["Parce qu’il travaille sans préparation", "Parce qu’il évite les conflits", "Parce qu’il est seul face à la classe", "Parce qu’il ajuste sans cesse entre cadre, autonomie et coopération"],
+    "answerIndex": 3,
     "explication": "Le maître doit constamment trouver l’équilibre entre liberté et discipline, entre collectif et individuel."
   },
   {
@@ -151,8 +151,8 @@
   },
   {
     "question": "26 - Pourquoi Freinet considère-t-il que l’échec scolaire est une question collective ?",
-    "options": ["Parce que tous les élèves doivent avoir la même note", "Parce que l’échec traduit souvent un problème d’organisation pédagogique", "Parce que les parents doivent être tenus responsables", "Parce que l’enfant n’aime pas l’école"],
-    "answerIndex": 1,
+    "options": ["Parce que tous les élèves doivent avoir la même note", "Parce que les parents doivent être tenus responsables", "Parce que l’échec traduit souvent un problème d’organisation pédagogique","Parce que l’enfant n’aime pas l’école"],
+    "answerIndex": 2,
     "explication": "Pour Freinet, l’échec est un signal que le cadre d’apprentissage doit être repensé, et non une faute de l’élève."
   },
   {
@@ -229,8 +229,8 @@
   },
   {
     "question": "39 - Comment l’école Freinet aborde-t-elle la question de la discipline ?",
-    "options": ["Par la discussion et la régulation collective","Par des punitions sévères",  "Par le silence imposé", "Par des exclusions fréquentes"],
-    "answerIndex": 0,
+    "options": ["Par des punitions sévères",  "Par le silence imposé", "Par des exclusions fréquentes","Par la discussion et la régulation collective"],
+    "answerIndex": 3,
     "explication": "Les conflits se règlent dans le dialogue et la coopération, afin de responsabiliser les élèves."
   },
   {
@@ -403,8 +403,8 @@
   },
   {
     "question": "68 - Quelle est la condition essentielle pour qu’une école Freinet fonctionne ?",
-    "options": ["Des enseignants formés et unis dans le projet coopératif", "Des élèves très disciplinés", "Un budget illimité", "Des classes à effectif réduit"],
-    "answerIndex": 0,
+    "options": [ "Des élèves très disciplinés", "Un budget illimité", "Des classes à effectif réduit","Des enseignants formés et unis dans le projet coopératif"],
+    "answerIndex": 3,
     "explication": "Le collectif enseignant doit partager les mêmes valeurs et s’engager dans une cohérence pédagogique commune."
   },
   {

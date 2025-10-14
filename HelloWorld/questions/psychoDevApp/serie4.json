@@ -241,8 +241,8 @@
   },
   {
     "question": "41 - Quelle est la conséquence d’un sevrage trop brutal selon Freud ?",
-    "options": ["Un développement cognitif accéléré", "Une angoisse de perte et de dépendance affective", "Une absence d’émotions", "Un renforcement du Surmoi"],
-    "answerIndex": 1,
+    "options": ["Un développement cognitif accéléré", "Une absence d’émotions", "Un renforcement du Surmoi", "Une angoisse de perte et de dépendance affective"],
+    "answerIndex": 3,
     "explication": "Un sevrage précoce ou mal vécu provoque une angoisse de perte et peut fixer la personnalité dans la dépendance affective."
   },
   {
@@ -259,8 +259,8 @@
   },
   {
     "question": "44 - Que permet la fonction 'holding' décrite par Winnicott ?",
-    "options": ["L’autonomie motrice", "Le maintien de la sécurité psychique de l’enfant", "La séparation immédiate", "L’éducation intellectuelle"],
-    "answerIndex": 1,
+    "options": ["L’autonomie motrice", "La séparation immédiate", "L’éducation intellectuelle", "Le maintien de la sécurité psychique de l’enfant"],
+    "answerIndex": 3,
     "explication": "Le holding (portage) assure au bébé un sentiment de continuité et de sécurité nécessaire à la constitution du Moi."
   },
   {
@@ -271,8 +271,8 @@
   },
   {
     "question": "46 - Quelle fonction exerce le ‘non’ à 18 mois selon Spitz ?",
-    "options": ["Une opposition affective", "Une affirmation du Moi et de la volonté propre", "Une angoisse de séparation", "Un rejet du lien social"],
-    "answerIndex": 1,
+    "options": ["Une opposition affective", "Une angoisse de séparation", "Une affirmation du Moi et de la volonté propre","Un rejet du lien social"],
+    "answerIndex": 2,
     "explication": "Le 'non' manifeste la conquête de l’autonomie et la différenciation du Moi face à l’autorité parentale."
   },
   {
@@ -295,8 +295,8 @@
   },
   {
     "question": "50 - Que symbolise la 'rétention' au stade anal ?",
-    "options": ["Le refus de donner et la maîtrise du pouvoir", "Le plaisir du contact", "L’amour parental", "Le déni de la loi"],
-    "answerIndex": 0,
+    "options": [ "Le plaisir du contact", "L’amour parental", "Le déni de la loi","Le refus de donner et la maîtrise du pouvoir"],
+    "answerIndex": 3,
     "explication": "La rétention symbolise la maîtrise, le contrôle et parfois le refus symbolique de donner à l’autre."
   },
   {
@@ -403,8 +403,8 @@
   },
   {
     "question": "68 - Quelle influence Freud a-t-il eue sur la psychiatrie infantile ?",
-    "options": ["Nulle", "Décisive, en introduisant la notion de conflit inconscient", "Minime", "Purement biologique"],
-    "answerIndex": 1,
+    "options": ["Décisive, en introduisant la notion de conflit inconscient","Nulle",  "Minime", "Purement biologique"],
+    "answerIndex": 0,
     "explication": "Freud a ouvert la voie à la psychiatrie infantile en considérant l’origine psychique des troubles."
   },
   {

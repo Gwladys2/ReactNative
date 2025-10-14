@@ -1,8 +1,8 @@
 [
   {
     "question": "1 - Quel est l’objet d’étude principal du béhaviorisme ?",
-    "options": ["Les rêves", "Les comportements observables", "L’inconscient", "La mémoire collective"],
-    "answerIndex": 1,
+    "options": ["Les rêves", "L’inconscient", "La mémoire collective", "Les comportements observables"],
+    "answerIndex": 3,
     "explication": "Le béhaviorisme se concentre sur les comportements mesurables et observables, en laissant de côté les processus internes comme l’inconscient."
   },
   {
@@ -13,8 +13,8 @@
   },
   {
     "question": "3 - Quelle méthode utilisait Freud pour accéder à l’inconscient ?",
-    "options": ["Le conditionnement", "L’introspection", "L’hypnose et l’interprétation des rêves", "Les tests de mémoire"],
-    "answerIndex": 2,
+    "options": ["L’hypnose et l’interprétation des rêves","Le conditionnement", "L’introspection",  "Les tests de mémoire"],
+    "answerIndex": 0,
     "explication": "Freud a utilisé l’hypnose, l’analyse des rêves et l’association libre pour explorer l’inconscient."
   },
   {
@@ -31,8 +31,8 @@
   },
   {
     "question": "6 - Quel auteur est associé au conditionnement classique ?",
-    "options": ["Freud", "Pavlov", "Skinner", "Janet"],
-    "answerIndex": 1,
+    "options": ["Freud", "Skinner", "Janet", "Pavlov"],
+    "answerIndex": 3,
     "explication": "Pavlov a montré avec son chien que l’on pouvait conditionner un réflexe par association (cloche + nourriture → salivation)."
   },
   {
@@ -61,8 +61,8 @@
   },
   {
     "question": "11 - Quelle expérience a marqué la Gestalt ?",
-    "options": ["Le chien de Pavlov", "Les illusions d’optique", "Le petit Albert", "L’analyse des rêves"],
-    "answerIndex": 1,
+    "options": ["Le chien de Pavlov", "Le petit Albert", "L’analyse des rêves", "Les illusions d’optique"],
+    "answerIndex": 3,
     "explication": "La Gestalt a étudié comment nous percevons des formes globales, par exemple à travers les illusions d’optique."
   },
   {
@@ -79,8 +79,8 @@
   },
   {
     "question": "14 - Quelle approche a influencé la psychologie clinique moderne ?",
-    "options": ["Béhaviorisme", "Gestalt", "Psychanalyse", "Psychologie cognitive"],
-    "answerIndex": 2,
+    "options": ["Psychanalyse", "Béhaviorisme", "Gestalt", "Psychologie cognitive"],
+    "answerIndex": 0,
     "explication": "La psychanalyse est à l’origine de nombreuses pratiques cliniques actuelles (écoute, thérapie)."
   },
   {
@@ -91,8 +91,8 @@
   },
   {
     "question": "16 - Qui parmi ces auteurs n’est pas lié à la psychanalyse ?",
-    "options": ["Freud", "Janet", "Skinner", "Jung"],
-    "answerIndex": 2,
+    "options": ["Freud", "Janet", "Jung", "Skinner"],
+    "answerIndex": 3,
     "explication": "Skinner appartient au béhaviorisme, pas à la psychanalyse."
   },
   {
@@ -121,8 +121,8 @@
   },
   {
     "question": "21 - Quel est le principe fondamental du béhaviorisme ?",
-    "options": ["Expliquer les rêves", "Analyser l’inconscient", "Expliquer le comportement par l’association stimulus-réponse", "Étudier la mémoire collective"],
-    "answerIndex": 2,
+    "options": ["Expliquer les rêves", "Analyser l’inconscient", "Étudier la mémoire collective","Expliquer le comportement par l’association stimulus-réponse"],
+    "answerIndex": 3,
     "explication": "Le béhaviorisme repose sur l’idée que le comportement est expliqué par l’association entre un stimulus et une réponse observable."
   },
   {
@@ -139,20 +139,20 @@
   },
   {
     "question": "24 - Qui est considéré comme le fondateur officiel du béhaviorisme ?",
-    "options": ["Skinner", "Watson", "Pavlov", "Wallon"],
-    "answerIndex": 1,
+    "options": ["Skinner", "Pavlov", "Wallon", "Watson"],
+    "answerIndex": 3,
     "explication": "Watson est le fondateur officiel du béhaviorisme avec son manifeste de 1913."
   },
   {
     "question": "25 - Quelle expérience Watson a-t-il menée en 1919 ?",
-    "options": ["Les stades psychosexuels", "Le petit Albert", "La zone proximale de développement", "La mémoire des singes"],
-    "answerIndex": 1,
+    "options": ["Les stades psychosexuels", "La zone proximale de développement",  "Le petit Albert", "La mémoire des singes"],
+    "answerIndex": 2,
     "explication": "Watson a conditionné la peur chez un bébé (Albert) en associant une souris blanche à un bruit violent."
   },
   {
     "question": "26 - Quelle idée défend Watson sur l’inné et l’acquis ?",
-    "options": ["Tout est inné", "L’inconscient est déterminant", "L’éducation et l’environnement façonnent l’individu", "La biologie détermine tout"],
-    "answerIndex": 2,
+    "options": ["L’éducation et l’environnement façonnent l’individu","Tout est inné", "L’inconscient est déterminant","La biologie détermine tout"],
+    "answerIndex": 0,
     "explication": "Watson croyait à la toute-puissance de l’éducation et de l’environnement, en rejetant l’inné."
   },
   {
@@ -181,8 +181,8 @@
   },
   {
     "question": "31 - Qu’est-ce qu’une punition positive ?",
-    "options": ["Ajouter quelque chose d’agréable", "Retirer quelque chose d’agréable", "Ajouter quelque chose de désagréable", "Retirer quelque chose de désagréable"],
-    "answerIndex": 2,
+    "options": ["Ajouter quelque chose de désagréable","Ajouter quelque chose d’agréable", "Retirer quelque chose d’agréable",  "Retirer quelque chose de désagréable"],
+    "answerIndex": 0,
     "explication": "La punition positive ajoute un élément désagréable, par exemple donner une sanction."
   },
   {
@@ -193,8 +193,8 @@
   },
   {
     "question": "33 - Quelle application pédagogique découle du béhaviorisme ?",
-    "options": ["Apprentissage par associations et renforcements", "Libre expression de l’élève", "Éducation centrée sur l’inconscient", "Développement par stades"],
-    "answerIndex": 0,
+    "options": ["Libre expression de l’élève", "Éducation centrée sur l’inconscient", "Développement par stades","Apprentissage par associations et renforcements"],
+    "answerIndex": 3,
     "explication": "Le béhaviorisme a inspiré une pédagogie basée sur la décomposition des tâches et des renforcements fréquents."
   },
   {
@@ -205,14 +205,14 @@
   },
   {
     "question": "35 - Quelle expérience illustre le conditionnement de la peur ?",
-    "options": ["Les chiens de Pavlov", "Le petit Albert", "Les expériences de Skinner avec les pigeons", "Les illusions d’optique"],
-    "answerIndex": 1,
+    "options": ["Les chiens de Pavlov",  "Les expériences de Skinner avec les pigeons","Le petit Albert", "Les illusions d’optique"],
+    "answerIndex": 2,
     "explication": "Watson a conditionné la peur chez le petit Albert en associant une souris blanche à un bruit violent."
   },
   {
     "question": "36 - Quel chercheur a utilisé des pigeons et des rats dans ses expériences ?",
-    "options": ["Freud", "Watson", "Skinner", "Pavlov"],
-    "answerIndex": 2,
+    "options": ["Skinner","Freud", "Watson",  "Pavlov"],
+    "answerIndex": 0,
     "explication": "Skinner a étudié le conditionnement opérant avec des pigeons et des rats dans sa « boîte de Skinner »."
   },
   {
@@ -223,8 +223,8 @@
   },
   {
     "question": "38 - Quelle est la différence entre punition et renforcement ?",
-    "options": ["La punition réduit le comportement, le renforcement l’augmente", "La punition augmente le comportement, le renforcement le réduit", "Les deux augmentent le comportement", "Les deux réduisent le comportement"],
-    "answerIndex": 0,
+    "options": ["La punition augmente le comportement, le renforcement le réduit", "Les deux augmentent le comportement", "Les deux réduisent le comportement","La punition réduit le comportement, le renforcement l’augmente"],
+    "answerIndex": 3,
     "explication": "Un renforcement (positif ou négatif) augmente la probabilité d’un comportement, tandis qu’une punition la diminue."
   },
   {
@@ -235,8 +235,8 @@
   },
   {
     "question": "40 - Quelle phrase résume le béhaviorisme en pédagogie ?",
-    "options": ["L’élève apprend en découvrant par lui-même", "L’élève apprend par conditionnement et renforcements", "L’élève apprend grâce à ses rêves", "L’élève apprend par intuition perceptive"],
-    "answerIndex": 1,
+    "options": ["L’élève apprend en découvrant par lui-même", "L’élève apprend grâce à ses rêves", "L’élève apprend par intuition perceptive", "L’élève apprend par conditionnement et renforcements"],
+    "answerIndex": 3,
     "explication": "Le béhaviorisme considère l’apprentissage comme une suite de conditionnements guidés par renforcements et punitions."
   },
    {
@@ -247,8 +247,8 @@
   },
   {
     "question": "42 - Qu’étudie la psychologie génétique ?",
-    "options": ["L’inconscient", "Les comportements observables", "L’évolution de la pensée et de l’intelligence chez l’enfant", "Les rêves"],
-    "answerIndex": 2,
+    "options": ["L’évolution de la pensée et de l’intelligence chez l’enfant","L’inconscient", "Les comportements observables", "Les rêves"],
+    "answerIndex": 0,
     "explication": "La psychologie génétique s’intéresse à la construction progressive de l’intelligence et des connaissances chez l’enfant."
   },
   {
@@ -265,8 +265,8 @@
   },
   {
     "question": "45 - Quelle est la grande acquisition du stade sensori-moteur ?",
-    "options": ["Le langage", "La conservation", "La permanence de l’objet", "La logique abstraite"],
-    "answerIndex": 2,
+    "options": ["Le langage", "La conservation",  "La logique abstraite","La permanence de l’objet"],
+    "answerIndex": 3,
     "explication": "Au stade sensori-moteur, l’enfant comprend que les objets existent même quand il ne les voit pas : c’est la permanence de l’objet."
   },
   {
@@ -277,14 +277,14 @@
   },
   {
     "question": "47 - Quelle limite caractérise le stade préopératoire ?",
-    "options": ["Égocentrisme intellectuel", "Absence de mémoire", "Absence d’imagination", "Logique formelle"],
-    "answerIndex": 0,
+    "options": ["Absence de mémoire", "Absence d’imagination","Égocentrisme intellectuel", "Logique formelle"],
+    "answerIndex": 2,
     "explication": "L’enfant préopératoire est centré sur son propre point de vue et a du mal à comprendre celui des autres."
   },
   {
     "question": "48 - Quel est le troisième stade du développement selon Piaget ?",
-    "options": ["Préopératoire", "Formel", "Opératoire concret", "Post-formel"],
-    "answerIndex": 2,
+    "options": ["Préopératoire", "Opératoire concret","Formel", "Post-formel"],
+    "answerIndex": 1,
     "explication": "Le stade opératoire concret (7-11 ans) correspond à l’apparition de la logique appliquée à des objets concrets."
   },
   {
@@ -295,20 +295,20 @@
   },
   {
     "question": "50 - Quel est le quatrième stade selon Piaget ?",
-    "options": ["Opératoire concret", "Formel", "Préopératoire", "Sensori-moteur"],
-    "answerIndex": 1,
+    "options": ["Opératoire concret", "Préopératoire", "Sensori-moteur", "Formel"],
+    "answerIndex": 3,
     "explication": "Le stade opératoire formel (à partir de 12 ans) correspond à la pensée abstraite et hypothético-déductive."
   },
   {
     "question": "51 - Quelle capacité apparaît au stade opératoire formel ?",
-    "options": ["La conservation", "La pensée hypothético-déductive", "Le langage symbolique", "La permanence de l’objet"],
-    "answerIndex": 1,
+    "options": ["La conservation", "Le langage symbolique","La pensée hypothético-déductive","La permanence de l’objet"],
+    "answerIndex": 2,
     "explication": "L’adolescent est capable de raisonner sur des hypothèses et d’utiliser la logique formelle."
   },
   {
     "question": "52 - Quel facteur d’évolution correspond à la maturation biologique de l’enfant ?",
-    "options": ["Expérience", "Maturation", "Socialisation", "Équilibration"],
-    "answerIndex": 1,
+    "options": [ "Maturation","Expérience", "Socialisation", "Équilibration"],
+    "answerIndex": 0,
     "explication": "La maturation désigne le développement biologique qui conditionne certaines acquisitions."
   },
   {
@@ -337,8 +337,8 @@
   },
   {
     "question": "57 - Quel est l’âge approximatif du stade préopératoire ?",
-    "options": ["0-2 ans", "2-7 ans", "7-11 ans", "12 ans et plus"],
-    "answerIndex": 1,
+    "options": ["2-7 ans", "7-11 ans", "12 ans et plus","0-2 ans"],
+    "answerIndex": 3,
     "explication": "Le stade préopératoire s’étend de 2 à 7 ans et marque l’explosion du langage et de l’imaginaire."
   },
   {
@@ -361,14 +361,14 @@
   },
   {
     "question": "61 - Quel est le principe central de la Gestalt ?",
-    "options": ["Le tout est plus que la somme des parties", "Les comportements sont uniquement appris", "Tout dépend de l’inconscient", "L’enfant apprend par stades"],
-    "answerIndex": 0,
+    "options": [ "Les comportements sont uniquement appris","Le tout est plus que la somme des parties", "Tout dépend de l’inconscient", "L’enfant apprend par stades"],
+    "answerIndex": 1,
     "explication": "La Gestalt considère que la perception n’est pas une addition d’éléments isolés mais une organisation globale."
   },
   {
     "question": "62 - Que signifie le mot 'Gestalt' en allemand ?",
-    "options": ["Forme ou configuration", "Mémoire", "Apprentissage", "Stade"],
-    "answerIndex": 0,
+    "options": ["Mémoire", "Apprentissage", "Stade","Forme ou configuration"],
+    "answerIndex": 3,
     "explication": "Gestalt se traduit par 'forme' ou 'configuration', car cette école insiste sur l’organisation perceptive."
   },
   {
@@ -391,8 +391,8 @@
   },
   {
     "question": "66 - Quelle loi de la Gestalt dit que nous regroupons les éléments qui se ressemblent ?",
-    "options": ["Loi de proximité", "Loi de similarité", "Loi de symétrie", "Loi de bonne forme"],
-    "answerIndex": 1,
+    "options": ["Loi de proximité", "Loi de symétrie", "Loi de bonne forme", "Loi de similarité"],
+    "answerIndex": 3,
     "explication": "La loi de similarité montre que nous percevons comme appartenant au même groupe les éléments ayant une apparence similaire."
   },
   {
@@ -409,14 +409,14 @@
   },
   {
     "question": "69 - Quelle loi de la Gestalt décrit notre tendance à suivre une direction continue plutôt que de percevoir une rupture ?",
-    "options": ["Loi de clôture", "Loi de continuité", "Loi de proximité", "Loi de contraste"],
-    "answerIndex": 1,
+    "options": ["Loi de clôture", "Loi de proximité", "Loi de continuité","Loi de contraste"],
+    "answerIndex": 2,
     "explication": "La loi de continuité indique que nous percevons plus facilement des lignes continues que des changements brusques."
   },
   {
     "question": "70 - Que montre l’illusion du vase de Rubin (visage/vase) ?",
-    "options": ["La perception figure/fond", "La loi de proximité", "La loi de symétrie", "L’apprentissage par conditionnement"],
-    "answerIndex": 0,
+    "options": [ "La loi de proximité", "La loi de symétrie", "L’apprentissage par conditionnement","La perception figure/fond"],
+    "answerIndex": 3,
     "explication": "Le vase de Rubin illustre l’alternance figure/fond : nous percevons soit un vase (fond noir), soit deux visages (fond blanc)."
   },
   {
@@ -427,8 +427,8 @@
   },
   {
     "question": "72 - Quelle critique la Gestalt adresse-t-elle au béhaviorisme ?",
-    "options": ["Elle critique son manque de rigueur", "Elle critique son approche mécanique et parcellaire", "Elle critique l’usage de l’inconscient", "Elle critique la psychanalyse"],
-    "answerIndex": 1,
+    "options": ["Elle critique son manque de rigueur", "Elle critique l’usage de l’inconscient",  "Elle critique son approche mécanique et parcellaire","Elle critique la psychanalyse"],
+    "answerIndex": 2,
     "explication": "La Gestalt reproche au béhaviorisme de réduire la perception à des associations simples sans tenir compte de l’organisation globale."
   },
   {
@@ -445,8 +445,8 @@
   },
   {
     "question": "75 - Quelle loi explique que des formes symétriques sont perçues comme appartenant ensemble ?",
-    "options": ["Loi de symétrie", "Loi de proximité", "Loi de continuité", "Loi de similarité"],
-    "answerIndex": 0,
+    "options": ["Loi de proximité", "Loi de continuité", "Loi de similarité","Loi de symétrie"],
+    "answerIndex": 3,
     "explication": "La loi de symétrie indique que des formes symétriques sont perçues comme un groupe cohérent."
   },
   {
@@ -457,20 +457,20 @@
   },
   {
     "question": "77 - Quelle loi de la Gestalt peut expliquer pourquoi nous voyons un cercle dans une série de points disposés en arc ?",
-    "options": ["Loi de continuité", "Loi de clôture", "Loi de similarité", "Loi de contraste"],
-    "answerIndex": 1,
+    "options": [ "Loi de clôture","Loi de continuité", "Loi de similarité", "Loi de contraste"],
+    "answerIndex": 0,
     "explication": "La loi de clôture pousse notre cerveau à compléter mentalement les formes incomplètes pour les percevoir comme entières."
   },
   {
     "question": "78 - Quelle est la contribution de Wolfgang Köhler à la Gestalt ?",
-    "options": ["Expériences sur l’intelligence des chimpanzés", "Découverte de la permanence de l’objet", "Développement de la psychanalyse", "Conditionnement opérant"],
-    "answerIndex": 0,
+    "options": ["Découverte de la permanence de l’objet", "Développement de la psychanalyse", "Expériences sur l’intelligence des chimpanzés","Conditionnement opérant"],
+    "answerIndex": 2,
     "explication": "Köhler a étudié l’intelligence des singes, montrant qu’ils résolvent des problèmes par insight (compréhension soudaine), illustrant l’idée de Gestalt."
   },
   {
     "question": "79 - Que montre la notion de 'bonne forme' (Prägnanz) en Gestalt ?",
-    "options": ["Notre tendance à préférer des formes simples et régulières", "Notre incapacité à percevoir l’ensemble", "Notre dépendance aux renforcements", "Notre perception conditionnée"],
-    "answerIndex": 0,
+    "options": ["Notre incapacité à percevoir l’ensemble","Notre tendance à préférer des formes simples et régulières" ,"Notre dépendance aux renforcements", "Notre perception conditionnée"],
+    "answerIndex": 1,
     "explication": "La loi de Prägnanz illustre que notre perception privilégie des formes simples, stables et équilibrées."
   },
   {
@@ -481,8 +481,8 @@
   },
   {
     "question": "81 - Quelle approche insiste sur l’observation scientifique des comportements observables ?",
-    "options": ["Psychanalyse", "Béhaviorisme", "Gestalt", "Psychologie génétique"],
-    "answerIndex": 1,
+    "options": ["Psychanalyse", "Gestalt", "Psychologie génétique", "Béhaviorisme"],
+    "answerIndex": 3,
     "explication": "Le béhaviorisme privilégie l’observable et mesurable, contrairement aux autres approches qui explorent l’inconscient ou la perception globale."
   },
   {
@@ -505,8 +505,8 @@
   },
   {
     "question": "85 - Quel type de conditionnement utilise Skinner ?",
-    "options": ["Classique", "Opérant", "Observatif", "Symbolique"],
-    "answerIndex": 1,
+    "options": [ "Opérant","Classique", "Observatif", "Symbolique"],
+    "answerIndex": 0,
     "explication": "Skinner a mis au point le conditionnement opérant, qui repose sur les conséquences (renforcements ou punitions)."
   },
   {
@@ -529,8 +529,8 @@
   },
   {
     "question": "89 - Quelle loi de la Gestalt explique notre tendance à regrouper des éléments similaires ?",
-    "options": ["Loi de proximité", "Loi de clôture", "Loi de similarité", "Loi de continuité"],
-    "answerIndex": 2,
+    "options": [ "Loi de clôture", "Loi de similarité", "Loi de continuité","Loi de proximité"],
+    "answerIndex": 3,
     "explication": "La loi de similarité indique que notre cerveau regroupe les éléments qui se ressemblent pour les percevoir comme un tout."
   },
   {
@@ -541,8 +541,8 @@
   },
   {
     "question": "91 - Quel concept explique que l’enfant modifie ses schémas mentaux pour s’adapter à de nouvelles informations ?",
-    "options": ["Renforcement", "Assimilation", "Accommodation", "Clôture"],
-    "answerIndex": 2,
+    "options": ["Accommodation","Renforcement", "Assimilation",  "Clôture"],
+    "answerIndex": 0,
     "explication": "L’accommodation est le processus par lequel l’enfant ajuste ses schémas pour intégrer de nouvelles expériences."
   },
   {
@@ -553,8 +553,8 @@
   },
   {
     "question": "93 - Quel concept est central pour comprendre les changements qualitatifs dans le développement de l’enfant ?",
-    "options": ["Renforcement", "Stades", "Conditionnement opérant", "Figure/fond"],
-    "answerIndex": 1,
+    "options": ["Renforcement", "Conditionnement opérant", "Figure/fond", "Stades"],
+    "answerIndex": 3,
     "explication": "Les stades, comme ceux définis par Piaget, permettent de comprendre que le développement n’est pas linéaire mais se fait par paliers qualitatifs."
   },
   {
@@ -565,8 +565,8 @@
   },
   {
     "question": "95 - Laquelle de ces phrases correspond à la Gestalt ?",
-    "options": ["L’apprentissage est uniquement stimulus-réponse", "L’enfant pense selon des stades fixes", "La perception organise les éléments en un tout", "Les conflits inconscients déterminent le comportement"],
-    "answerIndex": 2,
+    "options": ["La perception organise les éléments en un tout","L’apprentissage est uniquement stimulus-réponse", "L’enfant pense selon des stades fixes",  "Les conflits inconscients déterminent le comportement"],
+    "answerIndex": 0,
     "explication": "La Gestalt met en avant la perception globale et l’organisation spontanée des éléments."
   },
   {
@@ -577,14 +577,14 @@
   },
   {
     "question": "97 - Quel chercheur a montré l’intelligence par insight chez les chimpanzés ?",
-    "options": ["Piaget", "Köhler", "Skinner", "Wertheimer"],
-    "answerIndex": 1,
+    "options": ["Piaget", "Skinner", "Wertheimer", "Köhler"],
+    "answerIndex": 3,
     "explication": "Köhler, fondateur de la Gestalt, a observé que les chimpanzés résolvaient des problèmes soudainement par compréhension (insight)."
   },
   {
     "question": "98 - Quelle approche pourrait recommander de donner des récompenses pour motiver un élève ?",
-    "options": ["Gestalt", "Béhaviorisme", "Psychologie génétique", "Psychanalyse"],
-    "answerIndex": 1,
+    "options": ["Gestalt", "Psychologie génétique", "Béhaviorisme", "Psychanalyse"],
+    "answerIndex": 2,
     "explication": "Le béhaviorisme utilise les renforcements positifs et négatifs pour influencer le comportement."
   },
   {
@@ -595,8 +595,8 @@
   },
   {
     "question": "100 - Quel résumé global décrit le mieux les trois approches étudiées ?",
-    "options": ["Toutes réduisent l’enfant à un robot", "Béhaviorisme observe, génétique construit par stades, Gestalt perçoit le tout", "Gestalt et béhaviorisme sont identiques, génétique est opposée", "Toutes ignorent l’environnement"],
-    "answerIndex": 1,
+    "options": ["Béhaviorisme observe, génétique construit par stades, Gestalt perçoit le tout","Toutes réduisent l’enfant à un robot",  "Gestalt et béhaviorisme sont identiques, génétique est opposée", "Toutes ignorent l’environnement"],
+    "answerIndex": 0,
     "explication": "Le béhaviorisme se concentre sur l’observable, la psychologie génétique sur les stades de développement, et la Gestalt sur la perception globale."
   }
 ]

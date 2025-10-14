@@ -241,26 +241,26 @@
   },
   {
     "question": "41 - L’instruction et l’éducation sont :",
-    "options": ["Complémentaires", "Opposées", "Identiques", "Sans lien"],
-    "answerIndex": 0,
+    "options": [ "Opposées", "Complémentaires","Identiques", "Sans lien"],
+    "answerIndex": 1,
     "explication": "L’instruction transmet des savoirs, l’éducation forme l’individu. Elles se complètent."
   },
   {
     "question": "42 - L’instruction publique a pour but :",
-    "options": ["Émancipation et autonomie des citoyens", "Imposer un dogme", "Uniformiser les opinions", "Former uniquement des techniciens"],
-    "answerIndex": 0,
+    "options": [ "Imposer un dogme", "Uniformiser les opinions", "Former uniquement des techniciens","Émancipation et autonomie des citoyens"],
+    "answerIndex": 3,
     "explication": "Elle permet aux individus de réfléchir, juger et agir dans la société."
   },
   {
     "question": "43 - L’éducation repose sur quelles valeurs ?",
-    "options": ["Liberté, égalité, respect, justice, solidarité", "Obéissance, discipline, uniformité", "Mémorisation, répétition, rigueur", "Pouvoir, richesse, hiérarchie"],
-    "answerIndex": 0,
+    "options": [ "Obéissance, discipline, uniformité", "Mémorisation, répétition, rigueur","Liberté, égalité, respect, justice, solidarité", "Pouvoir, richesse, hiérarchie"],
+    "answerIndex": 2,
     "explication": "Ces valeurs guident la formation morale et civique des élèves."
   },
   {
     "question": "44 - Quelle est la principale mission de l’école ?",
-    "options": ["Former des citoyens capables de penser et agir", "Transmettre uniquement des connaissances", "Obéir aux traditions", "Appliquer des programmes stricts"],
-    "answerIndex": 0,
+    "options": [ "Transmettre uniquement des connaissances", "Former des citoyens capables de penser et agir","Obéir aux traditions", "Appliquer des programmes stricts"],
+    "answerIndex": 1,
     "explication": "La formation citoyenne inclut savoirs et compétences sociales et morales."
   },
   {
