@@ -1,0 +1,673 @@
+[
+  {
+    "question": "1 - Où est né Alexander S. Neill ?",
+    "options": [
+      "Forfar, en Écosse",
+      "Oxford, en Angleterre",
+      "Dublin, en Irlande",
+      "Édimbourg, en Écosse"
+    ],
+    "answerIndex": 0,
+    "explication": "A.S. Neill est né à Forfar, une petite ville écossaise, en 1883. Il a grandi dans un environnement religieux et strict."
+  },
+  {
+    "question": "2 - Dans quel contexte familial Neill a-t-il grandi ?",
+    "options": [
+      "Une famille d’artistes libertaires",
+      "Une famille aisée et progressiste",
+      "Une famille sans religion",
+      "Une famille calviniste sévère et modeste"
+    ],
+    "answerIndex": 3,
+    "explication": "Neill a été élevé dans un milieu protestant calviniste, marqué par la discipline, la morale et la répression."
+  },
+  {
+    "question": "3 - Quelle critique Neill adresse-t-il à l’école traditionnelle ?",
+    "options": [
+      
+      "Elle favorise trop les activités physiques",
+      "Elle laisse trop de liberté aux élèves",
+      "Elle nourrit le cerveau mais ignore les émotions",
+      "Elle se concentre uniquement sur l’art"
+    ],
+    "answerIndex": 2,
+    "explication": "Neill estime que l’école classique se limite au développement intellectuel et néglige la dimension émotionnelle de l’enfant."
+  },
+  {
+    "question": "4 - En quelle année A.S. Neill a-t-il fondé Summerhill ?",
+    "options": [    
+      "1910", 
+      "1921",
+      "1935",
+      "1945"
+    ],
+    "answerIndex": 1,
+    "explication": "Summerhill a été fondée en 1921 dans le Suffolk, en Angleterre. Elle incarne la pédagogie libertaire de Neill."
+  },
+  {
+    "question": "5 - Quelle était la profession du père de Neill ?",
+    "options": [
+      "Instituteur",
+      "Pasteur",
+      "Médecin",
+      "Menuisier"
+    ],
+    "answerIndex": 0,
+    "explication": "Le père de Neill était instituteur. C’est dans son école que Neill a d’abord travaillé comme élève-maître."
+  },
+  {
+    "question": "6 - Quelle est la devise centrale de Neill concernant la vie ?",
+    "options": [
+      "Le savoir précède la liberté",
+      "L’enfant doit apprendre avant de jouer",
+      "La discipline forge le caractère",
+      "Le but de la vie, c’est la poursuite du bonheur"
+    ],
+    "answerIndex": 3,
+    "explication": "Neill considère que l’éducation doit viser avant tout le bonheur de l’enfant, pas la réussite académique."
+  },
+  {
+    "question": "7 - Quelle était l’attitude de Neill envers les punitions scolaires ?",
+    "options": [
+      "Il les rejetait totalement",
+      "Il les utilisait parfois pour l’ordre",
+      "Il les considérait indispensables",
+      "Il les réservait aux cas graves"
+    ],
+    "answerIndex": 0,
+    "explication": "Neill s’oppose à toute forme de punition ou de censure imposée par les adultes, car elles étouffent la liberté et la confiance de l’enfant."
+  },
+  {
+    "question": "8 - Quelle tranche d’âge fréquentait Summerhill ?",
+    "options": [
+      "De 10 à 20 ans",
+      "De 3 à 12 ans",
+      "De 5 à 17 ans",
+      "De 6 à 15 ans"
+    ],
+    "answerIndex": 2,
+    "explication": "Summerhill accueillait des enfants et adolescents âgés de 5 à 17 ans, dans un environnement libre et autogéré."
+  },
+  {
+    "question": "9 - Quelle activité faisait partie intégrante de la vie à Summerhill ?",
+    "options": [   
+      "Examens hebdomadaires",
+      "Théâtre, danse et fêtes",
+      "Punitions collectives",
+      "Cours magistraux obligatoires"
+    ],
+    "answerIndex": 1,
+    "explication": "La vie sociale et artistique (théâtre, musique, danse) était essentielle à Summerhill, favorisant l’épanouissement global des élèves."
+  },
+  {
+    "question": "10 - Que signifie concrètement la liberté à Summerhill ?",
+    "options": [     
+      "Aucune règle n’existe dans l’école",
+      "Les professeurs décident pour les élèves",
+      "Les parents fixent le programme",
+      "L’enfant choisit librement d’assister ou non aux cours"
+    ],
+    "answerIndex": 3,
+    "explication": "La liberté d’apprentissage est totale : les enfants décident eux-mêmes de suivre ou non les cours selon leur envie et leur curiosité."
+  },
+  {
+    "question": "11 - Quel type d’école est Summerhill ?",
+    "options": [
+      "Une école privée autogérée",
+      "Une école militaire",
+      "Une école confessionnelle",
+      "Une école d’État"
+    ],
+    "answerIndex": 0,
+    "explication": "Summerhill est une école privée et autogérée, indépendante du système éducatif classique britannique."
+  },
+  {
+    "question": "12 - Quelle instance décide des règles à Summerhill ?",
+    "options": [
+      "Le directeur seul",
+      "L’assemblée générale",
+      "Les parents d’élèves",
+      "Les professeurs réunis"
+    ],
+    "answerIndex": 1,
+    "explication": "Les décisions sont prises collectivement lors d’une assemblée générale où chaque voix, adulte ou enfant, compte."
+  },
+  {
+    "question": "13 - Quelle autre instance complète l’autogestion à Summerhill ?",
+    "options": [     
+      "Le conseil des professeurs",
+      "Le comité administratif",
+      "Le tribunal des élèves",
+      "Le conseil municipal"
+    ],
+    "answerIndex": 2,
+    "explication": "Le tribunal des élèves juge les conflits internes selon les règles votées, garantissant la justice et la responsabilité collective."
+  },
+  {
+    "question": "14 - Quelle différence Neill fait-il entre liberté et anarchie ?",
+    "options": [
+      "La liberté s’arrête où commence celle des autres",
+      "La liberté signifie absence de règles",
+      "L’anarchie est une forme d’ordre",
+      "La liberté impose l’obéissance"
+    ],
+    "answerIndex": 0,
+    "explication": "Pour Neill, la liberté n’est pas le chaos : elle est bornée par le respect de la liberté des autres membres de la communauté."
+  },
+  {
+    "question": "15 - Quelle est la finalité de l’éducation selon Neill ?",
+    "options": [      
+      "L’obéissance à l’autorité",
+      "La performance scolaire",
+      "La foi religieuse",
+      "Le bonheur et l’épanouissement de l’enfant"
+    ],
+    "answerIndex": 3,
+    "explication": "Neill considère que l’éducation doit avant tout rendre les enfants heureux, libres et équilibrés, non pas dociles ou performants."
+  },
+  {
+    "question": "16 - Quelle place tient l’imagination dans la pédagogie de Neill ?",
+    "options": [
+      "Elle doit être supprimée pour plus de rigueur",
+      "C’est un élément essentiel de l’apprentissage",
+      "Elle ne concerne que les arts",
+      "Elle est moins importante que la mémoire"
+    ],
+    "answerIndex": 1,
+    "explication": "Neill encourage la créativité : il préfère des exercices qui développent l’imagination plutôt que la répétition mécanique."
+  },
+  {
+    "question": "17 - Quelle conception de la réussite défend Neill ?",
+    "options": [
+      
+      "Les notes et les examens",
+      "La discipline scolaire",
+      "L’obéissance aux enseignants",
+      "La réussite personnelle et le bonheur"
+    ],
+    "answerIndex": 3,
+    "explication": "Pour Neill, réussir, c’est s’épanouir et être heureux, pas accumuler des diplômes ou satisfaire aux normes sociales."
+  },
+  {
+    "question": "18 - Quelle est la place du désir dans l’apprentissage selon Neill ?",
+    "options": [
+      "L’enfant apprend ce qu’il désire apprendre",
+      "Le désir doit être contrôlé par les adultes",
+      "Le désir est une distraction à éviter",
+      "Le désir conduit à la paresse"
+    ],
+    "answerIndex": 0,
+    "explication": "Neill pense que l’apprentissage authentique ne peut naître que du désir et de la curiosité personnelle de l’enfant."
+  },
+  {
+    "question": "19 - Quelle était la position de Neill sur la mixité ?",
+    "options": [
+      
+      "Elle est nuisible à la concentration",
+      "Elle est essentielle car la vie est mixte",
+      "Elle favorise la compétition",
+      "Elle doit être limitée à certaines classes"
+    ],
+    "answerIndex": 1,
+    "explication": "Neill soutient la mixité à l’école, estimant qu’elle prépare les enfants à la vie réelle et à des relations équilibrées entre sexes."
+  },
+  {
+    "question": "20 - Comment Neill envisage-t-il le rôle de l’enseignant ?",
+    "options": [
+      
+      "Comme une autorité morale stricte",
+      "Comme un modèle à imiter",
+      "Comme un guide qui intervient le moins possible",
+      "Comme un juge de la conduite"
+    ],
+    "answerIndex": 2,
+    "explication": "L’enseignant, chez Neill, n’impose rien : il accompagne, observe et n’intervient qu’en cas de nécessité, favorisant l’autonomie de l’enfant."
+  },
+  {
+    "question": "21 - Que critique Neill dans l’éducation religieuse de son enfance ?",
+    "options": [
+      
+      "Le manque de discipline",
+      "La liberté excessive accordée aux enfants",
+      "La peur et la culpabilité qu’elle inculquait",
+      "L’absence de contenu intellectuel"
+    ],
+    "answerIndex": 2,
+    "explication": "Élevé dans un calvinisme rigide, Neill dénonce l’éducation religieuse basée sur la peur de Dieu et la morale répressive."
+  },
+  {
+    "question": "22 - Que signifie pour Neill une 'éducation du cœur' ?",
+    "options": [
+      
+      "Une éducation centrée sur la religion",
+      "Une méthode basée uniquement sur les devoirs",
+      "Une approche scientifique du comportement",
+      "Une éducation qui prend en compte les émotions et les sentiments"
+    ],
+    "answerIndex": 3,
+    "explication": "Neill prône une éducation globale qui développe non seulement l’esprit, mais aussi le cœur et les émotions."
+  },
+  {
+    "question": "23 - Quelle était la position de Neill sur les fautes d’orthographe ?",
+    "options": [
+      "Elles ont peu d’importance face aux idées et à la créativité",
+      "Elles doivent être corrigées systématiquement",
+      "Elles sont la base de la réussite scolaire",
+      "Elles doivent être sanctionnées"
+    ],
+    "answerIndex": 0,
+    "explication": "Neill valorise les idées et l’imagination plutôt que la perfection grammaticale. Il juge les fautes sans gravité."
+  },
+  {
+    "question": "24 - Comment se déroule une assemblée générale à Summerhill ?",
+    "options": [
+      "Le directeur fixe les règles et les élèves écoutent",
+      "Les parents votent pour les enfants",
+      "Chaque membre vote les règles, enfants et adultes ayant une voix égale",
+      "Seuls les enseignants participent aux décisions"
+    ],
+    "answerIndex": 2,
+    "explication": "L’assemblée générale incarne la démocratie directe : tous les membres de l’école, quel que soit leur âge, peuvent voter."
+  },
+  {
+    "question": "25 - Quelle influence majeure a inspiré la pensée de Neill ?",
+    "options": [
+      "Le marxisme",
+      "Le mouvement de l’éducation nouvelle",
+      "Le positivisme scientifique",
+      "Le militarisme britannique"
+    ],
+    "answerIndex": 1,
+    "explication": "Neill s’inscrit dans le courant de l’éducation nouvelle, influencé par Rousseau, Montessori, Dewey ou encore Freud."
+  },
+  {
+    "question": "26 - Pourquoi Neill s’oppose-t-il à la moralisation des enseignants ?",
+    "options": [
+      "Parce qu’elle empêche l’enfant d’apprendre par lui-même",
+      "Parce qu’elle renforce le désir d’apprendre",
+      "Parce qu’elle favorise la créativité",
+      "Parce qu’elle améliore les résultats scolaires"
+    ],
+    "answerIndex": 0,
+    "explication": "Neill pense que les leçons de morale imposées paralysent la liberté intérieure des enfants, qui doivent découvrir leurs propres valeurs."
+  },
+  {
+    "question": "27 - Quelle phrase exprime le mieux la vision éducative de Neill ?",
+    "options": [
+      
+      "L’enfant doit être soumis pour apprendre",
+      "L’éducation doit viser la conformité",
+      "L’enfant apprend naturellement sans pression autoritaire",
+      "L’enfant est une page blanche à remplir"
+    ],
+    "answerIndex": 2,
+    "explication": "Neill affirme que les enfants apprennent par expérience et désir, sans qu’il soit nécessaire d’imposer une autorité contraignante."
+  },
+  {
+    "question": "28 - Quelle est la mission principale du tribunal à Summerhill ?",
+    "options": [
+      "Sanctionner les fautes graves décidées par le directeur",
+      "Régler les conflits entre élèves selon les règles votées",
+      "Distribuer les notes de conduite",
+      "Corriger les devoirs et examens"
+    ],
+    "answerIndex": 1,
+    "explication": "Le tribunal est une instance de justice interne où les élèves appliquent les règles qu’ils ont eux-mêmes établies collectivement."
+  },
+  {
+    "question": "29 - Quelle est la principale limite à la liberté individuelle à Summerhill ?",
+    "options": [
+ 
+      "Le règlement imposé par le directeur",
+      "Les horaires de cours",    
+      "Le respect de la liberté des autres",
+      "Les notes scolaires"
+    ],
+    "answerIndex": 2,
+    "explication": "La seule limite à la liberté, selon Neill, est le respect de celle d’autrui — une base éthique fondamentale à Summerhill."
+  },
+  {
+    "question": "30 - Comment Neill conçoit-il le rapport entre liberté et apprentissage ?",
+    "options": [
+      "La contrainte favorise la rigueur intellectuelle",
+      "La liberté distrait des études",
+      "L’obéissance est la condition du savoir",
+      "On apprend mieux quand on est libre"
+    ],
+    "answerIndex": 3,
+    "explication": "Neill croit que l’apprentissage découle naturellement de la curiosité, et que la liberté est la condition de cette curiosité."
+  },
+  {
+    "question": "31 - Quelle est la finalité du self-government ?",
+    "options": [
+      "Responsabiliser les enfants et leur apprendre la démocratie",
+      "Renforcer l’autorité du directeur",
+      "Favoriser la compétition entre élèves",
+      "Éviter les discussions collectives"
+    ],
+    "answerIndex": 0,
+    "explication": "L’autogestion apprend aux enfants à vivre ensemble, à débattre, à voter et à assumer les conséquences de leurs décisions."
+  },
+  {
+    "question": "32 - Quelle place Neill accorde-t-il à la sexualité dans l’éducation ?",
+    "options": [
+      "Elle doit être totalement interdite à l’école",
+      "Elle doit être abordée naturellement et sans tabou",
+      "Elle ne concerne que les adultes",
+      "Elle doit être enseignée par des spécialistes religieux"
+    ],
+    "answerIndex": 1,
+    "explication": "Neill défend une éducation sexuelle naturelle et respectueuse, loin de la honte et de la répression morale des écoles traditionnelles."
+  },
+  {
+    "question": "33 - Quelle influence psychanalytique marque la pensée de Neill ?",
+    "options": [
+      
+      "Le behaviorisme",
+      "Le darwinisme",
+      "Le structuralisme",
+      "La psychanalyse freudienne"
+    ],
+    "answerIndex": 3,
+    "explication": "Neill s’inspire des idées de Freud sur les émotions et la répression des désirs, qu’il applique à l’éducation."
+  },
+  {
+    "question": "34 - Que signifie pour Neill le terme 'bonheur' ?",
+    "options": [
+      
+      "La réussite matérielle",
+      "La conformité morale",
+      "Une vie libre, équilibrée et sans peur",
+      "Le plaisir éphémère"
+    ],
+    "answerIndex": 2,
+    "explication": "Le bonheur, pour Neill, est un état d’équilibre intérieur fondé sur la liberté, l’amour et l’absence de peur ou de culpabilité."
+  },
+  {
+    "question": "35 - Quelle est la particularité du programme scolaire à Summerhill ?",
+    "options": [
+      "Les cours sont facultatifs et choisis par les élèves",
+      "Les cours sont obligatoires pour tous",
+      "Les examens sont mensuels",
+      "Les notes déterminent la liberté de sortie"
+    ],
+    "answerIndex": 0,
+    "explication": "À Summerhill, la fréquentation des cours est volontaire. Les enfants décident de ce qu’ils veulent apprendre."
+  },
+  {
+    "question": "36 - Quelle conception de la discipline Neill rejette-t-il ?",
+    "options": [
+      "La discipline imposée par la peur",
+      "La discipline collective choisie",
+      "La discipline de travail libre",
+      "La discipline d’équipe"
+    ],
+    "answerIndex": 0,
+    "explication": "Neill critique la discipline imposée de l’extérieur, qui tue la confiance et l’autonomie des enfants."
+  },
+  {
+    "question": "37 - Quel est le rôle des émotions dans l’éducation selon Neill ?",
+    "options": [
+      "Elles doivent être ignorées au profit du savoir",
+      "Elles sont essentielles pour apprendre et se construire",
+      "Elles freinent la réussite scolaire",
+      "Elles concernent seulement la famille"
+    ],
+    "answerIndex": 1,
+    "explication": "Neill considère les émotions comme des leviers éducatifs majeurs, nécessaires à l’épanouissement de l’enfant."
+  },
+  {
+    "question": "38 - Comment Neill perçoit-il le rôle des parents dans l’éducation ?",
+    "options": [
+      "Ils doivent contrôler tous les choix de l’enfant",
+      "Ils doivent assurer la discipline à la maison",
+      "Ils doivent exiger l’obéissance",
+      "Ils ne doivent pas imposer leurs peurs ou leur morale à l’enfant"
+    ],
+    "answerIndex": 3,
+    "explication": "Neill recommande aux parents d’éviter la projection de leurs angoisses ou valeurs sur leurs enfants, pour préserver leur liberté intérieure."
+  },
+  {
+    "question": "39 - Que signifie 'pédagogie libertaire' chez Neill ?",
+    "options": [
+      "Une pédagogie sans règles ni cadre",
+      "Une pédagogie fondée sur la liberté et la responsabilité individuelle",
+      "Une pédagogie axée sur la punition",
+      "Une pédagogie réservée aux adultes"
+    ],
+    "answerIndex": 1,
+    "explication": "La pédagogie libertaire cherche à émanciper les enfants de toute contrainte injustifiée, tout en leur apprenant la responsabilité collective."
+  },
+  {
+    "question": "40 - Quelle forme d’autorité subsiste à Summerhill ?",
+    "options": [
+      "L’autorité collective des règles votées par tous",
+      "L’autorité du directeur sur tout",
+      "L’autorité religieuse",
+      "L’autorité des parents"
+    ],
+    "answerIndex": 0,
+    "explication": "L’autorité à Summerhill vient du groupe lui-même : les règles démocratiquement votées constituent la seule autorité légitime."
+  },
+   {
+    "question": "41 - Quelle activité reflète le mieux la philosophie éducative de Summerhill ?",
+    "options": [     
+      "Les punitions collectives",
+      "Les examens écrits hebdomadaires",
+      "Le théâtre et les jeux collectifs",
+      "Les cours magistraux imposés"
+    ],
+    "answerIndex": 2,
+    "explication": "Le théâtre, la danse et le jeu libre reflètent la pédagogie de Summerhill, fondée sur l’expression, la coopération et la créativité."
+  },
+  {
+    "question": "42 - Quelle phrase illustre le mieux la vision de Neill sur la nature humaine ?",
+    "options": [
+      "L’enfant doit être corrigé par la discipline",
+      "L’enfant est bon par nature",
+      "L’enfant naît paresseux et indiscipliné",
+      "L’enfant a besoin de punition pour apprendre"
+    ],
+    "answerIndex": 1,
+    "explication": "Neill rejoint Rousseau en considérant que l’enfant est naturellement bon et que la société le corrompt par la contrainte et la peur."
+  },
+  {
+    "question": "43 - Que pense Neill de la compétition à l’école ?",
+    "options": [
+      "Elle est néfaste car elle crée l’angoisse et la comparaison",
+      "Elle stimule la motivation",
+      "Elle est indispensable pour la réussite",
+      "Elle permet d’identifier les meilleurs élèves"
+    ],
+    "answerIndex": 0,
+    "explication": "Neill rejette la compétition qu’il juge destructrice pour la confiance et l’équilibre émotionnel des enfants."
+  },
+  {
+    "question": "44 - Quelle phrase décrit le mieux l’ambiance de Summerhill ?",
+    "options": [
+      "Un cadre strict et hiérarchisé",
+      "Une communauté joyeuse, libre et autogérée",
+      "Une école axée sur la performance",
+      "Une atmosphère de silence et d’ordre"
+    ],
+    "answerIndex": 1,
+    "explication": "Summerhill est un lieu vivant et joyeux où enfants et adultes partagent la vie quotidienne dans un climat de confiance et de liberté."
+  },
+  {
+    "question": "45 - Quelle compétence les élèves développent-ils à travers l’autogestion ?",
+    "options": [
+      "L’obéissance aux règles fixes",
+      "La peur de l’erreur",
+      "Le respect de l’autorité supérieure",
+      "Le sens des responsabilités et de la justice"
+    ],
+    "answerIndex": 3,
+    "explication": "Le self-government apprend aux élèves à prendre des décisions collectives et à assumer leurs responsabilités sociales."
+  },
+  {
+    "question": "46 - Quelle est la principale source d’autorité à Summerhill selon Neill ?",
+    "options": [
+      "Le directeur de l’école",
+      "Les parents d’élèves",
+      "Le groupe des élèves réunis en assemblée",
+      "Le gouvernement britannique"
+    ],
+    "answerIndex": 2,
+    "explication": "À Summerhill, l’autorité émane de la communauté elle-même : les règles votées en assemblée s’imposent à tous."
+  },
+  {
+    "question": "47 - Quelle vision de l’apprentissage oppose Neill à l’école traditionnelle ?",
+    "options": [
+      "Apprendre par désir et expérience plutôt que par contrainte",
+      "Apprendre par répétition mécanique",
+      "Apprendre uniquement par la mémoire",
+      "Apprendre pour obtenir des notes"
+    ],
+    "answerIndex": 0,
+    "explication": "Neill défend un apprentissage fondé sur la curiosité, l’envie et l’expérience concrète, en opposition à la contrainte et la répétition."
+  },
+  {
+    "question": "48 - Comment Neill définit-il la réussite éducative ?",
+    "options": [
+      "Par les diplômes obtenus",
+      "Par l’épanouissement personnel et la joie de vivre",
+      "Par le respect des règles",
+      "Par la conformité sociale"
+    ],
+    "answerIndex": 1,
+    "explication": "La réussite pour Neill ne se mesure pas en notes mais dans la capacité d’un individu à être heureux, libre et responsable."
+  },
+  {
+    "question": "49 - Quel concept résume la philosophie de Summerhill ?",
+    "options": [
+      "La contrainte éducative",
+      "L’obéissance civique",
+      "La liberté responsable",
+      "La discipline religieuse"
+    ],
+    "answerIndex": 2,
+    "explication": "Summerhill prône la liberté encadrée par la responsabilité, pour permettre aux enfants d’apprendre sans domination."
+  },
+  {
+    "question": "50 - Quelle valeur Neill place-t-il au-dessus du savoir ?",
+    "options": [
+      "Le bonheur et l’amour de la vie",
+      "L’obéissance",
+      "La mémoire",
+      "Le travail acharné"
+    ],
+    "answerIndex": 0,
+    "explication": "Neill affirme que le bonheur et la joie d’être sont plus importants que la connaissance purement intellectuelle."
+  },
+  {
+    "question": "51 - Quelle relation existe entre liberté et morale selon Neill ?",
+    "options": [
+      "La liberté détruit la morale",
+      "La morale doit être imposée",
+      "La morale naît naturellement de la liberté",
+      "La liberté rend les enfants égoïstes"
+    ],
+    "answerIndex": 2,
+    "explication": "Neill pense qu’un enfant libre développe spontanément un sens moral authentique, sans contrainte extérieure."
+  },
+  {
+    "question": "52 - Que pense Neill du rôle du jeu à l’école ?",
+    "options": [
+      "Le jeu doit être limité pour favoriser l’étude",
+      "Le jeu est une perte de temps",
+      "Le jeu doit être remplacé par des leçons",
+      "Le jeu est une forme d’apprentissage essentielle"
+    ],
+    "answerIndex": 3,
+    "explication": "Neill voit le jeu comme un espace d’expression, de création et de découverte : c’est une forme naturelle d’apprentissage."
+  },
+  {
+    "question": "53 - Quelle phrase caractérise le mieux la pédagogie de Neill ?",
+    "options": [
+      "L’enfant apprend ce qu’il aime, quand il est prêt",
+      "L’enfant doit suivre le programme strictement",
+      "L’adulte détient toujours la vérité",
+      "L’enfant apprend sous la contrainte"
+    ],
+    "answerIndex": 0,
+    "explication": "Neill affirme que l’enfant apprend réellement quand il choisit lui-même le moment et le contenu de son apprentissage."
+  },
+  {
+    "question": "54 - Pourquoi Neill rejette-t-il la censure ?",
+    "options": [
+      "Parce qu’elle aide à structurer la pensée", 
+      "Parce qu’elle empêche l’expression sincère de l’enfant",
+      "Parce qu’elle garantit la sécurité morale",
+      "Parce qu’elle favorise la discipline"
+    ],
+    "answerIndex": 1,
+    "explication": "Neill estime que censurer les enfants revient à nier leur authenticité et à freiner leur développement émotionnel."
+  },
+  {
+    "question": "55 - Quelle critique est souvent adressée à Summerhill ?",
+    "options": [
+      "Une trop grande sévérité disciplinaire",
+      "Un manque d’activités artistiques",
+      "Un excès de liberté pouvant nuire à la rigueur scolaire",
+      "Une approche trop scientifique"
+    ],
+    "answerIndex": 2,
+    "explication": "Certains reprochent à Summerhill de manquer de cadre, craignant que trop de liberté limite la motivation scolaire."
+  },
+  {
+    "question": "56 - Quelle qualité principale Neill attribue-t-il à l’enfant ?",
+    "options": [
+      "La capacité d’auto-apprentissage",
+      "La dépendance totale aux adultes",
+      "L’obéissance naturelle",
+      "L’incapacité morale"
+    ],
+    "answerIndex": 0,
+    "explication": "Neill voit l’enfant comme un être autonome capable de se développer par lui-même, à condition qu’on respecte sa liberté."
+  },
+  {
+    "question": "57 - Quelle idée de Rousseau se retrouve dans la pensée de Neill ?",
+    "options": [
+      "L’enfant doit être façonné par la société",
+      "L’éducation doit suivre la nature de l’enfant",
+      "L’adulte doit diriger chaque étape",
+      "L’obéissance fonde la morale"
+    ],
+    "answerIndex": 1,
+    "explication": "Comme Rousseau, Neill pense que l’enfant apprend par sa nature propre et qu’il faut respecter son rythme et sa liberté."
+  },
+  {
+    "question": "58 - Quelle phrase résume l’héritage de Summerhill ?",
+    "options": [ 
+      "Une école pour l’élite intellectuelle",
+      "Un modèle de discipline exemplaire",
+      "Une éducation fondée sur la liberté, la démocratie et le bonheur",
+      "Un système de récompense et de punition"
+    ],
+    "answerIndex": 2,
+    "explication": "Summerhill reste un symbole d’éducation démocratique et humaniste, centrée sur la liberté et le bien-être des enfants."
+  },
+  {
+    "question": "59 - Quelle pédagogie moderne s’inspire partiellement de Neill ?",
+    "options": [
+      
+      "Les écoles confessionnelles",
+      "Les lycées militaires",
+      "Les institutions religieuses",
+      "Les écoles démocratiques et alternatives"
+    ],
+    "answerIndex": 3,
+    "explication": "De nombreuses écoles démocratiques actuelles (comme Sudbury ou les écoles libres) s’inspirent du modèle de Summerhill."
+  },
+  {
+    "question": "60 - Quelle phrase de Neill résume sa vision éducative ?",
+    "options": [
+      "Personne n’a le droit d’assombrir la vie d’un gosse",
+      "Les enfants doivent être corrigés pour apprendre",
+      "L’obéissance crée la sagesse",
+      "L’éducation passe par la punition"
+    ],
+    "answerIndex": 0,
+    "explication": "Neill défend la joie et la liberté de l’enfant : pour lui, aucune autorité ne doit priver un enfant de bonheur ou de spontanéité."
+  }
+]

@@ -4,6 +4,7 @@ import questions from '../questions/LettreArts/serie1.json';
 import { ProgressContext } from '../context/ProgressContext';
 import HeaderStats from '../components/HeaderStats';
 import Logo from './Logo'; 
+import { ScrollView } from 'react-native';
 
 
 
@@ -56,7 +57,7 @@ export default function LessonScreen({ navigation }) {
 
 
     return (
-        <View style={styles.container}>
+        <ScrollView contentContainerStyle={styles.container}>
             
             <HeaderStats />
             <Logo/>
@@ -78,20 +79,21 @@ export default function LessonScreen({ navigation }) {
             )}
 
          <View style={styles.linkContainer}>
-                                <Text style={styles.link} onPress={() => navigation.navigate('LettresArts')}> 🚀 Introduction Part1</Text>
-                                <Text style={styles.link} onPress={() => navigation.navigate('LettresArts2')}> 🚀 Introduction Part2</Text>
-                                <Text style={styles.link} onPress={() => navigation.navigate('LettresArts3')}> 🚀 Le commentaire comparé</Text>
-                                 <Text style={styles.link} onPress={() => navigation.navigate('LettresArts4')}> 🚀 Le petit lexique du Littéraire</Text>
+                                <Text style={styles.link} onPress={() => navigation.navigate('LettresArts')}> Introduction Part1</Text>
+                                <Text style={styles.link} onPress={() => navigation.navigate('LettresArts2')}>  Introduction Part2</Text>
+                                <Text style={styles.link} onPress={() => navigation.navigate('LettresArts3')}> Le commentaire comparé</Text>
+                                 <Text style={styles.link} onPress={() => navigation.navigate('LettresArts4')}> Le petit lexique du Littéraire</Text>
                                 </View>
         
-                </View>
+                </ScrollView>
             );
         }
         const styles = StyleSheet.create({
             container: { 
-                flex: 1, 
+                flexGrow: 1, 
                 padding: 20, 
-                justifyContent: 'flex-start' 
+                justifyContent: 'flex-start',
+                
             },
             question: { 
                 fontSize: 20, 
@@ -109,13 +111,15 @@ export default function LessonScreen({ navigation }) {
                 flexDirection: 'row',        // ✅ aligne les liens horizontalement
                 justifyContent: 'center',    // ✅ centre la ligne de liens
                 flexWrap: 'wrap',            // ✅ permet le retour à la ligne si trop long
-                marginTop: 20
+                marginTop: 20,
+                marginBottom: 20,
             },
             link: {
                 fontSize: 16,
                 color: '#007BFF',
                 textDecorationLine: 'underline',
-                marginHorizontal: 8 // ✅ espace horizontal entre les liens
+                marginHorizontal: 8 , // ✅ espace horizontal entre les liens
+                fontSize:20
             }
         });
         

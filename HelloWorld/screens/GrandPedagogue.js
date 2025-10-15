@@ -4,6 +4,7 @@ import questions from '../questions/ScienceEducation/GrandPedagogue/serie1.json'
 import { ProgressContext } from '../context/ProgressContext';
 import HeaderStats from '../components/HeaderStats';
 import Logo from './Logo'; 
+import { ScrollView } from 'react-native';
 
 
 
@@ -56,7 +57,7 @@ export default function LessonScreen({ navigation }) {
 
 
     return (
-        <View style={styles.container}>
+         <ScrollView contentContainerStyle={styles.container}>
             
             <HeaderStats />
             <Logo/>
@@ -78,18 +79,22 @@ export default function LessonScreen({ navigation }) {
                 </>
             )}
              <View style={styles.linkContainer}>
-                         <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue')}> 🚀 Freinet 1</Text>
-                       <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue2')}> 🚀 Freinet 2</Text>
-                        <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue3')}> 🚀 Montessori 1</Text>
-                         <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue4')}> 🚀 Montessori 2</Text>
+                         <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue')}> Freinet 1</Text>
+                       
+                       <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue2')}> Freinet 2</Text>
+                        <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue3')}> Montessori 1</Text>
+                         <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue4')}> Montessori 2</Text>
+                         <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue5')}> Neill</Text>
+                         <Text style={styles.link} onPress={() => navigation.navigate('CitationNeill')}>citations Neill</Text>
+                          <Text style={styles.link} onPress={() => navigation.navigate('CitationMontessori')}>citations Montessori</Text>
                         </View>
 
-        </View>
+       </ScrollView>
     );
 }
 const styles = StyleSheet.create({
     container: { 
-        flex: 1, 
+        flexGrow: 1, 
         padding: 20, 
         justifyContent: 'flex-start' 
     },
@@ -115,7 +120,8 @@ const styles = StyleSheet.create({
         fontSize: 16,
         color: '#007BFF',
         textDecorationLine: 'underline',
-        marginHorizontal: 8 // ✅ espace horizontal entre les liens
+        marginHorizontal: 8, // ✅ espace horizontal entre les liens
+        fontSize:20
     }
 });
 

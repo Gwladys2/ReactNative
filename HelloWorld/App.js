@@ -9,6 +9,7 @@ import GrandPedagogue from './screens/GrandPedagogue';
 import GrandPedagogue2 from './screens/GrandPedagogue2';
 import GrandPedagogue3 from './screens/GrandPedagogue3';
 import GrandPedagogue4 from './screens/GrandPedagogue4';
+import GrandPedagogue5 from './screens/GrandPedagogue5';
 import LessonScreen from './screens/LessonScreen';
 import Niveau2 from './screens/Niveau2';
 import Niveau3 from './screens/Niveau3';
@@ -23,6 +24,7 @@ import Systemes from './screens/Systemes';
 import SystResMenu from './screens/SystResMenu';
 import PsychoEducation from './screens/PsychoEducation';
 import PhiloEducation from './screens/PhiloEducation';
+import PhiloEducation2 from './screens/PhiloEducation2';
 import LettresArts from './screens/LettresArts';
 import LettresArts2 from './screens/LettresArts2';
 import LettresArts3 from './screens/LettresArts3';
@@ -33,6 +35,10 @@ import PsychoEducation4 from './screens/PsychoEducation4';
 import Architecture from './screens/Architecture';
 import { ProgressProvider } from './context/ProgressContext';
 import Accueil from './screens/HomeScreen2';
+import CitationNeill from './screens/CitationNeill';
+import CitationMontessori from './screens/CitationMontessori';
+
+
 
 import Footer from './components/Footer'; // ton composant Footer
 
@@ -54,11 +60,13 @@ export default function App() {
               <Stack.Screen name="GrandPedagogue2" component={GrandPedagogue2} />
               <Stack.Screen name="GrandPedagogue3" component={GrandPedagogue3} />
               <Stack.Screen name="GrandPedagogue4" component={GrandPedagogue4} />
+              <Stack.Screen name="GrandPedagogue5" component={GrandPedagogue5} />
               <Stack.Screen name="PsychoEducation" component={PsychoEducation} />
               <Stack.Screen name="PsychoEducation2" component={PsychoEducation2} />
               <Stack.Screen name="PsychoEducation3" component={PsychoEducation3} />
               <Stack.Screen name="PsychoEducation4" component={PsychoEducation4} />
               <Stack.Screen name="PhiloEducation" component={PhiloEducation} />
+              <Stack.Screen name="PhiloEducation2" component={PhiloEducation2} />
               <Stack.Screen name="LettresArts" component={LettresArts} />
               <Stack.Screen name="LettresArts2" component={LettresArts2} />
               <Stack.Screen name="LettresArts3" component={LettresArts3} />
@@ -77,6 +85,9 @@ export default function App() {
               <Stack.Screen name="Reseaux" component={Reseaux} />
               <Stack.Screen name="SystReseaux" component={SystReseaux} />
               <Stack.Screen name="Architecture" component={Architecture} />
+              <Stack.Screen name="CitationNeill" component={CitationNeill} />
+              <Stack.Screen name="CitationMontessori" component={CitationMontessori} />
+
             
             </Stack.Navigator>
           </View>

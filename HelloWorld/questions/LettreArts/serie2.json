@@ -1,8 +1,8 @@
 [
   {
     "question": "1 - À quelle période se développe principalement le romantisme en Europe ?",
-    "options": ["Au XVIIe siècle", "Au tournant des XVIIIe et XIXe siècles", "Au XVe siècle", "Au XXe siècle"],
-    "answerIndex": 1,
+    "options": ["Au tournant des XVIIIe et XIXe siècles", "Au XVe siècle", "Au XXe siècle","Au XVIIe siècle"],
+    "answerIndex": 3,
     "explication": "Le romantisme naît à la fin du XVIIIe siècle et se déploie pleinement au XIXe siècle, d’abord en Angleterre et en Allemagne, puis en France."
   },
   {
@@ -13,8 +13,8 @@
   },
   {
     "question": "3 - De quel mot anglais vient le terme « romantique » ?",
-    "options": ["Romance", "Romantic", "Romantism", "Romand"],
-    "answerIndex": 1,
+    "options": ["Romance", "Romantism",  "Romantic","Romand"],
+    "answerIndex": 2,
     "explication": "Le mot « romantique » vient de l’anglais « romantic », lui-même issu de « romance », évoquant le romanesque et l’imagination."
   },
   {
@@ -25,8 +25,8 @@
   },
   {
     "question": "5 - Quel dictionnaire introduit pour la première fois le sens artistique du mot « romantique » ?",
-    "options": ["Le Dictionnaire de l’Académie de 1694", "Celui de 1798", "Celui de 1835", "Celui de 1878"],
-    "answerIndex": 2,
+    "options": ["Celui de 1835","Le Dictionnaire de l’Académie de 1694", "Celui de 1798",  "Celui de 1878"],
+    "answerIndex": 0,
     "explication": "Le Dictionnaire de 1835 donne au mot « romantique » son sens moderne : écrivains et artistes s’affranchissant des règles classiques."
   },
   {
@@ -37,8 +37,8 @@
   },
   {
     "question": "7 - En quoi le romantisme est-il une crise selon le cours ?",
-    "options": ["Parce qu’il refuse toute croyance religieuse", "Parce qu’il naît d’une crise de foi et de valeurs après la Révolution", "Parce qu’il supprime la littérature", "Parce qu’il se limite à la politique"],
-    "answerIndex": 1,
+    "options": ["Parce qu’il refuse toute croyance religieuse" ,"Parce qu’il supprime la littérature", "Parce qu’il se limite à la politique", "Parce qu’il naît d’une crise de foi et de valeurs après la Révolution"],
+    "answerIndex": 3,
     "explication": "Le romantisme apparaît après la Révolution française, période de crise spirituelle et morale, où l’art devient un refuge."
   },
   {
@@ -61,8 +61,8 @@
   },
   {
     "question": "11 - Quel auteur réhabilite le Moyen Âge dans la littérature ?",
-    "options": ["Molière", "Chateaubriand", "Baudelaire", "Boileau"],
-    "answerIndex": 1,
+    "options": ["Molière", "Baudelaire", "Boileau", "Chateaubriand"],
+    "answerIndex": 3,
     "explication": "Chateaubriand, dans *Le Génie du christianisme* (1802), fait du Moyen Âge et du christianisme des sources d’inspiration poétique."
   },
   {
@@ -79,8 +79,8 @@
   },
   {
     "question": "14 - Que désigne l’expression « paysage-état d’âme » ?",
-    "options": ["Un paysage abstrait", "Un paysage reflétant les émotions de l’artiste", "Un tableau géographique", "Un décor réaliste"],
-    "answerIndex": 1,
+    "options": ["Un paysage abstrait", "Un tableau géographique", "Un paysage reflétant les émotions de l’artiste", "Un décor réaliste"],
+    "answerIndex": 2,
     "explication": "Le « paysage-état d’âme » est typique du romantisme : la nature devient le miroir des émotions du Moi."
   },
   {
@@ -97,14 +97,14 @@
   },
   {
     "question": "17 - Quelle est la principale valeur de l’artiste romantique ?",
-    "options": ["L’inspiration personnelle", "La technique", "L’obéissance au mécène", "La rentabilité"],
-    "answerIndex": 0,
+    "options": [ "La technique", "L’obéissance au mécène", "La rentabilité","L’inspiration personnelle"],
+    "answerIndex": 3,
     "explication": "L’artiste romantique est défini par son inspiration intérieure et son individualité créatrice."
   },
   {
     "question": "18 - Quel système artistique disparaît après la Révolution ?",
-    "options": ["Le mécénat", "Le marché de l’art", "Les académies privées", "Les expositions publiques"],
-    "answerIndex": 0,
+    "options": ["Le marché de l’art", "Les académies privées","Le mécénat", "Les expositions publiques"],
+    "answerIndex": 2,
     "explication": "Le mécénat aristocratique est remplacé par un art libre, détaché du pouvoir politique ou religieux."
   },
   {
@@ -115,8 +115,8 @@
   },
   {
     "question": "20 - Quelle allégorie Tony Johannot illustre-t-il dans L’Artiste ?",
-    "options": ["La hiérarchie des arts", "L’union idéale des arts", "La rivalité entre les arts", "La critique du romantisme"],
-    "answerIndex": 1,
+    "options": ["La hiérarchie des arts", "La rivalité entre les arts", "La critique du romantisme", "L’union idéale des arts"],
+    "answerIndex": 3,
     "explication": "La vignette gravée par Johannot montre l’union harmonieuse de tous les arts : musique, sculpture, peinture, littérature."
   },
   {
@@ -127,14 +127,14 @@
   },
   {
     "question": "22 - Que prône l’anticlassicisme ?",
-    "options": ["Le retour aux Grecs et Romains", "Le refus des règles et des modèles anciens", "La rigueur formelle", "Le rationalisme"],
-    "answerIndex": 1,
+    "options": ["Le retour aux Grecs et Romains", "La rigueur formelle",  "Le refus des règles et des modèles anciens","Le rationalisme"],
+    "answerIndex": 2,
     "explication": "Les romantiques s’opposent au classicisme et revendiquent la liberté créatrice face aux contraintes des anciens."
   },
   {
     "question": "23 - Que faisait-on dans les cénacles romantiques ?",
-    "options": ["Des cours de latin", "Des échanges artistiques et littéraires", "Des débats politiques", "Des expositions d’histoire"],
-    "answerIndex": 1,
+    "options": ["Des échanges artistiques et littéraires","Des cours de latin","Des débats politiques", "Des expositions d’histoire"],
+    "answerIndex": 0,
     "explication": "Les cénacles, comme celui de Nodier, rassemblaient écrivains, peintres et musiciens dans une communion artistique."
   },
   {
@@ -145,8 +145,8 @@
   },
   {
     "question": "25 - Que symbolise l’album romantique ?",
-    "options": ["Un livre religieux", "Un cahier mêlant plusieurs arts", "Un traité de peinture", "Une œuvre théorique"],
-    "answerIndex": 1,
+    "options": ["Un livre religieux", "Un traité de peinture", "Une œuvre théorique", "Un cahier mêlant plusieurs arts"],
+    "answerIndex": 3,
     "explication": "L’album romantique rassemblait poèmes, dessins, musiques, fleurs séchées : un symbole de l’union des arts."
   },
   {
@@ -157,14 +157,14 @@
   },
   {
     "question": "27 - Quelle relation particulière unit littérature et peinture ?",
-    "options": ["Elles s’opposent", "Elles s’imitent et se nourrissent mutuellement", "Elles ignorent leurs différences", "Elles ne partagent rien"],
-    "answerIndex": 1,
+    "options": ["Elles s’imitent et se nourrissent mutuellement","Elles s’opposent",  "Elles ignorent leurs différences", "Elles ne partagent rien"],
+    "answerIndex": 0,
     "explication": "La littérature et la peinture partagent un même désir de représenter le monde par l’imagination et la sensibilité."
   },
   {
     "question": "28 - Que signifie l’expression latine « ut pictura poesis » ?",
-    "options": ["L’art est inutile", "Comme la peinture, la poésie", "La peinture remplace la poésie", "L’art est rationnel"],
-    "answerIndex": 1,
+    "options": ["L’art est inutile", "La peinture remplace la poésie", "L’art est rationnel", "Comme la peinture, la poésie"],
+    "answerIndex": 3,
     "explication": "L’expression 'ut pictura poesis' compare les deux arts : la poésie doit peindre par les mots comme la peinture par les couleurs."
   },
   {
@@ -175,14 +175,14 @@
   },
   {
     "question": "30 - Quel roman de Zola met en scène un peintre ?",
-    "options": ["Germinal", "L’Œuvre", "Nana", "La Curée"],
-    "answerIndex": 1,
+    "options": ["Germinal", "Nana",  "L’Œuvre","La Curée"],
+    "answerIndex": 2,
     "explication": "Dans *L’Œuvre*, Zola raconte la vie d’un peintre, Claude Lantier, symbole de l’artiste moderne en quête de perfection."
   },
   {
     "question": "31 - Quelle faculté la peinture sollicite-t-elle surtout ?",
-    "options": ["L’ouïe", "La vue", "La mémoire", "La logique"],
-    "answerIndex": 1,
+    "options": ["La vue","L’ouïe",  "La mémoire", "La logique"],
+    "answerIndex": 0,
     "explication": "La peinture s’adresse directement à la perception visuelle : elle se regarde avant de se comprendre."
   },
   {
@@ -199,8 +199,8 @@
   },
   {
     "question": "34 - Que cherche l’artiste romantique à exprimer à travers la nature ?",
-    "options": ["La réalité scientifique", "Son propre état d’âme", "Une vérité universelle", "L’histoire du pays"],
-    "answerIndex": 1,
+    "options": ["La réalité scientifique", "Une vérité universelle", "L’histoire du pays", "Son propre état d’âme"],
+    "answerIndex": 3,
     "explication": "La nature devient le miroir du moi : l’artiste y projette ses émotions et ses rêves."
   },
   {
@@ -211,8 +211,8 @@
   },
   {
     "question": "36 - Quelle critique les Goncourt formulent-ils à propos de la littérature ?",
-    "options": ["Elle est trop émotive", "Elle demande un effort mental épuisant", "Elle est inférieure moralement", "Elle n’a pas de public"],
-    "answerIndex": 1,
+    "options": ["Elle est trop émotive", "Elle est inférieure moralement",  "Elle demande un effort mental épuisant","Elle n’a pas de public"],
+    "answerIndex": 2,
     "explication": "Les Goncourt trouvent la littérature trop cérébrale par rapport à la peinture, plus directe et intuitive."
   },
   {
@@ -223,8 +223,8 @@
   },
   {
     "question": "38 - Quelle est la principale opposition esthétique du XIXe siècle ?",
-    "options": ["Romantique / Classique", "Réalisme / Symbolisme", "Ancien / Moderne", "Poésie / Prose"],
-    "answerIndex": 0,
+    "options": [ "Réalisme / Symbolisme", "Ancien / Moderne","Romantique / Classique", "Poésie / Prose"],
+    "answerIndex": 2,
     "explication": "L’opposition entre les romantiques et les classiques structure tout le débat esthétique du début du XIXe siècle."
   },
   {
@@ -241,8 +241,8 @@
   },
   {
     "question": "41 - Quelle figure illustre la 'nouvelle sacralité' de l’art ?",
-    "options": ["Le poète inspiré", "Le critique littéraire", "Le marchand d’art", "Le professeur"],
-    "answerIndex": 0,
+    "options": [ "Le critique littéraire", "Le marchand d’art", "Le poète inspiré","Le professeur"],
+    "answerIndex": 2,
     "explication": "Le poète inspiré, héritier du prophète, symbolise cette sacralisation de la création artistique."
   },
   {
@@ -253,14 +253,14 @@
   },
   {
     "question": "43 - Quelle époque artistique les romantiques réhabilitent-ils ?",
-    "options": ["L’Antiquité", "Le Moyen Âge", "La Renaissance", "Le siècle classique"],
-    "answerIndex": 1,
+    "options": ["L’Antiquité", "La Renaissance", "Le siècle classique", "Le Moyen Âge"],
+    "answerIndex": 3,
     "explication": "Le Moyen Âge, longtemps méprisé, devient pour les romantiques une source d’inspiration poétique et spirituelle."
   },
   {
     "question": "44 - Quelle émotion domine dans la littérature du Nord selon Mme de Staël ?",
-    "options": ["La gaieté", "La mélancolie", "L’enthousiasme", "La fureur"],
-    "answerIndex": 1,
+    "options": ["La mélancolie","La gaieté",  "L’enthousiasme", "La fureur"],
+    "answerIndex": 0,
     "explication": "Mme de Staël associe la littérature nordique à une imagination mélancolique, tournée vers l’infini."
   },
   {
@@ -271,14 +271,14 @@
   },
   {
     "question": "46 - Comment les Goncourt qualifient-ils la tâche de l’écrivain ?",
-    "options": ["Une joie facile", "Un supplice du cerveau", "Un travail manuel", "Une activité sociale"],
-    "answerIndex": 1,
+    "options": ["Une joie facile",  "Un travail manuel", "Un supplice du cerveau","Une activité sociale"],
+    "answerIndex": 2,
     "explication": "Les Goncourt jugent l’écriture pénible et laborieuse comparée à la spontanéité du geste du peintre."
   },
   {
     "question": "47 - Quelle nouvelle perception du monde les romantiques introduisent-ils ?",
-    "options": ["Scientifique", "Intuitive et sensible", "Dogmatique", "Politique"],
-    "answerIndex": 1,
+    "options": ["Scientifique", "Dogmatique", "Politique", "Intuitive et sensible"],
+    "answerIndex": 3,
     "explication": "Les romantiques privilégient une vision sensible du monde, fondée sur l’émotion et la subjectivité."
   },
   {
@@ -295,8 +295,8 @@
   },
   {
     "question": "50 - Quel est le grand héritage du romantisme selon le cours ?",
-    "options": ["La modernité artistique et la liberté du créateur", "Le retour aux valeurs classiques", "La disparition de la poésie", "Le rejet de la peinture"],
-    "answerIndex": 0,
+    "options": ["Le retour aux valeurs classiques", "La disparition de la poésie", "La modernité artistique et la liberté du créateur","Le rejet de la peinture"],
+    "answerIndex": 2,
     "explication": "Le romantisme fonde la modernité : il libère l’artiste, valorise la subjectivité et rapproche tous les arts."
   }
 ]

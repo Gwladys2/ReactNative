@@ -13,8 +13,8 @@
   },
   {
     "question": "3 - Quel est le moyen d’expression de la peinture ?",
-    "options": ["Les mots", "Les couleurs et les formes", "Les chiffres", "Les sons"],
-    "answerIndex": 1,
+    "options": ["Les mots",  "Les chiffres", "Les sons","Les couleurs et les formes"],
+    "answerIndex": 3,
     "explication": "La peinture s’exprime par des formes, des lignes et des couleurs visibles sur une surface."
   },
   {
@@ -37,8 +37,8 @@
   },
   {
     "question": "7 - Pour Platon, l’art est-il une copie fidèle du réel ?",
-    "options": ["Oui, il révèle la vérité", "Non, il imite seulement les apparences", "Oui, mais de manière symbolique", "Il ne parle pas du tout d’art"],
-    "answerIndex": 1,
+    "options": ["Oui, il révèle la vérité", "Oui, mais de manière symbolique", "Il ne parle pas du tout d’art", "Non, il imite seulement les apparences"],
+    "answerIndex": 3,
     "explication": "Platon critique la peinture, car elle ne montre qu’une apparence du vrai, un simple reflet trompeur."
   },
   {
@@ -61,8 +61,8 @@
   },
   {
     "question": "11 - Quel peintre est cité comme exemple d’art mythologique à la Renaissance ?",
-    "options": ["Delacroix", "Nicolas Poussin", "Claude Monet", "David Hockney"],
-    "answerIndex": 1,
+    "options": [ "Nicolas Poussin","Delacroix", "Claude Monet", "David Hockney"],
+    "answerIndex": 0,
     "explication": "Nicolas Poussin illustre l’influence de la mythologie antique avec des œuvres comme Écho et Narcisse."
   },
   {
@@ -73,20 +73,20 @@
   },
   {
     "question": "13 - Que représente la sculpture du Laocoon ?",
-    "options": ["Une scène mythologique grecque", "Un paysage romantique", "Une allégorie religieuse", "Une nature morte"],
-    "answerIndex": 0,
+    "options": [ "Un paysage romantique", "Une scène mythologique grecque","Une allégorie religieuse", "Une nature morte"],
+    "answerIndex": 1,
     "explication": "Elle montre Laocoon et ses fils attaqués par des serpents, épisode tiré de l’Énéide de Virgile."
   },
   {
     "question": "14 - Quelle période redonne une importance forte à l’émotion et à l’imagination ?",
-    "options": ["Le classicisme", "Le romantisme", "Le réalisme", "Le symbolisme"],
-    "answerIndex": 1,
+    "options": ["Le classicisme", "Le réalisme", "Le symbolisme", "Le romantisme"],
+    "answerIndex": 3,
     "explication": "Le romantisme met en avant la subjectivité, la liberté et les sentiments plutôt que les règles classiques."
   },
   {
     "question": "15 - Que signifie le mot « romantique » à l’origine ?",
-    "options": ["Ce qui vient de Rome", "Ce qui rappelle les romans, donc ce qui fait rêver", "Ce qui est rationnel", "Ce qui est scientifique"],
-    "answerIndex": 1,
+    "options": ["Ce qui vient de Rome", "Ce qui est rationnel", "Ce qui rappelle les romans, donc ce qui fait rêver", "Ce qui est scientifique"],
+    "answerIndex": 2,
     "explication": "Le mot vient du mot anglais 'romantic', qui désigne d’abord ce qui évoque les histoires de roman, donc l’imaginaire."
   },
   {
@@ -127,14 +127,14 @@
   },
   {
     "question": "22 - Qu’est-ce qu’un 'album amicorum' au XIXe siècle ?",
-    "options": ["Un album de musique", "Un carnet d’amitié mêlant dessins et poèmes", "Un recueil de critique d’art", "Un roman collectif"],
-    "answerIndex": 1,
+    "options": ["Un album de musique", "Un recueil de critique d’art", "Un roman collectif", "Un carnet d’amitié mêlant dessins et poèmes"],
+    "answerIndex": 3,
     "explication": "L’album amicorum réunissait textes et croquis d’artistes amis, symbole concret de la fraternité des arts."
   },
   {
     "question": "23 - Que devient la figure de l’artiste au XIXe siècle ?",
-    "options": ["Un simple artisan", "Un génie inspiré et tourmenté", "Un travailleur anonyme", "Un imitateur"],
-    "answerIndex": 1,
+    "options": ["Un simple artisan", "Un travailleur anonyme",  "Un génie inspiré et tourmenté", "Un imitateur"],
+    "answerIndex": 2,
     "explication": "L’artiste romantique est vu comme un être exceptionnel, inspiré, parfois incompris et souffrant."
   },
   {
@@ -145,8 +145,8 @@
   },
   {
     "question": "25 - Comment se termine l’histoire du 'Chef-d’œuvre inconnu' ?",
-    "options": ["L’œuvre est admirée par tous", "Le peintre abandonne", "L’œuvre devient incompréhensible sauf un pied parfait", "Le tableau est volé"],
-    "answerIndex": 2,
+    "options": ["L’œuvre devient incompréhensible sauf un pied parfait","L’œuvre est admirée par tous", "Le peintre abandonne",  "Le tableau est volé"],
+    "answerIndex": 0,
     "explication": "Frenhofer crée un tableau incompréhensible, sauf un fragment parfait : symbole du mystère de la création."
   },
   {
@@ -157,8 +157,8 @@
   },
   {
     "question": "27 - Quelle idée Nathalie Heinich développe à propos de l’artiste moderne ?",
-    "options": ["Il travaille pour l’argent", "Il voit son art comme une mission sacrée", "Il se détache du monde", "Il n’a plus d’inspiration"],
-    "answerIndex": 1,
+    "options": ["Il travaille pour l’argent", "Il se détache du monde", "Il n’a plus d’inspiration", "Il voit son art comme une mission sacrée"],
+    "answerIndex": 3,
     "explication": "Elle parle de « régime vocationnel » : l’artiste agit par passion et voit l’art comme une vocation presque religieuse."
   },
   {
@@ -169,8 +169,8 @@
   },
   {
     "question": "29 - Quelle phrase célèbre résume la fusion romantique des arts ?",
-    "options": ["Ut pictura poesis", "Cogito ergo sum", "Carpe diem", "Ars longa vita brevis"],
-    "answerIndex": 0,
+    "options": [ "Cogito ergo sum", "Ut pictura poesis","Carpe diem", "Ars longa vita brevis"],
+    "answerIndex": 1,
     "explication": "La formule 'Ut pictura poesis' illustre le parallèle entre poésie et peinture, idée reprise par les romantiques."
   },
   {
@@ -193,8 +193,8 @@
   },
   {
     "question": "33 - Pourquoi dit-on que le langage de la peinture est 'naturel' ?",
-    "options": ["Parce qu’il ne demande pas de traduction", "Parce qu’il est abstrait", "Parce qu’il est toujours religieux", "Parce qu’il dépend des mots"],
-    "answerIndex": 0,
+    "options": [ "Parce qu’il est abstrait", "Parce qu’il est toujours religieux", "Parce qu’il dépend des mots","Parce qu’il ne demande pas de traduction"],
+    "answerIndex": 3,
     "explication": "Les formes et couleurs sont universelles : elles imitent directement la réalité, sans code linguistique."
   },
   {
@@ -205,26 +205,26 @@
   },
   {
     "question": "35 - Que veut dire le mot 'mimèsis' en grec ?",
-    "options": ["Création", "Imitation", "Écriture", "Perception"],
-    "answerIndex": 1,
+    "options": ["Création", "Écriture",  "Imitation","Perception"],
+    "answerIndex": 2,
     "explication": "Le mot 'mimèsis' signifie imitation. Il désigne la capacité de l’art à reproduire le monde."
   },
   {
     "question": "36 - Quelle est la différence entre la vision de Platon et celle d’Aristote sur l’art ?",
-    "options": ["Platon valorise l’art, Aristote le rejette", "Platon le rejette, Aristote le valorise", "Les deux pensent que l’art ne sert à rien", "Ils pensent la même chose"],
-    "answerIndex": 1,
+    "options": ["Platon le rejette, Aristote le valorise","Platon valorise l’art, Aristote le rejette",  "Les deux pensent que l’art ne sert à rien", "Ils pensent la même chose"],
+    "answerIndex": 0,
     "explication": "Platon critique l’art car il trompe, Aristote le défend comme une imitation utile et créatrice."
   },
   {
     "question": "37 - Comment Lessing différencie-t-il peinture et poésie ?",
-    "options": ["La peinture agit dans le temps, la poésie dans l’espace", "La peinture agit dans l’espace, la poésie dans le temps", "Elles sont identiques", "Il ne les différencie pas"],
-    "answerIndex": 1,
+    "options": ["La peinture agit dans le temps, la poésie dans l’espace", "Elles sont identiques", "Il ne les différencie pas", "La peinture agit dans l’espace, la poésie dans le temps"],
+    "answerIndex": 3,
     "explication": "Lessing explique que la peinture montre ce qui est visible en même temps, la poésie raconte ce qui se déroule dans le temps."
   },
   {
     "question": "38 - Quel lien existe entre Dante et Delacroix ?",
-    "options": ["Delacroix a illustré Dante", "Dante a peint Delacroix", "Ils ont collaboré ensemble", "Aucun lien"],
-    "answerIndex": 0,
+    "options": [ "Dante a peint Delacroix","Delacroix a illustré Dante", "Ils ont collaboré ensemble", "Aucun lien"],
+    "answerIndex": 1,
     "explication": "Delacroix peint 'Dante et Virgile aux Enfers', inspiré d’un passage de 'L’Enfer' de Dante."
   },
   {
@@ -247,14 +247,14 @@
   },
   {
     "question": "42 - Que veut dire l’expression « peinture parlante » ?",
-    "options": ["Une peinture sonore", "Une poésie qui évoque des images visuelles", "Une sculpture colorée", "Une peinture interactive"],
-    "answerIndex": 1,
+    "options": ["Une peinture sonore", "Une sculpture colorée", "Une peinture interactive", "Une poésie qui évoque des images visuelles"],
+    "answerIndex": 3,
     "explication": "La poésie est comparée à une peinture 'parlante' : elle fait naître des images dans l’esprit du lecteur."
   },
   {
     "question": "43 - Que représente le « pied parfait » dans 'Le Chef-d’œuvre inconnu' ?",
-    "options": ["Le raté de l’artiste", "La beauté absolue atteinte partiellement", "Une erreur du peintre", "Un détail sans importance"],
-    "answerIndex": 1,
+    "options": ["La beauté absolue atteinte partiellement","Le raté de l’artiste",  "Une erreur du peintre", "Un détail sans importance"],
+    "answerIndex": 0,
     "explication": "Le pied symbolise le fragment de perfection : ce que l’artiste a réussi avant d’aller trop loin."
   },
   {
@@ -265,8 +265,8 @@
   },
   {
     "question": "45 - Selon Bernard Vouilloux, que devient la littérature au XIXe siècle ?",
-    "options": ["Elle s’inspire de la peinture", "Elle devient scientifique", "Elle rejette l’image", "Elle abandonne les émotions"],
-    "answerIndex": 0,
+    "options": [ "Elle devient scientifique", "Elle rejette l’image", "Elle s’inspire de la peinture","Elle abandonne les émotions"],
+    "answerIndex": 2,
     "explication": "Vouilloux parle d’un 'tournant artiste' : la littérature emprunte à la peinture ses manières de voir et de décrire."
   },
   {
@@ -277,8 +277,8 @@
   },
   {
     "question": "47 - Quelle est la différence entre peinture et littérature selon Lessing ?",
-    "options": ["L’une utilise des sons, l’autre des couleurs", "L’une agit dans l’espace, l’autre dans le temps", "Elles ne diffèrent pas", "La littérature est supérieure"],
-    "answerIndex": 1,
+    "options": ["L’une utilise des sons, l’autre des couleurs", "Elles ne diffèrent pas", "La littérature est supérieure", "L’une agit dans l’espace, l’autre dans le temps"],
+    "answerIndex": 3,
     "explication": "Lessing distingue clairement les domaines : la peinture est spatiale, la littérature temporelle."
   },
   {

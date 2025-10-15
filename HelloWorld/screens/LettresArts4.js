@@ -4,6 +4,7 @@ import questions from '../questions/LettreArts/serie4.json';
 import { ProgressContext } from '../context/ProgressContext';
 import HeaderStats from '../components/HeaderStats';
 import Logo from './Logo'; 
+import { ScrollView } from 'react-native';
 
 
 
@@ -56,7 +57,7 @@ export default function LessonScreen({ navigation }) {
 
 
     return (
-        <View style={styles.container}>
+        <ScrollView contentContainerStyle={styles.container}>
             
             <HeaderStats />
             <Logo/>
@@ -78,20 +79,20 @@ export default function LessonScreen({ navigation }) {
             )}
 
         <View style={styles.linkContainer}>
-                                       <Text style={styles.link} onPress={() => navigation.navigate('LettresArts')}> 🚀 Introduction Part1</Text>
-                                       <Text style={styles.link} onPress={() => navigation.navigate('LettresArts2')}> 🚀 Introduction Part2</Text>
-                                       <Text style={styles.link} onPress={() => navigation.navigate('LettresArts3')}> 🚀 Le commentaire comparé</Text>
-                                       <Text style={styles.link} onPress={() => navigation.navigate('LettresArts4')}> 🚀 Le petit lexique du Littéraire</Text>
+                                       <Text style={styles.link} onPress={() => navigation.navigate('LettresArts')}> Introduction Part1</Text>
+                                       <Text style={styles.link} onPress={() => navigation.navigate('LettresArts2')}> Introduction Part2</Text>
+                                       <Text style={styles.link} onPress={() => navigation.navigate('LettresArts3')}> Le commentaire comparé</Text>
+                                       <Text style={styles.link} onPress={() => navigation.navigate('LettresArts4')}> Le petit lexique du Littéraire</Text>
                                        
                                         
                                        </View>
                
-                       </View>
+                       </ScrollView>
                    );
                }
                const styles = StyleSheet.create({
                    container: { 
-                       flex: 1, 
+                       flexGrow: 1, 
                        padding: 20, 
                        justifyContent: 'flex-start' 
                    },
@@ -117,7 +118,8 @@ export default function LessonScreen({ navigation }) {
                        fontSize: 16,
                        color: '#007BFF',
                        textDecorationLine: 'underline',
-                       marginHorizontal: 8 // ✅ espace horizontal entre les liens
+                       marginHorizontal: 8, // ✅ espace horizontal entre les liens
+                       fontSize:20
                    }
                });
                

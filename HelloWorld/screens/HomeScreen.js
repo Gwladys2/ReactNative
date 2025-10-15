@@ -38,14 +38,15 @@ export default function HomeScreen({ navigation }) {
             <Text style={styles.title}>Bienvenue !</Text>
             <Text style={styles.montexte}>On a toujours une chance de recommencer 🎉</Text>
             <Text>-------------------------------------------------</Text>
-            <Text style={styles.montexte}>À chaque 100 XP gagnés, une nouvelle vie est ajoutée.</Text>
+            <Text style={styles.montexte}>  À chaque 100 XP gagnés,  1 vie est gagnée </Text>
+            
 
             {lives === 0 && (
-                <Button title="Recommencer (restaurer les vies)" onPress={handleRestart} color="#ff4444" />
+                <Button title="Recommencer (restaurer les vies)" onPress={handleRestart} color="#07953bff"/>
             )
             }
             {xp> 0 && (
-                <Button title="Recommencer" onPress={recommencer} color="#ff4444" />
+                <Button title="Recommencer" onPress={recommencer} color="#07953bff" />
             )
             }
         

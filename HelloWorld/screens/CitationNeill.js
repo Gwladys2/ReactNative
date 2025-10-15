@@ -1,6 +1,6 @@
 import React, { useContext, useState } from 'react';
 import { View, Text, Button, StyleSheet, Alert } from 'react-native';
-import questions from '../questions/ScienceEducation/GrandPedagogue/serie3.json';
+import questions from '../questions/citations/neill.json';
 import { ProgressContext } from '../context/ProgressContext';
 import HeaderStats from '../components/HeaderStats';
 import Logo from './Logo'; 
@@ -57,13 +57,13 @@ export default function LessonScreen({ navigation }) {
 
 
     return (
-       <ScrollView contentContainerStyle={styles.container}>
+        <ScrollView contentContainerStyle={styles.container}>
             
             <HeaderStats />
             <Logo/>
             {!showRestart ? (
                 <>
-                    <Text style={styles.titre}>Les Grands Pédagogues Montessori part 1</Text>
+                    <Text style={styles.titre}>Les citations de Neill</Text>
 
                     <Text style={styles.question}>{current.question}</Text>
                     {current.options.map((option, i) => (
@@ -85,11 +85,12 @@ export default function LessonScreen({ navigation }) {
                                <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue3')}> Montessori 1</Text>
                                 <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue4')}> Montessori 2</Text>
                                 <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue5')}> Neill</Text>
-                              <Text style={styles.link} onPress={() => navigation.navigate('CitationNeill')}>citations Neill</Text>
-                               <Text style={styles.link} onPress={() => navigation.navigate('CitationMontessori')}>citations Montessori</Text>
+                                <Text style={styles.link} onPress={() => navigation.navigate('CitationNeill')}>citations Neill</Text>
+                                 <Text style={styles.link} onPress={() => navigation.navigate('CitationMontessori')}>citations Montessori</Text>
                                </View>
        
-                </ScrollView>
+               
+                             </ScrollView>
            );
        }
        const styles = StyleSheet.create({
@@ -120,7 +121,7 @@ export default function LessonScreen({ navigation }) {
                fontSize: 16,
                color: '#007BFF',
                textDecorationLine: 'underline',
-               marginHorizontal: 8 ,// ✅ espace horizontal entre les liens
+               marginHorizontal: 8, // ✅ espace horizontal entre les liens
                fontSize:20
            }
        });

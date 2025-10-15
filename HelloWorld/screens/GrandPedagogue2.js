@@ -80,10 +80,13 @@ export default function LessonScreen({ navigation }) {
             )}
 
        <View style={styles.linkContainer}>
-                                <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue')}> 🚀 Freinet 1</Text>
-                              <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue2')}> 🚀 Freinet 2</Text>
-                               <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue3')}> 🚀 Montessori 1</Text>
-                                <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue4')}> 🚀 Montessori 2</Text>
+                                <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue')}> Freinet 1</Text>
+                              <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue2')}> Freinet 2</Text>
+                               <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue3')}> Montessori 1</Text>
+                                <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue4')}> Montessori 2</Text>
+                                <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue5')}> Neill</Text>
+                                <Text style={styles.link} onPress={() => navigation.navigate('CitationNeill')}>citations Neill</Text>
+                                 <Text style={styles.link} onPress={() => navigation.navigate('CitationMontessori')}>citations Montessori</Text>
                                </View>
        
               </ScrollView>
@@ -96,7 +99,9 @@ export default function LessonScreen({ navigation }) {
         justifyContent: 'flex-start' 
     },
     question: { fontSize: 20, marginBottom: 20, fontWeight: 'bold' },
-    titre: { textAlign: 'center', fontSize: 20, marginBottom: 20, fontWeight: 'bold', marginTop: 10 },
+    titre: { textAlign: 'center', fontSize: 20, marginBottom: 20, fontWeight: 'bold', marginTop: 10 
+        
+    },
     linkContainer: {
         flexDirection: 'row',
         justifyContent: 'center',
@@ -107,6 +112,7 @@ export default function LessonScreen({ navigation }) {
         fontSize: 16,
         color: '#007BFF',
         textDecorationLine: 'underline',
-        marginHorizontal: 8
+        marginHorizontal: 8,
+        fontSize:20
     }
 });

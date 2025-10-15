@@ -4,6 +4,7 @@ import questions from '../questions/psychoDevApp/serie1.json';
 import { ProgressContext } from '../context/ProgressContext';
 import HeaderStats from '../components/HeaderStats';
 import Logo from './Logo'; 
+import { ScrollView } from 'react-native';
 
 
 
@@ -56,13 +57,13 @@ export default function LessonScreen({ navigation }) {
 
 
     return (
-        <View style={styles.container}>
+        <ScrollView contentContainerStyle={styles.container}>
             
             <HeaderStats />
             <Logo/>
             {!showRestart ? (
                 <>
-                    <Text style={styles.titre}>Psychologie du développement et de l'éducation</Text>
+                    <Text style={styles.titre}>Psychologie du développement et de l'éducation: Repères historiques</Text>
 
                     <Text style={styles.question}>{current.question}</Text>
                     {current.options.map((option, i) => (
@@ -74,49 +75,41 @@ export default function LessonScreen({ navigation }) {
                 <>
                     <Text style={styles.question}>Leçon terminée 🎉</Text>
                     <Button title="revenir à la liste des UE" onPress={() => navigation.navigate('ScienceEducation')} />
-                    <Button title="passer au niveau 2" onPress={() => navigation.navigate('PsychoEducation2')} />
+                    <Button title="passer aux premières sciences psychologiques" onPress={() => navigation.navigate('PsychoEducation2')} />
                 </>
             )}
              <View style={styles.linkContainer}>
-             <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation')}> 🚀 Repères historiques</Text>
-           <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation2')}> 🚀 Les 1ères siences psychologiques</Text>
-            <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation3')}> 🚀 La théorie freudienne part1</Text>
-             <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation4')}> 🚀 La théorie freudienne part2</Text>
+             <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation')}>Repères historiques</Text>
+           <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation2')}>Les 1ères sciences psychologiques</Text>
+            <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation3')}>La théorie freudienne part1</Text>
+             <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation4')}>La théorie freudienne part2</Text>
             </View>
 
-        </View>
+        </ScrollView>
     );
 }
 
-const styles = StyleSheet.create({
+  const styles = StyleSheet.create({
     container: { 
-        flex: 1, 
+        flexGrow: 1,             // ✅ permet à ScrollView de remplir tout l’espace disponible
         padding: 20, 
         justifyContent: 'flex-start' 
     },
-    question: { 
-        fontSize: 20, 
-        marginBottom: 20, 
-        fontWeight: 'bold' 
-    },
-    titre: { 
-        textAlign: 'center', 
-        fontSize: 20, 
-        marginBottom: 20, 
-        fontWeight: 'bold', 
-        marginTop: 10 
+    question: { fontSize: 18, marginBottom: 20, fontWeight: 'bold' },
+    titre: { textAlign: 'center', fontSize: 20, marginBottom: 20, fontWeight: 'bold', marginTop: 10 
+        
     },
     linkContainer: {
-        flexDirection: 'row',        // ✅ aligne les liens horizontalement
-        justifyContent: 'center',    // ✅ centre la ligne de liens
-        flexWrap: 'wrap',            // ✅ permet le retour à la ligne si trop long
+        flexDirection: 'row',
+        justifyContent: 'center',
+        flexWrap: 'wrap',
         marginTop: 20
     },
     link: {
         fontSize: 16,
         color: '#007BFF',
         textDecorationLine: 'underline',
-        marginHorizontal: 8 // ✅ espace horizontal entre les liens
+        marginHorizontal: 8,
+        fontSize:18
     }
 });
-

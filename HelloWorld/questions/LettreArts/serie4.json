@@ -25,11 +25,11 @@
     "question": "3 - L'anacoluthe désigne :",
     "options": [
       "Une rupture de construction grammaticale",
-      "Une suite d’idées logiques et ordonnées",
       "Une absence de ponctuation",
+      "Une suite d’idées logiques et ordonnées",
       "Une exagération volontaire"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "explication": "L'anacoluthe est une rupture dans la syntaxe d'une phrase. Elle surprend le lecteur et marque souvent une émotion ou une maladresse volontaire."
   },
   {
@@ -47,11 +47,11 @@
     "question": "5 - L’anaphore consiste à :",
     "options": [
       "Répéter un mot en fin de phrase",
-      "Répéter un mot en début de phrase ou de vers",
       "Opposer deux termes contraires",
-      "Répéter un son vocalique"
+      "Répéter un son vocalique",
+      "Répéter un mot en début de phrase ou de vers"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explication": "L’anaphore répète un mot ou groupe de mots en tête de phrase ou de vers pour insister sur une idée. Exemple : 'Moi président...' (François Hollande)."
   },
   {
@@ -79,34 +79,34 @@
   {
     "question": "8 - Qu'est-ce qu'une antithèse ?",
     "options": [
-      "Une opposition de deux idées dans une même phrase",
       "Une répétition de sons voyelles",
       "Un mot utilisé pour en remplacer un autre",
-      "Une exagération humoristique"
+      "Une exagération humoristique",
+      "Une opposition de deux idées dans une même phrase"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "explication": "L’antithèse met en valeur un contraste fort entre deux idées. Exemple : 'Il est riche en pauvreté, pauvre en richesse.'"
   },
   {
     "question": "9 - L’antonomase, c’est :",
     "options": [
-      "L’emploi d’un nom commun comme nom propre ou inversement",
       "Une exagération volontaire",
+      "L’emploi d’un nom commun comme nom propre ou inversement",
       "Une métaphore prolongée",
       "Une rime interne"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "explication": "L’antonomase remplace un nom propre par un nom commun ou inversement. Exemple : 'C’est un Don Juan' pour dire 'un séducteur'."
   },
   {
     "question": "10 - Que désigne une aposiopèse ?",
     "options": [
-      "Une figure d’interruption marquant une émotion ou un silence",
       "Une succession de rimes identiques",
       "Un retour du même mot à la fin d’un vers",
+      "Une figure d’interruption marquant une émotion ou un silence",
       "Une figure d’amplification"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "explication": "L’aposiopèse interrompt brusquement une phrase, suggérant l’émotion ou la réticence. Exemple : 'Si tu continues, je...' "
   },
   {
@@ -123,12 +123,12 @@
   {
     "question": "12 - L’asyndète consiste à :",
     "options": [
-      "Supprimer les liens de coordination (et, mais...)",
       "Relier tous les éléments d’une phrase par 'et'",
+      "Supprimer les liens de coordination (et, mais...)",
       "Répéter un mot en fin de vers",
       "Faire rimer deux mots opposés"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "explication": "L’asyndète supprime les liens logiques ('et', 'ou'), créant un effet de rapidité. Exemple : 'Je suis venu, j’ai vu, j’ai vaincu.'"
   },
   {
@@ -156,12 +156,12 @@
   {
     "question": "15 - La métonymie consiste à :",
     "options": [
-      "Remplacer un mot par un autre selon un rapport logique (contenu/contenant, cause/effet...)",
       "Faire une comparaison directe",
       "Répéter un mot dans une phrase",
-      "Employer un mot dans son contraire"
+      "Employer un mot dans son contraire",
+      "Remplacer un mot par un autre selon un rapport logique (contenu/contenant, cause/effet...)"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "explication": "La métonymie repose sur un rapport logique ou concret : 'Boire un verre' pour 'boire le contenu du verre'."
   },
   {
@@ -178,12 +178,12 @@
   {
     "question": "17 - L’hyperbole sert à :",
     "options": [
-      "Exagérer volontairement une idée pour créer un effet fort",
       "Atténuer une réalité difficile",
       "Répéter un mot plusieurs fois",
+      "Exagérer volontairement une idée pour créer un effet fort",
       "Créer une contradiction"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "explication": "L’hyperbole amplifie volontairement : 'Je meurs de faim !' = 'J’ai très faim.'"
   },
   {
@@ -200,12 +200,12 @@
   {
     "question": "19 - La litote consiste à :",
     "options": [
-      "Dire moins pour faire entendre plus",
       "Dire le contraire de ce qu’on pense",
       "Répéter une idée plusieurs fois",
+      "Dire moins pour faire entendre plus",
       "Supprimer les liens logiques"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "explication": "La litote sous-entend davantage que ce qu’elle dit : 'Ce n’est pas mauvais' = 'C’est bon'."
   },
   {
@@ -233,12 +233,12 @@
   {
     "question": "22 - Quelle est la différence entre comparaison et métaphore ?",
     "options": [
-      "La comparaison a un outil comparant, la métaphore non",
       "La métaphore est plus longue",
+      "La comparaison a un outil comparant, la métaphore non",
       "La comparaison parle toujours de personnes",
       "La métaphore n’a pas de sens figuré"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "explication": "La comparaison utilise un outil comparant ('comme', 'tel'), alors que la métaphore fait le rapprochement directement."
   },
   {
@@ -255,23 +255,24 @@
   {
     "question": "24 - Qu’est-ce qu’une ellipse ?",
     "options": [
-      "Une suppression d’éléments dans une phrase",
       "Une phrase très longue sans ponctuation",
+      "Une suppression d’éléments dans une phrase",
       "Une inversion du sujet et du verbe",
       "Une comparaison entre deux idées"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "explication": "L’ellipse omet volontairement un ou plusieurs mots sous-entendus : 'Pierre mange plus que Paul [ne mange]'."
   },
   {
     "question": "25 - Une hyperbate se reconnaît quand :",
     "options": [
-      "Un mot attendu est rejeté en fin de phrase",
+      
       "Un mot est répété plusieurs fois",
       "On met un mot au début au lieu de la fin",
-      "Il y a rime interne"
+      "Il y a rime interne",
+      "Un mot attendu est rejeté en fin de phrase"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "explication": "L’hyperbate rejette un mot en fin de phrase pour le mettre en valeur. Exemple : 'Le roman est toujours un imaginaire, et au même degré.'"
   },
   {
@@ -299,23 +300,23 @@
   {
     "question": "28 - La prosopopée est proche de la personnification car :",
     "options": [
-      "Elle fait parler un être absent, mort ou inanimé",
       "Elle répète des mots à la suite",
       "Elle exagère une émotion",
+      "Elle fait parler un être absent, mort ou inanimé",
       "Elle décrit un objet sans le nommer"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "explication": "La prosopopée met en scène une voix absente ou morte. Exemple : 'Ô lac ! l'année à peine a fini sa carrière...' (Lamartine)."
   },
   {
     "question": "29 - L’hypallage consiste à :",
     "options": [
-      "Attribuer à un mot les qualités d’un autre mot du groupe",
       "Comparer deux idées",
+      "Attribuer à un mot les qualités d’un autre mot du groupe",
       "Employer un mot dans un sens contraire",
       "Exagérer un sentiment"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "explication": "L’hypallage déplace un adjectif d’un mot à un autre : 'Je suis d’un pas rêveur le sentier solitaire.' (Lamartine)."
   },
   {
@@ -332,23 +333,23 @@
   {
     "question": "31 - Qu’est-ce qu’une anaphore sert à faire dans un texte lyrique ?",
     "options": [
-      "Introduire une émotion par la répétition rythmée",
       "Créer un effet d’opposition",
       "Simplifier une phrase complexe",
-      "Répéter des sons vocaliques"
+      "Répéter des sons vocaliques",
+      "Introduire une émotion par la répétition rythmée"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "explication": "Dans le registre lyrique, l’anaphore renforce l’émotion par le rythme et la répétition insistante d’un mot ou d’une idée."
   },
   {
     "question": "32 - Quelle figure exprime une gradation ?",
     "options": [
-      "Une succession d’éléments de plus en plus forts",
       "Une inversion syntaxique",
+      "Une succession d’éléments de plus en plus forts",
       "Une atténuation",
       "Une répétition sonore"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "explication": "La gradation organise une montée en intensité : 'Va, cours, vole et nous venge !' (Corneille)."
   },
   {
@@ -365,23 +366,24 @@
   {
     "question": "34 - Quelle figure remplace un mot par une expression plus longue ?",
     "options": [
-      "Périphrase",
+      
       "Litote",
       "Métonymie",
-      "Antiphrase"
+      "Antiphrase",
+      "Périphrase"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "explication": "La périphrase utilise plusieurs mots à la place d’un seul : 'L’astre du jour' pour 'le soleil'."
   },
   {
     "question": "35 - Quelle figure exagère l’émotion pour susciter la compassion ?",
     "options": [
-      "Le pathétique",
       "Le tragique",
       "L’hyperbole",
+      "Le pathétique",
       "L’antithèse"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "explication": "Le registre pathétique cherche à émouvoir le lecteur par la mise en scène de la souffrance et de la douleur."
   },
   {
@@ -398,12 +400,13 @@
   {
     "question": "37 - Quelle figure consiste à anticiper un événement futur dans le récit ?",
     "options": [
-      "Prolepse",
+      
       "Ellipse",
       "Flashback",
+      "Prolepse",
       "Euphémisme"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "explication": "La prolepse annonce à l’avance un événement à venir. Elle crée une tension narrative ou dramatique."
   },
   {
@@ -442,34 +445,34 @@
   {
     "question": "41 - En versification, qu’est-ce qu’un alexandrin ?",
     "options": [
-      "Un vers de 12 syllabes",
       "Un vers de 10 syllabes",
       "Un vers de 8 syllabes",
-      "Un vers de 6 syllabes"
+      "Un vers de 6 syllabes",
+      "Un vers de 12 syllabes"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "explication": "L’alexandrin est le vers classique de 12 syllabes, souvent divisé par une césure en deux hémistiches de 6 syllabes."
   },
   {
     "question": "42 - Qu’est-ce qu’une césure ?",
     "options": [
-      "Une pause rythmique qui divise le vers en deux hémistiches",
       "Un accent tonique final",
+      "Une pause rythmique qui divise le vers en deux hémistiches",
       "Une répétition de sons",
       "Un enjambement"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "explication": "La césure divise un vers long (souvent l’alexandrin) en deux parties équilibrées, marquant une respiration rythmique."
   },
   {
     "question": "43 - Quelle est la différence entre assonance et rime ?",
     "options": [
-      "L’assonance répète les voyelles, la rime répète les sons à la fin des vers",
       "Il n’y a aucune différence",
       "La rime se trouve en milieu de vers",
+      "L’assonance répète les voyelles, la rime répète les sons à la fin des vers",
       "L’assonance ne s’emploie qu’en prose"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "explication": "L’assonance répète les voyelles n’importe où, tandis que la rime est une répétition de sons en fin de vers."
   },
   {
@@ -508,23 +511,23 @@
   {
     "question": "47 - Quelle est la différence entre rejet et contre-rejet ?",
     "options": [
-      "Le rejet met en valeur le début du vers suivant, le contre-rejet la fin du vers précédent",
       "Ce sont des synonymes",
+      "Le rejet met en valeur le début du vers suivant, le contre-rejet la fin du vers précédent",
       "Le rejet est plus long",
       "Le contre-rejet n’existe qu’en prose"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "explication": "Le rejet prolonge la phrase sur le vers suivant, tandis que le contre-rejet commence une phrase avant la rime et la continue après."
   },
   {
     "question": "48 - Que désigne le 'e muet' en poésie ?",
     "options": [
-      "Une syllabe parfois comptée, parfois non selon sa position",
       "Une rime obligatoire",
       "Une voyelle accentuée",
+      "Une syllabe parfois comptée, parfois non selon sa position",
       "Une césure marquée"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "explication": "Le 'e muet' compte comme une syllabe devant une consonne mais pas en fin de vers ni devant une voyelle."
   },
   {
@@ -541,12 +544,12 @@
   {
     "question": "50 - Qu’est-ce qu’un hiatus ?",
     "options": [
-      "La rencontre de deux voyelles prononcées distinctement",
       "Une répétition de rimes",
+      "La rencontre de deux voyelles prononcées distinctement",
       "Une coupure métrique",
       "Un vers trop court"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "explication": "Le hiatus est le contact de deux voyelles entre deux mots ('il a été'), souvent évité dans la poésie classique."
   }
 ]

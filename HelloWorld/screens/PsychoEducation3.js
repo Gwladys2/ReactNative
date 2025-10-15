@@ -4,7 +4,7 @@ import questions from '../questions/psychoDevApp/serie3.json';
 import { ProgressContext } from '../context/ProgressContext';
 import HeaderStats from '../components/HeaderStats';
 import Logo from './Logo'; 
-
+import { ScrollView } from 'react-native';
 
 
 export default function LessonScreen({ navigation }) {
@@ -56,13 +56,12 @@ export default function LessonScreen({ navigation }) {
 
 
     return (
-        <View style={styles.container}>
-            
+        <ScrollView contentContainerStyle={styles.container}>
             <HeaderStats />
             <Logo/>
             {!showRestart ? (
                 <>
-                    <Text style={styles.titre}>Psychologie du développement et de l'éducation Niveau 3</Text>
+                    <Text style={styles.titre}>Psychologie du développement et de l'éducation: Théorie freudienne partie 1</Text>
 
                     <Text style={styles.question}>{current.question}</Text>
                     {current.options.map((option, i) => (
@@ -73,31 +72,31 @@ export default function LessonScreen({ navigation }) {
             ) : (
                 <>
                     <Text style={styles.question}>Leçon terminée 🎉</Text>
-                    <Button title="revenir au niveau 2" onPress={() => navigation.navigate('PsychoEducation2')} />
-                    <Button title="passer au niveau 4" onPress={() => navigation.navigate('PsychoEducation4')} />
+                    <Button title="revenir à la liste des UE" onPress={() => navigation.navigate('ScienceEducation')} />
+                    <Button title="passer à la théorie freudienne part 2" onPress={() => navigation.navigate('PsychoEducation4')} />
                     
                 </>
             )}
             
                      <View style={styles.linkContainer}>
-                        <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation')}> 🚀 niveau 1</Text>
-                       <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation2')}> 🚀 niveau 2</Text>
-                        <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation3')}> 🚀 niveau 3</Text>
-                         <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation4')}> 🚀 niveau 4</Text>
+                        <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation')}>Repères historiques</Text>
+                                  <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation2')}>Les 1ères sciences psychologiques</Text>
+                                   <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation3')}>La théorie freudienne part1</Text>
+                                    <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation4')}>La théorie freudienne part2</Text>
                         </View>
 
-        </View>
+        </ScrollView>
     );
 }
 
 const styles = StyleSheet.create({
     container: { 
-        flex: 1, 
+        flexGrow: 1, 
         padding: 20, 
         justifyContent: 'flex-start' 
     },
     question: { 
-        fontSize: 20, 
+        fontSize: 18, 
         marginBottom: 20, 
         fontWeight: 'bold' 
     },
@@ -118,7 +117,8 @@ const styles = StyleSheet.create({
         fontSize: 16,
         color: '#007BFF',
         textDecorationLine: 'underline',
-        marginHorizontal: 8 // ✅ espace horizontal entre les liens
+        marginHorizontal: 8, // ✅ espace horizontal entre les liens
+        fontSize:18
     }
 });
 
