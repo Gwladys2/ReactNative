@@ -13,34 +13,35 @@
   {
     "question": "2 - « Dieu a donné à l’enfant une nature propre et a fixé certaines lois de développement. » Quelle idée principale s’en dégage ?",
     "options": [
-      "L’éducation doit suivre les lois naturelles du développement de l’enfant",
+      
       "L’enfant doit être corrigé par la religion",
       "Le développement dépend uniquement de la biologie",
-      "La pédagogie est indépendante de toute vision spirituelle"
+      "La pédagogie est indépendante de toute vision spirituelle",
+      "L’éducation doit suivre les lois naturelles du développement de l’enfant"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "explication": "Montessori fonde sa pédagogie sur un ordre naturel et spirituel : l’enfant suit des lois universelles que l’adulte doit accompagner."
   },
   {
     "question": "3 - « L’enfant a besoin qu’on l’observe. Ceci doit être le point de départ et le moteur de la réflexion de tout éducateur. » Que signifie cette citation ?",
-    "options": [
-      "Observer permet de comprendre quand et comment intervenir",
+    "options": [  
       "L’enfant doit être surveillé en permanence",
+      "Observer permet de comprendre quand et comment intervenir",
       "L’adulte doit corriger les comportements observés",
       "L’observation sert uniquement à évaluer les progrès scolaires"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "explication": "Pour Montessori, l’observation bienveillante et scientifique permet à l’éducateur d’ajuster son intervention sans briser l’autonomie de l’enfant."
   },
   {
     "question": "4 - « Aide-moi à faire tout seul. » Cette célèbre phrase exprime :",
-    "options": [
-      "Le cœur de la pédagogie de l’autonomie",
+    "options": [ 
       "Le refus de toute aide adulte",
       "Une invitation à travailler seul sans matériel",
+      "Le cœur de la pédagogie de l’autonomie",
       "Un principe de compétition"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "explication": "Montessori place l’autonomie au centre de son approche : l’adulte soutient sans faire à la place de l’enfant."
   },
   {
@@ -56,57 +57,57 @@
   },
   {
     "question": "6 - « Le comportement de nos enfants montre que la nature suit un ordre établi. » Que suggère cette observation ?",
-    "options": [
-      "L’enfant évolue selon des étapes naturelles de développement",
+    "options": [    
       "La société impose un ordre à l’enfant",
       "L’enfant doit apprendre la discipline extérieure",
-      "Les comportements des enfants sont imprévisibles"
+      "Les comportements des enfants sont imprévisibles",
+      "L’enfant évolue selon des étapes naturelles de développement"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "explication": "Montessori observe une organisation naturelle du développement, que l’éducation doit accompagner sans la perturber."
   },
   {
     "question": "7 - « L’adulte doit guider l’enfant sans trop lui faire sentir sa présence. » Quelle est la posture éducative ici décrite ?",
-    "options": [
-      "Une présence discrète et bienveillante",
+    "options": [   
       "Une autorité rigide",
+      "Une présence discrète et bienveillante",
       "Un contrôle constant",
       "Une absence totale d’encadrement"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "explication": "L’adulte doit intervenir au bon moment, sans domination, pour favoriser l’autonomie de l’enfant."
   },
   {
     "question": "8 - « Il doit toujours savoir reconnaître le moment où l’enfant a besoin d’aide et ne doit jamais être un obstacle entre l’enfant et son expérience. » Quelle compétence clé de l’éducateur cela décrit-il ?",
-    "options": [
-      "Le discernement dans l’intervention éducative",
+    "options": [      
       "La capacité à imposer des règles",
       "Le pouvoir d’enseigner sans observation",
-      "La gestion de classe autoritaire"
+      "La gestion de classe autoritaire",
+      "Le discernement dans l’intervention éducative"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "explication": "L’éducateur montessorien intervient avec justesse, ni trop tôt ni trop tard, pour soutenir sans interrompre le processus d’apprentissage."
   },
   {
     "question": "9 - « L’enfant dispose d’un plan de structuration inné de son âme. » Quelle idée est au cœur de cette phrase ?",
-    "options": [
-      "Chaque enfant a un développement intérieur propre",
+    "options": [   
       "Tous les enfants doivent suivre le même programme",
+      "Chaque enfant a un développement intérieur propre",
       "L’adulte doit imposer sa vision de l’éducation",
       "L’enfant ne peut se développer sans aide extérieure"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "explication": "Montessori affirme que chaque enfant suit un plan de développement unique, que l’adulte doit respecter et accompagner."
   },
   {
     "question": "10 - « L’enfant a besoin d’un milieu préparé à sa mesure. » Que sous-entend cette idée ?",
-    "options": [
-      "L’environnement doit être adapté à l’autonomie de l’enfant",
+    "options": [   
       "L’enfant doit s’adapter à l’école telle qu’elle est",
       "Seul le matériel intellectuel compte",
+      "L’environnement doit être adapté à l’autonomie de l’enfant",
       "Le milieu doit être dépourvu de règles"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "explication": "Montessori insiste sur un environnement ordonné, esthétique et fonctionnel qui favorise la liberté et la concentration."
   },
   {
@@ -122,46 +123,46 @@
   },
   {
     "question": "12 - « L’éducateur privilégie l’autoévaluation à l’évaluation extérieure. » Quelle finalité vise-t-elle ?",
-    "options": [
-      "Développer la confiance et la conscience de soi chez l’enfant",
+    "options": [    
       "Éviter les corrections et les notes",
+      "Développer la confiance et la conscience de soi chez l’enfant",
       "Simplifier la tâche de l’enseignant",
       "Remplacer toute évaluation par le jeu"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "explication": "L’enfant apprend à reconnaître et corriger ses erreurs, cultivant ainsi autonomie et responsabilité."
   },
   {
     "question": "13 - « L’enfant a un esprit absorbant. » Que veut dire Montessori par cette expression ?",
-    "options": [
-      "L’enfant assimile naturellement ce qui l’entoure",
+    "options": [   
       "L’enfant retient mieux sous contrainte",
       "L’enfant ne comprend que par répétition",
-      "L’enfant doit apprendre passivement"
+      "L’enfant doit apprendre passivement",
+      "L’enfant assimile naturellement ce qui l’entoure"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "explication": "L’esprit absorbant désigne la capacité extraordinaire des jeunes enfants à apprendre spontanément de leur environnement."
   },
   {
     "question": "14 - « L’éducation est une aide à la vie. » Quelle conception globale exprime cette phrase ?",
-    "options": [
-      "L’éducation soutient le développement naturel et complet de l’être humain",
+    "options": [     
       "L’éducation sert à reproduire la société",
+      "L’éducation soutient le développement naturel et complet de l’être humain",
       "L’éducation doit être strictement intellectuelle",
       "L’éducation prépare uniquement à un métier"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "explication": "Montessori voit l’éducation comme un accompagnement du processus vital de croissance et d’autonomie de l’enfant."
   },
   {
     "question": "15 - « Le rôle du maître n’est pas de parler, mais d’observer. » Que critique ici Montessori ?",
-    "options": [
-      "Le verbalisme et la domination de l’adulte dans l’enseignement",
+    "options": [   
       "L’utilisation du matériel pédagogique",
       "L’apprentissage par l’expérience",
+      "Le verbalisme et la domination de l’adulte dans l’enseignement",
       "L’autonomie de l’enfant"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "explication": "Elle reproche à l’école traditionnelle d’être trop centrée sur la parole du maître au lieu d’encourager l’action de l’enfant."
   },
   {
@@ -177,35 +178,35 @@
   },
   {
     "question": "17 - « La main est l’instrument de l’intelligence. » Que signifie cette métaphore célèbre ?",
-    "options": [
-      "L’intelligence se développe par l’action concrète",
+    "options": [    
       "L’intelligence est purement innée",
       "Le langage précède la compréhension",
-      "L’intellect est séparé du corps"
+      "L’intellect est séparé du corps",
+      "L’intelligence se développe par l’action concrète"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "explication": "Montessori relie le mouvement, la manipulation et la pensée : la main construit l’esprit en agissant sur le monde."
   },
   {
     "question": "18 - « L’enfant n’est pas un vase que l’on remplit, mais une source que l’on laisse jaillir. » Quelle critique de l’école traditionnelle cela contient-il ?",
-    "options": [
-      "L’enfant doit être acteur, non récepteur passif du savoir",
+    "options": [      
       "Les enfants manquent d’autorité",
+      "L’enfant doit être acteur, non récepteur passif du savoir",
       "Les connaissances doivent être imposées",
       "L’éducation doit être directive"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "explication": "Montessori refuse la pédagogie transmissive : elle défend une éducation qui réveille la curiosité naturelle de l’enfant."
   },
   {
     "question": "19 - « L’éducation doit être en phase avec les étapes du développement. » Quelle pratique cela implique ?",
-    "options": [
-      "Respecter le rythme et la maturité de chaque enfant",
+    "options": [      
       "Uniformiser les apprentissages",
       "Évaluer tous les enfants au même âge",
-      "Raccourcir les temps d’observation"
+      "Raccourcir les temps d’observation",
+      "Respecter le rythme et la maturité de chaque enfant"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "explication": "Montessori insiste sur la notion de 'périodes sensibles' : chaque apprentissage survient naturellement à un moment précis."
   },
   {
