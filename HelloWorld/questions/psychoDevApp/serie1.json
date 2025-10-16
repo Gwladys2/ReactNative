@@ -268,11 +268,10 @@
   {
     "question": "25 - La pédagogie adaptée développée au XIXe siècle visait à :",
     "options": [
-      
-      "Soutenir tous les enfants selon leurs besoins",
       "Se concentrer sur les adultes",
       "Supprimer les jeux et activités pratiques",
-      "Favoriser uniquement les enfants doués"
+      "Favoriser uniquement les enfants doués",
+      "Soutenir tous les enfants selon leurs besoins"
     ],
     "answerIndex": 3,
     "explication": "Avec Itard et l’école obligatoire, l’objectif était d’adapter l’enseignement aux capacités et besoins spécifiques de chaque enfant."
@@ -482,12 +481,11 @@
   },
   {
     "question": "44 - Piaget est associé à :",
-    "options": [
-      
-      "Le constructivisme et les stades du développement cognitif",
+    "options": [     
       "Le conditionnement opérant",
       "La théorie historico-culturelle",
-      "La psychanalyse"
+      "La psychanalyse",
+      "Le constructivisme et les stades du développement cognitif"
     ],
     "answerIndex": 3,
     "explication": "Piaget a montré que l’enfant construit activement son intelligence à travers des stades universels et successifs."
