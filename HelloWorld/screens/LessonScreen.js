@@ -35,7 +35,7 @@ export default function LessonScreen({ navigation }) {
             const newXp = newLives === 0 ? 0 : xp;
 
             await updateProgress(newXp, newLives);
-            Alert.alert("Mauvaise réponse", newLives > 0 ? "Essaie encore !" : "Tu n'as plus de vies !");
+            Alert.alert("Mauvaise réponse", newLives > 0 ? "Essaie encore !" : "Tu n'as plus de vies ! Je te conseille de relire ton cours et de revenir tenter ta chance😊");
             if (newLives === 0) {
                 navigation.navigate('Home');
             }

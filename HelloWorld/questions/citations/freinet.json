@@ -1,0 +1,222 @@
+[
+  {
+    "question": "1 - « On ne prépare pas l’enfant à la vie, on le fait vivre. » Que veut dire Freinet ?",
+    "options": [
+      "L’école doit enseigner la théorie avant la pratique",
+      "L’enfant apprend en vivant des expériences concrètes, pas en se préparant abstraitement",
+      "L’école doit isoler les enfants de la réalité",
+      "L’éducation doit être uniquement académique"
+    ],
+    "answerIndex": 1,
+    "explication": "Freinet refuse une école coupée du réel : il veut que les apprentissages soient vécus, expérimentés, et non simplement annoncés."
+  },
+  {
+    "question": "2 - « L’école doit être ouverte sur la vie. » Que signifie cette phrase ?",
+    "options": [
+      "L’école doit rester fermée pour protéger les enfants",
+      "Les savoirs doivent se relier à l’expérience quotidienne et au monde extérieur",
+      "Les élèves doivent quitter l’école tôt",
+      "L’école doit ignorer la réalité sociale"
+    ],
+    "answerIndex": 1,
+    "explication": "Pour Freinet, l’école ne doit pas être un lieu artificiel : elle doit être connectée à la vie réelle, au milieu, à la société."
+  },
+  {
+    "question": "3 - « L’enfant n’est pas un vase que l’on remplit, mais une source que l’on laisse jaillir. » Quelle vision traduit cette image ?",
+    "options": [
+      "L’enfant doit rester passif",
+      "L’enfant apprend par imitation uniquement",
+      "L’enfant est actif et créatif, il construit lui-même son savoir",
+      "Le maître doit tout contrôler"
+    ],
+    "answerIndex": 2,
+    "explication": "Freinet souligne ici l’activité intérieure de l’enfant : l’apprentissage est une construction, pas un remplissage."
+  },
+  {
+    "question": "4 - « C’est en tâtonnant que l’enfant découvre. » Quelle idée exprime cette citation ?",
+    "options": [
+      "L’erreur est un obstacle à l’apprentissage",
+      "L’enfant apprend par essais, erreurs et ajustements",
+      "L’enseignant doit toujours donner la bonne réponse",
+      "L’enfant doit suivre un modèle fixe"
+    ],
+    "answerIndex": 1,
+    "explication": "Freinet valorise le tâtonnement expérimental, une démarche naturelle où l’enfant apprend en cherchant et en corrigeant ses erreurs."
+  },
+  {
+    "question": "5 - « Le travail est un besoin fondamental de l’enfant. » Quelle conception Freinet exprime-t-il ?",
+    "options": [
+      "Le travail est une punition",
+      "L’enfant apprend et s’épanouit en agissant",
+      "Seul le jeu est utile",
+      "L’enfant doit éviter tout effort"
+    ],
+    "answerIndex": 1,
+    "explication": "Pour Freinet, le travail n’est pas une contrainte : c’est une activité naturelle qui développe la personnalité et la responsabilité."
+  },
+  {
+    "question": "6 - « Il ne s’agit pas de dresser, mais d’éduquer. » Quelle différence souligne-t-il ?",
+    "options": [
+      "L’éducation doit viser l’obéissance absolue",
+      "L’éducation développe la liberté et la conscience, contrairement au dressage",
+      "Les punitions sont nécessaires pour éduquer",
+      "L’enfant doit être discipliné sans explication"
+    ],
+    "answerIndex": 1,
+    "explication": "Freinet refuse l’école autoritaire : il veut une éducation qui forme des individus libres, responsables et critiques."
+  },
+  {
+    "question": "7 - « L’enfant apprend d’autant mieux qu’il agit. » Quelle pédagogie s’exprime ici ?",
+    "options": [
+      "Le magistralisme",
+      "L’apprentissage passif",
+      "L’apprentissage par l’action et l’expérience",
+      "L’apprentissage par la répétition mécanique"
+    ],
+    "answerIndex": 2,
+    "explication": "Freinet rejoint l’idée de l’Éducation nouvelle : c’est en manipulant, explorant et agissant que l’enfant comprend vraiment."
+  },
+  {
+    "question": "8 - « Le maître n’est pas celui qui enseigne, mais celui qui aide à apprendre. » Quelle transformation du rôle enseignant propose-t-il ?",
+    "options": [
+      "L’enseignant doit dominer la classe",
+      "Le maître guide et accompagne l’enfant dans sa propre recherche",
+      "Le maître transmet uniquement des savoirs figés",
+      "Le maître doit rester en retrait total"
+    ],
+    "answerIndex": 1,
+    "explication": "Le rôle du maître devient celui d’un accompagnateur : il organise, stimule, soutient, mais ne dicte pas tout."
+  },
+  {
+    "question": "9 - « On apprend toujours seul, mais jamais sans les autres. » Quelle idée essentielle exprime cette phrase ?",
+    "options": [
+      "L’enfant doit apprendre isolé",
+      "L’apprentissage est à la fois personnel et social",
+      "Les pairs empêchent de progresser",
+      "Le maître est inutile"
+    ],
+    "answerIndex": 1,
+    "explication": "Freinet reconnaît que l’apprentissage implique un effort personnel mais se nourrit de la coopération et du collectif."
+  },
+  {
+    "question": "10 - « Tout enfant porte en lui les germes de son propre développement. » Que veut dire Freinet ?",
+    "options": [
+      "L’enfant est déterminé par son milieu",
+      "Le maître doit forcer l’enfant à apprendre",
+      "L’enfant possède en lui les ressources pour grandir, si l’environnement le permet",
+      "Seuls les enfants doués peuvent progresser"
+    ],
+    "answerIndex": 2,
+    "explication": "Freinet croit au potentiel de chaque enfant : l’éducation doit offrir les conditions favorables à son épanouissement."
+  },
+  {
+    "question": "11 - « L’école doit être un lieu de vie, non un lieu d’ennui. » Que critique-t-il ici ?",
+    "options": [
+      "Les activités manuelles",
+      "L’école traditionnelle, trop abstraite et détachée du réel",
+      "La liberté des enfants",
+      "L’apprentissage collectif"
+    ],
+    "answerIndex": 1,
+    "explication": "Freinet critique l’école passive et ennuyeuse : il veut une école vivante, active, où l’enfant agit et crée."
+  },
+  {
+    "question": "12 - « L’enfant a droit à l’erreur. » Que veut-il signifier ?",
+    "options": [
+      "Les erreurs doivent être punies",
+      "L’erreur est un outil d’apprentissage naturel et nécessaire",
+      "Les élèves doivent éviter toute faute",
+      "Les erreurs n’ont aucune utilité"
+    ],
+    "answerIndex": 1,
+    "explication": "Freinet valorise l’erreur comme une étape normale du tâtonnement expérimental, indispensable à la compréhension."
+  },
+  {
+    "question": "13 - « La coopération est la clé de la réussite scolaire. » Que signifie cette idée ?",
+    "options": [
+      "La compétition motive les enfants",
+      "Les enfants apprennent mieux en s’entraidant qu’en rivalisant",
+      "L’entraide empêche les progrès individuels",
+      "Le travail de groupe est inutile"
+    ],
+    "answerIndex": 1,
+    "explication": "Freinet met la coopération au cœur de sa pédagogie : elle développe solidarité, responsabilité et apprentissage partagé."
+  },
+  {
+    "question": "14 - « Il faut partir de l’enfant. » Que veut dire cette maxime ?",
+    "options": [
+      "L’enfant doit suivre le programme strictement",
+      "L’enseignement doit s’adapter à ses besoins, intérêts et rythmes",
+      "Le maître décide de tout",
+      "Les élèves ne doivent pas choisir leurs activités"
+    ],
+    "answerIndex": 1,
+    "explication": "L’école doit s’adapter à la psychologie et à la curiosité naturelle de l’enfant, pas l’inverse."
+  },
+  {
+    "question": "15 - « L’enfant aime le travail à condition qu’il ait un sens pour lui. » Quelle idée exprime cette phrase ?",
+    "options": [
+      "Le travail doit être imposé sans explication",
+      "Le sens et la motivation sont essentiels à l’apprentissage",
+      "Les jeux sont inutiles",
+      "L’enfant déteste tout effort"
+    ],
+    "answerIndex": 1,
+    "explication": "Freinet insiste sur la nécessité de relier les tâches scolaires à la vie, aux projets et aux intérêts personnels de l’élève."
+  },
+  {
+    "question": "16 - « Le milieu est le premier éducateur. » Que veut dire Freinet par là ?",
+    "options": [
+      "Le maître doit tout enseigner directement",
+      "L’environnement joue un rôle déterminant dans le développement",
+      "L’enfant apprend uniquement par les livres",
+      "Les conditions de vie n’ont aucune influence"
+    ],
+    "answerIndex": 1,
+    "explication": "Le cadre de vie, la classe et les interactions sociales sont des leviers majeurs d’éducation selon Freinet."
+  },
+  {
+    "question": "17 - « Le plus grand malheur de l’école, c’est qu’on y parle beaucoup trop. » Que critique Freinet ici ?",
+    "options": [
+      "Les discussions entre élèves",
+      "Le discours magistral du maître qui empêche l’action",
+      "Le silence en classe",
+      "Les échanges oraux en groupe"
+    ],
+    "answerIndex": 1,
+    "explication": "Freinet reproche à l’école traditionnelle de parler au lieu de faire : il faut passer à l’action et à l’expérience."
+  },
+  {
+    "question": "18 - « L’école du peuple doit être l’école du travail. » Quelle philosophie traduit cette phrase ?",
+    "options": [
+      "L’école doit être centrée sur la théorie",
+      "L’école doit apprendre par la pratique et l’activité",
+      "Le travail scolaire doit être séparé de la vie",
+      "Les enfants doivent se spécialiser très tôt"
+    ],
+    "answerIndex": 1,
+    "explication": "Freinet veut une école populaire où le travail manuel, l’expérience et la production concrète ont une place centrale."
+  },
+  {
+    "question": "19 - « Le texte libre est la respiration de la classe. » Quelle idée exprime cette métaphore ?",
+    "options": [
+      "Le texte libre est une distraction",
+      "Il permet l’expression authentique et la liberté de parole des élèves",
+      "Il sert uniquement à évaluer l’écriture",
+      "Il remplace toutes les autres disciplines"
+    ],
+    "answerIndex": 1,
+    "explication": "Freinet voit dans le texte libre un espace vital où les élèves expriment leurs émotions, leur vécu et leur créativité."
+  },
+  {
+    "question": "20 - « La joie de l’enfant est le signe du travail réussi. » Quelle conception du travail scolaire révèle-t-il ?",
+    "options": [
+      "Le travail doit être pénible pour être efficace",
+      "Le plaisir et la motivation sont des indicateurs de réussite éducative",
+      "La joie est un obstacle à la rigueur",
+      "Les récompenses extérieures sont essentielles"
+    ],
+    "answerIndex": 1,
+    "explication": "Freinet pense que l’enfant apprend vraiment lorsqu’il prend plaisir à agir, découvrir et créer — la joie est un critère de réussite."
+  }
+]

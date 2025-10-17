@@ -34,7 +34,7 @@ export default function LessonScreen({ navigation }) {
             const newXp = newLives === 0 ? 0 : xp;
 
             await updateProgress(newXp, newLives);
-            Alert.alert("Mauvaise réponse", newLives > 0 ? "Essaie encore !" : "Tu n'as plus de vies !");
+            Alert.alert("Mauvaise réponse", newLives > 0 ? "Essaie encore !" : "Tu n'as plus de vies ! Je te conseille de relire ton cours et de revenir tenter ta chance😊");
             if (newLives === 0) {
                 navigation.navigate('Home');
             }
@@ -81,12 +81,13 @@ export default function LessonScreen({ navigation }) {
              <View style={styles.linkContainer}>
                          <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue')}> Freinet 1</Text>
                        
-                       <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue2')}> Freinet 2</Text>
+                        <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue2')}> Freinet 2</Text>
                         <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue3')}> Montessori 1</Text>
-                         <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue4')}> Montessori 2</Text>
-                         <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue5')}> Neill</Text>
-                         <Text style={styles.link} onPress={() => navigation.navigate('CitationNeill')}>citations Neill</Text>
-                          <Text style={styles.link} onPress={() => navigation.navigate('CitationMontessori')}>citations Montessori</Text>
+                        <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue4')}> Montessori 2</Text>
+                        <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue5')}> Neill</Text>
+                        <Text style={styles.link} onPress={() => navigation.navigate('CitationNeill')}>citations Neill</Text>
+                        <Text style={styles.link} onPress={() => navigation.navigate('CitationMontessori')}>citations Montessori</Text>
+                        <Text style={styles.link} onPress={() => navigation.navigate('CitationFreinet')}>citations Freinet</Text>
                         </View>
 
        </ScrollView>

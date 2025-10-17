@@ -37,6 +37,7 @@ import { ProgressProvider } from './context/ProgressContext';
 import Accueil from './screens/HomeScreen2';
 import CitationNeill from './screens/CitationNeill';
 import CitationMontessori from './screens/CitationMontessori';
+import CitationFreinet from './screens/CitationFreinet';
 
 
 
@@ -87,6 +88,7 @@ export default function App() {
               <Stack.Screen name="Architecture" component={Architecture} />
               <Stack.Screen name="CitationNeill" component={CitationNeill} />
               <Stack.Screen name="CitationMontessori" component={CitationMontessori} />
+              <Stack.Screen name="CitationFreinet" component={CitationFreinet} />
 
             
             </Stack.Navigator>
