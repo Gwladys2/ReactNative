@@ -1,222 +1,223 @@
 [
   {
-    "question": "1 - « On ne prépare pas l’enfant à la vie, on le fait vivre. » Que veut dire Freinet ?",
+    "question": "1 - « La coopération entre les enfants est fondamentale pour construire un climat de confiance et favoriser leur développement social. » Que souligne cette citation ?",
     "options": [
-      "L’école doit enseigner la théorie avant la pratique",
-      "L’enfant apprend en vivant des expériences concrètes, pas en se préparant abstraitement",
-      "L’école doit isoler les enfants de la réalité",
-      "L’éducation doit être uniquement académique"
+      "La compétition est le moteur principal de l’apprentissage",
+      "La coopération favorise la confiance et le développement social",
+      "Les enfants doivent travailler isolément pour mieux progresser",
+      "L’enseignant doit centraliser toutes les décisions"
     ],
     "answerIndex": 1,
-    "explication": "Freinet refuse une école coupée du réel : il veut que les apprentissages soient vécus, expérimentés, et non simplement annoncés."
+    "explication": "La citation met l’accent sur la coopération : en travaillant ensemble, les élèves développent des compétences sociales (écoute, entraide, respect) et construisent un climat de confiance propice aux apprentissages."
   },
   {
-    "question": "2 - « L’école doit être ouverte sur la vie. » Que signifie cette phrase ?",
+    "question": "2 - « L'erreur n'est pas un échec, mais une étape essentielle dans l'apprentissage. Il faut encourager l'enfant à expérimenter, se tromper et apprendre de ses erreurs. » Que signifie cette phrase ?",
     "options": [
-      "L’école doit rester fermée pour protéger les enfants",
-      "Les savoirs doivent se relier à l’expérience quotidienne et au monde extérieur",
-      "Les élèves doivent quitter l’école tôt",
-      "L’école doit ignorer la réalité sociale"
+      "Les erreurs doivent être sanctionnées pour éviter qu’elles se reproduisent",    
+      "Il faut éviter toute situation où l’enfant peut se tromper",
+      "L’enseignant doit donner toujours la bonne réponse immédiatement",
+      "L’erreur est un moment d’apprentissage utile qui doit être encouragé"
+    ],
+    "answerIndex": 3,
+    "explication": "L’erreur est considérée comme partie intégrante du processus d’apprentissage : elle permet de tester, corriger et construire des connaissances. L’enseignant doit créer un cadre où l’erreur est acceptée et analysée."
+  },
+  {
+    "question": "3 - « L'éducation ne se limite pas aux connaissances académiques, mais vise à former des citoyens responsables, critiques et solidaires. » Quelle finalité est mise en avant ?",
+    "options": [
+      "Préparer des citoyens engagés et socialement responsables",
+      "Former uniquement des experts techniques",     
+      "Se concentrer uniquement sur la performance scolaire",
+      "Apprendre seulement des savoirs théoriques"
+    ],
+    "answerIndex": 0,
+    "explication": "La citation élargit l’objectif de l’école : il s’agit non seulement d’enseigner des connaissances, mais aussi de développer des compétences civiques, morales et sociales pour former des citoyens."
+  },
+  {
+    "question": "4 - « L'éducation doit être en lien avec la réalité et la vie quotidienne des enfants, en les préparant à devenir des acteurs engagés dans la société. » Quelle implication pédagogique en découle ?",
+    "options": [
+      "Enseigner des contenus éloignés du vécu des élèves",
+      "Relier les apprentissages à des situations concrètes et sociales",
+      "Ignorer le contexte local des élèves",
+      "Favoriser uniquement les exercices abstraits"
     ],
     "answerIndex": 1,
-    "explication": "Pour Freinet, l’école ne doit pas être un lieu artificiel : elle doit être connectée à la vie réelle, au milieu, à la société."
+    "explication": "Relier les apprentissages à la vie quotidienne rend le savoir significatif et motive les élèves ; cela favorise aussi l’engagement civique en les impliquant dans des projets concrets."
   },
   {
-    "question": "3 - « L’enfant n’est pas un vase que l’on remplit, mais une source que l’on laisse jaillir. » Quelle vision traduit cette image ?",
+    "question": "5 - « L'école doit être ouverte sur le monde, en favorisant les échanges avec la communauté locale et en intégrant des projets concrets dans les apprentissages. » Quel bénéfice principal évoque cette citation ?",
     "options": [
-      "L’enfant doit rester passif",
-      "L’enfant apprend par imitation uniquement",
-      "L’enfant est actif et créatif, il construit lui-même son savoir",
-      "Le maître doit tout contrôler"
+      "Isoler la classe du monde extérieur",
+      "Remplacer les programmes officiels par des activités non scolaires",
+      "Renforcer la connexion entre l’école et son environnement pour enrichir les apprentissages",
+      "Supprimer toute interaction avec les familles"
     ],
     "answerIndex": 2,
-    "explication": "Freinet souligne ici l’activité intérieure de l’enfant : l’apprentissage est une construction, pas un remplissage."
+    "explication": "L’ouverture sur le monde permet aux élèves d’apprendre dans des contextes réels (correspondances, sorties, projets locaux), donnant sens aux apprentissages et développant des compétences sociales."
   },
   {
-    "question": "4 - « C’est en tâtonnant que l’enfant découvre. » Quelle idée exprime cette citation ?",
+    "question": "6 - « L'enfant apprend mieux en étant actif, en manipulant, en expérimentant, en découvrant par lui-même. » Quelle approche pédagogique est promue ici ?",
     "options": [
-      "L’erreur est un obstacle à l’apprentissage",
-      "L’enfant apprend par essais, erreurs et ajustements",
-      "L’enseignant doit toujours donner la bonne réponse",
-      "L’enfant doit suivre un modèle fixe"
+      "L’apprentissage actif et expérimental",
+      "L’enseignement purement magistral",
+      "La mémorisation passive",
+      "L’imitation sans réflexion"
+    ],
+    "answerIndex": 0,
+    "explication": "L’apprentissage par l’action (manipulation, expérimentation) engage l’élève cognitivement et émotionnellement, ce qui facilite la compréhension et la rétention des savoirs."
+  },
+  {
+    "question": "7 - « L'éducation ne peut pas être standardisée, chaque enfant est unique et mérite une approche personnalisée. » Quelle conséquence pour la pratique enseignante ?",
+    "options": [
+      "Appliquer la même méthode à tous sans distinction",
+      "Adapter les dispositifs pédagogiques aux besoins et rythmes individuels",
+      "Évaluer uniquement sur des critères identiques pour tous",
+      "Ignorer les différences entre élèves"
     ],
     "answerIndex": 1,
-    "explication": "Freinet valorise le tâtonnement expérimental, une démarche naturelle où l’enfant apprend en cherchant et en corrigeant ses erreurs."
+    "explication": "Reconnaître l’unicité de chaque enfant conduit à différencier les apprentissages (plans de travail, aides individualisées) afin de mieux répondre aux besoins de chacun."
   },
   {
-    "question": "5 - « Le travail est un besoin fondamental de l’enfant. » Quelle conception Freinet exprime-t-il ?",
+    "question": "8 - « L'enfant est un être actif, il doit être encouragé à s'exprimer, à participer et à prendre des responsabilités dans la vie de la classe. » Quel élément central de la pédagogie est ici valorisé ?",
     "options": [
-      "Le travail est une punition",
-      "L’enfant apprend et s’épanouit en agissant",
-      "Seul le jeu est utile",
-      "L’enfant doit éviter tout effort"
+      "La passivité de l’élève",      
+      "La domination de l’enseignant",
+      "L’absence de règles",
+      "La participation et la responsabilisation"
+    ],
+    "answerIndex": 3,
+    "explication": "Encourager la parole et la participation permet à l’enfant de devenir acteur de ses apprentissages et de la vie collective, développant autonomie et sens des responsabilités."
+  },
+  {
+    "question": "9 - « La pédagogie doit être en perpétuelle évolution, s'adaptant aux besoins et aux réalités du monde contemporain. » Que promeut cette citation ?",
+    "options": [
+      "Une adaptation continue des pratiques éducatives",
+      "Une pédagogie figée et immuable",      
+      "Le rejet de toute innovation",
+      "La reproduction systématique des méthodes anciennes"
+    ],
+    "answerIndex": 0,
+    "explication": "La pédagogie doit évoluer pour rester pertinente : intégrer de nouvelles méthodes, technologies et réponses aux enjeux sociaux contemporains pour mieux servir les élèves."
+  },
+  {
+    "question": "10 - « L'enfant a droit à l'erreur, c'est par ses tâtonnements et ses expériences qu'il construit sa compréhension du monde. » Quelle posture de l’enseignant est nécessaire ?",
+    "options": [
+      "Sanctionner chaque erreur sévèrement",
+      "Valoriser l’erreur comme source d’apprentissage et accompagner l’analyse",
+      "Corriger immédiatement sans explication",
+      "Ignorer les erreurs des élèves"
     ],
     "answerIndex": 1,
-    "explication": "Pour Freinet, le travail n’est pas une contrainte : c’est une activité naturelle qui développe la personnalité et la responsabilité."
+    "explication": "L’enseignant doit créer un climat où l’erreur est comprise, analysée et utilisée comme levier pour progresser, favorisant ainsi le tâtonnement et la réflexion."
   },
   {
-    "question": "6 - « Il ne s’agit pas de dresser, mais d’éduquer. » Quelle différence souligne-t-il ?",
+    "question": "11 - « La discipline ne doit pas être punitive, mais être basée sur le respect mutuel, la responsabilisation et la coopération. » Quelle est l’alternative proposée aux sanctions punitives ?",
     "options": [
-      "L’éducation doit viser l’obéissance absolue",
-      "L’éducation développe la liberté et la conscience, contrairement au dressage",
-      "Les punitions sont nécessaires pour éduquer",
-      "L’enfant doit être discipliné sans explication"
+      "La répression systématique",    
+      "L’absence totale de règles",
+      "L’isolement des élèves perturbateurs",
+      "La co-construction des règles et la responsabilisation des élèves"
+    ],
+    "answerIndex": 3,
+    "explication": "La discipline éducative repose sur des règles établies collectivement, la responsabilisation et des stratégies de régulation fondées sur le respect plutôt que sur la punition."
+  },
+  {
+    "question": "12 - « L'apprentissage ne doit pas être cloisonné en disciplines isolées, mais doit favoriser les liens entre les savoirs et les expériences vécues. » Quelle démarche pédagogique est encouragée ?",
+    "options": [
+      "Travailler chaque discipline séparément sans lien",
+      "Favoriser les approches interdisciplinaires et les projets concrets",
+      "Éviter toute mise en relation des contenus",
+      "Se contenter de cours magistraux"
     ],
     "answerIndex": 1,
-    "explication": "Freinet refuse l’école autoritaire : il veut une éducation qui forme des individus libres, responsables et critiques."
+    "explication": "Croiser les disciplines et travailler par projets permet aux élèves de comprendre les liens entre savoirs et leur application dans des situations réelles, renforçant la signification des apprentissages."
   },
   {
-    "question": "7 - « L’enfant apprend d’autant mieux qu’il agit. » Quelle pédagogie s’exprime ici ?",
+    "question": "13 - « L'enfant est un chercheur, il a naturellement le désir de comprendre et de découvrir. L'école doit nourrir cette curiosité et cette soif de savoir. » Quelle pratique scolaire en découle ?",
     "options": [
-      "Le magistralisme",
-      "L’apprentissage passif",
-      "L’apprentissage par l’action et l’expérience",
-      "L’apprentissage par la répétition mécanique"
+      "Encourager la recherche, les questionnements et les projets d’exploration",
+      "Réprimer la curiosité pour maintenir l’ordre",
+      "Limiter les questions des élèves",
+      "Focaliser sur les exercices répétitifs uniquement"
+    ],
+    "answerIndex": 0,
+    "explication": "Stimuler la curiosité implique de proposer des situations d’investigation où l’élève pose des questions, expérimente et construit ses propres réponses."
+  },
+  {
+    "question": "14 - « L'éducation doit encourager l'esprit critique chez l'enfant, lui permettant de questionner, d'analyser et de remettre en cause les informations qu'il reçoit. » Quel objectif vise-t-on ici ?",
+    "options": [
+      "Former des individus dociles sans questionnement",    
+      "Interdire toute remise en question par les élèves",
+      "Développer l’autonomie intellectuelle et la capacité d’analyse critique",
+      "Imposer des vérités absolues"
     ],
     "answerIndex": 2,
-    "explication": "Freinet rejoint l’idée de l’Éducation nouvelle : c’est en manipulant, explorant et agissant que l’enfant comprend vraiment."
+    "explication": "L’esprit critique est une compétence civique essentielle : il permet aux élèves d’évaluer les informations, d’argumenter et de prendre des décisions éclairées."
   },
   {
-    "question": "8 - « Le maître n’est pas celui qui enseigne, mais celui qui aide à apprendre. » Quelle transformation du rôle enseignant propose-t-il ?",
+    "question": "15 - « L'éducation ne doit pas se limiter à la transmission de connaissances, mais doit développer les compétences sociales, émotionnelles et créatives de l'enfant. » Quelle visée pédagogique est mise en avant ?",
     "options": [
-      "L’enseignant doit dominer la classe",
-      "Le maître guide et accompagne l’enfant dans sa propre recherche",
-      "Le maître transmet uniquement des savoirs figés",
-      "Le maître doit rester en retrait total"
+      "Se limiter aux connaissances disciplinaires",
+      "Favoriser un développement global (socio-émotionnel et créatif)",
+      "Négliger les compétences non scolaires",
+      "Évaluer uniquement les résultats chiffrés"
     ],
     "answerIndex": 1,
-    "explication": "Le rôle du maître devient celui d’un accompagnateur : il organise, stimule, soutient, mais ne dicte pas tout."
+    "explication": "L’éducation doit viser le développement complet de l’enfant : aptitudes sociales, gestion des émotions, créativité, en complément des savoirs académiques."
   },
   {
-    "question": "9 - « On apprend toujours seul, mais jamais sans les autres. » Quelle idée essentielle exprime cette phrase ?",
+    "question": "16 - « L'éducation doit être ancrée dans la réalité de l'enfant, en le reliant aux problématiques de la société et en l'encourageant à agir pour un monde meilleur. » Quelle dimension citoyenne est ici valorisée ?",
     "options": [
-      "L’enfant doit apprendre isolé",
-      "L’apprentissage est à la fois personnel et social",
-      "Les pairs empêchent de progresser",
-      "Le maître est inutile"
+      "L’isolement de l’école de la société",      
+      "La neutralité totale sur les enjeux sociaux",
+      "La transmission passive d’informations",
+      "L’engagement et la responsabilité sociale par des actions concrètes"
+    ],
+    "answerIndex": 3,
+    "explication": "Relier l’école aux enjeux sociaux donne aux élèves l’occasion d’apprendre en agissant (projets, initiatives) et de développer un sens éthique et civique."
+  },
+  {
+    "question": "17 - « L'enfant a le droit de participer aux décisions qui le concernent, en ayant une voix active dans la vie de la classe et de l'école. » Quelle pratique institutionnelle cela implique-t-il ?",
+    "options": [
+      "Instances de décision participatives (conseils, assemblées) impliquant les élèves",
+      "Décisions imposées sans consultation",      
+      "Exclusion des élèves des sujets importants",
+      "Décision uniquement par les parents"
+    ],
+    "answerIndex": 0,
+    "explication": "Associer les élèves aux décisions (conseil de classe, débats) les responsabilise, renforce leur engagement et développe des compétences démocratiques."
+  },
+  {
+    "question": "18 - « L'école doit valoriser les talents et les passions de chaque enfant, en leur offrant des opportunités de développement et d'épanouissement personnel. » Quelle logique pédagogique est privilégiée ?",
+    "options": [
+      "Uniformiser les parcours sans tenir compte des intérêts",
+      "Favoriser la différenciation et la valorisation des potentiels individuels",
+      "Négliger les intérêts personnels",
+      "Imposer un parcours unique pour tous"
     ],
     "answerIndex": 1,
-    "explication": "Freinet reconnaît que l’apprentissage implique un effort personnel mais se nourrit de la coopération et du collectif."
+    "explication": "Identifier et soutenir les passions et talents permet d’offrir des parcours riches et motivants, favorisant l’épanouissement et la réussite individuelle."
   },
   {
-    "question": "10 - « Tout enfant porte en lui les germes de son propre développement. » Que veut dire Freinet ?",
+    "question": "19 - « L'éducation ne doit pas se contenter de préparer les enfants à la vie future, mais leur offrir des expériences significatives et enrichissantes dans le présent. » Que privilégie cette citation ?",
     "options": [
-      "L’enfant est déterminé par son milieu",
-      "Le maître doit forcer l’enfant à apprendre",
-      "L’enfant possède en lui les ressources pour grandir, si l’environnement le permet",
-      "Seuls les enfants doués peuvent progresser"
+      "Reporter toute expérience à l’âge adulte",      
+      "Retarder l’apprentissage pratique au secondaire",
+      "Proposer des expériences concrètes et significatives dès maintenant",
+      "Ne pas tenir compte du vécu immédiat des élèves"
     ],
     "answerIndex": 2,
-    "explication": "Freinet croit au potentiel de chaque enfant : l’éducation doit offrir les conditions favorables à son épanouissement."
+    "explication": "L’école doit offrir des expériences qui ont du sens pour l’élève aujourd’hui, pas seulement des préparations théoriques pour plus tard ; cela renforce la motivation et l’apprentissage."
   },
   {
-    "question": "11 - « L’école doit être un lieu de vie, non un lieu d’ennui. » Que critique-t-il ici ?",
+    "question": "20 - « L'éducation doit être une expérience active et concrète, en mettant l'accent sur les apprentissages concrets et la résolution de problèmes réels. » Quelle méthode pédagogique est favorisée ?",
     "options": [
-      "Les activités manuelles",
-      "L’école traditionnelle, trop abstraite et détachée du réel",
-      "La liberté des enfants",
-      "L’apprentissage collectif"
+      "Pédagogies par projet et résolution de problèmes réels",
+      "Cours magistraux abstraits sans application pratique",
+      "Exercices décontextualisés uniquement",
+      "Apprentissage par cœur sans mise en pratique"
     ],
-    "answerIndex": 1,
-    "explication": "Freinet critique l’école passive et ennuyeuse : il veut une école vivante, active, où l’enfant agit et crée."
-  },
-  {
-    "question": "12 - « L’enfant a droit à l’erreur. » Que veut-il signifier ?",
-    "options": [
-      "Les erreurs doivent être punies",
-      "L’erreur est un outil d’apprentissage naturel et nécessaire",
-      "Les élèves doivent éviter toute faute",
-      "Les erreurs n’ont aucune utilité"
-    ],
-    "answerIndex": 1,
-    "explication": "Freinet valorise l’erreur comme une étape normale du tâtonnement expérimental, indispensable à la compréhension."
-  },
-  {
-    "question": "13 - « La coopération est la clé de la réussite scolaire. » Que signifie cette idée ?",
-    "options": [
-      "La compétition motive les enfants",
-      "Les enfants apprennent mieux en s’entraidant qu’en rivalisant",
-      "L’entraide empêche les progrès individuels",
-      "Le travail de groupe est inutile"
-    ],
-    "answerIndex": 1,
-    "explication": "Freinet met la coopération au cœur de sa pédagogie : elle développe solidarité, responsabilité et apprentissage partagé."
-  },
-  {
-    "question": "14 - « Il faut partir de l’enfant. » Que veut dire cette maxime ?",
-    "options": [
-      "L’enfant doit suivre le programme strictement",
-      "L’enseignement doit s’adapter à ses besoins, intérêts et rythmes",
-      "Le maître décide de tout",
-      "Les élèves ne doivent pas choisir leurs activités"
-    ],
-    "answerIndex": 1,
-    "explication": "L’école doit s’adapter à la psychologie et à la curiosité naturelle de l’enfant, pas l’inverse."
-  },
-  {
-    "question": "15 - « L’enfant aime le travail à condition qu’il ait un sens pour lui. » Quelle idée exprime cette phrase ?",
-    "options": [
-      "Le travail doit être imposé sans explication",
-      "Le sens et la motivation sont essentiels à l’apprentissage",
-      "Les jeux sont inutiles",
-      "L’enfant déteste tout effort"
-    ],
-    "answerIndex": 1,
-    "explication": "Freinet insiste sur la nécessité de relier les tâches scolaires à la vie, aux projets et aux intérêts personnels de l’élève."
-  },
-  {
-    "question": "16 - « Le milieu est le premier éducateur. » Que veut dire Freinet par là ?",
-    "options": [
-      "Le maître doit tout enseigner directement",
-      "L’environnement joue un rôle déterminant dans le développement",
-      "L’enfant apprend uniquement par les livres",
-      "Les conditions de vie n’ont aucune influence"
-    ],
-    "answerIndex": 1,
-    "explication": "Le cadre de vie, la classe et les interactions sociales sont des leviers majeurs d’éducation selon Freinet."
-  },
-  {
-    "question": "17 - « Le plus grand malheur de l’école, c’est qu’on y parle beaucoup trop. » Que critique Freinet ici ?",
-    "options": [
-      "Les discussions entre élèves",
-      "Le discours magistral du maître qui empêche l’action",
-      "Le silence en classe",
-      "Les échanges oraux en groupe"
-    ],
-    "answerIndex": 1,
-    "explication": "Freinet reproche à l’école traditionnelle de parler au lieu de faire : il faut passer à l’action et à l’expérience."
-  },
-  {
-    "question": "18 - « L’école du peuple doit être l’école du travail. » Quelle philosophie traduit cette phrase ?",
-    "options": [
-      "L’école doit être centrée sur la théorie",
-      "L’école doit apprendre par la pratique et l’activité",
-      "Le travail scolaire doit être séparé de la vie",
-      "Les enfants doivent se spécialiser très tôt"
-    ],
-    "answerIndex": 1,
-    "explication": "Freinet veut une école populaire où le travail manuel, l’expérience et la production concrète ont une place centrale."
-  },
-  {
-    "question": "19 - « Le texte libre est la respiration de la classe. » Quelle idée exprime cette métaphore ?",
-    "options": [
-      "Le texte libre est une distraction",
-      "Il permet l’expression authentique et la liberté de parole des élèves",
-      "Il sert uniquement à évaluer l’écriture",
-      "Il remplace toutes les autres disciplines"
-    ],
-    "answerIndex": 1,
-    "explication": "Freinet voit dans le texte libre un espace vital où les élèves expriment leurs émotions, leur vécu et leur créativité."
-  },
-  {
-    "question": "20 - « La joie de l’enfant est le signe du travail réussi. » Quelle conception du travail scolaire révèle-t-il ?",
-    "options": [
-      "Le travail doit être pénible pour être efficace",
-      "Le plaisir et la motivation sont des indicateurs de réussite éducative",
-      "La joie est un obstacle à la rigueur",
-      "Les récompenses extérieures sont essentielles"
-    ],
-    "answerIndex": 1,
-    "explication": "Freinet pense que l’enfant apprend vraiment lorsqu’il prend plaisir à agir, découvrir et créer — la joie est un critère de réussite."
+    "answerIndex": 0,
+    "explication": "Travailler sur problèmes réels et projets concrets engage les élèves dans des tâches authentiques, mobilisant connaissances et compétences transversales pour produire des solutions utiles."
   }
 ]
+
