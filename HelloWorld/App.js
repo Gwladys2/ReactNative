@@ -38,7 +38,11 @@ import Accueil from './screens/HomeScreen2';
 import CitationNeill from './screens/CitationNeill';
 import CitationMontessori from './screens/CitationMontessori';
 import CitationFreinet from './screens/CitationFreinet';
-
+import CoursFreinet1 from './screens/CoursFreinet1';
+import CoursFreinet2 from './screens/CoursFreinet2';
+import CoursMontessori1 from './screens/CoursMontessori1';
+import CoursMontessori2 from './screens/CoursMontessori2';
+import CoursNeill from './screens/CoursNeill';
 
 
 import Footer from './components/Footer'; // ton composant Footer
@@ -89,6 +93,11 @@ export default function App() {
               <Stack.Screen name="CitationNeill" component={CitationNeill} />
               <Stack.Screen name="CitationMontessori" component={CitationMontessori} />
               <Stack.Screen name="CitationFreinet" component={CitationFreinet} />
+              <Stack.Screen name="CoursFreinet1" component={CoursFreinet1} />
+                <Stack.Screen name="CoursFreinet2" component={CoursFreinet2} />
+                <Stack.Screen name="CoursMontessori1" component={CoursMontessori1} />
+                <Stack.Screen name="CoursMontessori2" component={CoursMontessori2} />
+                <Stack.Screen name="CoursNeill" component={CoursNeill} />
 
             
             </Stack.Navigator>

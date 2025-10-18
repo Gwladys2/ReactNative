@@ -34,7 +34,7 @@ export default function LessonScreen({ navigation }) {
             const newXp = newLives === 0 ? 0 : xp;
 
             await updateProgress(newXp, newLives);
-            Alert.alert("Mauvaise réponse", newLives > 0 ? "Essaie encore !" : "Tu n'as plus de vies ! Je te conseille de relire ton cours et de revenir tenter ta chance😊");
+            Alert.alert("Mauvaise réponse", newLives > 0 ? "Essaie encore !" : "Tu n'as plus de vies ! Je te conseille de relire le cours ☝️ et de revenir tenter ta chance😊");
             if (newLives === 0) {
                 navigation.navigate('Home');
             }
@@ -79,10 +79,10 @@ export default function LessonScreen({ navigation }) {
             )}
 
          <View style={styles.linkContainer}>
-                                <Text style={styles.link} onPress={() => navigation.navigate('LettresArts')}> Introduction Part1</Text>
-                                <Text style={styles.link} onPress={() => navigation.navigate('LettresArts2')}>  Introduction Part2</Text>
-                                <Text style={styles.link} onPress={() => navigation.navigate('LettresArts3')}> Le commentaire comparé</Text>
-                                 <Text style={styles.link} onPress={() => navigation.navigate('LettresArts4')}> Le petit lexique du Littéraire</Text>
+                                <Text style={styles.link} onPress={() => navigation.navigate('LettresArts')}> 🌱Introduction Part1</Text>
+                                <Text style={styles.link} onPress={() => navigation.navigate('LettresArts2')}>  🌱Introduction Part2</Text>
+                                <Text style={styles.link} onPress={() => navigation.navigate('LettresArts3')}> 🌱Le commentaire comparé</Text>
+                                 <Text style={styles.link} onPress={() => navigation.navigate('LettresArts4')}> 🌱Le petit lexique du Littéraire</Text>
                                 </View>
         
                 </ScrollView>
