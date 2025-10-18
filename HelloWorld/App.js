@@ -43,6 +43,13 @@ import CoursFreinet2 from './screens/CoursFreinet2';
 import CoursMontessori1 from './screens/CoursMontessori1';
 import CoursMontessori2 from './screens/CoursMontessori2';
 import CoursNeill from './screens/CoursNeill';
+import CoursPhiloEducation from './screens/CoursPhiloEducation';
+import CoursPhiloEducation2 from './screens/CoursPhiloEducation2';
+import CoursPsychoEducation from './screens/CoursPsychoEducation';
+import CoursPsychoEducation2 from './screens/CoursPsychoEducation2';
+import CoursPsychoEducation3 from './screens/CoursPsychoEducation3';
+import CoursPsychoEducation4 from './screens/CoursPsychoEducation4';
+
 
 
 import Footer from './components/Footer'; // ton composant Footer
@@ -98,6 +105,12 @@ export default function App() {
                 <Stack.Screen name="CoursMontessori1" component={CoursMontessori1} />
                 <Stack.Screen name="CoursMontessori2" component={CoursMontessori2} />
                 <Stack.Screen name="CoursNeill" component={CoursNeill} />
+                <Stack.Screen name="CoursPhiloEducation" component={CoursPhiloEducation} />
+                <Stack.Screen name="CoursPhiloEducation2" component={CoursPhiloEducation2} />
+                <Stack.Screen name="CoursPsychoEducation" component={CoursPsychoEducation} />
+                <Stack.Screen name="CoursPsychoEducation2" component={CoursPsychoEducation2} />
+                <Stack.Screen name="CoursPsychoEducation3" component={CoursPsychoEducation3} />
+                <Stack.Screen name="CoursPsychoEducation4" component={CoursPsychoEducation4} />
 
             
             </Stack.Navigator>

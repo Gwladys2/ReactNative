@@ -63,6 +63,7 @@ export default function LessonScreen({ navigation }) {
             <Logo/>
             {!showRestart ? (
                 <>
+                <Text style={styles.link} onPress={() => navigation.navigate('CoursPsychoEducation4')}>📖 Voir le cours</Text>
                     <Text style={styles.titre}>Psychologie du développement et de l'éducation: Théorie freudienne partie 2</Text>
 
                     <Text style={styles.question}>{current.question}</Text>

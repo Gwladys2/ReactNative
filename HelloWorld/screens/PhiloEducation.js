@@ -63,6 +63,7 @@ export default function PhiloEducation({ navigation }) {
             <Logo/>
             {!showRestart ? (
                 <>
+                   <Text style={styles.link} onPress={() => navigation.navigate('CoursPhiloEducation')}>📖 Voir le cours</Text>
                     <Text style={styles.titre}>Philosophie de l'éducation partie 1</Text>
 
                     <Text style={styles.question}>{current.question}</Text>
@@ -75,7 +76,7 @@ export default function PhiloEducation({ navigation }) {
                <>
                                    <Text style={styles.question}>Leçon terminée 🎉</Text>
                                    <Button title="revenir à la liste des UE" onPress={() => navigation.navigate('ScienceEducation')} />
-                                   <Button title="passer au niveau 2" onPress={() => navigation.navigate('PhiloEducation2')} />
+                                   <Button title="passer à la partie 2" onPress={() => navigation.navigate('PhiloEducation2')} />
                                </>
                            )}
                             <View style={styles.linkContainer}>

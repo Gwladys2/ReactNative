@@ -34,7 +34,7 @@ export default function PhiloEducation({ navigation }) {
             const newXp = newLives === 0 ? 0 : xp;
 
             await updateProgress(newXp, newLives);
-            Alert.alert("Mauvaise réponse", newLives > 0 ? "Essaie encore !" : "Tu n'as plus de vies ! Je te conseille de relire ton cours et de revenir tenter ta chance😊");
+            Alert.alert("Mauvaise réponse", newLives > 0 ? "Essaie encore !" : "Tu n'as plus de vies ! Je te conseille de relire le cours ☝️ et de revenir tenter ta chance😊");
             if (newLives === 0) {
                 navigation.navigate('Home');
             }
@@ -63,6 +63,7 @@ export default function PhiloEducation({ navigation }) {
             <Logo/>
             {!showRestart ? (
                 <>
+                    <Text style={styles.link} onPress={() => navigation.navigate('CoursPhiloEducation2')}>📖 Voir le cours</Text>
                     <Text style={styles.titre}>Philosophie de l'éducation partie 2</Text>
 
                     <Text style={styles.question}>{current.question}</Text>
@@ -75,12 +76,12 @@ export default function PhiloEducation({ navigation }) {
                <>
                                    <Text style={styles.question}>Leçon terminée 🎉</Text>
                                    <Button title="revenir à la liste des UE" onPress={() => navigation.navigate('ScienceEducation')} />
-                                   <Button title="passer au niveau 2" onPress={() => navigation.navigate('PhiloEducation2')} />
+                                   
                                </>
                            )}
                             <View style={styles.linkContainer}>
-                                        <Text style={styles.link} onPress={() => navigation.navigate('PhiloEducation')}> Partie 1</Text>
-                                      <Text style={styles.link} onPress={() => navigation.navigate('PhiloEducation2')}> Partie 2</Text>
+                                        <Text style={styles.link} onPress={() => navigation.navigate('PhiloEducation')}>🔹 Partie 1</Text>
+                                      <Text style={styles.link} onPress={() => navigation.navigate('PhiloEducation2')}>🔹 Partie 2</Text>
                                       
                                        </View>
                

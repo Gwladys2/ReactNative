@@ -34,7 +34,7 @@ export default function LessonScreen({ navigation }) {
             const newXp = newLives === 0 ? 0 : xp;
 
             await updateProgress(newXp, newLives);
-            Alert.alert("Mauvaise réponse", newLives > 0 ? "Essaie encore !" : "Tu n'as plus de vies ! Je te conseille de relire ton cours et de revenir tenter ta chance😊");
+            Alert.alert("Mauvaise réponse", newLives > 0 ? "Essaie encore !" : "Tu n'as plus de vies ! Je te conseille de relire le cours ☝️ et de revenir tenter ta chance😊");
             if (newLives === 0) {
                 navigation.navigate('Home');
             }
@@ -63,6 +63,7 @@ export default function LessonScreen({ navigation }) {
             <Logo/>
             {!showRestart ? (
                 <>
+                <Text style={styles.link} onPress={() => navigation.navigate('CoursPsychoEducation2')}>📖 Voir le cours</Text>
                     <Text style={styles.titre}>Psychologie du développement et de l'éducation: Les 1ères sciences psychologiques</Text>
 
                     <Text style={styles.question}>{current.question}</Text>
