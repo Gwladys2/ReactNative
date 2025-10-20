@@ -1,7 +1,7 @@
 [
   {
     "question": "1 - « Les lois naturelles de l’enfant sont universelles. » Quelle idée Céline Alvarez met-elle ici en avant ?",
-    "options": [   
+    "options": [
       "Chaque culture détermine librement ses méthodes d’apprentissage",
       "L’enfant doit être éduqué selon les traditions locales",
       "Tous les enfants suivent les mêmes principes biologiques et cognitifs de développement",
@@ -11,107 +11,106 @@
     "explication": "Alvarez insiste sur l’universalité des besoins fondamentaux de l’enfant : curiosité, autonomie, besoin d’amour et d’activité libre."
   },
   {
-    "question": "2 - Quelle notion scientifique inspire directement l’approche de Céline Alvarez ?",
+    "question": "2 - « Aucun enseignant, aussi bon orateur et savant soit-il, ne pourra jamais transmettre directement ses connaissances dans le cerveau des élèves en parlant. »",
     "options": [
-      "La plasticité cérébrale",
-      "La psychanalyse",
-      "Le behaviorisme pur",
-      "La génétique comportementale"
+      "L’élève doit être acteur de ses apprentissages pour les intégrer réellement",
+      "L’enseignant doit parler davantage pour que l’élève retienne mieux",
+      "L’enseignement magistral est la méthode la plus efficace",
+      "L’élève apprend uniquement par la mémoire auditive"
     ],
     "answerIndex": 0,
-    "explication": "La plasticité cérébrale désigne la capacité du cerveau à se transformer par l’expérience — un concept central dans son approche éducative."
+    "explication": "Selon Alvarez, l’apprentissage actif — quand l’enfant manipule, explore et réfléchit — est la clé d’une compréhension durable, contrairement à la simple écoute passive."
   },
   {
-    "question": "3 - Dans son expérience à Gennevilliers, Alvarez visait à :",
-    "options": [    
-      "Tester des méthodes punitives",
-      "Mesurer la compétitivité entre enfants",
-      "Observer les effets d’un environnement favorable sur le développement global de l’enfant",
-      "Renforcer l’autorité des enseignants"
+    "question": "3 - « Nous apprenons difficilement des erreurs et expériences des autres. Nous devons les vivre nous-mêmes. »",
+    "options": [
+      "Les enfants doivent éviter de faire des erreurs",
+      "Il est inutile de corriger les erreurs",
+      "L’expérience directe est essentielle pour ancrer un apprentissage",
+      "L’enseignant doit tout expliquer avant que l’enfant expérimente"
     ],
     "answerIndex": 2,
-    "explication": "Son expérimentation a cherché à montrer que des conditions de bienveillance, de liberté et d’autonomie favorisent toutes les formes d’intelligence."
+    "explication": "L’apprentissage passe par l’expérience vécue : c’est en testant, se trompant et corrigeant soi-même que l’enfant comprend en profondeur."
   },
   {
-    "question": "4 - Quelle est la principale source d’inspiration pédagogique de Céline Alvarez ?",
-    "options": [   
-      "Jean Piaget",
-      "Maria Montessori",
-      "Sigmund Freud",
-      "Jean-Jacques Rousseau"
+    "question": "4 - « L’être humain apprend en faisant, et non en écoutant. »",
+    "options": [
+      "L’écoute est plus importante que la pratique",
+      "L’action concrète et la manipulation favorisent un apprentissage durable",
+      "L’enseignant doit parler en continu pour maintenir l’attention",
+      "L’enfant apprend surtout par répétition verbale"
     ],
     "answerIndex": 1,
-    "explication": "Alvarez s’appuie sur la pédagogie Montessori, qu’elle relie aux découvertes récentes en neurosciences."
+    "explication": "Les neurosciences confirment que l’activité motrice et la manipulation renforcent les connexions neuronales, favorisant la mémorisation et la compréhension."
   },
   {
-    "question": "5 - Selon Céline Alvarez, le rôle de l’enseignant est avant tout :",
-    "options": [   
-      "De diriger chaque activité",
-      "D’imposer les apprentissages au même rythme pour tous",
-      "De sanctionner les écarts de comportement",
-      "D’observer et d’accompagner le développement naturel de l’enfant"
+    "question": "5 - « L’enfant n’apprendra jamais aussi solidement que par les explorations spontanées qui le motivent. »",
+    "options": [
+      "L’enseignant doit imposer les activités pour structurer l’apprentissage",
+      "La motivation est inutile dans le processus d’apprentissage",
+      "Les récompenses extérieures stimulent davantage l’enfant",
+      "La curiosité naturelle de l’enfant est le moteur le plus puissant de l’apprentissage"
     ],
     "answerIndex": 3,
-    "explication": "L’enseignant devient un guide attentif qui prépare l’environnement et soutient les besoins naturels de l’enfant."
+    "explication": "Lorsqu’un enfant explore librement un sujet qui le passionne, il apprend plus profondément et durablement que sous contrainte extérieure."
   },
   {
-    "question": "6 - Quelle expression revient souvent chez Alvarez pour décrire son approche ?",
+    "question": "6 - « L’enfant n’apprendra jamais aussi solidement que par les explorations spontanées qui le motivent. »",
     "options": [
-      "Les lois naturelles de l’enfant",
-      "L’autorité éducative",
-      "L’enfant productif",
-      "L’éducation compétitive"
+      "L’enfant doit être encouragé à suivre ses élans naturels de découverte",
+      "Il faut le forcer à apprendre les bases avant d’explorer",
+      "L’enfant doit répéter mécaniquement les leçons",
+      "L’apprentissage doit toujours être dirigé par l’adulte"
     ],
     "answerIndex": 0,
-    "explication": "C’est le titre de son ouvrage majeur (2016), dans lequel elle expose la cohérence entre biologie, psychologie et éducation."
+    "explication": "L’exploration libre répond à un besoin biologique d’apprentissage : l’enfant apprend mieux lorsqu’il agit selon sa curiosité et ses intérêts propres."
   },
   {
-    "question": "7 - Quelle valeur éducative est centrale dans la démarche d’Alvarez ?",
-    "options": [  
-      "La performance",
-       "La bienveillance",
-      "La compétition",
-      "La hiérarchie"
+    "question": "7 - « Le jeune être humain doit apprendre par lui-même, mais avec l’aide de l’autre. »",
+    "options": [
+      "L’enfant apprend seul, sans interaction",
+      "L’adulte doit accompagner sans diriger, en soutenant l’autonomie de l’enfant",
+      "L’adulte doit imposer le rythme et les contenus d’apprentissage",
+      "L’enfant doit suivre passivement les instructions"
     ],
     "answerIndex": 1,
-    "explication": "La bienveillance favorise la sécurité affective et l’ouverture du cerveau à l’apprentissage."
+    "explication": "L’adulte est un guide bienveillant : il crée les conditions favorables à l’autonomie tout en restant un soutien sécurisant."
   },
   {
-    "question": "8 - Quel principe Montessori Alvarez met-elle en œuvre à Gennevilliers ?",
+    "question": "8 - « L’être humain est câblé pour apprendre avec d’autres humains plus jeunes et plus âgés que lui. »",
     "options": [
-      
-      "Les devoirs à la maison",
-      "L’enseignement frontal",
-      "La notation comparative",
-      "L’autonomie par le matériel auto-correctif"
+      "L’enfant apprend uniquement auprès des adultes",
+      "Les interactions entre enfants nuisent à la concentration",
+      "L’apprentissage est plus efficace seul",
+      "L’apprentissage en groupe multi-âges favorise la coopération et l’imitation positive"
     ],
     "answerIndex": 3,
-    "explication": "Les enfants utilisent du matériel concret et auto-correctif pour apprendre par exploration autonome."
+    "explication": "Les environnements mixtes d’âge stimulent l’apprentissage naturel : les plus jeunes imitent, les plus âgés consolident leurs connaissances en aidant."
   },
   {
-    "question": "9 - Pourquoi Alvarez rejette-t-elle les récompenses et les punitions ?",
-    "options": [  
-      "Parce qu’elles simplifient la gestion de classe",
-      "Parce qu’elles détruisent la motivation intrinsèque",
-      "Parce qu’elles favorisent la compétition",
-      "Parce qu’elles améliorent la discipline"
+    "question": "9 - « Un individu apprend uniquement lorsqu’un évènement viole ses prédictions. »",
+    "options": [
+      "L’apprentissage se fait par simple répétition",
+      "La surprise et le décalage entre attente et réalité déclenchent la curiosité et l’attention",
+      "L’enfant apprend mieux quand tout est prévisible",
+      "Les erreurs doivent être évitées à tout prix"
     ],
     "answerIndex": 1,
-    "explication": "Elle considère que les sanctions et récompenses conditionnent l’enfant et l’éloignent de la joie naturelle d’apprendre."
+    "explication": "Les neurosciences montrent que le cerveau apprend lorsqu’il doit réajuster ses prédictions : la surprise déclenche la plasticité neuronale."
   },
   {
-    "question": "10 - Quelle dimension neurobiologique Alvarez met-elle en avant pour expliquer la curiosité de l’enfant ?",
-    "options": [   
-      "Le cortex moteur",
-      "Le cervelet",
-      "Le circuit de la dopamine",
-      "L’amygdale"
+    "question": "10 - « Le sommeil est un élément pleinement inhérent au mécanisme d’apprentissage. »",
+    "options": [
+      "Le sommeil n’a aucun rôle dans l’apprentissage",
+      "Seuls les rêves ont un effet éducatif",
+      "Le sommeil consolide les apprentissages et favorise la mémorisation",
+      "Dormir trop empêche d’apprendre efficacement"
     ],
     "answerIndex": 2,
-    "explication": "Le circuit de la dopamine favorise la motivation et le plaisir d’apprendre lorsque l’enfant agit librement."
+    "explication": "Durant le sommeil, le cerveau réorganise et fixe les informations acquises dans la journée : c’est une étape essentielle de l’apprentissage."
   },
   {
-    "question": "11 - Selon Céline Alvarez, quelle condition favorise le mieux l’attention ?",
+    "question": "11 - « La bienveillance n’est donc pas une option pédagogique. Il s’agit là d’un véritable catalyseur d’épanouissement. »",
     "options": [
       "Le libre choix d’une activité adaptée",
       "La contrainte et la répétition",
@@ -119,78 +118,11 @@
       "Le silence imposé"
     ],
     "answerIndex": 0,
-    "explication": "L’attention émerge naturellement lorsque l’enfant choisit une activité qui le passionne et respecte son rythme."
+    "explication": "La bienveillance et la liberté de choix nourrissent la motivation intrinsèque, clé de l’attention et du plaisir d’apprendre."
   },
   {
-    "question": "12 - Dans l’expérience de Gennevilliers, les enfants travaillaient :",
-    "options": [    
-      "Tous en même temps sur la même tâche",
-      "En autonomie dans un environnement riche et structuré",
-      "Sous surveillance constante",
-      "Avec des notes et classements"
-    ],
-    "answerIndex": 1,
-    "explication": "Le dispositif s’appuyait sur l’autonomie et la coopération, favorisant la concentration et la confiance."
-  },
-  {
-    "question": "13 - Quelle est la place des neurosciences dans la pédagogie d’Alvarez ?",
-    "options": [  
-      "Elles remplacent la psychologie et la pédagogie",
-      "Elles imposent des méthodes standardisées",
-      "Elles concernent uniquement les troubles cognitifs",
-      "Elles valident scientifiquement les intuitions des pédagogues humanistes"
-    ],
-    "answerIndex": 3,
-    "explication": "Les neurosciences permettent de comprendre les mécanismes cérébraux à l’origine de l’apprentissage et de l’empathie."
-  },
-  {
-    "question": "14 - Quelle émotion favorise le mieux les apprentissages selon Alvarez ?",
-    "options": [   
-      "La peur",
-      "La joie",
-      "La honte",
-      "La colère"
-    ],
-    "answerIndex": 1,
-    "explication": "Les émotions positives comme la joie activent les circuits neuronaux de la mémoire et de la motivation."
-  },
-  {
-    "question": "15 - Quelle attitude de l’enseignant Alvarez juge-t-elle essentielle ?",
+    "question": "12 - Quelle phrase résume la vision d’Alvarez ?",
     "options": [
-      "La sévérité et le contrôle",
-      "L’autorité rigide",
-      "La distance affective",
-      "La bienveillance et la confiance"
-    ],
-    "answerIndex": 3,
-    "explication": "La confiance crée un climat propice à l’apprentissage et au développement émotionnel équilibré."
-  },
-  {
-    "question": "16 - Quelle est la finalité de l’éducation selon Céline Alvarez ?",
-    "options": [
-      "L’épanouissement global de l’enfant",
-      "L’obéissance et la discipline",
-      "La compétition scolaire",
-      "L’obtention de diplômes"
-    ],
-    "answerIndex": 0,
-    "explication": "L’éducation doit permettre à chaque enfant de devenir pleinement lui-même, autonome et heureux."
-  },
-  {
-    "question": "17 - Quelle pratique de Gennevilliers illustre la pédagogie coopérative ?",
-    "options": [     
-      "Les enfants travaillent seuls et en silence",
-      "Les enfants s’entraident pour s’expliquer les concepts",
-      "L’enseignant parle la majeure partie du temps",
-      "Les activités sont imposées collectivement"
-    ],
-    "answerIndex": 1,
-    "explication": "La coopération favorise la compréhension mutuelle et la consolidation des apprentissages par le partage."
-  },
-  {
-    "question": "18 - Quelle phrase résume la vision d’Alvarez ?",
-    "options": [
-      
       "L’enfant doit être corrigé pour progresser",
       "L’enfant apprend par peur de l’échec",
       "L’enfant apprend naturellement lorsqu’il se sent libre et aimé",
@@ -200,19 +132,18 @@
     "explication": "Son approche repose sur la confiance en la capacité naturelle de l’enfant à apprendre dans un climat affectif positif."
   },
   {
-    "question": "19 - Quelle continuité existe entre Montessori et Alvarez ?",
+    "question": "13 - Quelle continuité existe entre Montessori et Alvarez ?",
     "options": [
-      
       "Le contrôle et la discipline",
       "L’autonomie, la bienveillance et la confiance dans la nature de l’enfant",
       "Le travail par la répétition mécanique",
       "L’enseignement magistral"
     ],
     "answerIndex": 1,
-    "explication": "Alvarez reprend les fondements de Montessori à la lumière des découvertes scientifiques contemporaines."
+    "explication": "Alvarez reprend les fondements de Montessori à la lumière des découvertes scientifiques contemporaines sur le cerveau et l’apprentissage."
   },
   {
-    "question": "20 - Quelle phrase exprime le mieux la philosophie d’Alvarez ?",
+    "question": "14 - Quelle phrase exprime le mieux la philosophie d’Alvarez ?",
     "options": [
       "Apprendre dans la joie, la liberté et la confiance",
       "Apprendre sous la contrainte et la peur",
@@ -220,6 +151,6 @@
       "Apprendre sans émotion ni liberté"
     ],
     "answerIndex": 0,
-    "explication": "Céline Alvarez met la joie et la liberté au cœur du processus éducatif, car elles nourrissent la motivation et la créativité."
+    "explication": "Céline Alvarez met la joie et la liberté au cœur du processus éducatif, car elles nourrissent la motivation, la créativité et la coopération."
   }
 ]
