@@ -254,7 +254,7 @@
   {
     "question": "43 - Quel type d’évaluation est privilégié dans une école Freinet ?",
     "options": ["L’autoévaluation et les bilans coopératifs", "L’examen hebdomadaire", "L’évaluation chiffrée", "La note sur 20 imposée"],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "explication": "Les évaluations sont formatives, réflexives et coopératives : elles servent à progresser, non à classer."
   },
   {
@@ -377,44 +377,9 @@
     "answerIndex": 0,
     "explication": "Chaque activité dans l’école Freinet a un but éducatif : relier l’action à la compréhension et à la réflexion."
   },
+  
   {
-    "question": "64 - Quelle valeur politique traverse toute la pédagogie Freinet ?",
-    "options": ["La hiérarchie", "La compétition", "La coopération démocratique", "La neutralité politique"],
-    "answerIndex": 2,
-    "explication": "Freinet inscrit sa pédagogie dans un idéal démocratique et émancipateur fondé sur la coopération."
-  },
-  {
-    "question": "65 - Quelle est la conception de l’école chez Freinet face à la société ?",
-    "options": ["Une école fermée sur elle-même", "Une école ouverte, en lien avec le monde réel", "Une école religieuse", "Une école déconnectée du travail"],
-    "answerIndex": 1,
-    "explication": "L’école doit préparer à la vie réelle, non s’en isoler : elle apprend à agir dans la société."
-  },
-  {
-    "question": "66 - Pourquoi la pédagogie Freinet est-elle dite émancipatrice ?",
-    "options": ["Parce qu’elle supprime le maître", "Parce qu’elle libère les enfants par l’expression, la coopération et la pensée critique", "Parce qu’elle élimine les savoirs classiques", "Parce qu’elle refuse les contraintes scolaires"],
-    "answerIndex": 1,
-    "explication": "Freinet veut former des citoyens libres et conscients, capables de penser et d’agir collectivement."
-  },
-  {
-    "question": "67 - Comment la pédagogie Freinet envisage-t-elle la place de la technologie moderne ?",
-    "options": ["Comme un outil au service de l’expression et de la coopération", "Comme une distraction à éviter", "Comme un risque pour l’école", "Comme une fin en soi"],
-    "answerIndex": 0,
-    "explication": "Les outils numériques peuvent prolonger les valeurs freinetiennes s’ils favorisent la création, la communication et la liberté d’expression."
-  },
-  {
-    "question": "68 - Quelle est la condition essentielle pour qu’une école Freinet fonctionne ?",
-    "options": [ "Des élèves très disciplinés", "Un budget illimité", "Des classes à effectif réduit","Des enseignants formés et unis dans le projet coopératif"],
-    "answerIndex": 3,
-    "explication": "Le collectif enseignant doit partager les mêmes valeurs et s’engager dans une cohérence pédagogique commune."
-  },
-  {
-    "question": "69 - Quelle est la principale contribution de Freinet à l’école d’aujourd’hui ?",
-    "options": ["L’introduction du numérique", "La valorisation de la coopération, du sens et de la démocratie scolaire", "La création d’écoles privées", "La simplification des programmes"],
-    "answerIndex": 1,
-    "explication": "Freinet a inspiré les démarches d’autonomie, de coopération et d’éducation citoyenne toujours présentes dans les écoles modernes."
-  },
-  {
-    "question": "70 - Pourquoi peut-on dire que la pédagogie Freinet reste actuelle au XXIe siècle ?",
+    "question": "64 - Pourquoi peut-on dire que la pédagogie Freinet reste actuelle au XXIe siècle ?",
     "options": ["Parce qu’elle valorise des principes intemporels comme coopération, autonomie et sens des apprentissages", "Parce qu’elle a supprimé les savoirs fondamentaux", "Parce qu’elle ne concerne que les écoles rurales", "Parce qu’elle dépend uniquement de l’imprimerie scolaire"],
     "answerIndex": 0,
     "explication": "Les valeurs de coopération, de responsabilité et de liberté d’expression défendues par Freinet répondent toujours aux enjeux éducatifs contemporains."

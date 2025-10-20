@@ -50,7 +50,7 @@
   {
     "question": "9 - Quelle est la vision de Montessori sur l’enfant ?",
     "options": [ "L’enfant doit être entièrement guidé par l’adulte","L’enfant porte en lui son propre plan de développement", "L’enfant ne peut apprendre seul", "L’enfant est passif face à la connaissance"],
-    "answerIndex": 2,
+    "answerIndex": 1,
     "explication": "Selon Montessori, chaque enfant possède un potentiel de développement intérieur qu’il faut respecter et accompagner."
   },
   {

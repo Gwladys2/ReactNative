@@ -7,20 +7,20 @@
   },
   {
     "question": "2 - Combien d’années a duré l’expérience de Gennevilliers ?",
-    "options": ["Trois ans", "Un an", "Cinq ans", "Deux ans"],
-    "answerIndex": 0,
+    "options": [ "Un an", "Cinq ans", "Deux ans","Trois ans"],
+    "answerIndex": 3,
     "explication": "L’expérimentation menée par Céline Alvarez a duré trois ans, avant d’être interrompue par l’Éducation nationale."
   },
   {
     "question": "3 - De quelle pédagogie Céline Alvarez s’est-elle principalement inspirée ?",
-    "options": ["Montessori", "Freinet", "Steiner", "Decroly"],
-    "answerIndex": 0,
+    "options": [ "Freinet","Montessori", "Steiner", "Decroly"],
+    "answerIndex": 1,
     "explication": "Son projet reprend les grands principes de la pédagogie Montessori, adaptés au contexte contemporain."
   },
   {
     "question": "4 - Quelle était la particularité du contexte social de l’école de Gennevilliers ?",
-    "options": ["Située en REP (Réseau d’Éducation Prioritaire)", "École privée hors contrat", "École rurale isolée", "École spécialisée pour enfants précoces"],
-    "answerIndex": 0,
+    "options": [ "École privée hors contrat", "École rurale isolée","Située en REP (Réseau d’Éducation Prioritaire)", "École spécialisée pour enfants précoces"],
+    "answerIndex": 2,
     "explication": "Le choix d’un établissement en éducation prioritaire visait à prouver que cette pédagogie est efficace pour tous les publics."
   },
   {
@@ -31,20 +31,20 @@
   },
   {
     "question": "6 - Quelle tranche d’âge regroupait la classe de Gennevilliers ?",
-    "options": ["3 à 6 ans", "6 à 10 ans", "1 à 3 ans", "10 à 12 ans"],
-    "answerIndex": 0,
+    "options": [ "6 à 10 ans", "1 à 3 ans", "10 à 12 ans","3 à 6 ans"],
+    "answerIndex": 3,
     "explication": "Comme dans les écoles Montessori, la classe rassemblait des enfants de 3 à 6 ans, favorisant entraide et autonomie."
   },
   {
     "question": "7 - Quelle était la principale règle de vie dans la classe d’Alvarez ?",
-    "options": ["Ne jamais déranger l’activité d’autrui", "Parler fort pour se faire entendre", "Ne pas travailler seul", "Finir avant les autres"],
-    "answerIndex": 0,
+    "options": [ "Parler fort pour se faire entendre", "Ne jamais déranger l’activité d’autrui","Ne pas travailler seul", "Finir avant les autres"],
+    "answerIndex": 1,
     "explication": "Le respect du travail d’autrui était la seule règle fondamentale de la vie collective dans la classe."
   },
   {
     "question": "8 - Quelle était la source scientifique majeure mobilisée par Alvarez ?",
-    "options": ["Les neurosciences", "L’ethnographie", "La psychanalyse", "L’économie comportementale"],
-    "answerIndex": 0,
+    "options": [ "L’ethnographie", "La psychanalyse", "L’économie comportementale","Les neurosciences"],
+    "answerIndex": 3,
     "explication": "Céline Alvarez fonde sa démarche sur les découvertes récentes en neurosciences et en plasticité cérébrale."
   },
   {
@@ -55,26 +55,26 @@
   },
   {
     "question": "10 - Quelle phrase illustre la vision d’Alvarez sur la liberté de l’enfant ?",
-    "options": ["Empêcher un enfant d’agir, c’est contraindre son intelligence en train de se faire", "L’enfant doit obéir sans discuter", "L’adulte décide de tout", "La sécurité passe avant la liberté"],
-    "answerIndex": 0,
+    "options": [ "L’enfant doit obéir sans discuter", "Empêcher un enfant d’agir, c’est contraindre son intelligence en train de se faire","L’adulte décide de tout", "La sécurité passe avant la liberté"],
+    "answerIndex": 1,
     "explication": "Alvarez insiste sur la liberté d’agir comme condition essentielle du développement intellectuel de l’enfant."
   },
   {
     "question": "11 - Quelle est la cause principale de l’échec scolaire selon Alvarez ?",
-    "options": ["Un environnement inadapté", "Un manque d’intelligence", "Des parents absents", "Des programmes trop difficiles"],
-    "answerIndex": 0,
+    "options": [ "Un manque d’intelligence", "Des parents absents","Un environnement inadapté", "Des programmes trop difficiles"],
+    "answerIndex": 2,
     "explication": "Elle estime que tous les enfants peuvent apprendre si leur environnement est bienveillant, stimulant et adapté."
   },
   {
     "question": "12 - Quel type de motivation Alvarez valorise-t-elle ?",
-    "options": ["La motivation endogène", "La motivation extrinsèque", "La compétition", "La récompense matérielle"],
-    "answerIndex": 0,
+    "options": [ "La motivation extrinsèque", "La motivation endogène","La compétition", "La récompense matérielle"],
+    "answerIndex": 1,
     "explication": "Elle défend une motivation intérieure, naturelle, liée au plaisir d’apprendre et non à la pression externe."
   },
   {
     "question": "13 - Quel rôle joue le jeu libre dans sa pédagogie ?",
-    "options": ["Il favorise la créativité et l’autonomie", "Il empêche d’apprendre", "Il distrait l’enfant", "Il remplace le travail scolaire"],
-    "answerIndex": 0,
+    "options": [ "Il empêche d’apprendre", "Il distrait l’enfant", "Il remplace le travail scolaire","Il favorise la créativité et l’autonomie"],
+    "answerIndex": 3,
     "explication": "Le jeu libre est vu comme une activité essentielle d’apprentissage expérimental et de socialisation."
   },
   {
@@ -91,20 +91,20 @@
   },
   {
     "question": "16 - Que signifie « l’être humain est pré-câblé pour apprendre » ?",
-    "options": ["L’apprentissage est une capacité naturelle et universelle", "Seuls certains enfants sont doués", "Il faut imposer les savoirs", "L’environnement n’a aucune influence"],
-    "answerIndex": 0,
+    "options": [ "Seuls certains enfants sont doués", "Il faut imposer les savoirs", "L’apprentissage est une capacité naturelle et universelle","L’environnement n’a aucune influence"],
+    "answerIndex": 2,
     "explication": "Selon Alvarez, l’être humain naît avec des dispositions biologiques à apprendre et à communiquer."
   },
   {
     "question": "17 - Quelle est la conséquence d’un environnement contraignant ?",
-    "options": ["Il bloque le développement intellectuel", "Il favorise la discipline", "Il stimule la créativité", "Il rend les enfants plus attentifs"],
-    "answerIndex": 0,
+    "options": [ "Il favorise la discipline", "Il bloque le développement intellectuel","Il stimule la créativité", "Il rend les enfants plus attentifs"],
+    "answerIndex": 1,
     "explication": "Un cadre rigide ou punitif inhibe la curiosité et la motivation naturelles de l’enfant."
   },
   {
     "question": "18 - Quelle place occupent les récréations dans la classe d’Alvarez ?",
-    "options": ["Elles ne sont pas systématiques", "Elles sont obligatoires toutes les heures", "Elles remplacent le travail", "Elles sont supprimées"],
-    "answerIndex": 0,
+    "options": [ "Elles sont obligatoires toutes les heures", "Elles remplacent le travail", "Elles sont supprimées","Elles ne sont pas systématiques"],
+    "answerIndex": 3,
     "explication": "Les pauses sont décidées selon le rythme des enfants, non imposées par un emploi du temps rigide."
   },
   {
@@ -115,20 +115,20 @@
   },
   {
     "question": "20 - Quels domaines ont été évalués chez les enfants de Gennevilliers ?",
-    "options": ["Lecture et arithmétique", "Sport et musique", "Sciences et arts", "Éducation civique et morale"],
-    "answerIndex": 0,
+    "options": [ "Sport et musique", "Sciences et arts", "Lecture et arithmétique","Éducation civique et morale"],
+    "answerIndex": 2,
     "explication": "Les experts ont surtout mesuré les progrès en lecture et en mathématiques, jugés très supérieurs à la moyenne."
   },
   {
     "question": "21 - Quels résultats ont été constatés ?",
-    "options": ["Les enfants avaient environ un an d’avance", "Aucun progrès n’a été observé", "Les résultats étaient moyens", "Les enfants refusaient de lire"],
-    "answerIndex": 0,
+    "options": [ "Aucun progrès n’a été observé", "Les résultats étaient moyens", "Les enfants avaient environ un an d’avance","Les enfants refusaient de lire"],
+    "answerIndex": 2,
     "explication": "Tous les enfants lisaient à 6 ans et maîtrisaient la numération au-delà du niveau attendu."
   },
   {
     "question": "22 - Quelle critique principale formule Goigoux ?",
-    "options": ["Manque de rigueur scientifique et de représentativité", "Soutien excessif de l’institution", "Refus des neurosciences", "Absence d’évaluation"],
-    "answerIndex": 0,
+    "options": [ "Soutien excessif de l’institution", "Manque de rigueur scientifique et de représentativité","Refus des neurosciences", "Absence d’évaluation"],
+    "answerIndex": 1,
     "explication": "Goigoux remet en question la validité scientifique et la généralisation des résultats obtenus sur un petit échantillon."
   },
   {
@@ -139,14 +139,14 @@
   },
   {
     "question": "24 - Que reproche Goigoux à l’approche d’Alvarez ?",
-    "options": ["De ne pas s’inscrire dans l’histoire des pédagogies", "De rejeter l’autorité", "D’être trop collective", "D’utiliser trop de matériel"],
-    "answerIndex": 0,
+    "options": ["De rejeter l’autorité", "D’être trop collective", "D’utiliser trop de matériel","De ne pas s’inscrire dans l’histoire des pédagogies"],
+    "answerIndex": 3,
     "explication": "Il souligne qu’Alvarez néglige les apports d’autres courants comme Freinet ou Decroly, se référant quasi exclusivement à Montessori."
   },
   {
     "question": "25 - Quelle question pose Meirieu sur l’école actuelle ?",
-    "options": ["La difficulté de l’innovation pédagogique", "Le manque d’examens", "La disparition des notes", "Le coût du matériel"],
-    "answerIndex": 0,
+    "options": [ "Le manque d’examens","La difficulté de l’innovation pédagogique", "La disparition des notes", "Le coût du matériel"],
+    "answerIndex": 1,
     "explication": "Meirieu observe que l’innovation reste difficile à mettre en œuvre dans l’institution scolaire française."
   },
   {
@@ -157,20 +157,20 @@
   },
   {
     "question": "27 - Quel risque évoque Meirieu face à cette individualisation ?",
-    "options": ["Le clientélisme éducatif", "La disparition des familles", "La fin des écoles privées", "Le rejet des enseignants"],
-    "answerIndex": 0,
+    "options": [ "La disparition des familles", "La fin des écoles privées", "Le rejet des enseignants","Le clientélisme éducatif"],
+    "answerIndex": 3,
     "explication": "Les parents cherchent à choisir écoles et pédagogies selon leurs préférences, entraînant une logique de consommation éducative."
   },
   {
     "question": "28 - Quelle conséquence sociale découle de cette logique ?",
-    "options": ["Augmentation des écoles privées hors contrat", "Uniformisation de l’enseignement", "Renforcement du collectif scolaire", "Diminution des inégalités"],
-    "answerIndex": 0,
+    "options": [ "Uniformisation de l’enseignement", "Renforcement du collectif scolaire","Augmentation des écoles privées hors contrat", "Diminution des inégalités"],
+    "answerIndex": 2,
     "explication": "Cette approche favorise le développement d’écoles privées indépendantes, souvent réservées aux classes aisées."
   },
   {
     "question": "29 - Selon Nonnon, quel phénomène accompagne le succès de Montessori ?",
-    "options": ["La marchandisation du matériel éducatif", "Le rejet complet de l’école publique", "La baisse du niveau scolaire", "Le désintérêt des familles"],
-    "answerIndex": 0,
+    "options": [ "Le rejet complet de l’école publique", "La marchandisation du matériel éducatif","La baisse du niveau scolaire", "Le désintérêt des familles"],
+    "answerIndex": 1,
     "explication": "Nonnon observe un marché florissant d’objets et de manuels étiquetés ‘Montessori’, souvent sans lien réel avec la méthode."
   },
   {
@@ -181,20 +181,20 @@
   },
   {
     "question": "31 - Que représente le succès médiatique d’Alvarez ?",
-    "options": ["Un signe d’adhésion sociale à une vision de l’efficacité éducative", "Un rejet de l’innovation", "Une manipulation politique", "Un échec institutionnel"],
-    "answerIndex": 0,
+    "options": [ "Un rejet de l’innovation", "Un signe d’adhésion sociale à une vision de l’efficacité éducative","Une manipulation politique", "Un échec institutionnel"],
+    "answerIndex": 1,
     "explication": "Ce succès témoigne du besoin de réenchanter l’école à travers des modèles perçus comme modernes et efficaces."
   },
   {
     "question": "32 - Quelle dimension collective semble absente de l’approche Alvarez ?",
-    "options": ["La coopération entre élèves", "La compétition", "L’entraide parentale", "Le rôle des notes"],
-    "answerIndex": 0,
+    "options": [ "La compétition", "L’entraide parentale", "Le rôle des notes","La coopération entre élèves"],
+    "answerIndex": 3,
     "explication": "L’accent mis sur l’individu et son épanouissement laisse peu de place aux apprentissages coopératifs chers à Freinet."
   },
   {
     "question": "33 - Quelle est la motivation affichée par Alvarez dans son livre ?",
-    "options": ["Mettre en lumière les invariants pédagogiques bénéfiques à l’enfant", "Remplacer le système scolaire", "Promouvoir les écoles privées", "Critiquer les enseignants"],
-    "answerIndex": 0,
+    "options": [ "Remplacer le système scolaire", "Promouvoir les écoles privées","Mettre en lumière les invariants pédagogiques bénéfiques à l’enfant", "Critiquer les enseignants"],
+    "answerIndex": 2,
     "explication": "Elle affirme vouloir identifier les éléments universels favorables au développement des enfants."
   },
   {
@@ -205,26 +205,26 @@
   },
   {
     "question": "35 - Quelle est la critique politique implicite du mouvement Montessori contemporain ?",
-    "options": ["Il peut renforcer les inégalités sociales", "Il soutient l’école publique", "Il valorise les syndicats", "Il renforce la mixité sociale"],
-    "answerIndex": 0,
+    "options": [ "Il soutient l’école publique", "Il valorise les syndicats", "Il renforce la mixité sociale","Il peut renforcer les inégalités sociales"],
+    "answerIndex": 3,
     "explication": "La prolifération d’écoles Montessori privées creuse les écarts entre les enfants selon leur milieu d’origine."
   },
   {
     "question": "36 - Quelle valeur Montessori d’origine reste au cœur du projet Alvarez ?",
-    "options": ["La bienveillance", "La compétition", "La performance", "L’obéissance"],
-    "answerIndex": 0,
+    "options": [ "La compétition", "La bienveillance","La performance", "L’obéissance"],
+    "answerIndex": 1,
     "explication": "La bienveillance est un pilier fondamental repris de Montessori, favorisant un climat de confiance et d’autonomie."
   },
   {
     "question": "37 - Que dénonce Nonnon dans la diffusion du label Montessori ?",
-    "options": ["Un usage abusif et détourné du terme", "Un rejet des neurosciences", "Un manque de rigueur scientifique", "Une absence de matériel"],
-    "answerIndex": 0,
+    "options": [ "Un rejet des neurosciences", "Un manque de rigueur scientifique", "Une absence de matériel","Un usage abusif et détourné du terme"],
+    "answerIndex": 3,
     "explication": "Beaucoup de produits ou cahiers 'Montessori' ne respectent ni la démarche ni l’esprit de la pédagogie."
   },
   {
     "question": "38 - Quelle tension traverse le débat éducatif contemporain selon Meirieu ?",
-    "options": ["Entre liberté individuelle et bien commun", "Entre science et religion", "Entre tradition et technologie", "Entre enseignant et parent"],
-    "answerIndex": 0,
+    "options": [ "Entre science et religion", "Entre tradition et technologie", "Entre liberté individuelle et bien commun","Entre enseignant et parent"],
+    "answerIndex": 2,
     "explication": "L’école doit concilier la reconnaissance de l’individu avec la construction d’un collectif démocratique."
   },
   {
@@ -235,20 +235,20 @@
   },
   {
     "question": "40 - Quelle est la limite méthodologique majeure de l’expérience ?",
-    "options": ["Petite taille de l’échantillon", "Absence d’élèves motivés", "Manque de matériel", "Durée excessive"],
-    "answerIndex": 0,
+    "options": [ "Absence d’élèves motivés", "Petite taille de l’échantillon","Manque de matériel", "Durée excessive"],
+    "answerIndex": 1,
     "explication": "L’étude ne portait que sur 15 élèves, ce qui limite toute généralisation scientifique."
   },
   {
     "question": "41 - Quelle philosophie de l’apprentissage ressort du travail d’Alvarez ?",
-    "options": ["Constructiviste et expérientielle", "Autoritaire et directive", "Répétitive et passive", "Mécanique et académique"],
-    "answerIndex": 0,
+    "options": [ "Autoritaire et directive", "Répétitive et passive", "Constructiviste et expérientielle","Mécanique et académique"],
+    "answerIndex": 2,
     "explication": "Elle s’inscrit dans la lignée constructiviste où l’enfant apprend par exploration active et auto-construction."
   },
   {
     "question": "42 - Quelle image de l’enfant défend Alvarez ?",
-    "options": ["Un être naturellement bon et curieux", "Un être paresseux", "Un élève à contrôler", "Un adulte miniature"],
-    "answerIndex": 0,
+    "options": [ "Un être paresseux", "Un élève à contrôler", "Un adulte miniature","Un être naturellement bon et curieux"],
+    "answerIndex": 3,
     "explication": "Elle reprend l’idée montessorienne d’une bonté naturelle et d’une curiosité spontanée à préserver."
   },
   {
@@ -259,20 +259,20 @@
   },
   {
     "question": "44 - Quelle approche Alvarez propose-t-elle pour l’entrée en lecture ?",
-    "options": ["Associer les sons aux lettres de manière progressive", "Apprendre par cœur des mots", "Lire uniquement des images", "Utiliser des écrans éducatifs"],
-    "answerIndex": 0,
+    "options": [ "Apprendre par cœur des mots", "Lire uniquement des images","Associer les sons aux lettres de manière progressive", "Utiliser des écrans éducatifs"],
+    "answerIndex": 2,
     "explication": "Elle privilégie la conscience phonologique et la correspondance graphie/phonème, comme Montessori."
   },
   {
     "question": "45 - Quelle est la finalité commune entre Montessori et Alvarez ?",
-    "options": ["Favoriser l’autonomie et la confiance de l’enfant", "Contrôler le comportement", "Préparer aux examens", "Créer de la compétition"],
-    "answerIndex": 0,
+    "options": [ "Contrôler le comportement","Favoriser l’autonomie et la confiance de l’enfant", "Préparer aux examens", "Créer de la compétition"],
+    "answerIndex": 1,
     "explication": "Les deux pédagogues visent à développer des individus responsables, autonomes et épanouis."
   },
   {
     "question": "46 - Que symbolise la ‘ruche bienheureuse’ ?",
-    "options": ["Une classe organisée, vivante et harmonieuse", "Une agitation désordonnée", "Une métaphore de la fatigue", "Une salle pleine de bruit"],
-    "answerIndex": 0,
+    "options": [ "Une agitation désordonnée", "Une métaphore de la fatigue", "Une salle pleine de bruit","Une classe organisée, vivante et harmonieuse"],
+    "answerIndex": 3,
     "explication": "L’expression illustre le calme actif et la concentration collective observés dans la classe."
   },
   {
@@ -283,14 +283,14 @@
   },
   {
     "question": "48 - Quelle est la critique la plus forte du modèle Alvarez selon Meirieu ?",
-    "options": ["Il renforce l’individualisme au détriment du collectif", "Il ignore les neurosciences", "Il favorise la paresse", "Il rejette la liberté"],
-    "answerIndex": 0,
+    "options": ["Il ignore les neurosciences", "Il renforce l’individualisme au détriment du collectif", "Il favorise la paresse", "Il rejette la liberté"],
+    "answerIndex": 1,
     "explication": "Meirieu souligne que l’individualisme éducatif peut s’opposer à l’idéal collectif de l’école républicaine."
   },
   {
     "question": "49 - Quelle est la différence majeure entre Montessori historique et Alvarez ?",
-    "options": ["L’usage des neurosciences", "Le rejet de la liberté", "La suppression du matériel", "L’absence de spiritualité"],
-    "answerIndex": 0,
+    "options": [ "Le rejet de la liberté", "La suppression du matériel", "L’usage des neurosciences","L’absence de spiritualité"],
+    "answerIndex": 2,
     "explication": "Alvarez intègre les découvertes scientifiques récentes sur le cerveau, absentes à l’époque de Montessori."
   },
   {
