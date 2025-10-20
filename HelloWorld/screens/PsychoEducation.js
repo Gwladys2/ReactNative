@@ -76,7 +76,7 @@ export default function LessonScreen({ navigation }) {
                 <>
                     <Text style={styles.question}>Leçon terminée 🎉</Text>
                     <Button title="revenir à la liste des UE" onPress={() => navigation.navigate('ScienceEducation')} />
-                    <Button title="passer aux premières sciences psychologiques" onPress={() => navigation.navigate('PsychoEducation2')} />
+                    <Button title="passer aux 1ères sciences psychologiques" onPress={() => navigation.navigate('PsychoEducation2')} />
                 </>
             )}
              <View style={styles.linkContainer}>

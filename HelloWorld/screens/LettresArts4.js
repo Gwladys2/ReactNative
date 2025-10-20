@@ -74,7 +74,7 @@ export default function LessonScreen({ navigation }) {
             ) : (
                 <>
                     <Text style={styles.question}>Leçon terminée 🎉</Text>
-                    <Button title="Recommencer à  0 (réinitialise vies et xp)" onPress={handleRestart} color="#ff4444" />
+                    <Button title="revenir à la liste des UE" onPress={() => navigation.navigate('ScienceEducation')} />
                 </>
             )}
 
