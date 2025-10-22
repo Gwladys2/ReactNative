@@ -62,7 +62,7 @@ export default function LessonScreen({ navigation }) {
             <Logo/>
             {!showRestart ? (
                 <>
-                    <Text style={styles.link} onPress={() => navigation.navigate('CoursFreinet2')}> Voir le cours</Text>
+                    <Text style={styles.link} onPress={() => navigation.navigate('CoursFreinet2')}> 🌼Voir le cours</Text>
                     <Text style={styles.titre}>Les Grands Pédagogues Freinet partie 2/2</Text>
 
                     <Text style={styles.question}>{current.question}</Text>
