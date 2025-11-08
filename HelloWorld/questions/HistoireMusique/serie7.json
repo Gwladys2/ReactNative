@@ -1,0 +1,242 @@
+[
+  {
+    "question": "1 - [Identification] Quel compositeur a écrit la Symphonie n°25 K.183 ?",
+    "options": ["Wolfgang Amadeus Mozart", "Joseph Haydn", "Johann Stamitz", "Ludwig van Beethoven"],
+    "answerIndex": 0,
+    "explication": "La Symphonie n°25 K.183 a été composée par Mozart en 1773."
+  },
+  {
+    "question": "2 - [Date] En quelle année Mozart a-t-il composé cette symphonie ?",
+    "options": ["1773", "1762", "1785", "1800"],
+    "answerIndex": 0,
+    "explication": "La symphonie a été composée à Salzbourg en 1773, alors que Mozart avait 17 ans."
+  },
+  {
+    "question": "3 - [Style] Quel style caractérise cette symphonie ?",
+    "options": ["Sturm und Drang", "Romantisme", "Baroque tardif", "Impressionnisme"],
+    "answerIndex": 0,
+    "explication": "La symphonie est un exemple de Sturm und Drang avec mode mineur et tension dramatique."
+  },
+  {
+    "question": "4 - [Mode] Quel mode est utilisé pour le premier mouvement ?",
+    "options": ["Sol mineur", "Sol majeur", "Do majeur", "Fa mineur"],
+    "answerIndex": 0,
+    "explication": "Le premier mouvement est en sol mineur, accentuant le caractère dramatique."
+  },
+  {
+    "question": "5 - [Mode] Combien de symphonies en mode mineur Mozart a-t-il composées ?",
+    "options": ["Deux", "Une", "Quatre", "Cinq"],
+    "answerIndex": 0,
+    "explication": "Mozart n’a composé que deux symphonies en mode mineur : n°25 K.183 et n°40 K.550."
+  },
+  {
+    "question": "6 - [Premier mouvement] Quel est le tempo du premier mouvement ?",
+    "options": ["Allegro con brio", "Andante", "Presto", "Adagio"],
+    "answerIndex": 0,
+    "explication": "Le premier mouvement est vif et dramatique : Allegro con brio."
+  },
+  {
+    "question": "7 - [Premier mouvement] Quel caractère domine le premier thème ?",
+    "options": ["Dramatique et tendu", "Léger et humoristique", "Paisible", "Méditatif"],
+    "answerIndex": 0,
+    "explication": "Le premier thème est tendu, rythmé et dramatique, typique du Sturm und Drang."
+  },
+  {
+    "question": "8 - [Premier mouvement] Comment est le second thème ?",
+    "options": ["Plus lyrique mais toujours tendu", "Comique et léger", "Polyphonique complexe", "Silencieux"],
+    "answerIndex": 0,
+    "explication": "Le second thème est plus lyrique, offrant un contraste avec le premier thème dramatique."
+  },
+  {
+    "question": "9 - [Coda] Quel rôle joue la coda du premier mouvement ?",
+    "options": ["Renforcer la tension et le caractère dramatique", "Introduire un nouveau thème", "Créer un silence prolongé", "Improviser librement"],
+    "answerIndex": 0,
+    "explication": "La coda accentue le caractère dramatique et la tension du mouvement."
+  },
+  {
+    "question": "10 - [Deuxième mouvement] Quel est le tempo de l’Andante ?",
+    "options": ["Lent et lyrique", "Rapide et vif", "Menuet", "Presto"],
+    "answerIndex": 0,
+    "explication": "L’Andante est lent, mélodique et plus apaisé que le premier mouvement."
+  },
+  {
+    "question": "11 - [Deuxième mouvement] Quel est le contraste principal avec le premier mouvement ?",
+    "options": ["Passage plus calme et lyrique", "Plus dramatique", "Humoristique", "Polyphonique"],
+    "answerIndex": 0,
+    "explication": "L’Andante offre un contraste avec la tension dramatique du premier mouvement."
+  },
+  {
+    "question": "12 - [Troisième mouvement] Quelle est la structure du Menuet ?",
+    "options": ["Ternaire avec Trio", "Fugue", "Rondo", "Sonate"],
+    "answerIndex": 0,
+    "explication": "Le Menuet est en ternaire, avec un trio qui crée un contraste."
+  },
+  {
+    "question": "13 - [Menuet] Comment est le trio par rapport au menuet ?",
+    "options": ["Plus léger et moins dramatique", "Plus sombre", "Polyphonique complexe", "Improvisé"],
+    "answerIndex": 0,
+    "explication": "Le trio offre un contraste plus léger avec le menuet sombre et tendu."
+  },
+  {
+    "question": "14 - [Finale] Quel est le tempo du quatrième mouvement ?",
+    "options": ["Allegro", "Andante", "Presto", "Adagio"],
+    "answerIndex": 0,
+    "explication": "Le finale est rapide et énergique : Allegro."
+  },
+  {
+    "question": "15 - [Finale] Quelle fonction a le dernier mouvement ?",
+    "options": ["Clôturer la symphonie avec énergie et tension", "Introduire un thème lent", "Polyphonie complexe", "Servir de transition"],
+    "answerIndex": 0,
+    "explication": "Le finale conclut la symphonie en maintenant la tension dramatique."
+  },
+  {
+    "question": "16 - [Forme] Quelle forme structurelle est utilisée dans le premier mouvement et le finale ?",
+    "options": ["Forme sonate", "Rondo", "Fugue", "Suite de danses"],
+    "answerIndex": 0,
+    "explication": "Mozart utilise la forme sonate pour structurer ces mouvements."
+  },
+  {
+    "question": "17 - [Dynamique] Comment Mozart enrichit-il l’expression ?",
+    "options": ["Contrastes forte/piano et accents dramatiques", "Forte constante", "Silence prolongé", "Polyphonie stricte"],
+    "answerIndex": 0,
+    "explication": "Les contrastes dynamiques et accents renforcent l’intensité et la tension."
+  },
+  {
+    "question": "18 - [Orchestration] Quel rôle des cuivres et timbales ?",
+    "options": ["Accentuer et soutenir la tension", "Porter le thème principal", "Créer un rythme indépendant", "Improviser"],
+    "answerIndex": 0,
+    "explication": "Les cuivres et timbales ponctuent les accents dramatiques sans dominer l’orchestre."
+  },
+  {
+    "question": "19 - [Contraste] Comment se fait le contraste entre mouvements ?",
+    "options": ["Alternance de tension dramatique et lyrisme", "Silence total", "Polyphonie complexe", "Improvisation libre"],
+    "answerIndex": 0,
+    "explication": "Les mouvements alternent tension dramatique et passages lyriques."
+  },
+  {
+    "question": "20 - [Thème principal] Quelle famille d’instruments introduit le thème principal du premier mouvement ?",
+    "options": ["Cordes", "Cuivres", "Bois", "Percussions"],
+    "answerIndex": 0,
+    "explication": "Les cordes introduisent le thème principal dramatique."
+  },
+  {
+    "question": "21 - [Menuet] Quel caractère domine le menuet ?",
+    "options": ["Sombre et tendu", "Humour léger", "Polyphonie complexe", "Improvisation"],
+    "answerIndex": 0,
+    "explication": "Le menuet conserve le caractère tendu et dramatique de la symphonie."
+  },
+  {
+    "question": "22 - [Menuet] Quel contraste offre le trio ?",
+    "options": ["Plus léger et apaisé", "Plus sombre", "Polyphonique complexe", "Improvisé"],
+    "answerIndex": 0,
+    "explication": "Le trio est plus léger et offre un contraste avec le menuet sombre."
+  },
+  {
+    "question": "23 - [Finale] Quels motifs caractérisent le dernier mouvement ?",
+    "options": ["Courts et répétitifs", "Lents et méditatifs", "Polyphoniques complexes", "Improvisés"],
+    "answerIndex": 0,
+    "explication": "Le finale utilise des motifs courts et répétitifs qui maintiennent l’énergie et la tension."
+  },
+  {
+    "question": "24 - [Clarté] Comment est l’orchestration de Mozart ?",
+    "options": ["Équilibrée et expressive", "Chaotique", "Polyphonique stricte", "Aléatoire"],
+    "answerIndex": 0,
+    "explication": "L’orchestration est équilibrée et expressive, typique du classicisme viennois."
+  },
+  {
+    "question": "25 - [Ambiance] Quelle émotion domine la symphonie ?",
+    "options": ["Dramatique et tendue", "Joie légère", "Tragédie totale", "Mysticisme"],
+    "answerIndex": 0,
+    "explication": "L’atmosphère est dramatique et tendue, typique du mode mineur."
+  },
+  {
+    "question": "26 - [Comparaison] Avec quelle autre symphonie de Mozart peut-on la comparer stylistiquement ?",
+    "options": ["Symphonie n°40 K.550", "Symphonie n°25 K.183", "Symphonie n°35 K.385", "Symphonie n°41 K.551"],
+    "answerIndex": 0,
+    "explication": "La n°25 préfigure le style dramatique de la symphonie n°40, également en mode mineur."
+  },
+  {
+    "question": "27 - [Innovation] Quelle caractéristique stylistique annonce le classicisme mature ?",
+    "options": ["Forme sonate structurée et expressivité contrôlée", "Polyphonie stricte", "Silence prolongé", "Improvisation libre"],
+    "answerIndex": 0,
+    "explication": "La forme sonate et l’expressivité maîtrisée annoncent le classicisme mature."
+  },
+  {
+    "question": "28 - [Deuxième mouvement] Quel sentiment exprime l’Andante ?",
+    "options": ["Lyrique et apaisé", "Fureur et agitation", "Humour", "Mysticisme"],
+    "answerIndex": 0,
+    "explication": "L’Andante est lyrique et calme, contrastant avec le premier mouvement dramatique."
+  },
+  {
+    "question": "29 - [Premier mouvement] Comment Mozart crée-t-il le contraste entre thèmes ?",
+    "options": ["Dramatique et lyrique", "Monotone", "Humoristique", "Improvisé"],
+    "answerIndex": 0,
+    "explication": "Le contraste dramatique/lyrique renforce l’expression et la tension."
+  },
+  {
+    "question": "30 - [Orchestration] Quel rôle des bois ?",
+    "options": ["Accompagner et colorer l’orchestre", "Porter le thème principal", "Créer chaos", "Improviser"],
+    "answerIndex": 0,
+    "explication": "Les bois apportent des couleurs harmoniques et accompagnent les cordes."
+  },
+  {
+    "question": "31 - [Menuet] Quel contraste le trio crée-t-il ?",
+    "options": ["Atmosphère plus légère", "Plus sombre", "Polyphonie stricte", "Improvisé"],
+    "answerIndex": 0,
+    "explication": "Le trio offre une atmosphère plus légère et contrastée."
+  },
+  {
+    "question": "32 - [Finale] Quelle énergie domine le dernier mouvement ?",
+    "options": ["Vif et passionné", "Calme et méditatif", "Sombre et tragique", "Improvisé"],
+    "answerIndex": 0,
+    "explication": "Le finale est vif, passionné et tendu."
+  },
+  {
+    "question": "33 - [Dynamique] Quel rôle des contrastes dynamiques ?",
+    "options": ["Accentuer tension et expressivité", "Ralentir la symphonie", "Créer chaos", "Masquer le thème"],
+    "answerIndex": 0,
+    "explication": "Les contrastes accentuent la tension et l’expressivité."
+  },
+  {
+    "question": "34 - [Mode] Quel mode domine cette symphonie ?",
+    "options": ["Mineur", "Majeur", "Mixte", "Chromatique"],
+    "answerIndex": 0,
+    "explication": "Le mode mineur est central et confère le caractère dramatique."
+  },
+  {
+    "question": "35 - [Style] Quelle influence stylistique est perceptible ?",
+    "options": ["Sturm und Drang", "Style galant", "Baroque tardif", "Impressionnisme"],
+    "answerIndex": 0,
+    "explication": "Le Sturm und Drang est perceptible par l’usage du mode mineur et la tension dramatique."
+  },
+  {
+    "question": "36 - [Innovation] Quelle caractéristique rend cette symphonie originale ?",
+    "options": ["Mode mineur et tension dramatique", "Polyphonie stricte", "Silence prolongé", "Improvisation baroque"],
+    "answerIndex": 0,
+    "explication": "Le mode mineur et les contrastes dramatiques rendent cette symphonie originale."
+  },
+  {
+    "question": "37 - [Clarté] Comment Mozart structure-t-il les thèmes ?",
+    "options": ["Clairs et contrastés", "Chaotiques", "Polyphoniques complexes", "Aléatoires"],
+    "answerIndex": 0,
+    "explication": "Les thèmes sont clairs et contrastés, typique du classicisme viennois."
+  },
+  {
+    "question": "38 - [Interprétation] Quelle émotion principale se dégage du premier mouvement ?",
+    "options": ["Tension dramatique", "Joie légère", "Humour", "Mysticisme"],
+    "answerIndex": 0,
+    "explication": "Le premier mouvement exprime tension et agitation dramatique."
+  },
+  {
+    "question": "39 - [Comparaison] Quelle symphonie de Mozart est stylistiquement proche ?",
+    "options": ["Symphonie n°40 K.550", "Symphonie n°25 K.183", "Symphonie n°35 K.385", "Symphonie n°41 K.551"],
+    "answerIndex": 0,
+    "explication": "La symphonie n°40 K.550 partage le mode mineur et le style Sturm und Drang."
+  },
+  {
+    "question": "40 - [Conclusion] Quels éléments définissent l’esthétique de cette symphonie ?",
+    "options": ["Tension dramatique, expressivité et rythme accentué", "Humour léger et galanterie", "Clarté et simplicité uniquement", "Improvisation baroque"],
+    "answerIndex": 0,
+    "explication": "L’esthétique repose sur tension dramatique, expressivité et accent rythmique."
+  }
+]

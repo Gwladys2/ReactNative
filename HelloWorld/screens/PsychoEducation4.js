@@ -81,10 +81,10 @@ export default function LessonScreen({ navigation }) {
                 </>
             )}
              <View style={styles.linkContainer}>
-                         <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation')}>Repères historiques</Text>
-                        <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation2')}>Les 1ères sciences psychologiques</Text>
-                        <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation3')}>La théorie freudienne part1</Text>
-                         <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation4')}>La théorie freudienne part2</Text>
+                         <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation')}>🌈Repères historiques</Text>
+                        <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation2')}>🌈Les 1ères sciences psychologiques</Text>
+                        <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation3')}>🌈La théorie freudienne part1</Text>
+                         <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation4')}>🌈La théorie freudienne part2</Text>
                         </View>
 
        </ScrollView>
@@ -118,7 +118,7 @@ const styles = StyleSheet.create({
     link: {
         fontSize: 16,
         color: '#007BFF',
-        textDecorationLine: 'underline',
+        textDecorationLine: 'none',
         marginHorizontal: 8, // ✅ espace horizontal entre les liens
         fontSize:18
     }

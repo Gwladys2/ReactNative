@@ -8,6 +8,7 @@ import { ScrollView } from 'react-native';
 
 
 
+
 export default function LessonScreen({ navigation }) {
     const { xp, lives, updateProgress } = useContext(ProgressContext);
     const [currentIndex, setCurrentIndex] = useState(0);
@@ -88,7 +89,8 @@ export default function LessonScreen({ navigation }) {
                                 <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue5')}>🌼 Neill</Text>
                                 <Text style={styles.link} onPress={() => navigation.navigate('CitationNeill')}>🌼Citations Neill</Text>
                                  <Text style={styles.link} onPress={() => navigation.navigate('CitationMontessori')}>🌼Citations Montessori</Text>
-                                 <Text style={styles.link} onPress={() => navigation.navigate('CitationFreinet')}>🌼Citations Freinet</Text>                                
+                                 <Text style={styles.link} onPress={() => navigation.navigate('CitationFreinet')}>🌼Citations Freinet</Text>
+                                 <Text style={styles.link} onPress={() => navigation.navigate('QuiAditQuoi')}>🌼Qui A dit quoi?</Text>                                
                                </View>
        
                
@@ -122,7 +124,7 @@ export default function LessonScreen({ navigation }) {
            link: {
                fontSize: 16,
                color: '#007BFF',
-               textDecorationLine: 'underline',
+               textDecorationLine: 'none',
                marginHorizontal: 8, // ✅ espace horizontal entre les liens
                fontSize:20
            }

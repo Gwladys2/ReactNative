@@ -1,0 +1,243 @@
+
+ [
+  {
+    "question": "1 - [Identification] À quelle période correspond la symphonie de Johann Stamitz en la majeur ?",
+    "options": ["Milieu du XVIIIᵉ siècle", "Début du XVIIᵉ siècle", "Fin du XIXᵉ siècle", "Début du XXᵉ siècle"],
+    "answerIndex": 0,
+    "explication": "La symphonie a été écrite vers le milieu du XVIIIᵉ siècle, période préclassique."
+  },
+  {
+    "question": "2 - [Orchestration] Quels instruments constituent principalement l'orchestre de cette symphonie ?",
+    "options": ["Cordes, bois, cuivres, timbales", "Cordes, piano, percussions, saxophones", "Bois, harpe, trombones, percussions", "Flûtes, guitare, cordes, percussions"],
+    "answerIndex": 0,
+    "explication": "L'orchestre comprend cordes, bois, cuivres et parfois timbales, typique de l'École de Mannheim."
+  },
+  {
+    "question": "3 - [Style] Quelle caractéristique sonore est typique de l'École de Mannheim ?",
+    "options": ["Crescendo orchestral et fusée de Mannheim", "Basse continue et contrepoint strict", "Polyphonie complexe et fugue", "Utilisation exclusive du piano"],
+    "answerIndex": 0,
+    "explication": "L'École de Mannheim est célèbre pour ses crescendos progressifs et la fusée de Mannheim (arpège ascendant rapide)."
+  },
+  {
+    "question": "4 - [Forme musicale] Combien de mouvements comporte la symphonie de Stamitz ?",
+    "options": ["Quatre", "Trois", "Cinq", "Deux"],
+    "answerIndex": 0,
+    "explication": "La symphonie suit la structure classique émergente à quatre mouvements."
+  },
+  {
+    "question": "5 - [Premier mouvement] Quel est le tempo du premier mouvement ?",
+    "options": ["Allegro assai ou Allegro con brio", "Adagio", "Andante", "Presto"],
+    "answerIndex": 0,
+    "explication": "Le premier mouvement est vif et énergique, typique d'un Allegro assai ou Allegro con brio."
+  },
+  {
+    "question": "6 - [Thème 1] Quels instruments introduisent le premier thème ?",
+    "options": ["Les cordes", "Les bois", "Les cuivres", "Les percussions"],
+    "answerIndex": 0,
+    "explication": "Le thème 1 est introduit par les cordes avec un rythme vif et sautillant."
+  },
+  {
+    "question": "7 - [Thème 1] Quelle technique de Mannheim est illustrée par le premier thème ?",
+    "options": ["Fusée de Mannheim", "Trille baroque", "Polyphonie stricte", "Imitation fuguée"],
+    "answerIndex": 0,
+    "explication": "Le thème utilise la fusée de Mannheim : arpège ascendant rapide et énergique."
+  },
+  {
+    "question": "8 - [Transition] Vers quelle tonalité se fait souvent la modulation dans le pont ?",
+    "options": ["Mi majeur", "La mineur", "Sol majeur", "Ré mineur"],
+    "answerIndex": 0,
+    "explication": "Le pont du premier mouvement module souvent vers une tonalité voisine comme mi majeur."
+  },
+  {
+    "question": "9 - [Thème 2] Quels instruments jouent généralement le deuxième thème ?",
+    "options": ["Bois", "Cordes", "Cuivres", "Percussions"],
+    "answerIndex": 0,
+    "explication": "Le deuxième thème est plus chantant et confié aux bois, créant un contraste avec le premier."
+  },
+  {
+    "question": "10 - [Coda] Quelle est la caractéristique principale de la coda ?",
+    "options": ["Alternance forte/piano et silences expressifs", "Usage exclusif des timbales", "Polyphonie complexe", "Improvisation libre"],
+    "answerIndex": 0,
+    "explication": "La coda reprend la vigueur initiale avec alternance des nuances et accords coupés."
+  },
+  {
+    "question": "11 - [Forme] Quelle forme musicale ce premier mouvement préfigure-t-il ?",
+    "options": ["Forme sonate à deux thèmes", "Fugue baroque", "Rondeau français", "Variation sur un thème"],
+    "answerIndex": 0,
+    "explication": "Le mouvement annonce la forme sonate à deux thèmes, perfectionnée plus tard par Mozart et Haydn."
+  },
+  {
+    "question": "12 - [Style] Quelle pratique baroque Stamitz abandonne-t-il dans cette symphonie ?",
+    "options": ["Basse continue", "Arpège ascendant", "Fusée de Mannheim", "Crescendo orchestral"],
+    "answerIndex": 0,
+    "explication": "La basse continue baroque est abandonnée au profit d'une harmonie structurée."
+  },
+  {
+    "question": "13 - [Style] Quelle caractéristique de la musique préclassique est mise en valeur ?",
+    "options": ["Mélodie principale et contrastes dynamiques", "Polyphonie rigide et contrepoint", "Improvisation libre", "Thèmes uniquement vocaux"],
+    "answerIndex": 0,
+    "explication": "La symphonie valorise la mélodie principale et les contrastes dynamiques typiques du style préclassique."
+  },
+  {
+    "question": "14 - [Innovations] Quel effet dramatique est utilisé sans excès ?",
+    "options": ["Préfiguration du théâtre mozartien", "Usage excessif des trompettes", "Polyphonie complexe", "Improvisation baroque"],
+    "answerIndex": 0,
+    "explication": "Stamitz crée un effet dramatique contrôlé, préfigurant l'expressivité des opéras de Mozart."
+  },
+  {
+    "question": "15 - [Mannheim] Quel est le chef de file de l'orchestre de Mannheim ?",
+    "options": ["Johann Stamitz", "Wolfgang Amadeus Mozart", "Joseph Haydn", "Carl Philipp Emanuel Bach"],
+    "answerIndex": 0,
+    "explication": "Johann Stamitz est considéré comme le chef de file de l'orchestre de Mannheim."
+  },
+  {
+    "question": "16 - [Orchestration] Quels instruments ne sont que très peu utilisés ?",
+    "options": ["Percussions", "Cordes", "Bois", "Cuivres"],
+    "answerIndex": 0,
+    "explication": "Les percussions sont peu utilisées, généralement seulement les timbales."
+  },
+  {
+    "question": "17 - [Texte sonore] Comment est décrite la texture de cette symphonie ?",
+    "options": ["Claire et aérée", "Dense et polyphonique", "Impressionniste", "Atone et répétitive"],
+    "answerIndex": 0,
+    "explication": "La texture est claire, aérée, avec une hiérarchie nette des plans sonores."
+  },
+  {
+    "question": "18 - [Mannheim] Quel effet dynamique caractéristique est typique de Mannheim ?",
+    "options": ["Crescendo progressif", "Pizzicato constant", "Forte permanent", "Silence total"],
+    "answerIndex": 0,
+    "explication": "Le crescendo progressif est une innovation de l'École de Mannheim."
+  },
+  {
+    "question": "19 - [Style] Quel type de symphonie représente celle de Stamitz ?",
+    "options": ["Symphonie classique naissante", "Symphonie romantique", "Symphonie baroque", "Symphonie moderne"],
+    "answerIndex": 0,
+    "explication": "Il s'agit d'une symphonie classique naissante, entre baroque et classicisme."
+  },
+  {
+    "question": "20 - [Forme] Quel schéma formel la symphonie suit-elle typiquement ?",
+    "options": ["ABA", "ABAB", "Rondo", "Fugue"],
+    "answerIndex": 0,
+    "explication": "La symphonie suit un schéma de forme sonate ABA."
+  },
+  {
+    "question": "21 - [Interprétation] Quelle énergie exprime la symphonie selon l'analyse ?",
+    "options": ["Lumineuse et élégante", "Tragique et sombre", "Mystique et mystérieuse", "Furieuse et chaotique"],
+    "answerIndex": 0,
+    "explication": "La musique exprime une énergie lumineuse et élégante, empreinte de vitalité et de contrôle."
+  },
+  {
+    "question": "22 - [Interprétation] Quelle émotion dominante ne se retrouve pas encore chez Stamitz comparé à Mozart ?",
+    "options": ["Profondément tragique", "Joie maîtrisée", "Clarté architecturale", "Énergie contrôlée"],
+    "answerIndex": 0,
+    "explication": "Contrairement à Mozart, la profondeur tragique n’est pas encore présente, la joie maîtrisée domine."
+  },
+  {
+    "question": "23 - [Innovations] Quel effet orchestral est une nouveauté introduite par Mannheim ?",
+    "options": ["Crescendo progressif", "Arpège brisé en solo", "Fugue stricte", "Silence prolongé"],
+    "answerIndex": 0,
+    "explication": "Le crescendo progressif est une innovation orchestrale typique de l'école de Mannheim."
+  },
+  {
+    "question": "24 - [Thème] Comment se caractérise le deuxième thème ?",
+    "options": ["Doux et chantant", "Rapide et énergique", "Fugue complexe", "Atone et répétitif"],
+    "answerIndex": 0,
+    "explication": "Le deuxième thème est doux, plus expressif et confié aux bois, créant un contraste avec le premier."
+  },
+  {
+    "question": "25 - [Style] Quelle transition musicale est typique de cette symphonie ?",
+    "options": ["Baroque vers classicisme", "Classicisme vers romantisme", "Romantisme vers modernisme", "Renaissance vers baroque"],
+    "answerIndex": 0,
+    "explication": "La symphonie illustre la transition du baroque au classicisme."
+  },
+  {
+    "question": "26 - [Mannheim] Quelle figure musicale est appelée « fusée de Mannheim » ?",
+    "options": ["Motif ascendant très rapide", "Accord suspendu long", "Contrepoint strict", "Trille baroque"],
+    "answerIndex": 0,
+    "explication": "La fusée de Mannheim désigne un arpège ascendant rapide et énergique."
+  },
+  {
+    "question": "27 - [Forme] Comment Stamitz organise-t-il l'exposition du premier mouvement ?",
+    "options": ["Deux thèmes contrastés", "Un seul thème répété", "Rondo à variations", "Fugue stricte"],
+    "answerIndex": 0,
+    "explication": "L'exposition présente deux thèmes contrastés, caractéristique de la forme sonate."
+  },
+  {
+    "question": "28 - [Développement] Que contient le développement central du mouvement ?",
+    "options": ["Modulations riches", "Arpèges seuls", "Silence total", "Thèmes vocaux"],
+    "answerIndex": 0,
+    "explication": "Le développement central explore diverses tonalités par des modulations riches."
+  },
+  {
+    "question": "29 - [Réexposition] Comment est traitée la réexposition ?",
+    "options": ["Fidèle mais variée", "Exacte copie de l'exposition", "Complètement improvisée", "Omission du second thème"],
+    "answerIndex": 0,
+    "explication": "La réexposition reprend fidèlement les thèmes mais avec quelques variations."
+  },
+  {
+    "question": "30 - [Cordes] Quel rôle jouent les cordes dans cette symphonie ?",
+    "options": ["Introduisent le thème principal", "Se limitent à l’accompagnement", "Jouent seulement en pizzicato", "Sont absentes dans le premier mouvement"],
+    "answerIndex": 0,
+    "explication": "Les cordes introduisent le thème principal et participent à la fusée de Mannheim."
+  },
+  {
+    "question": "31 - [Contraste] Comment est créé le contraste entre les deux thèmes ?",
+    "options": ["Vigueur vs tendresse", "Identique énergie", "Polyphonie vs homophonie", "Silence vs forte"],
+    "answerIndex": 0,
+    "explication": "Le premier thème est vigoureux, le second doux et chantant, créant un contraste expressif."
+  },
+  {
+    "question": "32 - [Orchestration] Quelle famille instrumentale met en valeur la mélodie douce du second thème ?",
+    "options": ["Bois", "Cordes", "Cuivres", "Percussions"],
+    "answerIndex": 0,
+    "explication": "Les bois prennent en charge le second thème pour un rendu plus chantant et apaisé."
+  },
+  {
+    "question": "33 - [Conclusion esthétique] Que met en avant cette symphonie selon la conclusion ?",
+    "options": ["Équilibre, clarté et énergie", "Complexité polyphonique", "Expression tragique", "Improvisation baroque"],
+    "answerIndex": 0,
+    "explication": "Elle illustre l’équilibre, la clarté, la symétrie et l’énergie, typiques du style symphonique classique naissant."
+  },
+  {
+    "question": "34 - [Influence] Quels compositeurs reprendront les idées de Stamitz ?",
+    "options": ["Haydn et Mozart", "Beethoven et Chopin", "Bach et Vivaldi", "Schubert et Mendelssohn"],
+    "answerIndex": 0,
+    "explication": "Haydn et Mozart reprendront les innovations de Stamitz, comme la forme sonate et les crescendos."
+  },
+  {
+    "question": "35 - [Forme sonate] Quel schéma typique suit le mouvement selon l’analyse formelle ?",
+    "options": ["Exposition – Développement – Réexposition", "Rondo – Variations – Coda", "Fugue – Contrepoint – Coda", "Suite – Dance – Finale"],
+    "answerIndex": 0,
+    "explication": "Le schéma ABA (Exposition – Développement – Réexposition) est typique de la forme sonate."
+  },
+  {
+    "question": "36 - [Nuances] Comment sont utilisées les nuances dans le premier thème ?",
+    "options": ["Piano initial puis crescendo", "Forte constante", "Piano uniquement", "Accentuation aléatoire"],
+    "answerIndex": 0,
+    "explication": "Le thème commence piano, puis monte progressivement en intensité (crescendo)."
+  },
+  {
+    "question": "37 - [Expressivité] Quelle caractéristique stylistique préfigure le classicisme viennois ?",
+    "options": ["Clarté et équilibre du discours musical", "Polyphonie complexe", "Improvisation baroque", "Tonalité atonale"],
+    "answerIndex": 0,
+    "explication": "La symphonie présente un discours clair et équilibré, annonçant le classicisme viennois."
+  },
+  {
+    "question": "38 - [École de Mannheim] Quelle figure rythmique crée de la tension dans le pont ?",
+    "options": ["Syncopes et changements dynamiques", "Trille constant", "Silence total", "Accords bloqués"],
+    "answerIndex": 0,
+    "explication": "Les syncopes et changements dynamiques dans le pont créent une tension expressive."
+  },
+  {
+    "question": "39 - [Énergie] Quel effet sonore est utilisé pour conclure le premier mouvement avec éclat ?",
+    "options": ["Accords coupés et silences expressifs", "Solo de flûte prolongé", "Piano continu", "Silence absolu"],
+    "answerIndex": 0,
+    "explication": "Les accords coupés et silences expressifs permettent de conclure le mouvement de manière éclatante."
+  },
+  {
+    "question": "40 - [Synthèse] Quelle est l’importance de cette symphonie dans l’histoire musicale ?",
+    "options": ["Naissance du style symphonique classique", "Début de la musique romantique", "Fin du baroque tardif", "Émergence de l’impressionnisme"],
+    "answerIndex": 0,
+    "explication": "La symphonie illustre la naissance du style symphonique classique, ouvrant la voie à Haydn et Mozart."
+  }
+]

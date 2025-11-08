@@ -1,0 +1,242 @@
+[
+  {
+    "question": "1 - [Identification] Quel compositeur a écrit la Symphonie n°9 « La Passion » ?",
+    "options": ["Joseph Haydn", "Johann Stamitz", "Wolfgang Amadeus Mozart", "Ludwig van Beethoven"],
+    "answerIndex": 0,
+    "explication": "La Symphonie n°9 « La Passion » a été composée par Joseph Haydn."
+  },
+  {
+    "question": "2 - [Date] Vers quelle année a-t-elle été composée ?",
+    "options": ["1762", "1785", "1770", "1800"],
+    "answerIndex": 0,
+    "explication": "La symphonie a été composée vers 1762 pour l’orchestre d’Esterházy."
+  },
+  {
+    "question": "3 - [Contexte] Dans quel cadre Haydn a-t-il écrit cette symphonie ?",
+    "options": ["Première période symphonique pour Esterházy", "Concerts de Paris", "Symphonies de Londres", "Musique religieuse pour Vienne"],
+    "answerIndex": 0,
+    "explication": "Elle fait partie des premières symphonies composées pour l’orchestre d’Esterházy."
+  },
+  {
+    "question": "4 - [Style] Quel style marque cette symphonie ?",
+    "options": ["Sturm und Drang", "Romantisme", "Baroque tardif", "Classicisme mature"],
+    "answerIndex": 0,
+    "explication": "Le style est Sturm und Drang, caractérisé par le mode mineur et des contrastes dramatiques."
+  },
+  {
+    "question": "5 - [Formation] Quelle est l’orchestration typique ?",
+    "options": ["Cordes, bois, cuivres, timbales", "Cordes, piano, percussions, saxophones", "Bois, harpe, trombones, percussions", "Flûtes, guitare, cordes, percussions"],
+    "answerIndex": 0,
+    "explication": "L’orchestre comprend cordes, bois, cuivres et timbales ponctuelles."
+  },
+  {
+    "question": "6 - [Premier mouvement] Quel est le tempo du premier mouvement ?",
+    "options": ["Allegro moderato", "Andante", "Presto", "Adagio"],
+    "answerIndex": 0,
+    "explication": "Le premier mouvement est un Allegro moderato en forme sonate."
+  },
+  {
+    "question": "7 - [Premier mouvement] Quelle atmosphère domine le premier thème ?",
+    "options": ["Sombre et dramatique", "Joyful et léger", "Paisible et méditatif", "Humoristique"],
+    "answerIndex": 0,
+    "explication": "Le premier thème est sombre et dramatique, en fa mineur."
+  },
+  {
+    "question": "8 - [Premier mouvement] Comment est le second thème ?",
+    "options": ["Lyrique et expressif", "Polyphonique complexe", "Percussif", "Silencieux"],
+    "answerIndex": 0,
+    "explication": "Le second thème est plus lyrique, créant un contraste avec le premier."
+  },
+  {
+    "question": "9 - [Coda] Quel rôle joue la coda du premier mouvement ?",
+    "options": ["Renforcer la tension et la passion", "Introduire un nouveau thème", "Créer un silence prolongé", "Improviser librement"],
+    "answerIndex": 0,
+    "explication": "La coda accentue la tension et le caractère dramatique du mouvement."
+  },
+  {
+    "question": "10 - [Deuxième mouvement] Quel est le tempo de l’Andante ?",
+    "options": ["Lent et méditatif", "Rapide et vif", "Menuet", "Presto"],
+    "answerIndex": 0,
+    "explication": "L’Andante est un mouvement lent et méditatif, typique du style Sturm und Drang."
+  },
+  {
+    "question": "11 - [Deuxième mouvement] Quels instruments portent le thème principal ?",
+    "options": ["Cordes", "Cuivres", "Bois", "Percussions"],
+    "answerIndex": 0,
+    "explication": "Les cordes portent le thème principal avec accompagnement discret des bois."
+  },
+  {
+    "question": "12 - [Menuet] Quelle nuance distingue le menuet ?",
+    "options": ["Gravité et intensité dramatique", "Humour léger", "Polyphonie baroque", "Improvisation libre"],
+    "answerIndex": 0,
+    "explication": "Le menuet est sérieux et intense, reflétant le caractère passionné de la symphonie."
+  },
+  {
+    "question": "13 - [Menuet] Comment le trio se distingue-t-il ?",
+    "options": ["Plus léger et contrasté", "Plus sombre et dramatique", "Silencieux", "Improvisé"],
+    "answerIndex": 0,
+    "explication": "Le trio crée un contraste plus léger avec le menuet grave."
+  },
+  {
+    "question": "14 - [Finale] Quel est le tempo du quatrième mouvement ?",
+    "options": ["Presto", "Andante", "Adagio", "Menuet"],
+    "answerIndex": 0,
+    "explication": "Le dernier mouvement est un Presto rapide et passionné."
+  },
+  {
+    "question": "15 - [Finale] Quelle fonction musicale a le finale ?",
+    "options": ["Clôturer avec énergie et tension dramatique", "Introduire un thème calme", "Polyphonie complexe", "Servir de transition"],
+    "answerIndex": 0,
+    "explication": "Le finale clôt la symphonie avec énergie et passion."
+  },
+  {
+    "question": "16 - [Forme] Quelle forme structurelle Haydn utilise-t-il dans le premier mouvement et le finale ?",
+    "options": ["Forme sonate", "Rondo", "Fugue", "Suite de danses"],
+    "answerIndex": 0,
+    "explication": "Le premier mouvement et le finale utilisent la forme sonate."
+  },
+  {
+    "question": "17 - [Dynamique] Comment sont traités les contrastes dynamiques ?",
+    "options": ["Forte/piano accentué et silences expressifs", "Forte constante", "Piano continu", "Aléatoire"],
+    "answerIndex": 0,
+    "explication": "Les contrastes dynamiques intensifient l’expressivité et le drame."
+  },
+  {
+    "question": "18 - [Style] Quel élément stylistique est central dans cette symphonie ?",
+    "options": ["Mode mineur et tension dramatique", "Polyphonie complexe", "Humour léger", "Danse galante"],
+    "answerIndex": 0,
+    "explication": "L’usage du mode mineur et des contrastes dramatiques caractérise le style Sturm und Drang."
+  },
+  {
+    "question": "19 - [Orchestration] Quel rôle des cuivres et timbales ?",
+    "options": ["Renforcer la tension et les accents", "Porter le thème principal", "Créer des harmonies lentes", "Improviser"],
+    "answerIndex": 0,
+    "explication": "Les cuivres et timbales ponctuent les moments dramatiques sans dominer l’orchestre."
+  },
+  {
+    "question": "20 - [Contraste] Comment Haydn crée-t-il le contraste entre thèmes et mouvements ?",
+    "options": ["Alternance de passages sombres et lyriques", "Silence total", "Polyphonie complexe", "Improvisation libre"],
+    "answerIndex": 0,
+    "explication": "Les contrastes entre thèmes sombres et lyriques accentuent l’intensité dramatique."
+  },
+  {
+    "question": "21 - [Thème principal] Quelle famille d’instruments introduit le thème principal du premier mouvement ?",
+    "options": ["Cordes", "Cuivres", "Bois", "Percussions"],
+    "answerIndex": 0,
+    "explication": "Les cordes introduisent le thème principal sombre et passionné."
+  },
+  {
+    "question": "22 - [Menuet] Quel effet stylistique domine le menuet ?",
+    "options": ["Gravité et sérieux", "Humour léger", "Polyphonie baroque", "Improvisation libre"],
+    "answerIndex": 0,
+    "explication": "Le menuet exprime gravité et intensité dramatique."
+  },
+  {
+    "question": "23 - [Finale] Quels motifs caractérisent le Presto final ?",
+    "options": ["Courts et répétitifs", "Lents et méditatifs", "Polyphoniques complexes", "Improvisés"],
+    "answerIndex": 0,
+    "explication": "Le Presto final utilise des motifs courts et répétitifs, créant énergie et passion."
+  },
+  {
+    "question": "24 - [Clarté] Comment est l’orchestration de Haydn ?",
+    "options": ["Équilibrée et expressive", "Chaotique", "Polyphonique stricte", "Aléatoire"],
+    "answerIndex": 0,
+    "explication": "L’orchestration est claire, équilibrée et expressive."
+  },
+  {
+    "question": "25 - [Atmosphère] Quelle émotion domine la symphonie ?",
+    "options": ["Passion et intensité dramatique", "Joie légère", "Tragédie totale", "Mysticisme"],
+    "answerIndex": 0,
+    "explication": "L’atmosphère est intense, passionnée et dramatique."
+  },
+  {
+    "question": "26 - [Comparaison] Quelle différence avec la symphonie n°8 « Le Soir » ?",
+    "options": ["Plus sombre et dramatique", "Plus légère et galante", "Plus humoristique", "Plus descriptive"],
+    "answerIndex": 0,
+    "explication": "La symphonie n°9 est plus sombre et dramatique que la n°8."
+  },
+  {
+    "question": "27 - [Innovation] Quelle caractéristique stylistique annonce le classicisme mature ?",
+    "options": ["Forme sonate structurée et expressivité contrôlée", "Polyphonie stricte", "Silence prolongé", "Improvisation libre"],
+    "answerIndex": 0,
+    "explication": "La structure sonate et le contrôle de l’expression annoncent le classicisme mature."
+  },
+  {
+    "question": "28 - [Deuxième mouvement] Quel sentiment exprime l’Andante ?",
+    "options": ["Méditation et lyrisme", "Fureur et chaos", "Humour", "Rythme dansant"],
+    "answerIndex": 0,
+    "explication": "L’Andante exprime méditation et lyrisme dans un registre sombre."
+  },
+  {
+    "question": "29 - [Premier mouvement] Comment se fait le contraste entre les thèmes ?",
+    "options": ["Sombre et lyrique", "Monotone", "Humoristique", "Improvisé"],
+    "answerIndex": 0,
+    "explication": "Le contraste entre un thème sombre et un second thème lyrique crée tension et expressivité."
+  },
+  {
+    "question": "30 - [Orchestration] Quel rôle des bois ?",
+    "options": ["Accompagner et colorer l’orchestre", "Porter le thème principal", "Créer chaos", "Improviser librement"],
+    "answerIndex": 0,
+    "explication": "Les bois accompagnent les cordes et apportent des couleurs harmoniques et expressives."
+  },
+  {
+    "question": "31 - [Menuet] Quel contraste Haydn crée-t-il avec le trio ?",
+    "options": ["Atmosphère plus légère", "Thème sombre supplémentaire", "Polyphonie stricte", "Improvisation libre"],
+    "answerIndex": 0,
+    "explication": "Le trio crée un contraste plus léger avec le menuet dramatique."
+  },
+  {
+    "question": "32 - [Finale] Quelle énergie domine le Presto ?",
+    "options": ["Vif et passionné", "Calme et méditatif", "Sombre et tragique", "Improvisé"],
+    "answerIndex": 0,
+    "explication": "Le Presto final est vif, passionné et intense."
+  },
+  {
+    "question": "33 - [Dynamique] Comment Haydn enrichit-il l’expression ?",
+    "options": ["Contrastes forte/piano et accents expressifs", "Forte continue", "Silence total", "Polyphonie stricte"],
+    "answerIndex": 0,
+    "explication": "Les contrastes dynamiques et accents renforcent l’expressivité et le drame."
+  },
+  {
+    "question": "34 - [Mode] Quel mode domine cette symphonie ?",
+    "options": ["Mineur", "Majeur", "Mixte", "Chromatique"],
+    "answerIndex": 0,
+    "explication": "Le mode mineur renforce l’intensité dramatique et la tension émotionnelle."
+  },
+  {
+    "question": "35 - [Style] Quelle influence stylistique est perceptible ?",
+    "options": ["Sturm und Drang", "Style galant léger", "Baroque tardif", "Impressionnisme"],
+    "answerIndex": 0,
+    "explication": "Le style Sturm und Drang est caractérisé par intensité, mode mineur et contrastes dynamiques."
+  },
+  {
+    "question": "36 - [Innovation] Quelle caractéristique rend cette symphonie originale ?",
+    "options": ["Exploration dramatique et expressive", "Polyphonie stricte", "Silence prolongé", "Improvisation baroque"],
+    "answerIndex": 0,
+    "explication": "L’exploration dramatique et expressive du mode mineur rend la symphonie originale."
+  },
+  {
+    "question": "37 - [Clarté] Comment Haydn structure-t-il les thèmes ?",
+    "options": ["Clairs et contrastés", "Chaotiques", "Polyphoniques complexes", "Aléatoires"],
+    "answerIndex": 0,
+    "explication": "Les thèmes sont clairs et contrastés, favorisant lisibilité et tension dramatique."
+  },
+  {
+    "question": "38 - [Interprétation] Quelle émotion principale se dégage du premier mouvement ?",
+    "options": ["Intensité dramatique et passion", "Joie légère", "Humour", "Mysticisme"],
+    "answerIndex": 0,
+    "explication": "Le premier mouvement dégage intensité dramatique et passion."
+  },
+  {
+    "question": "39 - [Comparaison] Avec quelle autre symphonie de Haydn peut-on la comparer stylistiquement ?",
+    "options": ["Symphonie n°6 « Le Matin » pour contraste de tonalité", "Symphonie n°8 « Le Soir »", "Symphonie n°87", "Symphonie n°92 « Oxford »"],
+    "answerIndex": 0,
+    "explication": "On peut comparer la n°9 avec la n°6 « Le Matin » pour son style descriptif et ses contrastes de tonalité, mais la n°9 est plus sombre."
+  },
+  {
+    "question": "40 - [Conclusion] Quels éléments définissent l’esthétique de cette symphonie ?",
+    "options": ["Intensité dramatique, expressivité, contraste et passion", "Humour léger et galanterie", "Clarté et simplicité uniquement", "Improvisation baroque"],
+    "answerIndex": 0,
+    "explication": "L’esthétique repose sur intensité dramatique, expressivité et contrastes passionnés."
+  }
+]

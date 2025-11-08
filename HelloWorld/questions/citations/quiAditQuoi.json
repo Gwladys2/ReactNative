@@ -1,0 +1,128 @@
+[
+  {
+    "question": "1 - Qui a dit : « L’enfant n’est pas un vase que l’on remplit mais une source que l’on laisse jaillir. » ?",
+    "options": ["Céline Alvarez", "Célestin Freinet", "Maria Montessori", "Alexander S. Neill"],
+    "answerIndex": 2,
+    "explication": "Maria Montessori souligne que l’enfant doit être accompagné dans son élan naturel d’apprentissage, non rempli de savoirs passivement."
+  },
+  {
+    "question": "2 - Qui a dit : « L’enfant apprend par l’expérience et non par la leçon. » ?",
+    "options": ["Célestin Freinet", "Céline Alvarez", "Maria Montessori", "Alexander S. Neill"],
+    "answerIndex": 0,
+    "explication": "Freinet valorise l’apprentissage par le tâtonnement expérimental et la mise en pratique plutôt que par l’enseignement magistral."
+  },
+  {
+    "question": "3 - Qui a dit : « Les enfants n’apprennent que ce qu’ils veulent apprendre. » ?",
+    "options": ["Maria Montessori", "Alexander S. Neill", "Céline Alvarez", "Célestin Freinet"],
+    "answerIndex": 1,
+    "explication": "Neill prône la liberté totale dans l’éducation : l’enfant choisit ce qu’il veut apprendre selon ses besoins intérieurs."
+  },
+  {
+    "question": "4 - Qui a dit : « L’enfant n’est pas un élève, c’est une personne. » ?",
+    "options": ["Céline Alvarez", "Célestin Freinet", "Maria Montessori", "Alexander S. Neill"],
+    "answerIndex": 0,
+    "explication": "Céline Alvarez insiste sur la reconnaissance de l’enfant comme être complet, digne de respect et d’autonomie."
+  },
+  {
+    "question": "5 - Qui a dit : « La liberté n’est pas l’absence de règles, mais la possibilité de choisir ses règles. » ?",
+    "options": ["Céline Alvarez", "Maria Montessori", "Célestin Freinet", "Alexander S. Neill"],
+    "answerIndex": 3,
+    "explication": "Neill considère la liberté comme une responsabilité personnelle, fondement de la pédagogie de Summerhill."
+  },
+  {
+    "question": "6 - Qui a dit : « Tout ce qui est imposé à l’enfant l’empêche de se construire. » ?",
+    "options": ["Maria Montessori", "Alexander S. Neill", "Céline Alvarez", "Célestin Freinet"],
+    "answerIndex": 2,
+    "explication": "Céline Alvarez dénonce les contraintes artificielles du système scolaire qui nuisent au développement naturel de l’enfant."
+  },
+  {
+    "question": "7 - Qui a dit : « L’école doit être une communauté vivante où chacun travaille pour le bien commun. » ?",
+    "options": ["Célestin Freinet", "Maria Montessori", "Céline Alvarez", "Alexander S. Neill"],
+    "answerIndex": 0,
+    "explication": "Freinet conçoit la classe comme une coopérative où les enfants participent à la vie collective."
+  },
+  {
+    "question": "8 - Qui a dit : « L’éducation doit être une aide à la vie. » ?",
+    "options": [ "Céline Alvarez", "Maria Montessori","Alexander S. Neill", "Célestin Freinet"],
+    "answerIndex": 1,
+    "explication": "Montessori voyait l’éducation comme un accompagnement global de la vie, au-delà des savoirs scolaires."
+  },
+  {
+    "question": "9 - Qui a dit : « L’enfant est naturellement porté vers le travail. » ?",
+    "options": [ "Céline Alvarez", "Célestin Freinet", "Alexander S. Neill","Maria Montessori"],
+    "answerIndex": 3,
+    "explication": "Montessori considère le travail comme un besoin vital chez l’enfant, source de concentration et de joie."
+  },
+  {
+    "question": "10 - Qui a dit : « C’est en coopérant que les enfants apprennent à vivre ensemble. » ?",
+    "options": [ "Maria Montessori", "Célestin Freinet","Céline Alvarez", "Alexander S. Neill"],
+    "answerIndex": 1,
+    "explication": "Freinet met au cœur de sa pédagogie la coopération et la vie collective."
+  },
+  {
+    "question": "11 - Qui a dit : « Le rôle du maître est d’observer, non d’imposer. » ?",
+    "options": ["Maria Montessori", "Céline Alvarez", "Célestin Freinet", "Alexander S. Neill"],
+    "answerIndex": 0,
+    "explication": "Montessori voit l’enseignant comme un guide silencieux, attentif au rythme de chaque enfant."
+  },
+  {
+    "question": "12 - Qui a dit : « L’enfant apprend mieux quand il est heureux. » ?",
+    "options": ["Céline Alvarez", "Célestin Freinet", "Maria Montessori", "Alexander S. Neill"],
+    "answerIndex": 3,
+    "explication": "Neill considère la joie et la liberté comme conditions essentielles de tout apprentissage authentique."
+  },
+  {
+    "question": "13 - Qui a dit : « La motivation vient de l’intérieur, jamais de la récompense. » ?",
+    "options": [ "Céline Alvarez", "Célestin Freinet","Maria Montessori", "Alexander S. Neill"],
+    "answerIndex": 2,
+    "explication": "Montessori distingue la motivation intrinsèque de la récompense externe, qui détourne l’attention de l’activité elle-même."
+  },
+  {
+    "question": "14 - Qui a dit : « La discipline naît de la liberté. » ?",
+    "options": [ "Célestin Freinet", "Maria Montessori","Céline Alvarez", "Alexander S. Neill"],
+    "answerIndex": 1,
+    "explication": "Montessori montre que la liberté bien guidée développe l’autodiscipline chez l’enfant."
+  },
+  {
+    "question": "15 - Qui a dit : « L’enfant est naturellement bon, c’est l’environnement qui le déforme. » ?",
+    "options": ["Alexander S. Neill", "Maria Montessori", "Céline Alvarez", "Célestin Freinet"],
+    "answerIndex": 0,
+    "explication": "Neill, influencé par Rousseau, croit à la bonté naturelle de l’enfant et critique la contrainte éducative."
+  },
+  {
+    "question": "16 - Qui a dit : « L’intelligence de l’enfant se construit dans l’action. » ?",
+    "options": [  "Céline Alvarez","Célestin Freinet", "Alexander S. Neill","Maria Montessori"],
+    "answerIndex": 3,
+    "explication": "Montessori insiste sur la manipulation et l’expérience sensorielle comme base du développement intellectuel."
+  },
+  {
+    "question": "17 - Qui a dit : « L’enfant est le meilleur chercheur de sa propre voie. » ?",
+    "options": [ "Célestin Freinet", "Céline Alvarez","Maria Montessori", "Alexander S. Neill"],
+    "answerIndex": 1,
+    "explication": "Céline Alvarez met en avant l’auto-apprentissage, soutenu par un environnement bienveillant."
+  },
+  {
+    "question": "18 - Qui a dit : « L’école traditionnelle tue la curiosité naturelle. » ?",
+    "options": ["Alexander S. Neill", "Maria Montessori", "Céline Alvarez", "Célestin Freinet"],
+    "answerIndex": 0,
+    "explication": "Neill critique l’école autoritaire, estimant qu’elle éteint la curiosité et la joie d’apprendre."
+  },
+  {
+    "question": "19 - Qui a dit : « L’enfant apprend en tâtonnant, en se trompant, en recommençant. » ?",
+    "options": [ "Maria Montessori", "Céline Alvarez", "Célestin Freinet","Alexander S. Neill"],
+    "answerIndex": 2,
+    "explication": "Freinet fonde sa méthode sur le ‘tâtonnement expérimental’, pilier de l’apprentissage actif."
+  },
+  {
+    "question": "20 - Qui a dit : « L’amour est le véritable moteur de l’éducation. » ?",
+    "options": [ "Céline Alvarez", "Maria Montessori","Célestin Freinet", "Alexander S. Neill"],
+    "answerIndex": 1,
+    "explication": "Montessori place l’amour et le respect de l’enfant au centre de toute démarche éducative."
+  },
+  {
+    "question": "21 - Qui a dit : « Ne vous obstinez pas dans l'erreur d'une pédagogie du cheval qui n'a pas soif » ?",
+    "options": ["Maria Montessori", "Céline Alvarez", "Célestin Freinet", "Alexander S. Neill"],
+    "answerIndex": 2,
+    "explication": ""
+  }
+]

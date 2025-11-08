@@ -9,7 +9,9 @@ const HomeScreen2 = ({ navigation }) => {
     { label: 'Les Grands Pédagogues', screen: 'GrandPedagogue' },
     { label: "Psychologie du développement et de l'éducation", screen: 'PsychoEducation' },
     { label: "Philosophie de l'éducation", screen: 'PhiloEducation' },
-    { label: "Lettres et Arts", screen: 'LettresArts' }
+    { label: "Lettres et Arts", screen: 'LettresArts' },
+    { label: "Analyse de l'Arts", screen: 'AnalyseArts' },
+    { label: "Histoire de la musique", screen: 'HistoireMusique' }
    
   ];
 

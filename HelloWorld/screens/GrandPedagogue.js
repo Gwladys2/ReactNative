@@ -121,7 +121,7 @@ const styles = StyleSheet.create({
     link: {
         fontSize: 16,
         color: '#007BFF',
-        textDecorationLine: 'underline',
+        textDecorationLine: 'none',
         marginHorizontal: 8, // ✅ espace horizontal entre les liens
         fontSize:20
     }

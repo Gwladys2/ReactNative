@@ -1,0 +1,242 @@
+[
+  {
+    "question": "1 - [Identification] Quel compositeur a écrit la symphonie n°87 en La majeur ?",
+    "options": ["Joseph Haydn", "Johann Stamitz", "Wolfgang Amadeus Mozart", "Ludwig van Beethoven"],
+    "answerIndex": 0,
+    "explication": "La symphonie n°87 en La majeur a été composée par Joseph Haydn."
+  },
+  {
+    "question": "2 - [Contexte] Dans quel cadre la symphonie a-t-elle été composée ?",
+    "options": ["Série des symphonies de Paris", "Commande pour Mannheim", "Concerts à Vienne", "Symphonies de Londres"],
+    "answerIndex": 0,
+    "explication": "La symphonie fait partie des six symphonies de Paris composées pour les Concerts de Paris."
+  },
+  {
+    "question": "3 - [Date] En quelle année Haydn a-t-il composé la symphonie n°87 ?",
+    "options": ["1785", "1770", "1791", "1800"],
+    "answerIndex": 0,
+    "explication": "La symphonie n°87 a été composée en 1785."
+  },
+  {
+    "question": "4 - [Style] Quel style musical caractérise cette symphonie ?",
+    "options": ["Classicisme viennois", "Baroque tardif", "Romantisme", "Impressionnisme"],
+    "answerIndex": 0,
+    "explication": "La symphonie est représentative du classicisme viennois mature."
+  },
+  {
+    "question": "5 - [Orchestration] Quels instruments composent l'orchestre de cette symphonie ?",
+    "options": ["Cordes, bois, cuivres, timbales", "Cordes, piano, percussions, saxophones", "Bois, harpe, trombones, percussions", "Flûtes, guitare, cordes, percussions"],
+    "answerIndex": 0,
+    "explication": "L’orchestre comprend cordes, bois, cuivres et timbales, typique des symphonies parisiennes de Haydn."
+  },
+  {
+    "question": "6 - [Premier mouvement] Quel est le tempo du premier mouvement ?",
+    "options": ["Adagio – Allegro spiritoso", "Andante", "Presto", "Menuet"],
+    "answerIndex": 0,
+    "explication": "Le premier mouvement commence par un Adagio introductif suivi d’un Allegro spiritoso."
+  },
+  {
+    "question": "7 - [Thème 1] Quelle caractéristique du premier thème ?",
+    "options": ["Énergique et vif", "Lent et méditatif", "Tranquille et répétitif", "Sombre et dramatique"],
+    "answerIndex": 0,
+    "explication": "Le premier thème est vif, énergique, souvent confié aux cordes avec accents rythmiques."
+  },
+  {
+    "question": "8 - [Thème 2] Comment est le deuxième thème du premier mouvement ?",
+    "options": ["Lyrique et chantant", "Fugue complexe", "Répétitif et monotone", "Brutal et percussif"],
+    "answerIndex": 0,
+    "explication": "Le deuxième thème est plus lyrique et chantant, créant un contraste expressif avec le premier."
+  },
+  {
+    "question": "9 - [Coda] Quelle est la caractéristique de la coda du premier mouvement ?",
+    "options": ["Clarté et brillance", "Polyphonie complexe", "Improvisation libre", "Silence prolongé"],
+    "answerIndex": 0,
+    "explication": "La coda clôt le mouvement de manière brillante et structurée."
+  },
+  {
+    "question": "10 - [Deuxième mouvement] Quel est le tempo de l'Andante cantabile ?",
+    "options": ["Lent et chantant", "Rapide et énergique", "Menuet", "Presto"],
+    "answerIndex": 0,
+    "explication": "L’Andante cantabile est un mouvement lent, doux et méditatif."
+  },
+  {
+    "question": "11 - [Deuxième mouvement] Quels instruments portent principalement le thème principal ?",
+    "options": ["Cordes", "Bois", "Cuivres", "Percussions"],
+    "answerIndex": 0,
+    "explication": "Le thème principal est souvent confié aux cordes, avec accompagnement discret des bois."
+  },
+  {
+    "question": "12 - [Menuet] Quelle caractéristique distingue le troisième mouvement ?",
+    "options": ["Rythme élégant et ternaire", "Rapidité extrême", "Polyphonie stricte", "Improvisation baroque"],
+    "answerIndex": 0,
+    "explication": "Le menuet est une danse ternaire élégante, avec un trio plus léger."
+  },
+  {
+    "question": "13 - [Menuet] Quel rôle joue le trio ?",
+    "options": ["Dialogue entre cordes et bois", "Solo de timbales", "Thème chantant des cuivres", "Polyphonie complexe"],
+    "answerIndex": 0,
+    "explication": "Le trio crée un contraste plus léger avec le menuet, souvent par un dialogue entre cordes et bois."
+  },
+  {
+    "question": "14 - [Finale] Quel est le tempo du quatrième mouvement ?",
+    "options": ["Presto", "Andante", "Adagio", "Menuet"],
+    "answerIndex": 0,
+    "explication": "Le dernier mouvement est rapide et brillant, Presto, basé sur des motifs courts."
+  },
+  {
+    "question": "15 - [Finale] Quelle est la caractéristique principale du motif du final ?",
+    "options": ["Court et répétitif", "Lent et méditatif", "Polyphonique complexe", "Improvisé"],
+    "answerIndex": 0,
+    "explication": "Le final est basé sur des motifs courts et répétitifs, créant énergie et cohésion."
+  },
+  {
+    "question": "16 - [Forme] Quelle forme structurelle est utilisée dans le premier mouvement ?",
+    "options": ["Forme sonate", "Rondo", "Fugue", "Suite de danses"],
+    "answerIndex": 0,
+    "explication": "Le premier mouvement suit la forme sonate : exposition, développement, réexposition."
+  },
+  {
+    "question": "17 - [Forme] Comment est la réexposition du premier mouvement ?",
+    "options": ["Fidèle mais variée", "Exacte répétition de l’exposition", "Improvisée", "Omission du second thème"],
+    "answerIndex": 0,
+    "explication": "La réexposition reprend fidèlement les thèmes avec quelques variations subtiles."
+  },
+  {
+    "question": "18 - [Style] Quelle caractéristique stylistique marque cette symphonie ?",
+    "options": ["Clarté, équilibre et transparence", "Polyphonie complexe", "Improvisation baroque", "Thème vocal prédominant"],
+    "answerIndex": 0,
+    "explication": "La symphonie est claire, équilibrée et transparente, typique du classicisme viennois."
+  },
+  {
+    "question": "19 - [Dynamique] Comment Haydn utilise-t-il les nuances ?",
+    "options": ["Contraste forte/piano, accents et silences", "Forte constante", "Piano continu", "Aléatoire"],
+    "answerIndex": 0,
+    "explication": "Haydn utilise des contrastes dynamiques et des silences expressifs pour enrichir l’expressivité."
+  },
+  {
+    "question": "20 - [Humour] Quel élément caractéristique de Haydn est présent dans cette symphonie ?",
+    "options": ["Effets surprises et humour subtil", "Polyphonie stricte", "Fugue complexe", "Silences prolongés"],
+    "answerIndex": 0,
+    "explication": "Haydn introduit des surprises et un humour subtil, notamment par des rythmes ou pauses inattendus."
+  },
+  {
+    "question": "21 - [Orchestration] Quelle famille d’instruments est mise en valeur pour les passages lyriques ?",
+    "options": ["Cordes", "Cuivres", "Percussions", "Timbales"],
+    "answerIndex": 0,
+    "explication": "Les cordes portent les passages lyriques, soutenues par les bois."
+  },
+  {
+    "question": "22 - [Comparaison] Quelle influence de Mannheim retrouve-t-on chez Haydn ?",
+    "options": ["Crescendo et motifs ascendants", "Basse continue", "Polyphonie complexe", "Solo improvisé de timbales"],
+    "answerIndex": 0,
+    "explication": "Haydn reprend certaines innovations de Mannheim comme le crescendo progressif et les motifs ascendants."
+  },
+  {
+    "question": "23 - [Énergie] Quelle est l’atmosphère générale de la symphonie ?",
+    "options": ["Joie maîtrisée et vivacité", "Tragédie sombre", "Mysticisme", "Chaos et dissonance"],
+    "answerIndex": 0,
+    "explication": "La symphonie exprime une énergie contrôlée et lumineuse, typique du style classique."
+  },
+  {
+    "question": "24 - [Deuxième mouvement] Comment Haydn crée-t-il l’expression dans l’Andante ?",
+    "options": ["Mélodie chantante et harmonie claire", "Accents percussifs", "Fugue stricte", "Silence total"],
+    "answerIndex": 0,
+    "explication": "La mélodie chantante et l’harmonie transparente créent un effet expressif et doux."
+  },
+  {
+    "question": "25 - [Menuet] Quelle structure formelle caractérise le menuet et trio ?",
+    "options": ["Ternaire (Menuet – Trio – Menuet)", "Forme sonate", "Rondo", "Fugue"],
+    "answerIndex": 0,
+    "explication": "Le menuet et trio suivent la structure ternaire classique."
+  },
+  {
+    "question": "26 - [Finale] Quelle fonction musicale remplit le dernier mouvement ?",
+    "options": ["Clôturer avec énergie et virtuosité", "Introduire un thème lent", "Développer une fugue", "Servir de transition vers un autre mouvement"],
+    "answerIndex": 0,
+    "explication": "Le final Presto clôt la symphonie avec énergie et motifs brillants."
+  },
+  {
+    "question": "27 - [Harmonie] Comment Haydn organise-t-il les modulations ?",
+    "options": ["Développements subtils et modulants", "Sans modulation", "Modulation brutale", "Modulation aléatoire"],
+    "answerIndex": 0,
+    "explication": "Les modulations sont soigneusement développées, ajoutant de la variété harmonique."
+  },
+  {
+    "question": "28 - [Clarté] Quelle caractéristique distingue cette symphonie des symphonies de Stamitz ?",
+    "options": ["Structure plus claire et développement thématique", "Usage intensif des percussions", "Polyphonie complexe", "Improvisation totale"],
+    "answerIndex": 0,
+    "explication": "Haydn privilégie une structure claire et un développement thématique plus abouti."
+  },
+  {
+    "question": "29 - [Innovation] Quel type de surprise Haydn introduit-il ?",
+    "options": ["Rythmes inattendus et pauses", "Fugue stricte", "Silence total", "Polyphonie baroque"],
+    "answerIndex": 0,
+    "explication": "Les surprises rythmiques et pauses inattendues créent un effet humoristique et expressif."
+  },
+  {
+    "question": "30 - [Contraste] Comment Haydn crée-t-il le contraste entre thèmes ?",
+    "options": ["Vif et lyrique", "Lent et monotone", "Triste et sombre", "Percussif et dramatique"],
+    "answerIndex": 0,
+    "explication": "Le contraste se fait entre le thème vif du début et le thème lyrique du second thème."
+  },
+  {
+    "question": "31 - [Crescendo] Quelle influence de Mannheim retrouve-t-on dans les crescendos ?",
+    "options": ["Augmentation progressive de l’intensité", "Silence prolongé", "Accords figés", "Polyphonie stricte"],
+    "answerIndex": 0,
+    "explication": "Les crescendos progressifs rappellent l’influence de l’école de Mannheim."
+  },
+  {
+    "question": "32 - [Dynamique] Quelle technique Haydn utilise-t-il pour enrichir l’expressivité ?",
+    "options": ["Contrastes de forte/piano et accents", "Forte continue", "Silence total", "Pizzicato permanent"],
+    "answerIndex": 0,
+    "explication": "Les contrastes dynamiques et les accents renforcent l’expressivité musicale."
+  },
+  {
+    "question": "33 - [Mouvement lent] Quel effet recherché dans l’Andante ?",
+    "options": ["Doux et méditatif", "Rapide et vif", "Humoristique", "Percussif"],
+    "answerIndex": 0,
+    "explication": "Le mouvement lent est doux et méditatif, favorisant l’expression et la mélodie."
+  },
+  {
+    "question": "34 - [Menuet] Quelle nuance stylistique distingue le menuet ?",
+    "options": ["Élégance et régularité", "Furie et chaos", "Polyphonie complexe", "Dissonances extrêmes"],
+    "answerIndex": 0,
+    "explication": "Le menuet est élégant et régulier, typique du classicisme."
+  },
+  {
+    "question": "35 - [Influence] Quels compositeurs sont influencés par Haydn ?",
+    "options": ["Mozart et Beethoven", "Stamitz et Telemann", "Vivaldi et Bach", "Schubert et Mendelssohn"],
+    "answerIndex": 0,
+    "explication": "Mozart et Beethoven sont directement influencés par les innovations de Haydn."
+  },
+  {
+    "question": "36 - [Clôture] Comment le final conclut-il la symphonie ?",
+    "options": ["Avec énergie et éclat", "De manière méditative", "En silence", "Par un solo de timbales"],
+    "answerIndex": 0,
+    "explication": "Le final clôture la symphonie avec énergie, motifs courts et éclat."
+  },
+  {
+    "question": "37 - [Orchestration] Comment Haydn équilibre-t-il l’orchestre ?",
+    "options": ["Cordes, bois et cuivres de façon homogène", "Percussions dominantes", "Bois seuls", "Cordes en pizzicato permanent"],
+    "answerIndex": 0,
+    "explication": "L’orchestre est équilibré entre cordes, bois et cuivres pour une homogénéité sonore."
+  },
+  {
+    "question": "38 - [Thème principal] Quelle famille instrumentale introduit souvent le thème principal ?",
+    "options": ["Cordes", "Cuivres", "Percussions", "Timbales"],
+    "answerIndex": 0,
+    "explication": "Le thème principal est généralement introduit par les cordes."
+  },
+  {
+    "question": "39 - [Synthèse] Quelle importance historique a la symphonie n°87 ?",
+    "options": ["Exemple de classicisme viennois mature", "Début du romantisme", "Baroque tardif", "Impressionnisme"],
+    "answerIndex": 0,
+    "explication": "La symphonie illustre le classicisme viennois mature et les symphonies de Paris."
+  },
+  {
+    "question": "40 - [Esthétique] Quels éléments définissent l’esthétique de la symphonie ?",
+    "options": ["Équilibre, clarté et énergie", "Complexité polyphonique", "Tragédie sombre", "Improvisation baroque"],
+    "answerIndex": 0,
+    "explication": "Équilibre, clarté et énergie sont les éléments principaux de l’esthétique de cette symphonie."
+  }
+]

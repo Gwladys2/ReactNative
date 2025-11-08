@@ -1,6 +1,6 @@
 import React, { useContext, useState } from 'react';
 import { View, Text, Button, StyleSheet, Alert } from 'react-native';
-import questions from '../questions/ScienceEducation/GrandPedagogue/serie2.json';
+import questions from '../questions/HistoireMusique/serie10.json';
 import { ProgressContext } from '../context/ProgressContext';
 import HeaderStats from '../components/HeaderStats';
 import Logo from './Logo'; 
@@ -62,8 +62,8 @@ export default function LessonScreen({ navigation }) {
             <Logo/>
             {!showRestart ? (
                 <>
-                    <Text style={styles.link} onPress={() => navigation.navigate('CoursFreinet2')}> 🌼Voir le cours</Text>
-                    <Text style={styles.titre}>Les Grands Pédagogues Freinet partie 2/2</Text>
+                    
+                    <Text style={styles.titre}>Histoire de la Musique: Symphonie n°40 K.550 en sol mineur K.183 de Mozart</Text>
 
                     <Text style={styles.question}>{current.question}</Text>
                     {current.options.map((option, i) => (
@@ -75,19 +75,22 @@ export default function LessonScreen({ navigation }) {
                 <>
                     <Text style={styles.question}>Leçon terminée 🎉</Text>
                     <Button title="revenir à la liste des UE" onPress={() => navigation.navigate('ScienceEducation')} />
-                    <Button title="passer à Montessorie partie 1" onPress={() => navigation.navigate('GrandPedagogue3')} />
+                    
                 </>
             )}
 
        <View style={styles.linkContainer}>
-                                <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue')}>🌼 Freinet 1</Text>
-                              <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue2')}>🌼 Freinet 2</Text>
-                               <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue3')}>🌼 Montessori 1</Text>
-                                <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue4')}>🌼 Montessori 2</Text>
-                                <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue5')}>🌼 Neill</Text>
-                                <Text style={styles.link} onPress={() => navigation.navigate('CitationNeill')}>🌼Citations Neill</Text>
-                                 <Text style={styles.link} onPress={() => navigation.navigate('CitationMontessori')}>🌼Citations Montessori</Text>
-                                 <Text style={styles.link} onPress={() => navigation.navigate('CitationFreinet')}>🌼Citations Freinet</Text>
+                                <Text style={styles.link} onPress={() => navigation.navigate('HistoireMusique')}>✨l’aube de l’âge de la musique classique au XVIIIe siècle</Text>
+                                                             <Text style={styles.link} onPress={() => navigation.navigate('HistoireMusique2')}>✨l’aube de l’âge de la musique classique au XVIIIe siècle Partie 2</Text>
+                                                               <Text style={styles.link} onPress={() => navigation.navigate('LexiqueHistoireMusique')}>✨Le lexique </Text>
+                                                             <Text style={styles.link} onPress={() => navigation.navigate('HistoireMusique3')}>✨Johann Stamitz et sa Symphonie en la majeur</Text>
+                                                               <Text style={styles.link} onPress={() => navigation.navigate('HistoireMusique4')}>✨Joseph Haydn Symphonie n°87 en La majeur </Text>
+                                                               <Text style={styles.link} onPress={() => navigation.navigate('HistoireMusique5')}>✨Joseph Haydn Symphonie n°8 en sol majeur « Le Soir » </Text>
+                                                              <Text style={styles.link} onPress={() => navigation.navigate('HistoireMusique6')}>✨Joseph Haydn Symphonie n°9 en fa mineur « La Passion » </Text>
+                                                              <Text style={styles.link} onPress={() => navigation.navigate('HistoireMusique7')}>✨Mozart Symphonie n°25 en sol mineur K.183 </Text>
+                                                               <Text style={styles.link} onPress={() => navigation.navigate('HistoireMusique8')}>✨Mozart Symphonie n°35 K.385 Haffner Premier mouvement</Text>
+                                                               <Text style={styles.link} onPress={() => navigation.navigate('HistoireMusique9')}>✨Mozart Symphonie n°39 K.543 mi bémol majeur</Text>
+                                                                <Text style={styles.link} onPress={() => navigation.navigate('HistoireMusique10')}>✨Mozart Symphonie n°40 K.550 en sol mineur K.183 </Text>
                                </View>
        
               </ScrollView>

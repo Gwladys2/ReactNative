@@ -1,0 +1,297 @@
+[
+  {
+    "question": "1 - [Identification] Qui est l’auteur du tableau *Le Radeau de la Méduse* ?",
+    "options": ["Eugène Delacroix", "Théodore Géricault", "Jacques-Louis David", "Jean-Auguste-Dominique Ingres"],
+    "answerIndex": 1,
+    "explication": "Théodore Géricault (1791-1824) est l’auteur de ce célèbre tableau, considéré comme un précurseur du romantisme."
+  },
+  {
+    "question": "2 - [Identification] En quelle année Géricault peint-il *Le Radeau de la Méduse* ?",
+    "options": ["1815", "1818-1819", "1825", "1830"],
+    "answerIndex": 1,
+    "explication": "L’œuvre est réalisée entre 1818 et 1819 et présentée au Salon de 1819."
+  },
+  {
+    "question": "3 - [Identification] Quelle est la technique utilisée pour cette œuvre ?",
+    "options": ["Huile sur bois", "Aquarelle", "Huile sur toile", "Fresque"],
+    "answerIndex": 2,
+    "explication": "Géricault utilise la technique de l’huile sur toile, courante pour les grandes peintures d’histoire."
+  },
+  {
+    "question": "4 - [Identification] Quelle est la dimension approximative du tableau ?",
+    "options": ["Petit format (-60 cm)", "Grand format (+2 m)", "Format monumental (+3 m)", "Format moyen"],
+    "answerIndex": 2,
+    "explication": "Le tableau mesure environ 5 m sur 7, c’est donc un format monumental."
+  },
+  {
+    "question": "5 - [Identification] Dans quel musée est conservée l’œuvre aujourd’hui ?",
+    "options": ["Musée d’Orsay", "Musée du Louvre", "National Gallery", "Musée des Beaux-Arts de Lyon"],
+    "answerIndex": 1,
+    "explication": "Le tableau est exposé au musée du Louvre à Paris."
+  },
+  {
+    "question": "6 - [Identification] À quel genre pictural appartient *Le Radeau de la Méduse* ?",
+    "options": ["Portrait", "Nature morte", "Peinture d’histoire", "Paysage"],
+    "answerIndex": 2,
+    "explication": "Il s’agit d’une peinture d’histoire, genre le plus noble à l’époque, mais traitant ici d’un sujet contemporain."
+  },
+  {
+    "question": "7 - [Identification] Quelle tragédie réelle inspire Géricault ?",
+    "options": ["Le naufrage du Titanic", "La bataille de Waterloo", "Le naufrage de la frégate La Méduse", "L’exécution de Louis XVI"],
+    "answerIndex": 2,
+    "explication": "L’œuvre représente un épisode du naufrage de la frégate La Méduse, survenu en 1816 au large de la Mauritanie."
+  },
+  {
+    "question": "8 - [Identification] L’œuvre est-elle une commande officielle ?",
+    "options": ["Oui, commandée par le roi", "Oui, commandée par le Salon", "Non, initiative personnelle de l’artiste", "Oui, par l’armée"],
+    "answerIndex": 2,
+    "explication": "Géricault réalise cette œuvre de sa propre initiative, sans commande officielle."
+  },
+  {
+    "question": "9 - [Identification] À quel mouvement artistique Géricault est-il rattaché ?",
+    "options": ["Néoclassicisme", "Romantisme", "Réaliste", "Impressionnisme"],
+    "answerIndex": 1,
+    "explication": "Géricault est l’un des premiers artistes du romantisme français, avant Delacroix."
+  },
+  {
+    "question": "10 - [Identification] Quelle est la problématique principale du tableau ?",
+    "options": [
+      "Comment représenter un mythe antique",
+      "Comment illustrer un événement politique contemporain avec émotion et réalisme",
+      "Comment peindre la mer avec précision",
+      "Comment célébrer la monarchie"
+    ],
+    "answerIndex": 1,
+    "explication": "L’œuvre interroge la représentation du drame humain et politique à travers la peinture d’histoire moderne."
+  },
+  {
+    "question": "11 - [Analyse] Que représente la scène peinte par Géricault ?",
+    "options": ["Les survivants d’un naufrage", "Une bataille antique", "Un banquet royal", "Une scène religieuse"],
+    "answerIndex": 0,
+    "explication": "La toile montre les survivants du naufrage de la Méduse entassés sur un radeau."
+  },
+  {
+    "question": "12 - [Analyse] Comment Géricault s’est-il documenté pour peindre son œuvre ?",
+    "options": [
+      "En lisant un roman",
+      "En se basant sur des témoignages de survivants et des études de cadavres",
+      "En voyageant en Afrique",
+      "En copiant un tableau antique"
+    ],
+    "answerIndex": 1,
+    "explication": "Géricault a rencontré les survivants et observé des cadavres pour rendre la scène réaliste."
+  },
+  {
+    "question": "13 - [Analyse] Quelle émotion principale domine la scène ?",
+    "options": ["La joie", "L’espoir mêlé au désespoir", "La sérénité", "L’indifférence"],
+    "answerIndex": 1,
+    "explication": "L’œuvre mêle désespoir des naufragés et espoir de salut avec le navire à l’horizon."
+  },
+  {
+    "question": "14 - [Analyse] Quelle est la structure de la composition ?",
+    "options": ["Pyramidale", "Circulaire", "Horizontale", "Symétrique"],
+    "answerIndex": 0,
+    "explication": "La composition forme une pyramide ascendante vers le navire, symbole d’espoir."
+  },
+  {
+    "question": "15 - [Analyse] Où se trouve la lumière principale ?",
+    "options": ["Venant du ciel à gauche", "Du feu à droite", "D’une torche au centre", "Aucune lumière visible"],
+    "answerIndex": 0,
+    "explication": "Une lumière venant de la gauche éclaire les corps et accentue le drame."
+  },
+  {
+    "question": "16 - [Analyse] Quels tons dominent la palette du peintre ?",
+    "options": ["Tons froids et clairs", "Tons sombres et chauds", "Tons pastel", "Tons métalliques"],
+    "answerIndex": 1,
+    "explication": "Les couleurs sombres (bruns, verts, noirs) dominent, renforçant la gravité de la scène."
+  },
+  {
+    "question": "17 - [Analyse] Que symbolise le navire visible à l’horizon ?",
+    "options": ["Le pouvoir royal", "L’espoir de salut", "La tempête", "La mort"],
+    "answerIndex": 1,
+    "explication": "Le navire symbolise l’espoir et la survie après le désespoir total."
+  },
+  {
+    "question": "18 - [Analyse] Quelle technique de lumière Géricault utilise-t-il ?",
+    "options": ["Le clair-obscur", "La grisaille", "Le sfumato", "La lumière artificielle"],
+    "answerIndex": 0,
+    "explication": "Le clair-obscur met en valeur les contrastes entre la lumière et l’ombre."
+  },
+  {
+    "question": "19 - [Analyse] Quelle influence artistique marque les corps des naufragés ?",
+    "options": ["Michel-Ange", "Raphaël", "Léonard de Vinci", "Ingres"],
+    "answerIndex": 0,
+    "explication": "Les corps puissants rappellent les figures héroïques et musclées de Michel-Ange."
+  },
+  {
+    "question": "20 - [Analyse] Que cherche à exprimer Géricault par cette œuvre ?",
+    "options": ["Une beauté idéalisée", "Une vérité humaine et politique", "Une scène religieuse", "Une fable antique"],
+    "answerIndex": 1,
+    "explication": "Il veut montrer la souffrance humaine et dénoncer l’injustice du pouvoir."
+  },
+  {
+    "question": "21 - [Analyse] Comment la mer est-elle représentée ?",
+    "options": ["Calme et immobile", "Furieuse et déchaînée", "Transparente et claire", "Absente"],
+    "answerIndex": 1,
+    "explication": "La mer agitée participe au sentiment de chaos et de lutte pour la survie."
+  },
+  {
+    "question": "22 - [Analyse] Quelle est l’expression des visages ?",
+    "options": ["Impassible", "Figée", "Très expressive et dramatique", "Rieuse"],
+    "answerIndex": 2,
+    "explication": "Les visages expriment douleur, peur, espoir et désespoir."
+  },
+  {
+    "question": "23 - [Analyse] Quelle touche picturale Géricault utilise-t-il ?",
+    "options": ["Lisse et froide", "Visible et énergique", "Pointilliste", "Numérique"],
+    "answerIndex": 1,
+    "explication": "La touche est expressive, visible et donne vie à la matière."
+  },
+  {
+    "question": "24 - [Analyse] Quelle place occupe la mort dans le tableau ?",
+    "options": ["Elle est cachée", "Elle domine le premier plan", "Elle est absente", "Elle est idéalisée"],
+    "answerIndex": 1,
+    "explication": "Les corps morts au premier plan rappellent la tragédie et la fragilité humaine."
+  },
+  {
+    "question": "25 - [Analyse] Le tableau est-il statique ou dynamique ?",
+    "options": ["Statique", "Très dynamique", "Symétrique", "Sans mouvement"],
+    "answerIndex": 1,
+    "explication": "Le mouvement des vagues, des corps et des bras crée une forte dynamique."
+  },
+  {
+    "question": "26 - [Situation] En quelle année le tableau est-il exposé au Salon ?",
+    "options": ["1819", "1825", "1830", "1840"],
+    "answerIndex": 0,
+    "explication": "L’œuvre est présentée au Salon de 1819, où elle provoque un scandale."
+  },
+  {
+    "question": "27 - [Situation] Comment le public réagit-il à l’œuvre ?",
+    "options": ["Indifférence", "Admiration unanime", "Scandale et fascination", "Rejet total sans discussion"],
+    "answerIndex": 2,
+    "explication": "Le tableau choque par son réalisme et son sujet politique, mais fascine aussi."
+  },
+  {
+    "question": "28 - [Situation] Quelle influence aura Géricault sur d’autres peintres ?",
+    "options": ["Il inspire Delacroix", "Il copie David", "Il suit Ingres", "Il rejette tous les artistes"],
+    "answerIndex": 0,
+    "explication": "Delacroix s’inspirera du style et de la liberté expressive de Géricault."
+  },
+  {
+    "question": "29 - [Situation] À quel grand courant artistique Géricault ouvre-t-il la voie ?",
+    "options": ["Le Romantisme", "L’Impressionnisme", "Le Cubisme", "Le Symbolisme"],
+    "answerIndex": 0,
+    "explication": "Il marque le début du romantisme en peinture, avant Delacroix."
+  },
+  {
+    "question": "30 - [Situation] Que dénonce indirectement l’œuvre ?",
+    "options": ["Les privilèges religieux", "Les erreurs du pouvoir royal", "Les guerres napoléoniennes", "Les sciences modernes"],
+    "answerIndex": 1,
+    "explication": "Le naufrage de la Méduse symbolise l’incompétence du régime royal de la Restauration."
+  },
+  {
+    "question": "31 - [Conclusion] Quelle émotion principale l’œuvre cherche-t-elle à provoquer ?",
+    "options": ["L’admiration", "La peur et la compassion", "L’humour", "L’indifférence"],
+    "answerIndex": 1,
+    "explication": "Le spectateur ressent la souffrance, la peur et la compassion pour les naufragés."
+  },
+  {
+    "question": "32 - [Conclusion] Quelle valeur humaine ressort de la toile ?",
+    "options": ["La résignation", "La lutte et l’espoir", "La vengeance", "L’indifférence"],
+    "answerIndex": 1,
+    "explication": "Le tableau montre la résistance de l’homme face au désespoir et à la mort."
+  },
+  {
+    "question": "33 - [Conclusion] En quoi cette œuvre est-elle moderne ?",
+    "options": ["Elle représente un mythe antique", "Elle traite un sujet contemporain avec émotion", "Elle imite les maîtres anciens", "Elle suit les règles classiques"],
+    "answerIndex": 1,
+    "explication": "Géricault modernise la peinture d’histoire en choisissant un fait réel et humain."
+  },
+  {
+    "question": "34 - [Conclusion] Quelle place occupe *Le Radeau de la Méduse* dans l’histoire de l’art ?",
+    "options": ["Une œuvre mineure", "Une œuvre charnière entre néoclassicisme et romantisme", "Une œuvre du réalisme", "Une œuvre d’avant-garde du XXe siècle"],
+    "answerIndex": 1,
+    "explication": "Elle marque la transition entre le néoclassicisme et le romantisme."
+  },
+  {
+    "question": "35 - [Conclusion] Quel message général Géricault transmet-il ?",
+    "options": [
+      "La gloire du roi",
+      "La grandeur et la souffrance de l’homme face à la mort",
+      "La beauté de la nature",
+      "L’importance de la religion"
+    ],
+    "answerIndex": 1,
+    "explication": "L’œuvre est un manifeste humaniste qui montre la dignité de l’homme dans la tragédie."
+  },
+   {
+    "question": "36 - [Romantisme] Quel est le principal objectif du mouvement romantique en art ?",
+    "options": ["Représenter la raison et l’ordre", "Exprimer les émotions et la liberté de l’artiste", "Célébrer la religion", "Imiter l’Antiquité"],
+    "answerIndex": 1,
+    "explication": "Le romantisme privilégie l’expression des émotions, de la passion et de la liberté créatrice, en opposition au néoclassicisme."
+  },
+  {
+    "question": "37 - [Romantisme] À quelle époque se développe principalement le romantisme en France ?",
+    "options": ["XVIIe siècle", "XVIIIe siècle", "Début du XIXe siècle", "Fin du XIXe siècle"],
+    "answerIndex": 2,
+    "explication": "Le romantisme français se développe surtout au début du XIXe siècle, après la Révolution et l’Empire."
+  },
+  {
+    "question": "38 - [Romantisme] Quel peintre est considéré comme le grand représentant du romantisme français après Géricault ?",
+    "options": ["Delacroix", "Ingres", "David", "Courbet"],
+    "answerIndex": 0,
+    "explication": "Eugène Delacroix (1798-1863) est le chef de file du romantisme français après Géricault."
+  },
+  {
+    "question": "39 - [Romantisme] Quelle caractéristique ne correspond PAS au romantisme ?",
+    "options": ["L’expression de la passion", "L’ordre et la symétrie", "Le goût du drame", "La recherche de la couleur et de la lumière"],
+    "answerIndex": 1,
+    "explication": "L’ordre et la symétrie sont propres au néoclassicisme, pas au romantisme."
+  },
+  {
+    "question": "40 - [Romantisme] Quel événement politique influence le romantisme français ?",
+    "options": ["La Révolution française", "La Guerre de Cent Ans", "La Renaissance", "Les Croisades"],
+    "answerIndex": 0,
+    "explication": "Les bouleversements de la Révolution et de l’Empire marquent profondément la sensibilité romantique."
+  },
+  {
+    "question": "41 - [Orientalisme] Qu’appelle-t-on l’orientalisme en peinture ?",
+    "options": [
+      "Un mouvement religieux",
+      "Une fascination pour les cultures et les paysages de l’Orient",
+      "Un retour à l’art antique",
+      "Un style abstrait"
+    ],
+    "answerIndex": 1,
+    "explication": "L’orientalisme désigne la fascination des artistes européens pour les pays du Proche et du Moyen-Orient, perçus comme exotiques et mystérieux."
+  },
+  {
+    "question": "42 - [Orientalisme] Quelle œuvre de Delacroix illustre le mieux l’orientalisme ?",
+    "options": ["La Mort de Sardanapale", "La Liberté guidant le peuple", "Le Radeau de la Méduse", "Les Sabines"],
+    "answerIndex": 0,
+    "explication": "*La Mort de Sardanapale* montre un décor oriental, des costumes exotiques et une scène inspirée d’un poème orientaliste de Byron."
+  },
+  {
+    "question": "43 - [Orientalisme] Quel pays Delacroix visite-t-il, inspirant son goût pour l’Orient ?",
+    "options": ["Le Maroc", "L’Inde", "La Turquie", "L’Égypte"],
+    "answerIndex": 0,
+    "explication": "Delacroix voyage au Maroc en 1832, ce qui influence fortement ses tableaux orientaux."
+  },
+  {
+    "question": "44 - [Orientalisme] Quelles sont les caractéristiques visuelles de l’orientalisme ?",
+    "options": ["Couleurs vives, richesse des tissus et décors exotiques", "Tons gris et formes géométriques", "Absence de personnages", "Sujets antiques"],
+    "answerIndex": 0,
+    "explication": "L’orientalisme se reconnaît à ses couleurs éclatantes, ses costumes, ses bijoux et ses décors inspirés de l’Orient."
+  },
+  {
+    "question": "45 - [Romantisme et Orientalisme] Quel lien existe entre romantisme et orientalisme ?",
+    "options": [
+      "Les deux recherchent la raison et la mesure",
+      "L’orientalisme est une des formes d’expression du romantisme, par le goût de l’exotisme et de la passion",
+      "Ils sont totalement opposés",
+      "L’orientalisme vient du néoclassicisme"
+    ],
+    "answerIndex": 1,
+    "explication": "Le romantisme nourrit l’orientalisme : les deux expriment la passion, la liberté et le goût pour l’ailleurs et l’émotion."
+  }
+]

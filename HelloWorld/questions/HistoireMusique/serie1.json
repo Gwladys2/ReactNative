@@ -1,0 +1,182 @@
+[
+  {
+    "question": "1 - [Histoire] Quelle période précède le classicisme musical ?",
+    "options": ["La Renaissance", "Le Baroque", "Le Romantisme", "Le Moyen Âge"],
+    "answerIndex": 1,
+    "explication": "La musique baroque (1600–1750) précède le classicisme viennois du XVIIIe siècle."
+  },
+  {
+    "question": "2 - [Définition] Que désigne l’École de Mannheim ?",
+    "options": [ "Une école de musique préclassique", "Un mouvement religieux","Une école de danse", "Une académie militaire"],
+    "answerIndex": 2,
+    "explication": "L’École de Mannheim regroupe des compositeurs allemands et autrichiens à l’origine du style préclassique."
+  },
+  {
+    "question": "3 - [Compositeur] Qui est considéré comme le fondateur de l’École de Mannheim ?",
+    "options": ["Mozart", "Stamitz", "Haydn", "Beethoven"],
+    "answerIndex": 1,
+    "explication": "Johann Stamitz (1717–1757) fonde et dirige le célèbre orchestre de Mannheim."
+  },
+  {
+    "question": "4 - [Instrumentation] Combien d’instruments environ composent l’orchestre de Mannheim ?",
+    "options": ["20", "30", "35 à 40", "50"],
+    "answerIndex": 2,
+    "explication": "Stamitz fixe la taille de l’orchestre entre 35 et 40 instruments."
+  },
+  {
+    "question": "5 - [Innovation] Quelle nouveauté Stamitz introduit-il dans l’orchestre ?",
+    "options": ["La direction sans chef", "L’équilibre entre vents et cordes", "L’usage du clavecin", "L’improvisation libre"],
+    "answerIndex": 1,
+    "explication": "Stamitz équilibre les familles d’instruments et donne une place importante aux vents."
+  },
+  {
+    "question": "6 - [Influence] Quels compositeurs seront influencés par Mannheim ?",
+    "options": ["Haydn et Mozart", "Bach et Vivaldi", "Chopin et Liszt", "Debussy et Ravel"],
+    "answerIndex": 0,
+    "explication": "Les innovations orchestrales de Mannheim influenceront Haydn et Mozart."
+  },
+  {
+    "question": "7 - [Biographie] Où Haydn a-t-il principalement vécu et travaillé ?",
+    "options": ["Berlin", "Paris", "Vienne", "Londres"],
+    "answerIndex": 2,
+    "explication": "Joseph Haydn a passé la majeure partie de sa vie à Vienne, centre du classicisme."
+  },
+  {
+    "question": "8 - [Culture] Quelle était l’atmosphère viennoise au XVIIIe siècle ?",
+    "options": ["Sombre et austère", "Mystique et religieuse", "Légère et tournée vers les plaisirs", "Révolutionnaire"],
+    "answerIndex": 2,
+    "explication": "La société viennoise aimait la fête, la surprise et la bouffonnerie."
+  },
+  {
+    "question": "9 - [Style] Comment peut-on qualifier le monde symphonique de Haydn ?",
+    "options": ["Mélancolique", "Bouffon et gai", "Mystique", "Militaire"],
+    "answerIndex": 1,
+    "explication": "Le style de Haydn reflète la bonhomie, la gaieté et la sincérité."
+  },
+  {
+    "question": "10 - [Œuvre] Quelle est la structure classique d’une symphonie au XVIIIe siècle ?",
+    "options": ["2 mouvements", "3 mouvements", "4 mouvements", "5 mouvements"],
+    "answerIndex": 2,
+    "explication": "La structure type comprend quatre mouvements : allegro, andante, menuet, presto."
+  },
+  {
+    "question": "11 - [Analyse] Quelle symphonie de Haydn est surnommée « Le Soir » ?",
+    "options": ["Symphonie n°8", "Symphonie n°49", "Symphonie n°87", "Symphonie n°104"],
+    "answerIndex": 0,
+    "explication": "La symphonie n°8 en sol majeur est intitulée « Le Soir »."
+  },
+  {
+    "question": "12 - [Esthétique] Que cherche Haydn avec « Le Soir » ?",
+    "options": ["Exprimer la tragédie", "Faire rire et amuser", "Célébrer la nature", "Exprimer la foi religieuse"],
+    "answerIndex": 1,
+    "explication": "Haydn cherche à divertir et à susciter la joie après les austérités religieuses passées."
+  },
+  {
+    "question": "13 - [Courant] Quelle période de Haydn correspond au « Sturm und Drang » ?",
+    "options": ["1766–1770", "1770–1786", "1787–1795", "1750–1760"],
+    "answerIndex": 0,
+    "explication": "Le « Sturm und Drang » correspond à la période 1766–1770."
+  },
+  {
+    "question": "14 - [Idée] Que revendique le mouvement Sturm und Drang ?",
+    "options": ["Le rationalisme", "Les droits du sentiment contre la raison", "L’ordre classique", "La musique religieuse"],
+    "answerIndex": 1,
+    "explication": "Ce courant valorise l’émotion et l’originalité contre la règle."
+  },
+  {
+    "question": "15 - [Œuvre] Quelle symphonie illustre la période Sturm und Drang de Haydn ?",
+    "options": ["Symphonie n°8", "Symphonie n°49", "Symphonie n°87", "Symphonie n°92"],
+    "answerIndex": 1,
+    "explication": "La symphonie n°49 en fa mineur, « La Passione », illustre cette période expressive."
+  },
+  {
+    "question": "16 - [Structure] Quelle est la particularité formelle de la symphonie « La Passione » ?",
+    "options": ["Elle commence par un adagio", "Elle n’a pas de menuet", "Elle comporte cinq mouvements", "Elle se termine par un andante"],
+    "answerIndex": 0,
+    "explication": "La Passione s’ouvre sur un adagio, ce qui rompt avec la structure classique."
+  },
+  {
+    "question": "17 - [Émotion] Quel sentiment domine « La Passione » ?",
+    "options": ["La joie", "L’humour", "Le désespoir", "L’amour"],
+    "answerIndex": 2,
+    "explication": "Haydn exprime ici des émotions tragiques et sombres, comme l’amertume et le désespoir."
+  },
+  {
+    "question": "18 - [Œuvre] De quelle période date la Symphonie n°87 ?",
+    "options": ["1768", "1785", "1791", "1770"],
+    "answerIndex": 1,
+    "explication": "Composée en 1785, la symphonie n°87 fait partie des six symphonies parisiennes."
+  },
+  {
+    "question": "19 - [Contexte] Où les symphonies parisiennes de Haydn ont-elles été créées ?",
+    "options": ["À Vienne", "À Paris", "À Londres", "À Berlin"],
+    "answerIndex": 1,
+    "explication": "Elles ont été créées à Paris en 1787."
+  },
+  {
+    "question": "20 - [Retour] Quel esprit Haydn retrouve-t-il avec les symphonies parisiennes ?",
+    "options": ["Galant et équilibré","Sturm und Drang",  "Religieux", "Héroïque"],
+    "answerIndex": 0,
+    "explication": "Haydn revient à un style galant et lumineux, plus proche de ses débuts."
+  },
+  {
+    "question": "21 - [Chronologie] Quelle est la dernière grande période créatrice de Haydn ?",
+    "options": ["Les symphonies parisiennes", "Les symphonies londoniennes", "Les quatuors viennois", "Les concertos pour piano"],
+    "answerIndex": 1,
+    "explication": "Entre 1787 et 1795, Haydn compose les 12 symphonies londoniennes (n°92 à 104)."
+  },
+  {
+    "question": "22 - [Critique] Que souligne Stravinsky à propos des symphonies londoniennes ?",
+    "options": ["Leur rigueur extrême", "Leur perfection symétrique", "Leur liberté et leur spontanéité", "Leur lenteur"],
+    "answerIndex": 2,
+    "explication": "Stravinsky admire leur impression d’ensemble vivante et naturelle."
+  },
+  {
+    "question": "23 - [Citation] Que veut dire Stravinsky par « être parfaitement symétrique signifie être parfaitement mort » ?",
+    "options": ["Il valorise la vie et l’énergie au-delà de la structure","Il critique le désordre musical",  "Il prône la rigueur mathématique", "Il rejette le classicisme"],
+    "answerIndex": 0,
+    "explication": "Il valorise le naturel et la souplesse plutôt qu’une symétrie figée."
+  },
+  {
+    "question": "24 - [Transition] Quelle école a préparé la voie au classicisme viennois ?",
+    "options": ["École italienne", "École de Mannheim", "École française", "École anglaise"],
+    "answerIndex": 1,
+    "explication": "L’École de Mannheim a joué un rôle clé dans la transition vers le classicisme."
+  },
+  {
+    "question": "25 - [Époque] En quelle année environ commence l’activité de l’École de Mannheim ?",
+    "options": ["1720", "1760", "1780", "1743"],
+    "answerIndex": 3,
+    "explication": "Le mouvement émerge à partir de 1743."
+  },
+  {
+    "question": "26 - [Genre] Quel type de musique illustre le mieux les innovations de Mannheim ?",
+    "options": ["L’opéra",  "Le concerto", "La symphonie","La messe"],
+    "answerIndex": 2,
+    "explication": "C’est dans la symphonie que Mannheim introduit ses innovations orchestrales."
+  },
+  {
+    "question": "27 - [Concept] Que signifie l’expression « symphonie de rythmes » pour Haydn ?",
+    "options": ["Une œuvre sans mélodie", "Une importance donnée au mouvement et au tempo", "Une symphonie dansée", "Une œuvre religieuse"],
+    "answerIndex": 1,
+    "explication": "Le rythme devient un moteur d’expression et de structure, préfigurant Beethoven."
+  },
+  {
+    "question": "28 - [Thème] Quel est le lien entre religion et musique chez Haydn selon le cours ?",
+    "options": ["Elle s’oppose aux austérités religieuses pour divertir","La musique doit rester austère",  "Elle glorifie Dieu exclusivement", "Elle illustre les psaumes"],
+    "answerIndex": 0,
+    "explication": "Après la rigueur religieuse, Haydn cherche à libérer la musique dans la joie et l’humour."
+  },
+  {
+    "question": "29 - [Langage] Que signifie ‘Sturm und Drang’ ?",
+    "options": ["Tempête et passion", "Calme et harmonie", "Force et lumière", "Raison et foi"],
+    "answerIndex": 0,
+    "explication": "Ce terme allemand se traduit par ‘tempête et passion’, désignant un courant expressif préromantique."
+  },
+  {
+    "question": "30 - [Synthèse] Quelle évolution caractérise le parcours de Haydn ?",
+    "options": ["Du baroque vers le romantisme direct", "De la bouffonnerie vers la profondeur émotionnelle", "Du religieux vers le politique", "Du nationalisme vers l’abstraction"],
+    "answerIndex": 1,
+    "explication": "Haydn passe d’une musique légère et galante à une expression plus personnelle et tragique."
+  }
+]

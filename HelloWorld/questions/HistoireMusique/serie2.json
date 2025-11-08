@@ -1,0 +1,182 @@
+[
+  {
+    "question": "1 - [Référence culturelle] Quel film de Miloš Forman sert de point de départ au cours sur Mozart ?",
+    "options": ["La Flûte enchantée", "Amadeus", "Don Giovanni", "Le Concerto de Prague"],
+    "answerIndex": 1,
+    "explication": "Le cours s’ouvre sur le film 'Amadeus' (1984) de Miloš Forman, qui dresse un portrait vivant de Mozart."
+  },
+  {
+    "question": "2 - [Caractère de Mozart] Comment la musique de Mozart est-elle décrite dans le cours ?",
+    "options": ["Comme frivole et légère", "Comme un miracle d’équilibre entre émotion et raison", "Comme sombre et hermétique", "Comme purement intellectuelle"],
+    "answerIndex": 1,
+    "explication": "La musique de Mozart réalise une synthèse entre émotion et raison, légèreté et profondeur."
+  },
+  {
+    "question": "3 - [Philosophie] Que représente la 'grâce mozartienne' selon le cours ?",
+    "options": ["Une absence de tragique", "Une victoire spirituelle sur le désespoir", "Une forme de facilité", "Un simple divertissement"],
+    "answerIndex": 1,
+    "explication": "La grâce mozartienne est une victoire de l’esprit sur la douleur, non une simple légèreté."
+  },
+  {
+    "question": "4 - [Courant artistique] Quel courant préromantique influence Mozart par son expression passionnée ?",
+    "options": ["Le baroque tardif", "Le classicisme français", "Le Sturm und Drang", "Le romantisme allemand"],
+    "answerIndex": 2,
+    "explication": "Le Sturm und Drang exalte la passion et la liberté intérieure, influençant Mozart."
+  },
+  {
+    "question": "5 - [Citation] Selon Paul Dukas, que devient tout ce que Mozart éprouve ?",
+    "options": ["Un récit", "Une émotion picturale", "De la musique", "Un silence"],
+    "answerIndex": 2,
+    "explication": "Dukas écrit : 'Tout ce qu’il éprouvait se transformait naturellement en musique.'"
+  },
+  {
+    "question": "6 - [Comparaison] En quoi Dukas oppose-t-il Mozart à Beethoven ?",
+    "options": ["Mozart est plus tragique", "Mozart traduit directement le sentiment, Beethoven le médite", "Mozart est plus romantique", "Mozart écrit des œuvres plus longues"],
+    "answerIndex": 1,
+    "explication": "Chez Mozart, la musique exprime spontanément le sentiment, sans effort ni analyse intérieure."
+  },
+  {
+    "question": "7 - [Périodes] Combien de grandes périodes créatrices distingue-t-on dans l’univers symphonique de Mozart ?",
+    "options": ["Deux",  "Quatre", "Cinq","Trois"],
+    "answerIndex": 3,
+    "explication": "Le cours distingue trois grandes périodes : jeunesse, maturité viennoise et sommet créatif de 1788."
+  },
+  {
+    "question": "8 - [Première période] Quelle influence Mozart découvre-t-il lors de ses voyages en Italie ?",
+    "options": ["L’opéra bouffe italien", "Le contrepoint strict", "Le baroque français", "La musique religieuse allemande"],
+    "answerIndex": 0,
+    "explication": "Entre 1770 et 1773, il découvre l’opéra bouffe italien, qui marquera profondément son style dramatique."
+  },
+  {
+    "question": "9 - [Influence] Quelle rencontre musicale influence Mozart après son retour à Vienne en 1773 ?",
+    "options": ["Les œuvres de Bach", "Les quatuors de Haydn", "Les opéras de Gluck", "Les messes de Haendel"],
+    "answerIndex": 1,
+    "explication": "Mozart découvre les quatuors de Haydn et perfectionne ainsi son art du contrepoint."
+  },
+  {
+    "question": "10 - [Œuvre étudiée] Quelle symphonie illustre la première période de Mozart ?",
+    "options": ["Symphonie n°25 en sol mineur, K.183", "Symphonie n°35 'Haffner'", "Symphonie n°40", "Symphonie n°41 'Jupiter'"],
+    "answerIndex": 0,
+    "explication": "La Symphonie n°25 en sol mineur, K.183, illustre la tension entre bouffonnerie et tragique."
+  },
+  {
+    "question": "11 - [Caractère] Quelle est la particularité expressive de la Symphonie n°25 ?",
+    "options": ["Elle est comique", "Elle allie légèreté et drame", "Elle est entièrement joyeuse", "Elle imite la musique religieuse"],
+    "answerIndex": 1,
+    "explication": "La Symphonie n°25 associe énergie dramatique et élégance classique."
+  },
+  {
+    "question": "12 - [Deuxième période] Quelle ville Mozart visite-t-il en 1777 avant d’aller à Paris ?",
+    "options": ["Berlin",  "Londres", "Mannheim","Prague"],
+    "answerIndex": 2,
+    "explication": "Mannheim, célèbre pour son école orchestrale, marque une étape essentielle avant Paris."
+  },
+  {
+    "question": "13 - [École de Mannheim] Quelle est la qualité principale associée à l’école de Mannheim ?",
+    "options": ["L’improvisation", "L’équilibre orchestral et la perfection technique", "La musique religieuse", "Le minimalisme"],
+    "answerIndex": 1,
+    "explication": "L’école de Mannheim est réputée pour sa rigueur et sa clarté orchestrale."
+  },
+  {
+    "question": "14 - [Œuvre] Quelle symphonie illustre la période viennoise de maturité de Mozart ?",
+    "options": ["Symphonie n°35 'Haffner'", "Symphonie n°25", "Symphonie n°39", "Symphonie n°41"],
+    "answerIndex": 0,
+    "explication": "La Symphonie n°35 en ré majeur 'Haffner' (K.385) incarne la plénitude classique de Mozart."
+  },
+  {
+    "question": "15 - [Production] En combien de temps Mozart compose-t-il la Symphonie 'Haffner' ?",
+    "options": ["Un mois", "Une semaine", "Un an", "Trois mois"],
+    "answerIndex": 1,
+    "explication": "Mozart compose cette symphonie brillante et équilibrée en une seule semaine."
+  },
+  {
+    "question": "16 - [Troisième période] Quelle année correspond au sommet créatif de Mozart dans la symphonie ?",
+    "options": ["1773", "1778", "1781", "1788"],
+    "answerIndex": 3,
+    "explication": "L’année 1788 voit la composition des trois dernières symphonies de Mozart."
+  },
+  {
+    "question": "17 - [Contexte] Quelle est la situation personnelle de Mozart en 1788 ?",
+    "options": ["Il est acclamé et riche", "Il vit la solitude et des difficultés financières", "Il est installé à Paris", "Il enseigne à Mannheim"],
+    "answerIndex": 1,
+    "explication": "En 1788, Mozart traverse une période sombre, isolée et financièrement difficile."
+  },
+  {
+    "question": "18 - [Esthétique] Quelle idée nouvelle de la musique apparaît chez Mozart à cette époque ?",
+    "options": ["La musique pure, détachée de la narration", "La musique religieuse", "La musique descriptive", "L’improvisation populaire"],
+    "answerIndex": 0,
+    "explication": "Mozart atteint une conception absolue de la musique : le son existe pour lui-même."
+  },
+  {
+    "question": "19 - [Symphonie] Quelle est la tonalité de la Symphonie n°39 ?",
+    "options": ["Mi bémol majeur","Sol mineur", "Ré majeur",  "Ut majeur"],
+    "answerIndex": 0,
+    "explication": "La Symphonie n°39 est en mi bémol majeur, rayonnante et noble."
+  },
+  {
+    "question": "20 - [Symphonie] Quelle œuvre incarne la tension tragique de Mozart ?",
+    "options": ["Symphonie n°25", "Symphonie n°35", "Symphonie n°40", "Symphonie n°41"],
+    "answerIndex": 2,
+    "explication": "La Symphonie n°40 en sol mineur exprime la grandeur douloureuse et le pathétique contenu."
+  },
+  {
+    "question": "21 - [Symphonie] Quelle symphonie est surnommée 'Jupiter' ?",
+    "options": ["La n°39", "La n°40", "La n°41", "La n°35"],
+    "answerIndex": 2,
+    "explication": "La Symphonie n°41 en ut majeur, K.551, dite 'Jupiter', est un sommet du classicisme."
+  },
+  {
+    "question": "22 - [Structure] Quel type d’écriture Mozart utilise-t-il dans le dernier mouvement de la 'Jupiter' ?",
+    "options": ["Sonate", "Fugue", "Canon", "Variation libre"],
+    "answerIndex": 1,
+    "explication": "Le dernier mouvement de la Symphonie 'Jupiter' est une fugue magistrale, hommage à Bach."
+  },
+  {
+    "question": "23 - [Héritage] Quelle qualité incarne la musique de Mozart selon la conclusion du cours ?",
+    "options": ["La virtuosité démonstrative", "La transparence et la liberté", "Le mysticisme religieux", "L’expérimentation harmonique"],
+    "answerIndex": 1,
+    "explication": "L’art de Mozart unit la maîtrise et la spontanéité dans une transparence libératrice."
+  },
+  {
+    "question": "24 - [Caractère] Quelle est la grandeur paradoxale de Mozart ?",
+    "options": [ "Sa recherche du spectaculaire", "Son mysticisme", "Sa modestie","Son hermétisme"],
+    "answerIndex": 2,
+    "explication": "Mozart est grand par sa modestie : il dissimule sa science sous la grâce."
+  },
+  {
+    "question": "25 - [Équilibre] Que réussit Mozart dans son art selon la synthèse finale ?",
+    "options": ["Unir émotion et structure", "Créer des œuvres abstraites", "Rompre avec le classicisme", "Composer uniquement des opéras"],
+    "answerIndex": 0,
+    "explication": "Mozart réalise la synthèse parfaite entre émotion et structure, essence du classicisme."
+  },
+  {
+    "question": "26 - [Influences] Quel compositeur influence Mozart pour le contrepoint ?",
+    "options": ["Gluck",  "Beethoven", "Vivaldi","Haydn"],
+    "answerIndex": 3,
+    "explication": "Les quatuors de Haydn inspirent à Mozart la maîtrise du contrepoint."
+  },
+  {
+    "question": "27 - [Influences] Quels maîtres baroques Mozart étudie-t-il à Vienne entre 1781 et 1786 ?",
+    "options": ["Bach et Haendel", "Scarlatti et Corelli", "Rameau et Lully", "Telemann et Vivaldi"],
+    "answerIndex": 0,
+    "explication": "Mozart étudie Bach et Haendel pour approfondir la polyphonie et la rigueur formelle."
+  },
+  {
+    "question": "28 - [Esthétique] Quelle distinction le cours fait-il entre Mozart et le romantisme futur ?",
+    "options": ["Mozart peint des paysages", "Mozart compose une musique pure, non narrative", "Mozart écrit des poèmes symphoniques", "Mozart introduit le leitmotiv"],
+    "answerIndex": 1,
+    "explication": "Contrairement au romantisme, Mozart compose une musique détachée de la narration."
+  },
+  {
+    "question": "29 - [Synthèse] Comment l’héritage de Mozart ouvre-t-il la voie au romantisme ?",
+    "options": ["Par sa charge émotionnelle","Par sa virtuosité",  "Par sa simplicité harmonique", "Par ses textes religieux"],
+    "answerIndex": 0,
+    "explication": "L’intensité émotionnelle de Mozart annonce la sensibilité romantique."
+  },
+  {
+    "question": "30 - [Vision finale] Que libère la musique de Mozart selon la conclusion du cours ?",
+    "options": ["L’orgueil de l’artiste", "La technique orchestrale", "La tension dramatique", "L’auditeur, par sa clarté et sa sincérité"],
+    "answerIndex": 3,
+    "explication": "La musique de Mozart libère l’auditeur : chacun y trouve sa propre sensibilité."
+  }
+]

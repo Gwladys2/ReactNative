@@ -1,0 +1,227 @@
+[
+  {
+    "question": "1 - [Identification] Qui est l’auteur du tableau *La Mort de Sardanapale* ?",
+    "options": ["Théodore Géricault", "Eugène Delacroix", "Jean-Auguste-Dominique Ingres", "Jacques-Louis David"],
+    "answerIndex": 1,
+    "explication": "Eugène Delacroix (1798-1863) est le peintre romantique français auteur de *La Mort de Sardanapale*."
+  },
+  {
+    "question": "2 - [Identification] En quelle année l’œuvre a-t-elle été réalisée ?",
+    "options": ["1819", "1827", "1830", "1848"],
+    "answerIndex": 1,
+    "explication": "Delacroix peint *La Mort de Sardanapale* en 1827, à l’âge de 29 ans."
+  },
+  {
+    "question": "3 - [Identification] Quelle est la technique utilisée pour ce tableau ?",
+    "options": ["Huile sur bois", "Huile sur toile", "Aquarelle", "Fresque"],
+    "answerIndex": 1,
+    "explication": "L’œuvre est une huile sur toile, la technique traditionnelle pour les grands formats d’histoire."
+  },
+  {
+    "question": "4 - [Identification] Quelle est la taille approximative de l’œuvre ?",
+    "options": ["50 × 60 cm", "2 × 3 m", "4 × 5 m", "8 × 10 m"],
+    "answerIndex": 2,
+    "explication": "Le tableau mesure environ 392 × 496 cm, soit un format monumental."
+  },
+  {
+    "question": "5 - [Identification] Dans quel musée est conservée *La Mort de Sardanapale* ?",
+    "options": ["Musée d’Orsay", "Musée du Louvre", "National Gallery de Londres", "Musée du Prado"],
+    "answerIndex": 1,
+    "explication": "Le tableau est exposé au musée du Louvre à Paris."
+  },
+  {
+    "question": "6 - [Identification] À quel genre pictural appartient l’œuvre ?",
+    "options": ["Portrait", "Peinture d’histoire", "Nature morte", "Paysage"],
+    "answerIndex": 1,
+    "explication": "C’est une peinture d’histoire inspirée d’un sujet littéraire et oriental."
+  },
+  {
+    "question": "7 - [Identification] Quelle source littéraire inspire Delacroix pour ce tableau ?",
+    "options": ["Victor Hugo", "Lord Byron", "Shakespeare", "Goethe"],
+    "answerIndex": 1,
+    "explication": "Delacroix s’inspire du poème *Sardanapalus* de Lord Byron, écrivain romantique anglais."
+  },
+  {
+    "question": "8 - [Identification] Le roi Sardanapale est un souverain de quelle civilisation ?",
+    "options": ["Égyptienne", "Assyrienne", "Grecque", "Romaine"],
+    "answerIndex": 1,
+    "explication": "Sardanapale est un roi légendaire de l’Assyrie antique."
+  },
+  {
+    "question": "9 - [Identification] Quel mouvement artistique représente Delacroix ?",
+    "options": ["Néoclassicisme", "Romantisme", "Réaliste", "Symbolisme"],
+    "answerIndex": 1,
+    "explication": "Delacroix est le principal représentant du romantisme en peinture."
+  },
+  {
+    "question": "10 - [Identification] Quelle est la problématique centrale du tableau ?",
+    "options": [
+      "Comment représenter la nature",
+      "Comment peindre la beauté antique",
+      "Comment exprimer la passion, la mort et le chaos dans un cadre oriental",
+      "Comment glorifier la monarchie"
+    ],
+    "answerIndex": 2,
+    "explication": "Delacroix cherche à peindre la passion et la destruction dans une scène orientale pleine de mouvement."
+  },
+  {
+    "question": "11 - [Analyse] Que représente la scène de *La Mort de Sardanapale* ?",
+    "options": ["Le couronnement d’un roi", "La mort du roi et la destruction de son palais", "Une bataille antique", "Un banquet royal"],
+    "answerIndex": 1,
+    "explication": "Le tableau montre le roi Sardanapale assistant à la destruction de son palais et à la mort de ses serviteurs et femmes."
+  },
+  {
+    "question": "12 - [Analyse] Quelle est l’attitude du roi Sardanapale dans la scène ?",
+    "options": ["Il panique", "Il prie", "Il reste calme et indifférent", "Il ordonne la bataille"],
+    "answerIndex": 2,
+    "explication": "Le roi est impassible, allongé sur son lit rouge, observant le chaos autour de lui."
+  },
+  {
+    "question": "13 - [Analyse] Quelle émotion domine la scène ?",
+    "options": ["La sérénité", "La violence et la passion", "La joie", "La peur"],
+    "answerIndex": 1,
+    "explication": "L’œuvre exprime une intensité dramatique et une passion violente typiquement romantique."
+  },
+  {
+    "question": "14 - [Analyse] Quelle couleur domine la composition ?",
+    "options": ["Bleu", "Rouge", "Vert", "Jaune"],
+    "answerIndex": 1,
+    "explication": "Le rouge domine, symbolisant à la fois le feu, le sang, la passion et la mort."
+  },
+  {
+    "question": "15 - [Analyse] Comment est organisée la composition du tableau ?",
+    "options": ["Ordonnée et symétrique", "Chaotique et tourbillonnante", "Horizontale et calme", "Centrée et rigide"],
+    "answerIndex": 1,
+    "explication": "Delacroix crée un désordre contrôlé, un tourbillon de formes et de couleurs qui traduit le chaos."
+  },
+  {
+    "question": "16 - [Analyse] Quelle est la source principale de lumière dans le tableau ?",
+    "options": ["Une lampe", "Le feu du palais", "La lune", "Une fenêtre"],
+    "answerIndex": 1,
+    "explication": "Le feu illumine la scène, créant des contrastes violents entre ombre et lumière."
+  },
+  {
+    "question": "17 - [Analyse] Quelle est la technique picturale caractéristique de Delacroix ?",
+    "options": ["La touche lisse et précise", "La touche libre et énergique", "Le pointillisme", "Le glacis classique"],
+    "answerIndex": 1,
+    "explication": "Delacroix emploie une touche libre et expressive, donnant du mouvement à la scène."
+  },
+  {
+    "question": "18 - [Analyse] Quelle sensation la composition désordonnée cherche-t-elle à provoquer ?",
+    "options": ["L’ordre", "La confusion et la tension", "Le calme", "L’équilibre"],
+    "answerIndex": 1,
+    "explication": "Le désordre visuel exprime la violence et la tragédie de la scène."
+  },
+  {
+    "question": "19 - [Analyse] Que symbolise le lit rouge sur lequel repose Sardanapale ?",
+    "options": ["La paix", "La passion et la mort", "La religion", "L’autorité divine"],
+    "answerIndex": 1,
+    "explication": "Le lit rouge symbolise à la fois la passion, la royauté et la destruction."
+  },
+  {
+    "question": "20 - [Analyse] Quelle influence littéraire ou poétique transparaît dans l’œuvre ?",
+    "options": ["Le réalisme de Zola", "Le lyrisme romantique de Byron", "La philosophie des Lumières", "Les fables d’Ésope"],
+    "answerIndex": 1,
+    "explication": "Delacroix reprend le ton lyrique et tragique de Lord Byron, poète romantique anglais."
+  },
+  {
+    "question": "21 - [Analyse] Quelle place occupe la femme dans ce tableau ?",
+    "options": ["Elle est absente", "Elle est représentée comme victime de la violence", "Elle domine la scène", "Elle prie"],
+    "answerIndex": 1,
+    "explication": "Les femmes sont représentées dans des postures de souffrance, victimes du pouvoir et du chaos."
+  },
+  {
+    "question": "22 - [Analyse] Quelles sont les caractéristiques orientales visibles dans le tableau ?",
+    "options": ["Les armes et costumes exotiques", "Les colonnes grecques", "Les crucifix", "Les paysages marins"],
+    "answerIndex": 0,
+    "explication": "Les bijoux, tissus, armes et chevaux orientaux traduisent l’influence de l’orientalisme."
+  },
+  {
+    "question": "23 - [Analyse] Quelle émotion Delacroix veut-il faire ressentir au spectateur ?",
+    "options": ["La peur et la fascination", "L’indifférence", "La joie", "Le rire"],
+    "answerIndex": 0,
+    "explication": "Le spectateur doit être à la fois effrayé et émerveillé par la beauté du chaos."
+  },
+  {
+    "question": "24 - [Analyse] Quel rôle joue la couleur chez Delacroix par rapport au dessin ?",
+    "options": ["Le dessin domine", "La couleur prime sur le dessin", "La couleur est secondaire", "Le dessin est absent"],
+    "answerIndex": 1,
+    "explication": "Delacroix donne la priorité à la couleur et à ses effets expressifs, plutôt qu’à la ligne stricte."
+  },
+  {
+    "question": "25 - [Analyse] Quelle technique de lumière utilise Delacroix pour renforcer le drame ?",
+    "options": ["Le clair-obscur", "La grisaille", "Le sfumato", "Le halo lumineux"],
+    "answerIndex": 0,
+    "explication": "Delacroix emploie le clair-obscur pour accentuer les contrastes et dramatiser la scène."
+  },
+  {
+    "question": "26 - [Situation] Comment le public réagit-il lors de la présentation de l’œuvre au Salon de 1828 ?",
+    "options": ["Succès immédiat", "Indifférence", "Scandale et incompréhension", "Admiration unanime"],
+    "answerIndex": 2,
+    "explication": "Le public est choqué par le désordre de la composition et la violence du sujet."
+  },
+  {
+    "question": "27 - [Situation] Quelle œuvre précédente a inspiré Delacroix pour la composition tourbillonnante ?",
+    "options": ["Le Radeau de la Méduse de Géricault", "Les Sabines de David", "La Joconde", "Les Noces de Cana"],
+    "answerIndex": 0,
+    "explication": "Delacroix s’inspire de Géricault, qu’il admirait, pour le mouvement et la composition dramatique."
+  },
+  {
+    "question": "28 - [Situation] Quel lien unit Delacroix et Géricault dans l’histoire de l’art ?",
+    "options": ["Maître et élève", "Rivaux politiques", "Peintres romantiques", "Aucun lien"],
+    "answerIndex": 2,
+    "explication": "Les deux sont des figures majeures du romantisme pictural français."
+  },
+  {
+    "question": "29 - [Situation] Quelle influence Delacroix aura-t-il sur les générations suivantes ?",
+    "options": ["Il inspire les impressionnistes par sa couleur", "Il fonde le cubisme", "Il influence les sculpteurs antiques", "Aucune"],
+    "answerIndex": 0,
+    "explication": "Sa liberté dans l’usage de la couleur inspirera les impressionnistes comme Monet ou Renoir."
+  },
+  {
+    "question": "30 - [Situation] Quelle tendance artistique s’associe à l’exotisme et au goût de l’Orient chez Delacroix ?",
+    "options": ["Le naturalisme", "L’orientalisme", "Le classicisme", "Le symbolisme"],
+    "answerIndex": 1,
+    "explication": "L’orientalisme exprime la fascination romantique pour les cultures orientales et leurs décors."
+  },
+  {
+    "question": "31 - [Conclusion] En quoi *La Mort de Sardanapale* illustre-t-elle le romantisme ?",
+    "options": [
+      "Par son calme et son ordre",
+      "Par la passion, la couleur et le drame",
+      "Par son sujet religieux",
+      "Par sa symétrie parfaite"
+    ],
+    "answerIndex": 1,
+    "explication": "Le tableau illustre parfaitement la passion, le désordre et l’émotion romantique."
+  },
+  {
+    "question": "32 - [Conclusion] Quelle est la principale innovation de Delacroix dans cette œuvre ?",
+    "options": ["L’absence de couleur", "La composition rigide", "La liberté de la couleur et du mouvement", "La précision anatomique"],
+    "answerIndex": 2,
+    "explication": "Delacroix libère la peinture du dessin strict pour privilégier la couleur et le mouvement."
+  },
+  {
+    "question": "33 - [Conclusion] Que symbolise la scène au-delà du sujet historique ?",
+    "options": ["La fin d’un monde", "Un miracle religieux", "Une bataille héroïque", "Un événement réel exact"],
+    "answerIndex": 0,
+    "explication": "La destruction totale symbolise la fin d’un monde et la vanité du pouvoir."
+  },
+  {
+    "question": "34 - [Conclusion] Quelle valeur universelle le tableau met-il en avant ?",
+    "options": ["L’amour de Dieu", "La puissance destructrice de l’homme", "L’espoir et la paix", "La fidélité"],
+    "answerIndex": 1,
+    "explication": "Delacroix montre la démesure et la violence de l’homme face à sa propre chute."
+  },
+  {
+    "question": "35 - [Conclusion] Quelle place occupe *La Mort de Sardanapale* dans l’histoire de l’art ?",
+    "options": [
+      "Une œuvre mineure",
+      "Un manifeste du romantisme et de l’orientalisme",
+      "Une peinture néoclassique",
+      "Une œuvre religieuse oubliée"
+    ],
+    "answerIndex": 1,
+    "explication": "*La Mort de Sardanapale* est une œuvre phare du romantisme, marquée par une forte influence orientaliste."
+  }
+]

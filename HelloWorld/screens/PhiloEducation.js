@@ -80,8 +80,8 @@ export default function PhiloEducation({ navigation }) {
                                </>
                            )}
                             <View style={styles.linkContainer}>
-                                        <Text style={styles.link} onPress={() => navigation.navigate('PhiloEducation')}>🔹 Partie 1</Text>
-                                      <Text style={styles.link} onPress={() => navigation.navigate('PhiloEducation2')}>🔹 Partie 2</Text>
+                                        <Text style={styles.link} onPress={() => navigation.navigate('PhiloEducation')}>🎈 Partie 1</Text>
+                                      <Text style={styles.link} onPress={() => navigation.navigate('PhiloEducation2')}>🎈 Partie 2</Text>
                                       
                                        </View>
                
@@ -115,7 +115,7 @@ export default function PhiloEducation({ navigation }) {
                    link: {
                        fontSize: 16,
                        color: '#007BFF',
-                       textDecorationLine: 'underline',
+                       textDecorationLine: 'none',
                        marginHorizontal: 8, // ✅ espace horizontal entre les liens
                        fontSize:20
                    }

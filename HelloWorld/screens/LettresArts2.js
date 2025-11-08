@@ -117,7 +117,7 @@ export default function LessonScreen({ navigation }) {
                     link: {
                         fontSize: 16,
                         color: '#007BFF',
-                        textDecorationLine: 'underline',
+                        textDecorationLine: 'none',
                         marginHorizontal: 8,
                         fontSize:20
                     }

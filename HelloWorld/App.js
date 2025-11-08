@@ -49,6 +49,20 @@ import CoursPsychoEducation from './screens/CoursPsychoEducation';
 import CoursPsychoEducation2 from './screens/CoursPsychoEducation2';
 import CoursPsychoEducation3 from './screens/CoursPsychoEducation3';
 import CoursPsychoEducation4 from './screens/CoursPsychoEducation4';
+import AnalyseArts from './screens/AnalyseArts';
+import AnalyseArts2 from './screens/AnalyseArts2';
+import QuiAditQuoi from './screens/QuiAditQuoi';
+import HistoireMusique from './screens/HistoireMusique';
+import HistoireMusique2 from './screens/HistoireMusique2';
+import HistoireMusique3 from './screens/HistoireMusique3';
+import HistoireMusique4 from './screens/HistoireMusique4';
+import HistoireMusique5 from './screens/HistoireMusique5';
+import HistoireMusique6 from './screens/HistoireMusique6';
+import HistoireMusique7 from './screens/HistoireMusique7';
+import HistoireMusique8 from './screens/HistoireMusique8';
+import HistoireMusique9 from './screens/HistoireMusique9';
+import HistoireMusique10 from './screens/HistoireMusique10';
+import LexiqueHistoireMusique from './screens/LexiqueHistoireMusique';
 
 
 
@@ -111,8 +125,20 @@ export default function App() {
                 <Stack.Screen name="CoursPsychoEducation2" component={CoursPsychoEducation2} />
                 <Stack.Screen name="CoursPsychoEducation3" component={CoursPsychoEducation3} />
                 <Stack.Screen name="CoursPsychoEducation4" component={CoursPsychoEducation4} />
-
-            
+                <Stack.Screen name="QuiAditQuoi" component={QuiAditQuoi} />
+                <Stack.Screen name="AnalyseArts" component={AnalyseArts} />
+                <Stack.Screen name="AnalyseArts2" component={AnalyseArts2} />
+                 <Stack.Screen name="HistoireMusique" component={HistoireMusique} />
+                 <Stack.Screen name="HistoireMusique2" component={HistoireMusique2} />
+                 <Stack.Screen name="HistoireMusique3" component={HistoireMusique3} />
+                 <Stack.Screen name="HistoireMusique4" component={HistoireMusique4} />
+                 <Stack.Screen name="HistoireMusique5" component={HistoireMusique5} />
+                 <Stack.Screen name="HistoireMusique6" component={HistoireMusique6} />
+                 <Stack.Screen name="HistoireMusique7" component={HistoireMusique7} />
+                 <Stack.Screen name="HistoireMusique8" component={HistoireMusique8} />
+                 <Stack.Screen name="HistoireMusique9" component={HistoireMusique9} />
+                 <Stack.Screen name="HistoireMusique10" component={HistoireMusique10} />
+                 <Stack.Screen name="LexiqueHistoireMusique" component={LexiqueHistoireMusique} />
             </Stack.Navigator>
           </View>
 

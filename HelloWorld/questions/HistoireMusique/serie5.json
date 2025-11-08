@@ -1,0 +1,242 @@
+[
+  {
+    "question": "1 - [Identification] Quel compositeur a écrit la Symphonie n°8 « Le Soir » ?",
+    "options": ["Joseph Haydn", "Johann Stamitz", "Wolfgang Amadeus Mozart", "Ludwig van Beethoven"],
+    "answerIndex": 0,
+    "explication": "La Symphonie n°8 « Le Soir » a été composée par Joseph Haydn."
+  },
+  {
+    "question": "2 - [Date] Vers quelle année cette symphonie a-t-elle été composée ?",
+    "options": ["1761", "1785", "1770", "1800"],
+    "answerIndex": 0,
+    "explication": "La symphonie a été composée vers 1761 pour l’orchestre d’Esterházy."
+  },
+  {
+    "question": "3 - [Contexte] Dans quel cadre la symphonie a-t-elle été écrite ?",
+    "options": ["Cycle des symphonies de la journée", "Commande des Concerts de Paris", "Série des symphonies londoniennes", "Musique religieuse pour Vienne"],
+    "answerIndex": 0,
+    "explication": "La symphonie fait partie des symphonies représentant différents moments de la journée (Matin, Midi, Soir, Nuit)."
+  },
+  {
+    "question": "4 - [Style] Quel style caractérise cette symphonie ?",
+    "options": ["Classicisme précoce", "Romantisme", "Baroque tardif", "Impressionnisme"],
+    "answerIndex": 0,
+    "explication": "Le style est celui du classicisme précoce, avec influence galante et prémices du Sturm und Drang."
+  },
+  {
+    "question": "5 - [Formation] Quelle est l’orchestration typique de cette symphonie ?",
+    "options": ["Cordes, bois, cuivres, timbales", "Cordes, piano, percussions, saxophones", "Bois, harpe, trombones, percussions", "Flûtes, guitare, cordes, percussions"],
+    "answerIndex": 0,
+    "explication": "L’orchestre comprend cordes, bois, cuivres et timbales."
+  },
+  {
+    "question": "6 - [Premier mouvement] Quel est le tempo du premier mouvement ?",
+    "options": ["Adagio – Allegro", "Andante", "Presto", "Menuet"],
+    "answerIndex": 0,
+    "explication": "Le premier mouvement commence par un Adagio introductif suivi d’un Allegro."
+  },
+  {
+    "question": "7 - [Premier mouvement] Quelle atmosphère évoque l’Adagio introductif ?",
+    "options": ["Calme et soirée paisible", "Fureur et agitation", "Suspense dramatique", "Rythme dansant"],
+    "answerIndex": 0,
+    "explication": "L’Adagio évoque la sérénité et le calme du soir."
+  },
+  {
+    "question": "8 - [Premier mouvement] Comment se caractérise l’Allegro du premier mouvement ?",
+    "options": ["Vif mais contenu", "Tragique et sombre", "Lent et méditatif", "Improvisé et chaotique"],
+    "answerIndex": 0,
+    "explication": "L’Allegro est vif mais reste maîtrisé, avec exposition de thèmes contrastés."
+  },
+  {
+    "question": "9 - [Menuet] Quelle structure rythmique caractérise le menuet ?",
+    "options": ["Ternaire", "Binaire", "Libre", "Rondo"],
+    "answerIndex": 0,
+    "explication": "Le menuet est une danse ternaire élégante, typique du classicisme."
+  },
+  {
+    "question": "10 - [Menuet] Quel rôle joue le trio dans le menuet ?",
+    "options": ["Créer un contraste plus léger", "Introduire le thème principal", "Percussion solo", "Polyphonie complexe"],
+    "answerIndex": 0,
+    "explication": "Le trio crée un contraste plus léger, souvent en dialogue entre cordes et bois."
+  },
+  {
+    "question": "11 - [Troisième mouvement] Comment est l’Adagio du troisième mouvement ?",
+    "options": ["Lent et méditatif", "Rapide et vif", "Humoristique", "Percussif"],
+    "answerIndex": 0,
+    "explication": "Le troisième mouvement est lent et méditatif, évoquant la sérénité du soir."
+  },
+  {
+    "question": "12 - [Adagio] Quels instruments portent le thème principal de l’Adagio ?",
+    "options": ["Cordes", "Bois", "Cuivres", "Percussions"],
+    "answerIndex": 0,
+    "explication": "Les cordes portent le thème principal, avec harmonie transparente."
+  },
+  {
+    "question": "13 - [Finale] Quel est le tempo du quatrième mouvement ?",
+    "options": ["Presto", "Andante", "Adagio", "Menuet"],
+    "answerIndex": 0,
+    "explication": "Le dernier mouvement est rapide et joyeux (Presto)."
+  },
+  {
+    "question": "14 - [Finale] Quelle est la fonction du finale ?",
+    "options": ["Clôturer la journée avec vivacité", "Introduire un thème lent", "Développer une fugue", "Servir de transition vers un autre mouvement"],
+    "answerIndex": 0,
+    "explication": "Le finale clôt la symphonie avec énergie et motifs brillants."
+  },
+  {
+    "question": "15 - [Forme] Quelle forme structurelle se retrouve dans le premier mouvement et le finale ?",
+    "options": ["Forme sonate", "Rondo", "Fugue", "Suite de danses"],
+    "answerIndex": 0,
+    "explication": "Le premier mouvement et le finale utilisent la forme sonate classique."
+  },
+  {
+    "question": "16 - [Dynamique] Comment Haydn utilise-t-il les nuances ?",
+    "options": ["Contraste forte/piano et accents", "Forte constante", "Piano continu", "Aléatoire"],
+    "answerIndex": 0,
+    "explication": "Haydn utilise les contrastes dynamiques pour enrichir l’expressivité."
+  },
+  {
+    "question": "17 - [Style] Quel élément stylistique distingue cette symphonie ?",
+    "options": ["Évocation descriptive du soir", "Fugue complexe", "Improvisation baroque", "Polyphonie stricte"],
+    "answerIndex": 0,
+    "explication": "La symphonie illustre le moment de la journée « le soir » avec une atmosphère claire et élégante."
+  },
+  {
+    "question": "18 - [Orchestration] Quels instruments apportent les couleurs principales dans le menuet ?",
+    "options": ["Cordes et bois", "Cuivres seuls", "Percussions seules", "Flûtes uniquement"],
+    "answerIndex": 0,
+    "explication": "Le menuet utilise cordes et bois pour créer élégance et dialogue."
+  },
+  {
+    "question": "19 - [Contraste] Comment Haydn crée-t-il le contraste entre mouvements ?",
+    "options": ["Alternance de calme et vivacité", "Forte continue", "Silence permanent", "Polyphonie stricte"],
+    "answerIndex": 0,
+    "explication": "Le contraste se fait entre mouvements lents et méditatifs et mouvements rapides et joyeux."
+  },
+  {
+    "question": "20 - [Innovation] Quelle innovation stylistique préfigure le classicisme mature ?",
+    "options": ["Exploration descriptive et thématique", "Fugue complexe", "Silence prolongé", "Polyphonie baroque"],
+    "answerIndex": 0,
+    "explication": "Haydn explore la musique descriptive et la structure thématique, annonçant le classicisme mature."
+  },
+  {
+    "question": "21 - [Thème principal] Quelle famille instrumentale introduit souvent le thème principal dans le premier mouvement ?",
+    "options": ["Cordes", "Cuivres", "Percussions", "Timbales"],
+    "answerIndex": 0,
+    "explication": "Les cordes introduisent généralement le thème principal dans le premier mouvement."
+  },
+  {
+    "question": "22 - [Menuet] Comment le trio se différencie-t-il du menuet ?",
+    "options": ["Atmosphère plus légère", "Rythme plus rapide", "Utilisation exclusive de timbales", "Polyphonie complexe"],
+    "answerIndex": 0,
+    "explication": "Le trio offre une ambiance plus légère et contrastée par rapport au menuet."
+  },
+  {
+    "question": "23 - [Finale] Quels motifs caractérisent le Presto final ?",
+    "options": ["Courts et répétitifs", "Lents et méditatifs", "Polyphoniques complexes", "Improvisés"],
+    "answerIndex": 0,
+    "explication": "Le Presto final est basé sur des motifs courts et répétitifs, créant énergie et cohésion."
+  },
+  {
+    "question": "24 - [Clarté] Quel est l’effet de l’orchestration de Haydn ?",
+    "options": ["Transparence et équilibre", "Chaos sonore", "Polyphonie stricte", "Improvisation baroque"],
+    "answerIndex": 0,
+    "explication": "L’orchestration favorise la clarté et l’équilibre entre les familles instrumentales."
+  },
+  {
+    "question": "25 - [Ambiance] Quelle émotion domine la symphonie ?",
+    "options": ["Calme et sérénité", "Tragédie sombre", "Chaos et confusion", "Mysticisme"],
+    "answerIndex": 0,
+    "explication": "La symphonie exprime une atmosphère calme et sereine, propre au soir."
+  },
+  {
+    "question": "26 - [Comparaison] À quel cycle appartient cette symphonie ?",
+    "options": ["Symphonies de la journée (Matin, Midi, Soir, Nuit)", "Symphonies de Paris", "Symphonies de Londres", "Symphonies de Vienne"],
+    "answerIndex": 0,
+    "explication": "Elle fait partie des symphonies décrivant différents moments de la journée."
+  },
+  {
+    "question": "27 - [Innovation] Quelle caractéristique préfigure le style classique mature ?",
+    "options": ["Forme sonate et orchestration équilibrée", "Polyphonie stricte", "Silence total", "Fugue complexe"],
+    "answerIndex": 0,
+    "explication": "La forme sonate et l’orchestration équilibrée annoncent le classicisme mature."
+  },
+  {
+    "question": "28 - [Troisième mouvement] Quel sentiment exprime l’Adagio central ?",
+    "options": ["Paix et méditation", "Fureur et agitation", "Humour", "Rythme dansant"],
+    "answerIndex": 0,
+    "explication": "L’Adagio central exprime paix et méditation, typique de l’atmosphère du soir."
+  },
+  {
+    "question": "29 - [Premier mouvement] Comment se fait le contraste entre Adagio et Allegro ?",
+    "options": ["Calme initial puis vivacité contrôlée", "Silence total puis chaos", "Improvisation libre", "Polyphonie baroque"],
+    "answerIndex": 0,
+    "explication": "Le contraste se fait par un début calme (Adagio) suivi d’une énergie contrôlée (Allegro)."
+  },
+  {
+    "question": "30 - [Orchestration] Quel rôle des cuivres et timbales ?",
+    "options": ["Colorer et renforcer les accents", "Porter le thème principal", "Créer des harmonies lentes", "Improviser"],
+    "answerIndex": 0,
+    "explication": "Les cuivres et timbales ajoutent couleur et accents sans dominer l’orchestre."
+  },
+  {
+    "question": "31 - [Menuet] Quel effet stylistique domine le menuet ?",
+    "options": ["Élégance et régularité", "Chaos et dissonance", "Polyphonie complexe", "Tragédie sombre"],
+    "answerIndex": 0,
+    "explication": "Le menuet est élégant et régulier, typique du style classique."
+  },
+  {
+    "question": "32 - [Finale] Quelle énergie caractérise le Presto ?",
+    "options": ["Vif et joyeux", "Calme et méditatif", "Sombre et tragique", "Improvisé et chaotique"],
+    "answerIndex": 0,
+    "explication": "Le Presto final est vif, joyeux et lumineux, clôturant la symphonie."
+  },
+  {
+    "question": "33 - [Dynamique] Quel rôle des contrastes dynamiques ?",
+    "options": ["Renforcer l’expression et la vivacité", "Ralentir la symphonie", "Créer du chaos", "Masquer le thème"],
+    "answerIndex": 0,
+    "explication": "Les contrastes forte/piano et les accents enrichissent l’expression musicale."
+  },
+  {
+    "question": "34 - [Atmosphère] Quel moment de la journée est illustré par la symphonie ?",
+    "options": ["Le soir", "Le matin", "Midi", "La nuit"],
+    "answerIndex": 0,
+    "explication": "Cette symphonie illustre l’atmosphère du soir."
+  },
+  {
+    "question": "35 - [Style] Quelle influence stylistique est encore perceptible ?",
+    "options": ["Style galant", "Romantisme tardif", "Baroque tardif", "Impressionnisme"],
+    "answerIndex": 0,
+    "explication": "Le style galant est encore perceptible dans la mélodie claire et la texture légère."
+  },
+  {
+    "question": "36 - [Innovation] Quelle caractéristique rend cette symphonie originale ?",
+    "options": ["Caractère descriptif du moment de la journée", "Polyphonie stricte", "Silence total", "Improvisation baroque"],
+    "answerIndex": 0,
+    "explication": "La symphonie illustre un moment précis de la journée, préfigurant la musique descriptive."
+  },
+  {
+    "question": "37 - [Clarté] Comment Haydn structure-t-il ses thèmes ?",
+    "options": ["Clair et équilibré", "Chaotique", "Polyphonique complexe", "Aléatoire"],
+    "answerIndex": 0,
+    "explication": "Les thèmes sont clairs et équilibrés, favorisant la lisibilité et la compréhension."
+  },
+  {
+    "question": "38 - [Interprétation] Quelle émotion principale se dégage du premier mouvement ?",
+    "options": ["Calme et sérénité", "Furie et tragédie", "Humour", "Mysticisme"],
+    "answerIndex": 0,
+    "explication": "Le premier mouvement évoque le calme et la sérénité du soir."
+  },
+  {
+    "question": "39 - [Comparaison] Avec quelle série de Haydn peut-on comparer cette symphonie ?",
+    "options": ["Symphonies de la journée", "Symphonies parisiennes", "Symphonies de Londres", "Symphonies de Vienne"],
+    "answerIndex": 0,
+    "explication": "Elle fait partie du cycle des symphonies représentant différents moments de la journée."
+  },
+  {
+    "question": "40 - [Conclusion] Quels éléments définissent l’esthétique de la symphonie ?",
+    "options": ["Équilibre, clarté et expression du soir", "Polyphonie complexe", "Tragédie sombre", "Improvisation baroque"],
+    "answerIndex": 0,
+    "explication": "L’esthétique repose sur équilibre, clarté et expression de l’atmosphère du soir."
+  }
+]

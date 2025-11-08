@@ -1,0 +1,242 @@
+[
+  {
+    "question": "1 - [Identification] Quel compositeur a écrit la Symphonie n°39 K.543 ?",
+    "options": ["Wolfgang Amadeus Mozart", "Joseph Haydn", "Johann Stamitz", "Ludwig van Beethoven"],
+    "answerIndex": 0,
+    "explication": "La Symphonie n°39 K.543 a été composée par Mozart en 1788 à Vienne."
+  },
+  {
+    "question": "2 - [Date] En quelle année Mozart a-t-il composé cette symphonie ?",
+    "options": ["1788", "1774", "1773", "1785"],
+    "answerIndex": 0,
+    "explication": "La symphonie a été composée en 1788, peu avant les symphonies n°40 et n°41."
+  },
+  {
+    "question": "3 - [Contexte] Cette symphonie fait partie de quel ensemble d’œuvres ?",
+    "options": ["Trois dernières symphonies de Mozart", "Symphonies de jeunesse", "Symphonies de Mannheim", "Symphonies tardives de Haydn"],
+    "answerIndex": 0,
+    "explication": "Elle fait partie des trois dernières symphonies composées par Mozart en 1788."
+  },
+  {
+    "question": "4 - [Style] Quel style caractérise cette symphonie ?",
+    "options": ["Classicisme viennois mature", "Sturm und Drang", "Romantisme", "Baroque tardif"],
+    "answerIndex": 0,
+    "explication": "Le style est celui du classicisme viennois mature, équilibré et brillant."
+  },
+  {
+    "question": "5 - [Tonalité] Quelle est la tonalité de cette symphonie ?",
+    "options": ["Mi bémol majeur", "Sol mineur", "Ré majeur", "Fa majeur"],
+    "answerIndex": 0,
+    "explication": "La symphonie est en mi bémol majeur, conférant élégance et grandeur."
+  },
+  {
+    "question": "6 - [Mouvement] Quel est le tempo du premier mouvement ?",
+    "options": ["Allegro", "Andante", "Menuetto", "Adagio"],
+    "answerIndex": 0,
+    "explication": "Le premier mouvement est vif et élégant : Allegro."
+  },
+  {
+    "question": "7 - [Premier thème] Comment est le thème principal ?",
+    "options": ["Majestueux et élégant", "Dramatique et sombre", "Humoristique", "Méditatif"],
+    "answerIndex": 0,
+    "explication": "Le premier thème est majestueux et élégant, typique du style classique mature."
+  },
+  {
+    "question": "8 - [Second thème] Quel caractère présente le second thème ?",
+    "options": ["Lyrique et chantant", "Sombre et dramatique", "Humoristique", "Silencieux"],
+    "answerIndex": 0,
+    "explication": "Le second thème est plus lyrique et chantant, contrastant avec le thème principal."
+  },
+  {
+    "question": "9 - [Forme] Quelle forme structurelle est utilisée dans le premier mouvement ?",
+    "options": ["Forme sonate", "Rondo", "Fugue", "Suite de danses"],
+    "answerIndex": 0,
+    "explication": "Le premier mouvement est en forme sonate avec exposition, développement et réexposition."
+  },
+  {
+    "question": "10 - [Développement] Que se passe-t-il lors du développement ?",
+    "options": ["Modulations et dialogues instrumentaux", "Silence prolongé", "Improvisation", "Thème nouveau"],
+    "answerIndex": 0,
+    "explication": "Le développement explore les thèmes avec modulations et dialogues subtils entre instruments."
+  },
+  {
+    "question": "11 - [Réexposition] Que se passe-t-il lors de la réexposition ?",
+    "options": ["Retour des thèmes principaux dans leur tonalité d’origine", "Introduction d’un nouveau thème", "Silence prolongé", "Improvisation libre"],
+    "answerIndex": 0,
+    "explication": "Les thèmes principaux reviennent dans leur tonalité d’origine pour clôturer le mouvement."
+  },
+  {
+    "question": "12 - [Orchestration] Quel rôle des cordes ?",
+    "options": ["Porter les thèmes et rythmer l’ensemble", "Créer silence", "Accentuer les cuivres", "Improviser librement"],
+    "answerIndex": 0,
+    "explication": "Les cordes portent les thèmes principaux et assurent clarté et énergie rythmique."
+  },
+  {
+    "question": "13 - [Orchestration] Quel rôle des bois ?",
+    "options": ["Colorer et dialoguer avec les cordes", "Porter le thème principal", "Créer chaos", "Improviser librement"],
+    "answerIndex": 0,
+    "explication": "Les bois ajoutent couleur et dialogue avec les cordes pour enrichir la texture."
+  },
+  {
+    "question": "14 - [Orchestration] Quel rôle des cuivres ?",
+    "options": ["Accentuer les points forts et ajouter majesté", "Porter le thème principal", "Improviser", "Silence total"],
+    "answerIndex": 0,
+    "explication": "Les cuivres ponctuent certains accents et ajoutent grandeur et éclat."
+  },
+  {
+    "question": "15 - [Orchestration] Quel rôle des timbales ?",
+    "options": ["Souligner les accents et soutenir la dynamique", "Porter le thème principal", "Accompagner le second thème", "Improviser"],
+    "answerIndex": 0,
+    "explication": "Les timbales renforcent les accents et la dynamique générale."
+  },
+  {
+    "question": "16 - [Dynamique] Comment Mozart utilise-t-il les nuances ?",
+    "options": ["Pour accentuer et clarifier les thèmes", "Pour masquer les thèmes", "Silence continu", "Improvisation libre"],
+    "answerIndex": 0,
+    "explication": "Les nuances renforcent les accents et la clarté thématique."
+  },
+  {
+    "question": "17 - [Contraste] Comment se manifeste le contraste ?",
+    "options": ["Entre majesté et lyrisme", "Silence total", "Polyphonie complexe", "Humour"],
+    "answerIndex": 0,
+    "explication": "Le contraste entre passages majestueux et passages lyriques enrichit le mouvement."
+  },
+  {
+    "question": "18 - [Expression] Quelle émotion domine le premier mouvement ?",
+    "options": ["Élégance et noblesse", "Tristesse", "Humour", "Mysticisme"],
+    "answerIndex": 0,
+    "explication": "Le mouvement exprime majesté, équilibre et élégance."
+  },
+  {
+    "question": "19 - [Rythme] Quels motifs rythmiques dominent ?",
+    "options": ["Clairs et ponctués", "Longs et lents", "Polyphoniques", "Silencieux"],
+    "answerIndex": 0,
+    "explication": "Les motifs sont clairs, ponctués et contribuent à la vitalité et clarté du mouvement."
+  },
+  {
+    "question": "20 - [Ambiance] Quelle atmosphère générale se dégage ?",
+    "options": ["Élégante et raffinée", "Sombre et dramatique", "Humoristique", "Méditative"],
+    "answerIndex": 0,
+    "explication": "L’atmosphère est noble, raffinée et harmonieuse."
+  },
+  {
+    "question": "21 - [Menuetto] La symphonie comporte combien de mouvements ?",
+    "options": ["Quatre", "Trois", "Cinq", "Deux"],
+    "answerIndex": 0,
+    "explication": "Elle comporte quatre mouvements : Allegro, Andante, Menuetto, Finale."
+  },
+  {
+    "question": "22 - [Second mouvement] Quel caractère a l’Andante con moto ?",
+    "options": ["Lyrisme et douceur", "Vivacité et éclat", "Humour", "Tragique"],
+    "answerIndex": 0,
+    "explication": "L’Andante con moto est lyrique et harmonieux, contrastant avec le premier mouvement."
+  },
+  {
+    "question": "23 - [Troisième mouvement] Quel caractère a le Menuetto ?",
+    "options": ["Noble et solennel", "Léger et comique", "Dramatique", "Improvisé"],
+    "answerIndex": 0,
+    "explication": "Le Menuetto est noble et solennel, avec un Trio plus léger."
+  },
+  {
+    "question": "24 - [Finale] Quel caractère domine le dernier mouvement ?",
+    "options": ["Brillant et joyeux", "Sombre et tragique", "Méditatif", "Improvisé"],
+    "answerIndex": 0,
+    "explication": "Le Finale est brillant, joyeux et énergique."
+  },
+  {
+    "question": "25 - [Forme] Quel schéma formel domine le premier mouvement ?",
+    "options": ["Exposition, développement, réexposition", "Rondo simple", "Fugue", "Suite de danses"],
+    "answerIndex": 0,
+    "explication": "Le premier mouvement est en forme sonate classique."
+  },
+  {
+    "question": "26 - [Innovations] Quelle caractéristique stylistique est notable ?",
+    "options": ["Dialogue subtil entre instruments et harmonie raffinée", "Polyphonie stricte", "Improvisation baroque", "Silence"],
+    "answerIndex": 0,
+    "explication": "Mozart crée un dialogue subtil et maîtrise l’harmonie et la clarté orchestrale."
+  },
+  {
+    "question": "27 - [Comparaison] Avec quelles autres symphonies cette œuvre est-elle associée ?",
+    "options": ["Symphonies n°40 et n°41", "Symphonie n°25", "Symphonie n°35", "Symphonie de Haydn n°87"],
+    "answerIndex": 0,
+    "explication": "La n°39 fait partie des trois dernières symphonies de Mozart, avec les n°40 et n°41."
+  },
+  {
+    "question": "28 - [Tonalité] Quel effet produit la tonalité de mi bémol majeur ?",
+    "options": ["Élégance et grandeur", "Dramatisme", "Humour léger", "Mysticisme"],
+    "answerIndex": 0,
+    "explication": "Le mi bémol majeur confère majesté et élégance à la symphonie."
+  },
+  {
+    "question": "29 - [Thème] Quel instrument introduit le thème principal ?",
+    "options": ["Cordes", "Cuivres", "Bois", "Timbales"],
+    "answerIndex": 0,
+    "explication": "Les cordes introduisent le thème principal majestueux."
+  },
+  {
+    "question": "30 - [Clarté] Comment Mozart organise-t-il les thèmes ?",
+    "options": ["Clairs et équilibrés", "Confus", "Aléatoires", "Polyphoniques complexes"],
+    "answerIndex": 0,
+    "explication": "Les thèmes sont clairs et équilibrés, typiques du classicisme mature."
+  },
+  {
+    "question": "31 - [Rythme] Quel rôle joue le rythme ?",
+    "options": ["Donner vitalité et énergie", "Ralentir le mouvement", "Créer chaos", "Silence"],
+    "answerIndex": 0,
+    "explication": "Le rythme ponctué et clair donne énergie et dynamisme."
+  },
+  {
+    "question": "32 - [Dynamique] Comment les nuances sont-elles utilisées ?",
+    "options": ["Pour accentuer et clarifier les accents", "Pour masquer les thèmes", "Silence continu", "Improvisation"],
+    "answerIndex": 0,
+    "explication": "Les nuances renforcent la clarté et l’expression dynamique."
+  },
+  {
+    "question": "33 - [Énergie] Quelle énergie domine le premier mouvement ?",
+    "options": ["Vive et élégante", "Sombre", "Tragique", "Humoristique"],
+    "answerIndex": 0,
+    "explication": "Le mouvement est vif, élégant et majestueux."
+  },
+  {
+    "question": "34 - [Orchestration] Quel rôle des bois dans le premier mouvement ?",
+    "options": ["Ajouter couleur et dialogue", "Porter le thème principal", "Créer chaos", "Improviser"],
+    "answerIndex": 0,
+    "explication": "Les bois colorent le son et dialoguent avec les cordes."
+  },
+  {
+    "question": "35 - [Cuivres] Comment les cuivres interviennent-ils ?",
+    "options": ["Accentuer les moments brillants", "Porter le thème principal", "Improviser", "Silence total"],
+    "answerIndex": 0,
+    "explication": "Les cuivres accentuent et soulignent certains passages brillants."
+  },
+  {
+    "question": "36 - [Virtuosité] Où se manifeste la virtuosité ?",
+    "options": ["Cordes rapides et dialogues bois-cordes", "Cuivres seuls", "Timbales uniquement", "Silence"],
+    "answerIndex": 0,
+    "explication": "La virtuosité apparaît dans les cordes rapides et les dialogues subtils avec les bois."
+  },
+  {
+    "question": "37 - [Expression] Quel contraste expressif est notable ?",
+    "options": ["Majesté et lyrisme", "Humour", "Silence", "Polyphonie stricte"],
+    "answerIndex": 0,
+    "explication": "Le contraste entre majesté et passages lyriques enrichit le mouvement."
+  },
+  {
+    "question": "38 - [Clarté] Comment est la structure thématique ?",
+    "options": ["Clair et équilibré", "Confus", "Improvisé", "Polyphonique complexe"],
+    "answerIndex": 0,
+    "explication": "La structure thématique est claire et équilibrée, typique du classicisme."
+  },
+  {
+    "question": "39 - [Conclusion] Quelle qualité domine cette symphonie ?",
+    "options": ["Élégance et équilibre", "Tragique", "Humoristique", "Mysticisme"],
+    "answerIndex": 0,
+    "explication": "La symphonie est caractérisée par élégance, équilibre et clarté."
+  },
+  {
+    "question": "40 - [Résumé] Quels éléments définissent l’esthétique du premier mouvement ?",
+    "options": ["Majesté, clarté, équilibre et virtuosité orchestrale", "Humour et improvisation", "Tristesse et dramatique", "Polyphonie stricte"],
+    "answerIndex": 0,
+    "explication": "L’esthétique repose sur majesté, clarté, équilibre et virtuosité orchestrale."
+  }
+]

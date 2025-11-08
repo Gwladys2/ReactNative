@@ -1,0 +1,302 @@
+[
+  {
+    "question": "1 - Quelle période précède immédiatement la période classique ?",
+    "options": [ "Romantique", "Renaissance", "Médiévale","Baroque"],
+    "answerIndex": 3,
+    "explication": "La période baroque (1600–1750) précède la période classique et prépare son évolution stylistique."
+  },
+  {
+    "question": "2 - Quelle période suit la période classique ?",
+    "options": ["Romantique", "Baroque", "Médiévale", "Contemporaine"],
+    "answerIndex": 0,
+    "explication": "Le romantisme (XIXe siècle) succède au classicisme, mettant l'accent sur l'émotion et la subjectivité."
+  },
+  {
+    "question": "3 - Quelle école de musique est connue pour avoir fixé la taille de l’orchestre à environ 40 instruments ?",
+    "options": [ "École de Vienne", "École de Mannheim","École française", "École italienne"],
+    "answerIndex": 1,
+    "explication": "L’École de Mannheim, vers 1740, établit un orchestre d’environ 35 à 40 instruments, équilibrant cordes et vents."
+  },
+  {
+    "question": "4 - Quelle est la principale famille d’instruments dans un orchestre classique ?",
+    "options": [ "Bois", "Cuivres","Cordes", "Percussions"],
+    "answerIndex": 2,
+    "explication": "Les cordes forment la base de l’orchestre classique, soutenues par les bois et cuivres."
+  },
+  {
+    "question": "5 - Quelle famille comprend la flûte et le basson ?",
+    "options": ["Bois", "Cordes", "Cuivres", "Percussions"],
+    "answerIndex": 0,
+    "explication": "La flûte et le basson appartiennent à la famille des bois, qui produit le son par vibration d’air."
+  },
+  {
+    "question": "6 - Le cor et la trompette appartiennent à quelle famille d’instruments ?",
+    "options": [ "Bois", "Cuivres","Cordes", "Percussions"],
+    "answerIndex": 1,
+    "explication": "Les cuivres utilisent les vibrations des lèvres sur une embouchure pour produire le son."
+  },
+  {
+    "question": "7 - Le clavecin et le piano appartiennent à quelle famille ?",
+    "options": [ "Cordes frottées", "Bois", "Percussions","Claviers"],
+    "answerIndex": 3,
+    "explication": "Les instruments à clavier permettent de jouer plusieurs notes à la fois grâce à un mécanisme de touches."
+  },
+  {
+    "question": "8 - Quelle est la définition d’une symphonie ?",
+    "options": ["Œuvre pour orchestre en plusieurs mouvements", "Œuvre vocale religieuse", "Pièce pour soliste", "Danse populaire"],
+    "answerIndex": 0,
+    "explication": "La symphonie est une œuvre orchestrale en plusieurs mouvements, souvent quatre."
+  },
+  {
+    "question": "9 - Combien de mouvements comporte généralement une symphonie classique ?",
+    "options": ["Quatre", "Deux", "Cinq", "Trois"],
+    "answerIndex": 0,
+    "explication": "La forme classique standard d'une symphonie comprend quatre mouvements."
+  },
+  {
+    "question": "10 - Quelle est la structure typique d’une forme sonate ?",
+    "options": [ "Intro – Thème – Coda","Exposition – Développement – Réexposition", "Couplet – Refrain – Pont", "Thème – Variation – Finale"],
+    "answerIndex": 1,
+    "explication": "La forme sonate repose sur l’exposition des thèmes, leur développement, puis leur retour."
+  },
+  {
+    "question": "11 - Que signifie le terme 'menuet' dans une symphonie ?",
+    "options": ["Un passage lent", "Un solo de violon", "Une danse à trois temps", "Une ouverture"],
+    "answerIndex": 2,
+    "explication": "Le menuet est une danse noble à trois temps, souvent le troisième mouvement d’une symphonie."
+  },
+  {
+    "question": "12 - Dans une forme 'rondo', quel élément revient régulièrement ?",
+    "options": ["Le refrain", "Le thème secondaire", "La coda", "L’introduction"],
+    "answerIndex": 0,
+    "explication": "La forme rondo repose sur la répétition d’un refrain principal (A–B–A–C–A...)."
+  },
+  {
+    "question": "13 - Quelle est la fonction d’une 'coda' ?",
+    "options": ["Conclure l’œuvre", "Introduire un thème", "Faire la transition entre sections", "Créer une dissonance"],
+    "answerIndex": 0,
+    "explication": "La coda (mot italien pour 'queue') sert à conclure une pièce musicale."
+  },
+  {
+    "question": "14 - Que désigne un 'pont' musical ?",
+    "options": [ "Une reprise du thème principal", "Une transition entre deux thèmes","Un solo instrumental", "Un ralentissement du tempo"],
+    "answerIndex": 1,
+    "explication": "Le pont ou transition relie deux sections musicales, souvent entre les thèmes principaux."
+  },
+  {
+    "question": "15 - Que signifie 'Adagio' ?",
+    "options": [ "Rapide", "Très rapide", "Modéré","Lent"],
+    "answerIndex": 3,
+    "explication": "Adagio est une indication de tempo lente, souvent expressive."
+  },
+  {
+    "question": "16 - Que signifie 'Andante' ?",
+    "options": [ "Très lent", "Très rapide", "Modéré","Soutenu"],
+    "answerIndex": 2,
+    "explication": "Andante signifie 'en marchant', un tempo modéré et fluide."
+  },
+  {
+    "question": "17 - Quelle indication de tempo signifie 'très rapide' ?",
+    "options": ["Presto", "Andante", "Adagio", "Moderato"],
+    "answerIndex": 0,
+    "explication": "Presto indique un tempo très vif, voire virtuose."
+  },
+  {
+    "question": "18 - Que veut dire 'Con moto' ?",
+    "options": [ "Sans rythme","Avec mouvement", "Très lentement", "De manière hésitante"],
+    "answerIndex": 1,
+    "explication": "Con moto signifie 'avec mouvement', suggérant un tempo plus allant."
+  },
+  {
+    "question": "19 - Quelle est la signification de 'Molto Allegro' ?",
+    "options": [ "Lent et expressif","Très rapide et joyeux", "Triste et grave", "Sans rythme"],
+    "answerIndex": 1,
+    "explication": "‘Molto Allegro’ signifie très rapide et animé, souvent au début ou à la fin d’une œuvre."
+  },
+  {
+    "question": "20 - Quelle ambiance décrit le mieux la musique de Haydn dans sa première période ?",
+    "options": ["Bouffonnerie et gaieté", "Tristesse", "Mysticisme", "Violence émotionnelle"],
+    "answerIndex": 0,
+    "explication": "Haydn cultive l’humour, la légèreté et la bonhomie dans ses premières symphonies."
+  },
+  {
+    "question": "21 - Qu’évoque le terme 'Sturm und Drang' ?",
+    "options": [ "Un style humoristique", "Un retour à la polyphonie", "Une musique religieuse","Une intensité dramatique et émotionnelle"],
+    "answerIndex": 3,
+    "explication": "Le 'Sturm und Drang' est un courant préromantique exprimant passion, révolte et émotions fortes."
+  },
+  {
+    "question": "22 - Quelle œuvre illustre le 'Sturm und Drang' chez Haydn ?",
+    "options": ["Symphonie n°49 « La Passione »", "Symphonie n°8 « Le Soir »", "Symphonie n°87", "Symphonie n°92"],
+    "answerIndex": 0,
+    "explication": "La 'Passione' de Haydn est une œuvre sombre et dramatique typique du Sturm und Drang."
+  },
+  {
+    "question": "23 - Qu’est-ce qu’un 'thème' ?",
+    "options": [ "Une modulation", "Une cadence", "Une idée musicale principale","Un silence"],
+    "answerIndex": 2,
+    "explication": "Le thème est la mélodie principale qui structure une œuvre."
+  },
+  {
+    "question": "24 - Que désigne le terme 'motif' ?",
+    "options": ["Un fragment musical court et répétitif", "Une symphonie entière", "Un passage de transition", "Une cadence finale"],
+    "answerIndex": 0,
+    "explication": "Le motif est une cellule mélodique ou rythmique brève servant de base à un développement."
+  },
+  {
+    "question": "25 - Que signifie 'contrepoint' ?",
+    "options": [ "Accord de trois sons", "Superposition de plusieurs lignes mélodiques indépendantes","Accompagnement rythmique", "Variation d’un thème"],
+    "answerIndex": 1,
+    "explication": "Le contrepoint est l’art d’écrire plusieurs mélodies qui se complètent harmonieusement."
+  },
+  {
+    "question": "26 - Que veut dire 'timbre' ?",
+    "options": ["Hauteur d’un son", "Durée d’une note", "Vitesse du morceau","Couleur sonore propre à chaque instrument" ],
+    "answerIndex": 3,
+    "explication": "Le timbre distingue la sonorité d’un instrument d’un autre, même à hauteur égale."
+  },
+  {
+    "question": "27 - Que signifie 'tonalité' ?",
+    "options": [ "Le volume sonore", "La couleur du timbre", "Le centre harmonique d’une œuvre","Le rythme principal"],
+    "answerIndex": 2,
+    "explication": "La tonalité désigne la hiérarchie des sons autour d’une note principale (tonique)."
+  },
+  {
+    "question": "28 - Que désigne un 'mouvement' dans une symphonie ?",
+    "options": ["Une section complète avec son propre tempo et caractère", "Une mesure rythmique", "Un passage d’accompagnement", "Un instrument soliste"],
+    "answerIndex": 0,
+    "explication": "Chaque symphonie est divisée en mouvements, avec des tempos et ambiances différents."
+  },
+  {
+    "question": "29 - Que signifie 'Vivace' ?",
+    "options": [ "Très lent","Rapide et plein de vie", "Sombre et dramatique", "Calme et statique"],
+    "answerIndex": 1,
+    "explication": "Vivace indique un tempo vif et énergique, souvent joyeux."
+  },
+  {
+    "question": "30 - Quelle qualité caractérise la musique de Mozart selon Paul Dukas ?",
+    "options": [ "Improvisation libre", "Complexité baroque", "Équilibre et sincérité sans artifice","Rigidité structurelle"],
+    "answerIndex": 2,
+    "explication": "Paul Dukas admire chez Mozart la pureté et la sincérité naturelle de sa musique."
+  },
+  {
+    "question": "31 - Quelle est la particularité des trois dernières symphonies de Mozart ?",
+    "options": ["Elles sont sans commande, pure création artistique", "Elles sont des opéras", "Elles ont été commandées par Paris", "Elles comportent un soliste"],
+    "answerIndex": 0,
+    "explication": "Mozart compose ses symphonies 39, 40 et 41 librement, sans commande extérieure."
+  },
+  {
+    "question": "32 - Qu’appelle-t-on un 'quatuor à cordes' ?",
+    "options": [ "Deux violons et deux flûtes", "Deux violons, un alto, un violoncelle","Un violon, un piano, une clarinette", "Un orchestre réduit"],
+    "answerIndex": 1,
+    "explication": "Le quatuor à cordes réunit quatre instruments à cordes frottées : deux violons, alto, violoncelle."
+  },
+  {
+    "question": "33 - Quelle époque musicale met en avant la virtuosité instrumentale et la clarté formelle ?",
+    "options": ["Classique", "Romantique", "Baroque", "Contemporaine"],
+    "answerIndex": 0,
+    "explication": "Le classicisme privilégie l’équilibre, la clarté et la proportion dans la forme."
+  },
+  {
+    "question": "34 - Que désigne 'opéra bouffe' ?",
+    "options": [ "Une messe religieuse", "Un chant a cappella","Un opéra comique italien", "Une fugue instrumentale"],
+    "answerIndex": 2,
+    "explication": "L’opéra bouffe est un opéra italien humoristique et vivant, influençant Mozart."
+  },
+  {
+    "question": "35 - Quel compositeur incarne la transition entre baroque et classique ?",
+    "options": ["Johann Stamitz", "Bach", "Beethoven", "Chopin"],
+    "answerIndex": 0,
+    "explication": "Johann Stamitz, chef à Mannheim, prépare le style classique avec un orchestre équilibré."
+  },
+  {
+    "question": "36 - Quel est le rôle d’une 'introduction' ?",
+    "options": [ "Conclure l’œuvre", "Préparer le thème principal","Relier deux thèmes", "Accélérer le tempo"],
+    "answerIndex": 1,
+    "explication": "L’introduction pose souvent une ambiance lente ou solennelle avant le thème principal."
+  },
+  {
+    "question": "37 - Quelle est la signification de 'Allegro' ?",
+    "options": [ "Très lent", "Modéré", "Rapide et joyeux","Grave"],
+    "answerIndex": 2,
+    "explication": "Allegro signifie rapide et joyeux, utilisé fréquemment dans les premiers mouvements."
+  },
+  {
+    "question": "38 - Quelle est la différence entre 'Adagio' et 'Presto' ?",
+    "options": ["La tonalité", "Le timbre", "La forme","Le tempo"],
+    "answerIndex": 3,
+    "explication": "Adagio est lent tandis que Presto est très rapide — ils marquent deux extrêmes de vitesse."
+  },
+  {
+    "question": "39 - Que signifie 'Sturm und Drang' littéralement ?",
+    "options": ["Tempête et passion", "Paix et sérénité", "Musique et silence", "Force et lenteur"],
+    "answerIndex": 0,
+    "explication": "Le mouvement 'Sturm und Drang' signifie 'Tempête et élan' ou 'Tempête et passion'."
+  },
+  {
+    "question": "40 - Quelle est la fonction d’un 'développement' dans une forme sonate ?",
+    "options": ["Transformer les thèmes présentés", "Introduire une coda", "Accélérer le tempo", "Changer de tonalité définitive"],
+    "answerIndex": 0,
+    "explication": "Le développement explore et transforme les thèmes de l’exposition, souvent en modulant."
+  },
+  {
+    "question": "41 - Que désigne une 'réexposition' ?",
+    "options": [ "Une transition", "Le retour des thèmes initiaux","Une variation", "Une improvisation"],
+    "answerIndex": 1,
+    "explication": "La réexposition ramène les thèmes initiaux après le développement dans la forme sonate."
+  },
+  {
+    "question": "42 - Quel est le caractère d’une 'fugue' ?",
+    "options": [ "Mélodie simple", "Danse populaire", "Superposition de thèmes imitants","Improvisation libre"],
+    "answerIndex": 2,
+    "explication": "La fugue repose sur l’imitation stricte d’un thème entre plusieurs voix."
+  },
+  {
+    "question": "43 - Quelle œuvre de Mozart illustre sa dimension tragique ?",
+    "options": ["Symphonie n°40 en sol mineur K550", "Symphonie n°35 'Haffner'", "Petite musique de nuit", "Don Giovanni"],
+    "answerIndex": 0,
+    "explication": "La Symphonie n°40 de Mozart exprime une profondeur tragique rare pour son époque."
+  },
+  {
+    "question": "44 - Quelle qualité caractérise la musique classique par rapport au baroque ?",
+    "options": ["Clarté et équilibre", "Complexité et surcharge", "Improvisation constante", "Absence de structure"],
+    "answerIndex": 0,
+    "explication": "Le classicisme recherche la clarté, la symétrie et l’équilibre, contrairement au foisonnement baroque."
+  },
+  {
+    "question": "45 - Quelle est la différence entre une symphonie et un concerto ?",
+    "options": ["Nombre de mouvements","Présence d’un soliste dans le concerto",  "Instruments utilisés", "Tonalité"],
+    "answerIndex": 1,
+    "explication": "Le concerto met en avant un soliste dialoguant avec l’orchestre, contrairement à la symphonie."
+  },
+  {
+    "question": "46 - Qu’est-ce qu’une 'variation' ?",
+    "options": [ "Une transition", "Un motif répété identique", "Une coda","Une transformation d’un thème"],
+    "answerIndex": 3,
+    "explication": "Une variation modifie un thème initial par rythme, tonalité ou timbre."
+  },
+ {
+    "question": "47 - Quelle qualité est souvent associée à la musique de Mozart selon ses contemporains ?",
+    "options": ["Grâce et profondeur", "Dureté et tension", "Violence et rupture", "Rigidité et froideur"],
+    "answerIndex": 0,
+    "explication": "La musique de Mozart allie une grâce naturelle à une profondeur expressive, loin d'une simple joliesse."
+  },
+  {
+    "question": "48 - Quelle différence principale distingue Haydn et Mozart dans leur approche symphonique ?",
+    "options": ["Haydn explore l’humour et l’expérimentation, Mozart la perfection formelle", "Mozart écrit plus d’œuvres religieuses que Haydn", "Haydn privilégie le piano seul", "Mozart refuse toute structure classique"],
+    "answerIndex": 0,
+    "explication": "Haydn est l’expérimentateur plein d’humour ; Mozart vise l’équilibre absolu et la beauté formelle."
+  },
+  {
+    "question": "49 - Quelle est la particularité des symphonies 39, 40 et 41 de Mozart ?",
+    "options": [ "Elles sont des œuvres religieuses", "Elles n’ont pas été commandées et sont purement créatives","Elles n’utilisent pas de vents", "Elles sont écrites pour un chœur"],
+    "answerIndex": 1,
+    "explication": "Mozart compose ses dernières symphonies librement, sans commande, dans un pur élan artistique."
+  },
+  {
+    "question": "50 - Quelle phrase résume le mieux l’esthétique classique ?",
+    "options": [ "Démesure, contraste et drame", "Improvisation et liberté totale", "Équilibre, clarté et proportion","Répétition et dissonance"],
+    "answerIndex": 2,
+    "explication": "L’esthétique classique valorise l’équilibre formel, la clarté du discours musical et la proportion harmonieuse."
+  }
+]
