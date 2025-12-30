@@ -11,8 +11,8 @@ const HomeScreen2 = ({ navigation }) => {
     { label: "Philosophie de l'éducation", screen: 'PhiloEducation' },
     { label: "Lettres et Arts", screen: 'LettresArts' },
     { label: "Analyse de l'Arts", screen: 'AnalyseArts' },
-    { label: "Histoire de la musique", screen: 'HistoireMusique' }
-   
+    { label: "Histoire de la musique", screen: 'HistoireMusique' },
+    { label: "Métier de l'étudiant", screen: 'MetierEtudiant1' }
   ];
 
   return (

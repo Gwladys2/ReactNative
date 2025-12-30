@@ -81,14 +81,21 @@ export default function LessonScreen({ navigation }) {
             )}
 
        <View style={styles.linkContainer}>
-                                <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue')}> 🌼Freinet 1</Text>
-                              <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue2')}> 🌼Freinet 2</Text>
-                               <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue3')}> 🌼Montessori 1</Text>
-                                <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue4')}> 🌼Montessori 2</Text>
-                                <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue5')}> 🌼Neill</Text>
-                              <Text style={styles.link} onPress={() => navigation.navigate('CitationNeill')}>🌼citations Neill</Text>
-                               <Text style={styles.link} onPress={() => navigation.navigate('CitationMontessori')}>🌼citations Montessori</Text>
-                               <Text style={styles.link} onPress={() => navigation.navigate('CitationFreinet')}>🌼citations Freinet</Text>
+                                 <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue')}> 🌼Freinet 1</Text>
+                                                                <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue2')}> 🌼Freinet 2</Text>
+                                                               <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue3')}>🌼 Montessori 1</Text>
+                                                                <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue4')}> 🌼Montessori 2</Text>
+                                                                <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue5')}>🌼 Neill</Text>
+                                                                <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue6')}>🌼 Neill partie 2</Text>
+                                                                <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue7')}>🌼 Oury </Text>
+                                                                <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue8')}>🌼 Pédagogie Institutionnelle</Text>
+                                                                <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue9')}>🌼 Korczak</Text>
+                                                                <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue10')}>🌼 Histoire de la pédagogie</Text>
+                                                                <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue11')}>🌼 Charalampopoulou</Text>
+                                                                <Text style={styles.link} onPress={() => navigation.navigate('CitationNeill')}>🌼Citations Neill</Text>
+                                                                 <Text style={styles.link} onPress={() => navigation.navigate('CitationMontessori')}>🌼Citations Montessori</Text>
+                                                                 <Text style={styles.link} onPress={() => navigation.navigate('CitationFreinet')}>🌼Citations Freinet</Text>
+                                                                 <Text style={styles.link} onPress={() => navigation.navigate('QuiAditQuoi')}>🌼Qui A dit quoi?</Text>  
                                </View>
        
                 </ScrollView>

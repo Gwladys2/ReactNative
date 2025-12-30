@@ -1,0 +1,553 @@
+[
+  {
+    "question": "1 - Qui est l’auteur du tableau « Des glaneuses » ?",
+    "options": ["Gustave Courbet", "Jean-François Millet", "Rosa Bonheur", "Camille Corot"],
+    "answerIndex": 1,
+    "explication": "Le tableau est peint par Jean-François Millet (1814-1875), figure majeure du réalisme rural."
+  },
+  {
+    "question": "2 - En quelle année le tableau « Des glaneuses » est-il réalisé ?",
+    "options": ["1849", "1853", "1857", "1865"],
+    "answerIndex": 2,
+    "explication": "Le tableau est peint et exposé au Salon de 1857."
+  },
+  {
+    "question": "3 - Où est conservé aujourd’hui « Des glaneuses » ?",
+    "options": ["Musée du Louvre", "Musée d’Orsay", "Metropolitan Museum", "National Gallery"],
+    "answerIndex": 1,
+    "explication": "L’œuvre est conservée au musée d’Orsay à Paris."
+  },
+  {
+    "question": "4 - Quelle est la technique utilisée par Millet ?",
+    "options": ["Aquarelle", "Pastel", "Huile sur toile", "Fresque"],
+    "answerIndex": 2,
+    "explication": "« Des glaneuses » est une huile sur toile."
+  },
+  {
+    "question": "5 - Quel est le format approximatif du tableau ?",
+    "options": ["50 × 70 cm", "83,5 × 110 cm", "150 × 200 cm", "250 × 500 cm"],
+    "answerIndex": 1,
+    "explication": "Le tableau mesure 83,5 × 110 cm, un format relativement important pour une scène de genre."
+  },
+
+  {
+    "question": "6 - De quel milieu social Jean-François Millet est-il issu ?",
+    "options": ["Bourgeois urbain", "Famille d’artistes", "Famille de paysans aisés", "Noblesse rurale"],
+    "answerIndex": 2,
+    "explication": "Millet est né dans une famille de paysans aisés du Cotentin."
+  },
+  {
+    "question": "7 - Jusqu’à quel âge Millet travaille-t-il à la ferme ?",
+    "options": ["15 ans", "18 ans", "25 ans", "20 ans"],
+    "answerIndex": 3,
+    "explication": "Il travaille à la ferme jusqu’à l’âge de vingt ans."
+  },
+  {
+    "question": "8 - Où Millet commence-t-il sa formation artistique ?",
+    "options": ["À Cherbourg","À Paris", "À Barbizon",  "À Rouen"],
+    "answerIndex": 0,
+    "explication": "Son père l’inscrit en 1835 à Cherbourg dans l’atelier du peintre Du Mouchel."
+  },
+  {
+    "question": "9 - À partir de quelle date Millet se consacre-t-il aux scènes paysannes ?",
+    "options": ["1835", "1849", "1840", "1857"],
+    "answerIndex": 1,
+    "explication": "Cette thématique apparaît à partir de 1849, lorsqu’il s’installe à Barbizon."
+  },
+  {
+    "question": "10 - Quels sujets peignait-il avant cette période ?",
+    "options": [
+      "Uniquement des paysages",
+      "Des scènes pastorales, historiques et mythologiques",
+      "Des scènes industrielles",
+      "Des scènes religieuses uniquement"
+    ],
+    "answerIndex": 1,
+    "explication": "Avant 1849, Millet travaille dans un style académique avec des sujets variés."
+  },
+
+  {
+    "question": "11 - Que signifie le terme « glanage » ?",
+    "options": [
+      "La récolte principale",
+      "Le vol de récoltes",
+      "Le ramassage des restes après la moisson",
+      "La vente de céréales"
+    ],
+    "answerIndex": 2,
+    "explication": "Le glanage consiste à ramasser ce qui reste au sol après la récolte."
+  },
+  {
+    "question": "12 - Le glanage est-il légal au XIXe siècle ?",
+    "options": ["Oui, c’est un droit coutumier","Non",  "Seulement pour les enfants", "Uniquement avec paiement"],
+    "answerIndex": 0,
+    "explication": "Le glanage est un droit coutumier hérité du Moyen Âge."
+  },
+  {
+    "question": "13 - À qui le glanage est-il destiné principalement ?",
+    "options": [
+      "Aux propriétaires terriens",
+      "Aux paysans riches",
+      "Aux paysans pauvres",
+      "Aux marchands"
+    ],
+    "answerIndex": 2,
+    "explication": "Il permet aux paysans pauvres d’obtenir un complément alimentaire."
+  },
+  {
+    "question": "14 - Avec quoi ne faut-il pas confondre le glanage ?",
+    "options": ["La moisson", "Le maraudage", "La fenaison", "La récolte"],
+    "answerIndex": 1,
+    "explication": "Le maraudage est un vol, contrairement au glanage qui est licite."
+  },
+  {
+    "question": "15 - À quel courant artistique se rattache Millet ?",
+    "options": ["Romantisme", "Classicisme", "Réalisme", "Symbolisme"],
+    "answerIndex": 2,
+    "explication": "Millet est rattaché au courant réaliste."
+  },
+
+  {
+    "question": "16 - Que remet en cause le réalisme face à l’académisme ?",
+    "options": [
+      "La perspective",
+      "La hiérarchie des genres",
+      "La peinture à l’huile",
+      "Le dessin"
+    ],
+    "answerIndex": 1,
+    "explication": "Le réalisme remet en cause la hiérarchie qui place la peinture d’histoire au sommet."
+  },
+  {
+    "question": "17 - Quel genre était considéré comme secondaire par l’académisme ?",
+    "options": [
+      "La peinture mythologique",
+      "La peinture religieuse",
+      "La peinture d’histoire",
+      "Le paysage et la scène de genre"
+    ],
+    "answerIndex": 3,
+    "explication": "Le paysage et la scène de genre étaient jugés inférieurs."
+  },
+  {
+    "question": "18 - Selon Poussin, que doit dominer dans la composition ?",
+    "options": ["L’émotion", "La spontanéité", "La raison", "La couleur"],
+    "answerIndex": 2,
+    "explication": "Pour Poussin, la raison doit dominer l’émotion."
+  },
+  {
+    "question": "19 - Où se réalise traditionnellement la composition académique ?",
+    "options": ["En atelier","En plein air", "Dans la nature",  "Dans les champs"],
+    "answerIndex": 0,
+    "explication": "La composition académique est conçue en atelier."
+  },
+  {
+    "question": "20 - Quel objectif poursuivent les peintres réalistes ?",
+    "options": [
+      "Idéaliser la nature",
+      "Reproduire la réalité observée",
+      "Peindre des mythes",
+      "Éviter les scènes quotidiennes"
+    ],
+    "answerIndex": 1,
+    "explication": "Ils cherchent à représenter la réalité sans l’idéaliser."
+  },
+
+  {
+    "question": "21 - Où Millet s’installe-t-il à partir de 1849 ?",
+    "options": ["Paris", "Cherbourg", "Barbizon", "Rouen"],
+    "answerIndex": 2,
+    "explication": "Il s’installe à Barbizon, lieu central du réalisme paysager."
+  },
+  {
+    "question": "22 - Que désigne l’École de Barbizon ?",
+    "options": [
+      "Une école officielle",
+      "Une académie de dessin",
+      "Un style religieux",
+      "Une communauté d’artistes"
+    ],
+    "answerIndex": 3,
+    "explication": "Il s’agit d’une communauté d’orientation artistique, pas d’une école au sens strict."
+  },
+  {
+    "question": "23 - Quel peintre anglais est cité comme précurseur du réalisme ?",
+    "options": ["Turner", "Constable", "Reynolds", "Blake"],
+    "answerIndex": 1,
+    "explication": "John Constable réalisait des esquisses en plein air."
+  },
+  {
+    "question": "24 - Quel peintre français s’installe durablement à Barbizon ?",
+    "options": ["Courbet", "Rousseau", "Millet", "Delacroix"],
+    "answerIndex": 1,
+    "explication": "Théodore Rousseau s’installe à Barbizon après des refus au Salon."
+  },
+  {
+    "question": "25 - Quelle singularité distingue Millet des autres peintres de Barbizon ?",
+    "options": [
+      "Il rejette toute composition",
+      "Il peint uniquement en plein air",
+      "Il refuse le dessin",
+      "Il conserve une composition classique"
+    ],
+    "answerIndex": 3,
+    "explication": "Millet conserve un modèle classique appliqué à des scènes paysannes."
+  },
+
+  {
+    "question": "26 - Combien de glaneuses sont représentées au premier plan ?",
+    "options": ["Deux", "Trois", "Quatre", "Cinq"],
+    "answerIndex": 1,
+    "explication": "Trois paysannes glanent au premier plan."
+  },
+  {
+    "question": "27 - Que voit-on à l’arrière-plan du tableau ?",
+    "options": [
+      "Une ville",
+      "Une scène religieuse",
+      "La fin de la moisson",
+      "Une forêt"
+    ],
+    "answerIndex": 2,
+    "explication": "La moisson s’achève sous la surveillance du propriétaire ou régisseur."
+  },
+  {
+    "question": "28 - Quelle impression générale se dégage du tableau ?",
+    "options": [
+      "L’idéalisation",
+      "La fantaisie",
+      "La vérité et la justesse",
+      "La caricature"
+    ],
+    "answerIndex": 2,
+    "explication": "L’œuvre donne une impression de vérité liée à l’expérience vécue de Millet."
+  },
+  {
+    "question": "29 - Quelle caractéristique classique structure la composition ?",
+    "options": [
+      "L’asymétrie",
+      "La diagonale",
+      "La quasi-symétrie",
+      "Le désordre"
+    ],
+    "answerIndex": 2,
+    "explication": "La quasi-symétrie résulte de la place centrale des trois glaneuses."
+  },
+  {
+    "question": "30 - Comment se manifeste l’importance du dessin ?",
+    "options": [
+      "Par l’effacement des formes",
+      "Par les contours apparents",
+      "Par les couleurs vives",
+      "Par l’abstraction"
+    ],
+    "answerIndex": 1,
+    "explication": "Les contours apparents délimitent nettement les figures."
+  },
+
+  {
+    "question": "31 - À quel moment de la journée correspond la lumière ?",
+    "options": ["Midi", "Matin", "Couchant", "Nuit"],
+    "answerIndex": 2,
+    "explication": "La lumière atténuée est celle du soleil couchant."
+  },
+  {
+    "question": "32 - Quelle atmosphère chromatique domine ?",
+    "options": ["Froide", "Dorée", "Sombre", "Violente"],
+    "answerIndex": 1,
+    "explication": "L’ensemble baigne dans une atmosphère dorée."
+  },
+  {
+    "question": "33 - Quelles couleurs ressortent particulièrement ?",
+    "options": [
+      "Les couleurs secondaires",
+      "Les couleurs pastel",
+      "Les trois couleurs primaires",
+      "Le noir et le blanc"
+    ],
+    "answerIndex": 2,
+    "explication": "Les bonnets des glaneuses font ressortir les trois couleurs primaires."
+  },
+  {
+    "question": "34 - Combien d’années de recherche Millet consacre-t-il au thème ?",
+    "options": ["Trois", "Dix", "Vingt", "Cinq"],
+    "answerIndex": 3,
+    "explication": "Le tableau est l’aboutissement de dix années de recherches."
+  },
+  {
+    "question": "35 - Que représentent les postures des glaneuses ?",
+    "options": [
+      "Des attitudes décoratives",
+      "Des étapes du mouvement",
+      "Des poses religieuses",
+      "Des symboles mythologiques"
+    ],
+    "answerIndex": 1,
+    "explication": "Chaque posture correspond à une phase du glanage."
+  },
+
+  {
+    "question": "36 - Comment Millet évite-t-il le misérabilisme ?",
+    "options": [
+      "Par l’humour",
+      "Par la caricature",
+      "Par l’idéalisation",
+      "Par des procédés sobres et dignes"
+    ],
+    "answerIndex": 3,
+    "explication": "Il confère aux glaneuses une dignité sans pathos excessif."
+  },
+  {
+    "question": "37 - Quelle opposition structure le tableau ?",
+    "options": [
+      "Ville / campagne",
+      "Pauvreté / abondance",
+      "Jour / nuit",
+      "Jeunes / vieux"
+    ],
+    "answerIndex": 1,
+    "explication": "Les glaneuses pauvres s’opposent à l’abondance de la moisson au loin."
+  },
+  {
+    "question": "38 - Quel effet produit le changement d’échelle ?",
+    "options": [
+      "Il rapproche les plans",
+      "Il éloigne l’arrière-plan",
+      "Il aplanit la scène",
+      "Il crée un désordre"
+    ],
+    "answerIndex": 1,
+    "explication": "Le foisonnement du fond paraît plus lointain."
+  },
+  {
+    "question": "39 - Quel effet a la lumière rasante ?",
+    "options": [
+      "Elle efface les formes",
+      "Elle assombrit le tableau",
+      "Elle neutralise les couleurs",
+      "Elle accentue les volumes"
+    ],
+    "answerIndex": 3,
+    "explication": "Elle donne aux glaneuses un aspect sculptural."
+  },
+  {
+    "question": "40 - Que souligne particulièrement la lumière ?",
+    "options": [
+      "Les mains, nuques et dos",
+      "Les visages",
+      "Les outils",
+      "Le ciel"
+    ],
+    "answerIndex": 0,
+    "explication": "La lumière met en valeur les parties du corps au travail."
+  },
+
+  {
+    "question": "41 - Que symbolisent les oiseaux dans le ciel ?",
+    "options": [
+      "La liberté",
+      "La menace",
+      "La richesse",
+      "La fête"
+    ],
+    "answerIndex": 1,
+    "explication": "Ils soulignent la précarité de la situation des glaneuses."
+  },
+  {
+    "question": "42 - Où le tableau est-il exposé pour la première fois ?",
+    "options": ["Salon de 1857","Salon de 1853",  "Exposition universelle", "Galerie privée"],
+    "answerIndex": 0,
+    "explication": "Le tableau est présenté au Salon de 1857."
+  },
+  {
+    "question": "43 - Quel reproche font les critiques académiques ?",
+    "options": [
+      "Le sujet est trop mythologique",
+      "La composition est trop classique",
+      "La scène de genre est trop ambitieuse",
+      "Le dessin est maladroit"
+    ],
+    "answerIndex": 2,
+    "explication": "Ils jugent scandaleux d’appliquer une composition noble à une scène paysanne."
+  },
+  {
+    "question": "44 - Que reproche Paul de Saint-Victor aux glaneuses ?",
+    "options": [
+      "Leur réalisme",
+      "Leur dignité",
+      "Leur richesse",
+      "Leur prétendue laideur"
+    ],
+    "answerIndex": 3,
+    "explication": "Il critique violemment leur apparence et le traitement pictural."
+  },
+  {
+    "question": "45 - Qui reconnaît au contraire la grandeur de l’œuvre ?",
+    "options": ["Baudelaire", "Zola", "Edmond About", "Courbet"],
+    "answerIndex": 2,
+    "explication": "Edmond About perçoit la grandeur et la sérénité du tableau."
+  },
+
+  {
+    "question": "46 - À quoi Edmond About compare-t-il presque le tableau ?",
+    "options": [
+      "Une peinture mythologique",
+      "Une fresque antique",
+      "Un paysage romantique",
+      "Une peinture religieuse"
+    ],
+    "answerIndex": 3,
+    "explication": "Il évoque une impression proche de la peinture religieuse."
+  },
+  {
+    "question": "47 - Pourquoi parle-t-on d’une dimension religieuse ?",
+    "options": [
+      "À cause du sujet biblique",
+      "À cause de la composition classique",
+      "À cause des couleurs",
+      "À cause des personnages"
+    ],
+    "answerIndex": 1,
+    "explication": "La composition inspirée de Poussin était réservée aux thèmes religieux ou mythologiques."
+  },
+  {
+    "question": "48 - Quelle valeur morale est associée aux glaneuses ?",
+    "options": ["La révolte", "La richesse", "L’humilité et la dignité", "La soumission"],
+    "answerIndex": 2,
+    "explication": "Elles incarnent une pauvreté digne et humble."
+  },
+  {
+    "question": "49 - Quelle vision de la condition humaine se dégage du tableau ?",
+    "options": [
+      "Optimiste",
+      "Idéalisée",
+      "Tragique et digne",
+      "Ironique"
+    ],
+    "answerIndex": 2,
+    "explication": "La condition humaine est montrée comme une lutte de survie en harmonie avec la nature."
+  },
+  {
+    "question": "50 - Pourquoi l’œuvre est-elle emblématique du réalisme ?",
+    "options": [
+      "Elle idéalise la campagne",
+      "Elle montre la réalité sociale",
+      "Elle est abstraite",
+      "Elle est mythologique"
+    ],
+    "answerIndex": 1,
+    "explication": "Elle représente avec vérité la vie des paysans pauvres."
+  },
+
+  {
+    "question": "51 - Quelle place occupe la nature dans le tableau ?",
+    "options": [
+      "Décorative",
+      "Hostile",
+      "Partenaire du travail humain",
+      "Secondaire"
+    ],
+    "answerIndex": 2,
+    "explication": "La nature est indissociable du travail et de la survie."
+  },
+  {
+    "question": "52 - Pourquoi peut-on parler d’une œuvre méditative ?",
+    "options": [
+      "Par son agitation",
+      "Par sa lenteur et sa sobriété",
+      "Par son humour",
+      "Par sa narration"
+    ],
+    "answerIndex": 1,
+    "explication": "Le rythme lent invite à la contemplation."
+  },
+  {
+    "question": "53 - Quelle rupture Millet opère-t-il ?",
+    "options": [
+      "Avec la peinture d’histoire",
+      "Avec le dessin",
+      "Avec la couleur",
+      "Avec la perspective"
+    ],
+    "answerIndex": 0,
+    "explication": "Il applique une composition noble à une scène de genre."
+  },
+  {
+    "question": "54 - Quelle qualité domine dans le traitement des figures ?",
+    "options": [
+      "La caricature",
+      "La sobriété",
+      "L’exagération",
+      "La fantaisie"
+    ],
+    "answerIndex": 1,
+    "explication": "Les procédés plastiques sont simples et sobres."
+  },
+  {
+    "question": "55 - Pourquoi les glaneuses ont-elles une valeur d’emblème ?",
+    "options": [
+      "Elles représentent des individus précis",
+      "Elles racontent une anecdote",
+      "Elles sont célèbres",
+      "Elles symbolisent une condition universelle"
+    ],
+    "answerIndex": 3,
+    "explication": "Elles incarnent la pauvreté digne et universelle."
+  },
+
+  {
+    "question": "56 - Quel lien existe entre composition et message ?",
+    "options": [
+      "Aucun",
+      "La composition renforce la dignité",
+      "La composition affaiblit le sujet",
+      "La composition est décorative"
+    ],
+    "answerIndex": 1,
+    "explication": "La composition classique confère grandeur et respect au sujet."
+  },
+  {
+    "question": "57 - Pourquoi l’œuvre a-t-elle suscité un scandale ?",
+    "options": [
+      "Par sa violence",
+      "Par son sujet religieux",
+      "Par son ambition formelle",
+      "Par sa technique"
+    ],
+    "answerIndex": 2,
+    "explication": "Elle rivalise avec des compositions nobles malgré un sujet modeste."
+  },
+  {
+    "question": "58 - Quelle impression domine à distance ?",
+    "options": [
+      "Le chaos",
+      "La sérénité",
+      "La peur",
+      "La fête"
+    ],
+    "answerIndex": 1,
+    "explication": "Edmond About évoque une impression de grandeur et de sérénité."
+  },
+  {
+    "question": "59 - Pourquoi l’œuvre dépasse-t-elle la simple scène de genre ?",
+    "options": [
+      "Par son abstraction",
+      "Par sa narration",
+      "Par son humour",
+      "Par sa dimension spirituelle"
+    ],
+    "answerIndex": 3,
+    "explication": "Elle touche à une réflexion profonde sur la condition humaine."
+  },
+  {
+    "question": "60 - Quelle est la portée majeure de « Des glaneuses » ?",
+    "options": [
+      "Décorative",
+      "Esthétique uniquement",
+      "Artistique, sociale et spirituelle",
+      "Politique"
+    ],
+    "answerIndex": 2,
+    "explication": "Le tableau unit réalisme social, dignité humaine et profondeur spirituelle."
+  }
+]

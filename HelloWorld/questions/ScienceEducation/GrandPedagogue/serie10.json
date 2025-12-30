@@ -1,0 +1,561 @@
+[
+  {
+    "question": "1 - Qu’est-ce que l’« éducation nouvelle » ?",
+    "options": [
+      "Une méthode récente apparue au XXIe siècle",
+      "Un courant pédagogique apparu à la fin du XIXe siècle",
+      "Un programme officiel de l’Éducation nationale",
+      "Une discipline universitaire"
+    ],
+    "answerIndex": 1,
+    "explication": "L’éducation nouvelle est un courant pédagogique qui apparaît à la fin du XIXe siècle et se développe surtout au début du XXe siècle, en réaction à l’école traditionnelle."
+  },
+  {
+    "question": "2 - À quelle période l’éducation nouvelle se développe-t-elle principalement ?",
+    "options": [
+      "Au Moyen Âge",
+      "Au XVIIIe siècle",
+      "Dans la première moitié du XXe siècle",
+      "Après 1980"
+    ],
+    "answerIndex": 2,
+    "explication": "Même si ses racines sont plus anciennes, l’éducation nouvelle se structure surtout entre 1900 et 1950."
+  },
+  {
+    "question": "3 - Quelle organisation internationale est créée en 1921 ?",
+    "options": [
+      "La Ligue internationale pour l’éducation nouvelle",
+      "L’UNESCO", 
+      "L’ONU",
+      "Le ministère de l’Éducation"
+    ],
+    "answerIndex": 0,
+    "explication": "La Ligue internationale pour l’éducation nouvelle permet de diffuser et coordonner les idées du mouvement à l’échelle mondiale."
+  },
+  {
+    "question": "4 - Lequel de ces pédagogues appartient à l’éducation nouvelle ?",
+    "options": [
+      "Durkheim",
+      "Bourdieu",
+      "Célestin Freinet",
+      "Comte"
+    ],
+    "answerIndex": 2,
+    "explication": "Freinet est une figure majeure de l’éducation nouvelle, comme Montessori, Dewey, Neill ou Korczak."
+  },
+  {
+    "question": "5 - Quelle idée centrale caractérise l’éducation nouvelle ?",
+    "options": [
+      "L’enfant apprend en écoutant",
+      "L’enfant apprend en faisant",
+      "L’enfant apprend en répétant",
+      "L’enfant apprend en obéissant"
+    ],
+    "answerIndex": 1,
+    "explication": "L’éducation nouvelle repose sur l’idée que l’apprentissage passe par l’action, l’expérience et la participation active."
+  },
+
+  {
+    "question": "6 - Comment les projets sont-ils envisagés dans l’éducation nouvelle ?",
+    "options": [
+      "Petits exercices isolés",
+      "Activités uniquement scolaires",
+      "Travaux individuels imposés",
+      "Projets proches de la vie réelle"
+    ],
+    "answerIndex": 3,
+    "explication": "Les pédagogues de l’éducation nouvelle souhaitent proposer des projets concrets, ayant du sens pour les élèves."
+  },
+  {
+    "question": "7 - Comment se construisent les savoirs selon l’éducation nouvelle ?",
+    "options": [
+      "Par mémorisation des programmes",
+      "Par l’expérience vécue",
+      "Par la sanction",
+      "Par la récitation"
+    ],
+    "answerIndex": 1,
+    "explication": "Les savoirs se construisent à partir de l’expérience, et non par l’arbitraire des programmes."
+  },
+  {
+    "question": "8 - Quelle est la place des règles dans l’éducation nouvelle ?",
+    "options": [
+      "Imposées par l’enseignant",
+      "Inexistantes",
+      "Construites collectivement",
+      "Punies systématiquement"
+    ],
+    "answerIndex": 2,
+    "explication": "Les règles doivent émaner du collectif afin de former des citoyens."
+  },
+  {
+    "question": "9 - Sur quoi doit se fonder l’éducation selon ce courant ?",
+    "options": [
+      "La liberté",
+      "La contrainte",
+      "La peur",
+      "La sélection"
+    ],
+    "answerIndex": 0,
+    "explication": "L’éducation nouvelle privilégie la liberté plutôt que la contrainte arbitraire."
+  },
+  {
+    "question": "10 - Quelle notion affirme que tout être humain peut apprendre ?",
+    "options": [
+      "La sélection",
+      "L’éducabilité",
+      "La normalisation",
+      "L’élitisme"
+    ],
+    "answerIndex": 1,
+    "explication": "Le principe d’éducabilité affirme que tout être humain est capable d’apprendre."
+  },
+
+  {
+    "question": "11 - Comment l’école est-elle pensée dans l’éducation nouvelle ?",
+    "options": [
+      "Centrée sur l’enseignant",
+      "Centrée sur les savoirs",
+      "Centrée sur l’enfant",
+      "Centrée sur les notes"
+    ],
+    "answerIndex": 2,
+    "explication": "L’enfant est placé au centre du dispositif éducatif."
+  },
+  {
+    "question": "12 - Quelle importance est accordée à la relation pédagogique ?",
+    "options": [
+      "Secondaire",
+      "Inutile",
+      "Dangereuse",
+      "Primordiale"
+    ],
+    "answerIndex": 3,
+    "explication": "La relation pédagogique est centrale et suppose respect et estime de soi."
+  },
+  {
+    "question": "13 - Comment est considéré le corps de l’enfant ?",
+    "options": [
+      "Comme un obstacle",
+      "Comme une contrainte",
+      "Comme un moyen d’expression",
+      "Comme un danger"
+    ],
+    "answerIndex": 2,
+    "explication": "Le corps est reconnu comme une dimension essentielle de l’apprentissage."
+  },
+  {
+    "question": "14 - Quel milieu est privilégié par l’éducation nouvelle ?",
+    "options": [
+      "Le milieu artificiel",
+      "Le milieu naturel",
+      "Le milieu strictement scolaire",
+      "Le milieu virtuel"
+    ],
+    "answerIndex": 1,
+    "explication": "Le milieu naturel est perçu comme éducatif et formateur."
+  },
+  {
+    "question": "15 - Quelle place est accordée à la créativité ?",
+    "options": [
+      "Elle est encouragée",
+      "Elle est marginale",
+      "Elle est découragée",
+      "Elle est sanctionnée"
+    ],
+    "answerIndex": 0,
+    "explication": "La créativité est encouragée par les activités artistiques et l’émotion esthétique."
+  },
+
+  {
+    "question": "16 - Quel type de socialisation est favorisé ?",
+    "options": [
+      "La compétition",
+      "La coopération",
+      "La sélection",
+      "L’isolement"
+    ],
+    "answerIndex": 1,
+    "explication": "La coopération entre pairs est au cœur de l’éducation nouvelle."
+  },
+  {
+    "question": "17 - Pourquoi le lieu de vie est-il éducatif ?",
+    "options": [
+      "Il discipline",
+      "Il conditionne",
+      "Il influence les apprentissages",
+      "Il isole"
+    ],
+    "answerIndex": 2,
+    "explication": "La matérialité des lieux participe à l’éducation."
+  },
+  {
+    "question": "18 - Dans quelles sciences s’inscrit la pédagogie ?",
+    "options": [
+      "Sciences humaines et sociales",
+      "Sciences exactes",
+      "Sciences économiques",
+      "Sciences naturelles"
+    ],
+    "answerIndex": 0,
+    "explication": "La pédagogie s’appuie sur la psychologie, la sociologie et l’anthropologie."
+  },
+  {
+    "question": "19 - Quelle pédagogie est favorisée ?",
+    "options": [
+      "Uniforme",
+      "Sélective",
+      "Différenciée",
+      "Autoritaire"
+    ],
+    "answerIndex": 2,
+    "explication": "La pédagogie différenciée permet de respecter les rythmes et besoins des élèves."
+  },
+  {
+    "question": "20 - Que signifie « théories-pratiques » ?",
+    "options": [
+      "Des théories abstraites",
+      "Des pratiques sans réflexion",
+      "Des dogmes",
+      "Des allers-retours entre théorie et pratique"
+    ],
+    "answerIndex": 3,
+    "explication": "Les pédagogues expérimentent, observent et théorisent à partir de la pratique."
+  },
+
+  {
+    "question": "21 - Quelle valeur issue de la Révolution française favorise l’éducation nouvelle ?",
+    "options": [
+      "La hiérarchie",
+      "L’égalité",
+      "La sélection",
+      "L’obéissance"
+    ],
+    "answerIndex": 1,
+    "explication": "L’égalité se traduit par le principe d’éducabilité."
+  },
+  {
+    "question": "22 - Pourquoi les guerres ont-elles favorisé ce courant ?",
+    "options": [
+      "Pour promouvoir la fraternité",
+      "Pour renforcer la discipline",
+      "Pour sélectionner les élites",
+      "Pour imposer l’autorité"
+    ],
+    "answerIndex": 0,
+    "explication": "L’éducation est perçue comme un moyen d’éviter de nouvelles violences."
+  },
+  {
+    "question": "23 - Comment évolue le regard sur l’enfance ?",
+    "options": [
+      "L’enfant est un adulte miniature",
+      "L’enfant est porteur de spécificités",
+      "L’enfant est dangereux",
+      "L’enfant est inachevé"
+    ],
+    "answerIndex": 1,
+    "explication": "L’enfant est reconnu comme un être spécifique."
+  },
+  {
+    "question": "24 - Quelle discipline scientifique soutient ce changement ?",
+    "options": [
+      "La philosophie antique",
+      "La théologie",
+      "L’économie",
+      "La psychologie du développement"
+    ],
+    "answerIndex": 3,
+    "explication": "Les travaux de la psychologie du développement apportent des bases scientifiques."
+  },
+  {
+    "question": "25 - Contre quoi l’éducation nouvelle s’inscrit-elle ?",
+    "options": [
+      "La pédagogie active",
+      "La coopération",
+      "L’éducation traditionnelle",
+      "L’autonomie"
+    ],
+    "answerIndex": 2,
+    "explication": "Elle se construit en opposition à l’école traditionnelle."
+  },
+
+  {
+    "question": "26 - Qu’est-ce que le magistrocentrisme ?",
+    "options": [
+      "Centration sur l’enseignant",
+      "Centration sur l’élève",
+      "Centration sur le collectif",
+      "Centration sur le projet"
+    ],
+    "answerIndex": 0,
+    "explication": "Le magistrocentrisme place l’enseignant au centre du dispositif."
+  },
+  {
+    "question": "27 - Que critique le didactisme ?",
+    "options": [
+      "La transmission des savoirs",
+      "La coopération",
+      "La liberté",
+      "La centration excessive sur les savoirs"
+    ],
+    "answerIndex": 3,
+    "explication": "Le didactisme privilégie les contenus au détriment de l’enfant."
+  },
+  {
+    "question": "28 - Quelle est la critique de l’autoritarisme ?",
+    "options": [
+      "Il favorise la liberté",
+      "Il impose sans discussion",
+      "Il encourage la réflexion",
+      "Il développe l’autonomie"
+    ],
+    "answerIndex": 1,
+    "explication": "L’autoritarisme impose des normes sans participation."
+  },
+  {
+    "question": "29 - Que désigne la forme scolaire ?",
+    "options": [
+      "Un programme",
+      "Une méthode",
+      "Un mode de socialisation",
+      "Une sanction"
+    ],
+    "answerIndex": 2,
+    "explication": "La forme scolaire est une organisation spécifique de l’apprentissage."
+  },
+  {
+    "question": "30 - Quelle caractéristique définit la forme scolaire ?",
+    "options": [
+      "Temps séparé pour apprendre",
+      "Temps libre",
+      "Absence de règles",
+      "Improvisation"
+    ],
+    "answerIndex": 0,
+    "explication": "L’apprentissage est séparé des autres pratiques sociales."
+  },
+
+  {
+    "question": "31 - Quelle est la définition de la pédagogie ?",
+    "options": [
+      "Une science exacte",
+      "Une activité visant à développer des apprentissages",
+      "Un programme",
+      "Une méthode unique"
+    ],
+    "answerIndex": 1,
+    "explication": "La pédagogie est une activité, pas une science."
+  },
+  {
+    "question": "32 - Pourquoi la pédagogie n’est-elle pas une science ?",
+    "options": [
+      "Elle est inutile",
+      "Elle est normative",
+      "Elle repose sur l’action",
+      "Elle est abstraite"
+    ],
+    "answerIndex": 2,
+    "explication": "C’est une théorie pratique, fondée sur l’expérimentation."
+  },
+  {
+    "question": "33 - Qui est le pédagogue ?",
+    "options": [
+      "Un théoricien",
+      "Un chercheur uniquement",
+      "Un technicien",
+      "Un praticien réflexif"
+    ],
+    "answerIndex": 3,
+    "explication": "Le pédagogue est un homme de terrain."
+  },
+  {
+    "question": "34 - Que représente le triangle pédagogique ?",
+    "options": [
+      "Trois disciplines",
+      "Trois pôles : enseignant, élève, savoir",
+      "Trois méthodes",
+      "Trois niveaux"
+    ],
+    "answerIndex": 1,
+    "explication": "Houssaye modélise toute situation pédagogique autour de ces trois pôles."
+  },
+  {
+    "question": "35 - Que privilégie le processus « enseigner » ?",
+    "options": [
+      "Le lien élève-savoir",
+      "Le lien élève-enseignant",
+      "Le collectif",
+      "Le lien enseignant-savoir"
+    ],
+    "answerIndex": 3,
+    "explication": "L’élève peut être mis en position passive."
+  },
+
+  {
+    "question": "36 - Quel risque comporte le processus « enseigner » ?",
+    "options": [
+      "Le refus des élèves",
+      "L’ennui",
+      "La coopération",
+      "La créativité"
+    ],
+    "answerIndex": 0,
+    "explication": "Les élèves peuvent refuser d’entrer dans la situation pédagogique."
+  },
+  {
+    "question": "37 - Que privilégie le processus « apprendre » ?",
+    "options": [
+      "Enseignant-savoir",
+      "Élève-savoir",
+      "Enseignant-élève",
+      "Programme"
+    ],
+    "answerIndex": 1,
+    "explication": "Les élèves accèdent directement au savoir."
+  },
+  {
+    "question": "38 - Quel est le rôle de l’enseignant dans ce cas ?",
+    "options": [
+      "Absent",
+      "Punisseur",
+      "Accompagnateur",
+      "Autoritaire"
+    ],
+    "answerIndex": 2,
+    "explication": "Il prépare et accompagne les situations d’apprentissage."
+  },
+  {
+    "question": "39 - Que privilégie le processus « former » ?",
+    "options": [
+      "Le savoir",
+      "La sanction",
+      "La sélection",
+      "La relation"
+    ],
+    "answerIndex": 3,
+    "explication": "Il met l’accent sur la relation éducative."
+  },
+  {
+    "question": "40 - Quel est le risque du processus « former » ?",
+    "options": [
+      "Le refus d’implication des élèves",
+      "La violence",
+      "L’échec scolaire",
+      "La sanction"
+    ],
+    "answerIndex": 0,
+    "explication": "Les élèves peuvent préférer une posture passive."
+  },
+
+  {
+    "question": "41 - Les pédagogues actuels utilisent-ils encore ces idées ?",
+    "options": [
+      "Non",
+      "Oui, partiellement",
+      "Uniquement en théorie",
+      "Uniquement dans les écoles alternatives"
+    ],
+    "answerIndex": 1,
+    "explication": "Les idées sont réappropriées sous contraintes institutionnelles."
+  },
+  {
+    "question": "42 - Que représentent les écoles nouvelles aujourd’hui ?",
+    "options": [
+      "Des modèles uniques",
+      "Des mythes éducatifs",
+      "Des erreurs",
+      "Des obligations"
+    ],
+    "answerIndex": 1,
+    "explication": "Elles incarnent un idéal possible."
+  },
+  {
+    "question": "43 - Pourquoi parle-t-on de mythe éducatif ?",
+    "options": [
+      "Parce que c’est faux",
+      "Parce que c’est irréalisable",
+      "Parce que cela nourrit l’espoir",
+      "Parce que c’est ancien"
+    ],
+    "answerIndex": 2,
+    "explication": "Le mythe permet de croire au progrès éducatif."
+  },
+  {
+    "question": "44 - Quel est le rôle de l’espoir en éducation ?",
+    "options": [
+      "Fondamental",
+      "Secondaire",
+      "Dangereux",
+      "Inutile"
+    ],
+    "answerIndex": 0,
+    "explication": "On ne peut éduquer sans croire en la perfectibilité humaine."
+  },
+  {
+    "question": "45 - Que permettent ces références pédagogiques ?",
+    "options": [
+      "Imposer des méthodes",
+      "Légitimer des projets éducatifs",
+      "Uniformiser l’école",
+      "Supprimer l’enseignant"
+    ],
+    "answerIndex": 1,
+    "explication": "Elles servent de ressources symboliques et pratiques."
+  },
+
+  {
+    "question": "46 - Quelle tension traverse la pédagogie aujourd’hui ?",
+    "options": [
+      "Liberté / contrainte",
+      "Autorité / anarchie",
+      "Savoir / ignorance",
+      "École / famille"
+    ],
+    "answerIndex": 0,
+    "explication": "Les pédagogues cherchent un équilibre entre liberté et cadre."
+  },
+  {
+    "question": "47 - Pourquoi l’éducation nouvelle reste-t-elle actuelle ?",
+    "options": [
+      "Par nostalgie",
+      "Parce qu’elle est obligatoire",
+      "Parce qu’elle est simple",
+      "Parce qu’elle répond à des problèmes persistants"
+    ],
+    "answerIndex": 3,
+    "explication": "Les tensions éducatives sont toujours présentes."
+  },
+  {
+    "question": "48 - Quelle est la finalité commune des pédagogues étudiés ?",
+    "options": [
+      "Former des citoyens",
+      "Obéir",
+      "Classer",
+      "Sélectionner"
+    ],
+    "answerIndex": 0,
+    "explication": "Ils visent l’émancipation et la citoyenneté."
+  },
+  {
+    "question": "49 - Quelle posture éducative est valorisée ?",
+    "options": [
+      "Autoritaire",
+      "Réflexive",
+      "Dogmatique",
+      "Passive"
+    ],
+    "answerIndex": 1,
+    "explication": "Le pédagogue analyse et ajuste sa pratique."
+  },
+  {
+    "question": "50 - Quelle idée résume l’éducation nouvelle ?",
+    "options": [
+      "Transmettre coûte que coûte",
+      "Former des exécutants",
+      "Éduquer pour transformer la société",
+      "Imposer des normes"
+    ],
+    "answerIndex": 2,
+    "explication": "L’éducation nouvelle voit l’éducation comme un levier de transformation sociale."
+  }
+]

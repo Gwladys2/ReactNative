@@ -1,0 +1,302 @@
+[
+  {
+    "question": "1 - Quel compositeur incarne la naissance du romantisme musical au XIXe siècle en Allemagne ?",
+    "options": ["Joseph Haydn", "Wolfgang Amadeus Mozart", "Ludwig van Beethoven", "Franz Schubert"],
+    "answerIndex": 2,
+    "explication": "Le cours présente Beethoven comme celui qui passe du classicisme au romantisme et ouvre la voie aux musiciens romantiques."
+  },
+  {
+    "question": "2 - Quelle priorité le musicien romantique accorde-t-il par rapport à l'âge classique ?",
+    "options": ["La sensibilité et l’imagination","La raison", "La forme stricte",  "L’imitation des modèles anciens"],
+    "answerIndex": 0,
+    "explication": "Le musicien romantique privilégie la sensibilité, l’imagination et l’expression du moi intérieur plutôt que la raison."
+  },
+  {
+    "question": "3 - Comment le musicien romantique perçoit-il le monde ?",
+    "options": ["Comme un espace harmonieux", "Comme un lieu de réussite sociale", "Comme un monde rejeté et hostile", "Comme un ordre rationnel"],
+    "answerIndex": 2,
+    "explication": "Le cours indique que le musicien romantique refuse le monde et se sent rejeté, créant un fossé entre lui et la société."
+  },
+  {
+    "question": "4 - Quels sont les deux pôles majeurs de l’inspiration romantique selon le cours ?",
+    "options": ["La religion et la politique", "La nature et l’amour", "La guerre et l’héroïsme", "La science et la technique"],
+    "answerIndex": 1,
+    "explication": "La nature et l’amour sont décrits comme les deux grands pôles qui structurent l’univers émotionnel du musicien romantique."
+  },
+  {
+    "question": "5 - Comment la nature est-elle perçue par le musicien romantique ?",
+    "options": ["Comme une menace", "Comme un simple décor", "Comme bienfaisante et révélatrice des états d’âme", "Comme un lieu social"],
+    "answerIndex": 2,
+    "explication": "La nature est décrite comme bienfaisante et comme un miroir des états d’âme du musicien romantique."
+  },
+  {
+    "question": "6 - Comment est généralement présenté le thème de l’amour chez le musicien romantique ?",
+    "options": ["Toujours heureux", "Souvent négatif ou inaccessible", "Purement narratif", "Absent"],
+    "answerIndex": 1,
+    "explication": "L’amour est omniprésent mais rarement positif, souvent vécu comme un rêve ou une obsession."
+  },
+  {
+    "question": "7 - En quelle année Beethoven est-il né ?",
+    "options": ["1765", "1770", "1775", "1780"],
+    "answerIndex": 1,
+    "explication": "Beethoven est né en 1770 à Bonn."
+  },
+  {
+    "question": "8 - Qui fut le premier maître de Beethoven ?",
+    "options": ["Haydn", "Mozart", "Salieri", "Christian Neefe"],
+    "answerIndex": 3,
+    "explication": "Christian Neefe est le premier maître de Beethoven et l’initie à Bach."
+  },
+  {
+    "question": "9 - Quelle œuvre de Bach Christian Neefe fait-il découvrir à Beethoven ?",
+    "options": ["La Passion selon saint Matthieu", "Le Clavier bien tempéré", "Les Variations Goldberg", "L’Art de la fugue"],
+    "answerIndex": 1,
+    "explication": "Neefe initie Beethoven au Clavier bien tempéré de Jean-Sébastien Bach."
+  },
+  {
+    "question": "10 - Dans quelle ville Beethoven s’installe-t-il définitivement en 1794 ?",
+    "options": ["Bonn", "Berlin", "Vienne", "Munich"],
+    "answerIndex": 2,
+    "explication": "Beethoven s’installe à Vienne en 1794 pour y poursuivre sa formation."
+  },
+  {
+    "question": "11 - Quel événement personnel bouleverse Beethoven en 1802 ?",
+    "options": ["La montée de la surdité","La mort de Mozart", "La perte de la vue",  "Un exil forcé"],
+    "answerIndex": 0,
+    "explication": "La surdité progressive provoque une crise profonde exprimée dans le Testament de Heiligenstadt."
+  },
+  {
+    "question": "12 - À qui est adressé le Testament de Heiligenstadt ?",
+    "options": ["À ses élèves", "À ses frères", "À Haydn", "Au public"],
+    "answerIndex": 1,
+    "explication": "Il s’agit d’une lettre adressée à ses frères."
+  },
+  {
+    "question": "13 - Quelle phrase illustre la volonté de Beethoven face au destin ?",
+    "options": ["« Je fuis le monde »", "« Je prendrai le destin à la gorge »", "« La musique avant tout »", "« Le silence est d’or »"],
+    "answerIndex": 1,
+    "explication": "Cette phrase montre sa détermination à surmonter la surdité."
+  },
+  {
+    "question": "14 - Quelle période correspond à une crise créatrice chez Beethoven ?",
+    "options": ["1790-1795", "1800-1805", "1812-1816", "1820-1822"],
+    "answerIndex": 2,
+    "explication": "Entre 1812 et 1816, Beethoven compose peu et traverse une période de doute."
+  },
+  {
+    "question": "15 - Combien de symphonies Beethoven a-t-il composées ?",
+    "options": ["5", "7", "12", "9"],
+    "answerIndex": 3,
+    "explication": "Beethoven a composé 9 symphonies, un nombre volontairement réduit."
+  },
+  {
+    "question": "16 - Que montre la comparaison avec Haydn et Mozart ?",
+    "options": ["Beethoven est moins productif", "La symphonie change de nature", "Le public disparaît", "La musique devient plus simple"],
+    "answerIndex": 1,
+    "explication": "Le nombre réduit de symphonies indique un changement profond de démarche créatrice."
+  },
+  {
+    "question": "17 - Quelle symphonie est surnommée « Eroica » ?",
+    "options": ["La 3e", "La 5e", "La 6e", "La 9e"],
+    "answerIndex": 0,
+    "explication": "La Symphonie n°3 en mi bémol majeur est dite « Eroica »."
+  },
+  {
+    "question": "18 - À qui la Symphonie « Eroica » était-elle initialement dédiée ?",
+    "options": ["Haydn", "Mozart", "Bonaparte", "Schiller"],
+    "answerIndex": 2,
+    "explication": "Elle était dédiée à Bonaparte avant que Beethoven ne retire la dédicace."
+  },
+  {
+    "question": "19 - Pourquoi Beethoven déchire-t-il la dédicace à Bonaparte ?",
+    "options": ["Il meurt", "Il devient empereur", "Il trahit Beethoven", "Il refuse l’œuvre"],
+    "answerIndex": 1,
+    "explication": "Beethoven refuse l’idée de l’empereur, contraire à ses idéaux."
+  },
+  {
+    "question": "20 - Quelle symphonie est dite « Pastorale » ?",
+    "options": ["La 5e", "La 6e", "La 7e", "La 8e"],
+    "answerIndex": 1,
+    "explication": "La Symphonie n°6 en fa majeur est surnommée « Pastorale »."
+  },
+  {
+    "question": "21 - Quelle symphonie introduit des chœurs ?",
+    "options": ["La 5e", "La 6e", "La 8e", "La 9e"],
+    "answerIndex": 3,
+    "explication": "La 9e symphonie intègre solistes et chœurs, ce qui est inédit."
+  },
+  {
+    "question": "22 - Quel poète est à l’origine du texte de l’Ode à la joie ?",
+    "options": ["Goethe", "Heine", "Schiller", "Hölderlin"],
+    "answerIndex": 2,
+    "explication": "L’Ode à la joie est un poème de Friedrich von Schiller."
+  },
+  {
+    "question": "23 - En quelle tonalité est la 9e symphonie ?",
+    "options": ["Ut majeur", "Fa majeur", "Ré mineur", "Mi bémol majeur"],
+    "answerIndex": 2,
+    "explication": "La 9e symphonie est en ré mineur."
+  },
+  {
+    "question": "24 - Combien de mouvements comporte la 9e symphonie ?",
+    "options": ["3", "4", "5", "6"],
+    "answerIndex": 1,
+    "explication": "La symphonie est composée de quatre mouvements."
+  },
+  {
+    "question": "25 - Quel mouvement est l’aboutissement de la symphonie ?",
+    "options": ["Le 1er", "Le 2e", "Le 3e", "Le 4e"],
+    "answerIndex": 3,
+    "explication": "Le 4e mouvement résume les précédents et ouvre vers la joie parfaite."
+  },
+  {
+    "question": "26 - Comment Beethoven traite-t-il le texte de Schiller ?",
+    "options": ["Il le respecte intégralement", "Il le traduit littéralement", "Il le transforme et le réorganise", "Il le réduit à un refrain"],
+    "answerIndex": 2,
+    "explication": "Beethoven supprime, modifie et recompose le texte pour créer une œuvre nouvelle."
+  },
+  {
+    "question": "27 - Quelle est la signification de la « joie » chez Schiller ?",
+    "options": ["Un simple plaisir", "Un sentiment passif", "Un sentiment actif de sympathie universelle", "Une émotion individuelle"],
+    "answerIndex": 2,
+    "explication": "La joie unit les êtres dans l’harmonie et la raison."
+  },
+  {
+    "question": "28 - Quelle image symbolise la joie selon Schiller ?",
+    "options": ["La flamme", "L’étincelle des dieux", "La couronne", "Le soleil"],
+    "answerIndex": 1,
+    "explication": "La joie est décrite comme la « belle étincelle des dieux »."
+  },
+  {
+    "question": "29 - Combien de parties composent l’audition morcelée du final ?",
+    "options": ["3", "4", "5", "6"],
+    "answerIndex": 2,
+    "explication": "Le final est découpé en cinq parties distinctes."
+  },
+  {
+    "question": "30 - Quelle audition correspond au préambule du final ?",
+    "options": ["Audition 1", "Audition 2", "Audition 3", "Audition 4"],
+    "answerIndex": 0,
+    "explication": "L’audition 1 sert de préambule et relie le final à l’ensemble de la symphonie."
+  },
+  {
+    "question": "31 - Quelle audition introduit le thème de la Joie ?",
+    "options": ["Audition 1", "Audition 2", "Audition 3", "Audition 5"],
+    "answerIndex": 1,
+    "explication": "L’audition 2 marque l’arrivée du thème de la Joie et de la voix."
+  },
+  {
+    "question": "32 - Quelle audition évoque une marche au combat ?",
+    "options": ["Audition 2", "Audition 3", "Audition 4", "Audition 5"],
+    "answerIndex": 1,
+    "explication": "L’audition 3 est décrite comme une marche au combat."
+  },
+  {
+    "question": "33 - Quelle partie représente l’unité fraternelle ?",
+    "options": ["Audition 4", "Audition 1", "Audition 3", "Audition 5"],
+    "answerIndex": 0,
+    "explication": "L’audition 4 exprime l’embrassement de l’unité fraternelle."
+  },
+  {
+    "question": "34 - Quelle partie évoque une kermesse épique ?",
+    "options": ["Audition 2", "Audition 3", "Audition 4", "Audition 5"],
+    "answerIndex": 3,
+    "explication": "L’audition 5 est décrite comme une fête populaire et épique."
+  },
+  {
+    "question": "35 - Que devient la symphonie avec Beethoven ?",
+    "options": ["Un divertissement", "Un monde symphonique", "Un exercice formel", "Une musique décorative"],
+    "answerIndex": 1,
+    "explication": "La symphonie devient un univers à part entière."
+  },
+  {
+    "question": "36 - Quelle relation Beethoven établit-il entre l’œuvre et l’auditeur ?",
+    "options": ["Passive", "Autoritaire", "Libre et dialogique", "Didactique"],
+    "answerIndex": 2,
+    "explication": "L’auditeur est libre de dialoguer avec l’œuvre."
+  },
+  {
+    "question": "37 - Comment Beethoven dépasse-t-il le « culte du moi » ?",
+    "options": ["En se taisant", "En abandonnant l’émotion", "En visant l’universel", "En imitant les anciens"],
+    "answerIndex": 2,
+    "explication": "Il transforme l’expérience personnelle en message universel."
+  },
+  {
+    "question": "38 - Quel philosophe est cité dans la conclusion ?",
+    "options": ["Kant", "Giordano Bruno", "Hegel", "Descartes"],
+    "answerIndex": 1,
+    "explication": "La conclusion cite Giordano Bruno."
+  },
+  {
+    "question": "39 - Quelle idée résume la citation finale ?",
+    "options": ["Créer sans écouter", "Contempler sans agir", "Agir et contempler sont liés", "La musique est silence"],
+    "answerIndex": 2,
+    "explication": "On ne peut contempler sans agir ni agir sans contempler."
+  },
+  {
+    "question": "40 - Quelle est la date de la mort de Beethoven ?",
+    "options": ["1824", "1825", "1826", "1827"],
+    "answerIndex": 3,
+    "explication": "Beethoven meurt en 1827."
+  },
+  {
+    "question": "41 - Où Beethoven meurt-il ?",
+    "options": ["Bonn", "Vienne", "Berlin", "Prague"],
+    "answerIndex": 1,
+    "explication": "Il meurt à Vienne."
+  },
+  {
+    "question": "42 - Beethoven a-t-il obtenu un poste stable ?",
+    "options": ["Oui à Bonn", "Oui à Vienne", "Non", "Oui à Berlin"],
+    "answerIndex": 2,
+    "explication": "Il n’obtient jamais le poste stable auquel il aspirait."
+  },
+  {
+    "question": "43 - Comment Beethoven se distingue-t-il de Mozart ?",
+    "options": ["Il cache sa vie", "Il se livre dans sa musique", "Il écrit moins", "Il évite la symphonie"],
+    "answerIndex": 1,
+    "explication": "Beethoven confond sa vie et son œuvre."
+  },
+  {
+    "question": "44 - Quelle idée définit l’œuvre « malléable » ?",
+    "options": ["Fixée pour toujours", "Ouverte à l’interprétation", "Limitée à son époque", "Strictement codifiée"],
+    "answerIndex": 1,
+    "explication": "L’œuvre est ouverte au dialogue avec l’auditeur."
+  },
+  {
+    "question": "45 - Quel est le rôle du public chez Beethoven ?",
+    "options": ["Passif", "Élitiste", "Actif et élargi", "Absent"],
+    "answerIndex": 2,
+    "explication": "Beethoven écrit pour un public plus vaste et actif."
+  },
+  {
+    "question": "46 - Quelle symphonie marque une rupture majeure ?",
+    "options": ["La 1re", "La 2e", "La 3e", "La 4e"],
+    "answerIndex": 2,
+    "explication": "La Symphonie n°3 « Eroica » marque une rupture décisive."
+  },
+  {
+    "question": "47 - Quelle période correspond à la renaissance créatrice ?",
+    "options": ["1800-1802", "1808-1810", "1818-1827", "1790-1795"],
+    "answerIndex": 2,
+    "explication": "La fin de la vie de Beethoven est marquée par une intense créativité."
+  },
+  {
+    "question": "48 - Quelle œuvre annonce le final de la 9e ?",
+    "options": ["La 5e symphonie", "La Fantaisie op. 80", "La Missa Solemnis", "La 7e symphonie"],
+    "answerIndex": 1,
+    "explication": "La Fantaisie op. 80 est une esquisse du final."
+  },
+  {
+    "question": "49 - Quelle idée résume le message de la 9e symphonie ?",
+    "options": ["La solitude", "La guerre", "La fraternité universelle", "Le désespoir"],
+    "answerIndex": 2,
+    "explication": "La 9e forge un message d’unité et de fraternité humaine."
+  },
+  {
+    "question": "50 - Écouter Beethoven selon le cours, c’est :",
+    "options": ["Subir", "Analyser froidement", "Agir", "Consommer"],
+    "answerIndex": 2,
+    "explication": "Écouter Beethoven est un acte actif et engageant."
+  }
+]

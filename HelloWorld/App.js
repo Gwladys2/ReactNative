@@ -10,6 +10,12 @@ import GrandPedagogue2 from './screens/GrandPedagogue2';
 import GrandPedagogue3 from './screens/GrandPedagogue3';
 import GrandPedagogue4 from './screens/GrandPedagogue4';
 import GrandPedagogue5 from './screens/GrandPedagogue5';
+import GrandPedagogue6 from './screens/GrandPedagogue6';
+import GrandPedagogue7 from './screens/GrandPedagogue7';
+import GrandPedagogue8 from './screens/GrandPedagogue8';
+import GrandPedagogue9 from './screens/GrandPedagogue9';
+import GrandPedagogue10 from './screens/GrandPedagogue10';
+import GrandPedagogue11 from './screens/GrandPedagogue11';
 import LessonScreen from './screens/LessonScreen';
 import Niveau2 from './screens/Niveau2';
 import Niveau3 from './screens/Niveau3';
@@ -29,9 +35,18 @@ import LettresArts from './screens/LettresArts';
 import LettresArts2 from './screens/LettresArts2';
 import LettresArts3 from './screens/LettresArts3';
 import LettresArts4 from './screens/LettresArts4';
+import LettresArts5 from './screens/LettresArts5';
+import LettresArts6 from './screens/LettresArts6';
+import LettresArts7 from './screens/LettresArts7';
+import LettresArts8 from './screens/LettresArts8';
 import PsychoEducation2 from './screens/PsychoEducation2';
 import PsychoEducation3 from './screens/PsychoEducation3';
 import PsychoEducation4 from './screens/PsychoEducation4';
+import PsychoEducation5 from './screens/PsychoEducation5';
+import PsychoEducation6 from './screens/PsychoEducation6';
+import PsychoEducation7 from './screens/PsychoEducation7';
+import PsychoEducation8 from './screens/PsychoEducation8';
+import PsychoEducation9 from './screens/PsychoEducation9';
 import Architecture from './screens/Architecture';
 import { ProgressProvider } from './context/ProgressContext';
 import Accueil from './screens/HomeScreen2';
@@ -51,6 +66,10 @@ import CoursPsychoEducation3 from './screens/CoursPsychoEducation3';
 import CoursPsychoEducation4 from './screens/CoursPsychoEducation4';
 import AnalyseArts from './screens/AnalyseArts';
 import AnalyseArts2 from './screens/AnalyseArts2';
+import AnalyseArts3 from './screens/AnalyseArts3';
+import AnalyseArts4 from './screens/AnalyseArts4';
+import AnalyseArts5 from './screens/AnalyseArts5';
+import AnalyseArts6 from './screens/AnalyseArts6';
 import QuiAditQuoi from './screens/QuiAditQuoi';
 import HistoireMusique from './screens/HistoireMusique';
 import HistoireMusique2 from './screens/HistoireMusique2';
@@ -62,11 +81,27 @@ import HistoireMusique7 from './screens/HistoireMusique7';
 import HistoireMusique8 from './screens/HistoireMusique8';
 import HistoireMusique9 from './screens/HistoireMusique9';
 import HistoireMusique10 from './screens/HistoireMusique10';
+import HistoireMusique11 from './screens/HistoireMusique11';
+import HistoireMusique12 from './screens/HistoireMusique12';
+import HistoireMusique13 from './screens/HistoireMusique13';
 import LexiqueHistoireMusique from './screens/LexiqueHistoireMusique';
-
-
-
+import MetierEtudiant1 from './screens/MetierEtudiant1';
+import MetierEtudiant2 from './screens/MetierEtudiant2';
+import MetierEtudiant3 from './screens/MetierEtudiant3';
+import MetierEtudiant4 from './screens/MetierEtudiant4';
+import MetierEtudiant5 from './screens/MetierEtudiant5';
+import MetierEtudiant6 from './screens/MetierEtudiant6';
+import MetierEtudiant7 from './screens/MetierEtudiant7';
 import Footer from './components/Footer'; // ton composant Footer
+
+
+
+import MenuMedeChin from './screens/medecineChinoise/MenuMedeChin';
+import Qi from './screens/medecineChinoise/MTC1/Qi';
+import Elements from './screens/medecineChinoise/MTC1/5Elements';
+import OrganesEntrailles from './screens/medecineChinoise/MTC1/OrganesEntrailles';
+import SangLO from './screens/medecineChinoise/MTC1/SangLO';
+import YinYang from './screens/medecineChinoise/MTC1/YinYang';
 
 const Stack = createNativeStackNavigator();
 
@@ -87,16 +122,31 @@ export default function App() {
               <Stack.Screen name="GrandPedagogue3" component={GrandPedagogue3} />
               <Stack.Screen name="GrandPedagogue4" component={GrandPedagogue4} />
               <Stack.Screen name="GrandPedagogue5" component={GrandPedagogue5} />
+               <Stack.Screen name="GrandPedagogue6" component={GrandPedagogue6} />
+                <Stack.Screen name="GrandPedagogue7" component={GrandPedagogue7} />
+                 <Stack.Screen name="GrandPedagogue8" component={GrandPedagogue8} />
+                  <Stack.Screen name="GrandPedagogue9" component={GrandPedagogue9} />
+                   <Stack.Screen name="GrandPedagogue10" component={GrandPedagogue10} />
+                    <Stack.Screen name="GrandPedagogue11" component={GrandPedagogue11} />
               <Stack.Screen name="PsychoEducation" component={PsychoEducation} />
               <Stack.Screen name="PsychoEducation2" component={PsychoEducation2} />
               <Stack.Screen name="PsychoEducation3" component={PsychoEducation3} />
               <Stack.Screen name="PsychoEducation4" component={PsychoEducation4} />
+              <Stack.Screen name="PsychoEducation5" component={PsychoEducation5} />
+              <Stack.Screen name="PsychoEducation6" component={PsychoEducation6} />
+              <Stack.Screen name="PsychoEducation7" component={PsychoEducation7} />
+              <Stack.Screen name="PsychoEducation8" component={PsychoEducation8} />
+              <Stack.Screen name="PsychoEducation9" component={PsychoEducation9} />
               <Stack.Screen name="PhiloEducation" component={PhiloEducation} />
               <Stack.Screen name="PhiloEducation2" component={PhiloEducation2} />
               <Stack.Screen name="LettresArts" component={LettresArts} />
               <Stack.Screen name="LettresArts2" component={LettresArts2} />
               <Stack.Screen name="LettresArts3" component={LettresArts3} />
               <Stack.Screen name="LettresArts4" component={LettresArts4} />
+              <Stack.Screen name="LettresArts5" component={LettresArts5} />
+              <Stack.Screen name="LettresArts6" component={LettresArts6} />
+              <Stack.Screen name="LettresArts7" component={LettresArts7} />
+              <Stack.Screen name="LettresArts8" component={LettresArts8} />
               <Stack.Screen name="Home" component={HomeScreen} />
               <Stack.Screen name="HTML 1" component={LessonScreen} />
               <Stack.Screen name="Accueil" component={Accueil} />
@@ -128,6 +178,10 @@ export default function App() {
                 <Stack.Screen name="QuiAditQuoi" component={QuiAditQuoi} />
                 <Stack.Screen name="AnalyseArts" component={AnalyseArts} />
                 <Stack.Screen name="AnalyseArts2" component={AnalyseArts2} />
+                <Stack.Screen name="AnalyseArts3" component={AnalyseArts3} />
+                <Stack.Screen name="AnalyseArts4" component={AnalyseArts4} />
+                <Stack.Screen name="AnalyseArts5" component={AnalyseArts5} />
+                <Stack.Screen name="AnalyseArts6" component={AnalyseArts6} />
                  <Stack.Screen name="HistoireMusique" component={HistoireMusique} />
                  <Stack.Screen name="HistoireMusique2" component={HistoireMusique2} />
                  <Stack.Screen name="HistoireMusique3" component={HistoireMusique3} />
@@ -138,7 +192,25 @@ export default function App() {
                  <Stack.Screen name="HistoireMusique8" component={HistoireMusique8} />
                  <Stack.Screen name="HistoireMusique9" component={HistoireMusique9} />
                  <Stack.Screen name="HistoireMusique10" component={HistoireMusique10} />
+                 <Stack.Screen name="HistoireMusique11" component={HistoireMusique11} />
+                  <Stack.Screen name="HistoireMusique12" component={HistoireMusique12} />
+                   <Stack.Screen name="HistoireMusique13" component={HistoireMusique13} />
                  <Stack.Screen name="LexiqueHistoireMusique" component={LexiqueHistoireMusique} />
+                 <Stack.Screen name="MetierEtudiant1" component={MetierEtudiant1} />
+                 <Stack.Screen name="MetierEtudiant2" component={MetierEtudiant2} />
+                 <Stack.Screen name="MetierEtudiant3" component={MetierEtudiant3} />
+                 <Stack.Screen name="MetierEtudiant4" component={MetierEtudiant4} />
+                 <Stack.Screen name="MetierEtudiant5" component={MetierEtudiant5} />
+                 <Stack.Screen name="MetierEtudiant6" component={MetierEtudiant6} />
+                 <Stack.Screen name="MetierEtudiant7" component={MetierEtudiant7} />
+
+                 <Stack.Screen name="Qi" component={Qi} />
+                 <Stack.Screen name="MenuMedeChin" component={MenuMedeChin} />
+                 <Stack.Screen name="Elements" component={Elements} />
+                 <Stack.Screen name="OrganesEntrailles" component={OrganesEntrailles} />
+                 <Stack.Screen name="SangLO" component={SangLO} />
+                 <Stack.Screen name="YinYang" component={YinYang} />
+
             </Stack.Navigator>
           </View>
 

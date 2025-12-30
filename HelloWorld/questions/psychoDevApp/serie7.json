@@ -1,0 +1,560 @@
+[
+  {
+    "question": "1 - Henri Wallon se situe historiquement entre :",
+    "options": [
+      "Vygotski et Piaget",
+      "Freud et Piaget",
+      "Freud et Vygotski",
+      "Skinner et Piaget"
+    ],
+    "answerIndex": 1,
+    "explication": "Henri Wallon occupe une position intermédiaire entre Freud et Piaget. Comme Freud, il accorde une place centrale à l’affectivité et aux émotions dans le développement. Comme Piaget, il s’intéresse à la construction de l’intelligence. Son originalité est de ne jamais séparer affectivité, cognition et social."
+  },
+  {
+    "question": "2 - L’originalité majeure de Wallon est d’avoir proposé :",
+    "options": [
+      "Une théorie du langage",
+      "Une psychogenèse de l’intelligence",
+      "Une psychogenèse de la personnalité",
+      "Une théorie du conditionnement"
+    ],
+    "answerIndex": 2,
+    "explication": "Wallon ne se limite pas à l’étude de l’intelligence comme Piaget. Il propose une psychogenèse de la personnalité, c’est-à-dire une théorie globale du développement intégrant les dimensions affective, cognitive, motrice et sociale."
+  },
+  {
+    "question": "3 - Pour Wallon, le développement repose sur :",
+    "options": [
+      "Un déterminisme biologique unique",
+      "Un déterminisme social unique",
+      "Un déterminisme cognitif",
+      "Un déterminisme bio-psycho-social"
+    ],
+    "answerIndex": 3,
+    "explication": "Le développement résulte de l’interaction constante entre facteurs biologiques (maturation), psychologiques (émotions, cognition) et sociaux (relations à autrui). Aucun de ces facteurs ne suffit à lui seul."
+  },
+  {
+    "question": "4 - Wallon critique Piaget principalement pour :",
+    "options": [
+      "Son refus du social",
+      "Sa vision continue du développement",
+      "Sa focalisation sur l’affectivité",
+      "Son rejet du biologique"
+    ],
+    "answerIndex": 1,
+    "explication": "Wallon reproche à Piaget de privilégier une vision trop continue et trop logique du développement. Wallon insiste au contraire sur les crises, les ruptures et la discontinuité entre les stades."
+  },
+  {
+    "question": "5 - Le principe d’intégration signifie que :",
+    "options": [
+      "Les stades s’annulent",
+      "Les fonctions s’additionnent mécaniquement",
+      "Un nouvel ordre organise les précédents",
+      "Le biologique disparaît"
+    ],
+    "answerIndex": 2,
+    "explication": "Chaque nouveau stade ne supprime pas les acquisitions antérieures mais les réorganise dans une structure nouvelle. Les fonctions précédentes sont intégrées dans un ordre plus complexe."
+  },
+  {
+    "question": "6 - Le principe d’alternance repose sur :",
+    "options": [
+      "La maturation cérébrale",
+      "La succession de phases centripètes et centrifuges",
+      "Le langage",
+      "La socialisation"
+    ],
+    "answerIndex": 1,
+    "explication": "Le développement alterne des phases centripètes (centrées sur le moi, l’affectivité) et des phases centrifuges (tournées vers le monde, les objets et la cognition)."
+  },
+  {
+    "question": "7 - Les stades centripètes sont dominés par :",
+    "options": [
+      "La cognition",
+      "La motricité",
+      "L’affectivité",
+      "La logique"
+    ],
+    "answerIndex": 2,
+    "explication": "Dans les stades centripètes, l’enfant est centré sur lui-même, sur ses émotions et sur la construction du moi. La relation affective à autrui est centrale."
+  },
+  {
+    "question": "8 - Les stades centrifuges privilégient :",
+    "options": [
+      "Le moi",
+      "Les émotions",
+      "La fusion affective",
+      "Les objets et l’action"
+    ],
+    "answerIndex": 3,
+    "explication": "Les stades centrifuges sont orientés vers l’exploration du monde extérieur. L’enfant agit sur les objets, développe sa cognition et son intelligence pratique."
+  },
+  {
+    "question": "9 - Le développement wallonien est qualifié de :",
+    "options": [
+      "Spiralaire",
+      "Linéaire",
+      "Circulaire",
+      "Statique"
+    ],
+    "answerIndex": 0,
+    "explication": "Le développement est dit spiralaire car certaines problématiques réapparaissent, mais à un niveau supérieur d’organisation et d’intégration."
+  },
+  {
+    "question": "10 - Chez le bébé, la fonction première du mouvement est :",
+    "options": [
+      "Instrumentale",
+      "Expressive",
+      "Cognitive",
+      "Logique"
+    ],
+    "answerIndex": 1,
+    "explication": "Chez le nourrisson, le mouvement n’est pas d’abord destiné à agir sur le monde mais à exprimer des états affectifs (plaisir, malaise, tension)."
+  },
+
+  {
+    "question": "11 - L’émotion est pour Wallon :",
+    "options": [
+      "Un trouble",
+      "Un phénomène secondaire",
+      "Une construction sociale tardive",
+      "Un moyen de communication"
+    ],
+    "answerIndex": 3,
+    "explication": "L’émotion est le premier mode de communication du bébé avec son entourage. Elle crée le lien social avant le langage et la cognition."
+  },
+  {
+    "question": "12 - La vie intra-utérine est marquée par :",
+    "options": [
+      "Le catabolisme",
+      "L’anabolisme",
+      "L’exploration",
+      "La socialisation"
+    ],
+    "answerIndex": 1,
+    "explication": "La vie intra-utérine est dominée par l’anabolisme, c’est-à-dire les processus de croissance et de construction organique."
+  },
+  {
+    "question": "13 - Wallon parle pour cette période de :",
+    "options": [
+      "Symbiose physiologique",
+      "Autonomie",
+      "Opposition",
+      "Cognition"
+    ],
+    "answerIndex": 0,
+    "explication": "Le fœtus est en dépendance totale vis-à-vis de la mère : il n’y a aucune distinction fonctionnelle entre lui et son environnement maternel."
+  },
+  {
+    "question": "14 - Le stade de l’impulsivité motrice se caractérise par :",
+    "options": [
+      "Des actions coordonnées",
+      "Des gestes finalisés",
+      "Des décharges motrices diffuses",
+      "La représentation"
+    ],
+    "answerIndex": 2,
+    "explication": "Les mouvements sont désorganisés, explosifs et non intentionnels. Ils traduisent des états internes sans orientation vers un but précis."
+  },
+  {
+    "question": "15 - Ce stade s’étend approximativement :",
+    "options": [
+      "De 0 à 2 mois",
+      "De 2 à 8 mois",
+      "De 6 à 12 mois",
+      "De 1 à 2 ans"
+    ],
+    "answerIndex": 0,
+    "explication": "Le stade de l’impulsivité motrice correspond aux toutes premières semaines de vie, jusqu’à environ 1 à 2 mois."
+  },
+
+  {
+    "question": "16 - La transition vers le stade émotionnel se fait lorsque :",
+    "options": [
+      "L’enfant marche",
+      "Les gestes deviennent expressifs",
+      "Le langage apparaît",
+      "La pensée se structure"
+    ],
+    "answerIndex": 1,
+    "explication": "Les mouvements commencent à provoquer des réponses chez l’adulte. Ils deviennent alors porteurs de sens et acquièrent une valeur expressive."
+  },
+  {
+    "question": "17 - Le stade émotionnel est typiquement :",
+    "options": [
+      "Centrifuge",
+      "Logique",
+      "Instrumental",
+      "Centripète"
+    ],
+    "answerIndex": 3,
+    "explication": "Ce stade est centré sur l’affectivité et la relation à autrui. L’enfant se construit à travers l’échange émotionnel."
+  },
+  {
+    "question": "18 - À ce stade, la relation mère-enfant devient :",
+    "options": [
+      "Cognitive",
+      "Physiologique uniquement",
+      "Affective",
+      "Oppositionnelle"
+    ],
+    "answerIndex": 2,
+    "explication": "La dépendance n’est plus seulement biologique mais affective : l’émotion devient le principal médiateur de la relation."
+  },
+  {
+    "question": "19 - Le syncrétisme désigne :",
+    "options": [
+      "Une analyse logique",
+      "Une indifférenciation moi/monde",
+      "Une catégorisation",
+      "Une décentration"
+    ],
+    "answerIndex": 1,
+    "explication": "Le syncrétisme correspond à une pensée globale et confuse dans laquelle le moi et le monde extérieur ne sont pas encore clairement différenciés."
+  },
+  {
+    "question": "20 - Le stade sensori-moteur est dominé par :",
+    "options": [
+      "L’émotion",
+      "La représentation",
+      "L’exploration des objets",
+      "Le langage symbolique"
+    ],
+    "answerIndex": 2,
+    "explication": "L’enfant se tourne vers le monde extérieur et développe une intelligence pratique fondée sur l’action et la manipulation des objets."
+  },
+
+  {
+    "question": "21 - Trois axes structurent ce stade :",
+    "options": [
+      "Émotion, imitation, opposition",
+      "Vision, audition, toucher",
+      "Langage, logique, mémoire",
+      "Manipulation, marche, parole"
+    ],
+    "answerIndex": 3,
+    "explication": "Ces trois acquisitions majeures permettent à l’enfant d’objectiver le monde et de se détacher progressivement de l’immédiateté perceptive."
+  },
+  {
+    "question": "22 - Le mot permet avant tout :",
+    "options": [
+      "D’objectiver l’objet",
+      "De communiquer",
+      "De jouer",
+      "D’exprimer l’émotion"
+    ],
+    "answerIndex": 0,
+    "explication": "Le mot permet de détacher l’objet de la situation présente. Il stabilise l’objet mentalement, même en son absence."
+  },
+  {
+    "question": "23 - Le stade projectif correspond à :",
+    "options": [
+      "Une intelligence pratique",
+      "Une intelligence représentative",
+      "Une pensée logique",
+      "Une pensée formelle"
+    ],
+    "answerIndex": 1,
+    "explication": "L’enfant interpose gestes, attitudes et images mentales entre lui et l’objet. Il commence à se représenter le monde."
+  },
+  {
+    "question": "24 - Le personnalisme s’étend approximativement :",
+    "options": [
+      "De 1 à 3 ans",
+      "De 2 à 4 ans",
+      "De 6 à 9 ans",
+      "De 3 à 6 ans"
+    ],
+    "answerIndex": 3,
+    "explication": "Ce stade correspond à l’affirmation du moi personnel et à la construction de l’identité."
+  },
+  {
+    "question": "25 - La première phase du personnalisme est :",
+    "options": [
+      "L’opposition",
+      "L’imitation",
+      "L’âge de grâce",
+      "La catégorisation"
+    ],
+    "answerIndex": 0,
+    "explication": "L’enfant affirme son moi en s’opposant à l’adulte, notamment par le refus et la négation."
+  },
+
+  {
+    "question": "26 - L’usage massif du « non » traduit :",
+    "options": [
+      "Un retard",
+      "Une opposition affective",
+      "Un trouble",
+      "Une logique"
+    ],
+    "answerIndex": 1,
+    "explication": "Le refus est une conduite normale marquant la différenciation du moi et l’affirmation de l’autonomie."
+  },
+  {
+    "question": "27 - L’âge de grâce correspond à :",
+    "options": [
+      "Une agressivité accrue",
+      "Une indifférence sociale",
+      "Une pensée abstraite",
+      "Une recherche esthétique de soi"
+    ],
+    "answerIndex": 3,
+    "explication": "L’enfant cherche à séduire, à se montrer et à être valorisé par autrui."
+  },
+  {
+    "question": "28 - L’imitation identificatoire implique :",
+    "options": [
+      "Un simple mimétisme",
+      "Une identification à un modèle",
+      "Une absence de conflit",
+      "Un retrait social"
+    ],
+    "answerIndex": 1,
+    "explication": "L’enfant s’identifie à des figures valorisées pour construire son identité personnelle."
+  },
+  {
+    "question": "29 - Le stade catégoriel est marqué par :",
+    "options": [
+      "Le syncrétisme",
+      "La fusion affective",
+      "L’objectivité",
+      "L’opposition"
+    ],
+    "answerIndex": 2,
+    "explication": "La pensée devient plus objective, organisée en catégories stables et différenciées."
+  },
+  {
+    "question": "30 - Ce stade correspond à l’âge :",
+    "options": [
+      "3–6 ans",
+      "4–7 ans",
+      "10–14 ans",
+      "6–11 ans"
+    ],
+    "answerIndex": 3,
+    "explication": "Il correspond à l’âge scolaire, période de structuration intellectuelle et sociale."
+  },
+
+  {
+    "question": "31 - La pensée syncrétique se caractérise par :",
+    "options": [
+      "L’analyse logique",
+      "La catégorisation abstraite",
+      "Une vision globale et confuse",
+      "La déduction"
+    ],
+    "answerIndex": 2,
+    "explication": "Les éléments sont perçus globalement, sans distinction précise ni hiérarchisation logique."
+  },
+  {
+    "question": "32 - La pensée par couple repose sur :",
+    "options": [
+      "Des catégories",
+      "Des analogies concrètes",
+      "Des opérations formelles",
+      "Des règles logiques"
+    ],
+    "answerIndex": 1,
+    "explication": "Les liens sont établis par proximité ou ressemblance contextuelle, sans abstraction véritable."
+  },
+  {
+    "question": "33 - L’école favorise :",
+    "options": [
+      "La restructuration de la spontanéité",
+      "Le dressage",
+      "Le retour au syncrétisme",
+      "La dépendance affective"
+    ],
+    "answerIndex": 0,
+    "explication": "L’école transforme la pensée spontanée en pensée organisée, contrôlée et réflexive."
+  },
+  {
+    "question": "34 - Les relations sociales au stade catégoriel sont :",
+    "options": [
+      "Fusionnelles",
+      "Exclusives",
+      "Oppositionnelles",
+      "Centrées sur les tâches"
+    ],
+    "answerIndex": 3,
+    "explication": "Les relations sont fonctionnelles, liées aux activités et aux règles communes."
+  },
+  {
+    "question": "35 - La puberté marque :",
+    "options": [
+      "Une continuité",
+      "Une crise",
+      "Une stabilisation",
+      "Une régression"
+    ],
+    "answerIndex": 1,
+    "explication": "La puberté introduit une rupture majeure de l’équilibre antérieur, tant sur le plan corporel que psychique."
+  },
+
+  {
+    "question": "36 - Les transformations pubertaires sont d’abord :",
+    "options": [
+      "Sociales",
+      "Cognitives",
+      "Organiques",
+      "Culturelles"
+    ],
+    "answerIndex": 2,
+    "explication": "Les transformations biologiques liées à la maturation sexuelle sont le point de départ des changements adolescents."
+  },
+  {
+    "question": "37 - L’adolescence est marquée par :",
+    "options": [
+      "La stabilité",
+      "La disparition de l’affectivité",
+      "La pensée concrète",
+      "Des ambivalences"
+    ],
+    "answerIndex": 3,
+    "explication": "Les conduites oscillent entre dépendance et autonomie, affirmation et doute."
+  },
+  {
+    "question": "38 - Les relations sociales deviennent :",
+    "options": [
+      "Utilitaires",
+      "Fusionnelles",
+      "Affectivement investies",
+      "Strictement cognitives"
+    ],
+    "answerIndex": 2,
+    "explication": "Les relations amicales et amoureuses prennent une forte charge affective et identitaire."
+  },
+  {
+    "question": "39 - L’adolescent adhère souvent à :",
+    "options": [
+      "Des routines",
+      "Des idéaux",
+      "Des automatismes",
+      "Des règles fixes"
+    ],
+    "answerIndex": 1,
+    "explication": "L’adolescence est l’âge des engagements idéologiques, moraux et culturels intenses."
+  },
+  {
+    "question": "40 - Les progrès intellectuels à l’adolescence concernent :",
+    "options": [
+      "La perception",
+      "La mémoire uniquement",
+      "La combinatoire logique",
+      "L’imitation"
+    ],
+    "answerIndex": 2,
+    "explication": "De nouvelles capacités de raisonnement abstrait et combinatoire apparaissent."
+  },
+
+  {
+    "question": "41 - Pour Wallon, le développement est :",
+    "options": [
+      "Discontinu et dynamique",
+      "Continu",
+      "Aléatoire",
+      "Strictement biologique"
+    ],
+    "answerIndex": 0,
+    "explication": "Le développement est marqué par des crises, des ruptures et des réorganisations successives."
+  },
+  {
+    "question": "42 - L’affectivité chez Wallon est :",
+    "options": [
+      "Secondaire",
+      "Pathologique",
+      "Fondatrice",
+      "Accessoire"
+    ],
+    "answerIndex": 2,
+    "explication": "L’affectivité est au cœur du développement et conditionne les autres fonctions."
+  },
+  {
+    "question": "43 - Le moi se construit toujours :",
+    "options": [
+      "Contre autrui",
+      "Sans autrui",
+      "Après la cognition",
+      "Dans la relation à autrui"
+    ],
+    "answerIndex": 3,
+    "explication": "Le moi émerge dans et par la relation à l’autre, jamais de manière isolée."
+  },
+  {
+    "question": "44 - Le modèle wallonien insiste sur :",
+    "options": [
+      "La logique",
+      "L’unité affectivité-intelligence",
+      "Le langage uniquement",
+      "Le conditionnement"
+    ],
+    "answerIndex": 1,
+    "explication": "Affectivité et intelligence évoluent conjointement et s’influencent mutuellement."
+  },
+  {
+    "question": "45 - Le mouvement devient psychologique lorsqu’il :",
+    "options": [
+      "Devient expressif",
+      "Est précis",
+      "Est répété",
+      "Est appris"
+    ],
+    "answerIndex": 0,
+    "explication": "Le mouvement acquiert une valeur psychologique lorsqu’il signifie quelque chose pour autrui."
+  },
+
+  {
+    "question": "46 - Le stade émotionnel prépare :",
+    "options": [
+      "La pensée formelle",
+      "La socialisation",
+      "L’exploration cognitive",
+      "L’école"
+    ],
+    "answerIndex": 2,
+    "explication": "La relation affective sécurisante permet ensuite le retournement vers le monde des objets."
+  },
+  {
+    "question": "47 - Le syncrétisme disparaît totalement vers :",
+    "options": [
+      "11–12 ans",
+      "6 ans",
+      "8 ans",
+      "15 ans"
+    ],
+    "answerIndex": 0,
+    "explication": "Les dernières formes de pensée syncrétique disparaissent à la fin du stade catégoriel."
+  },
+  {
+    "question": "48 - Le développement wallonien n’est jamais :",
+    "options": [
+      "Social",
+      "Affectif",
+      "Historique",
+      "Réversible"
+    ],
+    "answerIndex": 3,
+    "explication": "Les stades ne se répètent pas à l’identique : le développement est irréversible."
+  },
+  {
+    "question": "49 - La crise est chez Wallon :",
+    "options": [
+      "Un accident",
+      "Un échec",
+      "Une pathologie",
+      "Un moteur du développement"
+    ],
+    "answerIndex": 3,
+    "explication": "Les crises permettent la réorganisation des fonctions et sont nécessaires au développement."
+  },
+  {
+    "question": "50 - Pour Wallon, se développer, c’est avant tout :",
+    "options": [
+      "Apprendre",
+      "S’adapter",
+      "Se transformer dans la relation",
+      "Accumuler des compétences"
+    ],
+    "answerIndex": 2,
+    "explication": "Le développement est une transformation globale du sujet dans et par sa relation au milieu humain et social."
+  }
+]

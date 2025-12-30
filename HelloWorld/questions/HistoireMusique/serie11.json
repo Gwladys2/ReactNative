@@ -1,0 +1,302 @@
+[
+  {
+    "question": "1 - Que reflète la musique nouvelle créée par des musiciens allemands au début du XIXe siècle ?",
+    "options": ["Une pure imitation du classicisme", "Les transformations psychologiques en germe depuis le XVIIIe siècle", "Un retour au baroque", "Un rejet total de l’expression personnelle"],
+    "answerIndex": 1,
+    "explication": "Cette musique reflète les transformations psychologiques issues de la fin du XVIIIe siècle."
+  },
+  {
+    "question": "2 - Comment le musicien romantique considère-t-il sa sensibilité ?",
+    "options": ["Secondaire par rapport à la raison", "Une entrave à la création", "Une source première d’inspiration", "Un simple outil technique"],
+    "answerIndex": 2,
+    "explication": "Le musicien romantique accorde la prédominance à la sensibilité et à l’imagination."
+  },
+  {
+    "question": "3 - Quelle est l’attitude du musicien romantique face au monde ?",
+    "options": ["Il le refuse et se replie sur lui-même","Il s’accorde harmonieusement avec lui",  "Il cherche à décrire objectivement la société", "Il veut s’effacer complètement"],
+    "answerIndex": 0,
+    "explication": "Le musicien romantique refuse le monde et se veut comme rejeté et seul."
+  },
+  {
+    "question": "4 - Quels sont les deux pôles essentiels dans la vie intérieure exprimée par le musicien romantique ?",
+    "options": ["La politique et la religion", "La nature et l’amour", "La technique et la virtuosité", "La famille et la patrie"],
+    "answerIndex": 1,
+    "explication": "Les pôles centraux sont la nature et l’amour."
+  },
+  {
+    "question": "5 - Comment l’amour est-il généralement représenté dans la musique romantique ?",
+    "options": ["Comme une valeur morale", "Comme un thème léger et joyeux", "Comme une obsession souvent douloureuse", "Comme un élément comique"],
+    "answerIndex": 2,
+    "explication": "L’amour est omniprésent mais rarement positif, souvent obsédant."
+  },
+  {
+    "question": "6 - Qui fut le premier maître de Beethoven ?",
+    "options": ["Haydn", "Salieri", "Christian Neefe", "Schubert"],
+    "answerIndex": 2,
+    "explication": "Christian Neefe initia Beethoven au Clavier bien tempéré de Bach."
+  },
+  {
+    "question": "7 - À quel compositeur Neefe fait-il découvrir le Clavier bien tempéré ?",
+    "options": ["Mozart", "Haydn", "Handel", "Bach"],
+    "answerIndex": 3,
+    "explication": "Neefe lui fait découvrir Bach à travers le Clavier bien tempéré."
+  },
+  {
+    "question": "8 - Lors de son premier voyage à Vienne en 1787, qui Beethoven rencontre-t-il ?",
+    "options": ["Haydn", "Mozart", "Salieri", "Weber"],
+    "answerIndex": 1,
+    "explication": "Il rencontre Mozart lors de son premier voyage."
+  },
+  {
+    "question": "9 - Dans quel but Beethoven retourne-t-il à Vienne en 1792 ?",
+    "options": ["Pour fuir Bonn", "Pour recevoir l'esprit de Mozart de la main de Haydn", "Pour se produire en concert", "Pour enseigner"],
+    "answerIndex": 1,
+    "explication": "Il revient à Vienne pour recevoir l’esprit de Mozart via Haydn."
+  },
+  {
+    "question": "10 - Que marque le 'Testament de Heiligenstadt' de 1802 ?",
+    "options": ["Son désespoir face à la surdité montante","Sa rupture avec Haydn",  "Sa première symphonie", "Son mariage"],
+    "answerIndex": 0,
+    "explication": "Dans cette lettre, Beethoven exprime son désespoir face à la surdité."
+  },
+  {
+    "question": "11 - Quelle phrase célèbre illustre la résolution de Beethoven après 1802 ?",
+    "options": ["Je renonce à composer", "Je prendrai le destin à la gorge", "Je veux retourner à Bonn", "Je veux vivre modestement"],
+    "answerIndex": 1,
+    "explication": "Cette phrase marque son choix de continuer malgré la surdité."
+  },
+  {
+    "question": "12 - Quelle période de Beethoven est marquée par une crise et une raréfaction des œuvres ?",
+    "options": ["1770-1780", "1792-1795", "1812-1816", "1824-1826"],
+    "answerIndex": 2,
+    "explication": "Entre 1812 et 1816, Beethoven traverse une forte crise créatrice."
+  },
+  {
+    "question": "13 - Qu’est-ce qui caractérise la période 1818-1827 chez Beethoven ?",
+    "options": ["Une absence totale de composition", "Une renaissance spectaculaire malgré les difficultés", "Un repli sur les formes classiques", "Un long voyage à travers l'Europe"],
+    "answerIndex": 1,
+    "explication": "Il connaît une renaissance créative impressionnante malgré ses problèmes."
+  },
+  {
+    "question": "14 - Combien de symphonies Beethoven compose-t-il ?",
+    "options": ["41", "104", "25", "9"],
+    "answerIndex": 3,
+    "explication": "Il compose 9 symphonies."
+  },
+  {
+    "question": "15 - Pourquoi le faible nombre de symphonies est-il significatif ?",
+    "options": ["Beethoven composait trop lentement", "La symphonie n’était plus à la mode", "La création devient une démarche à réinventer à chaque œuvre", "Il préférait écrire des opéras"],
+    "answerIndex": 2,
+    "explication": "La symphonie devient un monde à recréer à chaque fois, sans routine."
+  },
+  {
+    "question": "16 - À quel public Beethoven s’adresse-t-il ?",
+    "options": ["Un public vaste et en mouvement","Un cercle aristocratique restreint", "Un public traditionnel du XVIIe siècle",  "Exclusivement aux musiciens"],
+    "answerIndex": 0,
+    "explication": "Le public du XIXe siècle est vaste et socialement diversifié."
+  },
+  {
+    "question": "17 - Les symphonies n°1 et 2 s’inscrivent dans :",
+    "options": ["Un cadre baroque", "Un cadre romantique pur", "Un cadre classique fidèle à Haydn", "Un style impressionniste"],
+    "answerIndex": 2,
+    "explication": "Les deux premières symphonies restent proches du modèle classique."
+  },
+  {
+    "question": "18 - À quelle figure Beethoven dédie-t-il d’abord l’Eroica ?",
+    "options": ["Mozart", "Napoléon Bonaparte", "Schiller", "Weber"],
+    "answerIndex": 1,
+    "explication": "L’Eroica était initialement dédiée à Bonaparte."
+  },
+  {
+    "question": "19 - Pourquoi Beethoven retire-t-il la dédicace à Napoléon ?",
+    "options": ["Napoléon critique Beethoven", "Napoléon refuse la symphonie", "Napoléon se fait sacrer empereur", "Napoléon quitte Paris"],
+    "answerIndex": 2,
+    "explication": "Beethoven déchire la page en apprenant le sacre impérial."
+  },
+  {
+    "question": "20 - Que marque la symphonie Eroica dans l’œuvre de Beethoven ?",
+    "options": ["Un retour au classique", "Une rupture dans la conception symphonique", "Une œuvre mineure", "Une symphonie inachevée"],
+    "answerIndex": 1,
+    "explication": "L’Eroica est une rupture majeure dans l’approche symphonique."
+  },
+  {
+    "question": "21 - Quelles symphonies sont composées en 1808 ?",
+    "options": ["1 et 2", "3 et 4", "7 et 8", "5 et 6"],
+    "answerIndex": 3,
+    "explication": "Les symphonies 5 et 6 datent toutes deux de 1808."
+  },
+  {
+    "question": "22 - Quelle symphonie est surnommée 'Pastorale' ?",
+    "options": ["La 3", "La 5", "La 6", "La 8"],
+    "answerIndex": 2,
+    "explication": "La sixième symphonie est dite 'Pastorale'."
+  },
+  {
+    "question": "23 - Quand Beethoven compose-t-il la 9e symphonie ?",
+    "options": ["Entre 1822 et 1824","Entre 1790 et 1795", "Entre 1800 et 1802",  "En 1827"],
+    "answerIndex": 0,
+    "explication": "Beethoven compose la 9e entre 1822 et 1824."
+  },
+  {
+    "question": "24 - Quelle idée fascine Beethoven dès 1792 ?",
+    "options": ["La vie de Bach", "L’Ode à la joie de Schiller", "Les opéras de Mozart", "La comédie musicale"],
+    "answerIndex": 1,
+    "explication": "Il est fasciné très tôt par l’Ode à la joie."
+  },
+  {
+    "question": "25 - Quel projet Beethoven envisage-t-il vers 1807 ?",
+    "options": ["Quitter la musique", "Composer un opéra italien", "Créer une école", "Écrire une œuvre orchestrale avec voix"],
+    "answerIndex": 3,
+    "explication": "Il pense à une œuvre orchestrale intégrant des voix."
+  },
+  {
+    "question": "26 - Quelle œuvre de 1808 peut être considérée comme une esquisse du final de la 9e ?",
+    "options": ["La symphonie n°5", "La Fantaisie op. 80", "Fidelio", "Missa Solemnis"],
+    "answerIndex": 1,
+    "explication": "La Fantaisie op. 80 annonce le final de la 9e symphonie."
+  },
+  {
+    "question": "27 - Combien de temps sépare la 9e de la symphonie précédente ?",
+    "options": ["1 an", "5 ans", "Plus de 10 ans", "20 ans"],
+    "answerIndex": 2,
+    "explication": "La 9e arrive plus de dix ans après la 8e."
+  },
+  {
+    "question": "28 - Que représente la 9e symphonie selon le cours ?",
+    "options": ["Une œuvre figée", "Une simple expérimentation", "Une œuvre malléable ouverte à l’interprétation", "Un exercice académique"],
+    "answerIndex": 2,
+    "explication": "Elle devient le prototype de « l’œuvre malléable »."
+  },
+  {
+    "question": "29 - Quel est l’enjeu du mouvement final de la 9e ?",
+    "options": ["Présenter un nouveau thème sans lien", "Résumer les mouvements et tendre vers la joie parfaite", "Imiter Mozart", "Introduire une nouvelle danse"],
+    "answerIndex": 1,
+    "explication": "Le final résume la symphonie et ouvre vers la joie parfaite."
+  },
+  {
+    "question": "30 - Que fait Beethoven du texte de Schiller ?",
+    "options": ["Il coupe, réorganise et recomposite librement","Il le suit strictement", "Il le supprime entièrement",  "Il ne l’utilise pas"],
+    "answerIndex": 0,
+    "explication": "Il transforme profondément le texte pour en faire un tout cohérent."
+  },
+  {
+    "question": "31 - Comment Schiller définit-il la joie ?",
+    "options": ["Un plaisir passager", "Une illusion", "Un sentiment actif qui unit les êtres", "Une simple émotion esthétique"],
+    "answerIndex": 2,
+    "explication": "Pour Schiller, la joie unit les hommes dans l’ordre et l’harmonie."
+  },
+  {
+    "question": "32 - Comment est structurée l’audition du final selon le cours ?",
+    "options": ["2 parties", "3 parties", "4 parties", "5 parties"],
+    "answerIndex": 3,
+    "explication": "Le mouvement final est étudié en cinq parties distinctes."
+  },
+  {
+    "question": "33 - Quelle première étape du final est décrite ?",
+    "options": ["La marche au combat", "Le préambule", "La kermesse épique", "L’embrassement fraternel"],
+    "answerIndex": 1,
+    "explication": "La première audition est le préambule."
+  },
+  {
+    "question": "34 - Quelle étape marque l’arrivée du thème de la joie ?",
+    "options": ["Audition 2", "Audition 3", "Audition 4", "Audition 5"],
+    "answerIndex": 0,
+    "explication": "L’audition 2 introduit le thème de la joie."
+  },
+  {
+    "question": "35 - Quelle partie correspond à une marche au combat ?",
+    "options": ["Audition 1", "Audition 2", "Audition 3", "Audition 4"],
+    "answerIndex": 2,
+    "explication": "L’audition 3 est une marche au combat."
+  },
+  {
+    "question": "36 - Quelle partie représente l’unité fraternelle ?",
+    "options": ["Audition 4","Audition 1", "Audition 3",  "Audition 5"],
+    "answerIndex": 0,
+    "explication": "L’audition 4 exprime l’unité fraternelle."
+  },
+  {
+    "question": "37 - Quelle partie évoque une kermesse épique ?",
+    "options": ["Audition 2", "Audition 3", "Audition 4", "Audition 5"],
+    "answerIndex": 3,
+    "explication": "La dernière partie est décrite comme une kermesse épique."
+  },
+  {
+    "question": "38 - Quel philosophe est cité dans la conclusion ?",
+    "options": ["Kant", "Giordano Bruno", "Hegel", "Descartes"],
+    "answerIndex": 1,
+    "explication": "Le cours cite Giordano Bruno."
+  },
+  {
+    "question": "39 - Selon la conclusion, écouter Beethoven c’est :",
+    "options": ["Subir", "Être passif", "Agir", "Dormir"],
+    "answerIndex": 2,
+    "explication": "Écouter Beethoven est un acte actif, pas passif."
+  },
+  {
+    "question": "40 - Quelle notion Beethoven dépasse-t-il selon le cours ?",
+    "options": ["Le classicisme", "Le culte du moi romantique", "La virtuosité", "La symphonie traditionnelle"],
+    "answerIndex": 1,
+    "explication": "Il dépasse le culte du moi pour atteindre l’universel."
+  },
+  {
+    "question": "41 - Comment Beethoven est-il décrit dans son rapport à son œuvre ?",
+    "options": ["Il reste extérieur", "Il se livre entièrement", "Il masque sa personnalité", "Il copie Mozart"],
+    "answerIndex": 1,
+    "explication": "Beethoven se livre totalement dans sa musique."
+  },
+  {
+    "question": "42 - Que devient la symphonie avec Beethoven ?",
+    "options": ["Un simple divertissement", "Une œuvre décorative", "Un monde symphonique", "Une musique de cour"],
+    "answerIndex": 2,
+    "explication": "La symphonie devient un véritable 'monde symphonique'."
+  },
+  {
+    "question": "43 - Quelle symphonie introduit un chœur final ?",
+    "options": ["La 3", "La 5", "La 7", "La 9"],
+    "answerIndex": 3,
+    "explication": "La 9e symphonie introduit un final avec chœur."
+  },
+  {
+    "question": "44 - Quel compositeur est contemporain de la crise de Beethoven (1812-1816) ?",
+    "options": ["Schubert", "Debussy", "Wagner", "Berlioz"],
+    "answerIndex": 0,
+    "explication": "Schubert est contemporain de cette période."
+  },
+  {
+    "question": "45 - Quel compositeur critique parfois Beethoven selon le cours ?",
+    "options": ["Weber", "Bach", "Handel", "Telemann"],
+    "answerIndex": 0,
+    "explication": "Weber critique parfois Beethoven."
+  },
+  {
+    "question": "46 - Quel événement empêche Beethoven d’obtenir le poste qu’il désirait ?",
+    "options": ["Son départ précipité", "La guerre napoléonienne", "Il meurt avant d’obtenir un poste stable", "Il refuse tout poste"],
+    "answerIndex": 2,
+    "explication": "Beethoven meurt sans obtenir le poste stable qu’il souhaitait."
+  },
+  {
+    "question": "47 - Que signifie la phrase « passion de l’inaccessible » ?",
+    "options": ["Beethoven renonce à composer", "Il recherche constamment à dépasser les limites musicales", "Il veut voyager", "Il veut vivre en ermite"],
+    "answerIndex": 1,
+    "explication": "Elle illustre son désir d'aller au bout de ses idées."
+  },
+  {
+    "question": "48 - Quelle période est celle d’une exploration des formes plus lâches ?",
+    "options": ["1790-1792", "1800-1802", "1812-1816", "1825-1827"],
+    "answerIndex": 2,
+    "explication": "1812-1816 marque une exploration annonçant le Romantisme."
+  },
+  {
+    "question": "49 - Quelle est la durée totale sur laquelle s’étalent les 9 symphonies ?",
+    "options": ["5 ans", "10 ans", "25 ans", "40 ans"],
+    "answerIndex": 2,
+    "explication": "Elles s’étalent sur 25 ans, de 1800 à 1824."
+  },
+  {
+    "question": "50 - Que symbolise la 9e symphonie dans la conscience publique ?",
+    "options": ["Un conflit politique", "Un message d’unité entre les hommes", "Une défaite personnelle", "Un exercice technique"],
+    "answerIndex": 1,
+    "explication": "Elle porte un message d’unité et de fraternité humaine."
+  }
+]

@@ -8,7 +8,7 @@
   {
     "question": "2 - [Définition] Que désigne l’École de Mannheim ?",
     "options": [ "Une école de musique préclassique", "Un mouvement religieux","Une école de danse", "Une académie militaire"],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "explication": "L’École de Mannheim regroupe des compositeurs allemands et autrichiens à l’origine du style préclassique."
   },
   {

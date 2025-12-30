@@ -1,0 +1,612 @@
+[
+  {
+    "question": "1 - Qui est l’auteur du tableau « Un enterrement à Ornans » ?",
+    "options": ["Eugène Delacroix", "Jean-François Millet", "Gustave Courbet", "Édouard Manet"],
+    "answerIndex": 2,
+    "explication": "Le tableau est peint par Gustave Courbet entre 1849 et 1850. Il en est le chef de file du mouvement réaliste."
+  },
+  {
+    "question": "2 - En quelles années Courbet peint-il « Un enterrement à Ornans » ?",
+    "options": ["1840-1842", "1849-1850", "1855-1857", "1865-1866"],
+    "answerIndex": 1,
+    "explication": "Courbet réalise cette œuvre entre 1849 et 1850, juste après la Révolution de 1848."
+  },
+  {
+    "question": "3 - Quelle est la technique utilisée pour ce tableau ?",
+    "options": ["Aquarelle", "Fresque", "Huile sur toile", "Pastel"],
+    "answerIndex": 2,
+    "explication": "« Un enterrement à Ornans » est une huile sur toile de très grand format."
+  },
+  {
+    "question": "4 - Où est conservé le tableau aujourd’hui ?",
+    "options": ["Musée du Louvre", "Musée d’Orsay", "Centre Pompidou", "Musée des Beaux-Arts de Lyon"],
+    "answerIndex": 1,
+    "explication": "Le tableau est conservé au musée d’Orsay à Paris."
+  },
+  {
+    "question": "5 - Pourquoi ce tableau a-t-il choqué lors de sa présentation au Salon de 1850 ?",
+    "options": [
+      "Parce qu’il était abstrait",
+      "Parce qu’il représentait une scène mythologique",
+      "Parce qu’il montrait une scène populaire dans un format monumental",
+      "Parce qu’il était inachevé"
+    ],
+    "answerIndex": 2,
+    "explication": "Le grand format était réservé aux scènes historiques ou religieuses, pas à un enterrement villageois."
+  },
+  {
+    "question": "6 - À quel courant artistique appartient cette œuvre ?",
+    "options": ["Romantisme", "Réalisme", "Impressionnisme", "Symbolisme"],
+    "answerIndex": 1,
+    "explication": "Courbet est le chef de file du Réalisme, qui cherche à représenter le réel sans idéalisation."
+  },
+  {
+    "question": "7 - Combien de personnages environ sont représentés dans le tableau ?",
+    "options": ["Une dizaine", "Une quinzaine", "Une trentaine", "Une cinquantaine"],
+    "answerIndex": 2,
+    "explication": "Le tableau représente 27 personnages, tous identifiables et issus du village d’Ornans."
+  },
+  {
+    "question": "8 - Qui sont les modèles des personnages représentés ?",
+    "options": [
+      "Des acteurs professionnels",
+      "Des personnages imaginaires",
+      "Des habitants d’Ornans",
+      "Des figures mythologiques"
+    ],
+    "answerIndex": 2,
+    "explication": "Courbet fait poser des habitants réels d’Ornans, renforçant l’aspect réaliste de l’œuvre."
+  },
+  {
+    "question": "9 - Comment sont disposés les personnages dans le tableau ?",
+    "options": [
+      "En pyramide",
+      "En cercle",
+      "En double rang horizontal",
+      "De manière désordonnée"
+    ],
+    "answerIndex": 2,
+    "explication": "Les personnages sont alignés horizontalement en deux rangs, sans hiérarchie visuelle."
+  },
+  {
+    "question": "10 - Quelle séparation sociale est visible dans la composition ?",
+    "options": [
+      "Riches et pauvres mélangés",
+      "Hommes à gauche et femmes à droite",
+      "Jeunes devant et vieux derrière",
+      "Religieux isolés du reste"
+    ],
+    "answerIndex": 1,
+    "explication": "Comme dans l’église, les hommes sont à gauche et les femmes à droite."
+  },
+
+  {
+    "question": "11 - Quel personnage se tient face aux révolutionnaires ?",
+    "options": ["Le maire", "Le fossoyeur", "Le curé", "Un porteur"],
+    "answerIndex": 2,
+    "explication": "Le curé fait face aux révolutionnaires, créant un face-à-face symbolique entre Église et République."
+  },
+  {
+    "question": "12 - Que symbolise ce face-à-face entre curé et révolutionnaire ?",
+    "options": [
+      "Un conflit familial",
+      "Un débat artistique",
+      "L’opposition Église / République",
+      "Une scène biblique"
+    ],
+    "answerIndex": 2,
+    "explication": "Courbet évoque les tensions politiques de son époque entre religion et idéaux républicains."
+  },
+  {
+    "question": "13 - Quel rôle joue le fossoyeur dans la composition ?",
+    "options": [
+      "Il dirige la cérémonie",
+      "Il relie le ciel et la terre",
+      "Il incarne le monde d’en bas",
+      "Il représente la bourgeoisie"
+    ],
+    "answerIndex": 2,
+    "explication": "Son corps est tourné vers la fosse, symbolisant la réalité matérielle de la mort."
+  },
+  {
+    "question": "14 - Quelle couleur domine le tableau ?",
+    "options": ["Le bleu", "Le rouge", "Le noir", "Le vert"],
+    "answerIndex": 2,
+    "explication": "Le noir domine, mais il est nuancé (bleuté, charbonneux), évitant une masse uniforme."
+  },
+  {
+    "question": "15 - À quoi servent les touches de blanc dans la toile ?",
+    "options": [
+      "À éclairer la scène",
+      "À équilibrer les masses sombres",
+      "À représenter la neige",
+      "À guider le regard vers le ciel"
+    ],
+    "answerIndex": 1,
+    "explication": "Les blancs créent des contrastes visuels forts avec les noirs dominants."
+  },
+
+  {
+    "question": "16 - Quel élément attire l’œil par sa couleur rouge ?",
+    "options": [
+      "Le cercueil",
+      "Les bedeaux et enfants de chœur",
+      "Le chien",
+      "La falaise"
+    ],
+    "answerIndex": 1,
+    "explication": "Le rouge vermillon des costumes tranche avec l’austérité générale de la scène."
+  },
+  {
+    "question": "17 - Pourquoi le format du tableau est-il révolutionnaire ?",
+    "options": [
+      "Il est très petit",
+      "Il est carré",
+      "Il est panoramique et monumental",
+      "Il est circulaire"
+    ],
+    "answerIndex": 2,
+    "explication": "Ce format était réservé aux sujets nobles, pas à une scène de la vie quotidienne."
+  },
+  {
+    "question": "18 - Quelle hiérarchie des genres Courbet remet-il en cause ?",
+    "options": [
+      "Peinture abstraite > figurative",
+      "Portrait > paysage",
+      "Peinture d’histoire > scène populaire",
+      "Religieux > mythologique"
+    ],
+    "answerIndex": 2,
+    "explication": "Il donne une dignité monumentale à une scène ordinaire."
+  },
+  {
+    "question": "19 - Quel animal est représenté au premier plan ?",
+    "options": ["Un cheval", "Un chat", "Un chien", "Un oiseau"],
+    "answerIndex": 2,
+    "explication": "Le chien est associé symboliquement au passage vers l’au-delà."
+  },
+  {
+    "question": "20 - Quel objet religieux structure verticalement la composition ?",
+    "options": ["Le cercueil", "Le crucifix", "Le cierge", "Le bréviaire"],
+    "answerIndex": 1,
+    "explication": "Le crucifix crée un axe entre la terre et le ciel."
+  },
+
+  {
+    "question": "21 - Quel mouvement Courbet rejette-t-il explicitement ?",
+    "options": ["Le Classicisme", "Le Symbolisme", "Le Romantisme idéalisé", "L’Impressionnisme"],
+    "answerIndex": 2,
+    "explication": "Il rejette l’idéalisme romantique au profit d’une représentation brute du réel."
+  },
+  {
+    "question": "22 - Que cherche à montrer Courbet à travers cette œuvre ?",
+    "options": [
+      "Une vision idéalisée de la mort",
+      "La réalité sociale et humaine",
+      "Une scène biblique",
+      "Un hommage aux rois"
+    ],
+    "answerIndex": 1,
+    "explication": "Le tableau montre la mort comme un fait social ordinaire."
+  },
+  {
+    "question": "23 - Pourquoi parle-t-on d’un art « social » à propos de Courbet ?",
+    "options": [
+      "Il peint pour la noblesse",
+      "Il peint des scènes religieuses",
+      "Il s’intéresse aux classes populaires",
+      "Il peint uniquement des portraits"
+    ],
+    "answerIndex": 2,
+    "explication": "Il représente les paysans, ouvriers et bourgeois ordinaires."
+  },
+  {
+    "question": "24 - Quelle critique revient souvent contre le tableau ?",
+    "options": [
+      "Il est trop coloré",
+      "Il est trop abstrait",
+      "Il montre la laideur",
+      "Il manque de perspective"
+    ],
+    "answerIndex": 2,
+    "explication": "Les critiques reprochent à Courbet de peindre le trivial et le laid."
+  },
+  {
+    "question": "25 - Pourquoi Courbet est-il considéré comme un artiste engagé ?",
+    "options": [
+      "Il soutient la monarchie",
+      "Il participe à la Commune",
+      "Il refuse toute politique",
+      "Il peint uniquement pour l’Église"
+    ],
+    "answerIndex": 1,
+    "explication": "Il s’engage politiquement et participera à la Commune de Paris en 1871."
+  },
+
+  {
+    "question": "26 - Quelle symbolique est associée au crâne près de la fosse ?",
+    "options": [
+      "La victoire",
+      "La renaissance et la mort",
+      "La richesse",
+      "La nature"
+    ],
+    "answerIndex": 1,
+    "explication": "Le crâne renvoie à la mort mais aussi à une possible renaissance symbolique."
+  },
+  {
+    "question": "27 - Quel courant philosophique influence indirectement Courbet ?",
+    "options": ["Le stoïcisme", "Le socialisme", "Le surréalisme", "Le positivisme"],
+    "answerIndex": 1,
+    "explication": "Courbet est proche de penseurs comme Proudhon."
+  },
+  {
+    "question": "28 - Pourquoi le tableau est-il refusé à l’Exposition universelle de 1855 ?",
+    "options": [
+      "Il est trop ancien",
+      "Il est jugé immoral",
+      "Il choque trop les critiques",
+      "Il est inachevé"
+    ],
+    "answerIndex": 2,
+    "explication": "Les critiques accumulées conduisent à son refus."
+  },
+  {
+    "question": "29 - Quelle réaction Courbet adopte-t-il face à ce refus ?",
+    "options": [
+      "Il abandonne la peinture",
+      "Il s’excuse publiquement",
+      "Il ouvre son propre pavillon",
+      "Il détruit le tableau"
+    ],
+    "answerIndex": 2,
+    "explication": "Il finance et expose lui-même ses œuvres dans le Pavillon du Réalisme."
+  },
+  {
+    "question": "30 - Que signifie pour Courbet « peindre le réel » ?",
+    "options": [
+      "Peindre l’imaginaire",
+      "Peindre des symboles abstraits",
+      "Peindre ce qui est visible et existant",
+      "Peindre uniquement la nature"
+    ],
+    "answerIndex": 2,
+    "explication": "Pour Courbet, la peinture doit représenter des choses concrètes."
+  },
+
+  {
+    "question": "31 - Pourquoi le cercueil est-il incliné ?",
+    "options": [
+      "Pour des raisons esthétiques uniquement",
+      "Pour guider le regard vers la fosse",
+      "Pour suivre la pente du terrain",
+      "Pour équilibrer les couleurs"
+    ],
+    "answerIndex": 1,
+    "explication": "Il dirige visuellement le regard vers la fosse et la mort."
+  },
+  {
+    "question": "32 - Que représente l’axe vertical allant de la fosse au ciel ?",
+    "options": [
+      "La hiérarchie sociale",
+      "Le cheminement de la vie",
+      "La perspective classique",
+      "Le paysage"
+    ],
+    "answerIndex": 1,
+    "explication": "Il peut symboliser le parcours de la vie jusqu’à la mort et au salut."
+  },
+  {
+    "question": "33 - Pourquoi le tableau n’idéalise-t-il pas les visages ?",
+    "options": [
+      "Par manque de technique",
+      "Par volonté réaliste",
+      "À cause du temps",
+      "Pour choquer gratuitement"
+    ],
+    "answerIndex": 1,
+    "explication": "Courbet montre les visages tels qu’ils sont, sans embellissement."
+  },
+  {
+    "question": "34 - Quelle est la position de Courbet face à l’Académisme ?",
+    "options": [
+      "Il l’admire",
+      "Il l’ignore",
+      "Il le critique et le rejette",
+      "Il s’y conforme"
+    ],
+    "answerIndex": 2,
+    "explication": "Il combat l’art officiel et ses règles figées."
+  },
+  {
+    "question": "35 - Pourquoi parle-t-on d’une œuvre manifeste ?",
+    "options": [
+      "Elle est religieuse",
+      "Elle résume les principes du Réalisme",
+      "Elle est autobiographique",
+      "Elle est inachevée"
+    ],
+    "answerIndex": 1,
+    "explication": "Elle affirme clairement les choix esthétiques et idéologiques du Réalisme."
+  },
+
+  {
+    "question": "36 - Quelle place occupe la nature dans le tableau ?",
+    "options": [
+      "Elle est idéalisée",
+      "Elle est absente",
+      "Elle sert de décor neutre",
+      "Elle participe à la symbolique"
+    ],
+    "answerIndex": 3,
+    "explication": "La falaise et le ciel participent à l’opposition terre / ciel."
+  },
+  {
+    "question": "37 - Pourquoi les critiques parlent-ils de vulgarité ?",
+    "options": [
+      "À cause des couleurs",
+      "À cause du sujet populaire",
+      "À cause de la technique",
+      "À cause du format"
+    ],
+    "answerIndex": 1,
+    "explication": "Ils jugent indigne de représenter des paysans à si grande échelle."
+  },
+  {
+    "question": "38 - Quelle valeur Courbet donne-t-il aux gens ordinaires ?",
+    "options": [
+      "Une valeur comique",
+      "Une valeur morale",
+      "Une dignité égale aux héros",
+      "Aucune valeur"
+    ],
+    "answerIndex": 2,
+    "explication": "Il leur accorde la même importance qu’aux grands personnages historiques."
+  },
+  {
+    "question": "39 - Quelle hypothèse existe sur l’identité du mort ?",
+    "options": [
+      "Un roi",
+      "Un inconnu symbolique",
+      "La sœur de Courbet",
+      "Un prêtre célèbre"
+    ],
+    "answerIndex": 2,
+    "explication": "Certains y voient une projection du deuil personnel de Courbet."
+  },
+  {
+    "question": "40 - Que pourrait symboliser l’enterrement sur le plan politique ?",
+    "options": [
+      "La naissance de la République",
+      "L’enterrement du Romantisme",
+      "La victoire de l’Empire",
+      "La fin de la religion"
+    ],
+    "answerIndex": 1,
+    "explication": "Il peut symboliser la fin d’un courant artistique ancien."
+  },
+
+  {
+    "question": "41 - Quelle attitude adopte Courbet face aux critiques ?",
+    "options": [
+      "Il se conforme",
+      "Il renonce",
+      "Il revendique sa démarche",
+      "Il change de style"
+    ],
+    "answerIndex": 2,
+    "explication": "Il affirme que ses seuls maîtres sont la nature et la tradition."
+  },
+  {
+    "question": "42 - Pourquoi le tableau reste-t-il encore débattu aujourd’hui ?",
+    "options": [
+      "Il est mal conservé",
+      "Il est ambigu et riche symboliquement",
+      "Il est peu connu",
+      "Il est incomplet"
+    ],
+    "answerIndex": 1,
+    "explication": "Ses interprétations multiples nourrissent encore le débat."
+  },
+  {
+    "question": "43 - Quelle influence Courbet aura-t-il sur l’art moderne ?",
+    "options": [
+      "Aucune",
+      "Il prépare l’Impressionnisme",
+      "Il renforce l’Académisme",
+      "Il supprime la figuration"
+    ],
+    "answerIndex": 1,
+    "explication": "Son approche du réel influencera les peintres modernes."
+  },
+  {
+    "question": "44 - Pourquoi les personnages semblent-ils figés ?",
+    "options": [
+      "Par manque de mouvement",
+      "Pour renforcer la solennité",
+      "À cause de la technique",
+      "Par erreur"
+    ],
+    "answerIndex": 1,
+    "explication": "La rigidité renforce la gravité de la cérémonie funéraire."
+  },
+  {
+    "question": "45 - Quel est l’effet produit par l’absence de hiérarchie visuelle ?",
+    "options": [
+      "Confusion",
+      "Démocratisation des figures",
+      "Manque de lisibilité",
+      "Effet décoratif"
+    ],
+    "answerIndex": 1,
+    "explication": "Tous les personnages sont traités avec la même importance."
+  },
+
+  {
+    "question": "46 - Quel lien existe entre art et politique chez Courbet ?",
+    "options": [
+      "Ils sont séparés",
+      "L’art sert le pouvoir",
+      "L’art exprime une vision sociale",
+      "L’art est religieux"
+    ],
+    "answerIndex": 2,
+    "explication": "Courbet utilise l’art pour montrer la réalité sociale."
+  },
+  {
+    "question": "47 - Pourquoi parle-t-on d’un peintre provocateur ?",
+    "options": [
+      "Il choque volontairement les normes",
+      "Il utilise des couleurs vives",
+      "Il peint vite",
+      "Il refuse les expositions"
+    ],
+    "answerIndex": 0,
+    "explication": "Il remet en cause les valeurs artistiques établies."
+  },
+  {
+    "question": "48 - Quelle est la place du spectateur face au tableau ?",
+    "options": [
+      "Extérieure",
+      "Dominante",
+      "Impliquée dans la scène",
+      "Secondaire"
+    ],
+    "answerIndex": 2,
+    "explication": "La composition frontale inclut le spectateur dans l’enterrement."
+  },
+  {
+    "question": "49 - Quelle idée du sacré se dégage du tableau ?",
+    "options": [
+      "Idéalisée",
+      "Abstraite",
+      "Concrète et humaine",
+      "Triomphante"
+    ],
+    "answerIndex": 2,
+    "explication": "Le sacré est montré comme un fait social ordinaire."
+  },
+  {
+    "question": "50 - Pourquoi cette œuvre marque-t-elle l’histoire de l’art ?",
+    "options": [
+      "Par sa beauté classique",
+      "Par son innovation réaliste",
+      "Par sa technique abstraite",
+      "Par son sujet mythologique"
+    ],
+    "answerIndex": 1,
+    "explication": "Elle transforme profondément la manière de représenter le réel."
+  },
+
+  {
+    "question": "51 - Quel rôle joue la lumière dans le tableau ?",
+    "options": [
+      "Elle dramatise excessivement",
+      "Elle est uniforme et sobre",
+      "Elle crée un effet théâtral",
+      "Elle est absente"
+    ],
+    "answerIndex": 1,
+    "explication": "La lumière est diffuse, sans effet spectaculaire."
+  },
+  {
+    "question": "52 - Pourquoi le paysage n’est-il pas idéalisé ?",
+    "options": [
+      "Par manque de temps",
+      "Par choix réaliste",
+      "Par contrainte technique",
+      "Par ignorance"
+    ],
+    "answerIndex": 1,
+    "explication": "Il reflète fidèlement l’environnement réel d’Ornans."
+  },
+  {
+    "question": "53 - Quel message principal transmet l’œuvre ?",
+    "options": [
+      "La grandeur héroïque",
+      "La foi triomphante",
+      "La réalité humaine face à la mort",
+      "La victoire politique"
+    ],
+    "answerIndex": 2,
+    "explication": "La mort est montrée comme une expérience collective et ordinaire."
+  },
+  {
+    "question": "54 - Quelle rupture artistique Courbet incarne-t-il ?",
+    "options": [
+      "Avec la religion",
+      "Avec la peinture d’histoire",
+      "Avec la figuration",
+      "Avec la nature"
+    ],
+    "answerIndex": 1,
+    "explication": "Il rompt avec la hiérarchie traditionnelle des sujets."
+  },
+  {
+    "question": "55 - Comment Courbet définit-il la peinture ?",
+    "options": [
+      "Un art abstrait",
+      "Un art décoratif",
+      "Un art concret",
+      "Un art symbolique"
+    ],
+    "answerIndex": 2,
+    "explication": "Pour lui, la peinture doit représenter des choses visibles et réelles."
+  },
+
+  {
+    "question": "56 - Pourquoi cette œuvre est-elle qualifiée de réaliste ?",
+    "options": [
+      "Elle embellit le réel",
+      "Elle idéalise la mort",
+      "Elle montre le réel sans filtre",
+      "Elle invente une scène"
+    ],
+    "answerIndex": 2,
+    "explication": "Elle montre la réalité sociale sans idéalisation."
+  },
+  {
+    "question": "57 - Quelle place occupe Courbet dans le XIXe siècle ?",
+    "options": [
+      "Peintre académique",
+      "Peintre marginal et novateur",
+      "Peintre officiel",
+      "Peintre romantique tardif"
+    ],
+    "answerIndex": 1,
+    "explication": "Il s’isole volontairement pour défendre une nouvelle vision de l’art."
+  },
+  {
+    "question": "58 - En quoi le tableau est-il universel ?",
+    "options": [
+      "Par son sujet mythologique",
+      "Par son message humain",
+      "Par sa technique",
+      "Par sa couleur"
+    ],
+    "answerIndex": 1,
+    "explication": "Il traite d’un événement commun à toute l’humanité : la mort."
+  },
+  {
+    "question": "59 - Pourquoi peut-on parler d’un tableau politique ?",
+    "options": [
+      "Il représente un roi",
+      "Il soutient l’Empire",
+      "Il interroge la société et ses valeurs",
+      "Il fait de la propagande"
+    ],
+    "answerIndex": 2,
+    "explication": "Il questionne les rapports sociaux et idéologiques de son époque."
+  },
+  {
+    "question": "60 - Quelle est la portée majeure de « Un enterrement à Ornans » ?",
+    "options": [
+      "Esthétique uniquement",
+      "Historique et sociale",
+      "Religieuse uniquement",
+      "Décorative"
+    ],
+    "answerIndex": 1,
+    "explication": "L’œuvre marque un tournant artistique, social et politique dans l’histoire de la peinture."
+  }
+]

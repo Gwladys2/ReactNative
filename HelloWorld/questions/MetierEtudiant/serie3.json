@@ -1,0 +1,311 @@
+[
+  {
+    "question": "1 - Quel est l’objectif principal de la fiche « Comment lire un article scientifique ? » ?",
+    "options": ["Apprendre à écrire un roman", "Guider la lecture d’articles scientifiques", "Évaluer des œuvres littéraires", "Rédiger une bibliographie automatiquement"],
+    "answerIndex": 1,
+    "explication": "La fiche sert de guide pour comprendre et analyser un article scientifique."
+  },
+  {
+    "question": "2 - Cette fiche est également transposable à :",
+    "options": ["Des poèmes", "Des films", "Des pièces de théâtre", "Des ouvrages"],
+    "answerIndex": 3,
+    "explication": "Elle peut s’appliquer à d’autres types de documents comme des ouvrages."
+  },
+  {
+    "question": "3 - Quel est l'objectif final après lecture de l’article ?",
+    "options": ["Rédiger une synthèse de lecture","Faire un exposé oral",  "Écrire un roman", "Créer une carte mentale"],
+    "answerIndex": 0,
+    "explication": "La fiche précise que le lecteur doit être capable de produire une synthèse de lecture complète."
+  },
+  {
+    "question": "4 - Avant de lire l’article, il est conseillé de repérer :",
+    "options": ["La couverture seulement", "L’éditeur, les auteurs, le titre, les mots-clefs, le résumé", "Uniquement la bibliographie", "Uniquement la conclusion"],
+    "answerIndex": 1,
+    "explication": "Ces éléments permettent de situer rapidement l’article."
+  },
+  {
+    "question": "5 - Une revue scientifique s’adresse principalement à :",
+    "options": ["Un public familial", "Des enfants", "Un lectorat scientifique", "Des artistes"],
+    "answerIndex": 2,
+    "explication": "Les revues scientifiques sont destinées à un public de chercheurs ou spécialistes."
+  },
+
+  {
+    "question": "6 - Une revue de vulgarisation vise :",
+    "options": ["Les scientifiques experts", "Les étudiants uniquement", "Les ingénieurs", "Le grand public"],
+    "answerIndex": 3,
+    "explication": "Une revue de vulgarisation simplifie les contenus pour les rendre accessibles."
+  },
+  {
+    "question": "7 - Pourquoi analyser l’orientation de la revue ?",
+    "options": ["Pour juger sa mise en page", "Pour connaître sa thématique ou sa discipline", "Pour connaître son prix", "Pour vérifier son âge"],
+    "answerIndex": 1,
+    "explication": "Une revue peut être thématique ou disciplinaire, ce qui influence la lecture."
+  },
+  {
+    "question": "8 - L’auteur d’un article peut être :",
+    "options": ["MCF, doctorant, professionnel, consultant", "Uniquement professeur", "Uniquement étudiant", "Obligatoirement journaliste"],
+    "answerIndex": 0,
+    "explication": "La fiche donne des exemples variés de statuts."
+  },
+  {
+    "question": "9 - Pourquoi connaître la discipline de l’auteur ?",
+    "options": ["Pour connaître son style vestimentaire", "Pour vérifier son âge", "Pour savoir s'il enseigne", "Pour situer son approche théorique"],
+    "answerIndex": 3,
+    "explication": "La discipline de l’auteur informe sur le cadre théorique mobilisé."
+  },
+  {
+    "question": "10 - Le titre d’un article doit :",
+    "options": ["Être humoristique", "Résumer clairement le sujet", "Contenir un jeu de mots", "Être très long"],
+    "answerIndex": 1,
+    "explication": "Il présente le thème et l’idée-clé abordés dans l’article."
+  },
+
+  {
+    "question": "11 - Les mots-clefs permettent :",
+    "options": ["De repérer les thématiques et disciplines mobilisées","D’embellir l’article",  "D’allonger inutilement le texte", "De résumer la conclusion"],
+    "answerIndex": 0,
+    "explication": "Ils indiquent les thèmes essentiels et facilitent les recherches bibliographiques."
+  },
+  {
+    "question": "12 - Le résumé contient généralement :",
+    "options": ["Des citations littéraires",  "Plus de 5 pages","100 à 150 mots (8-10 lignes)", "Un récit personnel"],
+    "answerIndex": 2,
+    "explication": "La fiche précise la longueur moyenne du résumé."
+  },
+  {
+    "question": "13 - Avant d’obtenir l’article complet, on a souvent accès :",
+    "options": ["Au résumé","Au titre seulement",  "À la conclusion", "À la méthodologie complète"],
+    "answerIndex": 0,
+    "explication": "Le résumé est souvent accessible gratuitement même si l’article ne l’est pas."
+  },
+  {
+    "question": "14 - Le résumé permet d’identifier :",
+    "options": ["Le style littéraire de l’auteur", "La problématique, la méthodologie, les références, les résultats", "La biographie de l’auteur", "Les illustrations de l’article"],
+    "answerIndex": 1,
+    "explication": "Il fournit une vision synthétique de tout l’article."
+  },
+  {
+    "question": "15 - Le lexique sert à :",
+    "options": ["Ajouter des images", "Présenter les auteurs", "Faire un résumé", "Définir les termes difficiles"],
+    "answerIndex": 3,
+    "explication": "Il aide le lecteur à comprendre la terminologie spécifique."
+  },
+
+  {
+    "question": "16 - L’introduction d’un article contient généralement :",
+    "options": ["Un résumé du plan et du sujet","Une conclusion",  "Des remerciements", "Des jeux de mots"],
+    "answerIndex": 0,
+    "explication": "Elle présente le plan, le sujet et l’intérêt du texte."
+  },
+  {
+    "question": "17 - Annoter un texte permet :",
+    "options": ["D'éviter de réfléchir", "D’effacer les difficultés", "D’accélérer la lecture en sautant des passages", "De revenir sur les idées complexes"],
+    "answerIndex": 3,
+    "explication": "Les annotations aident à clarifier et approfondir la compréhension."
+  },
+  {
+    "question": "18 - Utiliser un code couleur permet :",
+    "options": ["De décorer la page", "De repérer et classer les informations importantes", "D’éviter les citations", "D’effacer des passages"],
+    "answerIndex": 1,
+    "explication": "Les couleurs segmentent les types d’informations."
+  },
+  {
+    "question": "19 - Chaque paragraphe représente souvent :",
+    "options": ["Une seule idée", "Plusieurs idées mélangées", "La conclusion", "Un résumé de l'article entier"],
+    "answerIndex": 0,
+    "explication": "Un paragraphe développe en général une idée principale."
+  },
+  {
+    "question": "20 - Les mots de liaison servent à :",
+    "options": ["Rendre le texte plus long", "Créer du rythme poétique", "Établir des liens logiques entre les arguments", "Remplacer les citations"],
+    "answerIndex": 2,
+    "explication": "Ils clarifient les relations entre les idées."
+  },
+
+  {
+    "question": "21 - La problématique correspond à :",
+    "options": ["Le résumé de l’article", "La question à laquelle l’auteur veut répondre", "L’opinion personnelle de l’auteur", "Une anecdote"],
+    "answerIndex": 1,
+    "explication": "La problématique est la question de recherche centrale."
+  },
+  {
+    "question": "22 - L’état de l’art correspond à :",
+    "options": [ "La revue des connaissances existantes","La biographie de l’auteur", "Un texte artistique", "Un résumé personnel"],
+    "answerIndex": 0,
+    "explication": "Il s'agit de l’ensemble des connaissances mobilisées."
+  },
+  {
+    "question": "23 - Les hypothèses sont :",
+    "options": ["Des certitudes absolues", "Des anecdotes personnelles", "Des citations", "Des propositions à vérifier"],
+    "answerIndex": 3,
+    "explication": "Les hypothèses sont testées avec la méthodologie."
+  },
+  {
+    "question": "24 - La méthodologie concerne :",
+    "options": ["Les méthodes d’enquête et d'analyse utilisées","La mise en page",  "Les goûts personnels de l’auteur", "La conclusion"],
+    "answerIndex": 0,
+    "explication": "Elle détaille comment l’étude a été menée."
+  },
+  {
+    "question": "25 - Un matériel empirique peut être :",
+    "options": ["Une chanson", "Un entretien, un questionnaire, une observation", "Une publicité", "Un roman"],
+    "answerIndex": 1,
+    "explication": "La fiche donne des exemples précis d’outils d’enquête."
+  },
+
+  {
+    "question": "26 - La population étudiée correspond à :",
+    "options": ["Les auteurs cités",  "Les lecteurs de l’article","Les personnes qui participent à l’enquête", "Les spécialistes du domaine"],
+    "answerIndex": 2,
+    "explication": "Ce sont les individus sur lesquels porte la recherche."
+  },
+  {
+    "question": "27 - L’analyse peut être faite :",
+    "options": ["Sans aucune méthode", "Uniquement avec SPSS", "Uniquement avec des images", "Avec ou sans logiciel"],
+    "answerIndex": 3,
+    "explication": "La fiche mentionne l’analyse thématique mais aussi les logiciels."
+  },
+  {
+    "question": "28 - Les résultats présentent :",
+    "options": ["Les réponses apportées par l’enquête","Un récit artistique",  "Un résumé du texte", "La biographie de l’auteur"],
+    "answerIndex": 0,
+    "explication": "Les résultats sont les observations principales."
+  },
+  {
+    "question": "29 - La conclusion sert à :",
+    "options": ["Introduire un nouveau problème", "Résumer les résultats et proposer des prolongements", "Présenter les auteurs", "Lister les mots-clefs"],
+    "answerIndex": 1,
+    "explication": "Elle revient sur les résultats et ouvre des pistes."
+  },
+  {
+    "question": "30 - Les prolongements possibles désignent :",
+    "options": ["Des erreurs de l’article",  "Une nouvelle introduction", "Des pistes de recherche futures","Un résumé optionnel"],
+    "answerIndex": 2,
+    "explication": "Ils permettent d'imaginer la suite du travail scientifique."
+  },
+
+  {
+    "question": "31 - La bibliographie indique :",
+    "options": ["Les références théoriques mobilisées","Les réseaux sociaux de l’auteur",  "Les goûts de l’auteur", "Des citations fictives"],
+    "answerIndex": 0,
+    "explication": "Elle rassemble les sources utilisées dans l’article."
+  },
+  {
+    "question": "32 - Il est conseillé d’identifier :",
+    "options": ["Tous les auteurs existants", "Uniquement l’auteur du texte", "Les auteurs les moins connus", "2 à 4 auteurs principaux cités"],
+    "answerIndex": 3,
+    "explication": "La fiche recommande de repérer les auteurs majeurs mobilisés."
+  },
+  {
+    "question": "33 - Une bonne lecture doit permettre :",
+    "options": ["De connaître la vie privée de l’auteur", "De répondre aux questions-clés : problématique, hypothèses, résultats, méthodologie…", "De retenir uniquement le titre", "De se faire un avis subjectif"],
+    "answerIndex": 1,
+    "explication": "La fiche liste explicitement ces éléments."
+  },
+  {
+    "question": "34 - Une bonne compréhension exige souvent :",
+    "options": ["Plusieurs lectures et vérifications","Une seule lecture rapide",  "Aucune annotation", "Une lecture diagonale uniquement"],
+    "answerIndex": 0,
+    "explication": "Certains passages ne deviennent clairs qu'à la deuxième lecture."
+  },
+  {
+    "question": "35 - Les difficultés de lecture doivent être :",
+    "options": ["Ignorées", "Supprimées", "Réécrites", "Signalées et explorées"],
+    "answerIndex": 3,
+    "explication": "Ces difficultés éclairent ce qui mérite approfondissement."
+  },
+
+  {
+    "question": "36 - La revue de littérature se situe généralement :",
+    "options": ["Dans la conclusion", "Dans l’état de l’art", "Dans les annexes", "Dans le résumé"],
+    "answerIndex": 1,
+    "explication": "L’état de l’art rassemble les connaissances existantes."
+  },
+  {
+    "question": "37 - Un mot inconnu doit être :",
+    "options": ["Cherché ou repéré dans le texte","Ignoré",  "Inventé", "Surligné uniquement"],
+    "answerIndex": 0,
+    "explication": "La fiche conseille de noter et chercher la définition."
+  },
+  {
+    "question": "38 - Un article peut ne pas suivre :",
+    "options": ["La logique scientifique", "Une structuration classique", "Un ordre chronologique", "La cohérence argumentative"],
+    "answerIndex": 1,
+    "explication": "Certains articles s’éloignent du plan classique."
+  },
+  {
+    "question": "39 - La structure du texte doit être :",
+    "options": ["Écartée", "Ignorée", "Devancée", "Repérée"],
+    "answerIndex": 3,
+    "explication": "Repérer les parties aide à comprendre l’organisation de l’article."
+  },
+  {
+    "question": "40 - La cohérence du texte s’observe grâce :",
+    "options": ["Aux couleurs utilisées", "Aux illustrations", "Aux connecteurs logiques", "Aux citations"],
+    "answerIndex": 2,
+    "explication": "Les connecteurs montrent le fil logique."
+  },
+
+  {
+    "question": "41 - L'introduction et la conclusion sont :",
+    "options": ["Des résumés du contenu","Sans rapport",  "Des parties facultatives", "Identiques à la méthodologie"],
+    "answerIndex": 0,
+    "explication": "Elles résument et situent les éléments essentiels du texte."
+  },
+  {
+    "question": "42 - Après la lecture, il faut se demander si :",
+    "options": ["Le texte est stylé", "L’article est pertinent pour votre thématique", "L’auteur est célèbre", "L’article est divertissant"],
+    "answerIndex": 1,
+    "explication": "La pertinence est un critère de choix des sources."
+  },
+  {
+    "question": "43 - Un outil courant d’analyse est :",
+    "options": [ "L’analyse musicale", "La critique littéraire","L’analyse thématique", "L’interprétation artistique"],
+    "answerIndex": 2,
+    "explication": "L’analyse thématique est une méthode classique."
+  },
+  {
+    "question": "44 - Un article scientifique doit permettre de :",
+    "options": ["Comprendre un phénomène", "Divertir", "Raconter une fiction", "Dresser un portrait personnel"],
+    "answerIndex": 0,
+    "explication": "Il vise à éclairer une problématique de manière rigoureuse."
+  },
+  {
+    "question": "45 - Lors de la lecture, il est important de :",
+    "options": ["Faire abstraction du plan", "Éviter les relectures", "Ne pas prendre de notes", "Comparer le contenu au résumé"],
+    "answerIndex": 3,
+    "explication": "Le fil du texte doit correspondre à ce qui était annoncé."
+  },
+
+  {
+    "question": "46 - La démarche scientifique implique :",
+    "options": ["Des opinions personnelles", "Une problématique, des hypothèses, une méthodologie et des résultats", "Un récit imaginaire", "Des anecdotes"],
+    "answerIndex": 1,
+    "explication": "La fiche en décrit précisément les éléments."
+  },
+  {
+    "question": "47 - Un bon lecteur scientifique doit :",
+    "options": ["Mémoriser l’article mot à mot", "Ignorer les notions complexes", "Repérer les points essentiels", "Sauter les données méthodologiques"],
+    "answerIndex": 2,
+    "explication": "Repérer les éléments importants est fondamental."
+  },
+  {
+    "question": "48 - Comprendre la méthodologie permet :",
+    "options": ["D’évaluer la validité des résultats","De rejeter l’article",  "De connaître l’auteur personnellement", "D’éviter d’analyser l’article"],
+    "answerIndex": 0,
+    "explication": "Les résultats n’ont de valeur qu’au regard de la méthode utilisée."
+  },
+  {
+    "question": "49 - Les prolongements d’un article servent à :",
+    "options": ["Fermer la recherche", "Évaluer les étudiants", "Changer de discipline", "Ouvrir vers d’autres pistes de travail"],
+    "answerIndex": 3,
+    "explication": "Ils suggèrent la suite possible du travail scientifique."
+  },
+  {
+    "question": "50 - Une lecture scientifique de qualité doit :",
+    "options": ["Rester superficielle", "Permettre d’expliquer ce que l’article permet ou non de comprendre", "Éviter toute critique", "Ignorer la bibliographie"],
+    "answerIndex": 1,
+    "explication": "C’est l’un des objectifs annoncés dans l’introduction de la fiche."
+  }
+]

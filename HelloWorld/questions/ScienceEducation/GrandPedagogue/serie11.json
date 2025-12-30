@@ -1,0 +1,553 @@
+[
+  {
+    "question": "1 - Quel est l’objectif principal de l’UE 102 ?",
+    "options": [
+      "Apprendre des méthodes pédagogiques clés en main",
+      "Lister et expliquer les convergences et divergences entre pédagogies",
+      "Former des enseignants spécialisés",
+      "Comparer uniquement les pédagogies alternatives"
+    ],
+    "answerIndex": 1,
+    "explication": "L’UE 102 vise à comprendre les débats éducatifs en analysant convergences et divergences entre pédagogies et en situant les pédagogues dans les débats actuels."
+  },
+  {
+    "question": "2 - Que désigne la « forme scolaire » ?",
+    "options": [
+      "Un type d’architecture scolaire",
+      "Un modèle pédagogique alternatif",
+      "Un ensemble de règles organisant l’enseignement scolaire",
+      "Une méthode propre à l’éducation nouvelle"
+    ],
+    "answerIndex": 2,
+    "explication": "La forme scolaire désigne l’organisation traditionnelle de l’école : séparation des savoirs, temps scolaire structuré, relation maître-élève asymétrique."
+  },
+  {
+    "question": "3 - L’Éducation nouvelle marque-t-elle l’abolition de la forme scolaire ?",
+    "options": [
+      "Oui, totalement",
+      "Non, elle la supprime partiellement",
+      "Oui, mais uniquement dans les écoles privées",
+      "Non, elle est un projet de réforme"
+    ],
+    "answerIndex": 3,
+    "explication": "Selon Leroy (2022), l’Éducation nouvelle ne supprime pas la forme scolaire mais cherche à la réformer, malgré une apparente rupture."
+  },
+  {
+    "question": "4 - Pourquoi peut-on dire que l’Éducation nouvelle semble rompre avec la forme scolaire ?",
+    "options": [
+      "Elle supprime l’enseignant",
+      "Elle favorise l’autonomie et l’activité de l’élève",
+      "Elle refuse toute transmission de savoirs",
+      "Elle abandonne l’école"
+    ],
+    "answerIndex": 1,
+    "explication": "Les pratiques actives, la coopération et l’autonomie donnent l’impression d’une rupture avec la forme scolaire classique."
+  },
+  {
+    "question": "5 - En quoi la forme scolaire reste-t-elle présente dans l’Éducation nouvelle ?",
+    "options": [
+      "Par la suppression des programmes",
+      "Par l’absence d’évaluation",
+      "Par la persistance des rôles scolaires",
+      "Par l’absence d’autorité"
+    ],
+    "answerIndex": 2,
+    "explication": "Malgré des innovations, les cadres scolaires (temps, programmes, rôles) demeurent."
+  },
+  {
+    "question": "6 - À qui s’adressaient prioritairement certaines écoles nouvelles en Angleterre ?",
+    "options": [
+      "Aux élites",
+      "Aux classes populaires",
+      "Aux élèves en difficulté",
+      "Aux enfants handicapés"
+    ],
+    "answerIndex": 0,
+    "explication": "Les écoles nouvelles anglaises visaient la formation des élites responsables via le self-government."
+  },
+  {
+    "question": "7 - Quel était l’objectif du self-government ?",
+    "options": [
+      "Supprimer l’autorité adulte",
+      "Former des citoyens autonomes et responsables",
+      "Éliminer les règles scolaires",
+      "Préparer à l’université"
+    ],
+    "answerIndex": 1,
+    "explication": "Le self-government visait à former des élites capables de gouverner et de se gouverner."
+  },
+  {
+    "question": "8 - L’École des Roches accueillait principalement :",
+    "options": [
+      "Des enfants d’ouvriers",
+      "Des élèves de milieux ruraux",
+      "Des enfants de la bourgeoisie",
+      "Des élèves étrangers"
+    ],
+    "answerIndex": 2,
+    "explication": "Créée en 1899, l’École des Roches s’adressait majoritairement aux familles bourgeoises."
+  },
+  {
+    "question": "9 - Pourquoi l’Éducation nouvelle a-t-elle aussi concerné les classes dominées ?",
+    "options": [
+      "Pour leur accès à l’élitisme",
+      "Pour démocratiser les savoirs savants",
+      "Pour supprimer le travail manuel",
+      "Pour répondre aux besoins économiques"
+    ],
+    "answerIndex": 3,
+    "explication": "Elle préparait les classes populaires à des rôles professionnels adaptés aux besoins industriels."
+  },
+  {
+    "question": "10 - Quelle critique est faite à l’enseignement traditionnel au XIXe siècle ?",
+    "options": [
+      "Trop scientifique",
+      "Trop manuel",
+      "Trop classique et abstrait",
+      "Trop démocratique"
+    ],
+    "answerIndex": 2,
+    "explication": "Les humanités gréco-latines étaient jugées inadaptées aux besoins économiques."
+  },
+  {
+    "question": "11 - Les pédagogies alternatives perpétuent-elles toujours l’ordre social ?",
+    "options": [
+      "Oui, systématiquement",
+      "Non, jamais",
+      "Uniquement dans le privé",
+      "Cela dépend des contextes et des pratiques"
+    ],
+    "answerIndex": 3,
+    "explication": "Certaines pédagogies renforcent les inégalités, d’autres cherchent à les combattre."
+  },
+  {
+    "question": "12 - La pédagogie Montessori favorise surtout :",
+    "options": [
+      "L’autonomie individuelle",
+      "Le collectif",
+      "La compétition",
+      "La transmission magistrale"
+    ],
+    "answerIndex": 0,
+    "explication": "Montessori met l’accent sur l’autonomie, parfois au détriment du collectif."
+  },
+  {
+    "question": "13 - Pourquoi Montessori peut-elle renforcer les inégalités ?",
+    "options": [
+      "Parce qu’elle est trop autoritaire",
+      "Parce qu’elle favorise les élèves déjà acculturés",
+      "Parce qu’elle est peu coûteuse",
+      "Parce qu’elle supprime les apprentissages"
+    ],
+    "answerIndex": 1,
+    "explication": "Les élèves des classes favorisées maîtrisent mieux les codes implicites de l’autonomie."
+  },
+  {
+    "question": "14 - Les pédagogies critiques s’inspirent principalement de :",
+    "options": [
+      "Maria Montessori",
+      "Jean Piaget",
+      "Paulo Freire",
+      "Émile Durkheim"
+    ],
+    "answerIndex": 2,
+    "explication": "Paulo Freire est une figure centrale des pédagogies critiques."
+  },
+  {
+    "question": "15 - Quel est l’objectif des pédagogies critiques ?",
+    "options": [
+      "La réussite individuelle",
+      "La transformation sociale",
+      "La neutralité politique",
+      "La sélection scolaire"
+    ],
+    "answerIndex": 1,
+    "explication": "Elles visent la justice sociale et la transformation du monde."
+  },
+  {
+    "question": "16 - Le théâtre-forum est une pratique visant :",
+    "options": [
+      "La mémorisation",
+      "La sélection des élèves",
+      "L’évaluation standardisée",
+      "La conscientisation"
+    ],
+    "answerIndex": 3,
+    "explication": "Le théâtre-forum permet de réfléchir collectivement aux situations d’oppression."
+  },
+  {
+    "question": "17 - Les méthodes coopératives en milieu populaire permettent :",
+    "options": [
+      "Une baisse des performances",
+      "Un rattrapage des élèves",
+      "Une sélection accrue",
+      "Une individualisation extrême"
+    ],
+    "answerIndex": 1,
+    "explication": "Les recherches montrent des progrès importants chez les élèves des classes populaires."
+  },
+  {
+    "question": "18 - Restaurer la pédagogie traditionnelle est présenté comme :",
+    "options": [
+      "Une proposition controversée",
+      "Une solution évidente",
+      "Un consensus scientifique",
+      "Une obligation légale"
+    ],
+    "answerIndex": 0,
+    "explication": "Le débat oppose défenseurs et critiques des pédagogies nouvelles."
+  },
+  {
+    "question": "19 - Selon Houssaye, la crise de l’école :",
+    "options": [
+      "Est uniquement due aux pédagogies nouvelles",
+      "Est uniquement due à la pédagogie traditionnelle",
+      "Ne peut être expliquée par une seule pédagogie",
+      "N’existe pas"
+    ],
+    "answerIndex": 2,
+    "explication": "La crise est multifactorielle et ne se réduit pas à une opposition simple."
+  },
+  {
+    "question": "20 - Que signifie « consumérisme scolaire » ?",
+    "options": [
+      "La gratuité de l’école",
+      "L’école comme bien marchand",
+      "La disparition de l’école publique",
+      "La fin des enseignants"
+    ],
+    "answerIndex": 1,
+    "explication": "Les parents-consommateurs choisissent et comparent les offres scolaires."
+  },
+
+  {
+    "question": "21 - L’« effet ciseau » décrit par Meirieu renvoie à :",
+    "options": [
+      "Une baisse des moyens financiers",
+      "Une opposition entre enseignants et élèves",
+      "Une réforme des programmes",
+      "Un écart entre attentes sociales et capacités de l’école"
+    ],
+    "answerIndex": 3,
+    "explication": "L’effet ciseau désigne la montée des attentes envers l’école (individualisme, choix) face à une institution qui résiste au changement."
+  },
+  {
+    "question": "22 - Quel phénomène caractérise la crise de confiance envers l’école ?",
+    "options": [
+      "La baisse de la scolarisation",
+      "La défiance des citoyens",
+      "La suppression des évaluations",
+      "La fin des enseignants"
+    ],
+    "answerIndex": 1,
+    "explication": "Les citoyens doutent de la capacité de l’école à remplir ses missions éducatives."
+  },
+  {
+    "question": "23 - Pourquoi les parents sont-ils davantage impliqués aujourd’hui ?",
+    "options": [
+      "Par désintérêt pour l’école",
+      "Par obligation légale",
+      "Par montée de l’individualisme",
+      "Par suppression de l’autorité parentale"
+    ],
+    "answerIndex": 2,
+    "explication": "L’individualisme social pousse les parents à défendre activement les intérêts de leur enfant."
+  },
+  {
+    "question": "24 - Quelle difficulté rencontre l’Éducation nationale selon Meirieu ?",
+    "options": [
+      "Intégrer l’éducation nouvelle",
+      "Former les enseignants",
+      "Évaluer les élèves",
+      "Financer les écoles"
+    ],
+    "answerIndex": 0,
+    "explication": "L’institution scolaire a du mal à intégrer durablement les principes de l’éducation nouvelle."
+  },
+  {
+    "question": "25 - Le consumérisme scolaire transforme l’école en :",
+    "options": [
+      "Service public neutre",
+      "Espace de sélection",
+      "Lieu d’émancipation collective",
+      "Produit à choisir"
+    ],
+    "answerIndex": 3,
+    "explication": "L’école devient un bien que les familles comparent et sélectionnent."
+  },
+  {
+    "question": "26 - Selon De Cock, le problème n’est pas :",
+    "options": [
+      "Les pédagogies alternatives",
+      "Le choix institutionnel",
+      "Le détournement des pédagogies",
+      "Le camouflage des inégalités"
+    ],
+    "answerIndex": 0,
+    "explication": "De Cock critique l’usage institutionnel des pédagogies alternatives, pas leur existence."
+  },
+  {
+    "question": "27 - À quoi peuvent servir certaines pédagogies alternatives selon De Cock ?",
+    "options": [
+      "À supprimer l’école publique",
+      "À camoufler les injustices scolaires",
+      "À uniformiser les pratiques",
+      "À réduire les programmes"
+    ],
+    "answerIndex": 1,
+    "explication": "Elles peuvent être instrumentalisées pour masquer les inégalités."
+  },
+  {
+    "question": "28 - Les pédagogies alternatives sont parfois un produit d’appel pour :",
+    "options": [
+      "L’école publique",
+      "Les universités",
+      "L’enseignement privé",
+      "Les associations"
+    ],
+    "answerIndex": 2,
+    "explication": "Elles attirent des familles vers le privé sous couvert d’innovation."
+  },
+  {
+    "question": "29 - La pédagogie traditionnelle se caractérise par :",
+    "options": [
+      "La transmission magistrale",
+      "L’autonomie totale",
+      "La coopération",
+      "La suppression des programmes"
+    ],
+    "answerIndex": 0,
+    "explication": "Elle repose sur la transmission descendante des savoirs."
+  },
+  {
+    "question": "30 - Certains auteurs proposent de :",
+    "options": [
+      "Supprimer la pédagogie traditionnelle",
+      "La conserver en l’améliorant",
+      "La remplacer par Montessori",
+      "La rendre obligatoire"
+    ],
+    "answerIndex": 1,
+    "explication": "Ils suggèrent des ajustements plutôt qu’un abandon total."
+  },
+  {
+    "question": "31 - Améliorer la pédagogie traditionnelle implique :",
+    "options": [
+      "Ignorer les élèves",
+      "Supprimer l’enseignant",
+      "Refuser toute innovation",
+      "Renforcer l’interactivité"
+    ],
+    "answerIndex": 3,
+    "explication": "Il s’agit de rendre l’enseignement plus interactif et attentif aux élèves."
+  },
+  {
+    "question": "32 - Les pédagogies nouvelles ont-elles remplacé les pédagogies traditionnelles ?",
+    "options": [
+      "Oui, totalement",
+      "Oui, progressivement",
+      "Non, elles coexistent",
+      "Uniquement dans le privé"
+    ],
+    "answerIndex": 2,
+    "explication": "Les pédagogies traditionnelles restent dominantes."
+  },
+  {
+    "question": "33 - Quelle idée est fausse concernant le progrès pédagogique ?",
+    "options": [
+      "Il est irréversible",
+      "Il est linéaire",
+      "Il est conflictuel",
+      "Il est débattu"
+    ],
+    "answerIndex": 1,
+    "explication": "Le progrès pédagogique n’est ni linéaire ni automatique."
+  },
+  {
+    "question": "34 - Les débats éducatifs sont :",
+    "options": [
+      "Politiques et sociaux",
+      "Clos",
+      "Techniques uniquement",
+      "Secondaires"
+    ],
+    "answerIndex": 0,
+    "explication": "Ils reflètent des choix de société."
+  },
+  {
+    "question": "35 - La coopération entre élèves favorise :",
+    "options": [
+      "La compétition",
+      "Les inégalités",
+      "Les progrès scolaires",
+      "La sélection"
+    ],
+    "answerIndex": 2,
+    "explication": "Les études montrent des effets positifs, surtout pour les élèves défavorisés."
+  },
+  {
+    "question": "36 - Les pédagogies critiques refusent :",
+    "options": [
+      "La neutralité",
+      "La participation",
+      "La réflexion",
+      "L’engagement"
+    ],
+    "answerIndex": 0,
+    "explication": "Elles considèrent l’éducation comme un acte politique."
+  },
+  {
+    "question": "37 - Les contre-narrations servent à :",
+    "options": [
+      "Imposer une vérité",
+      "Donner la parole aux dominés",
+      "Renforcer les stéréotypes",
+      "Évaluer les élèves"
+    ],
+    "answerIndex": 1,
+    "explication": "Elles valorisent des récits alternatifs aux discours dominants."
+  },
+  {
+    "question": "38 - L’enquête de conscientisation vise :",
+    "options": [
+      "La mémorisation",
+      "La sélection scolaire",
+      "La discipline",
+      "La prise de conscience sociale"
+    ],
+    "answerIndex": 3,
+    "explication": "Elle permet aux élèves de comprendre les mécanismes d’oppression."
+  },
+  {
+    "question": "39 - La pédagogie critique de la norme interroge :",
+    "options": [
+      "Les règles mathématiques",
+      "Les normes sociales",
+      "Les programmes officiels",
+      "Les notes"
+    ],
+    "answerIndex": 1,
+    "explication": "Elle questionne ce qui est considéré comme normal ou légitime."
+  },
+  {
+    "question": "40 - La pédagogie queer cherche à :",
+    "options": [
+      "Renforcer les identités figées",
+      "Uniformiser les élèves",
+      "Déconstruire les normes de genre",
+      "Supprimer l’école"
+    ],
+    "answerIndex": 2,
+    "explication": "Elle remet en question les normes de genre et de sexualité."
+  },
+  {
+    "question": "41 - La pédagogie décoloniale vise à :",
+    "options": [
+      "Effacer l’histoire",
+      "Valoriser les savoirs dominants",
+      "Questionner l’héritage colonial",
+      "Supprimer les programmes"
+    ],
+    "answerIndex": 2,
+    "explication": "Elle critique les rapports de domination issus de la colonisation."
+  },
+  {
+    "question": "42 - L’éco-pédagogie s’intéresse à :",
+    "options": [
+      "L’économie",
+      "L’écologie et la justice environnementale",
+      "La gestion scolaire",
+      "La compétition"
+    ],
+    "answerIndex": 1,
+    "explication": "Elle relie éducation et enjeux écologiques."
+  },
+  {
+    "question": "43 - Selon Reuter, la pédagogie Freinet en milieu populaire :",
+    "options": [
+      "Permet un rattrapage",
+      "Aggrave les écarts",
+      "N’a aucun effet",
+      "Favorise uniquement les meilleurs"
+    ],
+    "answerIndex": 0,
+    "explication": "Elle permet aux élèves populaires de rattraper leurs pairs."
+  },
+  {
+    "question": "44 - Connac montre que la coopération profite surtout :",
+    "options": [
+      "Aux élèves favorisés",
+      "Aux élèves en difficulté",
+      "Aux enseignants",
+      "Aux parents"
+    ],
+    "answerIndex": 1,
+    "explication": "Les élèves socialement bas progressent davantage."
+  },
+  {
+    "question": "45 - Les pédagogies alternatives sont :",
+    "options": [
+      "Toujours émancipatrices",
+      "Toujours inégalitaires",
+      "Ambivalentes",
+      "Obligatoires"
+    ],
+    "answerIndex": 2,
+    "explication": "Leur effet dépend du contexte social et institutionnel."
+  },
+  {
+    "question": "46 - L’éducation est présentée dans ce CM comme :",
+    "options": [
+      "Un acte neutre",
+      "Un acte technique",
+      "Un service privé",
+      "Un enjeu politique"
+    ],
+    "answerIndex": 3,
+    "explication": "Les choix pédagogiques ont des implications sociales et politiques."
+  },
+  {
+    "question": "47 - Les débats pédagogiques permettent surtout de :",
+    "options": [
+      "Développer une pensée critique",
+      "Trouver une solution unique",
+      "Éviter les conflits",
+      "Imposer un modèle"
+    ],
+    "answerIndex": 0,
+    "explication": "Ils invitent à analyser et questionner les modèles éducatifs."
+  },
+  {
+    "question": "48 - L’Éducation nouvelle est définie comme :",
+    "options": [
+      "Une abolition de l’école",
+      "Une réforme de l’école",
+      "Une pédagogie unique",
+      "Un courant homogène"
+    ],
+    "answerIndex": 1,
+    "explication": "Elle vise à transformer l’école sans la supprimer."
+  },
+  {
+    "question": "49 - Les pédagogies alternatives sont efficaces surtout quand :",
+    "options": [
+      "Elles sont isolées",
+      "Elles ignorent le contexte social",
+      "Elles sont pensées collectivement",
+      "Elles sont privées"
+    ],
+    "answerIndex": 2,
+    "explication": "Le cadre collectif et coopératif est déterminant."
+  },
+  {
+    "question": "50 - L’objectif final de ce CM est de permettre aux étudiant·e·s de :",
+    "options": [
+      "Choisir une pédagogie",
+      "Devenir enseignant",
+      "Appliquer une méthode",
+      "Comprendre les controverses éducatives"
+    ],
+    "answerIndex": 3,
+    "explication": "Le CM vise une compréhension critique des débats et controverses en éducation."
+  }
+]

@@ -1,0 +1,628 @@
+[
+  {
+    "question": "1 - Qui est l’artiste du tableau « Le Marché aux chevaux » ?",
+    "options": ["Gustave Courbet", "Rosa Bonheur", "Eugène Delacroix", "Théodore Géricault"],
+    "answerIndex": 1,
+    "explication": "Le tableau est peint par Marie-Rosalie Bonheur, dite Rosa Bonheur, artiste spécialisée dans la peinture animalière."
+  },
+  {
+    "question": "2 - En quelle année « Le Marché aux chevaux » est-il exposé au Salon de Paris ?",
+    "options": ["1848", "1850", "1853", "1860"],
+    "answerIndex": 2,
+    "explication": "Rosa Bonheur expose Le Marché aux chevaux au Salon de 1853, où il rencontre un immense succès."
+  },
+  {
+    "question": "3 - Quel âge a Rosa Bonheur lorsqu’elle expose ce tableau au Salon ?",
+    "options": ["31 ans","28 ans","25 ans",   "35 ans"],
+    "answerIndex": 0,
+    "explication": "Rosa Bonheur a 31 ans lors de l’exposition du tableau au Salon de 1853."
+  },
+  {
+    "question": "4 - Quel est le sujet principal du tableau ?",
+    "options": ["Une bataille", "Une scène mythologique", "Une scène religieuse", "Un marché parisien de chevaux"],
+    "answerIndex": 3,
+    "explication": "Le tableau représente le marché aux chevaux de Paris, lieu de vente et de démonstration des chevaux."
+  },
+  {
+    "question": "5 - Quelle spécialité artistique est associée à Rosa Bonheur ?",
+    "options": ["La peinture d’histoire", "La peinture religieuse", "La peinture animalière", "Le portrait mondain"],
+    "answerIndex": 2,
+    "explication": "Rosa Bonheur est reconnue comme l’un des plus grands peintres animaliers du XIXe siècle."
+  },
+
+  {
+    "question": "6 - Pourquoi le format du tableau est-il exceptionnel ?",
+    "options": [
+      "Il est monumental et réservé d’ordinaire à la peinture d’histoire",
+      "Il est circulaire",
+      "Il est très petit",
+      
+      "Il est vertical"
+    ],
+    "answerIndex": 0,
+    "explication": "Le tableau mesure environ 2,50 m sur 5 m, un format habituellement réservé aux sujets historiques, surtout masculins."
+  },
+  {
+    "question": "7 - Quelle réaction suscite le tableau dès sa présentation ?",
+    "options": [
+      "Un rejet critique",
+      "Un succès immédiat",
+      "Une indifférence générale",
+      
+      "Un scandale politique"
+    ],
+    "answerIndex": 1,
+    "explication": "Le tableau capte immédiatement l’attention du public et reçoit des critiques très élogieuses."
+  },
+  {
+    "question": "8 - À quel grand peintre compare-t-on Rosa Bonheur pour sa maîtrise du cheval ?",
+    "options": ["Ingres", "Courbet", "Delacroix", "Géricault"],
+    "answerIndex": 3,
+    "explication": "Les critiques estiment que depuis Géricault, personne n’avait peint les chevaux avec une telle science du mouvement."
+  },
+  {
+    "question": "9 - Que représente principalement le tableau sur le plan physique ?",
+    "options": [
+      "La grâce des chevaux",
+      "La musculature et la puissance des chevaux",
+      "La beauté du paysage",
+      "La richesse des acheteurs"
+    ],
+    "answerIndex": 1,
+    "explication": "Rosa Bonheur met en avant la force, la musculature et la puissance des chevaux percherons."
+  },
+  {
+    "question": "10 - Quelle race de chevaux est particulièrement mise en valeur ?",
+    "options": ["Pur-sang anglais", "Arabe", "Percheron", "Boulonnais"],
+    "answerIndex": 2,
+    "explication": "La race percheronne est admirée par Rosa Bonheur pour sa puissance et son encolure."
+  },
+
+  {
+    "question": "11 - Quel sentiment semble éprouver le cheval blanc au centre de la scène ?",
+    "options": ["La peur","La joie", "La fatigue",  "La fierté"],
+    "answerIndex": 0,
+    "explication": "Le cheval blanc paraît terrorisé, traduisant la violence et la maltraitance subies."
+  },
+  {
+    "question": "12 - Comment Rosa Bonheur dénonce-t-elle la maltraitance des chevaux ?",
+    "options": [
+      "Par un texte explicatif",
+      "Par une scène paisible",
+      "Par la représentation de chevaux surexcités et fouettés",
+      "Par une caricature"
+    ],
+    "answerIndex": 2,
+    "explication": "Les chevaux sont montrés en état de surexcitation, conséquence des pratiques violentes des maquignons."
+  },
+  {
+    "question": "13 - Qui sont les maquignons ?",
+    "options": [
+      "Des vétérinaires",
+      "Des marchands de chevaux",
+      "Des acheteurs",
+      
+      "Des artistes"
+    ],
+    "answerIndex": 1,
+    "explication": "Les maquignons sont des marchands de chevaux, parfois peu scrupuleux."
+  },
+  {
+    "question": "14 - Où se situe le marché aux chevaux de Paris au XIXe siècle ?",
+    "options": [
+      "Près du Louvre",
+      "Boulevard de l’Hôpital",
+      "Place de la Bastille",
+      "Montmartre"
+    ],
+    "answerIndex": 1,
+    "explication": "Jusqu’aux années 1860, le marché se situe le long du boulevard de l’Hôpital."
+  },
+  {
+    "question": "15 - Quelle forme a la piste du marché aux chevaux ?",
+    "options": [
+      "Carrée",
+      "Rectiligne",
+      "En spirale",
+      "Circulaire"
+    ],
+    "answerIndex": 3,
+    "explication": "La piste évoque celle d’un cirque romain, favorisant le mouvement circulaire."
+  },
+
+  {
+    "question": "16 - Comment Rosa Bonheur prépare-t-elle son tableau ?",
+    "options": [
+      "Sans esquisses",
+      "Avec quelques croquis rapides",
+      "Par de nombreuses études et dessins",
+      "Directement sur la toile finale"
+    ],
+    "answerIndex": 2,
+    "explication": "Elle réalise d’innombrables études de mouvements, de postures et de détails."
+  },
+  {
+    "question": "17 - Quelle importance Rosa Bonheur accorde-t-elle au dessin ?",
+    "options": [
+      "Secondaire",
+      "Accessoire",
+      "Primordiale",
+      "Inutile"
+    ],
+    "answerIndex": 2,
+    "explication": "Elle accorde la prééminence au dessin, base essentielle de sa composition."
+  },
+  {
+    "question": "18 - À quoi compare-t-elle sa composition ?",
+    "options": [
+      "Aux fresques médiévales",
+      "Aux frises du Parthénon",
+      "Aux tableaux de Courbet",
+      "Aux paysages romantiques"
+    ],
+    "answerIndex": 1,
+    "explication": "Elle évoque les frises du Parthénon pour le mouvement continu et monumental."
+  },
+  {
+    "question": "19 - Quelle est l’idée directrice de Rosa Bonheur selon ses mots ?",
+    "options": [
+      "Imiter",
+      "Copier",
+      "Interpréter",
+      "Simplifier"
+    ],
+    "answerIndex": 2,
+    "explication": "Elle affirme ne pas vouloir imiter mais interpréter le mouvement et la réalité."
+  },
+  {
+    "question": "20 - Combien de temps lui faut-il pour concevoir ce tableau ?",
+    "options": ["Plus de trois ans","Un an", "Deux ans",  "Dix ans"],
+    "answerIndex": 0,
+    "explication": "La genèse du tableau s’étale sur plus de trois années de travail."
+  },
+
+  {
+    "question": "21 - Quel outil utilise-t-elle pour ses premières études ?",
+    "options": ["La peinture à l’huile", "Le pastel", "Le crayon et le fusain", "L’aquarelle"],
+    "answerIndex": 2,
+    "explication": "Les premières recherches sont réalisées au crayon ou au fusain."
+  },
+  {
+    "question": "22 - Pourquoi réalise-t-elle ensuite des études à l’huile ?",
+    "options": [
+      "Pour vendre",
+      "Pour tester l’effet visuel",
+      "Pour gagner du temps",
+      "Pour faire plaisir au public"
+    ],
+    "answerIndex": 1,
+    "explication": "Les études à l’huile permettent d’évaluer l’« effet » final de la composition."
+  },
+  {
+    "question": "23 - Qui a conservé les clichés des études préparatoires ?",
+    "options": [
+      "Rosa Bonheur elle-même",
+      "Le musée d’Orsay",
+      "Anna Klumpke",
+      "Le duc de Morny"
+    ],
+    "answerIndex": 2,
+    "explication": "Anna Klumpke, sa biographe et légataire, photographie les études avant leur dispersion."
+  },
+  {
+    "question": "24 - Pourquoi une première grande esquisse est-elle abandonnée ?",
+    "options": [
+      "Manque de temps",
+      "Manque de peinture",
+      "Refus du public",
+      "Manque de largeur pour la composition"
+    ],
+    "answerIndex": 3,
+    "explication": "La toile ne permettait pas d’intégrer correctement la profondeur et la chapelle."
+  },
+  {
+    "question": "25 - Quelle commande officielle lui est proposée avant l’achèvement du tableau ?",
+    "options": [
+      "Un portrait officiel",
+      "Une scène religieuse",
+      "La Fenaison",
+      "Une bataille"
+    ],
+    "answerIndex": 2,
+    "explication": "Le duc de Morny lui commande finalement La Fenaison."
+  },
+
+  {
+    "question": "26 - Pourquoi le duc de Morny refuse-t-il initialement le Marché aux chevaux ?",
+    "options": [
+      "Il n’aime pas les animaux",
+      "Il juge le sujet trop violent",
+      "Il doute de son talent",
+      "Il préfère le paysage"
+    ],
+    "answerIndex": 1,
+    "explication": "Il estime la scène trop violente et inadaptée à une commande officielle."
+  },
+  {
+    "question": "27 - À qui Rosa Bonheur vend-elle finalement le tableau ?",
+    "options": [
+      "À l’État français",
+      "À la National Gallery",
+      "Au duc de Morny",
+      "À Ernest Gambart"
+    ],
+    "answerIndex": 3,
+    "explication": "Elle vend le tableau au marchand d’art Ernest Gambart."
+  },
+  {
+    "question": "28 - Quel impact financier a cette vente pour l’artiste ?",
+    "options": [
+      "Aucun",
+      "Elle s’endette",
+      "Elle achète une propriété",
+      "Elle cesse de peindre"
+    ],
+    "answerIndex": 2,
+    "explication": "La vente lui permet d’acquérir le château de By à Thomery."
+  },
+  {
+    "question": "29 - Où se trouve aujourd’hui la version originale du tableau ?",
+    "options": [
+      "Louvre",
+      "Musée d’Orsay",
+      "Metropolitan Museum of Art",
+      "National Gallery"
+    ],
+    "answerIndex": 2,
+    "explication": "Le tableau est aujourd’hui conservé au Metropolitan Museum of Art de New York."
+  },
+  {
+    "question": "30 - Pourquoi Gambart fait-il réaliser une gravure du tableau ?",
+    "options": [
+      "Pour remplacer l’original",
+      "Pour diffuser l’œuvre largement",
+      "Pour l’améliorer",
+      "Pour l’exposer au Salon"
+    ],
+    "answerIndex": 1,
+    "explication": "La gravure est alors le principal moyen de diffusion auprès du grand public."
+  },
+
+  {
+    "question": "31 - Que reproche Rosa Bonheur à la gravure de Thomas Landseer ?",
+    "options": [
+      "Un manque de couleur",
+      "Une perte de vigueur et d’énergie",
+      "Un dessin trop rigide",
+      
+      "Un format trop petit"
+    ],
+    "answerIndex": 1,
+    "explication": "Elle juge le dessin trop arrondi et moins énergique que l’original."
+  },
+  {
+    "question": "32 - Pourquoi une réduction du tableau est-elle réalisée ?",
+    "options": [
+      "Pour le graveur",
+      "Pour le Salon",  
+      "Pour un collectionneur",
+      "Pour l’État"
+    ],
+    "answerIndex": 0,
+    "explication": "La réduction facilite le travail du graveur."
+  },
+  {
+    "question": "33 - Où se trouve cette réduction aujourd’hui ?",
+    "options": [
+      "Metropolitan Museum",
+      "Musée d’Orsay",
+      "National Gallery de Londres",
+      "Château de By"
+    ],
+    "answerIndex": 2,
+    "explication": "La réduction est conservée à la National Gallery de Londres."
+  },
+  {
+    "question": "34 - Pourquoi Rosa Bonheur parle-t-elle d’un « second original » ?",
+    "options": [
+      "Une copie de petite taille",
+      "Une réplique de même format",
+      "Une gravure",      
+      "Une esquisse"
+    ],
+    "answerIndex": 1,
+    "explication": "Elle désigne une réplique de même taille que l’original."
+  },
+  {
+    "question": "35 - Quel effet inattendu le tableau a-t-il aux États-Unis ?",
+    "options": [
+      "Il lance un courant artistique",
+      "Il popularise la race percheronne",
+      "Il provoque un scandale",
+      "Il est censuré"
+    ],
+    "answerIndex": 1,
+    "explication": "Le tableau contribue à la diffusion et à l’adoption du cheval percheron."
+  },
+
+  {
+    "question": "36 - Quelle image de l’artiste féminine ce tableau véhicule-t-il ?",
+    "options": [
+      "Une artiste mineure",
+      "Une artiste décorative",
+      "Une artiste puissante et légitime",
+      "Une artiste marginale"
+    ],
+    "answerIndex": 2,
+    "explication": "Rosa Bonheur s’impose dans un domaine et un format réservés aux hommes."
+  },
+  {
+    "question": "37 - Quel thème majeur traverse l’œuvre ?",
+    "options": [
+      "La mythologie",
+      "La violence sociale",
+      "La religion",
+      "Le travail et l’exploitation animale"
+    ],
+    "answerIndex": 3,
+    "explication": "Le tableau montre la brutalité du commerce et la souffrance animale."
+  },
+  {
+    "question": "38 - Quelle impression domine chez le spectateur ?",
+    "options": [
+      "Calme et sérénité",
+      "Ordre et silence",
+      "Mouvement et tension",
+      "Humour"
+    ],
+    "answerIndex": 2,
+    "explication": "La composition circulaire et les chevaux cabrés créent une forte tension."
+  },
+  {
+    "question": "39 - Quel rôle joue le mouvement dans la composition ?",
+    "options": [
+      "Secondaire",
+      "Fondamental",
+      "Décoratif",
+      "Inexistant"
+    ],
+    "answerIndex": 1,
+    "explication": "Le mouvement est central et structure toute la scène."
+  },
+  {
+    "question": "40 - Pourquoi peut-on parler d’un chef-d’œuvre ?",
+    "options": [
+      "Pour sa taille seulement",
+      "Pour sa complexité technique et expressive",
+      "Pour sa célébrité",
+      "Pour son sujet historique"
+    ],
+    "answerIndex": 1,
+    "explication": "L’œuvre allie maîtrise du dessin, du mouvement et de la composition."
+  },
+
+  {
+    "question": "41 - Quel lien existe entre observation et création chez Rosa Bonheur ?",
+    "options": [
+      "Aucun",
+      "L’observation est secondaire",
+      "L’observation est à la base de la création",
+      "Elle invente tout"
+    ],
+    "answerIndex": 2,
+    "explication": "Elle observe longuement le réel avant de l’interpréter artistiquement."
+  },
+  {
+    "question": "42 - Pourquoi la scène est-elle qualifiée de « violente » ?",
+    "options": [
+      "À cause des couleurs",
+      "À cause du sujet animal",
+      "À cause des gestes et de la contrainte",
+      "À cause du public"
+    ],
+    "answerIndex": 2,
+    "explication": "La violence réside dans la contrainte physique exercée sur les chevaux."
+  },
+  {
+    "question": "43 - Quelle valeur Rosa Bonheur donne-t-elle au travail préparatoire ?",
+    "options": [
+      "Nulle",
+      "Accessoire",
+      "Secondaire",
+      "Essentielle"
+    ],
+    "answerIndex": 3,
+    "explication": "Les nombreuses études montrent l’importance capitale de la préparation."
+  },
+  {
+    "question": "44 - Pourquoi le tableau dépasse-t-il le simple réalisme ?",
+    "options": [
+      "Il est abstrait",
+      "Il interprète le réel",
+      "Il idéalise",
+      "Il caricature"
+    ],
+    "answerIndex": 1,
+    "explication": "Rosa Bonheur interprète la réalité pour en révéler la vérité profonde."
+  },
+  {
+    "question": "45 - Quelle place occupe ce tableau dans la carrière de Rosa Bonheur ?",
+    "options": [
+      "Secondaire",
+      "Un échec",
+      "Un sommet",
+      "Une œuvre mineure"
+    ],
+    "answerIndex": 2,
+    "explication": "Elle-même parle de l’apogée de sa carrière."
+  },
+
+  {
+    "question": "46 - Quelle relation entretient Rosa Bonheur avec les chevaux ?",
+    "options": [
+      "Purement commerciale",
+      "Distante",
+      "Passionnée et scientifique",
+      "Symbolique uniquement"
+    ],
+    "answerIndex": 2,
+    "explication": "Elle étudie les chevaux depuis l’enfance avec précision et admiration."
+  },
+  {
+    "question": "47 - En quoi le tableau est-il moderne ?",
+    "options": [
+      "Par son abstraction",
+      "Par son sujet social et animal",
+      "Par sa religion",
+      "Par sa mythologie"
+    ],
+    "answerIndex": 1,
+    "explication": "Il aborde des thèmes concrets, sociaux et contemporains."
+  },
+  {
+    "question": "48 - Quel rôle joue la femme artiste dans cette œuvre ?",
+    "options": [
+      "Elle imite les hommes",
+      "Elle se cantonne à un genre mineur",
+      "Elle transgresse les normes",
+      "Elle reste invisible"
+    ],
+    "answerIndex": 2,
+    "explication": "Rosa Bonheur s’impose dans un domaine dominé par les hommes."
+  },
+  {
+    "question": "49 - Pourquoi l’œuvre a-t-elle marqué durablement le public ?",
+    "options": [
+      "Par son sujet religieux",
+      "Par sa puissance visuelle",
+      "Par sa discrétion",
+      "Par son abstraction"
+    ],
+    "answerIndex": 1,
+    "explication": "La force du mouvement et du dessin impressionne durablement."
+  },
+  {
+    "question": "50 - Quel est le message implicite de l’œuvre ?",
+    "options": [
+      "La glorification du commerce",
+      "La domination humaine sur l’animal",
+      "La dénonciation de l’exploitation",
+      "La fête populaire"
+    ],
+    "answerIndex": 2,
+    "explication": "L’œuvre invite à réfléchir sur la violence infligée aux animaux."
+  },
+
+  {
+    "question": "51 - Pourquoi peut-on parler d’une œuvre engagée ?",
+    "options": [
+      "Elle soutient un parti",
+      "Elle dénonce une réalité sociale",
+      "Elle est religieuse",
+      "Elle est historique"
+    ],
+    "answerIndex": 1,
+    "explication": "Elle montre une réalité brutale souvent ignorée."
+  },
+  {
+    "question": "52 - Quel élément structure la profondeur de la composition ?",
+    "options": [
+      "Les arbres",
+      "La piste circulaire",
+      "Les bâtiments",
+      "Le ciel"
+    ],
+    "answerIndex": 1,
+    "explication": "La piste tournante organise l’espace et le mouvement."
+  },
+  {
+    "question": "53 - Pourquoi le tableau est-il qualifié de « coup de maître » ?",
+    "options": [
+      "Par hasard",
+      "Par chance",
+      "Par la critique",
+      "Par la maîtrise totale du sujet"
+    ],
+    "answerIndex": 3,
+    "explication": "Il révèle une maîtrise complète du dessin, du mouvement et de la composition."
+  },
+  {
+    "question": "54 - Quelle influence a eu l’œuvre sur la notoriété de Rosa Bonheur ?",
+    "options": [
+      "Internationale",
+      "Aucune",
+      "Nationale uniquement",
+      
+      "Temporaire"
+    ],
+    "answerIndex": 0,
+    "explication": "Le tableau la rend célèbre en Europe et aux États-Unis."
+  },
+  {
+    "question": "55 - Quelle est la portée principale de l’œuvre ?",
+    "options": [
+      "Décorative",
+      "Esthétique uniquement",
+      "Religieuse",
+      "Artistique, sociale et symbolique"
+    ],
+    "answerIndex": 3,
+    "explication": "L’œuvre combine prouesse artistique et réflexion sociale."
+  },
+
+  {
+    "question": "56 - Pourquoi le public est-il fasciné par ce tableau ?",
+    "options": [
+      "Par la tranquillité",
+      "Par l’intensité du mouvement",
+      "Par la simplicité",
+      "Par le paysage"
+    ],
+    "answerIndex": 1,
+    "explication": "La scène est saisissante par son énergie et sa tension."
+  },
+  {
+    "question": "57 - Quel lien existe entre art et observation scientifique ici ?",
+    "options": [
+      "Aucun",
+      "Faible",
+      "Très fort",
+      "Inexistant"
+    ],
+    "answerIndex": 2,
+    "explication": "Rosa Bonheur étudie les chevaux avec une précision quasi scientifique."
+  },
+  {
+    "question": "58 - Pourquoi cette œuvre dépasse-t-elle la simple scène de genre ?",
+    "options": [
+      "Par son format",  
+      "Par sa technique",
+      "Par son message universel",
+      "Par sa date"
+    ],
+    "answerIndex": 2,
+    "explication": "Elle questionne le rapport entre l’homme, l’animal et la violence."
+  },
+  {
+    "question": "59 - Quelle image du XIXe siècle ce tableau donne-t-il ?",
+    "options": [
+      "Réaliste et brute",
+      "Idéalisée",
+      "Romantique",
+      "Mythologique"
+    ],
+    "answerIndex": 0,
+    "explication": "Le tableau montre la réalité concrète et parfois brutale de son époque."
+  },
+  {
+    "question": "60 - Pourquoi « Le Marché aux chevaux » est-il une œuvre majeure du XIXe siècle ?",
+    "options": [
+      "Pour son sujet religieux",
+      "Pour son innovation artistique et sociale",
+      "Pour sa discrétion",
+      "Pour sa mythologie"
+    ],
+    "answerIndex": 1,
+    "explication": "Il allie modernité du sujet, maîtrise artistique et portée sociale."
+  }
+]

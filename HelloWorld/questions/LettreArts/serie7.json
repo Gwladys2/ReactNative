@@ -1,0 +1,309 @@
+[
+  {
+    "question": "1 - En quelle année Baudelaire publie-t-il Le Peintre de la vie moderne dans Le Figaro ?",
+    "options": ["1846", "1859", "1863", "1867"],
+    "answerIndex": 2,
+    "explication": "Le texte paraît en trois livraisons les 26 et 29 novembre puis le 3 décembre 1863."
+  },
+  {
+    "question": "2 - Quel artiste se cache derrière l'appellation « M. G. » dans Le Peintre de la vie moderne ?",
+    "options": ["Courbet", "Constantin Guys", "Manet", "Caillebotte"],
+    "answerIndex": 1,
+    "explication": "Baudelaire fait référence au dessinateur Constantin Guys."
+  },
+  {
+    "question": "3 - Quel est le but de l’essai Le Peintre de la vie moderne ?",
+    "options": ["Présenter une biographie de Guys", "Proposer un programme esthétique", "S’opposer à l’art romantique", "Décrire la guerre de Crimée"],
+    "answerIndex": 1,
+    "explication": "Le texte synthétise les convictions esthétiques de Baudelaire en un manifeste moderne."
+  },
+  {
+    "question": "4 - Comment Baudelaire définit-il le beau ?",
+    "options": ["Une réalité exclusivement éternelle", "Un fait purement contingent", "Une alliance d’éternel et de transitoire", "Un idéal exclusivement moral"],
+    "answerIndex": 2,
+    "explication": "Le beau comporte un élément éternel et un élément circonstanciel."
+  },
+  {
+    "question": "5 - Que dit Baudelaire à propos de la beauté absolue ?",
+    "options": ["Qu’elle est la seule vraie beauté", "Qu’elle n’existe pas", "Qu’elle est supérieure à la beauté moderne", "Qu’elle est immorale"],
+    "answerIndex": 1,
+    "explication": "Baudelaire affirme que la beauté absolue n’existe pas."
+  },
+  {
+    "question": "6 - Quelle est la définition baudelairienne de la modernité ?",
+    "options": ["L’éternel et l’immuable", "Le transitoire, le fugitif et le contingent", "Le retour au passé", "L’imitation de l’Antiquité"],
+    "answerIndex": 1,
+    "explication": "Baudelaire définit la modernité comme la moitié transitoire de l’art."
+  },
+  {
+    "question": "7 - Que doit faire l’artiste moderne selon Baudelaire ?",
+    "options": ["Éviter la mode", "Copier les anciens maîtres", "Tirer l’éternel du transitoire", "Peindre uniquement le beau éternel"],
+    "answerIndex": 2,
+    "explication": "Il doit dégager le poétique du présent et de l’éphémère."
+  },
+  {
+    "question": "8 - Quel goût du romantisme Baudelaire critique-t-il ?",
+    "options": ["Le tragique", "La couleur locale", "Le lyrisme", "Le fantastique"],
+    "answerIndex": 1,
+    "explication": "Il dénonce l’obsession du romantisme pour des décors passés et exotiques."
+  },
+  {
+    "question": "9 - Quel symbole de la vie moderne Baudelaire défend-il ?",
+    "options": ["L’habit noir", "La nature", "Le costume médiéval", "Le vêtement antique"],
+    "answerIndex": 0,
+    "explication": "L’habit noir représente la modernité urbaine et l’uniformité élégante."
+  },
+  {
+    "question": "10 - Quel type de culture naît dans la métropole moderne selon le diaporama ?",
+    "options": ["Une culture mythologique", "Une culture paysanne", "Une culture urbaine d’artistes observateurs", "Une culture religieuse"],
+    "answerIndex": 2,
+    "explication": "La grande ville est le lieu d’une culture nouvelle d’observation moderne."
+  },
+
+  {
+    "question": "11 - Quel peintre illustre les perspectives haussmanniennes selon le diaporama ?",
+    "options": ["Degas", "Caillebotte", "Delacroix", "Courbet"],
+    "answerIndex": 1,
+    "explication": "Caillebotte est cité pour ses perspectives urbaines modernes."
+  },
+  {
+    "question": "12 - Quel peintre représente les carrefours depuis les balcons haussmanniens ?",
+    "options": ["Pissarro", "Seurat", "Manet", "Corot"],
+    "answerIndex": 0,
+    "explication": "Pissarro peint les carrefours parisiens vus d’en haut."
+  },
+  {
+    "question": "13 - Qui peint les halos lumineux du gaz ?",
+    "options": ["Caillebotte", "Seurat", "Monet", "Béraud"],
+    "answerIndex": 1,
+    "explication": "Seurat représente les halos de la lumière au gaz."
+  },
+  {
+    "question": "14 - Que représente Guys dans ses œuvres ?",
+    "options": ["Des mythes antiques", "La vie mondaine et contemporaine", "L’histoire médiévale", "Des paysages ruraux"],
+    "answerIndex": 1,
+    "explication": "Guys peint la vie moderne, mondaine et spectaculaire."
+  },
+  {
+    "question": "15 - Quel journal emploie Guys comme reporter ?",
+    "options": ["Le Figaro", "The Illustrated London News", "La Presse", "Le Gaulois"],
+    "answerIndex": 1,
+    "explication": "Guys est chroniqueur pour l'Illustrated London News."
+  },
+  {
+    "question": "16 - Quelle guerre Guys couvre-t-il comme correspondant ?",
+    "options": ["Guerre de Sécession", "Guerre de Crimée", "Guerre franco-prussienne", "Guerre de 1870"],
+    "answerIndex": 1,
+    "explication": "Il couvre notamment la Guerre de Crimée."
+  },
+  {
+    "question": "17 - Quel regard Guys porte-t-il sur la vie moderne ?",
+    "options": ["Méprisant", "Nostalgique", "Enthousiaste", "Indifférent"],
+    "answerIndex": 2,
+    "explication": "Baudelaire dit qu’il est un observateur enthousiaste."
+  },
+  {
+    "question": "18 - Quelle technique Guys utilise-t-il pour ses croquis rapides ?",
+    "options": ["La fresque", "Le lavis", "La gravure", "L’huile sur toile"],
+    "answerIndex": 1,
+    "explication": "Guys utilise le lavis pour capter l’essentiel rapidement."
+  },
+  {
+    "question": "19 - Quel lieu moderne Guys peint-il dans l’exemple donné ?",
+    "options": ["Le Bois de Boulogne", "Montmartre", "Le Louvre", "L’Opéra"],
+    "answerIndex": 0,
+    "explication": "Le diaporama montre Les Promeneurs au bois de Boulogne."
+  },
+  {
+    "question": "20 - Quel type d’art Baudelaire valorise-t-il avec Guys ?",
+    "options": ["L’art de la composition lente", "L’art de l’esquisse", "L’art religieux", "L’art académique"],
+    "answerIndex": 1,
+    "explication": "Il valorise l’esquisse, le fugitif, la rapidité."
+  },
+
+  {
+    "question": "21 - Quel genre littéraire Baudelaire renouvelle-t-il pour capter le moderne ?",
+    "options": ["Le roman réaliste", "La tragédie", "Le poème en prose", "Le conte merveilleux"],
+    "answerIndex": 2,
+    "explication": "Baudelaire utilise le poème en prose dans Le Spleen de Paris."
+  },
+  {
+    "question": "22 - Quel ouvrage inspire la création du poème en prose baudelairien ?",
+    "options": ["La Divine Comédie", "Gaspard de la Nuit", "Les Illuminations", "Les Chants de Maldoror"],
+    "answerIndex": 1,
+    "explication": "Dans sa lettre à Houssaye, Baudelaire cite Aloysius Bertrand."
+  },
+  {
+    "question": "23 - Quelle qualité Baudelaire recherche-t-il dans la prose poétique ?",
+    "options": ["La régularité métrique", "Le rythme sans rime", "La suppression du lyrisme", "Le rejet du musical"],
+    "answerIndex": 1,
+    "explication": "Il veut une prose poétique 'musicale sans rythme et sans rime'."
+  },
+  {
+    "question": "24 - Que doit permettre cette prose selon Baudelaire ?",
+    "options": ["Décrire uniquement la nature", "Être souple et heurtée", "Supprimer la conscience", "Imiter le vers classique"],
+    "answerIndex": 1,
+    "explication": "La prose doit s’adapter aux 'ondulations de la rêverie'."
+  },
+  {
+    "question": "25 - Dans l’Epilogue, comment Baudelaire décrit-il la ville ?",
+    "options": ["Comme un paradis", "Comme un refuge serein", "Comme une maîtresse infernale", "Comme un lieu neutre"],
+    "answerIndex": 2,
+    "explication": "La ville est décrite comme une 'énorme catin', source paradoxale de plaisir."
+  },
+  
+  {
+    "question": "26 - Quel texte fondateur de Baudelaire est condamné en 1857 ?",
+    "options": ["Le Spleen de Paris", "Les Fleurs du mal", "Le Peintre de la vie moderne", "Les Paradis artificiels"],
+    "answerIndex": 1,
+    "explication": "Les Fleurs du mal sont condamnées pour outrage aux bonnes mœurs."
+  },
+  {
+    "question": "27 - Combien de poèmes sont interdits en 1857 ?",
+    "options": ["2", "4", "6", "10"],
+    "answerIndex": 2,
+    "explication": "Six pièces du recueil sont interdites."
+  },
+  {
+    "question": "28 - Quel grand écrivain admire Les Fleurs du mal ?",
+    "options": ["Zola", "Hugo", "Flaubert", "Maupassant"],
+    "answerIndex": 1,
+    "explication": "Victor Hugo fait partie de ceux qui admirent le recueil."
+  },
+  {
+    "question": "29 - Quel thème n’est PAS associé aux Fleurs du mal ?",
+    "options": ["Le péché", "Le spleen", "La damnation", "Le progrès scientifique"],
+    "answerIndex": 3,
+    "explication": "Le progrès scientifique n’est pas un thème central."
+  },
+  {
+    "question": "30 - Que représente le spleen chez Baudelaire ?",
+    "options": ["La joie moderne", "La mélancolie écrasante", "L’espoir religieux", "La paix intérieure"],
+    "answerIndex": 1,
+    "explication": "Le spleen est l’expérience d’un mal-être profond."
+  },
+
+  {
+    "question": "31 - Dans SPLEEN LXXVIII, quel élément pèse comme un couvercle ?",
+    "options": ["La ville", "Le ciel", "La pluie", "La nuit"],
+    "answerIndex": 1,
+    "explication": "Le poème s’ouvre sur : 'Quand le ciel bas et lourd pèse comme un couvercle'."
+  },
+  {
+    "question": "32 - À quoi est comparée la pluie dans SPLEEN LXXVIII ?",
+    "options": ["À des larmes", "À des chaînes", "Aux barreaux d'une prison", "À un voile blanc"],
+    "answerIndex": 2,
+    "explication": "Baudelaire écrit que la pluie 'imite les barreaux'."
+  },
+  {
+    "question": "33 - Quel animal symbolise l’Espérance déchue dans SPLEEN LXXVIII ?",
+    "options": ["Un corbeau", "Une chauve-souris", "Un serpent", "Un hibou"],
+    "answerIndex": 1,
+    "explication": "L’Espérance est comparée à 'une chauve-souris'."
+  },
+  {
+    "question": "34 - Quel sentiment triomphe à la fin du poème SPLEEN LXXVIII ?",
+    "options": ["La joie", "La nostalgie", "L’angoisse", "L’espoir"],
+    "answerIndex": 2,
+    "explication": "L’Angoisse 'despotique' plante son drapeau noir."
+  },
+  {
+    "question": "35 - Que symbolisent les corbillards dans SPLEEN LXXVIII ?",
+    "options": ["Le renouveau", "La fête", "La mort intérieure", "La pureté"],
+    "answerIndex": 2,
+    "explication": "Les corbillards figurent la mort de l’espoir."
+  },
+
+  {
+    "question": "36 - Quel peintre illustre la pluie moderne dans le diaporama ?",
+    "options": ["Seurat", "Caillebotte", "Monet", "Manet"],
+    "answerIndex": 1,
+    "explication": "Rue de Paris, temps de pluie est une œuvre de Caillebotte."
+  },
+  {
+    "question": "37 - Quel tableau de Caillebotte montre un homme observant la ville ?",
+    "options": ["Les Raboteurs", "Le Pont de l’Europe", "L’Homme au balcon", "La Gare Saint-Lazare"],
+    "answerIndex": 2,
+    "explication": "Le diaporama présente L’Homme au balcon."
+  },
+  {
+    "question": "38 - Quel lieu de la ville décrit Baudelaire comme 'harmonieux' dans la vie moderne ?",
+    "options": ["Les campagnes", "Les capitales", "Les banlieues", "Les ports"],
+    "answerIndex": 1,
+    "explication": "Il admire 'l’harmonie de la vie dans les capitales'."
+  },
+  {
+    "question": "39 - Que célèbre Baudelaire chez Guys ?",
+    "options": ["La précision anatomique", "La rapidité d’exécution", "La fidélité historique", "La perfection académique"],
+    "answerIndex": 1,
+    "explication": "Guys saisit l’instant et la vie moderne avec rapidité."
+  },
+  {
+    "question": "40 - Quel concept oppose Baudelaire au culte du passé ?",
+    "options": ["L’idéal", "Le pittoresque", "Le présent", "La religion"],
+    "answerIndex": 2,
+    "explication": "Baudelaire défend l’attention au présent."
+  },
+
+  {
+    "question": "41 - Quelle esthétique Baudelaire oppose-t-il à la 'couleur locale' romantique ?",
+    "options": ["La tragédie antique", "La modernité urbaine", "L’art religieux", "Le réalisme pur"],
+    "answerIndex": 1,
+    "explication": "Il oppose l’ici et maintenant au passé exotique romantique."
+  },
+  {
+    "question": "42 - Dans l’Epilogue, quelle est l’attitude du poète envers la ville ?",
+    "options": ["Dégoût pur", "Ravissement pur", "Ambivalence fascinée", "Indifférence totale"],
+    "answerIndex": 2,
+    "explication": "Le poète est fasciné et horrifié à la fois par la ville moderne."
+  },
+  {
+    "question": "43 - Quel adjectif Baudelaire utilise-t-il pour qualifier la capitale ?",
+    "options": ["Divine", "Infâme", "Paisible", "Morale"],
+    "answerIndex": 1,
+    "explication": "Il la qualifie d'« infâme » dans l’Epilogue."
+  },
+  {
+    "question": "44 - Quelle figure mythique Baudelaire invoque-t-il dans l’Epilogue ?",
+    "options": ["Apollon", "Satan", "Zeus", "Aphrodite"],
+    "answerIndex": 1,
+    "explication": "Il s’adresse à Satan : « Tu sais bien, ô Satan… »"
+  },
+  {
+    "question": "45 - Quel sentiment la ville procure-t-elle dans l’Epilogue ?",
+    "options": ["Un apaisement complet", "Une excitation vitale", "Un ennui profond", "Une indifférence totale"],
+    "answerIndex": 1,
+    "explication": "Le poète dit qu’elle le 'rajeunit sans cesse'."
+  },
+
+  {
+    "question": "46 - Quel est le lien entre modernité et morale selon Baudelaire ?",
+    "options": ["La modernité détruit toute morale", "La modernité est amoralement neutre", "La modernité contient aussi une dimension morale", "La modernité remplace la morale chrétienne"],
+    "answerIndex": 2,
+    "explication": "La mode et la morale font partie de l’élément transitoire du beau."
+  },
+  {
+    "question": "47 - Quelle dimension de la ville Baudelaire met-il en avant dans Le Peintre de la vie moderne ?",
+    "options": ["Sa violence uniquement", "Sa pauvreté seulement", "Sa beauté harmonieuse malgré le tumulte", "Son absence totale d’ordre"],
+    "answerIndex": 2,
+    "explication": "Il admire l’harmonie providentielle de la ville."
+  },
+  {
+    "question": "48 - Quel terme désigne la perception immédiate du moderne par l’artiste ?",
+    "options": ["La contemplation lente", "L’intuition historique", "Le coup d’œil", "La méditation philosophique"],
+    "answerIndex": 2,
+    "explication": "Guys possède un 'coup d’œil' vif selon Baudelaire."
+  },
+  {
+    "question": "49 - Quel rapport Baudelaire établit-il entre poésie et modernité ?",
+    "options": ["La poésie doit éviter la modernité", "La poésie doit glorifier uniquement l’Antiquité", "La poésie peut saisir le fugitif moderne", "La poésie doit être scientifique"],
+    "answerIndex": 2,
+    "explication": "Baudelaire veut une poésie capable de saisir l’instant."
+  },
+  {
+    "question": "50 - Que symbolise la 'ville énorme' de l’Epilogue pour Baudelaire ?",
+    "options": ["L’ennui rural", "La pure beauté éternelle", "La tentation et la fascination moderne", "La simplicité biblique"],
+    "answerIndex": 2,
+    "explication": "La ville est une source d’enivrement et de fascination."
+  }
+]

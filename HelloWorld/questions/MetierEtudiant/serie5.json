@@ -1,0 +1,303 @@
+[
+  {
+    "question": "1 - Quel est l’objectif de la validation d’un article scientifique ?",
+    "options": ["Vérifier son apparence", "Évaluer sa fiabilité et sa pertinence", "S'assurer qu'il est gratuit", "Contrôler son nombre de pages"],
+    "answerIndex": 1,
+    "explication": "La validation vise à juger de la qualité, de la méthodologie et de la fiabilité de l’article."
+  },
+  {
+    "question": "2 - Parmi les critères de validation, lequel concerne l'origine de la publication ?",
+    "options": [ "La conclusion", "Les illustrations", "La source","Le style d’écriture"],
+    "answerIndex": 2,
+    "explication": "La première étape est d’examiner la source de l’article."
+  },
+  {
+    "question": "3 - L’identification des auteur·rices permet de :",
+    "options": ["Connaître leur statut et leurs thématiques de recherche", "Vérifier leur âge", "Savoir s’ils ont reçu un prix littéraire", "Connaître leur style d’écriture"],
+    "answerIndex": 0,
+    "explication": "Identifier les auteur·rices renseigne sur leur discipline, expertise et cadre institutionnel."
+  },
+  {
+    "question": "4 - Pourquoi vérifier les conflits d’intérêts ?",
+    "options": ["Pour connaître leurs passions", "Pour vérifier leurs diplômes", "Pour savoir s'ils écrivent souvent", "Pour identifier d’éventuels biais"],
+    "answerIndex": 3,
+    "explication": "Les conflits d’intérêt peuvent influencer les résultats."
+  },
+  {
+    "question": "5 - La reproductibilité d’une étude signifie :",
+    "options": ["Qu’elle peut être réécrite facilement", "Que les résultats peuvent être obtenus à nouveau", "Qu’elle est courte", "Qu’elle utilise des images"],
+    "answerIndex": 1,
+    "explication": "La reproductibilité est un critère de rigueur scientifique."
+  },
+  {
+    "question": "6 - La réception par les pairs concerne :",
+    "options": ["Les chercheurs et chercheuses du domaine","Les lecteurs sur les réseaux sociaux",  "Les étudiants de licence", "Le public général"],
+    "answerIndex": 0,
+    "explication": "La communauté scientifique évalue l’intérêt et la validité de l’article."
+  },
+  {
+    "question": "7 - Le titre d’un article scientifique doit :",
+    "options": ["Être humoristique", "Être très long", "Contenir des métaphores", "Présenter clairement le thème traité"],
+    "answerIndex": 3,
+    "explication": "Le titre doit informer immédiatement du contenu de l’article."
+  },
+  {
+    "question": "8 - Les mots clés servent principalement à :",
+    "options": ["Trouver la bibliographie",  "Vérifier la méthodologie", "Guider les recherches bibliographiques","Analyser la conclusion"],
+    "answerIndex": 2,
+    "explication": "Ils situent l’article dans un champ disciplinaire."
+  },
+  {
+    "question": "9 - Le résumé d’un article contient généralement :",
+    "options": ["Des détails techniques uniquement", "Problématique, méthodologie, résultats", "Une biographie de l’auteur", "La bibliographie complète"],
+    "answerIndex": 1,
+    "explication": "Le résumé synthétise tout le contenu de l’article."
+  },
+  {
+    "question": "10 - Une bonne pratique de lecture consiste à :",
+    "options": ["Tout mémoriser sans prendre de notes", "Lire uniquement les titres", "Ne jamais s’arrêter sur les mots inconnus", "Annoter et surligner le texte"],
+    "answerIndex": 3,
+    "explication": "L’annotation facilite la compréhension et la structuration."
+  },
+  {
+    "question": "11 - Les connecteurs logiques permettent de :",
+    "options": ["Décorer le texte",  "Repérer les auteurs cités", "Comprendre les liens entre les arguments","Choisir les hypothèses"],
+    "answerIndex": 2,
+    "explication": "Ils rendent la structure argumentative visible."
+  },
+  {
+    "question": "12 - À la fin de la lecture d’un article, on doit être capable de :",
+    "options": ["Raconter la vie des auteurs", "Identifier la problématique et les hypothèses", "Mémoriser chaque phrase", "Refaire les graphiques"],
+    "answerIndex": 1,
+    "explication": "La compréhension porte notamment sur la question de recherche et les hypothèses."
+  },
+  {
+    "question": "13 - Le matériel empirique désigne :",
+    "options": ["Les données issues d’observations, entretiens, questionnaires…","Les images",  "Les notes de bas de page", "La conclusion"],
+    "answerIndex": 0,
+    "explication": "Il s’agit des données produites ou recueillies pour l’analyse."
+  },
+  {
+    "question": "14 - La discussion dans un article sert à :",
+    "options": ["Répéter les résultats tels quels", "Présenter la méthodologie", "Introduire un nouveau sujet", "Mettre en perspective les résultats et les limites"],
+    "answerIndex": 3,
+    "explication": "Elle analyse les limites, les implications et les prolongements possibles."
+  },
+  {
+    "question": "15 - La fiche de lecture vise à :",
+    "options": ["Remplacer complètement la lecture de l'article", "Évaluer compréhension, synthèse et analyse", "Critiquer l’auteur personnellement", "Jugement littéraire de la forme"],
+    "answerIndex": 1,
+    "explication": "Elle évalue la capacité à comprendre et synthétiser un texte scientifique."
+  },
+  {
+    "question": "16 - La première partie d’une fiche de lecture consiste à :",
+    "options": ["Analyser les concepts",  "Comparer plusieurs articles", "Situer l’auteur et l’ouvrage","Présenter une critique personnelle"],
+    "answerIndex": 2,
+    "explication": "Il faut présenter l’auteur, son parcours et la nature de l’ouvrage."
+  },
+  {
+    "question": "17 - Dans la partie synthèse, il faut :",
+    "options": ["Reformuler les idées majeures","Ajouter des avis personnels",  "Choisir uniquement une idée", "Ignorer les exemples utilisés"],
+    "answerIndex": 0,
+    "explication": "La synthèse reprend les idées essentielles en les reformulant."
+  },
+  {
+    "question": "18 - Le développement analytique permet :",
+    "options": ["De recopier l’article", "D'éclairer et commenter les idées", "De refaire la bibliographie", "D’ajouter de nombreuses citations"],
+    "answerIndex": 1,
+    "explication": "Il mobilise esprit critique, connaissances et analyse."
+  },
+  {
+    "question": "19 - Dans une fiche de lecture, on peut utiliser :",
+    "options": ["20 citations minimum",  "Aucune citation", "3 à 4 citations maximum","Autant de citations que possible"],
+    "answerIndex": 2,
+    "explication": "Le cours précise de ne pas dépasser 3 ou 4 citations."
+  },
+  {
+    "question": "20 - La conclusion de la fiche doit :",
+    "options": ["Faire le bilan et élargir la portée de l’ouvrage", "Répéter la synthèse mot pour mot", "Présenter un résumé du résumé", "Donner des détails méthodologiques"],
+    "answerIndex": 0,
+    "explication": "Elle met en perspective les apports et la portée du texte."
+  }
+  ,
+  {
+    "question": "21 - Une fiche de lecture permet également de :",
+    "options": ["Vérifier le style littéraire de l’auteur", "Donner envie de lire l’article", "Évaluer les illustrations", "Changer la méthodologie de l’article"],
+    "answerIndex": 1,
+    "explication": "Elle doit informer et potentiellement motiver la lecture."
+  },
+  {
+    "question": "22 - Commenter le titre dans la fiche de lecture sert à :",
+    "options": ["En proposer un nouveau", "Le traduire", "Le remplacer par un résumé", "Analyser ce qu’il annonce du contenu"],
+    "answerIndex": 3,
+    "explication": "Le titre éclaire souvent les principales orientations du texte."
+  },
+  {
+    "question": "23 - L’une des erreurs à éviter dans une fiche de lecture est :",
+    "options": ["La paraphrase","Synthétiser les idées",  "Analyser les arguments", "Reformuler les notions"],
+    "answerIndex": 0,
+    "explication": "La paraphrase ne montre ni compréhension ni synthèse."
+  },
+  {
+    "question": "24 - Les textes cités dans une fiche de lecture doivent apparaître :",
+    "options": ["En note uniquement", "Sans précision", "Dans une bibliographie aux normes APA 7", "Dans un tableau séparé"],
+    "answerIndex": 2,
+    "explication": "Les normes APA 7 doivent être respectées."
+  },
+  {
+    "question": "25 - La revue de littérature dans un article regroupe :",
+    "options": ["Les citations préférées de l’auteur", "Les principaux travaux antérieurs mobilisés", "Les notes personnelles de l’auteur", "Des anecdotes historiques"],
+    "answerIndex": 1,
+    "explication": "Elle situe l’article dans un contexte théorique."
+  },
+  {
+    "question": "26 - Les hypothèses d’un article sont :",
+    "options": ["Des certitudes", "Des questions exploratoires", "Des prévisions ou suppositions de départ", "Des résultats définitifs"],
+    "answerIndex": 2,
+    "explication": "Elles orientent l’enquête et l’analyse."
+  },
+  {
+    "question": "27 - L’introduction d’un article scientifique sert à :",
+    "options": ["Conclure l’article", "Présenter le plan, la problématique et l’intérêt du sujet", "Ajouter des remerciements", "Présenter la bibliographie"],
+    "answerIndex": 1,
+    "explication": "Elle annonce le sujet, la problématique et la structure."
+  },
+  {
+    "question": "28 - La méthodologie doit permettre de comprendre :",
+    "options": ["Comment les données ont été recueillies et analysées","Les goûts personnels de l’auteur",  "Le prix du matériel utilisé", "Le style d’écriture"],
+    "answerIndex": 0,
+    "explication": "C’est la description des outils, choix et procédures d’enquête."
+  },
+  {
+    "question": "29 - La problématique correspond à :",
+    "options": ["Une question large sans lien avec le sujet",  "Le résumé de la conclusion", "La question précise que se pose l’auteur","Une description de l’auteur"],
+    "answerIndex": 2,
+    "explication": "Elle structure l’ensemble de l’article."
+  },
+  {
+    "question": "30 - Les prolongements évoqués en conclusion sont :",
+    "options": ["Des résultats définitifs", "Des pistes de recherche futures", "Des remarques personnelles", "Des remerciements"],
+    "answerIndex": 1,
+    "explication": "Ils ouvrent vers des perspectives nouvelles."
+  },
+  {
+    "question": "31 - Quand on lit un article, repérer les mots inconnus permet :",
+    "options": ["De comprendre le sens précis donné par l’auteur","D’ignorer les concepts",  "D’enrichir la bibliographie", "De gagner du temps"],
+    "answerIndex": 0,
+    "explication": "Les recherches lexicales affinent la compréhension."
+  },
+  {
+    "question": "32 - La structure d’un article peut être repérée grâce :",
+    "options": ["Aux images seulement", "Aux remerciements", "Au nombre de pages", "Aux titres et sous-titres"],
+    "answerIndex": 3,
+    "explication": "La structure apparaît dans l’organisation en sections."
+  },
+  {
+    "question": "33 - Une fiche de lecture bien faite :",
+    "options": ["Analyse et synthétise le texte","Reprend tout le texte mot à mot",  "Ignore les limites de l’étude", "Détaille chaque paragraphe"],
+    "answerIndex": 0,
+    "explication": "Elle doit synthétiser et analyser, non paraphraser."
+  },
+  {
+    "question": "34 - Les limites d’un article permettent :",
+    "options": ["De disqualifier l’étude", "De comprendre les conditions d’interprétation des résultats", "De connaître les opinions politiques des auteurs", "D’ajouter d’autres citations"],
+    "answerIndex": 1,
+    "explication": "Elles encadrent la portée des résultats."
+  },
+  {
+    "question": "35 - La bibliographie d’un article révèle :",
+    "options": ["Les amis de l’auteur",  "Les dates de rédaction", "Les travaux sur lesquels il s’appuie","La longueur de l’article"],
+    "answerIndex": 2,
+    "explication": "Elle montre les références théoriques et méthodologiques mobilisées."
+  },
+  {
+    "question": "36 - En lecture scientifique, un paragraphe équivaut souvent à :",
+    "options": ["Plusieurs idées mélangées", "Une idée principale", "Une conclusion", "Une liste de citations"],
+    "answerIndex": 1,
+    "explication": "Chaque paragraphe porte généralement une idée centrale."
+  },
+  {
+    "question": "37 - Un connecteur logique comme « cependant » indique :",
+    "options": ["Une contradiction ou nuance", "Un exemple", "Une conclusion", "Une répétition"],
+    "answerIndex": 0,
+    "explication": "Les connecteurs structurent le raisonnement."
+  },
+  {
+    "question": "38 - Une bonne lecture scientifique consiste à :",
+    "options": ["Lire sans jamais relire", "Sauter la méthodologie", "Ignorer les hypothèses", "Se poser des questions tout au long du texte"],
+    "answerIndex": 3,
+    "explication": "La lecture critique nécessite un questionnement continu."
+  },
+  {
+    "question": "39 - L'analyse thématique est :",
+    "options": [ "Une technique de résumé", "Une méthode d’analyse des données","Une forme de bibliographie", "Un choix de mise en page"],
+    "answerIndex": 1,
+    "explication": "Elle est citée comme méthode possible d’analyse des données."
+  },
+  {
+    "question": "40 - Les résultats d’un article doivent être :",
+    "options": [ "Des hypothèses", "Des opinions personnelles", "Interpretés","Des citations"],
+    "answerIndex": 2,
+    "explication": "Ils doivent être analysés dans la discussion."
+  },
+  {
+    "question": "41 - L’une des questions à se poser à la fin de la lecture est :",
+    "options": ["Combien de pages fait l’article ?", "Qu’ai-je appris ?", "Le titre est-il joli ?", "Combien de graphiques contient-il ?"],
+    "answerIndex": 1,
+    "explication": "Il faut évaluer ce que l’article apporte réellement."
+  },
+  {
+    "question": "42 - La synthèse analytique combine :",
+    "options": ["Résumé + analyse dans un même mouvement", "Uniquement des citations", "Uniquement de l’analyse", "Un résumé mot à mot"],
+    "answerIndex": 0,
+    "explication": "Elle reprend la structure du texte en y intégrant l’analyse."
+  },
+  {
+    "question": "43 - Le choix des exemples dans la synthèse doit :",
+    "options": ["Être très large", "Être représentatif du raisonnement de l’auteur", "Être absent", "Être remplacé par des anecdotes"],
+    "answerIndex": 1,
+    "explication": "Les exemples éclairent la logique de l’auteur."
+  },
+  {
+    "question": "44 - Une fiche de lecture doit éviter :",
+    "options": ["Les analyses argumentées", "Les reformulations", "Les critiques superficielles", "Les liens avec d’autres auteurs"],
+    "answerIndex": 2,
+    "explication": "Les critiques doivent être argumentées, pas superficielles."
+  },
+  {
+    "question": "45 - Les thématiques principales d’un auteur se repèrent dans :",
+    "options": ["Ses publications antérieures", "La conclusion seulement", "La bibliographie", "La mise en page"],
+    "answerIndex": 0,
+    "explication": "Elles apparaissent dans son parcours scientifique."
+  },
+  {
+    "question": "46 - Pour comprendre un article, il est conseillé de :",
+    "options": ["Lire uniquement la conclusion", "Repérer la structure générale", "Ignorer les mots inconnus", "Sauter les parties théoriques"],
+    "answerIndex": 1,
+    "explication": "La structure aide à comprendre le raisonnement."
+  },
+  {
+    "question": "47 - Un article scientifique s’adresse généralement :",
+    "options": ["Au grand public uniquement", "Aux élèves du primaire", "Aux médias", "À un lectorat scientifique ou professionnel"],
+    "answerIndex": 3,
+    "explication": "Le fichier précise le lectorat visé : scientifique, professionnel ou grand public."
+  },
+  {
+    "question": "48 - La problématique est souvent annoncée dans :",
+    "options": ["La conclusion", "L’introduction", "Les remerciements", "Le résumé uniquement"],
+    "answerIndex": 1,
+    "explication": "L’introduction présente problématique et plan."
+  },
+  {
+    "question": "49 - Une limite classique d’un article est :",
+    "options": ["Sa taille", "L’écriture manuscrite", "Les contraintes liées au terrain et aux données", "Le manque d’images"],
+    "answerIndex": 2,
+    "explication": "Les limites concernent souvent les conditions de recueil et d’analyse."
+  },
+  {
+    "question": "50 - L'une des consignes pour le TD suivant est :",
+    "options": ["Écrire un article scientifique", "Réaliser une fiche de lecture", "Créer une présentation PowerPoint", "Lire trois articles supplémentaires"],
+    "answerIndex": 1,
+    "explication": "Le fichier précise qu'il faut réaliser une fiche de lecture pour le TD7."
+  }
+]

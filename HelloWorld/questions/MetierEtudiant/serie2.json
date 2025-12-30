@@ -1,0 +1,287 @@
+[
+  {
+    "question": "1 - Quel est le premier point du TD 4 ?",
+    "options": ["Découverte d'un roman", "Restitution du rétroplanning", "Écriture d'un résumé", "Analyse d'un film"],
+    "answerIndex": 1,
+    "explication": "Le début du TD consiste à revenir sur le rétroplanning élaboré au TD précédent."
+  },
+  {
+    "question": "2 - Que demande l'enseignant lors de la restitution du rétroplanning ?",
+    "options": ["Présenter votre organisation du semestre", "Rédiger un compte rendu", "Apprendre le planning par cœur", "Créer un nouveau planning"],
+    "answerIndex": 0,
+    "explication": "Il s'agit de montrer comment vous avez structuré votre semestre."
+  },
+  {
+    "question": "3 - La deuxième partie du TD porte sur :",
+    "options": ["Un texte littéraire", "Un écrit scientifique", "Une bande dessinée", "Un manuel scolaire"],
+    "answerIndex": 1,
+    "explication": "Le TD vise à découvrir et analyser un texte scientifique."
+  },
+  {
+    "question": "4 - La première étape face à l’écrit scientifique est :",
+    "options": ["Le lire en groupe immédiatement", "Le résumer sans lire", "Faire une lecture individuelle avec prise de notes", "Chercher un résumé en ligne"],
+    "answerIndex": 2,
+    "explication": "Chaque étudiant doit d’abord lire et annoter individuellement l’article."
+  },
+  {
+    "question": "5 - Après la lecture individuelle, les étudiants doivent :",
+    "options": ["Corriger l’article", "Faire un exposé", "Restituer le sens du texte en groupe", "Donner leur avis personnel sans justification"],
+    "answerIndex": 2,
+    "explication": "La restitution en groupe permet de comparer les compréhensions et clarifier les difficultés."
+  },
+
+  {
+    "question": "6 - Une consigne liée à l’article scientifique est :",
+    "options": ["Repérer sa construction et la manière de citer les sources","Repérer son style littéraire",  "Comparer avec un roman", "Créer une bande-annonce"],
+    "answerIndex": 0,
+    "explication": "L’objectif est de reconnaître les normes académiques : structure, sources, citations."
+  },
+  {
+    "question": "7 - Une question clé posée dans le TD est :",
+    "options": ["L’auteur est-il célèbre ?", "L’article est-il amusant ?", "L’article est-il poétique ?", "Quelles sont les normes académiques identifiables ?"],
+    "answerIndex": 3,
+    "explication": "Le TD vise la reconnaissance des normes académiques dans l'écrit scientifique."
+  },
+  {
+    "question": "8 - Parmi les difficultés possibles de lecture, on peut citer :",
+    "options": ["Le langage scientifique et les concepts","Les images trop nombreuses",  "Le manque de couleurs", "Le format papier"],
+    "answerIndex": 0,
+    "explication": "Les articles académiques utilisent souvent des termes complexes."
+  },
+  {
+    "question": "9 - Une astuce avant de lire un article est :",
+    "options": ["Ignorer le résumé", "Analyser les éléments paratextuels", "Commencer par la conclusion", "Lire en diagonale immédiatement"],
+    "answerIndex": 1,
+    "explication": "Titre, auteurs, mots-clés, lexique, résumé donnent des indices précieux."
+  },
+  {
+    "question": "10 - Quel élément n’est PAS cité comme indice avant lecture ?",
+    "options": ["L’éditeur", "Le résumé", "Les mots-clefs", "Les illustrations artistiques"],
+    "answerIndex": 3,
+    "explication": "Les illustrations artistiques ne sont pas mentionnées dans le diaporama."
+  },
+
+  {
+    "question": "11 - Pendant la lecture, une stratégie recommandée est :",
+    "options": ["Tout lire sans pause", "Sauter les paragraphes difficiles", "Surligner avec un code couleur", "Ne pas annoter"],
+    "answerIndex": 2,
+    "explication": "Le surlignage permet de repérer les idées essentielles."
+  },
+  {
+    "question": "12 - Une autre stratégie consiste à :",
+    "options": ["Éviter les annotations", "Noter remarques et commentaires", "Réécrire l’article entièrement", "Ne lire que le titre"],
+    "answerIndex": 1,
+    "explication": "Les annotations aident à comprendre le texte et à mémoriser."
+  },
+  {
+    "question": "13 - Les connecteurs logiques servent à :",
+    "options": ["Faire joli", "Créer des rimes", "Montrer la progression des arguments", "Ajouter des citations"],
+    "answerIndex": 2,
+    "explication": "Ils rendent visibles les liens entre les idées."
+  },
+  {
+    "question": "14 - Un paragraphe représente souvent :",
+    "options": ["Plusieurs idées différentes", "Une idée principale", "Une conclusion complète", "Une bibliographie entière"],
+    "answerIndex": 1,
+    "explication": "Chaque paragraphe développe généralement une seule idée."
+  },
+  {
+    "question": "15 - Après la lecture, il faut d'abord se demander :",
+    "options": ["Si l’auteur est célèbre", "Si l’article est long", "Si l’article contient des images", "Qui est l’auteur et quelle est sa discipline ?"],
+    "answerIndex": 3,
+    "explication": "Identifier l'auteur aide à comprendre la perspective et l’expertise mobilisée."
+  },
+
+  {
+    "question": "16 - Le problème spécifique de l’auteur correspond :",
+    "options": [ "À la question de recherche","À son humeur", "À un détail sans importance", "À un passage préféré"],
+    "answerIndex": 0,
+    "explication": "L’auteur cherche à répondre à une question scientifique précise."
+  },
+  {
+    "question": "17 - Les travaux précédents cités servent à :",
+    "options": ["Remplir des pages",  "Détourner le lecteur","Ancrer le texte dans un cadre scientifique", "Éviter de donner une méthode"],
+    "answerIndex": 2,
+    "explication": "Ils montrent sur quelles connaissances l’auteur s’appuie."
+  },
+  {
+    "question": "18 - Les hypothèses de l’auteur sont :",
+    "options": ["Des certitudes absolues", "Des propositions à vérifier", "Des anecdotes", "Des citations"],
+    "answerIndex": 1,
+    "explication": "Les hypothèses sont testées grâce à la méthodologie."
+  },
+  {
+    "question": "19 - La méthodologie peut inclure :",
+    "options": ["Des récits inventés", "Des poèmes", "Des résumés de films", "Observation, entretiens, questionnaires"],
+    "answerIndex": 3,
+    "explication": "Le TD mentionne plusieurs méthodes empiriques classiques."
+  },
+  {
+    "question": "20 - La population étudiée correspond :",
+    "options": ["Aux auteurs cités", "Aux personnes enquêtées", "Aux lecteurs de l’article", "Aux étudiants du TD"],
+    "answerIndex": 1,
+    "explication": "La population est l’ensemble des individus étudiés dans la recherche."
+  },
+
+  {
+    "question": "21 - L'analyse peut se faire :",
+    "options": ["Avec ou sans logiciel spécifique", "Uniquement avec un logiciel payant", "Sans méthodologie", "Avec une calculatrice"],
+    "answerIndex": 0,
+    "explication": "L’article peut utiliser une analyse thématique ou un logiciel spécialisé."
+  },
+  {
+    "question": "22 - Un résultat principal est :",
+    "options": ["Un récit personnel",  "Un avis subjectif", "Une donnée mise en avant par l’auteur","Une illustration"],
+    "answerIndex": 2,
+    "explication": "Les résultats répondent à la question de recherche."
+  },
+  {
+    "question": "23 - Les prolongements possibles désignent :",
+    "options": ["Des erreurs de l’article", "Des idées pour des recherches futures", "Des citations manquantes", "Une nouvelle conclusion"],
+    "answerIndex": 1,
+    "explication": "L’auteur suggère des pistes pour poursuivre la réflexion."
+  },
+  {
+    "question": "24 - Dans la bibliographie, il est demandé de repérer :",
+    "options": ["2 à 4 auteurs principaux","Les auteurs les plus courts",  "Tous les auteurs du monde", "Les auteurs avec photos"],
+    "answerIndex": 0,
+    "explication": "Le TD demande de repérer les citations majeures."
+  },
+  {
+    "question": "25 - Une question finale est :",
+    "options": ["L’article est-il comique ?", "Avez-vous aimé les images ?", "L’article est-il pertinent pour votre thématique ?", "L’article est-il trop long ?"],
+    "answerIndex": 2,
+    "explication": "La pertinence est un critère fondamental en recherche."
+  },
+
+  {
+    "question": "26 - Une norme académique importante est :",
+    "options": ["Citer ses sources", "Inventer les références", "Écrire sans paragraphe", "Ne jamais citer"],
+    "answerIndex": 0,
+    "explication": "L’écriture scientifique nécessite la citation des sources."
+  },
+  {
+    "question": "27 - Une autre norme est :",
+    "options": ["Une structure claire", "Une écriture libre sans plan", "Des couleurs partout", "Des formules humoristiques"],
+    "answerIndex": 0,
+    "explication": "Les écrits académiques suivent une structure identifiable."
+  },
+  {
+    "question": "28 - Les articles scientifiques utilisent :",
+    "options": ["Un style familier", "Un style précis et rigoureux", "Du vocabulaire argotique", "Beaucoup d’émoticônes"],
+    "answerIndex": 1,
+    "explication": "Le style académique privilégie la précision."
+  },
+  {
+    "question": "29 - Une caractéristique d'un écrit scientifique est :",
+    "options": ["La neutralité et l’objectivation","La subjectivité assumée",  "L’humour omniprésent", "Les dialogues"],
+    "answerIndex": 0,
+    "explication": "Le texte scientifique vise la neutralité."
+  },
+  {
+    "question": "30 - Les sources servent à :",
+    "options": ["Détourner l’attention", "Rendre le texte plus long", "Remplacer la méthodologie", "Renforcer la crédibilité scientifique"],
+    "answerIndex": 3,
+    "explication": "Les citations montrent l’ancrage théorique de la recherche."
+  },
+
+  {
+    "question": "31 - Avant la lecture, le résumé sert à :",
+    "options": ["Connaître les conclusions essentielles", "Décorer l’article", "Remplacer l’article entier", "Présenter l’auteur"],
+    "answerIndex": 0,
+    "explication": "Le résumé donne un aperçu global de l’article."
+  },
+  {
+    "question": "32 - Les mots-clés servent à :",
+    "options": ["Faire joli", "Placer l’article dans un champ thématique", "Remplacer la conclusion", "Allonger le texte"],
+    "answerIndex": 1,
+    "explication": "Ils indiquent les concepts centraux du texte."
+  },
+  {
+    "question": "33 - L'introduction d’un article scientifique sert à :",
+    "options": ["Donner les résultats", "Présenter des anecdotes", "Poser la question de recherche", "Conclure l’article"],
+    "answerIndex": 2,
+    "explication": "L’introduction situe le problème et la question abordée."
+  },
+  {
+    "question": "34 - Le lexique éventuellement fourni permet :",
+    "options": ["De comprendre les termes techniques","D’ajouter des illustrations",  "De remplacer les références", "De lire plus vite sans comprendre"],
+    "answerIndex": 0,
+    "explication": "Il aide à comprendre les mots complexes."
+  },
+  {
+    "question": "35 - Les connecteurs logiques permettent :",
+    "options": ["De changer de sujet brutalement", "De guider la compréhension", "D’écrire plus vite", "D’ajouter des couleurs"],
+    "answerIndex": 1,
+    "explication": "Ils assurent la cohérence entre les idées."
+  },
+
+  {
+    "question": "36 - La prise de notes pendant la lecture permet :",
+    "options": ["D’éviter la compréhension", "D’allonger inutilement le travail", "D'éviter les citations", "De mémoriser et clarifier"],
+    "answerIndex": 3,
+    "explication": "Prendre des notes facilite la compréhension."
+  },
+  {
+    "question": "37 - Le surlignage avec code couleur permet :",
+    "options": ["De catégoriser les informations","D'embellir le texte",  "D’effacer des phrases", "D’ajouter des citations"],
+    "answerIndex": 0,
+    "explication": "Un code couleur aide à identifier arguments, exemples, notions."
+  },
+  {
+    "question": "38 - L’analyse après lecture inclut :",
+    "options": ["Relire sans réfléchir", "Ignorer les résultats", "Identifier problématique et méthodologie", "Supprimer les citations"],
+    "answerIndex": 2,
+    "explication": "Ces éléments constituent la base d’une lecture académique."
+  },
+  {
+    "question": "39 - Une question pertinente après lecture est :",
+    "options": ["Quelle est la réponse à la question de recherche ?","Est-ce que j’aime l’auteur ?",  "Est-ce que l’article est court ?", "Est-ce que les phrases sont longues ?"],
+    "answerIndex": 0,
+    "explication": "L’objectif de l’auteur est de répondre à une problématique."
+  },
+  {
+    "question": "40 - La bibliographie sert à :",
+    "options": ["Faire joli", "Montrer le cadre théorique et les références mobilisées", "Raconter des histoires", "Indiquer les dates de vacances"],
+    "answerIndex": 1,
+    "explication": "Elle montre sur quelles recherches l’article s’appuie."
+  },
+
+  {
+    "question": "41 - Le TD mentionne une norme internationale à préparer :",
+    "options": ["MLA", "Chicago 3", "Harvard 2", "APA 7"],
+    "answerIndex": 3,
+    "explication": "Les étudiants doivent préparer un exposé sur les normes APA 7."
+  },
+  {
+    "question": "42 - Le travail à préparer sur APA se fait :",
+    "options": ["Seul", "En binôme", "En groupe de dix", "Avec toute la classe"],
+    "answerIndex": 1,
+    "explication": "Le diaporama précise : préparation en binôme."
+  },
+  {
+    "question": "43 - La durée maximale de la présentation APA est :",
+    "options": ["20 minutes", "5 minutes", "10 minutes", "30 minutes"],
+    "answerIndex": 2,
+    "explication": "La consigne limite la présentation à 10 minutes."
+  },
+  {
+    "question": "44 - La présentation sur APA doit inclure :",
+    "options": ["Utilité, fonctionnement, outils","L’histoire personnelle de l’auteur",  "Des anecdotes humoristiques", "Une analyse littéraire"],
+    "answerIndex": 0,
+    "explication": "Les normes APA doivent être expliquées dans leurs usages pratiques."
+  },
+  
+  {
+    "question": "45 - Une norme académique essentielle est :",
+    "options": [ "L'utilisation systématique de la première personne", "La présence de dessins", "L’utilisation d'un langage précis","Une écriture très personnelle"],
+    "answerIndex": 2,
+    "explication": "Les textes académiques exigent rigueur et précision."
+  },
+  {
+    "question": "46 - Une autre norme essentielle est :",
+    "options": ["La subjectivité totale", "La rigueur dans la citation des sources", "La suppression de toute bibliographie", "L’humour dans la méthodologie"],
+    "answerIndex": 1,
+    "explication": "Les normes académiques reposent sur la qualité et la rigueur des sources."
+  }
+]

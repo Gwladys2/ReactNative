@@ -1,0 +1,561 @@
+[
+  {
+    "question": "1 - Qui est Fernand Oury ?",
+    "options": [
+      "Un psychologue clinicien",
+      "Un pédagogue fondateur de la pédagogie institutionnelle",
+      "Un inspecteur de l’Éducation nationale",
+      "Un sociologue de l’éducation"
+    ],
+    "answerIndex": 1,
+    "explication": "Fernand Oury (1920-1998) est un pédagogue français, fondateur de la pédagogie institutionnelle. Son travail s’inscrit à la croisée de la pédagogie Freinet, de la psychanalyse et de la psychothérapie institutionnelle."
+  },
+  {
+    "question": "2 - À quel contexte historique correspondent les premières expériences éducatives d’Oury ?",
+    "options": [
+      "L’après Mai 68",
+      "La Troisième République",
+      "Les Trente Glorieuses uniquement",
+      "L’entre-deux-guerres mondiales"
+    ],
+    "answerIndex": 3,
+    "explication": "Fernand Oury commence à enseigner dans le contexte de l’entre-deux-guerres, une période marquée par des tensions sociales, politiques et éducatives qui influenceront fortement sa réflexion critique sur l’école."
+  },
+  {
+    "question": "3 - Quelle situation professionnelle provoque chez Oury un sentiment d’impuissance ?",
+    "options": [
+      "Une classe de 45 élèves en tant qu’instituteur suppléant",
+      "Une classe rurale à effectif réduit",
+      "Un poste d’inspecteur",
+      "Une classe spécialisée bien équipée"
+    ],
+    "answerIndex": 0,
+    "explication": "En 1939, Oury se retrouve face à une classe de 45 élèves, situation qui met en évidence les limites de la pédagogie traditionnelle et déclenche chez lui une profonde remise en question."
+  },
+  {
+    "question": "4 - Quel événement est qualifié de « choc » dans le parcours d’Oury ?",
+    "options": [
+      "Sa rencontre avec Lacan",
+      "Sa participation à un stage Freinet en 1949",
+      "Son exclusion de l’Éducation nationale",
+      "La création du GTE"
+    ],
+    "answerIndex": 1,
+    "explication": "Le stage Freinet de 1949 est un moment décisif pour Oury. Il y découvre des techniques pédagogiques concrètes et coopératives qui transformeront durablement sa pratique."
+  },
+  {
+    "question": "5 - Dans quels contextes extra-scolaires Oury a-t-il acquis une expérience décisive ?",
+    "options": [
+      "Uniquement en université",
+      "Dans des écoles privées élitistes",
+      "Dans des colonies de vacances et un IME",
+      "Dans l’administration scolaire"
+    ],
+    "answerIndex": 2,
+    "explication": "Oury acquiert des expériences fondamentales en colonies de vacances et en IME, qui nourrissent sa réflexion sur le groupe, la loi et les institutions."
+  },
+
+  {
+    "question": "6 - Quelle discipline influence fortement la pédagogie institutionnelle ?",
+    "options": [
+      "Le behaviorisme",
+      "La neuroéducation",
+      "Le cognitivisme",
+      "La psychanalyse"
+    ],
+    "answerIndex": 3,
+    "explication": "La pédagogie institutionnelle est profondément influencée par la psychanalyse, notamment à travers les notions de désir, de loi, d’inconscient et de médiation."
+  },
+  {
+    "question": "7 - Avec quel psychanalyste Fernand Oury a-t-il fait une analyse personnelle ?",
+    "options": [
+      "Freud",
+      "Dolto",
+      "Lacan",
+      "Reich"
+    ],
+    "answerIndex": 2,
+    "explication": "Fernand Oury a suivi une analyse avec Jacques Lacan, ce qui renforce l’ancrage psychanalytique de sa réflexion pédagogique."
+  },
+  {
+    "question": "8 - Qui est Jean Oury ?",
+    "options": [
+      "Un inspecteur pédagogique",
+      "Le frère de Fernand Oury et psychiatre",
+      "Un pédagogue Freinet",
+      "Un sociologue"
+    ],
+    "answerIndex": 1,
+    "explication": "Jean Oury, frère de Fernand, est psychiatre et cofondateur de la clinique de La Borde. Il joue un rôle clé dans les liens entre pédagogie institutionnelle et psychothérapie institutionnelle."
+  },
+  {
+    "question": "9 - Qui est Tosquelles pour Oury ?",
+    "options": [
+      "Un inspecteur scolaire",
+      "Un philosophe",
+      "Le fondateur de la psychothérapie institutionnelle",
+      "Un responsable du mouvement Freinet"
+    ],
+    "answerIndex": 2,
+    "explication": "François Tosquelles est le fondateur de la psychothérapie institutionnelle. Sa pensée influence fortement Oury dans sa conception des institutions comme structures soignantes et éducatives."
+  },
+  {
+    "question": "10 - Quel outil pédagogique suivant est une institution selon Oury ?",
+    "options": [
+      "Le conseil",
+      "Le contrôle surprise",
+      "La leçon magistrale",
+      "Le classement"
+    ],
+    "answerIndex": 0,
+    "explication": "Le conseil est une institution centrale de la pédagogie institutionnelle. Il constitue un lieu de parole, de régulation et de décision collective."
+  },
+
+  {
+    "question": "11 - En quelle année Oury rompt-il avec le mouvement Freinet ?",
+    "options": [
+      "1949",
+      "1954",
+      "1961",
+      "1979"
+    ],
+    "answerIndex": 2,
+    "explication": "La rupture avec le mouvement Freinet a lieu en 1961, suite à des désaccords idéologiques et organisationnels."
+  },
+  {
+    "question": "12 - Quelle structure Oury fonde-t-il après son exclusion de l’ICEM ?",
+    "options": [
+      "L’AVPI",
+      "Le GTE",
+      "La Neuville",
+      "Le ChamPI"
+    ],
+    "answerIndex": 1,
+    "explication": "Après son exclusion, Oury fonde avec Fonvielle le Groupe Techniques Éducatives (GTE), qui sera un temps un lieu de développement de la pédagogie institutionnelle."
+  },
+  {
+    "question": "13 - Pourquoi Oury se sépare-t-il ensuite du GTE ?",
+    "options": [
+      "Manque de financement",
+      "Désaccord avec Freinet",
+      "Pressions ministérielles",
+      "Orientation trop universitaire et insuffisamment psychanalytique"
+    ],
+    "answerIndex": 3,
+    "explication": "Oury reproche au GTE une dérive trop universitaire et un manque de prise en compte de la dimension psychanalytique du travail pédagogique."
+  },
+  {
+    "question": "14 - Quels sont les deux courants de la pédagogie institutionnelle ?",
+    "options": [
+      "Traditionnel et moderne",
+      "Clinique et cognitive",
+      "Psychanalytique et psycho-sociologique",
+      "Public et privé"
+    ],
+    "answerIndex": 2,
+    "explication": "La PI se scinde entre un courant psychanalytique (Oury) et un courant psycho-sociologique et autogestionnaire (Fonvielle)."
+  },
+  {
+    "question": "15 - Que critique principalement Oury dans l’« école-caserne » ?",
+    "options": [
+      "Son caractère autoritaire et aliénant",
+      "Son coût",
+      "Sa pédagogie libertaire", 
+      "Son manque de technologies"
+    ],
+    "answerIndex": 0,
+    "explication": "L’école-caserne est critiquée pour son autoritarisme, sa massification, son absence de responsabilité accordée aux élèves et son effet inhibiteur sur la pensée."
+  },
+
+  {
+    "question": "16 - Quelle autre pédagogie Oury critique-t-il fortement ?",
+    "options": [
+      "La pédagogie différenciée",
+      "La pédagogie libertaire du laissez-faire",
+      "La pédagogie Montessori",
+      "La pédagogie magistrale"
+    ],
+    "answerIndex": 1,
+    "explication": "Oury critique le laissez-faire, qu’il considère comme une absence de repères et de loi, tout aussi nocive que l’autoritarisme."
+  },
+  {
+    "question": "17 - Quelle alternative Oury propose-t-il entre autoritarisme et laisser-faire ?",
+    "options": [
+      "L’obéissance aveugle",
+      "La liberté totale",
+      "La sanction systématique",
+      "La décision collective"
+    ],
+    "answerIndex": 3,
+    "explication": "Oury propose que l’autorité émane de la décision collective, permettant une obéissance choisie et non subie."
+  },
+  {
+    "question": "18 - Que signifie obéir à la loi collective selon Oury ?",
+    "options": [
+      "Une humiliation",
+      "Un acte automatique",
+      "Un honneur",
+      "Une contrainte inutile"
+    ],
+    "answerIndex": 2,
+    "explication": "Pour Oury, obéir à une loi que l’on a contribué à élaborer est un honneur, car cela témoigne de la capacité à choisir et à vivre en société."
+  },
+  {
+    "question": "19 - Quels sont les trois piliers de la pédagogie institutionnelle ?",
+    "options": [
+      "Autorité, savoir, évaluation",
+      "Groupe, inconscient, matérialisme",
+      "Liberté, autonomie, performance",
+      "Individu, compétition, réussite"
+    ],
+    "answerIndex": 1,
+    "explication": "La PI repose sur le groupe, les apports de la psychanalyse (inconscient) et le matérialisme pédagogique issu de Freinet."
+  },
+  {
+    "question": "20 - Pourquoi le désir est-il central en pédagogie institutionnelle ?",
+    "options": [
+      "Il garantit la réussite scolaire",
+      "Il remplace les règles",
+      "Il supprime les conflits",
+      "Il permet l’engagement réel dans le travail"
+    ],
+    "answerIndex": 3,
+    "explication": "Rien ne se fait sans désir : le désir permet un investissement authentique des élèves dans les apprentissages et la vie du groupe."
+  },
+
+  {
+    "question": "21 - Quel rôle joue la loi dans la PI ?",
+    "options": [
+      "Canaliser les pulsions et rendre possible la vie collective",
+      "Réprimer les pulsions",
+      "Supprimer les désirs",  
+      "Renforcer l’autorité du maître"
+    ],
+    "answerIndex": 0,
+    "explication": "La loi, intériorisée et acceptée, permet de réguler les pulsions et de rendre possible la coexistence des libertés individuelles."
+  },
+  {
+    "question": "22 - Que risque-t-on en transgressant la loi collective ?",
+    "options": [
+      "Une punition automatique",
+      "L’exclusion du groupe",
+      "La marginalisation symbolique",
+      "Un redoublement"
+    ],
+    "answerIndex": 2,
+    "explication": "Transgresser la loi, c’est risquer de se mettre en marge du groupe, puisque la loi est le principal lien fédérateur."
+  },
+  {
+    "question": "23 - Pourquoi la relation duelle maître-élève est-elle problématique ?",
+    "options": [
+      "Elle est inefficace scolairement",
+      "Elle favorise des transferts psychiques nocifs",
+      "Elle empêche l’autorité",
+      "Elle supprime le désir"
+    ],
+    "answerIndex": 1,
+    "explication": "La relation duelle peut générer des phénomènes de dépendance, d’identification ou d’auto-censure. La PI cherche à les éviter par des médiations."
+  },
+  {
+    "question": "24 - Quel est le rôle des médiations ?",
+    "options": [
+      "Renforcer le pouvoir du maître",
+      "Supprimer les conflits",
+      "Isoler les élèves",
+      "Créer des activités communes et protectrices"
+    ],
+    "answerIndex": 3,
+    "explication": "Les médiations (objets, activités, institutions) protègent élèves et enseignants de l’affrontement direct et favorisent la coopération."
+  },
+  {
+    "question": "25 - Pourquoi le groupe est-il central en PI ?",
+    "options": [
+      "Pour classer les élèves",
+      "Pour renforcer la compétition",
+      "Pour permettre la reconnaissance et la construction du sujet",
+      "Pour uniformiser les comportements"
+    ],
+    "answerIndex": 2,
+    "explication": "Le groupe permet à chacun de trouver une place, une fonction et une reconnaissance, conditions essentielles pour devenir sujet."
+  },
+
+  {
+    "question": "26 - Une classe est-elle immédiatement un groupe ?",
+    "options": [
+      "Oui",
+      "Non",
+      "Seulement en primaire",
+      "Seulement avec un bon enseignant"
+    ],
+    "answerIndex": 1,
+    "explication": "Une classe est d’abord une collection d’individus. Le groupe se construit progressivement grâce aux institutions, aux règles et aux projets communs."
+  },
+  {
+    "question": "27 - Quel rôle jouent les conflits en PI ?",
+    "options": [
+      "Ils doivent être évités",
+      "Ils sont nuisibles",
+      "Ils sont des occasions de structuration du groupe",
+      "Ils prouvent l’échec de la pédagogie"
+    ],
+    "answerIndex": 2,
+    "explication": "Les conflits font partie de la vie du groupe et sont des occasions de construire des règles, des institutions et du sens collectif."
+  },
+  {
+    "question": "28 - Comment l’enseignant doit-il réagir face aux conflits ?",
+    "options": [
+      "Créer des lieux de parole institués",
+      "Punir immédiatement",
+      "Les ignorer",
+      "Exclure les élèves concernés"
+    ],
+    "answerIndex": 0,
+    "explication": "L’enseignant crée des espaces comme le conseil pour permettre l’expression, la régulation et la résolution collective des conflits."
+  },
+  {
+    "question": "29 - Pourquoi les techniques Freinet sont-elles essentielles en PI ?",
+    "options": [
+      "Elles remplacent les savoirs",
+      "Elles sont uniquement symboliques",
+      "Elles permettent des médiations concrètes",
+      "Elles suppriment le rôle du maître"
+    ],
+    "answerIndex": 2,
+    "explication": "Les techniques Freinet (imprimerie, texte libre, conseil…) sont des supports matériels qui rendent possibles coopération, désir et loi."
+  },
+  {
+    "question": "30 - Que signifie le matérialisme pédagogique ?",
+    "options": [
+      "Le rejet de la théorie",
+      "L’apprentissage par la pratique concrète",
+      "L’usage exclusif du manuel",
+      "La standardisation des outils"
+    ],
+    "answerIndex": 1,
+    "explication": "Pour Oury, la pédagogie se construit dans et par la pratique. La théorie n’est pas première, elle émerge de l’expérience."
+  },
+
+  {
+    "question": "31 - Quel est le rôle du tâtonnement expérimental ?",
+    "options": [
+      "Éviter les erreurs",
+      "Appliquer une méthode figée",
+      "Accélérer les programmes",
+      "Permettre apprentissage et transformation"
+    ],
+    "answerIndex": 3,
+    "explication": "Le tâtonnement expérimental permet aux élèves et aux enseignants d’apprendre par essais, erreurs et ajustements successifs."
+  },
+  {
+    "question": "32 - Que représente une institution en PI ?",
+    "options": [
+      "Un règlement figé",
+      "Un outil bureaucratique",
+      "Un cadre structurant du vivre-ensemble",
+      "Une contrainte inutile"
+    ],
+    "answerIndex": 2,
+    "explication": "Les institutions structurent la vie collective, organisent la parole, les rôles, les règles et rendent possible l’apprentissage."
+  },
+  {
+    "question": "33 - Pourquoi Oury refuse-t-il les motivations artificielles ?",
+    "options": [
+      "Elles sont inefficaces",
+      "Elles remplacent le désir",
+      "Elles renforcent le collectif",
+      "Elles favorisent l’autonomie"
+    ],
+    "answerIndex": 1,
+    "explication": "Notes, classements et sanctions sont des motivations de substitution qui étouffent le désir véritable d’apprendre."
+  },
+  {
+    "question": "34 - Que permet l’acceptation de la loi ?",
+    "options": [ 
+      "La rencontre de l’autre",
+      "La soumission",
+      "La répression",  
+      "L’isolement"
+    ],
+    "answerIndex": 0,
+    "explication": "La loi permet la coexistence des singularités et rend possible la reconnaissance mutuelle au sein du groupe."
+  },
+  {
+    "question": "35 - Quel type d’école défend la PI ?",
+    "options": [
+      "Une école autoritaire",
+      "Une école sans règles",
+      "Une école uniquement thérapeutique",
+      "Une école structurée par des institutions"
+    ],
+    "answerIndex": 3,
+    "explication": "La pédagogie institutionnelle défend une école structurée, ni autoritaire ni laxiste, où les institutions organisent liberté et responsabilité."
+  },
+
+  {
+    "question": "36 - Quelle est la finalité principale de la PI ?",
+    "options": [
+      "La construction du sujet",
+      "La réussite aux examens",
+      "La normalisation des comportements",
+      "La sélection des meilleurs"
+    ],
+    "answerIndex": 0,
+    "explication": "La PI vise avant tout la construction du sujet, capable de désir, de parole, de responsabilité et de vie collective."
+  },
+  {
+    "question": "37 - Pourquoi les rôles et statuts sont-ils importants ?",
+    "options": [
+      "Pour hiérarchiser",
+      "Pour contrôler",
+      "Pour donner une place et une fonction",
+      "Pour sanctionner"
+    ],
+    "answerIndex": 2,
+    "explication": "Les rôles et statuts permettent aux élèves de se sentir utiles et reconnus dans le groupe."
+  },
+  {
+    "question": "38 - Que permet le conseil de classe institutionnel ?",
+    "options": [
+      "La discipline stricte",
+      "La parole, la décision et la régulation",
+      "Le contrôle des résultats",
+      "La suppression des conflits"
+    ],
+    "answerIndex": 1,
+    "explication": "Le conseil est un lieu démocratique où s’expriment les problèmes, se discutent les règles et se prennent des décisions collectives."
+  },
+  {
+    "question": "39 - Pourquoi l’école traditionnelle est-elle dite aliénante selon Oury ?",
+    "options": [
+      "Elle est trop moderne",
+      "Elle favorise l’autonomie",
+      "Elle manque de règles",
+      "Elle produit soumission et inhibition"
+    ],
+    "answerIndex": 3,
+    "explication": "L’école traditionnelle produit une pensée soumise, non critique et aliénée, selon Oury."
+  },
+  {
+    "question": "40 - Quelle école alternative applique aujourd’hui la PI ?",
+    "options": [
+      "Summerhill",
+      "L’école de la Neuville",
+      "L’école Montessori",
+      "L’école des Roches"
+    ],
+    "answerIndex": 1,
+    "explication": "L’école de la Neuville est un exemple contemporain d’établissement utilisant la pédagogie institutionnelle."
+  },
+
+  {
+    "question": "41 - Quelle association poursuit le travail de la PI ?",
+    "options": [
+      "TFPI",
+      "ICEM",
+      "MEN",
+      "UNESCO"
+    ],
+    "answerIndex": 0,
+    "explication": "La TFPI (Techniques Freinet Pédagogie Institutionnelle) est l’une des associations qui poursuivent le travail initié par Oury."
+  },
+  {
+    "question": "42 - Quel est l’apport principal de la psychanalyse à la PI ?",
+    "options": [
+      "Le contrôle du comportement",
+      "La prise en compte de l’inconscient",
+      "La standardisation",
+      "La performance cognitive"
+    ],
+    "answerIndex": 1,
+    "explication": "La psychanalyse permet de penser le désir, la loi et les dynamiques inconscientes à l’œuvre dans le groupe-classe."
+  },
+  {
+    "question": "43 - Pourquoi Oury rejette-t-il la toute-puissance pulsionnelle ?",
+    "options": [
+      "Elle est inefficace",
+      "Elle empêche le désir",
+      "Elle empêche de savoir quoi faire",
+      "Elle favorise l’apprentissage"
+    ],
+    "answerIndex": 2,
+    "explication": "Sans limites, la toute-puissance empêche l’orientation du désir et la construction du sujet."
+  },
+  {
+    "question": "44 - Quel est le danger d’une école sans loi ?",
+    "options": [
+      "L’ennui",
+      "La réussite excessive",
+      "La coopération",
+      "La perte de repères"
+    ],
+    "answerIndex": 3,
+    "explication": "Une école sans loi produit désorientation, angoisse et abandon des élèves."
+  },
+  {
+    "question": "45 - Quelle est la place de l’enseignant en PI ?",
+    "options": [
+      "Chef autoritaire",
+      "Animateur neutre",
+      "Garant des institutions",
+      "Simple observateur"
+    ],
+    "answerIndex": 2,
+    "explication": "L’enseignant est garant du cadre institutionnel, sans être autoritaire ni absent."
+  },
+
+  {
+    "question": "46 - La PI est-elle une pédagogie thérapeutique ?",
+    "options": [
+      "Oui uniquement",
+      "Non",
+      "Elle remplace l’enseignement",
+      "Elle s’en inspire sans s’y réduire"
+    ],
+    "answerIndex": 3,
+    "explication": "La PI s’inspire de la psychothérapie institutionnelle mais reste une pédagogie, non une thérapie."
+  },
+  {
+    "question": "47 - Pourquoi parler d’école « accueillante » chez Oury ?",
+    "options": [
+      "Elle permet l’investissement du désir",
+      "Elle supprime le travail",
+      "Elle refuse les savoirs", 
+      "Elle élimine les règles"
+    ],
+    "answerIndex": 0,
+    "explication": "Une école accueillante permet aux élèves de s’engager réellement, avec leur désir."
+  },
+  {
+    "question": "48 - Quel est le rôle des rites en PI ?",
+    "options": [
+      "Sanctionner",
+      "Structurer et sécuriser",
+      "Classer",
+      "Contrôler"
+    ],
+    "answerIndex": 1,
+    "explication": "Les rites donnent de la stabilité, du sens et sécurisent la vie collective."
+  },
+  {
+    "question": "49 - La PI vise-t-elle la suppression des règles ?",
+    "options": [
+      "Oui",
+      "Seulement en maternelle",
+      "Uniquement au début",
+      "Non"
+    ],
+    "answerIndex": 3,
+    "explication": "La PI vise à instituer des règles partagées, non à les supprimer."
+  },
+  {
+    "question": "50 - Quelle est l’actualité principale de la PI aujourd’hui ?",
+    "options": [
+      "La sélection scolaire",
+      "La gestion des notes",
+      "La question du vivre-ensemble et du sujet",
+      "La performance internationale"
+    ],
+    "answerIndex": 2,
+    "explication": "La pédagogie institutionnelle reste particulièrement pertinente pour penser le vivre-ensemble, la démocratie scolaire et la construction du sujet."
+  }
+]

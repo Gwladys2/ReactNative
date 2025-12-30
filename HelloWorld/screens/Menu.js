@@ -1,6 +1,6 @@
 import React, { useContext, useState } from 'react';
 import { View, Text, Button, StyleSheet, Alert } from 'react-native';
-import Logo from '../screens/Logo'; 
+import Logo from '../screens/Logo';
 
 
 
@@ -31,7 +31,13 @@ export default function MonAccueil({ navigation }) {
                     title="Science de l'Education"
                     onPress={() => navigation.navigate('ScienceEducation')}
                     color="#04152bff"
-                    />       
+                    /> 
+
+                    <Button
+                    title="Medecine chinoise"
+                    onPress={() => navigation.navigate('MenuMedeChin')}
+                    color="#a7bf20ff"
+                    />      
         </View>
     );
 }

@@ -1,0 +1,552 @@
+[
+  {
+    "question": "1 - Selon Piaget, l’intelligence est avant tout :",
+    "options": [
+      "Une capacité innée figée",
+      "Une faculté d’adaptation à l’environnement",
+      "Un ensemble de réflexes conditionnés",
+      "Une aptitude uniquement langagière"
+    ],
+    "answerIndex": 1,
+    "explication": "Pour Piaget, l’intelligence est une forme d’adaptation de l’organisme à son environnement. Elle fonctionne comme l’adaptation biologique : le sujet agit sur le milieu et se transforme pour mieux y répondre. L’intelligence est donc dynamique et évolutive."
+  },
+  {
+    "question": "2 - Piaget est qualifié d’épistémologue génétique car il étudie :",
+    "options": [
+      "Les gènes de l’intelligence",
+      "L’origine biologique du cerveau",
+      "La construction des connaissances",
+      "Les différences individuelles"
+    ],
+    "answerIndex": 2,
+    "explication": "L’épistémologie génétique s’intéresse à la genèse des connaissances. Le terme « génétique » renvoie à l’origine et au développement des structures cognitives, et non à la génétique biologique."
+  },
+  {
+    "question": "3 - Le constructivisme piagétien affirme que les connaissances :",
+    "options": [
+      "Sont innées",
+      "Proviennent uniquement de l’expérience",
+      "Sont transmises passivement",
+      "Se construisent par l’interaction sujet-milieu"
+    ],
+    "answerIndex": 3,
+    "explication": "Piaget rejette à la fois l’innéisme et l’empirisme strict. Les connaissances ne sont ni toutes données à la naissance ni simplement reçues de l’extérieur : elles se construisent par l’action du sujet sur son environnement."
+  },
+  {
+    "question": "4 - Le sujet étudié par Piaget est appelé :",
+    "options": [
+      "Sujet épistémique",
+      "Sujet psychologique",
+      "Sujet social",
+      "Sujet clinique"
+    ],
+    "answerIndex": 0,
+    "explication": "Le sujet épistémique est un modèle théorique qui représente ce que tous les enfants ont en commun dans le développement cognitif, indépendamment des différences individuelles."
+  },
+  {
+    "question": "5 - L’assimilation correspond au fait de :",
+    "options": [
+      "Modifier ses schèmes",
+      "Incorporer une situation à un schème existant",
+      "Créer un nouveau schème",
+      "Supprimer un schème"
+    ],
+    "answerIndex": 1,
+    "explication": "L’assimilation consiste à interpréter une situation nouvelle à partir de schèmes déjà existants. Le sujet intègre le réel à ses structures cognitives sans les transformer."
+  },
+  {
+    "question": "6 - L’accommodation intervient lorsque :",
+    "options": [
+      "Les structures doivent se modifier",
+      "Les schèmes suffisent",
+      "L’objet est ignoré",
+      "Il n’y a pas de déséquilibre"
+    ],
+    "answerIndex": 0,
+    "explication": "L’accommodation apparaît lorsque les schèmes existants ne suffisent plus. Le sujet doit alors modifier ses structures cognitives pour s’adapter à la nouveauté."
+  },
+  {
+    "question": "7 - L’équilibre cognitif résulte de :",
+    "options": [
+      "L’assimilation seule",
+      "L’accommodation seule",
+      "L’apprentissage passif",
+      "L’interaction assimilation-accommodation"
+    ],
+    "answerIndex": 3,
+    "explication": "Le développement cognitif progresse grâce à un équilibre dynamique entre assimilation et accommodation. Cet équilibre permet une adaptation efficace à l’environnement."
+  },
+  {
+    "question": "8 - Les schèmes sont définis comme :",
+    "options": [
+      "Des comportements aléatoires",
+      "Des organisations invariantes de l’action",
+      "Des structures innées",
+      "Des règles conscientes"
+    ],
+    "answerIndex": 1,
+    "explication": "Un schème est une structure d’action généralisable à différentes situations. Il organise l’expérience et permet au sujet d’agir de manière cohérente."
+  },
+  {
+    "question": "9 - Le stade sensori-moteur s’étend de :",
+    "options": [
+      "0 à 1 an",
+      "0 à 2 ans",
+      "2 à 7 ans",
+      "7 à 12 ans"
+    ],
+    "answerIndex": 1,
+    "explication": "Le stade sensori-moteur couvre les deux premières années de la vie. L’intelligence y est essentiellement pratique et fondée sur l’action et la perception."
+  },
+  {
+    "question": "10 - Durant le stade sensori-moteur, l’enfant :",
+    "options": [
+      "Utilise le langage",
+      "Possède des concepts",
+      "Agit sans représentation mentale",
+      "Raisonne de manière abstraite"
+    ],
+    "answerIndex": 2,
+    "explication": "À ce stade, l’enfant ne dispose pas encore de représentations mentales stables. Il comprend le monde en agissant directement sur les objets."
+  },
+  {
+    "question": "11 - La fonction sémiotique permet :",
+    "options": [
+      "La représentation mentale",
+      "La coordination motrice",
+      "Le raisonnement logique",
+      "L’imitation réflexe"
+    ],
+    "answerIndex": 0,
+    "explication": "La fonction sémiotique permet à l’enfant de représenter mentalement des objets, des actions ou des événements absents à l’aide de signes ou de symboles."
+  },
+  {
+    "question": "12 - Les réactions circulaires primaires sont basées sur :",
+    "options": [
+      "Les objets extérieurs",
+      "Les interactions sociales",
+      "Le langage",
+      "Les réflexes du nourrisson"
+    ],
+    "answerIndex": 3,
+    "explication": "Les réactions circulaires primaires apparaissent lorsque le nourrisson répète une action issue de ses réflexes parce qu’elle produit un effet agréable sur son propre corps."
+  },
+  {
+    "question": "13 - Les réactions circulaires secondaires impliquent :",
+    "options": [
+      "Une action sur l’environnement",
+      "Une absence d’intention",
+      "Une action sur le corps propre",
+      "Une pensée abstraite"
+    ],
+    "answerIndex": 0,
+    "explication": "Les réactions circulaires secondaires marquent l’orientation de l’action vers l’environnement. L’enfant agit intentionnellement sur les objets pour reproduire un effet."
+  },
+  {
+    "question": "14 - Les réactions circulaires tertiaires se caractérisent par :",
+    "options": [
+      "La répétition identique",
+      "L’expérimentation active",
+      "Le langage symbolique",
+      "La pensée logique"
+    ],
+    "answerIndex": 1,
+    "explication": "Les réactions circulaires tertiaires correspondent à une véritable expérimentation : l’enfant varie volontairement ses actions pour découvrir de nouveaux résultats."
+  },
+  {
+    "question": "15 - La permanence de l’objet correspond à :",
+    "options": [
+      "La reconnaissance visuelle",
+      "La mémoire immédiate",
+      "La compréhension de l’existence continue des objets",
+      "La capacité à nommer les objets"
+    ],
+    "answerIndex": 2,
+    "explication": "La permanence de l’objet est la compréhension que les objets continuent d’exister même lorsqu’ils ne sont plus perçus sensoriellement."
+  },
+  {
+    "question": "16 - La permanence de l’objet est complètement acquise vers :",
+    "options": [
+      "6 mois",
+      "12 mois",
+      "3 ans",
+      "18-24 mois"
+    ],
+    "answerIndex": 3,
+    "explication": "La permanence de l’objet est pleinement acquise à la fin du stade sensori-moteur, lorsque l’enfant peut se représenter mentalement l’objet absent."
+  },
+  {
+    "question": "17 - La réversibilité est la capacité à :",
+    "options": [
+      "Effectuer mentalement une action inverse",
+      "Imiter un adulte",
+      "Anticiper une action",
+      "Classer des objets"
+    ],
+    "answerIndex": 0,
+    "explication": "La réversibilité permet de concevoir mentalement qu’une action peut être annulée ou inversée, ce qui est fondamental pour la pensée logique."
+  },
+  {
+    "question": "18 - L’accès à la réversibilité marque :",
+    "options": [
+      "La pensée magique",
+      "La pensée opératoire",
+      "Le stade sensori-moteur",
+      "L’égocentrisme"
+    ],
+    "answerIndex": 1,
+    "explication": "L’apparition de la réversibilité marque l’entrée dans la pensée opératoire, caractéristique du stade des opérations concrètes."
+  },
+  {
+    "question": "19 - L’égocentrisme cognitif correspond à :",
+    "options": [
+      "Un égoïsme affectif",
+      "Une incapacité à changer de point de vue",
+      "Un manque d’intelligence",
+      "Un refus des règles"
+    ],
+    "answerIndex": 1,
+    "explication": "L’égocentrisme cognitif désigne la difficulté de l’enfant à se décentrer de son propre point de vue pour coordonner celui d’autrui."
+  },
+  {
+    "question": "20 - L’égocentrisme est surtout lié à :",
+    "options": [
+      "Un trouble psychologique",
+      "Une immaturité affective",
+      "Une organisation cognitive incomplète",
+      "Une absence de socialisation"
+    ],
+    "answerIndex": 2,
+    "explication": "L’égocentrisme est lié à une structuration cognitive incomplète : les opérations ne sont pas encore suffisamment coordonnées."
+  },
+  {
+    "question": "21 - Le stade de l’intelligence symbolique s’étend de :",
+    "options": [
+      "0 à 2 ans",
+      "7 à 12 ans",
+      "12 à 16 ans",
+      "2 à 7 ans"
+    ],
+    "answerIndex": 3,
+    "explication": "Le stade de l’intelligence symbolique s’étend de 2 à 7 ans. Il correspond à l’apparition de la fonction sémiotique, du langage, de l’imitation différée et du jeu symbolique."
+  },
+  {
+    "question": "22 - Le stade des opérations concrètes concerne principalement :",
+    "options": [
+      "La pensée abstraite",
+      "Les actions mentales réversibles sur des objets concrets",
+      "Le raisonnement hypothético-déductif",
+      "La manipulation sensorielle"
+    ],
+    "answerIndex": 1,
+    "explication": "À ce stade, l’enfant est capable de réaliser des opérations mentales logiques, mais uniquement à partir de situations concrètes qu’il peut manipuler ou observer."
+  },
+  {
+    "question": "23 - Le stade des opérations formelles permet :",
+    "options": [
+      "Le raisonnement abstrait et hypothétique",
+      "Le raisonnement sur le réel uniquement",
+      "La pensée magique",
+      "La répétition d’actions"
+    ],
+    "answerIndex": 0,
+    "explication": "Le stade des opérations formelles permet de raisonner sur des hypothèses, des possibilités et des situations abstraites, indépendamment de l’expérience concrète."
+  },
+  {
+    "question": "24 - Les stades piagétiens sont dits intégratifs car :",
+    "options": [
+      "Ils disparaissent avec l’âge",
+      "Chaque stade remplace le précédent",
+      "Chaque stade intègre le précédent",
+      "Ils sont indépendants"
+    ],
+    "answerIndex": 2,
+    "explication": "Chaque nouveau stade conserve et intègre les structures construites au stade précédent, tout en les réorganisant à un niveau plus complexe."
+  },
+  {
+    "question": "25 - L’ordre des stades est :",
+    "options": [
+      "Variable selon l’enfant",
+      "Socialement déterminé",
+      "Culturel",
+      "Invariant"
+    ],
+    "answerIndex": 3,
+    "explication": "Selon Piaget, tous les enfants passent par les mêmes stades dans le même ordre, même si la vitesse de progression peut varier."
+  },
+  {
+    "question": "26 - Le groupe de déplacement apparaît surtout dans :",
+    "options": [
+      "Les opérations formelles",
+      "Le stade sensori-moteur",
+      "Les opérations concrètes",
+      "La pensée symbolique"
+    ],
+    "answerIndex": 1,
+    "explication": "Le groupe de déplacement se construit durant le stade sensori-moteur et permet de coordonner mentalement les déplacements et les actions."
+  },
+  {
+    "question": "27 - Le groupe INRC est lié :",
+    "options": [
+      "Aux opérations formelles",
+      "Aux réflexes",
+      "À la pensée symbolique",
+      "À l’imitation"
+    ],
+    "answerIndex": 0,
+    "explication": "Le groupe INRC (Identité, Négation, Réciprocité, Corrélativité) modélise les opérations logiques complexes propres à la pensée formelle."
+  },
+  {
+    "question": "28 - L’abstraction empirique provient :",
+    "options": [
+      "De l’action du sujet",
+      "Des propriétés de l’objet",
+      "Du langage",
+      "De la socialisation"
+    ],
+    "answerIndex": 1,
+    "explication": "L’abstraction empirique consiste à extraire des propriétés directement observables des objets, comme la couleur, la forme ou la taille."
+  },
+  {
+    "question": "29 - L’abstraction réfléchissante porte sur :",
+    "options": [
+      "Les objets",
+      "Les émotions",
+      "Les actions du sujet",
+      "Les mots"
+    ],
+    "answerIndex": 2,
+    "explication": "L’abstraction réfléchissante porte sur les coordinations des actions du sujet. Elle permet de construire des opérations logiques à partir de l’activité."
+  },
+  {
+    "question": "30 - Pour Piaget, l’apprentissage est avant tout :",
+    "options": [
+      "Passif",
+      "Imitatif",
+      "Conditionné",
+      "Actif"
+    ],
+    "answerIndex": 3,
+    "explication": "L’apprentissage est actif : l’enfant construit ses connaissances en agissant sur le monde et en transformant ses structures cognitives."
+  },
+  {
+    "question": "31 - La logique des propositions concerne :",
+    "options": [
+      "Les actions motrices",
+      "Les images mentales",
+      "Les relations entre propositions",
+      "Les émotions"
+    ],
+    "answerIndex": 2,
+    "explication": "La logique des propositions permet de raisonner sur des énoncés abstraits et leurs relations logiques, indépendamment des objets concrets."
+  },
+  {
+    "question": "32 - La conservation apparaît au stade :",
+    "options": [
+      "Des opérations concrètes",
+      "Sensori-moteur",
+      "Symbolique",
+      "Formel"
+    ],
+    "answerIndex": 0,
+    "explication": "La conservation apparaît lorsque l’enfant accède à la réversibilité et comprend que certaines propriétés restent invariantes malgré les transformations."
+  },
+  {
+    "question": "33 - L’échec aux tâches de conservation est dû à :",
+    "options": [
+      "Un manque de mémoire",
+      "Un déficit intellectuel",
+      "Une centration perceptive",
+      "Une absence de langage"
+    ],
+    "answerIndex": 2,
+    "explication": "L’enfant se centre sur un seul aspect perceptif de la situation, par exemple la hauteur, sans coordonner les autres dimensions."
+  },
+  {
+    "question": "34 - La centration correspond à :",
+    "options": [
+      "La coordination de points de vue",
+      "La focalisation sur un seul aspect",
+      "L’imitation",
+      "La décentration"
+    ],
+    "answerIndex": 1,
+    "explication": "La centration empêche la prise en compte simultanée de plusieurs dimensions d’une situation, ce qui limite le raisonnement logique."
+  },
+  {
+    "question": "35 - La décentration apparaît lorsque :",
+    "options": [
+      "L’enfant est égocentré",
+      "Les schèmes sont isolés",
+      "Les opérations sont coordonnées",
+      "Le langage disparaît"
+    ],
+    "answerIndex": 2,
+    "explication": "La décentration devient possible lorsque les opérations sont coordonnées, permettant de considérer plusieurs points de vue ou dimensions."
+  },
+  {
+    "question": "36 - L’égocentrisme diminue avec :",
+    "options": [
+      "L’âge biologique seul",
+      "La maturation affective",
+      "La punition",
+      "La structuration cognitive"
+    ],
+    "answerIndex": 3,
+    "explication": "La diminution de l’égocentrisme est liée au développement des structures cognitives et à la coordination des opérations mentales."
+  },
+  {
+    "question": "37 - Piaget s’oppose à l’empirisme car il :",
+    "options": [
+      "Nie l’expérience",
+      "Refuse l’apprentissage",
+      "Rejette la passivité du sujet",
+      "Nie l’environnement"
+    ],
+    "answerIndex": 2,
+    "explication": "Piaget critique l’empirisme car il considère que le sujet n’est pas passif : il construit activement ses connaissances."
+  },
+  {
+    "question": "38 - Piaget s’oppose à l’innéisme car il :",
+    "options": [
+      "Refuse toute structure",
+      "Nie les réflexes",
+      "Refuse des structures cognitives toutes faites",
+      "Nie la biologie"
+    ],
+    "answerIndex": 2,
+    "explication": "Les structures cognitives ne sont pas données dès la naissance : elles se construisent progressivement par l’action et l’expérience."
+  },
+  {
+    "question": "39 - L’ontogenèse cognitive désigne :",
+    "options": [
+      "L’évolution de l’espèce",
+      "Le développement individuel des connaissances",
+      "La transmission sociale",
+      "L’hérédité"
+    ],
+    "answerIndex": 1,
+    "explication": "L’ontogenèse cognitive correspond au développement des connaissances et des structures cognitives chez un individu."
+  },
+  {
+    "question": "40 - Pour Piaget, la pensée logique est :",
+    "options": [
+      "Présente dès la naissance",
+      "Indépendante de l’action",
+      "Issue de l’action intériorisée",
+      "Uniquement verbale"
+    ],
+    "answerIndex": 2,
+    "explication": "La pensée logique se construit à partir des actions de l’enfant, qui sont progressivement intériorisées sous forme d’opérations mentales."
+  },
+  {
+    "question": "41 - Le raisonnement hypothético-déductif apparaît :",
+    "options": [
+      "Chez l’adolescent",
+      "Chez le nourrisson",
+      "Chez le jeune enfant",
+      "Chez l’adulte uniquement"
+    ],
+    "answerIndex": 0,
+    "explication": "Ce type de raisonnement est caractéristique du stade des opérations formelles, généralement atteint à l’adolescence."
+  },
+  {
+    "question": "42 - La pensée formelle permet de :",
+    "options": [
+      "Manipuler uniquement le réel",
+      "Raisonner sur des possibles",
+      "Agir sans logique",
+      "Répéter des actions"
+    ],
+    "answerIndex": 1,
+    "explication": "La pensée formelle permet de raisonner sur des hypothèses et des situations possibles, indépendamment du réel immédiat."
+  },
+  {
+    "question": "43 - Les structures cognitives selon Piaget sont :",
+    "options": [
+      "Figées",
+      "Aléatoires",
+      "Évolutives",
+      "Purement biologiques"
+    ],
+    "answerIndex": 2,
+    "explication": "Les structures cognitives évoluent au cours du développement grâce aux mécanismes d’assimilation et d’accommodation."
+  },
+  {
+    "question": "44 - Le langage chez Piaget est :",
+    "options": [
+      "La cause du développement",
+      "Indépendant de la pensée",
+      "Purement social",
+      "Lié au développement cognitif"
+    ],
+    "answerIndex": 3,
+    "explication": "Le langage reflète et accompagne le développement cognitif, mais il n’en est pas la cause première."
+  },
+  {
+    "question": "45 - La réussite prime sur la vérité chez le jeune enfant car :",
+    "options": [
+      "Il ment",
+      "Il raisonne formellement",
+      "Il agit avant de conceptualiser",
+      "Il ignore les règles"
+    ],
+    "answerIndex": 2,
+    "explication": "Le jeune enfant privilégie l’efficacité de l’action plutôt que la cohérence logique, car ses opérations ne sont pas encore stabilisées."
+  },
+  {
+    "question": "46 - Les schèmes sont comparables aux concepts car :",
+    "options": [
+      "Ils sont verbalisés",
+      "Ils organisent l’expérience",
+      "Ils sont innés",
+      "Ils sont conscients"
+    ],
+    "answerIndex": 1,
+    "explication": "Les schèmes, comme les concepts, permettent d’organiser, structurer et généraliser l’expérience."
+  },
+  {
+    "question": "47 - Le développement cognitif est discontinu car :",
+    "options": [
+      "Il progresse par stades",
+      "Il dépend de la culture",
+      "Il est aléatoire",
+      "Il dépend du langage"
+    ],
+    "answerIndex": 0,
+    "explication": "Le développement cognitif est marqué par des changements qualitatifs entre les stades, et non par une simple accumulation continue."
+  },
+  {
+    "question": "48 - Le développement cognitif est universel car :",
+    "options": [
+      "Il dépend de l’école",
+      "Il est identique pour tous",
+      "Il suit les mêmes étapes chez tous",
+      "Il dépend de la société"
+    ],
+    "answerIndex": 2,
+    "explication": "Selon Piaget, tous les enfants passent par les mêmes stades de développement cognitif, quels que soient leur culture ou leur contexte."
+  },
+  {
+    "question": "49 - Pour Piaget, connaître un objet c’est :",
+    "options": [
+      "Le percevoir",
+      "Agir sur lui",
+      "Le mémoriser",
+      "Le nommer"
+    ],
+    "answerIndex": 1,
+    "explication": "La connaissance résulte de l’action du sujet sur l’objet et de la transformation de cette action en opération mentale."
+  },
+  {
+    "question": "50 - La psychologie piagétienne est avant tout :",
+    "options": [
+      "Affective",
+      "Sociale",
+      "Cognitive",
+      "Clinique"
+    ],
+    "answerIndex": 2,
+    "explication": "La psychologie piagétienne est centrée sur l’étude du développement de l’intelligence et des structures cognitives."
+  }
+]

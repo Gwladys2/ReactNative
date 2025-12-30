@@ -8,7 +8,7 @@
       "Un jeu de mots basé sur des sons similaires"
     ],
     "answerIndex": 1,
-    "explication": "L'allégorie consiste à représenter une idée abstraite (comme la liberté, la mort, la justice) sous une forme concrète, souvent humaine. Exemple : Marianne représente la République."
+    "explication": "L'allégorie représente une idée abstraite sous une forme concrète. Exemple littéraire : Marianne représente la République. Exemple du quotidien : La Mort représentée sous forme de squelette avec une faux."
   },
   {
     "question": "2 - Qu'est-ce qu'une allitération ?",
@@ -19,7 +19,7 @@
       "Une expression adoucie"
     ],
     "answerIndex": 0,
-    "explication": "L'allitération répète un son consonantique (comme les 's' dans 'le serpent silencieux siffle'), créant un effet sonore et souvent imitatif."
+    "explication": "L'allitération répète un son consonantique. Exemple littéraire : 'Pour qui sont ces serpents qui sifflent sur vos têtes ?'. Exemple du quotidien : 'Le serpent silencieux siffle sans s’arrêter.'"
   },
   {
     "question": "3 - L'anacoluthe désigne :",
@@ -29,8 +29,8 @@
       "Une suite d’idées logiques et ordonnées",
       "Une exagération volontaire"
     ],
-    "answerIndex": 2,
-    "explication": "L'anacoluthe est une rupture dans la syntaxe d'une phrase. Elle surprend le lecteur et marque souvent une émotion ou une maladresse volontaire."
+    "answerIndex": 0,
+    "explication": "L'anacoluthe est une rupture de construction grammaticale. Exemple littéraire : 'Le nez de Cléopâtre, s’il eût été plus court, toute la face du monde en eût été changée.' Exemple du quotidien : 'Moi, mon frère, il a réussi son examen.'"
   },
   {
     "question": "4 - Quelle figure reprend le dernier mot d’une phrase au début de la suivante ?",
@@ -41,7 +41,7 @@
       "Antithèse"
     ],
     "answerIndex": 1,
-    "explication": "L'anadiplose enchaîne deux phrases en reprenant le dernier mot de la première au début de la seconde. Elle crée un effet de continuité."
+    "explication": "L'anadiplose reprend le dernier mot d’une phrase au début de la suivante. Exemple littéraire : 'L’homme est un loup pour l’homme. L’homme…'. Exemple du quotidien : 'Il a perdu sa chance. Chance qu’il n’aura plus.'"
   },
   {
     "question": "5 - L’anaphore consiste à :",
@@ -52,7 +52,7 @@
       "Répéter un mot en début de phrase ou de vers"
     ],
     "answerIndex": 3,
-    "explication": "L’anaphore répète un mot ou groupe de mots en tête de phrase ou de vers pour insister sur une idée. Exemple : 'Moi président...' (François Hollande)."
+    "explication": "L’anaphore répète un mot en début de phrase ou de vers. Exemple littéraire : 'Ô rage ! Ô désespoir ! Ô vieillesse ennemie !'. Exemple du quotidien : 'Moi, je veux réussir. Moi, je ferai tout pour y arriver.'"
   },
   {
     "question": "6 - Quelle est la figure inverse de l’anaphore ?",
@@ -63,7 +63,7 @@
       "Oxymore"
     ],
     "answerIndex": 1,
-    "explication": "L'épiphore répète un mot ou groupe de mots en fin de phrase, alors que l’anaphore le répète au début."
+    "explication": "L'épiphore répète un mot en fin de phrase, inverse de l’anaphore. Exemple littéraire : 'Je l’ai vu pleurer, sans comprendre pourquoi, sans comprendre.' Exemple du quotidien : 'Je veux gagner, vraiment gagner.'"
   },
   {
     "question": "7 - L’antiphrase consiste à :",
@@ -74,7 +74,7 @@
       "Simplifier une expression complexe"
     ],
     "answerIndex": 0,
-    "explication": "L'antiphrase consiste à dire le contraire de ce que l'on pense, souvent pour exprimer de l'ironie. Exemple : 'Quel génie !' pour dire 'Quel idiot !'."
+    "explication": "L'antiphrase dit le contraire pour faire comprendre l'inverse (souvent ironique). Exemple littéraire : 'C’est du propre !' pour dire l’inverse. Exemple du quotidien : 'Bravo, t’as encore oublié tes clés !'"
   },
   {
     "question": "8 - Qu'est-ce qu'une antithèse ?",
@@ -85,7 +85,7 @@
       "Une opposition de deux idées dans une même phrase"
     ],
     "answerIndex": 3,
-    "explication": "L’antithèse met en valeur un contraste fort entre deux idées. Exemple : 'Il est riche en pauvreté, pauvre en richesse.'"
+    "explication": "L’antithèse oppose deux idées. Exemple littéraire : 'Je vis, je meurs ; je me brûle et me noie.' Exemple du quotidien : 'Il est riche en idées mais pauvre en motivation.'"
   },
   {
     "question": "9 - L’antonomase, c’est :",
@@ -96,7 +96,7 @@
       "Une rime interne"
     ],
     "answerIndex": 1,
-    "explication": "L’antonomase remplace un nom propre par un nom commun ou inversement. Exemple : 'C’est un Don Juan' pour dire 'un séducteur'."
+    "explication": "L’antonomase remplace un nom propre par un nom commun ou inversement. Exemple littéraire : 'Un Harpagon' pour un avare. Exemple du quotidien : 'C’est un Einstein' pour dire 'Il est très intelligent'."
   },
   {
     "question": "10 - Que désigne une aposiopèse ?",
@@ -107,7 +107,7 @@
       "Une figure d’amplification"
     ],
     "answerIndex": 2,
-    "explication": "L’aposiopèse interrompt brusquement une phrase, suggérant l’émotion ou la réticence. Exemple : 'Si tu continues, je...' "
+    "explication": "L’aposiopèse interrompt une phrase brusquement. Exemple littéraire : 'Je vais te…'. Exemple du quotidien : 'Si tu continues, je…'"
   },
   {
     "question": "11 - Quelle différence entre allitération et assonance ?",
@@ -118,7 +118,7 @@
       "L’assonance est toujours à la fin du vers"
     ],
     "answerIndex": 0,
-    "explication": "L’allitération répète des consonnes ('s' sifflant), tandis que l’assonance répète des voyelles ('a', 'o'). Les deux créent une harmonie sonore."
+    "explication": "L’allitération répète des consonnes, l’assonance des voyelles. Exemple littéraire : allitération en s : 'Ses serpentins s’étirent.' Exemple du quotidien : assonance en a : 'La maman a mal là.'"
   },
   {
     "question": "12 - L’asyndète consiste à :",
@@ -129,7 +129,7 @@
       "Faire rimer deux mots opposés"
     ],
     "answerIndex": 1,
-    "explication": "L’asyndète supprime les liens logiques ('et', 'ou'), créant un effet de rapidité. Exemple : 'Je suis venu, j’ai vu, j’ai vaincu.'"
+    "explication": "L’asyndète supprime les liens logiques. Exemple littéraire : 'Je suis venu, j’ai vu, j’ai vaincu.' Exemple du quotidien : 'Il court, tombe, se relève.'"
   },
   {
     "question": "13 - La brachylogie désigne :",
@@ -140,10 +140,10 @@
       "Une suppression de mots inutiles"
     ],
     "answerIndex": 0,
-    "explication": "La brachylogie condense l’expression au maximum, donnant un effet de densité. Exemple : 'Veni, vidi, vici.'"
+    "explication": "La brachylogie condense l’expression au maximum. Exemple littéraire : 'Veni, vidi, vici.' Exemple du quotidien : 'Pas le temps.'"
   },
   {
-    "question": "14 - Quelle figure de style compare deux réalités sans outil de comparaison ?",
+    "question": "14 - Quelle figure compare deux réalités sans outil de comparaison ?",
     "options": [
       "Comparaison",
       "Métaphore",
@@ -151,7 +151,7 @@
       "Synecdoque"
     ],
     "answerIndex": 1,
-    "explication": "La métaphore établit une relation d’analogie sans outil comparant ('comme', 'tel'). Exemple : 'Cet homme est un lion.'"
+    "explication": "La métaphore compare sans outil comparant. Exemple littéraire : 'Cet homme est un lion.' Exemple du quotidien : 'Cette élève, c’est un rayon de soleil.'"
   },
   {
     "question": "15 - La métonymie consiste à :",
@@ -162,7 +162,7 @@
       "Remplacer un mot par un autre selon un rapport logique (contenu/contenant, cause/effet...)"
     ],
     "answerIndex": 3,
-    "explication": "La métonymie repose sur un rapport logique ou concret : 'Boire un verre' pour 'boire le contenu du verre'."
+    "explication": "La métonymie remplace un mot par un autre lié. Exemple littéraire : 'Boire un verre' (pour le contenu). Exemple du quotidien : 'Lire Balzac' (pour lire un livre de Balzac)."
   },
   {
     "question": "16 - La synecdoque est :",
@@ -173,7 +173,7 @@
       "Une répétition sonore"
     ],
     "answerIndex": 0,
-    "explication": "La synecdoque remplace un mot par un autre lié par inclusion : 'Le fer' pour 'l’épée'."
+    "explication": "La synecdoque remplace un mot par un autre basé sur l’inclusion. Exemple littéraire : 'Les voiles' pour désigner les bateaux. Exemple du quotidien : 'J’ai mis un jean' pour dire 'un pantalon en jean'."
   },
   {
     "question": "17 - L’hyperbole sert à :",
@@ -184,7 +184,7 @@
       "Créer une contradiction"
     ],
     "answerIndex": 2,
-    "explication": "L’hyperbole amplifie volontairement : 'Je meurs de faim !' = 'J’ai très faim.'"
+    "explication": "L’hyperbole exagère volontairement. Exemple littéraire : 'Je meurs de soif.' Exemple du quotidien : 'J’ai mille choses à faire.'"
   },
   {
     "question": "18 - Quelle figure atténue une idée brutale ?",
@@ -195,7 +195,7 @@
       "Litote"
     ],
     "answerIndex": 0,
-    "explication": "L’euphémisme adoucit une idée choquante : 'Il nous a quittés' pour 'Il est mort'."
+    "explication": "L’euphémisme adoucit une idée choquante. Exemple littéraire : 'Il nous a quittés' pour 'Il est mort'. Exemple du quotidien : 'Il est parti pour toujours' pour 'Il est décédé'."
   },
   {
     "question": "19 - La litote consiste à :",
@@ -206,7 +206,7 @@
       "Supprimer les liens logiques"
     ],
     "answerIndex": 2,
-    "explication": "La litote sous-entend davantage que ce qu’elle dit : 'Ce n’est pas mauvais' = 'C’est bon'."
+    "explication": "La litote sous-entend davantage que ce qu’elle dit. Exemple littéraire : 'Va, je ne te hais point.' Exemple du quotidien : 'Ce n’est pas mal' pour dire 'C’est très bien'."
   },
   {
     "question": "20 - L’oxymore associe :",
@@ -217,7 +217,7 @@
       "Une idée et son contraire dans deux phrases séparées"
     ],
     "answerIndex": 0,
-    "explication": "L’oxymore associe deux contraires : 'le soleil noir de la mélancolie' (Nerval)."
+    "explication": "L’oxymore associe deux mots contraires. Exemple littéraire : 'Le soleil noir de la mélancolie'. Exemple du quotidien : 'Silence assourdissant'."
   },
   {
     "question": "21 - Qu’est-ce qu’un chiasme ?",
@@ -228,7 +228,7 @@
       "Une succession de synonymes"
     ],
     "answerIndex": 2,
-    "explication": "Le chiasme inverse la structure pour créer un effet de symétrie : 'Il faut manger pour vivre et non vivre pour manger.'"
+    "explication": "Le chiasme croise la structure AB/BA. Exemple littéraire : 'Il faut manger pour vivre et non vivre pour manger.' Exemple du quotidien : 'Tu parles à la vie et la vie te parle.'"
   },
   {
     "question": "22 - Quelle est la différence entre comparaison et métaphore ?",
@@ -239,7 +239,7 @@
       "La métaphore n’a pas de sens figuré"
     ],
     "answerIndex": 1,
-    "explication": "La comparaison utilise un outil comparant ('comme', 'tel'), alors que la métaphore fait le rapprochement directement."
+    "explication": "La comparaison utilise un outil comparant, la métaphore non. Exemple littéraire : Comparaison : 'Il est courageux comme un lion'. Métaphore : 'Il est un lion.' Exemple du quotidien : 'Ma chambre est comme un chantier' vs 'Ma chambre est un chantier.'"
   },
   {
     "question": "23 - La dérivation consiste à :",
@@ -250,7 +250,7 @@
       "Créer une rime interne"
     ],
     "answerIndex": 0,
-    "explication": "La dérivation utilise plusieurs mots issus du même radical pour créer un champ lexical : 'parler', 'parole', 'parleur'."
+    "explication": "La dérivation utilise plusieurs mots issus du même radical. Exemple littéraire : 'parler, parole, parleur'. Exemple du quotidien : 'Courir, courant, course'."
   },
   {
     "question": "24 - Qu’est-ce qu’une ellipse ?",
@@ -261,19 +261,18 @@
       "Une comparaison entre deux idées"
     ],
     "answerIndex": 1,
-    "explication": "L’ellipse omet volontairement un ou plusieurs mots sous-entendus : 'Pierre mange plus que Paul [ne mange]'."
+    "explication": "L’ellipse omet volontairement un mot. Exemple littéraire : 'Pierre mange plus que Paul [ne mange].' Exemple du quotidien : 'Elle arrive avant lui [n’arrive].'"
   },
   {
     "question": "25 - Une hyperbate se reconnaît quand :",
     "options": [
-      
       "Un mot est répété plusieurs fois",
       "On met un mot au début au lieu de la fin",
       "Il y a rime interne",
       "Un mot attendu est rejeté en fin de phrase"
     ],
     "answerIndex": 3,
-    "explication": "L’hyperbate rejette un mot en fin de phrase pour le mettre en valeur. Exemple : 'Le roman est toujours un imaginaire, et au même degré.'"
+    "explication": "L’hyperbate rejette un mot en fin de phrase pour le mettre en valeur. Exemple littéraire : 'Le roman est toujours un imaginaire, et au même degré.' Exemple du quotidien : 'Il a trouvé la solution, la meilleure possible.'"
   },
   {
     "question": "26 - Quelle est la fonction principale d’une hypotypose ?",
@@ -284,7 +283,7 @@
       "Simplifier une phrase"
     ],
     "answerIndex": 0,
-    "explication": "L’hypotypose peint une scène de manière si vivante qu’on la voit presque. C’est une description très visuelle et animée."
+    "explication": "L’hypotypose décrit une scène de manière vivante. Exemple littéraire : 'Le navire s’enfonce dans la tempête'. Exemple du quotidien : 'La pièce était remplie de lumière, les rideaux bougeaient au vent.'"
   },
   {
     "question": "27 - Quelle figure prête des sentiments humains à des objets ?",
@@ -295,7 +294,7 @@
       "Synecdoque"
     ],
     "answerIndex": 1,
-    "explication": "La personnification attribue des comportements humains à des objets ou idées abstraites. Exemple : 'Le vent hurle dans la nuit.'"
+    "explication": "La personnification attribue des traits humains à des objets. Exemple littéraire : 'Le vent hurle dans la nuit.' Exemple du quotidien : 'La porte gémit en s’ouvrant.'"
   },
   {
     "question": "28 - La prosopopée est proche de la personnification car :",
@@ -306,7 +305,7 @@
       "Elle décrit un objet sans le nommer"
     ],
     "answerIndex": 2,
-    "explication": "La prosopopée met en scène une voix absente ou morte. Exemple : 'Ô lac ! l'année à peine a fini sa carrière...' (Lamartine)."
+    "explication": "La prosopopée fait parler un être absent ou inanimé. Exemple littéraire : 'Ô lac ! l'année à peine a fini sa carrière...' Exemple du quotidien : 'La lampe dit : « Allume-moi ! »'"
   },
   {
     "question": "29 - L’hypallage consiste à :",
@@ -317,7 +316,7 @@
       "Exagérer un sentiment"
     ],
     "answerIndex": 1,
-    "explication": "L’hypallage déplace un adjectif d’un mot à un autre : 'Je suis d’un pas rêveur le sentier solitaire.' (Lamartine)."
+    "explication": "L’hypallage attribue un adjectif à un mot auquel il ne se rapporte pas directement. Exemple littéraire : 'Je suis d’un pas rêveur le sentier solitaire.' Exemple du quotidien : 'Un sommeil agité' (alors que c’est la personne qui est agitée)."
   },
   {
     "question": "30 - Quelle figure met des éléments en commun dans une phrase pour alléger la syntaxe ?",
@@ -328,7 +327,7 @@
       "Asyndète"
     ],
     "answerIndex": 0,
-    "explication": "Le zeugme relie deux éléments avec un seul mot commun : 'Il prit du pain et son courage.'"
+    "explication": "Le zeugme relie deux éléments avec un seul mot commun. Exemple littéraire : 'Il prit du pain et son courage.' Exemple du quotidien : 'Elle a perdu son sac et ses clés.'"
   },
   {
     "question": "31 - Qu’est-ce qu’une anaphore sert à faire dans un texte lyrique ?",
@@ -339,7 +338,7 @@
       "Introduire une émotion par la répétition rythmée"
     ],
     "answerIndex": 3,
-    "explication": "Dans le registre lyrique, l’anaphore renforce l’émotion par le rythme et la répétition insistante d’un mot ou d’une idée."
+    "explication": "L’anaphore renforce l’émotion par répétition rythmée. Exemple littéraire : 'Ô nuit, ô calme, ô douce nuit.' Exemple du quotidien : 'Je veux, je veux, je veux réussir.'"
   },
   {
     "question": "32 - Quelle figure exprime une gradation ?",
@@ -350,7 +349,7 @@
       "Une répétition sonore"
     ],
     "answerIndex": 1,
-    "explication": "La gradation organise une montée en intensité : 'Va, cours, vole et nous venge !' (Corneille)."
+    "explication": "La gradation organise une montée en intensité. Exemple littéraire : 'Va, cours, vole et nous venge !'. Exemple du quotidien : 'Je l’aime un peu, beaucoup, passionnément.'"
   },
   {
     "question": "33 - La paronomase rapproche :",
@@ -361,19 +360,18 @@
       "Deux synonymes"
     ],
     "answerIndex": 0,
-    "explication": "La paronomase joue sur la ressemblance phonétique : 'Qui vole un œuf vole un bœuf.'"
+    "explication": "La paronomase joue sur la ressemblance phonétique. Exemple littéraire : 'Qui vole un œuf vole un bœuf.' Exemple du quotidien : 'Je suis fier de ce fer.'"
   },
   {
     "question": "34 - Quelle figure remplace un mot par une expression plus longue ?",
     "options": [
-      
       "Litote",
       "Métonymie",
       "Antiphrase",
       "Périphrase"
     ],
     "answerIndex": 3,
-    "explication": "La périphrase utilise plusieurs mots à la place d’un seul : 'L’astre du jour' pour 'le soleil'."
+    "explication": "La périphrase remplace un mot par une expression plus longue. Exemple littéraire : 'L’astre du jour' pour 'le soleil'. Exemple du quotidien : 'La ville lumière' pour 'Paris'."
   },
   {
     "question": "35 - Quelle figure exagère l’émotion pour susciter la compassion ?",
@@ -384,7 +382,7 @@
       "L’antithèse"
     ],
     "answerIndex": 2,
-    "explication": "Le registre pathétique cherche à émouvoir le lecteur par la mise en scène de la souffrance et de la douleur."
+    "explication": "Le registre pathétique exagère l’émotion pour émouvoir. Exemple littéraire : 'Ô malheureux ! Je suis perdu !'. Exemple du quotidien : 'J’ai tellement mal, c’est insupportable !'"
   },
   {
     "question": "36 - Quelle figure crée un effet de croisement syntaxique (ABBA) ?",
@@ -395,19 +393,18 @@
       "Ellipse"
     ],
     "answerIndex": 1,
-    "explication": "Le chiasme inverse l’ordre des éléments : 'Il faut manger pour vivre et non vivre pour manger.'"
+    "explication": "Le chiasme inverse l’ordre des éléments : ABBA. Exemple littéraire : 'Il faut manger pour vivre et non vivre pour manger.' Exemple du quotidien : 'Il travaille pour vivre et non vit pour travailler.'"
   },
   {
     "question": "37 - Quelle figure consiste à anticiper un événement futur dans le récit ?",
     "options": [
-      
       "Ellipse",
       "Flashback",
       "Prolepse",
       "Euphémisme"
     ],
     "answerIndex": 2,
-    "explication": "La prolepse annonce à l’avance un événement à venir. Elle crée une tension narrative ou dramatique."
+    "explication": "La prolepse annonce un événement à venir. Exemple littéraire : 'Il mourra dans le prochain chapitre.' Exemple du quotidien : 'Prépare-toi, tu vas adorer la surprise demain.'"
   },
   {
     "question": "38 - La prétérition consiste à :",
@@ -418,7 +415,7 @@
       "Faire une interruption brutale"
     ],
     "answerIndex": 0,
-    "explication": "La prétérition souligne ironiquement un point tout en feignant de le taire : 'Je ne mentionnerai pas ses défauts…'"
+    "explication": "La prétérition fait semblant de ne pas parler d’un point tout en le disant. Exemple littéraire : 'Je ne mentionnerai pas ses défauts…' Exemple du quotidien : 'Je ne te dirai pas que tu es en retard, mais…'"
   },
   {
     "question": "39 - Quelle figure exprime une inversion de deux termes ?",
@@ -429,7 +426,7 @@
       "Antanaclase"
     ],
     "answerIndex": 2,
-    "explication": "L’hypallage déplace un adjectif d’un mot à un autre, créant un effet poétique : 'Un pas rêveur sur un sentier solitaire.'"
+    "explication": "L’hypallage déplace un adjectif d’un mot à un autre. Exemple littéraire : 'Un pas rêveur sur un sentier solitaire.' Exemple du quotidien : 'Une colère froide envahit la salle.'"
   },
   {
     "question": "40 - La syllepse joue sur :",
@@ -440,7 +437,7 @@
       "Le mélange des registres"
     ],
     "answerIndex": 0,
-    "explication": "La syllepse emploie un mot à la fois dans son sens concret et figuré. Exemple : 'Les Indiens sont nus parce que Colomb les a découverts.' (Hugo)."
+    "explication": "La syllepse utilise un mot dans son sens propre et figuré. Exemple littéraire : 'Les Indiens sont nus parce que Colomb les a découverts.' Exemple du quotidien : 'Elle a pris ses clés et son courage.'"
   },
   {
     "question": "41 - En versification, qu’est-ce qu’un alexandrin ?",
@@ -451,7 +448,7 @@
       "Un vers de 12 syllabes"
     ],
     "answerIndex": 3,
-    "explication": "L’alexandrin est le vers classique de 12 syllabes, souvent divisé par une césure en deux hémistiches de 6 syllabes."
+    "explication": "L’alexandrin est un vers classique de 12 syllabes, souvent coupé par une césure. Exemple littéraire : 'Je vis, je meurs : je me brûle et me noie.' Exemple du quotidien : 'J’écris chaque jour pour devenir meilleur.'"
   },
   {
     "question": "42 - Qu’est-ce qu’une césure ?",
@@ -462,7 +459,7 @@
       "Un enjambement"
     ],
     "answerIndex": 1,
-    "explication": "La césure divise un vers long (souvent l’alexandrin) en deux parties équilibrées, marquant une respiration rythmique."
+    "explication": "La césure divise le vers en deux parties. Exemple littéraire : 'Je vis, je meurs : || je me brûle et me noie.' Exemple du quotidien : pause dans une lecture pour respirer naturellement."
   },
   {
     "question": "43 - Quelle est la différence entre assonance et rime ?",
@@ -473,7 +470,7 @@
       "L’assonance ne s’emploie qu’en prose"
     ],
     "answerIndex": 2,
-    "explication": "L’assonance répète les voyelles n’importe où, tandis que la rime est une répétition de sons en fin de vers."
+    "explication": "L’assonance répète les voyelles, la rime répète les sons en fin de vers. Exemple littéraire : Assonance : 'Tout m’afflige et me nuit et conspire à me nuire.' Rime : 'Je vis, je ris, je suis.'"
   },
   {
     "question": "44 - Quelle structure rimique correspond à des rimes croisées ?",
@@ -484,7 +481,7 @@
       "AAAA"
     ],
     "answerIndex": 1,
-    "explication": "Les rimes croisées suivent le schéma ABAB, alternant les sons d’un vers à l’autre."
+    "explication": "Rimes croisées : ABAB. Exemple : 'La nuit tombe, les étoiles brillent (A) / Le vent souffle, les feuilles dansent (B) / Le ciel s’assombrit, l’ombre s’étire (A) / La lune éclaire la mer immense (B)'"
   },
   {
     "question": "45 - Quelle structure rimique correspond à des rimes embrassées ?",
@@ -495,7 +492,7 @@
       "AAAA"
     ],
     "answerIndex": 2,
-    "explication": "Les rimes embrassées encadrent le couple central : ABBA."
+    "explication": "Rimes embrassées : ABBA. Exemple : 'Le vent s’endort au creux des bois (A) / La nuit s’avance, sombre et belle (B) / Le silence couvre la ruelle (B) / Et l’ombre joue sur les toits (A)'"
   },
   {
     "question": "46 - Qu’est-ce qu’un enjambement ?",
@@ -506,7 +503,7 @@
       "Une rime interne"
     ],
     "answerIndex": 0,
-    "explication": "L’enjambement fait déborder la phrase sur le vers suivant, rompant le rythme régulier et attirant l’attention sur le mot déplacé."
+    "explication": "L’enjambement fait déborder la phrase sur le vers suivant. Exemple littéraire : 'Je meurs, je suis né / Pour t’aimer et pour souffrir.' Exemple du quotidien : 'Il marche dans le parc / Et contemple les arbres.'"
   },
   {
     "question": "47 - Quelle est la différence entre rejet et contre-rejet ?",
@@ -517,7 +514,7 @@
       "Le contre-rejet n’existe qu’en prose"
     ],
     "answerIndex": 1,
-    "explication": "Le rejet prolonge la phrase sur le vers suivant, tandis que le contre-rejet commence une phrase avant la rime et la continue après."
+    "explication": "Rejet : mot mis en valeur au début du vers suivant. Contre-rejet : mot placé à la fin du vers précédent. Exemple littéraire : 'Je vis, je meurs : || je me brûle et me noie.'"
   },
   {
     "question": "48 - Que désigne le 'e muet' en poésie ?",
@@ -528,7 +525,7 @@
       "Une césure marquée"
     ],
     "answerIndex": 2,
-    "explication": "Le 'e muet' compte comme une syllabe devant une consonne mais pas en fin de vers ni devant une voyelle."
+    "explication": "Le 'e muet' compte comme syllabe devant une consonne mais pas en fin de vers ni devant une voyelle. Exemple : 'Je ne sais que faire.' ('ne' compte ou pas selon le contexte)."
   },
   {
     "question": "49 - Que signifie le mot 'strophe' ?",
@@ -539,7 +536,7 @@
       "Une figure de style"
     ],
     "answerIndex": 0,
-    "explication": "Une strophe regroupe plusieurs vers formant un ensemble cohérent. Exemples : quatrain (4 vers), tercet (3 vers)."
+    "explication": "Une strophe est un groupe de vers formant une unité. Exemple littéraire : quatrain (4 vers), tercet (3 vers). Exemple du quotidien : un paragraphe en poésie ou chanson."
   },
   {
     "question": "50 - Qu’est-ce qu’un hiatus ?",
@@ -550,6 +547,6 @@
       "Un vers trop court"
     ],
     "answerIndex": 1,
-    "explication": "Le hiatus est le contact de deux voyelles entre deux mots ('il a été'), souvent évité dans la poésie classique."
+    "explication": "Le hiatus est la rencontre de deux voyelles prononcées séparément. Exemple littéraire : 'Il a été'. Exemple du quotidien : 'La loi oblige à…', en prononçant distinctement 'a o'."
   }
 ]

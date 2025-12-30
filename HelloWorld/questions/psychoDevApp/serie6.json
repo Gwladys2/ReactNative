@@ -1,0 +1,342 @@
+[
+  {
+    "question": "1 - Le stade de l’intelligence symbolique correspond à la période :",
+    "options": ["0-2 ans", "2-7 ans", "7-12 ans", "12-16 ans"],
+    "answerIndex": 1,
+    "explication": "Selon Piaget, le développement de l’intelligence se fait par stades. Le stade de l’intelligence symbolique se situe entre 2 et 7 ans. À cet âge, l’enfant commence à penser sans être obligé d’agir directement sur les objets. Il peut utiliser des images, des mots ou des jeux pour représenter la réalité."
+  },
+  {
+    "question": "2 - L’intelligence devient dite « symbolique » lorsque l’enfant :",
+    "options": ["Maîtrise le langage adulte", "Réalise des raisonnements formels", "Accède à la conservation", "Se détache de l’action immédiate"],
+    "answerIndex": 3,
+    "explication": "On parle d’intelligence symbolique lorsque l’enfant n’a plus besoin de faire une action réelle pour penser. Il peut imaginer, se souvenir ou parler d’un objet absent."
+  },
+  {
+    "question": "3 - L’intériorisation des actions correspond au fait que :",
+    "options": ["Les actions disparaissent", "Les actions deviennent verbales", "Les actions deviennent des opérations mentales", "Les actions deviennent automatiques"],
+    "answerIndex": 2,
+    "explication": "Les actions que l’enfant faisait avec son corps (par exemple verser, déplacer) deviennent progressivement des actions mentales. Il peut les faire « dans sa tête »."
+  },
+  {
+    "question": "4 - Le stade symbolique prépare principalement :",
+    "options": ["Le langage adulte", "Les opérations concrètes", "Les opérations formelles", "La socialisation"],
+    "answerIndex": 1,
+    "explication": "Ce stade prépare la pensée logique du stade suivant, où l’enfant pourra raisonner de façon structurée."
+  },
+  {
+    "question": "5 - La fonction sémiotique permet :",
+    "options": ["L’imitation réflexe", "La manipulation d’objets", "La représentation de l’absent", "Le raisonnement logique"],
+    "answerIndex": 2,
+    "explication": "La fonction sémiotique est la capacité à représenter mentalement quelque chose qui n’est pas présent ici et maintenant."
+  },
+  {
+    "question": "6 - Dans la fonction sémiotique, le signifié correspond :",
+    "options": ["Au mot", "À l’objet représenté", "À l’image mentale", "Au geste"],
+    "answerIndex": 1,
+    "explication": "Le signifié est la chose réelle ou l’idée à laquelle on fait référence."
+  },
+  {
+    "question": "7 - Un indice se caractérise par :",
+    "options": ["Une partie ou une trace du signifié", "Un lien arbitraire avec le signifié", "Une ressemblance avec le signifié", "Une convention sociale"],
+    "answerIndex": 0,
+    "explication": "Un indice est directement causé par ce qu’il représente, comme la fumée qui indique un feu."
+  },
+  {
+    "question": "8 - Le symbole se distingue du signe car :",
+    "options": ["Il est culturel", "Il est arbitraire", "Il est verbal", "Il repose sur une ressemblance"],
+    "answerIndex": 3,
+    "explication": "Le symbole ressemble à ce qu’il représente, contrairement au signe linguistique."
+  },
+  {
+    "question": "9 - Le langage est un exemple de :",
+    "options": ["Signe", "Symbole", "Indice", "Schème"],
+    "answerIndex": 0,
+    "explication": "Les mots sont des signes car ils sont arbitraires et appris socialement."
+  },
+  {
+    "question": "10 - L’imitation différée prouve :",
+    "options": ["La mémoire motrice", "La représentation mentale", "La conservation", "La logique opératoire"],
+    "answerIndex": 1,
+    "explication": "L’enfant montre qu’il peut garder en mémoire une action et la reproduire plus tard."
+  },
+
+  {
+    "question": "11 - Le jeu symbolique se caractérise par :",
+    "options": ["Une soumission au réel", "Un raisonnement logique", "Une imitation exacte", "Une assimilation déformante du réel"],
+    "answerIndex": 3,
+    "explication": "Le jeu symbolique consiste à transformer la réalité selon les envies de l’enfant. Par exemple, un bâton devient une épée. L’enfant n’est pas soumis au réel, il le modifie."
+  },
+
+  {
+    "question": "12 - Selon Piaget, le jeu symbolique sert principalement à :",
+    "options": ["Apprendre les règles sociales", "Satisfaire le moi", "Développer le langage adulte", "Raisonner logiquement"],
+    "answerIndex": 1,
+    "explication": "Le jeu symbolique permet à l’enfant d’exprimer ses émotions, ses désirs et ses expériences. Il se rassure et comprend le monde à sa manière."
+  },
+
+  {
+    "question": "13 - Les premiers mots chez l’enfant sont :",
+    "options": ["Des concepts généraux", "Des signes abstraits", "Des symboles mathématiques", "Des préconcepts"],
+    "answerIndex": 3,
+    "explication": "Un préconcept est une idée encore imprécise. Quand l’enfant dit « chien », il peut désigner tous les animaux à quatre pattes, pas le concept scientifique de chien."
+  },
+
+  {
+    "question": "14 - La pensée de l’enfant entre 2 et 7 ans est dite :",
+    "options": ["Logique", "Formelle", "Prélogique", "Déductive"],
+    "answerIndex": 2,
+    "explication": "La pensée est dite prélogique car elle n’obéit pas encore aux règles logiques adultes. Elle repose surtout sur l’intuition et l’apparence."
+  },
+
+  {
+    "question": "15 - L’intuition se caractérise par :",
+    "options": ["La réversibilité", "La rigidité", "La combinatoire", "La décentration"],
+    "answerIndex": 1,
+    "explication": "Une intuition est rigide car l’enfant ne peut pas revenir en arrière mentalement. Il reste bloqué sur ce qu’il voit."
+  },
+
+  {
+    "question": "16 - L’échec à la conservation avant 7 ans s’explique par :",
+    "options": ["Une intuition perceptive", "Un manque de mémoire", "Un déficit langagier", "Une absence d’expérience"],
+    "answerIndex": 0,
+    "explication": "L’enfant se fie uniquement à ce qu’il perçoit visuellement (plus long = plus), sans raisonner logiquement."
+  },
+
+  {
+    "question": "17 - L’égocentrisme cognitif correspond à :",
+    "options": ["Un égoïsme affectif", "Un refus de coopérer", "Un trouble du développement", "Une centration sur son point de vue"],
+    "answerIndex": 3,
+    "explication": "L’enfant a du mal à comprendre que les autres peuvent penser différemment de lui. Ce n’est pas volontaire."
+  },
+
+  {
+    "question": "18 - Les fausses croyances sont difficiles à comprendre avant :",
+    "options": ["3 ans", "4 ans", "5-6 ans", "8-9 ans"],
+    "answerIndex": 2,
+    "explication": "Comprendre qu’une autre personne peut avoir une croyance fausse demande de se décentrer de son propre savoir."
+  },
+
+  {
+    "question": "19 - Le stade des opérations concrètes débute vers :",
+    "options": ["5 ans", "6 ans", "9 ans", "7 ans"],
+    "answerIndex": 3,
+    "explication": "Vers 7 ans, l’enfant devient capable de raisonner logiquement sur des objets concrets."
+  },
+
+  {
+    "question": "20 - Les opérations concrètes sont limitées car elles portent sur :",
+    "options": ["Des objets concrets", "Des hypothèses", "Des propositions", "Des symboles"],
+    "answerIndex": 0,
+    "explication": "L’enfant a besoin de voir ou manipuler pour raisonner. Il ne raisonne pas encore sur l’abstrait."
+  },
+
+  {
+    "question": "21 - La conservation de la quantité repose sur :",
+    "options": ["La perception", "L’invariant", "L’imitation", "Le langage"],
+    "answerIndex": 1,
+    "explication": "Un invariant est ce qui ne change pas malgré une transformation. La quantité reste la même même si la forme change."
+  },
+
+  {
+    "question": "22 - L’argument d’identité consiste à dire :",
+    "options": ["C’est plus long", "C’est plus mince", "On n’a rien ajouté ni enlevé", "On ne voit pas"],
+    "answerIndex": 2,
+    "explication": "L’enfant comprend que la quantité est la même car aucun ajout ni retrait n’a eu lieu."
+  },
+
+  {
+    "question": "23 - L’argument de compensation repose sur :",
+    "options": ["La perception", "L’équilibre des transformations", "La répétition", "L’intuition"],
+    "answerIndex": 1,
+    "explication": "Une dimension augmente pendant qu’une autre diminue, ce qui maintient la quantité."
+  },
+
+  {
+    "question": "24 - L’argument d’inversion correspond à :",
+    "options": ["Comparer visuellement", "Compter", "Nommer", "Imaginer le retour à l’état initial"],
+    "answerIndex": 3,
+    "explication": "L’enfant peut imaginer mentalement revenir à la situation de départ."
+  },
+
+  {
+    "question": "25 - La conservation du nombre apparaît lorsque :",
+    "options": ["L’enfant récite la comptine", "L’enfant compte", "La quantité résiste aux déformations", "L’enfant parle"],
+    "answerIndex": 2,
+    "explication": "Le nombre est compris comme stable, indépendamment de la disposition."
+  },
+
+  {
+    "question": "26 - La comptine numérique avant 7 ans est :",
+    "options": ["Une suite verbale", "Une opération", "Un concept", "Une preuve de conservation"],
+    "answerIndex": 0,
+    "explication": "Réciter les nombres ne signifie pas comprendre le concept de nombre."
+  },
+
+  {
+    "question": "27 - Une classe se définit par :",
+    "options": ["Son nom", "Sa compréhension et son extension", "Sa taille", "Sa couleur"],
+    "answerIndex": 1,
+    "explication": "La compréhension correspond aux caractéristiques communes, l’extension aux éléments inclus."
+  },
+
+  {
+    "question": "28 - Les classifications nécessitent :",
+    "options": ["Une perception globale", "Le langage", "L’imitation", "Des relations de ressemblance et différence"],
+    "answerIndex": 3,
+    "explication": "Classer demande de comparer, regrouper et différencier selon des critères logiques."
+  },
+
+  {
+    "question": "29 - La sériation correspond à :",
+    "options": ["Classer par catégories", "Ordonner selon une relation", "Nommer les objets", "Compter"],
+    "answerIndex": 1,
+    "explication": "La sériation consiste à organiser des objets selon un ordre (du plus petit au plus grand)."
+  },
+
+  {
+    "question": "30 - Les groupements multiplicatifs reposent sur :",
+    "options": ["Une seule classification", "Une seule sériation", "Plusieurs classifications croisées", "L’intuition"],
+    "answerIndex": 2,
+    "explication": "Ils nécessitent de prendre en compte plusieurs critères en même temps."
+  },
+
+  {
+    "question": "31 - Les réussites précoces aux tableaux à double entrée sont souvent :",
+    "options": ["Opératoires", "Logiques", "Formelles", "Figurales"],
+    "answerIndex": 3,
+    "explication": "L’enfant réussit grâce à la perception visuelle, sans raisonnement logique profond."
+  },
+
+  {
+    "question": "32 - Une opération se distingue de l’action car elle est :",
+    "options": ["Observable", "Intériorisée et réversible", "Automatique", "Langagière"],
+    "answerIndex": 1,
+    "explication": "Une opération est une action mentale que l’on peut inverser."
+  },
+
+  {
+    "question": "33 - Pour Piaget, le langage :",
+    "options": ["Crée les opérations", "Est toujours la source de l’apprentissage", "Étend le pouvoir des opérations", "Remplace l’action"],
+    "answerIndex": 2,
+    "explication": "Le langage permet d’exprimer et de généraliser des opérations déjà construites."
+  },
+
+  {
+    "question": "34 - Le stade formel permet :",
+    "options": ["Le raisonnement sur le possible", "La manipulation concrète", "La pensée intuitive", "La centration"],
+    "answerIndex": 0,
+    "explication": "L’adolescent peut raisonner sur des hypothèses sans les tester directement."
+  },
+
+  {
+    "question": "35 - La logique des propositions porte sur :",
+    "options": ["Les objets", "Les actions", "Les propositions", "Les perceptions"],
+    "answerIndex": 2,
+    "explication": "Elle concerne les relations logiques entre des énoncés."
+  },
+
+  {
+    "question": "36 - Le groupe INRC modélise :",
+    "options": ["La perception", "Les schèmes sensori-moteurs", "L’imitation", "Les opérations formelles"],
+    "answerIndex": 3,
+    "explication": "Il représente la structure logique complexe de la pensée formelle."
+  },
+
+  {
+    "question": "37 - La pensée formelle est dite « au second degré » car :",
+    "options": ["Elle est plus lente", "Elle porte sur des représentations", "Elle est verbale", "Elle est sociale"],
+    "answerIndex": 1,
+    "explication": "Elle ne porte plus sur les actions directes mais sur des représentations possibles."
+  },
+
+  {
+    "question": "38 - Le possible logique est défini comme :",
+    "options": ["Tout ce qui n’est pas contradictoire", "Tout ce qui est observable", "Tout ce qui est imaginable", "Tout ce qui est réel"],
+    "answerIndex": 0,
+    "explication": "Une hypothèse est possible si elle respecte les règles de la logique."
+  },
+
+  {
+    "question": "39 - Le raisonnement hypothético-déductif consiste à :",
+    "options": ["Essayer au hasard", "Répéter une action", "Imiter", "Varier un facteur à la fois"],
+    "answerIndex": 3,
+    "explication": "On teste une hypothèse en modifiant un seul élément à la fois."
+  },
+
+  {
+    "question": "40 - Les essais empiriques sont :",
+    "options": ["Plus rapides", "Plus logiques", "Plus risqués d’erreur", "Plus abstraits"],
+    "answerIndex": 2,
+    "explication": "Ils sont désorganisés et peuvent mener à des erreurs."
+  },
+
+  {
+    "question": "41 - La logique combinatoire permet :",
+    "options": ["De tout percevoir", "De considérer toutes les combinaisons possibles", "De mémoriser", "De classer simplement"],
+    "answerIndex": 1,
+    "explication": "Elle permet d’envisager toutes les possibilités logiques."
+  },
+
+  {
+    "question": "42 - Le passage à la pensée formelle modifie le rapport au réel car :",
+    "options": ["L’hypothèse précède l’action", "Le réel disparaît", "L’action prime toujours", "La perception domine"],
+    "answerIndex": 0,
+    "explication": "L’adolescent réfléchit avant d’agir."
+  },
+
+  {
+    "question": "43 - Le succès immédiat de l’action :",
+    "options": ["Devient central", "Disparaît", "Passe au second plan", "Explique tout"],
+    "answerIndex": 2,
+    "explication": "La compréhension logique devient plus importante que la réussite pratique."
+  },
+
+  {
+    "question": "44 - La psychologie piagétienne reste :",
+    "options": ["Purement logique", "Réductrice", "Inobservable", "Un modèle scientifique"],
+    "answerIndex": 3,
+    "explication": "La logique sert à modéliser le fonctionnement cognitif."
+  },
+
+  {
+    "question": "45 - Les opérations formelles permettent :",
+    "options": ["De manipuler uniquement des objets", "De raisonner sur des propositions", "De percevoir mieux", "De mémoriser davantage"],
+    "answerIndex": 1,
+    "explication": "La pensée devient abstraite et indépendante du concret."
+  },
+
+  {
+    "question": "46 - Le développement piagétien implique un changement de rapport au monde :",
+    "options": ["Progressif", "Unique", "Aléatoire", "Social"],
+    "answerIndex": 0,
+    "explication": "La manière de comprendre le monde évolue étape par étape."
+  },
+
+  {
+    "question": "47 - Le figuratif est :",
+    "options": ["Suffisant", "Inutile", "Supérieur à l’opératif", "Nécessaire mais insuffisant"],
+    "answerIndex": 3,
+    "explication": "Les images aident à penser mais ne suffisent pas pour raisonner logiquement."
+  },
+
+  {
+    "question": "48 - Les opérations sont organisées en :",
+    "options": ["Structures", "Images", "Habitudes", "Perceptions"],
+    "answerIndex": 0,
+    "explication": "Les opérations forment des systèmes logiques cohérents."
+  },
+
+  {
+    "question": "49 - Le développement intellectuel est caractérisé par :",
+    "options": ["La continuité pure", "L’aléatoire", "Des ruptures qualitatives", "La répétition"],
+    "answerIndex": 2,
+    "explication": "Chaque stade apporte une nouvelle manière de penser."
+  },
+
+  {
+    "question": "50 - Le CM6 montre que pour Piaget, penser c’est avant tout :",
+    "options": ["Parler", "Opérer", "Percevoir", "Mémoriser"],
+    "answerIndex": 1,
+    "explication": "Penser, pour Piaget, c’est effectuer des opérations mentales logiques et réversibles."
+  }
+]

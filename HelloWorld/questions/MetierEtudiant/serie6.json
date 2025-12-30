@@ -1,0 +1,302 @@
+[
+  {
+    "question": "1 - Quel est l’objectif principal d’une fiche de lecture ?",
+    "options": ["Résumer le texte sans analyse", "Évaluer compréhension, synthèse et analyse", "Donner uniquement un avis personnel", "Lister toutes les citations"],
+    "answerIndex": 1,
+    "explication": "La fiche de lecture sert à mesurer la capacité à comprendre, synthétiser et analyser un texte."
+  },
+  {
+    "question": "2 - Une bonne fiche de lecture dispense :",
+    "options": ["De lire l’ouvrage tout en donnant envie de le lire", "De comprendre l’auteur", "D’analyser la méthodologie", "De lire la conclusion"],
+    "answerIndex": 0,
+    "explication": "Elle doit permettre de comprendre l’essentiel du texte."
+  },
+  {
+    "question": "3 - Combien de grandes parties comporte une fiche de lecture ?",
+    "options": ["2", "4", "5", "3"],
+    "answerIndex": 3,
+    "explication": "Selon le cours, elle se compose de 3 parties."
+  },
+  {
+    "question": "4 - La première partie consiste à :",
+    "options": ["Synthétiser les idées", "Situer l’auteur et l’ouvrage", "Analyser chaque argument", "Ajouter une critique personnelle"],
+    "answerIndex": 1,
+    "explication": "La partie 1 présente l’auteur, l’ouvrage et son contexte."
+  },
+  {
+    "question": "5 - Dans la première partie, il faut présenter :",
+    "options": ["La biographie complète de l’auteur", "Uniquement le nom de l’auteur", "Nationalité, université, centre de recherche, discipline", "La conclusion du texte"],
+    "answerIndex": 2,
+    "explication": "Le cours précise les éléments nécessaires pour situer l’auteur."
+  },
+  {
+    "question": "6 - La nature de l’ouvrage doit être précisée, par exemple :",
+    "options": ["Un roman policier", "Une thèse ou un ouvrage collectif", "Un article de blog", "Un texte d’opinion"],
+    "answerIndex": 1,
+    "explication": "Il faut indiquer s’il s’agit d’une thèse, actes de colloque, ouvrage collectif, etc."
+  },
+  {
+    "question": "7 - Commenter brièvement la table des matières sert à :",
+    "options": ["Comprendre la structure générale","Vérifier le style graphique",  "Analyser les hypothèses", "Identifier le lectorat"],
+    "answerIndex": 0,
+    "explication": "Cela permet de comprendre la logique de l’ouvrage."
+  },
+  {
+    "question": "8 - La synthèse dans la fiche de lecture doit :",
+    "options": ["Reprendre l’intégralité du texte",  "Ajouter des commentaires personnels seulement","Reformuler les idées majeures", "Être très critique"],
+    "answerIndex": 2,
+    "explication": "La synthèse reformule les idées essentielles."
+  },
+  {
+    "question": "9 - Une synthèse peut suivre :",
+    "options": [ "Uniquement le plan de l’ouvrage", "Uniquement l’ordre des citations", "Le plan de l’ouvrage ou une organisation thématique","Un ordre aléatoire"],
+    "answerIndex": 2,
+    "explication": "Deux approches sont possibles."
+  },
+  {
+    "question": "10 - Le nombre de citations recommandées dans la synthèse est :",
+    "options": ["3 ou 4 maximum","Aucune", "1 ou 2",  "Autant que possible"],
+    "answerIndex": 0,
+    "explication": "Le document indique un maximum de 3 à 4 citations."
+  },
+  {
+    "question": "11 - La question « Qu’a-t-il voulu démontrer ? » appartient à :",
+    "options": ["La conclusion",  "La critique personnelle", "La synthèse","La méthodologie"],
+    "answerIndex": 2,
+    "explication": "C’est une question centrale de la synthèse."
+  },
+  {
+    "question": "12 - Le développement analytique consiste à :",
+    "options": ["Répéter la synthèse", "Éclairer et commenter les idées du texte", "Rédiger une nouvelle conclusion", "Ajouter des données externes uniquement"],
+    "answerIndex": 1,
+    "explication": "Il s’agit de développer et commenter les idées principales."
+  },
+  {
+    "question": "13 - Le développement doit faire appel à :",
+    "options": ["L’imagination", "Des connaissances personnelles et un esprit critique", "Des citations massives", "La paraphrase"],
+    "answerIndex": 1,
+    "explication": "Le lecteur doit analyser et confronter les idées."
+  },
+  {
+    "question": "14 - Une question du développement analytique est :",
+    "options": ["Qu’apporte tel auteur dans le débat ?","Quel est le prix du livre ?",  "Quelle est la couleur de la couverture ?", "Combien de pages contient le chapitre 3 ?"],
+    "answerIndex": 0,
+    "explication": "Le cours insiste sur l’ouverture vers d’autres auteurs."
+  },
+  {
+    "question": "15 - Parmi les deux plans possibles du développement :",
+    "options": ["Analyse puis bibliographie", "Synthèse puis analyse, ou synthèse analytique", "Méthodologie puis conclusion", "Avis personnel puis résumé"],
+    "answerIndex": 1,
+    "explication": "Les deux plans proposés figurent dans le document."
+  },
+  {
+    "question": "16 - L’analyse doit :",
+    "options": [ "Être fondée sur des opinions personnelles uniquement", "Ignorer les références théoriques","Être objective et argumentée", "S’appuyer sur un jugement moral de l’auteur"],
+    "answerIndex": 2,
+    "explication": "L’analyse demande rigueur et argumentation."
+  },
+  {
+    "question": "17 - La conclusion de la fiche de lecture doit :",
+    "options": ["Répéter la synthèse mot à mot", "Mettre en perspective les acquis", "Critiquer sévèrement l’auteur", "Ajouter de nouvelles idées majeures"],
+    "answerIndex": 1,
+    "explication": "Elle doit faire le bilan et élargir."
+  },
+  {
+    "question": "18 - Une question essentielle de la conclusion est :",
+    "options": ["Qu’apporte l’ouvrage ?","Qui a édité le livre ?",  "Combien de figures contient-il ?", "Quelle est sa date de réimpression ?"],
+    "answerIndex": 0,
+    "explication": "La conclusion doit montrer la portée de l’ouvrage."
+  },
+  {
+    "question": "19 - Parmi les points de vigilance :",
+    "options": ["Utiliser beaucoup de citations", "Écrire sans structure", "Ignorer la bibliographie finale", "Éviter paraphrase et jugements de valeur"],
+    "answerIndex": 3,
+    "explication": "Le document insiste sur l’importance d’éviter paraphrase et critiques superficielles."
+  },
+  {
+    "question": "20 - L’abus de citations est :",
+    "options": ["Recommandé pour être précis", "À éviter", "Indifférent", "Obligatoire"],
+    "answerIndex": 1,
+    "explication": "Il faut limiter les citations et privilégier la reformulation."
+  },
+  {
+    "question": "21 - Un développement doit être :",
+    "options": [ "Libre et sans structure", "Composé de listes", "Argumenté et structuré","Centé sur l’auteur uniquement"],
+    "answerIndex": 2,
+    "explication": "Le cours souligne l’organisation rigoureuse du développement."
+  },
+  {
+    "question": "22 - Les références doivent apparaître :",
+    "options": ["Dans la marge", "Sous forme de liste personnelle", "Dans une bibliographie APA 7", "Uniquement dans le texte"],
+    "answerIndex": 2,
+    "explication": "Les normes APA 7 sont obligatoires."
+  },
+  {
+    "question": "23 - La paraphrase signifie :",
+    "options": ["Réécrire textuellement", "Reformuler correctement", "Analyser", "Structurer"],
+    "answerIndex": 0,
+    "explication": "La paraphrase doit être évitée selon le document."
+  },
+  {
+    "question": "24 - Une critique superficielle est :",
+    "options": ["Argumentée", "À éviter", "Solide et construite", "Recommandée"],
+    "answerIndex": 1,
+    "explication": "Elle ne montre pas de réflexion sérieuse."
+  },
+  {
+    "question": "25 - Pourquoi éviter les jugements de valeur ?",
+    "options": ["Ils sont trop compliqués",  "Ils prennent trop de place","Ils ne reposent pas sur une analyse objective", "Ils ne sont pas acceptés en APA"],
+    "answerIndex": 2,
+    "explication": "Une fiche de lecture vise une analyse argumentée, pas subjective."
+  },
+  {
+    "question": "26 - Le courant de pensée de l’auteur est :",
+    "options": ["Un élément à présenter dans la partie 1","Sans importance",  "Relevant uniquement de la conclusion", "À analyser dans la bibliographie"],
+    "answerIndex": 0,
+    "explication": "Il fait partie des éléments pour situer l’auteur."
+  },
+  {
+    "question": "27 - Situer l’ouvrage dans le parcours de l’auteur permet :",
+    "options": ["De comprendre son décor narratif",  "De connaître sa vie privée", "De contextualiser sa production scientifique","D’identifier la date d'impression"],
+    "answerIndex": 2,
+    "explication": "Cela permet un regard plus précis sur sa recherche."
+  },
+  {
+    "question": "28 - La synthèse doit porter sur :",
+    "options": ["Toutes les pages en détail", "Les idées majeures, exemples et arguments", "Uniquement les conclusions", "Les annexes"],
+    "answerIndex": 1,
+    "explication": "Elle reformule les points essentiels du texte."
+  },
+  {
+    "question": "29 - Une synthèse doit être :",
+    "options": ["Sélective et structurée","Longue et exhaustive",  "Subjective", "Basée sur une seule idée"],
+    "answerIndex": 0,
+    "explication": "Elle sélectionne et organise les idées importantes."
+  },
+  {
+    "question": "30 - Le plan thématique consiste à :",
+    "options": ["Suivre strictement chaque chapitre",  "Analyser uniquement les données", "Réorganiser les idées par thèmes","Suivre uniquement la bibliographie"],
+    "answerIndex": 2,
+    "explication": "Il s'agit d'un mode de synthèse possible."
+  },
+  {
+    "question": "31 - L’analyse doit se baser sur :",
+    "options": ["L’invention de nouveaux concepts", "Des connaissances personnelles et externes pertinentes", "Un résumé mot à mot", "Une comparaison esthétique"],
+    "answerIndex": 1,
+    "explication": "Elle doit articuler connaissances et réflexion."
+  },
+  {
+    "question": "32 - L’analyse peut consister à :",
+    "options": ["Comparer avec d’autres auteurs", "Raconter la vie de l’auteur", "Lister les chapitres", "Ignorer les thématiques"],
+    "answerIndex": 0,
+    "explication": "L’ouverture vers d’autres travaux est encouragée."
+  },
+  {
+    "question": "33 - Une question centrale de l’analyse est :",
+    "options": ["La table des matières est-elle esthétique ?",  "Le texte est-il long ?", "En quoi mes connaissances confirment ou contredisent l’auteur ?","L’auteur a-t-il déjà gagné un prix ?"],
+    "answerIndex": 2,
+    "explication": "Il s’agit d’un élément clé de la confrontation critique."
+  },
+  {
+    "question": "34 - Un argument opposé à l’auteur doit être :",
+    "options": ["Non justifié", "Basé sur un jugement de valeur", "Ignoré en fiche de lecture", "Argumenté et étayé"],
+    "answerIndex": 3,
+    "explication": "Tout argument doit être fondé."
+  },
+  {
+    "question": "35 - La conclusion élargit :",
+    "options": ["Les détails techniques", "La portée de l’ouvrage", "La bibliographie", "La méthodologie"],
+    "answerIndex": 1,
+    "explication": "Elle met en perspective les apports du texte."
+  },
+  {
+    "question": "36 - La couverture d’un livre peut être :",
+    "options": ["Commentée brièvement en partie 1", "Ignorée totalement", "Développée longuement", "Décrite en détail dans la conclusion"],
+    "answerIndex": 0,
+    "explication": "Le cours précise qu’on peut la commenter brièvement."
+  },
+  {
+    "question": "37 - Un point à éviter est :",
+    "options": ["L’analyse", "La contextualisation", "La reformulation", "La paraphrase"],
+    "answerIndex": 3,
+    "explication": "La paraphrase ne montre aucune compréhension personnelle."
+  },
+  {
+    "question": "38 - La reformulation permet :",
+    "options": ["D’éviter la paraphrase et montrer la compréhension", "De supprimer des idées", "D’improviser", "D’allonger artificiellement le texte"],
+    "answerIndex": 0,
+    "explication": "Elle montre la maîtrise du contenu."
+  },
+  {
+    "question": "39 - Les jugements de valeur sont :",
+    "options": ["Indispensables", "Aussi importants que l’analyse", "Recommandés" ,"À éviter"],
+    "answerIndex": 3,
+    "explication": "Ils ne reposent pas sur une analyse rigoureuse."
+  },
+  {
+    "question": "40 - Les critiques faciles sont :",
+    "options": ["Autorisé﻿es", "À éviter absolument", "Un passage obligatoire", "Une part importante de la conclusion"],
+    "answerIndex": 1,
+    "explication": "Elles manquent de profondeur et de justification."
+  },
+  {
+    "question": "41 - L’intention d’un auteur est :",
+    "options": ["À comprendre dans la synthèse","Sans importance",  "À analyser seulement en conclusion", "À ignorer"],
+    "answerIndex": 0,
+    "explication": "La synthèse vise à comprendre ce que l’auteur veut démontrer."
+  },
+  {
+    "question": "42 - Le cheminement de l’auteur désigne :",
+    "options": ["Son style littéraire", "Sa biographie", "La structure de son parcours universitaire", "La progression de son raisonnement"],
+    "answerIndex": 3,
+    "explication": "Il faut comprendre comment il construit son argumentation."
+  },
+  {
+    "question": "43 - Les exemples dans la synthèse servent à :",
+    "options": ["Illustrer l’analyse de l’auteur","Allonger le texte",  "Remplacer l’analyse", "Éviter les citations"],
+    "answerIndex": 0,
+    "explication": "Ils éclairent les idées principales."
+  },
+  {
+    "question": "44 - Une synthèse thématique consiste à :",
+    "options": ["Analyser chaque mot",  "Suivre l’ordre alphabétique", "Regrouper les idées selon des thèmes","Reprendre chaque paragraphe dans l’ordre"],
+    "answerIndex": 2,
+    "explication": "Elle réorganise les idées par thématiques."
+  },
+  {
+    "question": "45 - Les arguments de l’auteur doivent être :",
+    "options": ["Ignorés", "Compris et reformulés", "Repris tels quels", "Très critiqués dès le début"],
+    "answerIndex": 1,
+    "explication": "La reformulation prouve la compréhension."
+  },
+  {
+    "question": "46 - Le développement doit permettre :",
+    "options": ["D’ajouter de nouveaux chapitres", "De répéter la synthèse", "De résumer en une phrase", "D'analyser la portée des idées"],
+    "answerIndex": 3,
+    "explication": "Il s’agit d’analyser et mettre en perspective."
+  },
+  {
+    "question": "47 - Une fiche de lecture analyse :",
+    "options": ["Les choix personnels de l'auteur", "Les idées et arguments du texte", "La vie privée de l’auteur", "La mise en page uniquement"],
+    "answerIndex": 1,
+    "explication": "Elle vise à comprendre et analyser les contenus."
+  },
+  {
+    "question": "48 - Une bibliographie en normes APA 7 doit contenir :",
+    "options": ["Les références citées", "Tous les livres lus dans l’année", "Uniquement les noms des auteurs", "Une liste simplifiée"],
+    "answerIndex": 0,
+    "explication": "La bibliographie doit lister toutes les références utilisées."
+  },
+  {
+    "question": "49 - Dans une fiche de lecture, les exemples personnels sont :",
+    "options": ["Interdits", "Obligatoires", "À placer uniquement en conclusion", "Autorisé﻿s s’ils éclairent l’analyse"],
+    "answerIndex": 3,
+    "explication": "Le cours autorise des liens avec ses propres connaissances."
+  },
+  {
+    "question": "50 - Une fiche de lecture réussie est :",
+    "options": ["Une reproduction fidèle du texte", "Un résumé sans structure",  "Une synthèse et une analyse rigoureuses","Un avis personnel long"],
+    "answerIndex": 2,
+    "explication": "Elle combine synthèse, compréhension et analyse argumentée."
+  }
+]

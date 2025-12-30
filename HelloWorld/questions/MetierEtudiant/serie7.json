@@ -1,0 +1,302 @@
+[
+  {
+    "question": "1 - Quel est l’enjeu principal d’un exposé oral selon le cours ?",
+    "options": ["Divertir le public", "Construire et exercer le rôle d'expert", "Lire un texte à voix haute", "Créer une discussion spontanée"],
+    "answerIndex": 1,
+    "explication": "L’exposé oral permet de construire un rôle d'expert pour transmettre un savoir."
+  },
+  {
+    "question": "2 - Pour transmettre un contenu, l’exposant doit :",
+    "options": ["Être drôle", "Lire son texte intégralement", "Utiliser uniquement des images", "Construire lui-même ses connaissances"],
+    "answerIndex": 3,
+    "explication": "L’exposant doit devenir expert en construisant ses propres connaissances."
+  },
+  {
+    "question": "3 - En début d’exposé, les conférenciers doivent :",
+    "options": ["S’adresser au public et annoncer le sujet","Rester silencieux",  "Commencer directement par la conclusion", "Distribuer un résumé"],
+    "answerIndex": 0,
+    "explication": "L’observation des conférences montre qu'ils s’adressent à l’auditoire pour introduire le propos."
+  },
+  {
+    "question": "4 - Une des premières fonctions d’un exposé est :",
+    "options": ["Raconter une histoire personnelle", "Faire rire le public", "Faire connaître un thème choisi", "Imposer un point de vue"],
+    "answerIndex": 2,
+    "explication": "Le cours indique que l'exposé sert à faire connaître un thème."
+  },
+  {
+    "question": "5 - Les auditeurs doivent à la fin de l’exposé :",
+    "options": ["Avoir mémorisé tout le texte", "Avoir cerné les étapes de la démarche", "Savoir refaire l’exposé", "Donner une note à l'orateur"],
+    "answerIndex": 1,
+    "explication": "Ils doivent comprendre la démarche de travail présentée."
+  },
+  {
+    "question": "6 - Pour être compris, l’exposant doit :",
+    "options": ["Parler rapidement", "Organiser et planifier son propos", "Éviter d’utiliser un plan", "Parler sans transitions"],
+    "answerIndex": 1,
+    "explication": "Organiser le discours est central pour la compréhension."
+  },
+  {
+    "question": "7 - Quel élément fait partie des connecteurs logiques pour introduire le sujet ?",
+    "options": ["Je vais tâcher de vous expliquer…","Alors écoutez-moi",  "Merci d’être venus", "Je finis là-dessus"],
+    "answerIndex": 0,
+    "explication": "Ces expressions servent à introduire le propos."
+  },
+  {
+    "question": "8 - Une manière de garder l’attention du public est :",
+    "options": ["Ne jamais regarder les auditeurs", "Lire le texte sans respirer", "Parler très doucement", "S’adresser directement à eux"],
+    "answerIndex": 3,
+    "explication": "L’adresse directe est une stratégie de maintien de l’attention."
+  },
+  {
+    "question": "9 - Dans le rituel oral, la présentation doit durer :",
+    "options": ["10 minutes", "1 minute", "5 minutes", "20 minutes"],
+    "answerIndex": 2,
+    "explication": "Le rituel oral demande une présentation de 5 minutes."
+  },
+  {
+    "question": "10 - Le rituel oral vise à :",
+    "options": ["Évaluer l’oral des étudiants", "Les entraîner sans notation", "Créer une compétition", "Sélectionner les meilleurs orateurs"],
+    "answerIndex": 1,
+    "explication": "Le rituel oral n’est pas noté, il sert d’entraînement."
+  },
+  {
+    "question": "11 - Lors du rituel oral, on doit présenter :",
+    "options": ["Un article scientifique lié à la thématique","Un exposé humoristique",  "Un résumé personnel", "Un texte littéraire"],
+    "answerIndex": 0,
+    "explication": "Il s’agit de présenter un article en lien avec la thématique travaillée."
+  },
+  {
+    "question": "12 - La méthodologie présentée dans le rituel oral comprend :",
+    "options": ["Les hypothèses mathématiques",  "L’opinion personnelle de l’exposant", "La population, le recueil et l’analyse des données","Les remerciements"],
+    "answerIndex": 2,
+    "explication": "La méthodologie comprend population, données et analyse."
+  },
+  {
+    "question": "13 - Dans la partie 'Résultats' du rituel oral, il faut présenter :",
+    "options": ["La bibliographie complète", "Ce que l’article nous apprend", "Le plan complet de l’article", "Les limites philosophiques du sujet"],
+    "answerIndex": 1,
+    "explication": "Les résultats doivent montrer les apports de l’article."
+  },
+  {
+    "question": "14 - La discussion dans le rituel oral sert à :",
+    "options": ["Faire une conclusion personnelle", "Présenter des illustrations", "Faire un sondage", "Monter en généralisation et présenter des perspectives"],
+    "answerIndex": 3,
+    "explication": "La discussion sert à élargir et généraliser."
+  },
+  {
+    "question": "15 - L’évaluation orale finale dure :",
+    "options": ["5 minutes", "10 minutes", "20 minutes", "1 minute"],
+    "answerIndex": 1,
+    "explication": "L’évaluation orale finale dure 10 minutes."
+  },
+  {
+    "question": "16 - L’évaluation finale doit présenter :",
+    "options": ["La thématique, l'entretien, l’expérience et l’article","Uniquement les résultats de l’article",  "Seulement l’expérience personnelle", "Seulement l’entretien"],
+    "answerIndex": 0,
+    "explication": "Elle doit mobiliser expérience, entretien et article."
+  },
+  {
+    "question": "17 - Un élément central de l’oral scientifique est :",
+    "options": ["La mise en scène théâtrale",  "Le style humoristique", "La problématisation","La rapidité d’élocution"],
+    "answerIndex": 2,
+    "explication": "La construction des savoirs par problématisation est essentielle."
+  },
+  {
+    "question": "18 - Un critère de réussite est :",
+    "options": ["Ne jamais regarder le public", "Respecter le temps imparti", "Éviter toute transition", "Lire entièrement son texte"],
+    "answerIndex": 1,
+    "explication": "Le temps est un critère d’évaluation formel."
+  },
+  {
+    "question": "19 - L’une des exigences universitaires d’un oral est :",
+    "options": ["Lire mot à mot un texte", "Improviser totalement", "Parler sans transitions", "Structurer l’exposé"],
+    "answerIndex": 3,
+    "explication": "La structuration du propos est un critère majeur."
+  },
+  {
+    "question": "20 - La communication non verbale implique :",
+    "options": ["Regarder les auditeurs", "Regarder uniquement le sol", "Être immobile", "Tourner le dos au public"],
+    "answerIndex": 0,
+    "explication": "Le regard est essentiel en communication orale."
+  },
+  {
+    "question": "21 - Un indicateur de réussite non verbal est :",
+    "options": ["Lire constamment sa feuille", "Garder le contact visuel", "Bouger sans cesse", "Parler en regardant le plafond"],
+    "answerIndex": 1,
+    "explication": "Le regard montre l’engagement et facilite l’écoute."
+  },
+  {
+    "question": "22 - La communication paraverbale concerne :",
+    "options": ["Les images projetées",  "La tenue vestimentaire","Le volume, le débit et l’intonation", "La durée de la pause"],
+    "answerIndex": 2,
+    "explication": "Elle touche à la manière de dire le message."
+  },
+  {
+    "question": "23 - Un exposant doit adapter :",
+    "options": ["Le volume de sa voix selon le contexte","La vitesse des diapositives",  "La couleur du fond d’écran", "La taille des gestes"],
+    "answerIndex": 0,
+    "explication": "Il doit se faire entendre et adapter son volume."
+  },
+  {
+    "question": "24 - Un vocabulaire approprié signifie :",
+    "options": ["Employer un registre familier", "Employer des expressions humoristiques", "Ne pas utiliser de termes techniques", "Utiliser un lexique universitaire"],
+    "answerIndex": 3,
+    "explication": "Le registre universitaire est requis."
+  },
+  {
+    "question": "25 - La répartition de la parole doit être :",
+    "options": [ "Donnée au meilleur orateur", "Focalisée sur un seul membre", "Équilibrée entre les membres du groupe","Imposée par l’enseignant"],
+    "answerIndex": 2,
+    "explication": "Chaque membre doit participer de manière équilibrée."
+  },
+  {
+    "question": "26 - Une transition réussie permet :",
+    "options": ["D’arrêter l’exposé", "De lier clairement les parties", "D’éviter de parler", "De répéter l’idée précédente"],
+    "answerIndex": 1,
+    "explication": "Elle lie les parties du discours."
+  },
+  {
+    "question": "27 - L’oral évalué doit présenter :",
+    "options": ["Une articulation entre expérience, entretien et article","Uniquement l’article",  "Uniquement l’expérience personnelle", "Uniquement l’entretien"],
+    "answerIndex": 0,
+    "explication": "L’enseignant attend une confrontation de ces trois éléments."
+  },
+  {
+    "question": "28 - L’exposé doit aussi présenter la démarche pratique du groupe, notamment :",
+    "options": ["Les loisirs du groupe", "Les préférences culinaires", "La gestion du travail et la prise de décision", "Les déplacements de chacun"],
+    "answerIndex": 2,
+    "explication": "Il s’agit d’expliciter l’organisation du groupe."
+  },
+  {
+    "question": "29 - Un exposant ne doit pas :",
+    "options": [ "Faire des transitions", "S’adresser au public", "Utiliser un vocabulaire clair", "Lire entièrement sa feuille"],
+    "answerIndex": 3,
+    "explication": "Il ne doit pas lire, cela empêche la communication orale."
+  },
+  {
+    "question": "30 - Le placement du corps relève de :",
+    "options": ["La communication non verbale", "La conclusion", "La méthodologie", "La problématique"],
+    "answerIndex": 0,
+    "explication": "Le corps fait partie du non-verbal."
+  },
+  {
+    "question": "31 - L’exposant doit assurer :",
+    "options": [ "La rapidité d'élocution", "La complexité du discours", "La clarté du propos","L’absence de transitions"],
+    "answerIndex": 2,
+    "explication": "Le propos doit être clair pour l’auditoire."
+  },
+  {
+    "question": "32 - Les passations de parole doivent être :",
+    "options": ["Improvisées", "Ignorées", "Données au hasard", "Clairement annoncées"],
+    "answerIndex": 3,
+    "explication": "Elles doivent être explicites pour la fluidité du discours."
+  },
+  {
+    "question": "33 - Une limite présentée dans un oral correspond à :",
+    "options": ["Une erreur", "Une réflexion sur les limites du travail", "Un oubli", "Un défaut personnel"],
+    "answerIndex": 1,
+    "explication": "Les limites sont une composante de la réflexion scientifique."
+  },
+  {
+    "question": "34 - Une piste d’ouverture peut être :",
+    "options": ["Une nouvelle question de recherche","Une conclusion humoristique",  "Une critique personnelle", "Une anecdote hors-sujet"],
+    "answerIndex": 0,
+    "explication": "Les pistes d’ouverture élargissent le questionnement."
+  },
+  {
+    "question": "35 - L’attention des auditeurs est favorisée par :",
+    "options": [ "La lecture continue", "L’absence de transitions", "Le contact visuel","Un ton monotone"],
+    "answerIndex": 2,
+    "explication": "Le regard permet de capter l’attention."
+  },
+  {
+    "question": "36 - Un exposant peut aider à comprendre un passage complexe en :",
+    "options": ["Accélérant le débit",  "Changeant de sujet", "Ignorant le passage","Posant des questions et y répondant"],
+    "answerIndex": 3,
+    "explication": "Le cours indique que cette stratégie aide à clarifier."
+  },
+  {
+    "question": "37 - La structure classique d’un exposé comprend :",
+    "options": ["Conclusion, introduction, silence", "Introduction, plan, transitions, conclusion", "Titre, images, bibliographie", "Problème, expérience, remerciements"],
+    "answerIndex": 1,
+    "explication": "C’est la structure recommandée dans le cours."
+  },
+  {
+    "question": "38 - Une phrase comme « Pour conclure… » est :",
+    "options": ["Un connecteur logique", "Une critique", "Une question", "Une hypothèse"],
+    "answerIndex": 0,
+    "explication": "Elle marque la transition vers la conclusion."
+  },
+  {
+    "question": "39 - Parler avec humour peut :",
+    "options": ["Être interdit", "Rendre l’exposé moins clair", "Remplacer l’analyse", "Aider à intéresser le public"],
+    "answerIndex": 3,
+    "explication": "Le cours indique que cela peut maintenir l’attention."
+  },
+  {
+    "question": "40 - La première étape du rituel oral consiste à expliquer :",
+    "options": ["La méthodologie", "Les résultats", "Comment le groupe s’y est pris", "La bibliographie"],
+    "answerIndex": 2,
+    "explication": "Il faut présenter la démarche du groupe."
+  },
+  {
+    "question": "41 - Une consigne importante pour l’oral scientifique est :",
+    "options": ["Ne jamais poser de questions", "Mettre en avant le contenu plutôt que l’éloquence", "Faire un discours théâtral", "Utiliser un style familier"],
+    "answerIndex": 1,
+    "explication": "Le contenu prévaut sur l’éloquence pure."
+  },
+  {
+    "question": "42 - Une phrase comme « Je vais vous parler de… » appartient à :",
+    "options": ["L’expression scientifique attendue","La méthodologie",  "La bibliographie", "La discussion"],
+    "answerIndex": 0,
+    "explication": "Ce sont des expressions attendues dans un oral scientifique."
+  },
+  {
+    "question": "43 - Pour l’évaluation orale, les étudiants doivent :",
+    "options": ["Être improvisés",  "Présenter uniquement un article","Justifier leur question de départ", "Ne pas préparer de plan"],
+    "answerIndex": 2,
+    "explication": "La justification de la question de départ est un attendu."
+  },
+  {
+    "question": "44 - Une piste de réponse dans l’oral évalué doit provenir :",
+    "options": ["De films", "De l’article, de l’entretien et de l’expérience", "De l’imagination personnelle", "De notes anciennes"],
+    "answerIndex": 1,
+    "explication": "Les réponses doivent être issues des trois sources travaillées."
+  },
+  {
+    "question": "45 - Pour s’adresser au public, l’exposant peut :",
+    "options": ["Utiliser l’humour", "Ne jamais regarder le public", "Parler très rapidement", "Éviter les transitions"],
+    "answerIndex": 0,
+    "explication": "Le cours indique que l’humour peut être utilisé pour capter l’attention."
+  },
+  {
+    "question": "46 - Le non verbal inclut :",
+    "options": ["Le volume de la voix", "Les connecteurs logiques", "Les sources bibliographiques", "Le placement du corps"],
+    "answerIndex": 3,
+    "explication": "Le placement du corps fait partie du non verbal."
+  },
+  {
+    "question": "47 - Dans les rétroactions d’auditeurs, il est demandé :",
+    "options": ["D’évaluer la personnalité", "De noter l’apparence", "De juger l’identité du présentateur", "De commenter uniquement la production orale"],
+    "answerIndex": 3,
+    "explication": "Les rétroactions portent uniquement sur la prestation orale."
+  },
+  {
+    "question": "48 - La bienveillance dans les retours signifie :",
+    "options": ["Donner des critiques dures", "Apporter des retours constructifs", "Ignorer les erreurs", "Éviter tout commentaire"],
+    "answerIndex": 1,
+    "explication": "Les retours doivent être constructifs et respectueux."
+  },
+  {
+    "question": "49 - Un critère de réussite est l’illusion de :",
+    "options": ["L’oral spontané", "L’oral improvisé complet", "La lecture expressive", "L'exposé sans transitions"],
+    "answerIndex": 0,
+    "explication": "L’exposant doit donner l'impression d’un oral naturel sans lire."
+  },
+  {
+    "question": "50 - Pour le TD8, les étudiants doivent apporter :",
+    "options": ["Un texte littéraire", "Leur ordinateur", "Un exposé prêt à présenter", "Une bibliographie complète"],
+    "answerIndex": 1,
+    "explication": "Le document indique : « Amenez votre ordinateur »."
+  }
+]

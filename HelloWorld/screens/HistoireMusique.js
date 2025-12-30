@@ -80,17 +80,21 @@ export default function LessonScreen({ navigation }) {
             )}
 
        <View style={styles.linkContainer}>
-                                <Text style={styles.link} onPress={() => navigation.navigate('HistoireMusique')}>✨l’aube de l’âge de la musique classique au XVIIIe siècle</Text>
-                              <Text style={styles.link} onPress={() => navigation.navigate('HistoireMusique2')}>✨l’aube de l’âge de la musique classique au XVIIIe siècle Partie 2</Text>
-                                <Text style={styles.link} onPress={() => navigation.navigate('LexiqueHistoireMusique')}>✨Le lexique </Text>
-                              <Text style={styles.link} onPress={() => navigation.navigate('HistoireMusique3')}>✨Johann Stamitz et sa Symphonie en la majeur</Text>
-                                <Text style={styles.link} onPress={() => navigation.navigate('HistoireMusique4')}>✨Joseph Haydn Symphonie n°87 en La majeur </Text>
-                                <Text style={styles.link} onPress={() => navigation.navigate('HistoireMusique5')}>✨Joseph Haydn Symphonie n°8 en sol majeur « Le Soir » </Text>
-                               <Text style={styles.link} onPress={() => navigation.navigate('HistoireMusique6')}>✨Joseph Haydn Symphonie n°9 en fa mineur « La Passion » </Text>
-                               <Text style={styles.link} onPress={() => navigation.navigate('HistoireMusique7')}>✨Mozart Symphonie n°25 en sol mineur K.183 </Text>
-                                <Text style={styles.link} onPress={() => navigation.navigate('HistoireMusique8')}>✨Mozart Symphonie n°35 K.385 Haffner Premier mouvement</Text>
-                                <Text style={styles.link} onPress={() => navigation.navigate('HistoireMusique9')}>✨Mozart Symphonie n°39 K.543 mi bémol majeur</Text>
-                                 <Text style={styles.link} onPress={() => navigation.navigate('HistoireMusique10')}>✨Mozart Symphonie n°40 K.550 en sol mineur K.183 </Text>
+        <Text style={styles.link} onPress={() => navigation.navigate('HistoireMusique')}>✨l’aube de l’âge de la musique classique au XVIIIe siècle</Text>
+                        <Text style={styles.link} onPress={() => navigation.navigate('HistoireMusique2')}>✨l’aube de l’âge de la musique classique au XVIIIe siècle Partie 2</Text>
+                                                                            <Text style={styles.link} onPress={() => navigation.navigate('HistoireMusique11')}>✨La symphonie dans l’Allemagne du XIXᵉ siècle & Beethoven </Text>
+                                                                            <Text style={styles.link} onPress={() => navigation.navigate('HistoireMusique12')}>✨Beethoven part 2</Text>          
+                                                                          <Text style={styles.link} onPress={() => navigation.navigate('HistoireMusique13')}>✨Robert schumann</Text>  
+                                                                              <Text style={styles.link} onPress={() => navigation.navigate('LexiqueHistoireMusique')}>✨Le lexique </Text>
+                                                                            <Text style={styles.link} onPress={() => navigation.navigate('HistoireMusique3')}>✨Johann Stamitz et sa Symphonie en la majeur</Text>
+                                                                              <Text style={styles.link} onPress={() => navigation.navigate('HistoireMusique4')}>✨Joseph Haydn Symphonie n°87 en La majeur </Text>
+                                                                              <Text style={styles.link} onPress={() => navigation.navigate('HistoireMusique5')}>✨Joseph Haydn Symphonie n°8 en sol majeur « Le Soir » </Text>
+                                                                             <Text style={styles.link} onPress={() => navigation.navigate('HistoireMusique6')}>✨Joseph Haydn Symphonie n°9 en fa mineur « La Passion » </Text>
+                                                                             <Text style={styles.link} onPress={() => navigation.navigate('HistoireMusique7')}>✨Mozart Symphonie n°25 en sol mineur K.183 </Text>
+                                                                              <Text style={styles.link} onPress={() => navigation.navigate('HistoireMusique8')}>✨Mozart Symphonie n°35 K.385 Haffner Premier mouvement</Text>
+                                                                              <Text style={styles.link} onPress={() => navigation.navigate('HistoireMusique9')}>✨Mozart Symphonie n°39 K.543 mi bémol majeur</Text>
+                                                                               <Text style={styles.link} onPress={() => navigation.navigate('HistoireMusique10')}>✨Mozart Symphonie n°40 K.550 en sol mineur K.183 </Text>
+                                                                                             
                                </View>
        
               </ScrollView>

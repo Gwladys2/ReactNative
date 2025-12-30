@@ -1,0 +1,404 @@
+[
+  {
+    "question": "1 - Qui est l’auteur du tableau « La Liberté guidant le peuple » ?",
+    "options": ["Gustave Courbet", "Eugène Delacroix", "Jean-François Millet", "Théodore Géricault"],
+    "answerIndex": 1,
+    "explication": "Le tableau est peint par Eugène Delacroix, figure majeure du romantisme."
+  },
+  {
+    "question": "2 - Quel est le titre complet du tableau ?",
+    "options": [
+      "La Liberté guidant le peuple",
+      "Le 28 juillet 1830",
+      "Le 28 Juillet. La Liberté guidant le peuple",
+      "La Révolution de 1830"
+    ],
+    "answerIndex": 2,
+    "explication": "Le titre complet associe l’événement historique et l’allégorie."
+  },
+  {
+    "question": "3 - À quel événement historique le tableau fait-il référence ?",
+    "options": [
+      "La Révolution de 1789",
+      "La Révolution de 1848",
+      "Les Trois Glorieuses de 1830",
+      "La Commune de Paris"
+    ],
+    "answerIndex": 2,
+    "explication": "Le tableau représente l’assaut final du 28 juillet 1830."
+  },
+  {
+    "question": "4 - Où le tableau est-il conservé aujourd’hui ?",
+    "options": ["Musée du Louvre","Musée d’Orsay",  "Metropolitan Museum", "National Gallery"],
+    "answerIndex": 0,
+    "explication": "L’œuvre est actuellement conservée au musée du Louvre."
+  },
+  {
+    "question": "5 - Quand le tableau est-il présenté au public ?",
+    "options": ["Salon de 1830", "Salon de 1848", "Exposition universelle", "Salon de 1831"],
+    "answerIndex": 3,
+    "explication": "Le tableau est présenté au Salon de 1831."
+  },
+
+  {
+    "question": "6 - Comment est représenté le mouvement général de la scène ?",
+    "options": [
+      "La foule fuit",
+      "La foule converge vers le spectateur",
+      "La foule est immobile",
+      "La foule se disperse"
+    ],
+    "answerIndex": 1,
+    "explication": "La foule avance vers le spectateur, renforçant l’implication de celui-ci."
+  },
+  {
+    "question": "7 - Quelle structure domine la composition ?",
+    "options": ["Circulaire", "Horizontale", "Pyramidale", "Symétrique"],
+    "answerIndex": 2,
+    "explication": "L’action s’élève en pyramide, donnant au tableau une dimension monumentale."
+  },
+  {
+    "question": "8 - Quels types de figures composent la base de la pyramide ?",
+    "options": [
+      "Des figures verticales",
+      "Des figures mythologiques",
+      "Des figures horizontales",
+      "Des figures abstraites"
+    ],
+    "answerIndex": 2,
+    "explication": "La base est constituée de figures horizontales, souvent des cadavres."
+  },
+  {
+    "question": "9 - Quel effet produit cette composition pyramidale ?",
+    "options": [
+      "Un effet de monument",
+      "Un effet décoratif",
+      "Un effet de chaos", 
+      "Un effet d’intimité"
+    ],
+    "answerIndex": 0,
+    "explication": "L’image s’érige en monument, donnant une portée héroïque à la scène."
+  },
+  {
+    "question": "10 - Comment est qualifiée la touche de Delacroix ?",
+    "options": [
+      "Lisse et académique",
+      "Emportée et impétueuse",
+      "Froide et précise",   
+      "Abstraite"
+    ],
+    "answerIndex": 1,
+    "explication": "La touche est dynamique mais équilibrée."
+  },
+
+  {
+    "question": "11 - Que réunit Delacroix dans son tableau ?",
+    "options": [
+      "Mythologie uniquement",
+      "Histoire et religion",
+      "Réalité et allégorie",
+      "Paysage et nature morte"
+    ],
+    "answerIndex": 2,
+    "explication": "Delacroix mêle histoire, fiction, réalité et allégorie."
+  },
+  {
+    "question": "12 - Comment est représentée la Liberté ?",
+    "options": [
+      "Comme une déesse distante",
+      "Comme une femme du peuple",
+      "Comme une reine",
+      "Comme une figure abstraite"
+    ],
+    "answerIndex": 1,
+    "explication": "La Liberté est une fille du peuple, vivante et fougueuse."
+  },
+  {
+    "question": "13 - Quel symbole porte la Liberté sur la tête ?",
+    "options": ["Une couronne", "Un casque", "Un bonnet phrygien", "Un béret"],
+    "answerIndex": 2,
+    "explication": "Le bonnet phrygien renvoie à la Révolution de 1789."
+  },
+  {
+    "question": "14 - Que symbolise le drapeau tricolore ?",
+    "options": [
+      "La monarchie",
+      "La paix",
+      "La religion",
+      "La lutte révolutionnaire"
+    ],
+    "answerIndex": 3,
+    "explication": "Le drapeau est le symbole de la Révolution et du combat."
+  },
+  {
+    "question": "15 - Quelle critique a été faite concernant la Liberté ?",
+    "options": [
+      "Son regard",
+      "La pilosité de son aisselle",
+      "Sa posture",
+      "Sa nudité"
+    ],
+    "answerIndex": 1,
+    "explication": "Cette pilosité a été jugée vulgaire selon les critères académiques."
+  },
+
+  {
+    "question": "16 - À quoi renvoie la nudité partielle de la Liberté ?",
+    "options": [
+      "Au réalisme érotique et à l’Antiquité",
+      "À la provocation",     
+      "À la religion",
+      "À la caricature"
+    ],
+    "answerIndex": 0,
+    "explication": "Elle rappelle les drapés antiques et les Victoires ailées."
+  },
+  {
+    "question": "17 - Pourquoi le fusil rend-il la Liberté moderne ?",
+    "options": [
+      "Parce qu’il est décoratif",
+      "Parce qu’il est symbolique",
+      "Parce qu’il l’ancre dans l’actualité",
+      "Parce qu’il est mythologique"
+    ],
+    "answerIndex": 2,
+    "explication": "Le fusil modèle 1816 inscrit l’allégorie dans le présent."
+  },
+  {
+    "question": "18 - Qui représentent les gamins de Paris ?",
+    "options": [
+      "Les soldats",
+      "Les bourgeois",
+      "Les chefs politiques",
+      "La jeunesse révoltée"
+    ],
+    "answerIndex": 3,
+    "explication": "Ils incarnent la jeunesse engagée dans l’insurrection."
+  },
+  {
+    "question": "19 - À quel personnage littéraire le garçon armé fait-il penser ?",
+    "options": ["Julien Sorel", "Rastignac", "Gavroche", "Eugène Sue"],
+    "answerIndex": 2,
+    "explication": "Il évoque Gavroche, personnage des Misérables de Victor Hugo."
+  },
+  {
+    "question": "20 - Que symbolise cet enfant armé ?",
+    "options": [
+      "Le sacrifice pour les causes nobles",
+      "La naïveté",
+      "La violence gratuite",  
+      "La peur"
+    ],
+    "answerIndex": 0,
+    "explication": "Il incarne le courage et le sacrifice."
+  },
+
+  {
+    "question": "21 - Comment sont identifiées les classes sociales ?",
+    "options": [
+      "Par les visages",
+      "Par les postures",
+      "Par la lumière",
+      "Par les costumes"
+    ],
+    "answerIndex": 3,
+    "explication": "Les costumes permettent d’identifier les origines sociales."
+  },
+  {
+    "question": "22 - Que montre la diversité des personnages ?",
+    "options": [
+      "Toutes les classes sociales",
+      "Une élite",
+      "Un groupe militaire",   
+      "Un peuple homogène"
+    ],
+    "answerIndex": 0,
+    "explication": "Le tableau réunit ouvriers, bourgeois, paysans et étudiants."
+  },
+  {
+    "question": "23 - Quel rôle jouent les cadavres au premier plan ?",
+    "options": [
+      "Décoratif",
+      "Héroïque uniquement",
+      "Ils rappellent la violence du combat",
+      "Ils sont anecdotiques"
+    ],
+    "answerIndex": 2,
+    "explication": "Ils rappellent le prix humain de la révolution."
+  },
+  {
+    "question": "24 - À quel héros antique est comparé l’un des cadavres ?",
+    "options": ["Achille", "Hector", "Ulysse", "Énée"],
+    "answerIndex": 1,
+    "explication": "Le cadavre évoque Hector, héros de l’Iliade."
+  },
+  {
+    "question": "25 - Quel monument situe l’action à Paris ?",
+    "options": [
+      "Le Panthéon",
+      "La Bastille",
+      "Notre-Dame",
+      "Le Louvre"
+    ],
+    "answerIndex": 2,
+    "explication": "Les tours de Notre-Dame situent l’action à Paris."
+  },
+
+  {
+    "question": "26 - L’orientation de Notre-Dame est-elle exacte ?",
+    "options": ["Oui", "Non"],
+    "answerIndex": 1,
+    "explication": "Son orientation sur la rive gauche est inexacte."
+  },
+  {
+    "question": "27 - Que symbolisent les barricades ?",
+    "options": [
+      "La défense",
+      "La séparation sociale",
+      "Le combat révolutionnaire",
+      "La ville"
+    ],
+    "answerIndex": 2,
+    "explication": "Elles sont le symbole du combat populaire."
+  },
+  {
+    "question": "28 - Quelle lumière domine le tableau ?",
+    "options": [
+      "Une lumière de soleil couchant",
+      "Une lumière froide",
+      "Une lumière nocturne",   
+      "Une lumière artificielle"
+    ],
+    "answerIndex": 0,
+    "explication": "La lumière du soleil couchant se mêle à la fumée."
+  },
+  {
+    "question": "29 - Quel rôle joue la lumière autour de la Liberté ?",
+    "options": [
+      "Elle l’efface",
+      "Elle la banalise",
+      "Elle lui donne une aura",
+      "Elle la cache"
+    ],
+    "answerIndex": 2,
+    "explication": "La lumière sert d’aura à la Liberté et au drapeau."
+  },
+  {
+    "question": "30 - Quelles couleurs unifient le tableau ?",
+    "options": [
+      "Vert et brun",
+      "Bleu, blanc et rouge",
+      "Noir et blanc",
+      "Jaune et violet"
+    ],
+    "answerIndex": 1,
+    "explication": "Les couleurs du drapeau structurent l’ensemble."
+  },
+
+  {
+    "question": "31 - La Révolution de 1830 débouche sur quel régime ?",
+    "options": [
+      "La République",
+      "L’Empire",
+      "La monarchie constitutionnelle",
+      "La dictature"
+    ],
+    "answerIndex": 2,
+    "explication": "Elle débouche sur une monarchie constitutionnelle."
+  },
+  {
+    "question": "32 - Comment est représenté le peuple ?",
+    "options": [
+      "Idéal et pur",
+      "Sale et violent",
+      "Calme et discipliné",
+      "Héroïque uniquement"
+    ],
+    "answerIndex": 1,
+    "explication": "Le peuple apparaît comme violent et potentiellement dangereux."
+  },
+  {
+    "question": "33 - Pourquoi l’allégorie est-elle jugée peu divine ?",
+    "options": [
+      "À cause de la violence",
+      "À cause de son apparence populaire",
+      "À cause de la couleur",
+      "À cause du paysage"
+    ],
+    "answerIndex": 1,
+    "explication": "La Liberté est humaine, charnelle et populaire."
+  },
+  {
+    "question": "34 - Quel rôle est attribué au spectateur ?",
+    "options": [
+      "Observateur passif",
+      "Juge moral",
+      "Acteur politique",
+      "Simple visiteur"
+    ],
+    "answerIndex": 2,
+    "explication": "La composition force le spectateur à réagir."
+  },
+  {
+    "question": "35 - Quelle idée traduit la marche vers nous ?",
+    "options": [
+      "Une révolution toujours possible",
+      "Une victoire achevée",
+      "Un mouvement figé",    
+      "Une fuite"
+    ],
+    "answerIndex": 0,
+    "explication": "La révolution est présentée comme toujours en marche."
+  },
+
+  {
+    "question": "36 - Quelle ambivalence est au cœur du tableau ?",
+    "options": [
+      "Beauté / laideur",
+      "Ordre / désordre",
+      "Paix / guerre",
+      "Violence / liberté"
+    ],
+    "answerIndex": 3,
+    "explication": "La violence révolutionnaire est à la fois nécessaire et inquiétante."
+  },
+  {
+    "question": "37 - À quel courant artistique appartient l’œuvre ?",
+    "options": ["Romantisme","Classicisme", "Réalisme",  "Impressionnisme"],
+    "answerIndex": 0,
+    "explication": "Le tableau est emblématique du romantisme."
+  },
+  {
+    "question": "38 - Quelle émotion le romantisme cherche-t-il à provoquer ici ?",
+    "options": [
+      "La distance",
+      "L’indifférence",
+      "De fortes émotions",
+      "Le calme"
+    ],
+    "answerIndex": 2,
+    "explication": "Le romantisme vise le sublime et la tragédie."
+  },
+  {
+    "question": "39 - Que permet la référence à une œuvre célèbre ?",
+    "options": [
+      "Une critique politique",
+      "Une complicité avec le lecteur",
+      "Une neutralité",
+      "Une distance historique"
+    ],
+    "answerIndex": 1,
+    "explication": "Elle crée un plaisir de reconnaissance et une complicité culturelle."
+  },
+  {
+    "question": "40 - Quelle image finale du peuple se dégage du bilan ?",
+    "options": [
+      "Un peuple héroïque et uni",
+      "Une populace dangereuse",
+      "Un peuple idéalisé",
+      "Un peuple pacifique"
+    ],
+    "answerIndex": 1,
+    "explication": "Le peuple est présenté comme une masse populaire, violente et inquiétante."
+  }
+]

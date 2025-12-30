@@ -1,0 +1,560 @@
+[
+  {
+    "question": "1 - Qu’est-ce que le Sang (XUE) en Médecine Traditionnelle Chinoise ?",
+    "options": [
+      "Un liquide uniquement matériel comme en médecine occidentale",
+      "Une énergie invisible",
+      "Une substance nourricière issue du Qi",
+      "Un organe"
+    ],
+    "answerIndex": 2,
+    "explication": "En MTC, le Sang (Xue) n’est pas seulement un liquide matériel. Il est formé à partir du Qi nourricier (Ying Qi) et des Liquides Organiques. Il nourrit le corps et soutient l’activité mentale. Par exemple, un manque de Sang peut donner fatigue et troubles du sommeil."
+  },
+  {
+    "question": "2 - De quoi est principalement constitué le Sang (XUE) ?",
+    "options": [
+      "Du Qi défensif uniquement",
+      "Du Ying Qi et des Liquides Organiques",
+      "Du Jing inné",
+      "Du Wei Qi"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Sang est composé du Qi nourricier (Ying Qi) et des Liquides Organiques issus de la digestion. Ces deux éléments se combinent dans les vaisseaux pour former le Sang."
+  },
+  {
+    "question": "3 - Quelle est la nature du Sang selon le Yin et le Yang ?",
+    "options": [
+      "Yang",
+      "Neutre",
+      "Yin",
+      "Variable"
+    ],
+    "answerIndex": 2,
+    "explication": "Le Sang est de nature Yin : il est visible, dense et relativement immobile. Il sert à contrôler et stabiliser l’activité Yang du Qi et de l’esprit."
+  },
+  {
+    "question": "4 - Quelle est la relation entre le Qi et le Sang ?",
+    "options": [
+      "Ils sont indépendants",
+      "Le Sang crée le Qi",
+      "Le Qi produit et fait circuler le Sang",
+      "Ils n’ont aucun lien"
+    ],
+    "answerIndex": 2,
+    "explication": "Le Qi est indispensable pour fabriquer le Sang et pour le faire circuler. Sans Qi, le Sang ne peut ni se former ni circuler correctement."
+  },
+  {
+    "question": "5 - Quel organe transforme les aliments pour participer à la formation du Sang ?",
+    "options": [
+      "Le Cœur",
+      "Le Foie",
+      "La Rate",
+      "Le Poumon"
+    ],
+    "answerIndex": 2,
+    "explication": "La Rate transforme les aliments et produit le Qi nourricier (Ying Qi), qui est la base de la formation du Sang."
+  },
+  {
+    "question": "6 - Quel organe apporte l’énergie de l’air au Sang ?",
+    "options": [
+      "Le Rein",
+      "Le Poumon",
+      "La Rate",
+      "Le Foie"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Poumon apporte l’énergie de l’air (Qi respiratoire) au Sang, ce qui correspond à l’oxygénation en termes modernes."
+  },
+  {
+    "question": "7 - Quel organe gouverne la circulation du Sang ?",
+    "options": [
+      "La Rate",
+      "Le Foie",
+      "Le Cœur",
+      "Le Rein"
+    ],
+    "answerIndex": 2,
+    "explication": "Le Cœur gouverne le Sang et assure sa propulsion dans les vaisseaux."
+  },
+  {
+    "question": "8 - Quel organe stocke le Sang et régule son volume ?",
+    "options": [
+      "Le Cœur",
+      "La Rate",
+      "Le Foie",
+      "Le Poumon"
+    ],
+    "answerIndex": 2,
+    "explication": "Le Foie stocke le Sang et le libère selon les besoins (repos, effort physique, menstruations)."
+  },
+  {
+    "question": "9 - Quel organe empêche le Sang de sortir des vaisseaux ?",
+    "options": [
+      "Le Cœur",
+      "La Rate",
+      "Le Foie",
+      "Le Poumon"
+    ],
+    "answerIndex": 1,
+    "explication": "La Rate maintient le Sang dans les vaisseaux. Si elle est faible, cela peut provoquer des hémorragies ou des règles abondantes."
+  },
+  {
+    "question": "10 - Quel organe enrichit le Sang grâce à la moelle ?",
+    "options": [
+      "Le Poumon",
+      "Le Foie",
+      "Le Rein",
+      "La Rate"
+    ],
+    "answerIndex": 2,
+    "explication": "Le Rein produit la moelle (os, cerveau) qui enrichit le Sang. Il existe une relation étroite entre le Jing et le Sang."
+  },
+
+  {
+    "question": "11 - Quelle est la première fonction du Sang ?",
+    "options": [
+      "Défendre le corps",
+      "Nourrir et humidifier les tissus",
+      "Produire le Qi",
+      "Éliminer les déchets"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Sang nourrit et humidifie les muscles, la peau, les os, les articulations et les cheveux."
+  },
+  {
+    "question": "12 - Quels signes indiquent un Sang en bonne santé ?",
+    "options": [
+      "Peau sèche et cheveux cassants",
+      "Tendons souples et peau hydratée",
+      "Fatigue intense",
+      "Vertiges fréquents"
+    ],
+    "answerIndex": 1,
+    "explication": "Un Sang harmonieux donne une peau souple, des muscles nourris et des articulations mobiles."
+  },
+  {
+    "question": "13 - Quelle est la deuxième fonction majeure du Sang ?",
+    "options": [
+      "Réchauffer le corps",
+      "Ancrer l’esprit (Shen)",
+      "Défendre contre le froid",
+      "Produire les urines"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Sang est le support matériel du Shen (esprit). Il permet un bon équilibre émotionnel et mental."
+  },
+  {
+    "question": "14 - Un manque de Sang peut provoquer :",
+    "options": [
+      "Excès d’énergie",
+      "Calme mental",
+      "Anxiété et insomnies",
+      "Fièvre élevée"
+    ],
+    "answerIndex": 2,
+    "explication": "Quand le Sang est insuffisant, le Shen n’est plus ancré, ce qui entraîne anxiété, sommeil léger et rêves abondants."
+  },
+  {
+    "question": "15 - Quel syndrome est fréquent après un accouchement selon la MTC ?",
+    "options": [
+      "Excès de Qi",
+      "Vide de Sang",
+      "Chaleur du Foie",
+      "Stagnation des Liquides"
+    ],
+    "answerIndex": 1,
+    "explication": "Le post-partum entraîne une perte de Sang. Si elle n’est pas compensée, cela peut provoquer dépression ou baby blues."
+  },
+
+  {
+    "question": "16 - Qu’est-ce qu’un Vide de Sang ?",
+    "options": [
+      "Une infection",
+      "Un manque de Qi défensif",
+      "Une insuffisance de Sang",
+      "Une stagnation de Liquides"
+    ],
+    "answerIndex": 2,
+    "explication": "Le Vide de Sang correspond à une quantité insuffisante de Sang pour nourrir correctement le corps et l’esprit."
+  },
+  {
+    "question": "17 - Quel symptôme est typique du Vide de Sang ?",
+    "options": [
+      "Douleurs piquantes",
+      "Fièvre élevée",
+      "Vertiges et pâleur",
+      "Œdèmes"
+    ],
+    "answerIndex": 2,
+    "explication": "Le Vide de Sang donne des vertiges, une pâleur, une fatigue et parfois des tremblements."
+  },
+  {
+    "question": "18 - Qu’est-ce que la Stagnation du Sang ?",
+    "options": [
+      "Un excès de Liquides",
+      "Une mauvaise circulation du Sang",
+      "Une infection",
+      "Un manque de Qi"
+    ],
+    "answerIndex": 1,
+    "explication": "La Stagnation du Sang correspond à un Sang qui ne circule plus librement, souvent à cause du froid ou d’un traumatisme."
+  },
+  {
+    "question": "19 - Quel type de douleur indique une Stagnation du Sang ?",
+    "options": [
+      "Douleur sourde",
+      "Douleur piquante et localisée",
+      "Douleur diffuse",
+      "Absence de douleur"
+    ],
+    "answerIndex": 1,
+    "explication": "La douleur est vive, fixe et piquante, comme un coup de couteau."
+  },
+  {
+    "question": "20 - Qu’est-ce que la Chaleur du Sang ?",
+    "options": [
+      "Un manque de Liquides",
+      "Une infection bactérienne",
+      "Un Sang chauffé par un facteur pathogène",
+      "Un excès de froid"
+    ],
+    "answerIndex": 2,
+    "explication": "La Chaleur du Sang provoque saignements, éruptions cutanées, agitation mentale."
+  },
+
+  {
+    "question": "21 - Que sont les Liquides Organiques (JIN YE) ?",
+    "options": [
+      "Uniquement le sang",
+      "Tous les liquides utiles du corps",
+      "Les urines seulement",
+      "Les hormones uniquement"
+    ],
+    "answerIndex": 1,
+    "explication": "Les Liquides Organiques regroupent tous les liquides physiologiques : salive, sueur, mucus, liquides articulaires, etc."
+  },
+  {
+    "question": "22 - Combien de types de Liquides Organiques existe-t-il ?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answerIndex": 1,
+    "explication": "On distingue deux types : les Jin (fluides) et les Ye (visqueux)."
+  },
+  {
+    "question": "23 - Les Jin sont plutôt :",
+    "options": [
+      "Denses et profonds",
+      "Visqueux",
+      "Fluides et superficiels",
+      "Solides"
+    ],
+    "answerIndex": 2,
+    "explication": "Les Jin sont fluides, clairs et circulent surtout à la surface du corps."
+  },
+  {
+    "question": "24 - Les Ye sont plutôt :",
+    "options": [
+      "Très mobiles",
+      "Superficiels",
+      "Denses et profonds",
+      "Gazeux"
+    ],
+    "answerIndex": 2,
+    "explication": "Les Ye sont plus épais, visqueux et nourrissent les organes, articulations et le cerveau."
+  },
+  {
+    "question": "25 - Quelle est la nature Yin/Yang des Jin ?",
+    "options": [
+      "Yin",
+      "Yang",
+      "Neutre",
+      "Variable"
+    ],
+    "answerIndex": 1,
+    "explication": "Les Jin sont plutôt Yang : fluides, mobiles et superficiels."
+  },
+
+  {
+    "question": "26 - Quelle est la nature Yin/Yang des Ye ?",
+    "options": [
+      "Yang",
+      "Neutre",
+      "Yin",
+      "Mixte"
+    ],
+    "answerIndex": 2,
+    "explication": "Les Ye sont Yin : plus épais, profonds et nourrissants."
+  },
+  {
+    "question": "27 - D’où proviennent les Liquides Organiques ?",
+    "options": [
+      "Du Jing inné",
+      "De l’air",
+      "Des aliments et boissons",
+      "Du Wei Qi"
+    ],
+    "answerIndex": 2,
+    "explication": "Les Liquides Organiques proviennent des aliments solides et liquides transformés par la digestion."
+  },
+  {
+    "question": "28 - Quel organe fabrique et transporte les Liquides Organiques ?",
+    "options": [
+      "Le Foie",
+      "La Rate",
+      "Le Cœur",
+      "Le Poumon"
+    ],
+    "answerIndex": 1,
+    "explication": "La Rate est responsable de la transformation et du transport des Liquides Organiques."
+  },
+  {
+    "question": "29 - Quel organe assure la diffusion et la descente des Liquides Organiques ?",
+    "options": [
+      "Le Rein",
+      "Le Poumon",
+      "La Vessie",
+      "Le Foie"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Poumon diffuse les liquides vers la surface et les fait descendre vers le bas."
+  },
+  {
+    "question": "30 - Quel organe est la force motrice de l’élimination des Liquides ?",
+    "options": [
+      "Le Cœur",
+      "La Rate",
+      "Le Rein",
+      "Le Foie"
+    ],
+    "answerIndex": 2,
+    "explication": "Le Rein vaporise les liquides purs et élimine les impurs via la Vessie."
+  },
+
+  {
+    "question": "31 - Quel organe fabrique l’urine en MTC ?",
+    "options": [
+      "Le Rein",
+      "La Vessie",
+      "Le Poumon",
+      "La Rate"
+    ],
+    "answerIndex": 1,
+    "explication": "En MTC, c’est la Vessie qui fabrique l’urine à partir du Yang des Reins."
+  },
+  {
+    "question": "32 - Quelle est la fonction principale des Liquides Organiques ?",
+    "options": [
+      "Produire le Qi",
+      "Humidifier et nourrir",
+      "Réchauffer",
+      "Défendre"
+    ],
+    "answerIndex": 1,
+    "explication": "Les Liquides Organiques humidifient et nourrissent toutes les cellules du corps."
+  },
+  {
+    "question": "33 - Les Liquides Organiques participent-ils à la formation du Sang ?",
+    "options": [
+      "Non",
+      "Oui",
+      "Uniquement chez l’enfant",
+      "Seulement chez la femme"
+    ],
+    "answerIndex": 1,
+    "explication": "Ils nourrissent et fluidifient le Sang et participent à sa formation."
+  },
+  {
+    "question": "34 - Les Liquides Organiques aident à équilibrer :",
+    "options": [
+      "Le Qi uniquement",
+      "Le Yin et le Yang",
+      "Les émotions",
+      "Les muscles"
+    ],
+    "answerIndex": 1,
+    "explication": "Ils régulent la température et maintiennent l’équilibre Yin/Yang."
+  },
+  {
+    "question": "35 - Une insuffisance de Liquides Organiques provoque surtout :",
+    "options": [
+      "Œdèmes",
+      "Douleurs piquantes",
+      "Sécheresse",
+      "Fièvre élevée"
+    ],
+    "answerIndex": 2,
+    "explication": "Manque de liquides = sécheresse (yeux, peau, intestins, poumons)."
+  },
+
+  {
+    "question": "36 - Quel organe faut-il tonifier pour nourrir les Liquides Organiques ?",
+    "options": [
+      "Le Cœur",
+      "La Rate",
+      "Le Foie",
+      "Le Poumon"
+    ],
+    "answerIndex": 1,
+    "explication": "La Rate est essentielle pour produire suffisamment de Liquides Organiques."
+  },
+  {
+    "question": "37 - Pour bien nourrir le Sang, il faut tonifier :",
+    "options": [
+      "Le Yang",
+      "Le Yin",
+      "Le Wei Qi",
+      "Le Zong Qi"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Sang étant Yin, il faut nourrir le Yin du corps, notamment Rate et Reins."
+  },
+  {
+    "question": "38 - Pour améliorer la circulation du Sang, il faut harmoniser :",
+    "options": [
+      "La Rate",
+      "Le Foie",
+      "Le Rein",
+      "Le Poumon"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Foie contrôle la circulation du Qi, qui elle-même contrôle celle du Sang."
+  },
+  {
+    "question": "39 - Le Sang est-il uniquement matériel ?",
+    "options": [
+      "Oui",
+      "Non",
+      "Uniquement chez l’adulte",
+      "Uniquement chez l’enfant"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Sang a une composante énergétique et soutient l’esprit."
+  },
+  {
+    "question": "40 - Un Sang abondant et bien circulant permet :",
+    "options": [
+      "Une agitation mentale",
+      "Une bonne stabilité émotionnelle",
+      "Une fièvre",
+      "Une sécheresse"
+    ],
+    "answerIndex": 1,
+    "explication": "Un Sang de bonne qualité ancre le Shen et stabilise les émotions."
+  },
+
+  {
+    "question": "41 - Le Sang nourrit-il le cerveau ?",
+    "options": [
+      "Non",
+      "Oui",
+      "Seulement chez l’enfant",
+      "Seulement chez la femme"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Sang nourrit le cerveau et soutient les fonctions mentales et sensorielles."
+  },
+  {
+    "question": "42 - Une personne distraite et dépressive peut souffrir de :",
+    "options": [
+      "Chaleur du Sang",
+      "Vide de Sang",
+      "Excès de Qi",
+      "Stagnation de Liquides"
+    ],
+    "answerIndex": 1,
+    "explication": "Le manque de Sang empêche l’ancrage du Shen, entraînant tristesse et distraction."
+  },
+  {
+    "question": "43 - Pour réduire le vent interne, il faut :",
+    "options": [
+      "Réchauffer le Yang",
+      "Nourrir le Sang",
+      "Éliminer les Liquides",
+      "Tonifier le Wei Qi"
+    ],
+    "answerIndex": 1,
+    "explication": "Pas assez de Sang laisse la place au vent (tremblements, spasmes)."
+  },
+  {
+    "question": "44 - Les Liquides Organiques permettent aussi :",
+    "options": [
+      "L’élimination des déchets",
+      "La production du Jing",
+      "La montée du Qi",
+      "La défense"
+    ],
+    "answerIndex": 0,
+    "explication": "Ils éliminent continuellement les déchets métaboliques."
+  },
+  {
+    "question": "45 - Les Jin Ye peuvent-ils se transformer l’un en l’autre ?",
+    "options": [
+      "Non",
+      "Oui",
+      "Seulement les Jin",
+      "Seulement les Ye"
+    ],
+    "answerIndex": 1,
+    "explication": "Les Jin et les Ye peuvent se transformer selon les besoins du corps."
+  },
+
+  {
+    "question": "46 - Les Liquides Organiques sont-ils Yin ou Yang ?",
+    "options": [
+      "Uniquement Yin",
+      "Uniquement Yang",
+      "Les deux",
+      "Neutres"
+    ],
+    "answerIndex": 2,
+    "explication": "Les Jin sont plutôt Yang, les Ye plutôt Yin."
+  },
+  {
+    "question": "47 - Sans Qi, les Liquides Organiques peuvent-ils se former ?",
+    "options": [
+      "Oui",
+      "Non",
+      "Uniquement la nuit",
+      "Uniquement chez l’enfant"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Qi est nécessaire à la transformation et au mouvement des Liquides."
+  },
+  {
+    "question": "48 - Une bonne santé repose sur :",
+    "options": [
+      "Beaucoup de muscles",
+      "Un Sang et des Liquides équilibrés",
+      "L’âge",
+      "La génétique"
+    ],
+    "answerIndex": 1,
+    "explication": "Sang et Liquides nourrissent, humidifient et stabilisent le corps et l’esprit."
+  },
+  {
+    "question": "49 - Le Sang permet principalement :",
+    "options": [
+      "La défense",
+      "La nutrition et l’ancrage du Shen",
+      "La respiration",
+      "La transpiration"
+    ],
+    "answerIndex": 1,
+    "explication": "Il nourrit le corps et soutient l’activité mentale."
+  },
+  {
+    "question": "50 - En résumé, Sang et Liquides Organiques servent à :",
+    "options": [
+      "Créer la maladie",
+      "Soutenir la vie",
+      "Produire le Wei Qi",
+      "Stocker le Jing"
+    ],
+    "answerIndex": 1,
+    "explication": "Ils nourrissent, humidifient, stabilisent et permettent le bon fonctionnement du corps et de l’esprit."
+  }
+]

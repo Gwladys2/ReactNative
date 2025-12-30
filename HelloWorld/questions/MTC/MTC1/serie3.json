@@ -1,0 +1,561 @@
+[
+  {
+    "question": "1 - Pourquoi parle-t-on plutôt de « 5 mouvements » que de « 5 éléments » en MTC ?",
+    "options": [
+      "Parce qu’ils sont matériels",
+      "Parce qu’ils sont fixes",
+      "Parce qu’ils représentent des dynamiques et des transformations",
+      "Parce qu’ils correspondent aux organes"
+    ],
+    "answerIndex": 2,
+    "explication": "En MTC, les 5 éléments ne sont pas des objets fixes mais des mouvements, des phases de transformation (comme les saisons ou les moments de la journée)."
+  },
+  {
+    "question": "2 - Les 5 éléments sont-ils liés au Yin et au Yang ?",
+    "options": [
+      "Non",
+      "Oui, ils fonctionnent indépendamment",
+      "Oui, ils reposent sur l’alternance Yin/Yang",
+      "Uniquement en acupuncture"
+    ],
+    "answerIndex": 2,
+    "explication": "Les 5 éléments reposent sur l’alternance du Yin et du Yang : croissance, apogée, décroissance, repos."
+  },
+  {
+    "question": "3 - À quelle période historique la théorie des 5 éléments est-elle devenue très populaire ?",
+    "options": [
+      "Dynastie Ming",
+      "Royaumes Combattants et Han occidentaux",
+      "Dynastie Song uniquement",
+      "Époque moderne"
+    ],
+    "answerIndex": 1,
+    "explication": "La théorie a connu un fort succès pendant les Royaumes Combattants et la dynastie des Han occidentaux."
+  },
+  {
+    "question": "4 - Pourquoi Wang Chong critiquait-il la théorie des 5 éléments ?",
+    "options": [
+      "Elle était trop simple",
+      "Elle était trop rigide",
+      "Elle était trop moderne",
+      "Elle ne concernait pas la médecine"
+    ],
+    "answerIndex": 1,
+    "explication": "Wang Chong estimait que cette théorie était trop rigide pour expliquer tous les phénomènes naturels."
+  },
+  {
+    "question": "5 - Quelle affirmation est vraie concernant l’usage clinique des 5 éléments aujourd’hui ?",
+    "options": [
+      "Tout le tableau est indispensable",
+      "Aucun élément n’est utile",
+      "Certains critères sont obsolètes",
+      "Ils remplacent le diagnostic occidental"
+    ],
+    "answerIndex": 2,
+    "explication": "Le cours précise que de nombreux critères sont aujourd’hui obsolètes ; seuls certains sont utiles en pratique."
+  },
+
+  {
+    "question": "6 - Quel élément est associé à la croissance et à l’expansion ?",
+    "options": [
+      "Feu",
+      "Terre",
+      "Bois",
+      "Métal"
+    ],
+    "answerIndex": 2,
+    "explication": "Le Bois symbolise la croissance, comme une plante qui pousse vers le haut et s’étend."
+  },
+  {
+    "question": "7 - Quelle émotion est associée à l’élément Bois ?",
+    "options": [
+      "La joie",
+      "La peur",
+      "La tristesse",
+      "La colère"
+    ],
+    "answerIndex": 3,
+    "explication": "La colère est expansive et montante, ce qui correspond à la dynamique du Bois."
+  },
+  {
+    "question": "8 - Quel élément est associé à la chaleur ?",
+    "options": [
+      "Bois",
+      "Feu",
+      "Terre",
+      "Eau"
+    ],
+    "answerIndex": 1,
+    "explication": "Tout ce qui produit de la chaleur est classé dans l’élément Feu."
+  },
+  {
+    "question": "9 - Pourquoi la Terre est-elle considérée comme centrale ?",
+    "options": [
+      "Parce qu’elle est chaude",
+      "Parce qu’elle contient les os",
+      "Parce qu’elle transforme et nourrit",
+      "Parce qu’elle correspond à l’hiver"
+    ],
+    "answerIndex": 2,
+    "explication": "La Terre reçoit, transforme et permet la naissance, comme la digestion ou la gestation."
+  },
+  {
+    "question": "10 - Quel exemple illustre bien la fonction de transformation de la Terre ?",
+    "options": [
+      "La pluie",
+      "La germination d’une graine",
+      "Le vent",
+      "Le gel"
+    ],
+    "answerIndex": 1,
+    "explication": "Une graine devient une plante grâce à la transformation assurée par la Terre."
+  },
+
+  {
+    "question": "11 - Quelle caractéristique définit le Métal ?",
+    "options": [
+      "Souple",
+      "Humide",
+      "Dur et astringent",
+      "Chaud"
+    ],
+    "answerIndex": 2,
+    "explication": "Le Métal est dur et astringent : il resserre et structure."
+  },
+  {
+    "question": "12 - Quelle direction est associée à l’Eau ?",
+    "options": [
+      "Sud",
+      "Est",
+      "Nord",
+      "Centre"
+    ],
+    "answerIndex": 2,
+    "explication": "Le Nord est associé au froid et donc à l’Eau."
+  },
+  {
+    "question": "13 - Quelle saison correspond à l’élément Bois ?",
+    "options": [
+      "Hiver",
+      "Été",
+      "Automne",
+      "Printemps"
+    ],
+    "answerIndex": 3,
+    "explication": "Le printemps est la saison de la croissance, donc du Bois."
+  },
+  {
+    "question": "14 - Quelle saison correspond à l’élément Métal ?",
+    "options": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "answerIndex": 2,
+    "explication": "L’automne correspond au Métal, saison de repli et de dessèchement."
+  },
+  {
+    "question": "15 - Quel organe appartient à l’élément Bois ?",
+    "options": [
+      "Cœur",
+      "Rate",
+      "Foie",
+      "Rein"
+    ],
+    "answerIndex": 2,
+    "explication": "Le Foie est classé dans l’élément Bois."
+  },
+
+  {
+    "question": "16 - Quelle entraille est associée au Foie ?",
+    "options": [
+      "Estomac",
+      "Intestin grêle",
+      "Vésicule biliaire",
+      "Vessie"
+    ],
+    "answerIndex": 2,
+    "explication": "Chaque organe Yin est associé à une entraille Yang : le Foie avec la Vésicule Biliaire."
+  },
+  {
+    "question": "17 - Quel organe est lié à la peur ?",
+    "options": [
+      "Foie",
+      "Cœur",
+      "Rein",
+      "Poumon"
+    ],
+    "answerIndex": 2,
+    "explication": "La peur est associée à l’élément Eau et donc aux Reins."
+  },
+  {
+    "question": "18 - Les oreilles sont reliées à quel organe ?",
+    "options": [
+      "Poumon",
+      "Cœur",
+      "Foie",
+      "Rein"
+    ],
+    "answerIndex": 3,
+    "explication": "En MTC, les oreilles sont liées aux Reins. Exemple : des acouphènes sans cause médicale peuvent venir d’un déséquilibre du Rein."
+  },
+  {
+    "question": "19 - Quelle saveur est associée à la Rate ?",
+    "options": [
+      "Acide",
+      "Amer",
+      "Sucré",
+      "Piquant"
+    ],
+    "answerIndex": 2,
+    "explication": "Le goût sucré est associé à la Terre et à la Rate."
+  },
+  {
+    "question": "20 - Une envie excessive de sucré indique souvent :",
+    "options": [
+      "Un excès du Poumon",
+      "Un déséquilibre de la Rate",
+      "Un problème du Foie",
+      "Un excès de Rein"
+    ],
+    "answerIndex": 1,
+    "explication": "Le grignotage sucré traduit souvent un déséquilibre de la Rate."
+  },
+
+  {
+    "question": "21 - Quel cycle décrit la relation mère-fils ?",
+    "options": [
+      "Cycle de contrôle",
+      "Cycle de destruction",
+      "Cycle d’engendrement",
+      "Cycle d’opposition"
+    ],
+    "answerIndex": 2,
+    "explication": "Le cycle d’engendrement décrit comment un élément nourrit le suivant (ex : Eau → Bois)."
+  },
+  {
+    "question": "22 - Dans le cycle d’engendrement, quel est le fils du Bois ?",
+    "options": [
+      "Terre",
+      "Eau",
+      "Feu",
+      "Métal"
+    ],
+    "answerIndex": 2,
+    "explication": "Le Bois alimente le Feu : le Feu est donc le fils du Bois."
+  },
+  {
+    "question": "23 - Quel élément contrôle le Feu ?",
+    "options": [
+      "Bois",
+      "Métal",
+      "Eau",
+      "Terre"
+    ],
+    "answerIndex": 2,
+    "explication": "L’eau éteint le feu : c’est la relation de contrôle."
+  },
+  {
+    "question": "24 - Le cycle de contrôle est aussi appelé :",
+    "options": [
+      "Cycle mère-fils",
+      "Cycle d’harmonie",
+      "Cycle grand-mère / petit-fils",
+      "Cycle Yin/Yang"
+    ],
+    "answerIndex": 2,
+    "explication": "Chaque élément contrôle celui situé deux positions plus loin."
+  },
+  {
+    "question": "25 - Que se passe-t-il si le contrôle est trop fort ?",
+    "options": [
+      "L’élément contrôlé disparaît",
+      "Il y a oppression",
+      "Il y a guérison",
+      "Il y a transformation Yin/Yang"
+    ],
+    "answerIndex": 1,
+    "explication": "Un contrôle excessif provoque une oppression, comme un Bois trop fort qui épuise la Terre."
+  },
+
+  {
+    "question": "26 - L’expression « le Bois soulève la Terre » signifie :",
+    "options": [
+      "Un excès de Rate",
+      "Un excès du Foie qui perturbe la digestion",
+      "Un excès du Rein",
+      "Un excès du Poumon"
+    ],
+    "answerIndex": 1,
+    "explication": "Un Foie trop fort (stress, colère) perturbe la Rate (digestion)."
+  },
+  {
+    "question": "27 - Quel organe est responsable de la digestion en MTC ?",
+    "options": [
+      "Foie",
+      "Cœur",
+      "Rate",
+      "Rein"
+    ],
+    "answerIndex": 2,
+    "explication": "La Rate est responsable de la transformation des aliments."
+  },
+  {
+    "question": "28 - Une sécheresse du Poumon peut entraîner :",
+    "options": [
+      "Diarrhée",
+      "Constipation",
+      "Vomissements",
+      "Ballonnements"
+    ],
+    "answerIndex": 1,
+    "explication": "Poumon et Gros Intestin sont liés : la sécheresse se transmet."
+  },
+  {
+    "question": "29 - Quel élément est associé à la peau ?",
+    "options": [
+      "Bois",
+      "Feu",
+      "Métal",
+      "Eau"
+    ],
+    "answerIndex": 2,
+    "explication": "La peau est associée au Poumon, donc à l’élément Métal."
+  },
+  {
+    "question": "30 - Quel organe faut-il traiter pour une sécheresse cutanée ?",
+    "options": [
+      "Foie",
+      "Cœur",
+      "Poumon",
+      "Rein"
+    ],
+    "answerIndex": 2,
+    "explication": "En MTC, la sécheresse de la peau est liée au Poumon."
+  },
+
+  {
+    "question": "31 - Quelle émotion est liée au Poumon ?",
+    "options": [
+      "Colère",
+      "Joie",
+      "Tristesse",
+      "Peur"
+    ],
+    "answerIndex": 2,
+    "explication": "La tristesse est associée à l’élément Métal et au Poumon."
+  },
+  {
+    "question": "32 - Quelle couleur correspond au Foie ?",
+    "options": [
+      "Rouge",
+      "Jaune",
+      "Vert",
+      "Noir"
+    ],
+    "answerIndex": 2,
+    "explication": "Le vert est la couleur du printemps et du Bois."
+  },
+  {
+    "question": "33 - Quel climat est associé au Foie ?",
+    "options": [
+      "Chaleur",
+      "Humidité",
+      "Vent",
+      "Froid"
+    ],
+    "answerIndex": 2,
+    "explication": "Le vent est associé au Bois et au Foie."
+  },
+  {
+    "question": "34 - Pourquoi les problèmes aux yeux s’aggravent-ils souvent au printemps ?",
+    "options": [
+      "À cause du pollen",
+      "À cause du vent et du Bois",
+      "À cause du froid",
+      "À cause de la chaleur"
+    ],
+    "answerIndex": 1,
+    "explication": "Le printemps active l’énergie du Bois, liée au Foie et aux yeux."
+  },
+  {
+    "question": "35 - Le Cœur appartient à quel élément ?",
+    "options": [
+      "Bois",
+      "Feu",
+      "Terre",
+      "Métal"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Cœur est associé à l’élément Feu."
+  },
+
+  {
+    "question": "36 - Quelle émotion est liée au Cœur ?",
+    "options": [
+      "Peur",
+      "Colère",
+      "Joie",
+      "Tristesse"
+    ],
+    "answerIndex": 2,
+    "explication": "La joie excessive ou insuffisante est liée au Cœur."
+  },
+  {
+    "question": "37 - Quel sens est associé au Cœur ?",
+    "options": [
+      "L’odorat",
+      "La vue",
+      "Le toucher",
+      "Le goût via la langue"
+    ],
+    "answerIndex": 3,
+    "explication": "La langue est l’organe des sens associé au Cœur."
+  },
+  {
+    "question": "38 - Le Rein est associé à quel tissu ?",
+    "options": [
+      "Peau",
+      "Muscles",
+      "Os et moelle",
+      "Tendons"
+    ],
+    "answerIndex": 2,
+    "explication": "Les Reins gouvernent les os et la moelle."
+  },
+  {
+    "question": "39 - Une lombalgie associée à des acouphènes évoque :",
+    "options": [
+      "Un trouble du Foie",
+      "Un trouble du Rein",
+      "Un trouble du Poumon",
+      "Un trouble du Cœur"
+    ],
+    "answerIndex": 1,
+    "explication": "Les Reins sont liés aux lombes et aux oreilles."
+  },
+  {
+    "question": "40 - Le cycle de contrôle sert principalement à :",
+    "options": [
+      "Créer des maladies",
+      "Maintenir l’équilibre",
+      "Bloquer l’énergie",
+      "Supprimer un élément"
+    ],
+    "answerIndex": 1,
+    "explication": "Le cycle de contrôle empêche qu’un élément devienne excessif."
+  },
+
+  {
+    "question": "41 - L’auto-régulation signifie :",
+    "options": [
+      "Un déséquilibre permanent",
+      "Un retour spontané à l’équilibre",
+      "Une destruction d’un élément",
+      "Une maladie chronique"
+    ],
+    "answerIndex": 1,
+    "explication": "Grâce aux relations entre éléments, le système tend à revenir à l’équilibre."
+  },
+  {
+    "question": "42 - Si le Métal est trop fort, que se passe-t-il ensuite ?",
+    "options": [
+      "Le Bois augmente",
+      "Le Bois diminue",
+      "La Terre disparaît",
+      "Le Feu s’éteint définitivement"
+    ],
+    "answerIndex": 1,
+    "explication": "Un Métal excessif contrôle trop le Bois, qui s’affaiblit."
+  },
+  {
+    "question": "43 - Fu Qi signifie :",
+    "options": [
+      "Qi bloqué",
+      "Qi pathologique",
+      "Qi normal retrouvé",
+      "Qi externe"
+    ],
+    "answerIndex": 2,
+    "explication": "Fu Qi est le retour au Qi normal après auto-régulation."
+  },
+  {
+    "question": "44 - Les 5 éléments servent surtout à :",
+    "options": [
+      "Poser des diagnostics occidentaux",
+      "Relier des symptômes entre eux",
+      "Faire des analyses biologiques",
+      "Mesurer l’énergie"
+    ],
+    "answerIndex": 1,
+    "explication": "Ils permettent de relier des symptômes apparemment sans lien."
+  },
+  {
+    "question": "45 - Une myopie, des ongles cassants et de l’irritabilité évoquent :",
+    "options": [
+      "Un déséquilibre du Métal",
+      "Un déséquilibre du Bois",
+      "Un déséquilibre du Feu",
+      "Un déséquilibre de l’Eau"
+    ],
+    "answerIndex": 1,
+    "explication": "Les yeux, les ongles et la colère relèvent du Bois."
+  },
+
+  {
+    "question": "46 - Pourquoi la théorie des 5 éléments est-elle encore enseignée ?",
+    "options": [
+      "Par tradition uniquement",
+      "Parce qu’elle est simple",
+      "Parce qu’elle aide à comprendre les liens énergétiques",
+      "Parce qu’elle remplace la médecine moderne"
+    ],
+    "answerIndex": 2,
+    "explication": "Elle aide à comprendre les liens entre émotions, organes et symptômes."
+  },
+  {
+    "question": "47 - Un stress prolongé affecte en priorité :",
+    "options": [
+      "La Rate",
+      "Le Foie",
+      "Le Poumon",
+      "Le Rein"
+    ],
+    "answerIndex": 1,
+    "explication": "Le stress perturbe le Foie, élément Bois."
+  },
+  {
+    "question": "48 - Un Foie perturbé peut entraîner :",
+    "options": [
+      "Des troubles digestifs",
+      "Une perte de cheveux",
+      "Une toux",
+      "Des frissons"
+    ],
+    "answerIndex": 0,
+    "explication": "Par le cycle de contrôle, le Foie peut perturber la Rate et la digestion."
+  },
+  {
+    "question": "49 - En résumé, les 5 éléments sont :",
+    "options": [
+      "Des substances",
+      "Des symboles figés",
+      "Un modèle de compréhension dynamique",
+      "Des organes"
+    ],
+    "answerIndex": 2,
+    "explication": "Les 5 éléments sont un modèle dynamique pour comprendre le vivant."
+  },
+  {
+    "question": "50 - Pour l’examen, il faut surtout connaître :",
+    "options": [
+      "Tout le tableau",
+      "Les éléments en gras",
+      "Les couleurs uniquement",
+      "Les orientations"
+    ],
+    "answerIndex": 1,
+    "explication": "Le cours insiste sur les éléments en gras comme essentiels."
+  }
+]

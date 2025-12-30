@@ -1,0 +1,310 @@
+[
+  {
+    "question": "1 - Quel est l’objectif principal de la synthèse d’entretien ?",
+    "options": ["Résumer fidèlement les propos recueillis", "Ajouter son opinion", "Imaginer des réponses", "Créer un exposé complet"],
+    "answerIndex": 0,
+    "explication": "La synthèse vise à présenter de manière claire et concise ce que la personne interrogée a réellement dit."
+  },
+  {
+    "question": "2 - Combien de temps est alloué pour rédiger la synthèse en TD ?",
+    "options": ["30 minutes", "5 minutes", "10 minutes", "1 heure"],
+    "answerIndex": 2,
+    "explication": "Le cours précise qu’il faut 10 minutes pour rédiger la synthèse de l’entretien."
+  },
+  {
+    "question": "3 - La synthèse doit être présentée…",
+    "options": ["Individuellement", "Par binôme", "En groupe de 4", "Par l’enseignant"],
+    "answerIndex": 1,
+    "explication": "Chaque binôme présente sa synthèse devant la classe."
+  },
+  {
+    "question": "4 - L’utilisation du tableau fourni est :",
+    "options": ["Obligatoire", "Interdite", "Réservée aux meilleurs étudiants", "Optionnelle"],
+    "answerIndex": 3,
+    "explication": "Les étudiants peuvent s'appuyer dessus s’ils le souhaitent, mais ce n’est pas obligatoire."
+  },
+  {
+    "question": "5 - Les thématiques choisies doivent provenir :",
+    "options": ["Uniquement du guide", "Uniquement de l’entretien", "Du guide OU de l’entretien", "De sources Internet"],
+    "answerIndex": 2,
+    "explication": "Elles peuvent émerger du guide de conversation ou de l’entretien lui-même."
+  },
+
+  {
+    "question": "6 - À partir de quoi les groupes sont formés ?",
+    "options": ["La thématique choisie","Les notes obtenues", "Les affinités",  "Le hasard"],
+    "answerIndex": 0,
+    "explication": "Chaque étudiant choisit une thématique qui détermine la composition du groupe."
+  },
+  {
+    "question": "7 - Combien de personnes doivent composer chaque groupe ?",
+    "options": ["3", "4", "5", "6"],
+    "answerIndex": 1,
+    "explication": "Les consignes demandent de former des groupes de quatre étudiant·e·s."
+  },
+  {
+    "question": "8 - Une condition obligatoire pour former un groupe est :",
+    "options": ["Avoir les mêmes notes", "Avoir réalisé le même entretien", "Être du même âge", "Au moins un membre doit avoir abordé la thématique"],
+    "answerIndex": 3,
+    "explication": "Il faut qu’au moins un étudiant ait traité cette thématique dans son entretien."
+  },
+  {
+    "question": "9 - Le groupe constitué servira pour :",
+    "options": ["Un seul TD", "Toute l’année", "L’évaluation orale finale du semestre", "Un devoir maison"],
+    "answerIndex": 2,
+    "explication": "Ce même groupe sera utilisé lors de l’évaluation orale finale."
+  },
+  {
+    "question": "10 - Le temps pour constituer les groupes est :",
+    "options": ["5 minutes","20 minutes", "10 minutes", "30 minutes" ],
+    "answerIndex": 0,
+    "explication": "La consigne annonce : 5 minutes pour former les groupes."
+  },
+
+  {
+    "question": "11 - Pourquoi bouger les tables pour créer des îlots ?",
+    "options": ["Pour mieux voir le tableau", "Pour favoriser le travail collaboratif", "Pour respecter une tradition", "Pour faire plus joli"],
+    "answerIndex": 1,
+    "explication": "Les îlots facilitent les échanges et la coopération entre étudiants."
+  },
+  {
+    "question": "12 - Quel élément n’est PAS mentionné comme nécessaire à sortir ?",
+    "options": ["Feuilles", "Stylos", "Ordinateurs obligatoires", "Cahiers"],
+    "answerIndex": 2,
+    "explication": "Le cours ne mentionne pas l’usage obligatoire d’un ordinateur."
+  },
+  {
+    "question": "13 - Les modalités de travail peuvent inclure :",
+    "options": ["Document partagé", "Visio", "Présentiel", "Toutes les réponses"],
+    "answerIndex": 3,
+    "explication": "Le groupe choisit ses modalités de travail : présentiel, visio, documents partagés..."
+  },
+  {
+    "question": "14 - Les modalités de communication incluent notamment :",
+    "options": ["Téléphone fixe", "Groupe (WhatsApp, etc.) ou email", "Site web obligatoire", "Lettres manuscrites"],
+    "answerIndex": 1,
+    "explication": "Le cours évoque un groupe de communication et/ou l’email."
+  },
+  {
+    "question": "15 - Cette étape dure environ :",
+    "options": ["1 minute", "5 à 10 minutes", "30 minutes", "1 heure"],
+    "answerIndex": 1,
+    "explication": "L’étape 1 dure environ 5 à 10 minutes selon le document."
+  },
+
+  {
+    "question": "16 - Que doivent identifier les étudiants ?",
+    "options": ["Leurs forces, faiblesses et besoins","Leurs loisirs",  "Leurs salaires futurs", "Leurs habitudes alimentaires"],
+    "answerIndex": 0,
+    "explication": "Cela sert à mieux organiser la répartition du travail dans le groupe."
+  },
+  {
+    "question": "17 - Une force ou faiblesse citée est :",
+    "options": ["Goût musical", "Gestion du temps", "Taille", "Style vestimentaire"],
+    "answerIndex": 1,
+    "explication": "La gestion du temps fait partie des compétences personnelles à identifier."
+  },
+  {
+    "question": "18 - Exemple de besoin cité dans le cours :",
+    "options": ["Avoir un MacBook", "Être sportif", "Être bavard", "Ponctualité"],
+    "answerIndex": 3,
+    "explication": "La ponctualité est explicitement mentionnée comme besoin possible."
+  },
+  {
+    "question": "19 - Après avoir partagé leurs caractéristiques, les membres doivent :",
+    "options": ["Identifier les complémentarités","Établir un budget",  "Choisir un leader permanent", "Faire un exposé"],
+    "answerIndex": 0,
+    "explication": "L’objectif est de faire ressortir les complémentarités dans le groupe."
+  },
+  {
+    "question": "20 - Le groupe doit choisir combien de principes fondateurs ?",
+    "options": ["1", "2", "3", "10"],
+    "answerIndex": 2,
+    "explication": "Il est demandé d'établir trois principes fondateurs pour le travail du groupe."
+  },
+
+  {
+    "question": "21 - Quel rôle anime les discussions et veille à l’ordre du jour ?",
+    "options": ["Designer", "Relecteur", "Animateur", "Gardien du temps"],
+    "answerIndex": 2,
+    "explication": "L’animateur guide le travail collectif et garde le groupe concentré."
+  },
+  {
+    "question": "22 - Qui rédige les comptes rendus ?",
+    "options": ["Scribe", "Designer", "Animateur", "Porte-parole"],
+    "answerIndex": 0,
+    "explication": "Le scribe note les échanges et produit les comptes rendus."
+  },
+  {
+    "question": "23 - Le porte-parole a pour mission :",
+    "options": ["Créer les visuels", "Présenter les idées du groupe", "Corriger l’orthographe", "Gérer le temps"],
+    "answerIndex": 1,
+    "explication": "Il représente le groupe lors des présentations."
+  },
+  {
+    "question": "24 - Le designer s’occupe de :",
+    "options": ["Prendre les notes", "Créer les visuels", "Présenter le travail", "Animer la réunion"],
+    "answerIndex": 1,
+    "explication": "Il crée les supports graphiques ou visuels."
+  },
+  {
+    "question": "25 - Le gardien du temps doit :",
+    "options": ["Décider pour le groupe", "Rédiger l’exposé", "Veiller au respect du timing", "Corriger les fautes"],
+    "answerIndex": 2,
+    "explication": "Il s'assure que le groupe respecte les limites temporelles."
+  },
+  {
+    "question": "26 - Le relecteur doit être compétent en :",
+    "options": ["Mathématiques", "Orthographe/grammaire", "Arts plastiques", "Sport"],
+    "answerIndex": 1,
+    "explication": "Il corrige la syntaxe, la grammaire et l’orthographe."
+  },
+  {
+    "question": "27 - Les rôles doivent :",
+    "options": ["Rester fixes", "Être supprimés", "Être attribués par l’enseignant", "Être tournants"],
+    "answerIndex": 3,
+    "explication": "Les rôles doivent tourner pour que chacun puisse les expérimenter."
+  },
+  {
+    "question": "28 - Chaque membre doit avoir au minimum :",
+    "options": ["0 rôle",  "2 rôles", "1 rôle","3 rôles"],
+    "answerIndex": 2,
+    "explication": "Chaque étudiant doit occuper au moins un rôle."
+  },
+  {
+    "question": "29 - Un conseil donné pour une session efficace est :",
+    "options": ["Éviter de planifier", "Définir un ordre du jour", "Parler tous en même temps", "Travailler sans objectifs"],
+    "answerIndex": 1,
+    "explication": "L’ordre du jour permet d’organiser la séance."
+  },
+  {
+    "question": "30 - Une règle pour une bonne séance collective est :",
+    "options": ["Tout faire en silence", "Ne rien répartir", "Se répartir le travail", "Ne pas poser de questions"],
+    "answerIndex": 2,
+    "explication": "La répartition du travail est essentielle à l’efficacité."
+  },
+  {
+    "question": "31 - Une autre règle est :",
+    "options": ["Faire le travail", "Laisser les autres tout faire", "Attendre l’enseignant", "Reporter au lendemain"],
+    "answerIndex": 0,
+    "explication": "Le cours insiste sur la nécessité d’effectuer réellement les tâches attribuées."
+  },
+
+  {
+    "question": "32 - Quelle est la première étape pour résoudre un conflit ?",
+    "options": ["Punir l’étudiant concerné", "Écrire à la direction", "Parler avec la personne pour identifier le problème", "Ignorer la situation"],
+    "answerIndex": 2,
+    "explication": "Il faut d’abord identifier la source du problème en échangeant avec la personne."
+  },
+  {
+    "question": "33 - Quelle est la seconde étape de gestion des conflits ?",
+    "options": ["Travailler seul", "Réunir tout le groupe pour trouver des solutions", "Changer de groupe immédiatement", "Arrêter le projet"],
+    "answerIndex": 1,
+    "explication": "Le groupe discute pour proposer des solutions collectives."
+  },
+  {
+    "question": "34 - Que faire si la situation ne s’améliore pas sous 7 jours ?",
+    "options": ["Rester silencieux", "Exclure l’étudiant", "Avertir l’enseignant", "Changer de cursus"],
+    "answerIndex": 2,
+    "explication": "L’enseignant doit être averti pour accompagner la résolution du conflit."
+  },
+  {
+    "question": "35 - Le principe général de résolution des conflits est :",
+    "options": ["Agir tôt", "Attendre longtemps", "Éviter de parler", "Imposer un leader"],
+    "answerIndex": 0,
+    "explication": "Le document insiste : “Le plus tôt sera le mieux”."
+  },
+
+  {
+    "question": "36 - Qu’est-ce que la gestion du temps selon le cours ?",
+    "options": [ "Travailler vite", "Planifier des actions dans le temps","Faire plusieurs choses en même temps", "Ne rien planifier"],
+    "answerIndex": 1,
+    "explication": "Il s’agit de planifier, hiérarchiser et organiser ses priorités."
+  },
+  {
+    "question": "37 - Quel outil permet de limiter la procrastination ?",
+    "options": [ "Regarder la télévision", "Dormir plus","Travail régulier", "Écouter de la musique"],
+    "answerIndex": 2,
+    "explication": "Le travail régulier est une méthode efficace contre la procrastination."
+  },
+  {
+    "question": "38 - Une contrainte utile mentionnée dans le cours est :",
+    "options": ["Augmenter le temps sur son téléphone", "Éteindre son téléphone un moment", "Écouter de la musique très fort", "Changer de filière"],
+    "answerIndex": 1,
+    "explication": "Éteindre son téléphone permet de limiter les distractions."
+  },
+  {
+    "question": "39 - Travailler à plusieurs permet :",
+    "options": [ "De mieux gérer son travail et son temps","D’être moins motivé", "De perdre du temps", "D’éviter la communication"],
+    "answerIndex": 0,
+    "explication": "Le travail collectif peut améliorer l’organisation et l’efficacité."
+  },
+  {
+    "question": "40 - Une to-do list est utile pour :",
+    "options": ["Augmenter le stress", "Réduire le stress", "Perdre du temps", "Éviter de planifier"],
+    "answerIndex": 1,
+    "explication": "Elle clarifie les tâches à accomplir, ce qui diminue le stress."
+  },
+
+  {
+    "question": "41 - Quel outil est recommandé pour organiser ses tâches ?",
+    "options": ["Une roulette", "Une balle de tennis", "Une calculatrice", "Un agenda"],
+    "answerIndex": 3,
+    "explication": "L’agenda est un outil classique de planification."
+  },
+  {
+    "question": "42 - La technique Pomodoro consiste à :",
+    "options": ["Travailler sans pause", "Faire une seule longue session", "Ne travailler que 5 minutes", "Travailler par blocs de temps chronométrés"],
+    "answerIndex": 3,
+    "explication": "Elle repose sur des périodes de travail courtes suivies de pauses."
+  },
+  {
+    "question": "43 - Le rétroplanning consiste à :",
+    "options": ["Commencer au début du projet", "Travailler sans dates limites", "Planifier en partant de la date de fin", "Tout faire au dernier moment"],
+    "answerIndex": 2,
+    "explication": "On part de la deadline pour remonter vers les étapes intermédiaires."
+  },
+  {
+    "question": "44 - Quel outil organise les tâches par colonnes ?",
+    "options": ["Table Excel", "Kanban Board", "Calendrier papier", "Carte mentale"],
+    "answerIndex": 1,
+    "explication": "Un Kanban répartit les tâches selon leur état : à faire, en cours, terminé..."
+  },
+  {
+    "question": "45 - Quel outil visuel peut être réalisé sur Canva ?",
+    "options": ["Rétroplanning visuel", "Bulletin scolaire", "Lettre officielle", "Fiche de paie"],
+    "answerIndex": 0,
+    "explication": "Canva permet de créer un rétroplanning visuel."
+  },
+  {
+    "question": "46 - Quel outil peut être réalisé sur Excel ?",
+    "options": [ "Carte mentale", "Vidéo", "Diagramme de Gantt","Photo"],
+    "answerIndex": 2,
+    "explication": "Le diagramme de Gantt est souvent produit sur Excel."
+  },
+
+  {
+    "question": "47 - Pour le prochain TD, les étudiants doivent :",
+    "options": ["Faire une dissertation", "Choisir un outil et projeter le semestre", "Créer un site web", "Apprendre par cœur des dates"],
+    "answerIndex": 1,
+    "explication": "Ils doivent utiliser un outil de gestion du temps pour planifier le semestre 1."
+  },
+  {
+    "question": "48 - Le rétroplanning demandé doit inclure :",
+    "options": ["Seulement les vacances", "Les dates d’anniversaire", "Les dates clés du semestre", "Les recettes de cuisine"],
+    "answerIndex": 2,
+    "explication": "Il doit intégrer examens, révisions, cours et contraintes personnelles."
+  },
+  {
+    "question": "49 - Le travail en groupe UE105 doit prendre en compte :",
+    "options": ["Aucune contrainte", "Uniquement les dates d’examens", "Les contraintes personnelles aussi", "Seulement les loisirs"],
+    "answerIndex": 2,
+    "explication": "Le planning doit intégrer les contraintes personnelles comme le travail, la famille, etc."
+  },
+  {
+    "question": "50 - Pour le TD5, il est demandé :",
+    "options": ["D'acheter un livre", "De trouver un texte sur la thématique du groupe", "De changer de groupe", "De rendre un exposé écrit"],
+    "answerIndex": 1,
+    "explication": "Chaque groupe doit trouver un texte lié à la thématique qu’il a choisie."
+  }
+]

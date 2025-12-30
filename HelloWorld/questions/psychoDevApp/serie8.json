@@ -1,0 +1,563 @@
+[
+  {
+    "question": "1 - Selon Vygotski, l’origine du développement psychique est avant tout :",
+    "options": [
+      "Biologique",
+      "Individuelle",
+      "Sociale et culturelle",
+      "Génétique"
+    ],
+    "answerIndex": 2,
+    "explication": "Pour Vygotski, l’enfant ne se développe pas tout seul dans sa tête. Il apprend surtout grâce aux autres (parents, enseignants, camarades) et grâce à la culture (langage, règles, école). Par exemple, un enfant apprend à compter parce qu’un adulte lui montre comment faire."
+  },
+  {
+    "question": "2 - La théorie de Vygotski est appelée :",
+    "options": [
+      "Théorie behavioriste",
+      "Théorie constructiviste",
+      "Théorie psychanalytique",
+      "Théorie historico-culturelle"
+    ],
+    "answerIndex": 3,
+    "explication": "On parle de théorie historico-culturelle car Vygotski explique que la pensée dépend de l’histoire et de la culture dans lesquelles l’enfant grandit (école, langue, outils, traditions)."
+  },
+  {
+    "question": "3 - Selon Vygotski, l’apprentissage :",
+    "options": [
+      "Précède toujours le développement",
+      "Suit toujours le développement",
+      "Est indépendant du développement",
+      "Peut agir sur le développement"
+    ],
+    "answerIndex": 3,
+    "explication": "Pour Vygotski, apprendre peut faire avancer le développement. Par exemple, un enfant peut résoudre un problème plus complexe s’il est aidé, et cette aide va ensuite améliorer ses capacités."
+  },
+  {
+    "question": "4 - La critique principale de Vygotski envers le béhaviorisme concerne :",
+    "options": [
+      "L’absence de prise en compte du langage",
+      "L’absence du sujet comme acteur",
+      "L’importance accordée à la biologie",
+      "L’étude de l’émotion"
+    ],
+    "answerIndex": 1,
+    "explication": "Le béhaviorisme voit l’humain comme quelqu’un qui réagit automatiquement aux stimuli. Vygotski critique cette idée car il pense que l’enfant réfléchit, comprend et agit activement."
+  },
+  {
+    "question": "5 - Pour Vygotski, les fonctions cognitives apparaissent d’abord :",
+    "options": [
+      "Au niveau intrapsychique",
+      "Au niveau biologique",
+      "Au niveau interpsychique",
+      "Au niveau génétique"
+    ],
+    "answerIndex": 2,
+    "explication": "Selon Vygotski, l’enfant apprend d’abord avec les autres. Par exemple, il résout un exercice avec un adulte avant de pouvoir le faire seul."
+  },
+  {
+    "question": "6 - Le langage, chez Vygotski, est avant tout :",
+    "options": [
+      "Un outil biologique",
+      "Un outil culturel et psychologique",
+      "Un simple moyen de communication",
+      "Un effet du développement moteur"
+    ],
+    "answerIndex": 1,
+    "explication": "Le langage ne sert pas seulement à parler aux autres. Il sert aussi à réfléchir, à s’organiser et à résoudre des problèmes."
+  },
+  {
+    "question": "7 - Le langage égocentrique est, selon Vygotski :",
+    "options": [
+      "Un signe d’immaturité",
+      "Un obstacle à la pensée",
+      "Un précurseur du langage intérieur",
+      "Une forme de langage inutile"
+    ],
+    "answerIndex": 2,
+    "explication": "Quand un enfant se parle tout seul en faisant une tâche, cela l’aide à réfléchir. Ce langage va ensuite devenir silencieux (dans la tête)."
+  },
+  {
+    "question": "8 - Pour Piaget, le langage égocentrique :",
+    "options": [
+      "Traduit une incapacité de décentration",
+      "Prépare la pensée rationnelle",
+      "Est une forme de communication",
+      "Est un outil social"
+    ],
+    "answerIndex": 0,
+    "explication": "Piaget pense que l’enfant qui parle tout seul ne prend pas encore en compte le point de vue des autres."
+  },
+  {
+    "question": "9 - La zone de proche développement correspond :",
+    "options": [
+      "Au niveau biologique maximal",
+      "À ce que l’enfant sait faire seul",
+      "À l’écart entre seul et avec aide",
+      "À l’intelligence innée"
+    ],
+    "answerIndex": 2,
+    "explication": "C’est la différence entre ce que l’enfant peut faire seul et ce qu’il peut réussir avec l’aide d’un adulte ou d’un camarade."
+  },
+  {
+    "question": "10 - La tutelle de l’adulte est principalement médiatisée par :",
+    "options": [
+      "La punition",
+      "Le langage",
+      "L’imitation mécanique",
+      "La maturation biologique"
+    ],
+    "answerIndex": 1,
+    "explication": "L’adulte aide surtout en expliquant, en posant des questions et en guidant avec des mots."
+  },
+
+  {
+    "question": "11 - L’étayage a été principalement conceptualisé par :",
+    "options": [
+      "Vygotski",
+      "Piaget",
+      "Wallon",
+      "Bruner"
+    ],
+    "answerIndex": 3,
+    "explication": "Bruner a décrit comment un adulte aide progressivement un enfant, puis retire l’aide quand l’enfant devient autonome."
+  },
+  {
+    "question": "12 - L’étayage vise à :",
+    "options": [
+      "Accélérer la maturation",
+      "Remplacer l’activité de l’enfant",
+      "Structurer l’apprentissage",
+      "Évaluer les performances"
+    ],
+    "answerIndex": 2,
+    "explication": "L’adulte aide juste ce qu’il faut pour que l’enfant comprenne et fasse seul ensuite."
+  },
+  {
+    "question": "13 - Une condition essentielle de l’étayage est :",
+    "options": [
+      "La motivation de l’enfant",
+      "La sanction",
+      "La répétition mécanique",
+      "La compétition"
+    ],
+    "answerIndex": 0,
+    "explication": "Si l’enfant n’a pas envie d’apprendre, l’aide ne fonctionne pas."
+  },
+  {
+    "question": "14 - Les instruments psychologiques sont :",
+    "options": [
+      "Des outils biologiques",
+      "Des systèmes de signes",
+      "Des objets matériels uniquement",
+      "Des réflexes"
+    ],
+    "answerIndex": 1,
+    "explication": "Ce sont des outils comme le langage, l’écriture, les chiffres ou les schémas qui aident à penser."
+  },
+  {
+    "question": "15 - La conscience individuelle a un statut :",
+    "options": [
+      "Biologique",
+      "Privé",
+      "Inné",
+      "Social"
+    ],
+    "answerIndex": 3,
+    "explication": "On apprend d’abord à comprendre les autres avant de se comprendre soi-même."
+  },
+
+  {
+    "question": "16 - Le passage de l’interpsychique à l’intrapsychique correspond :",
+    "options": [
+      "À la maturation cérébrale",
+      "À l’intériorisation",
+      "À l’imitation",
+      "À l’adaptation biologique"
+    ],
+    "answerIndex": 1,
+    "explication": "Ce que l’enfant fait avec les autres devient ensuite quelque chose qu’il fait seul dans sa tête."
+  },
+
+  {
+    "question": "17 - Les concepts scientifiques sont principalement issus :",
+    "options": [
+      "De l’expérience spontanée",
+      "Du jeu libre",
+      "De l’apprentissage scolaire",
+      "De l’imitation"
+    ],
+    "answerIndex": 2,
+    "explication": "Des notions comme « fraction » ou « verbe » sont apprises surtout à l’école grâce à l’enseignant."
+  },
+
+  {
+    "question": "18 - Les concepts quotidiens se développent surtout par :",
+    "options": [
+      "L’enseignement formel",
+      "L’expérience spontanée",
+      "L’écriture",
+      "Les évaluations"
+    ],
+    "answerIndex": 1,
+    "explication": "Par exemple, l’enfant comprend ce qu’est un chien en en voyant et en en rencontrant."
+  },
+
+  {
+    "question": "19 - Selon Vygotski, la culture fournit à l’enfant :",
+    "options": [
+      "Des réflexes",
+      "Des émotions",
+      "Des outils cognitifs",
+      "Des instincts"
+    ],
+    "answerIndex": 2,
+    "explication": "La culture donne des outils pour penser, comme la langue, les nombres ou les règles."
+  },
+
+  {
+    "question": "20 - L’école joue un rôle central car elle :",
+    "options": [
+      "Remplace la famille",
+      "Favorise la maturation biologique",
+      "Uniformise les élèves",
+      "Transmet les outils culturels"
+    ],
+    "answerIndex": 3,
+    "explication": "L’école apprend aux enfants à utiliser consciemment les outils de la culture (lecture, écriture, raisonnement)."
+  },
+  {
+    "question": "21 - Avant 3 ans, l’apprentissage est surtout :",
+    "options": [
+      "Spontané",
+      "Scolaire",
+      "Imposé",
+      "Contrôlé"
+    ],
+    "answerIndex": 0,
+    "explication": "Avant 3 ans, l’enfant apprend naturellement, sans programme scolaire. Il apprend en jouant, en observant, en imitant et en explorant son environnement, par exemple en touchant, en parlant ou en marchant."
+  },
+  {
+    "question": "22 - À l’âge scolaire, l’apprentissage est principalement :",
+    "options": [
+      "Spontané",
+      "Ludique",
+      "Familial",
+      "Contrôlé par l’école"
+    ],
+    "answerIndex": 3,
+    "explication": "Quand l’enfant va à l’école, les apprentissages suivent un programme précis (lire, écrire, compter). Ce n’est plus seulement l’enfant qui choisit ce qu’il apprend."
+  },
+  {
+    "question": "23 - Le langage intérieur est destiné :",
+    "options": [
+      "À communiquer",
+      "À penser",
+      "À jouer",
+      "À imiter"
+    ],
+    "answerIndex": 1,
+    "explication": "Le langage intérieur, c’est la petite voix dans la tête. Il sert à réfléchir, à se donner des consignes et à résoudre des problèmes sans parler à voix haute."
+  },
+  {
+    "question": "24 - Le langage égocentrique disparaît généralement vers :",
+    "options": [
+      "3 ans",
+      "7 ans",
+      "10 ans",
+      "5 ans"
+    ],
+    "answerIndex": 3,
+    "explication": "Vers 5 ans, l’enfant parle de moins en moins à voix haute pour réfléchir. Ce langage devient intérieur, c’est-à-dire silencieux."
+  },
+  {
+    "question": "25 - La double sémiotisation implique :",
+    "options": [
+      "Deux enseignants",
+      "Deux objets distincts",
+      "Présenter et guider l’objet",
+      "Deux évaluations"
+    ],
+    "answerIndex": 2,
+    "explication": "L’enseignant montre l’objet à apprendre (par exemple un exercice) et explique en même temps comment s’y prendre. Il ne se contente pas de montrer."
+  },
+
+  {
+    "question": "26 - La double sémiotisation est un concept issu de :",
+    "options": [
+      "Chevallard",
+      "Vygotski",
+      "Bruner",
+      "Freud"
+    ],
+    "answerIndex": 0,
+    "explication": "Chevallard a introduit cette idée en didactique pour expliquer comment l’enseignant rend le savoir compréhensible pour l’élève."
+  },
+  {
+    "question": "27 - Pour Vygotski, l’enseignant doit avant tout :",
+    "options": [
+      "Évaluer",
+      "Guider l’attention",
+      "Transmettre passivement",
+      "Sanctionner"
+    ],
+    "answerIndex": 1,
+    "explication": "Le rôle principal de l’enseignant est d’aider l’élève à se concentrer sur ce qui est important et à comprendre le sens de ce qu’il apprend."
+  },
+  {
+    "question": "28 - Les outils culturels transforment :",
+    "options": [
+      "Le cerveau uniquement",
+      "Le comportement moteur",
+      "La biologie",
+      "Le psychisme"
+    ],
+    "answerIndex": 3,
+    "explication": "Les outils comme le langage, l’écriture ou les nombres changent la façon dont on pense, raisonne et comprend le monde."
+  },
+  {
+    "question": "29 - Le développement est limité par :",
+    "options": [
+      "La culture",
+      "La maturation biologique",
+      "L’école",
+      "Le langage"
+    ],
+    "answerIndex": 1,
+    "explication": "Même avec de l’aide, un enfant ne peut pas tout apprendre à n’importe quel âge. Son développement dépend aussi de son corps et de son cerveau."
+  },
+  {
+    "question": "30 - Vygotski considère l’enfant comme :",
+    "options": [
+      "Actif et social",
+      "Passif",
+      "Déterminé biologiquement",
+      "Isolé"
+    ],
+    "answerIndex": 0,
+    "explication": "L’enfant participe activement à ses apprentissages et apprend toujours en lien avec les autres."
+  },
+
+  {
+    "question": "31 - L’interaction sociale est essentielle car elle :",
+    "options": [
+      "Accélère la maturation",
+      "Crée les fonctions cognitives",
+      "Supprime les erreurs",
+      "Uniformise les apprentissages"
+    ],
+    "answerIndex": 1,
+    "explication": "Les capacités comme raisonner, mémoriser ou planifier apparaissent d’abord grâce aux échanges avec les autres."
+  },
+  {
+    "question": "32 - Le langage est considéré comme :",
+    "options": [
+      "Un simple code",
+      "Un outil de médiation",
+      "Un réflexe",
+      "Un instinct"
+    ],
+    "answerIndex": 1,
+    "explication": "Le langage sert d’intermédiaire entre l’enfant et le monde. Il permet de comprendre, d’expliquer et de réfléchir."
+  },
+  {
+    "question": "33 - Les savoirs sont déposés :",
+    "options": [
+      "Dans le cerveau",
+      "Dans la biologie",
+      "Dans la culture",
+      "Dans les gènes"
+    ],
+    "answerIndex": 2,
+    "explication": "Les connaissances existent dans les livres, l’école, les outils et la société, pas directement dans les gènes."
+  },
+  {
+    "question": "34 - Le rôle de l’adulte est d’ :",
+    "options": [
+      "Imposer",
+      "Sanctionner",
+      "Évaluer uniquement",
+      "Interpréter et négocier"
+    ],
+    "answerIndex": 3,
+    "explication": "L’adulte adapte son aide à l’enfant, explique autrement si besoin et ajuste son accompagnement."
+  },
+  {
+    "question": "35 - L’école favorise surtout :",
+    "options": [
+      "Les concepts quotidiens",
+      "Les réflexes",
+      "Les concepts scientifiques",
+      "Les instincts"
+    ],
+    "answerIndex": 2,
+    "explication": "À l’école, on apprend des notions abstraites et organisées comme les mathématiques ou la grammaire."
+  },
+
+  {
+    "question": "36 - Pour Vygotski, apprendre c’est :",
+    "options": [
+      "Répéter",
+      "S’approprier des outils culturels",
+      "Imiter",
+      "Mémoriser"
+    ],
+    "answerIndex": 1,
+    "explication": "Apprendre, c’est utiliser des outils comme le langage ou l’écriture pour penser autrement et devenir plus autonome."
+  },
+  {
+    "question": "37 - La culture influence :",
+    "options": [
+      "Le contenu et les processus",
+      "Uniquement le contenu",
+      "Uniquement la forme",
+      "Uniquement la mémoire"
+    ],
+    "answerIndex": 0,
+    "explication": "La culture influence à la fois ce que l’on apprend et la façon dont on apprend à réfléchir."
+  },
+  {
+    "question": "38 - L’enfant devient autonome grâce à :",
+    "options": [
+      "La répétition",
+      "L’intériorisation",
+      "La sanction",
+      "L’imitation passive"
+    ],
+    "answerIndex": 1,
+    "explication": "Avec le temps, l’enfant n’a plus besoin d’aide extérieure car il a intégré les stratégies dans sa tête."
+  },
+  {
+    "question": "39 - La pensée rationnelle est liée :",
+    "options": [
+      "Au jeu",
+      "À l’émotion",
+      "Au langage intérieur",
+      "À la maturation"
+    ],
+    "answerIndex": 2,
+    "explication": "Réfléchir de manière logique demande de pouvoir se parler intérieurement pour organiser ses idées."
+  },
+  {
+    "question": "40 - Le développement pour Vygotski est :",
+    "options": [
+      "Individuel",
+      "Strictement biologique",
+      "Instinctif",
+      "Socialement médiatisé"
+    ],
+    "answerIndex": 3,
+    "explication": "Le développement dépend des relations sociales et des outils culturels utilisés."
+  },
+
+  {
+    "question": "41 - Le langage oral est important car il :",
+    "options": [
+      "Structure la pensée",
+      "Remplace les gestes",
+      "Permet la communication verbale",
+      "Supprime l’émotion"
+    ],
+    "answerIndex": 0,
+    "explication": "Parler aide l’enfant à organiser sa pensée et à comprendre ce qu’il fait."
+  },
+  {
+    "question": "42 - La médiation signifie :",
+    "options": [
+      "Interdiction",
+      "Passage par des outils",
+      "Relation directe",
+      "Contrôle"
+    ],
+    "answerIndex": 1,
+    "explication": "L’enfant n’agit pas directement sur le monde, il utilise des outils comme le langage ou les symboles."
+  },
+  {
+    "question": "43 - Le développement de l’enfant dépend :",
+    "options": [
+      "Uniquement de lui",
+      "De son environnement social",
+      "De ses gènes",
+      "De ses émotions"
+    ],
+    "answerIndex": 1,
+    "explication": "Les relations avec la famille, l’école et les autres enfants jouent un rôle essentiel."
+  },
+  {
+    "question": "44 - La pensée naît :",
+    "options": [
+      "Dans le cerveau",
+      "Dans le jeu",
+      "Dans la maturation",
+      "Dans l’interaction"
+    ],
+    "answerIndex": 3,
+    "explication": "On apprend d’abord à penser avec les autres avant de penser seul."
+  },
+  {
+    "question": "45 - Les erreurs dans l’étayage doivent être :",
+    "options": [
+      "Sanctionnées",
+      "Ignorées",
+      "Dédramatisées",
+      "Punies"
+    ],
+    "answerIndex": 2,
+    "explication": "Se tromper est normal et utile pour apprendre. L’erreur permet de comprendre et de progresser."
+  },
+
+  {
+    "question": "46 - L’apprentissage scolaire est qualifié de :",
+    "options": [
+      "Spontané",
+      "Réactif ou provoqué",
+      "Naturel",
+      "Biologique"
+    ],
+    "answerIndex": 1,
+    "explication": "À l’école, l’apprentissage est organisé et provoqué par l’enseignant."
+  },
+  {
+    "question": "47 - Les interactions verbales sont :",
+    "options": [
+      "Secondaires",
+      "Accessoires",
+      "Centrales",
+      "Inutiles"
+    ],
+    "answerIndex": 2,
+    "explication": "Parler, expliquer et échanger sont essentiels pour apprendre."
+  },
+  {
+    "question": "48 - L’enfant apprend mieux lorsque :",
+    "options": [
+      "Il est aidé",
+      "Il est seul",
+      "Il est évalué",
+      "Il est sanctionné"
+    ],
+    "answerIndex": 0,
+    "explication": "Une aide adaptée permet à l’enfant de réussir des tâches qu’il ne pourrait pas faire seul."
+  },
+  {
+    "question": "49 - Le socioconstructivisme insiste sur :",
+    "options": [
+      "L’individu seul",
+      "La maturation",
+      "La construction sociale",
+      "L’inné"
+    ],
+    "answerIndex": 2,
+    "explication": "Les connaissances se construisent grâce aux échanges avec les autres."
+  },
+  {
+    "question": "50 - Pour Vygotski, se développer c’est :",
+    "options": [
+      "Grandir biologiquement",
+      "Imiter",
+      "S’approprier la culture",
+      "Mémoriser"
+    ],
+    "answerIndex": 2,
+    "explication": "Se développer, c’est apprendre à utiliser les outils de la culture pour penser et agir de manière autonome."
+  }
+]

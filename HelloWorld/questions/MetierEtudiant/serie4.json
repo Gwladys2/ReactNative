@@ -1,0 +1,302 @@
+[
+  {
+    "question": "1 - Quel est l’objectif principal des normes APA ?",
+    "options": ["Donner un style littéraire au texte", "Présenter clairement les sources et éviter le plagiat", "Rendre le texte plus long", "Supprimer les citations"],
+    "answerIndex": 1,
+    "explication": "Les normes APA visent à assurer la clarté et la crédibilité des sources, et à éviter le plagiat."
+  },
+  {
+    "question": "2 - Une citation courte selon les normes APA contient…",
+    "options": ["Moins de 10 mots", "Moins de 20 mots", "Moins de 40 mots", "Moins de 100 mots"],
+    "answerIndex": 2,
+    "explication": "Une citation courte compte moins de 40 mots."
+  },
+  {
+    "question": "3 - Comment présenter une citation longue selon les normes APA ?",
+    "options": ["Entre guillemets et en italique", "Sans guillemets, en bloc et en retrait", "En gras", "Avec une couleur différente"],
+    "answerIndex": 1,
+    "explication": "La citation longue doit être présentée en bloc, sans guillemets et en retrait."
+  },
+  {
+    "question": "4 - Une paraphrase doit toujours…",
+    "options": ["Être mise entre guillemets",  "Être écrite en italique", "Inclure la source (Nom, date)","Être plus longue que la citation"],
+    "answerIndex": 2,
+    "explication": "Même reformulée, l’idée reste celle de l’auteur : il faut citer la source."
+  },
+  {
+    "question": "5 - Comment sont classées les références bibliographiques en APA ?",
+    "options": ["Par ordre chronologique", "Par ordre de citation dans le texte", "Par thème", "Par ordre alphabétique des auteurs"],
+    "answerIndex": 3,
+    "explication": "Les références sont classées par ordre alphabétique du nom du premier auteur."
+  },
+  {
+    "question": "6 - Quel type de texte suit la structure IMRAD ?",
+    "options": ["Texte journalistique", "Article scientifique", "Texte de vulgarisation", "Roman"],
+    "answerIndex": 1,
+    "explication": "Les articles scientifiques suivent généralement la structure IMRAD (Introduction, Méthode, Résultats, Discussion)."
+  },
+  {
+    "question": "7 - Quel est l’objectif principal d’un texte scientifique ?",
+    "options": ["Divertir", "Défendre une opinion politique", "Présenter une recherche avec rigueur", "Raconter une histoire"],
+    "answerIndex": 2,
+    "explication": "Le texte scientifique vise la précision, la rigueur et la vérifiabilité."
+  },
+  {
+    "question": "8 - Quel public est principalement visé par un article scientifique ?",
+    "options": ["Grand public", "Enfants", "Politiques", "Experts ou chercheurs"],
+    "answerIndex": 3,
+    "explication": "Les articles scientifiques sont destinés à un public expert."
+  },
+  {
+    "question": "9 - Quel élément est indispensable dans un article scientifique ?",
+    "options": ["Une interview", "Une bibliographie", "Des dessins", "Des anecdotes personnelles"],
+    "answerIndex": 1,
+    "explication": "La bibliographie est essentielle pour vérifier et situer la recherche."
+  },
+  {
+    "question": "10 - Un texte journalistique vise principalement à…",
+    "options": ["Informer un large public", "Présenter des résultats de recherche détaillés", "Proposer une analyse méthodologique", "Remplir des normes scientifiques"],
+    "answerIndex": 0,
+    "explication": "Le texte journalistique informe de manière claire et accessible."
+  },
+  {
+    "question": "11 - Le style d’un texte journalistique est généralement…",
+    "options": ["Complexe et théorique",  "Très technique", "Direct et accessible","Toujours humoristique"],
+    "answerIndex": 2,
+    "explication": "Les textes journalistiques sont conçus pour être compris rapidement par tous."
+  },
+  {
+    "question": "12 - Quelle caractéristique distingue le texte journalistique du texte scientifique ?",
+    "options": ["Il cite des sources",  "Il utilise des données", "Il vise un public large","Il présente des résultats"],
+    "answerIndex": 2,
+    "explication": "Le texte journalistique cible un public plus large et non spécialisé."
+  },
+  {
+    "question": "13 - Un texte de vulgarisation a pour objectif…",
+    "options": ["D'expliquer des concepts complexes de manière simple", "D’être ultra technique", "De donner des opinions personnelles", "D’appliquer la structure IMRAD"],
+    "answerIndex": 0,
+    "explication": "La vulgarisation simplifie et rend accessible un contenu scientifique."
+  },
+  {
+    "question": "14 - Le vocabulaire d’un texte de vulgarisation est généralement…",
+    "options": ["Très technique", "Sans aucune source", "Entièrement composé de citations", "Accessible et clair"],
+    "answerIndex": 3,
+    "explication": "La vulgarisation évite le jargon et privilégie la clarté."
+  },
+  {
+    "question": "15 - Un texte de vulgarisation peut être publié dans…",
+    "options": ["Une revue scientifique à comité de lecture", "Un blog scientifique", "Un journal officiel", "Un mémoire universitaire"],
+    "answerIndex": 1,
+    "explication": "Les blogs ou revues de vulgarisation sont des supports adaptés."
+  },
+  {
+    "question": "16 - Le public visé par un texte de vulgarisation est…",
+    "options": ["Le grand public","Des experts uniquement",  "Des journalistes uniquement", "Des juristes uniquement"],
+    "answerIndex": 0,
+    "explication": "La vulgarisation s’adresse à un public non spécialiste."
+  },
+  {
+    "question": "17 - Dans quel type de texte trouve-t-on souvent des illustrations pour faciliter la compréhension ?",
+    "options": ["Texte scientifique", "Texte juridique", "Roman", "Texte de vulgarisation"],
+    "answerIndex": 3,
+    "explication": "Les textes de vulgarisation utilisent souvent des schémas ou images."
+  },
+  {
+    "question": "18 - Un article de presse appartient à quel type d’écrit ?",
+    "options": ["Scientifique", "Journalistique", "Vulgarisation", "Argumentatif"],
+    "answerIndex": 1,
+    "explication": "Un article de presse est un texte journalistique."
+  },
+  {
+    "question": "19 - Une thèse de doctorat est un…",
+    "options": ["Texte journalistique", "Texte de vulgarisation", "Document administratif", "Texte scientifique"],
+    "answerIndex": 3,
+    "explication": "La thèse fait partie des textes scientifiques."
+  },
+  {
+    "question": "20 - Quel type d’écrit nécessite une méthodologie détaillée ?",
+    "options": ["Texte de vulgarisation", "Texte journalistique", "Texte scientifique", "Texte narratif"],
+    "answerIndex": 2,
+    "explication": "Les textes scientifiques détaillent leurs méthodes pour permettre la reproduction."
+  },
+  {
+    "question": "21 - Une chronique publiée dans un journal est…",
+    "options": ["Un article scientifique", "Un texte journalistique", "Un rapport administratif", "Une thèse"],
+    "answerIndex": 1,
+    "explication": "La chronique est un format journalistique."
+  },
+  {
+    "question": "22 - Une revue à comité de lecture publie principalement…",
+    "options": ["Des articles scientifiques","Des textes de vulgarisation",  "Des publicités", "Des discours politiques"],
+    "answerIndex": 0,
+    "explication": "Les revues à comité de lecture publient des articles scientifiques validés par des pairs."
+  },
+  {
+    "question": "23 - L’usage du langage technique est caractéristique de…",
+    "options": ["La vulgarisation", "Le texte journalistique", "Le texte scientifique", "Le texte narratif"],
+    "answerIndex": 2,
+    "explication": "Le texte scientifique peut utiliser du jargon spécifique à un domaine."
+  },
+  {
+    "question": "24 - Dans quel type de texte trouve-t-on le plus souvent un angle ou une interprétation ?",
+    "options": ["Texte scientifique", "Texte journalistique", "Texte de vulgarisation", "Texte administratif"],
+    "answerIndex": 1,
+    "explication": "Les articles journalistiques peuvent présenter un angle particulier."
+  },
+  {
+    "question": "25 - Quel texte doit obligatoirement citer des sources vérifiables ?",
+    "options": ["Texte de vulgarisation uniquement", "Texte journalistique uniquement", "Texte scientifique", "Texte narratif"],
+    "answerIndex": 2,
+    "explication": "Le texte scientifique doit impérativement citer des sources vérifiables."
+  },
+  {
+    "question": "26 - Quel type d’écrit peut accepter une simplification importante des concepts ?",
+    "options": ["Texte scientifique", "Texte juridique", "Mémoire universitaire", "Texte de vulgarisation"],
+    "answerIndex": 3,
+    "explication": "La vulgarisation vise à simplifier pour rendre accessible."
+  },
+  {
+    "question": "27 - Quand un texte vise une compréhension rapide d’un événement, il s’agit souvent d’un…",
+    "options": ["Texte scientifique", "Texte journalistique", "Texte de vulgarisation", "Texte narratif"],
+    "answerIndex": 1,
+    "explication": "Le texte journalistique informe rapidement le lecteur."
+  },
+  {
+    "question": "28 - Un mémoire de recherche est un…",
+    "options": ["Texte scientifique","Texte journalistique",  "Texte de vulgarisation", "Document institutionnel"],
+    "answerIndex": 0,
+    "explication": "Le mémoire s'inscrit dans les écrits scientifiques."
+  },
+  {
+    "question": "29 - Quel type d’écrit peut comporter une interview ?",
+    "options": ["Article scientifique", "Mémoire universitaire", "Texte juridique", "Article journalistique"],
+    "answerIndex": 3,
+    "explication": "Les interviews sont un format journalistique."
+  },
+  {
+    "question": "30 - Quel type d’écrit peut être très court, comme une brève ?",
+    "options": [ "Scientifique", "Vulgarisation","Journalistique", "Narratif"],
+    "answerIndex": 2,
+    "explication": "La brève est un format journalistique très court."
+  },
+  {
+    "question": "31 - La présence systématique d’une section ‘Méthode’ permet d’identifier…",
+    "options": ["Un texte journalistique", "Un texte scientifique", "Un texte de vulgarisation", "Un texte narratif"],
+    "answerIndex": 1,
+    "explication": "La section 'Méthode' est typique d’un article scientifique."
+  },
+  {
+    "question": "32 - Un blog pédagogique qui simplifie des recherches correspond à…",
+    "options": ["Un texte scientifique", "Un texte de vulgarisation", "Un texte journalistique", "Un récit"],
+    "answerIndex": 1,
+    "explication": "Le blog pédagogique vulgarise la recherche."
+  },
+  {
+    "question": "33 - Les normes APA sont utilisées principalement dans…",
+    "options": ["La littérature", "Le journalisme", "Les sciences humaines et sociales", "Les textes juridiques"],
+    "answerIndex": 2,
+    "explication": "Les normes APA sont couramment utilisées dans les sciences humaines et sociales."
+  },
+  {
+    "question": "34 - Le DOI est…",
+    "options": ["Une base de données", "Un titre d’article", "Un type de citation", "Un identifiant numérique unique"],
+    "answerIndex": 3,
+    "explication": "Le DOI permet d’identifier et retrouver facilement une ressource scientifique."
+  },
+  {
+    "question": "35 - Une bibliographie APA place le prénom de l’auteur…",
+    "options": ["En entier", "En initiale", "Après le titre", "Avant l’éditeur"],
+    "answerIndex": 1,
+    "explication": "Les prénoms sont abrégés en initiale en APA."
+  },
+  {
+    "question": "36 - ‘(Nom, date, p.)’ correspond au format…",
+    "options": ["Paraphrase", "Citation longue", "Citation courte", "Référence finale"],
+    "answerIndex": 2,
+    "explication": "Les citations courtes incluent la page."
+  },
+  {
+    "question": "37 - ‘Nom, N. (Année). Titre. Éditeur.’ correspond à…",
+    "options": ["Une référence de livre", "Une référence d’article", "Une référence de chapitre", "Une référence de site web"],
+    "answerIndex": 0,
+    "explication": "C’est le format APA pour un livre."
+  },
+  {
+    "question": "38 - Un article de revue possède toujours…",
+    "options": [ "Un numéro de téléphone", "Un code ISBN", "Un DOI ou une URL","Un résumé en images"],
+    "answerIndex": 2,
+    "explication": "Les articles scientifiques incluent le DOI ou une URL stable."
+  },
+  {
+    "question": "39 - Le texte de vulgarisation évite…",
+    "options": ["Le jargon technique", "Le vocabulaire simple", "Le recours à des exemples", "Les illustrations"],
+    "answerIndex": 0,
+    "explication": "La vulgarisation limite le jargon pour être comprise."
+  },
+  {
+    "question": "40 - Un reportage est un type de texte…",
+    "options": ["Scientifique", "Journalistique", "Vulgarisation", "Académique"],
+    "answerIndex": 1,
+    "explication": "Le reportage appartient au journalisme."
+  },
+  {
+    "question": "41 - La structure IMRAD se retrouve surtout dans…",
+    "options": ["Les chroniques", "Les articles scientifiques", "Les articles de blogs", "Les livres scolaires"],
+    "answerIndex": 1,
+    "explication": "IMRAD est propre aux articles scientifiques."
+  },
+  {
+    "question": "42 - L'intention d'un texte scientifique est surtout…",
+    "options": ["Informer rapidement", "Simplifier les connaissances", "Produire et partager des résultats de recherche", "Convaincre politiquement"],
+    "answerIndex": 2,
+    "explication": "Le texte scientifique expose les résultats de recherche."
+  },
+  {
+    "question": "43 - L’intention d’un texte journalistique est…",
+    "options": ["Produire une recherche", "Simplifier une théorie complexe", "Remplacer les textes scientifiques", "Informer le public"],
+    "answerIndex": 3,
+    "explication": "Le texte journalistique informe, parfois avec un angle."
+  },
+  {
+    "question": "44 - Le texte de vulgarisation est souvent produit par…",
+    "options": ["Des spécialistes qui veulent rendre accessible", "Des journalistes uniquement", "Des experts pour d’autres experts", "Des écrivains"],
+    "answerIndex": 0,
+    "explication": "La vulgarisation est souvent produite par des spécialistes souhaitant rendre la science accessible."
+  },
+  {
+    "question": "45 - Un article scientifique doit respecter…",
+    "options": ["Les normes journalistiques", "Les normes APA", "Les règles de narration", "Aucune règle particulière"],
+    "answerIndex": 1,
+    "explication": "Les normes APA assurent la rigueur du texte scientifique."
+  },
+  {
+    "question": "46 - Un texte sans sources citées ne peut pas être…",
+    "options": ["Journalistique",  "Narratif", "Scientifique","Publicitaire"],
+    "answerIndex": 2,
+    "explication": "Un texte scientifique doit impérativement citer ses sources."
+  },
+  {
+    "question": "47 - Une revue de vulgarisation comme « Le Café pédagogique » appartient à…",
+    "options": ["La vulgarisation","La recherche scientifique",  "Le journalisme politique", "La littérature"],
+    "answerIndex": 0,
+    "explication": "Le Café pédagogique est un support de vulgarisation."
+  },
+  {
+    "question": "48 - Quel type de texte exige la vérifiabilité des données ?",
+    "options": ["Journalistique", "Vulgarisation", "Scientifique", "Narratif"],
+    "answerIndex": 2,
+    "explication": "La vérifiabilité est un critère essentiel des écrits scientifiques."
+  },
+  {
+    "question": "49 - L’usage de la première personne est le moins fréquent dans…",
+    "options": ["L’article scientifique","Le reportage", "Le blog de vulgarisation",  "La chronique"],
+    "answerIndex": 0,
+    "explication": "L’article scientifique cherche l’objectivité et évite le ‘je’."
+  },
+  {
+    "question": "50 - Un résumé d’article destiné à des étudiants est un…",
+    "options": ["Texte scientifique", "Texte de vulgarisation", "Texte journalistique", "Texte narratif"],
+    "answerIndex": 1,
+    "explication": "Le résumé simplifie et adapte le contenu : c’est de la vulgarisation."
+  }
+]

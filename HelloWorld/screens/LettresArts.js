@@ -81,10 +81,14 @@ export default function LessonScreen({ navigation }) {
 
          <View style={styles.linkContainer}>
                                 <Text style={styles.link} onPress={() => navigation.navigate('LettresArts')}> 🌱Introduction Part1</Text>
-                                <Text style={styles.link} onPress={() => navigation.navigate('LettresArts2')}>  🌱Introduction Part2</Text>
-                                <Text style={styles.link} onPress={() => navigation.navigate('LettresArts3')}> 🌱Le commentaire comparé</Text>
-                                 <Text style={styles.link} onPress={() => navigation.navigate('LettresArts4')}> 🌱Le petit lexique du Littéraire</Text>
-                                </View>
+                                                                <Text style={styles.link} onPress={() => navigation.navigate('LettresArts2')}>  🌱Introduction Part2</Text>
+                                                                <Text style={styles.link} onPress={() => navigation.navigate('LettresArts5')}>  🌱Le réalisme</Text>
+                                                                <Text style={styles.link} onPress={() => navigation.navigate('LettresArts6')}>  🌱Les Goncourt et l’écriture « artiste »</Text>
+                                                                <Text style={styles.link} onPress={() => navigation.navigate('LettresArts7')}>  🌱Baudelaire, la vie moderne & le spleen</Text>
+                                                                <Text style={styles.link} onPress={() => navigation.navigate('LettresArts8')}>  🌱Femmes auteures / artistes au XIXᵉ siècle</Text>
+                                                                <Text style={styles.link} onPress={() => navigation.navigate('LettresArts3')}> 🌱Le commentaire comparé</Text>
+                                                                 <Text style={styles.link} onPress={() => navigation.navigate('LettresArts4')}> 🌱Le petit lexique du Littéraire</Text>
+                                                                </View>
         
                 </ScrollView>
             );

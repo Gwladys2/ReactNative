@@ -1,0 +1,561 @@
+[
+  {
+    "question": "1 - Que représente la théorie du Yin et du Yang en Médecine Traditionnelle Chinoise ?",
+    "options": [
+      "Une théorie des organes",
+      "Une théorie de la dualité",
+      "Une théorie énergétique moderne",
+      "Une religion"
+    ],
+    "answerIndex": 1,
+    "explication": "La théorie du Yin et du Yang est la théorie de la dualité : une seule chose (le UN) se divise en deux aspects opposés et complémentaires."
+  },
+  {
+    "question": "2 - Le Yin et le Yang sont-ils des substances ou des énergies réelles ?",
+    "options": [
+      "Oui, ce sont des énergies",
+      "Oui, ce sont des forces",
+      "Non, ce sont des étiquettes de classification",
+      "Uniquement dans le corps humain"
+    ],
+    "answerIndex": 2,
+    "explication": "Le Yin et le Yang ne sont pas des substances ni des forces. Ce sont des notions servant à classer et comparer des phénomènes."
+  },
+  {
+    "question": "3 - Le Yin et le Yang existent-ils séparément ?",
+    "options": [
+      "Oui",
+      "Non",
+      "Uniquement dans la nature",
+      "Uniquement chez l’homme"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Yin et le Yang n’existent jamais seuls. Ils existent uniquement en relation l’un avec l’autre."
+  },
+  {
+    "question": "4 - Combien de natures principales sont utilisées pour décrire le Yin et le Yang dans ce cours ?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answerIndex": 3,
+    "explication": "Le cours décrit 7 natures Yin/Yang : haut/bas, interne/externe, chaud/froid, mobile/immobile, clair/sombre, invisible/visible, excité/inhibé."
+  },
+  {
+    "question": "5 - Quelle caractéristique appartient au Yang ?",
+    "options": [
+      "Froid",
+      "Immobile",
+      "Chaleur",
+      "Sombre"
+    ],
+    "answerIndex": 2,
+    "explication": "Le Yang est associé à la chaleur, au mouvement, à l’activité et à l’excitation."
+  },
+
+  {
+    "question": "6 - Quelle caractéristique appartient au Yin ?",
+    "options": [
+      "Chaud",
+      "Mobile",
+      "Excité",
+      "Froid"
+    ],
+    "answerIndex": 3,
+    "explication": "Le Yin est associé au froid, au calme, au ralentissement et à l’inhibition."
+  },
+  {
+    "question": "7 - Lequel est Yin par rapport à l’autre ?",
+    "options": [
+      "Le dos par rapport au ventre",
+      "L’extérieur par rapport à l’intérieur",
+      "L’intérieur par rapport à l’extérieur",
+      "La chaleur par rapport au froid"
+    ],
+    "answerIndex": 2,
+    "explication": "L’intérieur est Yin par rapport à l’extérieur, qui est Yang."
+  },
+  {
+    "question": "8 - Peut-on dire qu’une chose est absolument Yin ou absolument Yang ?",
+    "options": [
+      "Oui",
+      "Non",
+      "Uniquement en médecine",
+      "Uniquement en philosophie"
+    ],
+    "answerIndex": 1,
+    "explication": "Il est faux de dire qu’une chose est Yin ou Yang en soi. Elle est toujours Yin ou Yang par rapport à autre chose."
+  },
+  {
+    "question": "9 - Pourquoi dit-on que le Yin et le Yang sont relatifs ?",
+    "options": [
+      "Parce qu’ils changent selon les saisons",
+      "Parce qu’ils dépendent du point de comparaison",
+      "Parce qu’ils sont invisibles",
+      "Parce qu’ils sont symboliques"
+    ],
+    "answerIndex": 1,
+    "explication": "Une chose est Yin ou Yang uniquement par comparaison avec une autre."
+  },
+  {
+    "question": "10 - La division Yin/Yang est-elle limitée ?",
+    "options": [
+      "Oui, à deux niveaux",
+      "Oui, à l’homme",
+      "Non, elle est infinie",
+      "Seulement en théorie"
+    ],
+    "answerIndex": 2,
+    "explication": "La division Yin/Yang est infinie : on peut toujours diviser encore et encore."
+  },
+
+  {
+    "question": "11 - Quelle relation décrit le fait que le Yin et le Yang se contrôlent mutuellement ?",
+    "options": [
+      "Interaction",
+      "Opposition et restriction",
+      "Transformation",
+      "Croissance"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Yin et le Yang s’opposent mais se limitent mutuellement : c’est la restriction."
+  },
+  {
+    "question": "12 - Pourquoi la température du corps reste-t-elle stable selon la MTC ?",
+    "options": [
+      "Grâce aux hormones",
+      "Grâce à la restriction Yin/Yang",
+      "Grâce au cerveau",
+      "Grâce à l’alimentation"
+    ],
+    "answerIndex": 1,
+    "explication": "La température est stable car le Yin et le Yang se contrôlent mutuellement."
+  },
+  {
+    "question": "13 - Que signifie l’interaction du Yin et du Yang ?",
+    "options": [
+      "Ils s’annulent",
+      "Ils sont séparés",
+      "Ils produisent toutes les choses",
+      "Ils disparaissent"
+    ],
+    "answerIndex": 2,
+    "explication": "Tout ce qui existe résulte de l’interaction entre le Yin et le Yang."
+  },
+  {
+    "question": "14 - L’eau est-elle uniquement Yin ?",
+    "options": [
+      "Oui",
+      "Non",
+      "Uniquement en hiver",
+      "Uniquement la nuit"
+    ],
+    "answerIndex": 1,
+    "explication": "L’eau est plutôt Yin, mais comme elle bouge, elle contient aussi du Yang."
+  },
+  {
+    "question": "15 - Pourquoi le feu contient-il du Yin ?",
+    "options": [
+      "Parce qu’il est froid",
+      "Parce qu’il a besoin de matière pour brûler",
+      "Parce qu’il est immobile",
+      "Parce qu’il est sombre"
+    ],
+    "answerIndex": 1,
+    "explication": "Le feu est Yang à l’extérieur, mais il a besoin de matière (Yin) pour exister."
+  },
+
+  {
+    "question": "16 - Que signifie l’interdépendance Yin/Yang ?",
+    "options": [
+      "Ils s’opposent uniquement",
+      "Ils existent toujours ensemble",
+      "Ils sont indépendants",
+      "Ils sont en conflit permanent"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Yin ne peut pas exister sans le Yang, et inversement."
+  },
+  {
+    "question": "17 - Quelle phrase est correcte ?",
+    "options": [
+      "Le Yin domine toujours le Yang",
+      "Le Yang contient le Yin",
+      "Le Yin élimine le Yang",
+      "Le Yang détruit le Yin"
+    ],
+    "answerIndex": 1,
+    "explication": "On dit que le Yang contient le Yin et que le Yin retient le Yang."
+  },
+  {
+    "question": "18 - Que se passe-t-il quand le Yin diminue ?",
+    "options": [
+      "Le Yang diminue aussi",
+      "Le Yang augmente",
+      "Tout s’arrête",
+      "Le corps refroidit"
+    ],
+    "answerIndex": 1,
+    "explication": "Quand l’un diminue, l’autre augmente : c’est la croissance/décroissance."
+  },
+  {
+    "question": "19 - Quelle saison correspond à une augmentation du Yang ?",
+    "options": [
+      "Hiver",
+      "Automne",
+      "Printemps vers été",
+      "Nuit"
+    ],
+    "answerIndex": 2,
+    "explication": "Du printemps à l’été, le Yang augmente et le Yin diminue."
+  },
+  {
+    "question": "20 - À quel moment le Yin est-il maximal dans la journée ?",
+    "options": [
+      "À midi",
+      "Au lever du soleil",
+      "En début d’après-midi",
+      "Au milieu de la nuit"
+    ],
+    "answerIndex": 3,
+    "explication": "Le Yin est maximal au milieu de la nuit."
+  },
+
+  {
+    "question": "21 - Que signifie la transformation du Yin en Yang ?",
+    "options": [
+      "Une disparition",
+      "Un changement à l’extrême",
+      "Un blocage",
+      "Un arrêt"
+    ],
+    "answerIndex": 1,
+    "explication": "Quand une chose atteint son extrême, elle peut se transformer en son contraire."
+  },
+  {
+    "question": "22 - Une hormone calmante à faible dose mais excitante à forte dose illustre :",
+    "options": [
+      "La restriction",
+      "La transformation Yin/Yang",
+      "La croissance",
+      "L’interdépendance"
+    ],
+    "answerIndex": 1,
+    "explication": "C’est un exemple de transformation du Yin en Yang."
+  },
+  {
+    "question": "23 - Le Yin est associé physiologiquement à :",
+    "options": [
+      "L’excitation",
+      "Le réchauffement",
+      "Le ralentissement",
+      "Le catabolisme"
+    ],
+    "answerIndex": 2,
+    "explication": "Le Yin calme, ralentit et rafraîchit."
+  },
+  {
+    "question": "24 - Le Yang est associé physiologiquement à :",
+    "options": [
+      "Le refroidissement",
+      "L’anabolisme",
+      "L’excitation",
+      "L’inhibition"
+    ],
+    "answerIndex": 2,
+    "explication": "Le Yang excite, réchauffe et propulse."
+  },
+  {
+    "question": "25 - L’anabolisme appartient plutôt au :",
+    "options": [
+      "Yang",
+      "Yin",
+      "Ni l’un ni l’autre",
+      "Les deux"
+    ],
+    "answerIndex": 1,
+    "explication": "L’anabolisme (construction) est une fonction Yin."
+  },
+
+  {
+    "question": "26 - Le catabolisme appartient plutôt au :",
+    "options": [
+      "Yin",
+      "Yang",
+      "Les deux",
+      "Aucun"
+    ],
+    "answerIndex": 1,
+    "explication": "Le catabolisme (destruction, transformation) est une fonction Yang."
+  },
+  {
+    "question": "27 - Une sensation de chaleur peut être due à :",
+    "options": [
+      "Un vide de Yang uniquement",
+      "Un excès de Yang ou un vide de Yin",
+      "Un excès de Yin",
+      "Un vide de Qi uniquement"
+    ],
+    "answerIndex": 1,
+    "explication": "La chaleur peut venir soit d’un excès de Yang, soit d’un manque de Yin."
+  },
+  {
+    "question": "28 - Une sensation de froid peut être due à :",
+    "options": [
+      "Un excès de Yang",
+      "Un vide de Yin",
+      "Un excès de Yin ou un vide de Yang",
+      "Un excès de Qi"
+    ],
+    "answerIndex": 2,
+    "explication": "Le froid peut venir d’un excès de Yin ou d’un manque de Yang."
+  },
+  {
+    "question": "29 - Une chaleur due à un excès de Yang est appelée :",
+    "options": [
+      "Chaleur vide",
+      "Chaleur plénitude",
+      "Froid vide",
+      "Froid plénitude"
+    ],
+    "answerIndex": 1,
+    "explication": "Un excès de Yang produit une chaleur dite de plénitude."
+  },
+  {
+    "question": "30 - Les bouffées de chaleur de la ménopause correspondent à :",
+    "options": [
+      "Un excès de Yang",
+      "Un vide de Yin",
+      "Un excès de Yin",
+      "Un vide de Yang"
+    ],
+    "answerIndex": 1,
+    "explication": "Les bouffées de chaleur sont dues à un vide de Yin."
+  },
+
+  {
+    "question": "31 - Un refroidissement hivernal correspond plutôt à :",
+    "options": [
+      "Un vide de Yang",
+      "Un excès de Yin",
+      "Un excès de Yang",
+      "Un vide de Yin"
+    ],
+    "answerIndex": 1,
+    "explication": "Le froid plénitude est lié à un excès de Yin."
+  },
+  {
+    "question": "32 - La fatigue et la frilosité correspondent à :",
+    "options": [
+      "Un excès de Yang",
+      "Un excès de Yin",
+      "Un vide de Yang",
+      "Un vide de Yin"
+    ],
+    "answerIndex": 2,
+    "explication": "Un vide de Yang entraîne fatigue et sensation de froid."
+  },
+  {
+    "question": "33 - En pratique clinique, on recherche le plus souvent :",
+    "options": [
+      "Un excès",
+      "Un vide",
+      "Un blocage uniquement",
+      "Une infection"
+    ],
+    "answerIndex": 1,
+    "explication": "La plupart des déséquilibres sont liés à un vide de Yin ou de Yang."
+  },
+  {
+    "question": "34 - La peau est plutôt :",
+    "options": [
+      "Yin",
+      "Yang",
+      "Neutre",
+      "Variable"
+    ],
+    "answerIndex": 1,
+    "explication": "La peau est externe, donc plutôt Yang."
+  },
+  {
+    "question": "35 - Les os sont plutôt :",
+    "options": [
+      "Yang",
+      "Yin",
+      "Externes",
+      "Excités"
+    ],
+    "answerIndex": 1,
+    "explication": "Les os sont internes et profonds, donc Yin."
+  },
+
+  {
+    "question": "36 - Le dos est plus Yang que :",
+    "options": [
+      "La tête",
+      "Les bras",
+      "Le ventre",
+      "Les jambes"
+    ],
+    "answerIndex": 2,
+    "explication": "Le dos est plus Yang que le ventre."
+  },
+  {
+    "question": "37 - La tête est plus Yang que :",
+    "options": [
+      "Le dos",
+      "Les pieds",
+      "Les épaules",
+      "Le thorax"
+    ],
+    "answerIndex": 1,
+    "explication": "La tête est plus Yang que les pieds."
+  },
+  {
+    "question": "38 - Sur le plan clinique, ces classifications sont :",
+    "options": [
+      "Essentielles",
+      "Indispensables",
+      "Peu utiles",
+      "Obligatoires"
+    ],
+    "answerIndex": 2,
+    "explication": "Le cours précise que ces détails ont peu d’utilité clinique."
+  },
+  {
+    "question": "39 - Le Yin correspond à une activité plutôt :",
+    "options": [
+      "Orthosympathique",
+      "Parasympathique",
+      "Catabolique",
+      "Excitatrice"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Yin correspond plutôt à l’activité parasympathique."
+  },
+  {
+    "question": "40 - Le Yang correspond à une activité plutôt :",
+    "options": [
+      "Calmante",
+      "Parasympathique",
+      "Orthosympathique",
+      "Inhibée"
+    ],
+    "answerIndex": 2,
+    "explication": "Le Yang correspond plutôt à l’activité orthosympathique."
+  },
+
+  {
+    "question": "41 - Le Yin a un effet principalement :",
+    "options": [
+      "Réchauffant",
+      "Rafraîchissant",
+      "Excitant",
+      "Propulsif"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Yin rafraîchit et calme."
+  },
+  {
+    "question": "42 - Le Yang a un effet principalement :",
+    "options": [
+      "Ralentissant",
+      "Inhibiteur",
+      "Réchauffant",
+      "Immobilisant"
+    ],
+    "answerIndex": 2,
+    "explication": "Le Yang réchauffe et active."
+  },
+  {
+    "question": "43 - Transformer le visible en invisible est une fonction :",
+    "options": [
+      "Yin",
+      "Yang",
+      "Les deux",
+      "Aucune"
+    ],
+    "answerIndex": 1,
+    "explication": "La transformation est une fonction Yang."
+  },
+  {
+    "question": "44 - Humecter et rafraîchir sont des fonctions :",
+    "options": [
+      "Yang",
+      "Yin",
+      "Mixtes",
+      "Neutres"
+    ],
+    "answerIndex": 1,
+    "explication": "Humecter et rafraîchir sont des fonctions Yin."
+  },
+  {
+    "question": "45 - Réchauffer et propulser sont des fonctions :",
+    "options": [
+      "Yin",
+      "Yang",
+      "Neutres",
+      "Mixtes"
+    ],
+    "answerIndex": 1,
+    "explication": "Réchauffer et propulser sont des fonctions Yang."
+  },
+
+  {
+    "question": "46 - Le Yin et le Yang sont surtout utilisés pour :",
+    "options": [
+      "Nommer les maladies",
+      "Comprendre les déséquilibres",
+      "Remplacer la médecine moderne",
+      "Faire des diagnostics précis"
+    ],
+    "answerIndex": 1,
+    "explication": "Ils servent à comprendre les déséquilibres du corps."
+  },
+  {
+    "question": "47 - Une infection donne souvent :",
+    "options": [
+      "Un froid vide",
+      "Une chaleur plénitude",
+      "Un froid plénitude",
+      "Un vide de Yin"
+    ],
+    "answerIndex": 1,
+    "explication": "Les infections provoquent souvent un excès de Yang donc une chaleur plénitude."
+  },
+  {
+    "question": "48 - En résumé, le Yin et le Yang sont :",
+    "options": [
+      "Des forces mystiques",
+      "Des outils de compréhension",
+      "Des substances",
+      "Des organes"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Yin et le Yang sont des outils conceptuels pour comprendre le fonctionnement du corps."
+  },
+  {
+    "question": "49 - Dire « il y a chaleur » signifie toujours :",
+    "options": [
+      "Excès de Yang",
+      "Vide de Yin",
+      "Les deux possibles",
+      "Toujours une infection"
+    ],
+    "answerIndex": 2,
+    "explication": "La chaleur peut venir d’un excès de Yang ou d’un vide de Yin."
+  },
+  {
+    "question": "50 - La théorie du Yin et du Yang sert principalement à :",
+    "options": [
+      "Faire des examens",
+      "Comprendre l’équilibre du corps",
+      "Mesurer l’énergie",
+      "Remplacer les analyses médicales"
+    ],
+    "answerIndex": 1,
+    "explication": "Elle sert à comprendre l’équilibre et les déséquilibres du corps humain."
+  }
+]

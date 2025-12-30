@@ -1,8 +1,8 @@
 [
   {
     "question": "1 - [Identification] Quel compositeur a écrit la Symphonie n°40 K.550 ?",
-    "options": ["Wolfgang Amadeus Mozart", "Joseph Haydn", "Johann Stamitz", "Ludwig van Beethoven"],
-    "answerIndex": 0,
+    "options": [ "Joseph Haydn", "Johann Stamitz", "Wolfgang Amadeus Mozart","Ludwig van Beethoven"],
+    "answerIndex": 2,
     "explication": "La Symphonie n°40 K.550 a été composée par Mozart en 1788 à Vienne."
   },
   {
@@ -13,20 +13,20 @@
   },
   {
     "question": "3 - [Contexte] La Symphonie n°40 fait partie de quel ensemble ?",
-    "options": ["Trois dernières symphonies (39, 40, 41)", "Symphonies de jeunesse", "Symphonies de Mannheim", "Symphonies tardives de Haydn"],
-    "answerIndex": 0,
+    "options": [ "Symphonies de jeunesse", "Trois dernières symphonies (39, 40, 41)","Symphonies de Mannheim", "Symphonies tardives de Haydn"],
+    "answerIndex": 1,
     "explication": "Elle appartient aux trois dernières symphonies composées par Mozart."
   },
   {
     "question": "4 - [Style] Quel style caractérise cette symphonie ?",
-    "options": ["Classicisme viennois mature", "Sturm und Drang", "Romantisme", "Baroque tardif"],
-    "answerIndex": 0,
+    "options": [ "Sturm und Drang", "Romantisme","Classicisme viennois mature", "Baroque tardif"],
+    "answerIndex": 2,
     "explication": "Le style est celui du classicisme viennois mature, mais plus dramatique et expressif."
   },
   {
     "question": "5 - [Tonalité] Quelle est la tonalité de cette symphonie ?",
-    "options": ["Sol mineur", "Mi bémol majeur", "Ré majeur", "Fa majeur"],
-    "answerIndex": 0,
+    "options": [ "Mi bémol majeur","Sol mineur", "Ré majeur", "Fa majeur"],
+    "answerIndex": 1,
     "explication": "La Symphonie n°40 est en sol mineur, conférant un caractère sombre et passionné."
   },
   {
@@ -37,20 +37,20 @@
   },
   {
     "question": "7 - [Premier thème] Comment est le thème principal du premier mouvement ?",
-    "options": ["Dramatique et agité", "Paisible et méditatif", "Humoristique", "Lyrique léger"],
-    "answerIndex": 0,
+    "options": [ "Paisible et méditatif", "Humoristique", "Dramatique et agité","Lyrique léger"],
+    "answerIndex": 2,
     "explication": "Le thème principal est sombre, dramatique et agité."
   },
   {
     "question": "8 - [Second thème] Quel caractère présente le second thème du premier mouvement ?",
-    "options": ["Lyrique mais tendu", "Tranquille et joyeux", "Humoristique", "Silencieux"],
-    "answerIndex": 0,
+    "options": [ "Tranquille et joyeux", "Lyrique mais tendu","Humoristique", "Silencieux"],
+    "answerIndex": 1,
     "explication": "Le second thème est lyrique mais conserve une tension, contrastant avec le thème principal."
   },
   {
     "question": "9 - [Forme] Quelle forme structurelle domine le premier mouvement ?",
-    "options": ["Forme sonate", "Rondo", "Fugue", "Suite de danses"],
-    "answerIndex": 0,
+    "options": [ "Rondo", "Fugue", "Suite de danses","Forme sonate"],
+    "answerIndex": 3,
     "explication": "Le premier mouvement est en forme sonate avec exposition, développement et réexposition."
   },
   {
@@ -61,14 +61,14 @@
   },
   {
     "question": "11 - [Réexposition] Que se passe-t-il lors de la réexposition ?",
-    "options": ["Retour des thèmes principaux dans leur tonalité d’origine", "Introduction d’un nouveau thème", "Silence prolongé", "Improvisation libre"],
-    "answerIndex": 0,
+    "options": [ "Introduction d’un nouveau thème", "Retour des thèmes principaux dans leur tonalité d’origine","Silence prolongé", "Improvisation libre"],
+    "answerIndex": 1,
     "explication": "Les thèmes reviennent dans la tonalité d’origine, mais avec intensité dramatique."
   },
   {
     "question": "12 - [Orchestration] Quel rôle des cordes dans le premier mouvement ?",
-    "options": ["Porter les thèmes et exprimer tension", "Créer silence", "Accentuer les cuivres", "Improviser librement"],
-    "answerIndex": 0,
+    "options": [ "Créer silence", "Accentuer les cuivres","Porter les thèmes et exprimer tension", "Improviser librement"],
+    "answerIndex": 2,
     "explication": "Les cordes portent les thèmes et renforcent la tension dramatique."
   },
   {
@@ -79,20 +79,20 @@
   },
   {
     "question": "14 - [Orchestration] Quel rôle des cors ?",
-    "options": ["Accentuer la tension et ponctuer les accents", "Porter le thème principal", "Improviser", "Silence total"],
-    "answerIndex": 0,
+    "options": [ "Porter le thème principal", "Improviser", "Silence total","Accentuer la tension et ponctuer les accents"],
+    "answerIndex": 3,
     "explication": "Les cors soulignent les accents et renforcent l’intensité dramatique."
   },
   {
     "question": "15 - [Orchestration] Quel rôle des timbales ?",
-    "options": ["Renforcer les accents et la dynamique", "Porter le thème principal", "Accompagner le second thème", "Improviser"],
-    "answerIndex": 0,
+    "options": [ "Porter le thème principal", "Accompagner le second thème", "Renforcer les accents et la dynamique","Improviser"],
+    "answerIndex": 2,
     "explication": "Les timbales ponctuent les accents et renforcent la tension dramatique."
   },
   {
     "question": "16 - [Dynamique] Comment Mozart utilise-t-il les nuances ?",
-    "options": ["Pour accentuer la tension et les contrastes", "Pour masquer les thèmes", "Silence continu", "Improvisation libre"],
-    "answerIndex": 0,
+    "options": [ "Pour masquer les thèmes", "Pour accentuer la tension et les contrastes","Silence continu", "Improvisation libre"],
+    "answerIndex": 1,
     "explication": "Les nuances renforcent la tension et la clarté dramatique."
   },
   {
@@ -103,14 +103,14 @@
   },
   {
     "question": "18 - [Émotion] Quelle émotion domine la symphonie ?",
-    "options": ["Drame et tension", "Joie festive", "Humour", "Mysticisme"],
-    "answerIndex": 0,
+    "options": [ "Joie festive", "Humour", "Drame et tension","Mysticisme"],
+    "answerIndex": 2,
     "explication": "La symphonie exprime tension, passion et agitation caractéristiques du style mineur."
   },
   {
     "question": "19 - [Rythme] Quels motifs rythmiques dominent ?",
-    "options": ["Syncopés et insistants", "Lents et fluides", "Polyphoniques", "Silencieux"],
-    "answerIndex": 0,
+    "options": [ "Lents et fluides", "Syncopés et insistants","Polyphoniques", "Silencieux"],
+    "answerIndex": 1,
     "explication": "Les motifs sont syncopés et insistants, renforçant le caractère dramatique."
   },
   {
@@ -121,14 +121,14 @@
   },
   {
     "question": "21 - [Menuetto] Quel caractère a le Menuetto ?",
-    "options": ["Noble et sérieux", "Léger et comique", "Improvisé", "Tragique"],
-    "answerIndex": 0,
+    "options": [ "Léger et comique", "Improvisé", "Noble et sérieux","Tragique"],
+    "answerIndex": 2,
     "explication": "Le Menuetto est noble et sérieux, avec un Trio plus clair."
   },
   {
     "question": "22 - [Finale] Quel caractère domine le dernier mouvement ?",
-    "options": ["Énergique et dramatique", "Paisible", "Humoristique", "Mystique"],
-    "answerIndex": 0,
+    "options": [ "Paisible", "Énergique et dramatique","Humoristique", "Mystique"],
+    "answerIndex": 1,
     "explication": "Le Finale est rapide, vif et maintient la tension dramatique."
   },
   {
@@ -139,20 +139,20 @@
   },
   {
     "question": "24 - [Innovations] Quelle innovation stylistique est notable ?",
-    "options": ["Expression dramatique et usage du mineur", "Polyphonie stricte", "Silence prolongé", "Improvisation baroque"],
-    "answerIndex": 0,
+    "options": [ "Polyphonie stricte", "Silence prolongé", "Expression dramatique et usage du mineur","Improvisation baroque"],
+    "answerIndex": 2,
     "explication": "Mozart utilise le mineur pour intensifier l’expression dramatique."
   },
   {
     "question": "25 - [Comparaison] Avec quelles symphonies cette œuvre est-elle associée ?",
-    "options": ["Symphonies n°39 et n°41", "Symphonie n°35", "Symphonie n°25", "Symphonie de Haydn n°87"],
-    "answerIndex": 0,
+    "options": [ "Symphonie n°35", "Symphonies n°39 et n°41","Symphonie n°25", "Symphonie de Haydn n°87"],
+    "answerIndex": 1,
     "explication": "Elle fait partie des trois dernières symphonies de Mozart, avec les n°39 et n°41."
   },
   {
     "question": "26 - [Tonalité] Quel effet produit la tonalité de sol mineur ?",
-    "options": ["Tension et passion", "Éclat festif", "Humour léger", "Mysticisme"],
-    "answerIndex": 0,
+    "options": [ "Éclat festif", "Humour léger", "Tension et passion","Mysticisme"],
+    "answerIndex": 2,
     "explication": "Le sol mineur confère un caractère dramatique et intense."
   },
   {
@@ -163,20 +163,20 @@
   },
   {
     "question": "28 - [Clarté] Comment Mozart organise-t-il les thèmes ?",
-    "options": ["Clairs et contrastés", "Confus", "Aléatoires", "Polyphoniques complexes"],
-    "answerIndex": 0,
+    "options": [ "Confus", "Aléatoires", "Clairs et contrastés","Polyphoniques complexes"],
+    "answerIndex": 2,
     "explication": "Les thèmes sont clairs et contrastés malgré l’intensité dramatique."
   },
   {
     "question": "29 - [Rythme] Quel rôle joue le rythme ?",
-    "options": ["Créer tension et agitation", "Ralentir le mouvement", "Silence", "Improvisation"],
-    "answerIndex": 0,
+    "options": [ "Ralentir le mouvement","Créer tension et agitation", "Silence", "Improvisation"],
+    "answerIndex": 1,
     "explication": "Le rythme ponctué et syncopé accentue l’agitation et le drame."
   },
   {
     "question": "30 - [Dynamique] Comment les nuances sont-elles utilisées ?",
-    "options": ["Pour accentuer tension et contrastes", "Masquer les thèmes", "Silence prolongé", "Improvisation libre"],
-    "answerIndex": 0,
+    "options": [ "Masquer les thèmes", "Silence prolongé", "Improvisation libre","Pour accentuer tension et contrastes"],
+    "answerIndex": 3,
     "explication": "Les nuances renforcent le drame et la clarté des passages expressifs."
   },
   {
@@ -187,20 +187,20 @@
   },
   {
     "question": "32 - [Orchestration] Quel rôle des bois dans le premier mouvement ?",
-    "options": ["Soutenir et colorer les thèmes", "Porter le thème principal", "Créer chaos", "Improviser"],
-    "answerIndex": 0,
+    "options": [ "Porter le thème principal","Soutenir et colorer les thèmes", "Créer chaos", "Improviser"],
+    "answerIndex": 1,
     "explication": "Les bois ajoutent couleur et dialogue aux cordes."
   },
   {
     "question": "33 - [Cuivres] Comment interviennent-ils ?",
-    "options": ["Accentuer et ponctuer les moments dramatiques", "Porter le thème principal", "Improviser", "Silence total"],
-    "answerIndex": 0,
+    "options": [ "Porter le thème principal", "Improviser", "Silence total","Accentuer et ponctuer les moments dramatiques"],
+    "answerIndex": 3,
     "explication": "Les cors ponctuent les accents et renforcent la tension dramatique."
   },
   {
     "question": "34 - [Virtuosité] Où se manifeste la virtuosité ?",
-    "options": ["Cordes rapides et dialogues bois-cordes", "Cuivres seuls", "Timbales uniquement", "Silence"],
-    "answerIndex": 0,
+    "options": [ "Cuivres seuls", "Timbales uniquement", "Cordes rapides et dialogues bois-cordes","Silence"],
+    "answerIndex": 2,
     "explication": "Les cordes rapides et les dialogues avec les bois montrent la virtuosité."
   },
   {
@@ -211,14 +211,14 @@
   },
   {
     "question": "36 - [Clarté] Comment est la structure thématique ?",
-    "options": ["Clair et équilibré", "Confus", "Improvisé", "Polyphonique complexe"],
-    "answerIndex": 0,
+    "options": [ "Confus", "Clair et équilibré","Improvisé", "Polyphonique complexe"],
+    "answerIndex": 1,
     "explication": "La structure est claire et équilibrée malgré la tonalité mineure."
   },
   {
     "question": "37 - [Menuetto] Comment se distingue le Trio ?",
-    "options": ["Plus léger et clair que le Menuetto", "Plus sombre", "Humoristique", "Polyphonique complexe"],
-    "answerIndex": 0,
+    "options": [ "Plus sombre", "Humoristique", "Polyphonique complexe","Plus léger et clair que le Menuetto"],
+    "answerIndex": 3,
     "explication": "Le Trio contraste avec le Menuetto par sa légèreté et sa clarté."
   },
   {
@@ -229,8 +229,8 @@
   },
   {
     "question": "39 - [Innovations] Quelle innovation stylistique est perceptible ?",
-    "options": ["Expression dramatique accrue et usage du mineur", "Polyphonie stricte", "Silence prolongé", "Improvisation baroque"],
-    "answerIndex": 0,
+    "options": [ "Polyphonie stricte", "Silence prolongé", "Expression dramatique accrue et usage du mineur","Improvisation baroque"],
+    "answerIndex": 2,
     "explication": "Mozart utilise le mineur pour intensifier l’expression dramatique dans le classicisme."
   },
   {

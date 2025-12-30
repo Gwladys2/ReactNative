@@ -1,0 +1,556 @@
+[
+  {
+    "question": "1 - Selon la pédagogie institutionnelle, comment apprend-on principalement ?",
+    "options": [
+      "En mémorisant des leçons",
+      "En écoutant l’enseignant",
+      "En faisant",
+      "En répétant des exercices"
+    ],
+    "answerIndex": 2,
+    "explication": "La pédagogie institutionnelle s’appuie sur le principe de Dewey : on apprend en faisant, à travers l’action et l’expérience."
+  },
+  {
+    "question": "2 - Que signifie la décentration partielle des pouvoirs ?",
+    "options": [
+      "Supprimer l’autorité de l’enseignant",
+      "Partager certains pouvoirs avec les élèves",
+      "Donner tout le pouvoir aux élèves",
+      "Refuser toute règle"
+    ],
+    "answerIndex": 1,
+    "explication": "La PI vise à contourner la relation duale maître-élève en partageant certains pouvoirs avec le groupe d’élèves."
+  },
+  {
+    "question": "3 - Quel rôle jouent les interactions entre pairs en PI ?",
+    "options": [
+      "Elles sont secondaires",
+      "Elles sont source de conflits",
+      "Elles doivent être limitées",
+      "Elles sont essentielles aux apprentissages"
+    ],
+    "answerIndex": 3,
+    "explication": "La pédagogie institutionnelle accorde un intérêt particulier aux interactions entre pairs, considérées comme structurantes."
+  },
+  {
+    "question": "4 - Quelle idée fondamentale concerne les habiletés sociales ?",
+    "options": [
+      "Elles s’enseignent",
+      "Elles sont innées",
+      "Elles ne s’enseignent pas",
+      "Elles sont secondaires"
+    ],
+    "answerIndex": 0,
+    "explication": "La PI affirme que les habiletés sociales doivent être enseignées explicitement."
+  },
+  {
+    "question": "5 - Quelle pratique est refusée en pédagogie institutionnelle ?",
+    "options": [
+      "La sanction",
+      "La règle",
+      "La punition",
+      "Le conseil"
+    ],
+    "answerIndex": 2,
+    "explication": "La PI préfère la sanction éducative à la punition, jugée arbitraire et inefficace."
+  },
+  {
+    "question": "6 - Contre quoi la PI lutte-t-elle concernant l’évaluation ?",
+    "options": [
+      "La coopération",
+      "La logique des résultats",
+      "L’expression orale",
+      "Le travail en groupe"
+    ],
+    "answerIndex": 1,
+    "explication": "La PI critique une évaluation centrée uniquement sur les résultats scolaires et les savoirs fondamentaux."
+  },
+  {
+    "question": "7 - Comment la PI considère-t-elle la compétition scolaire ?",
+    "options": [
+      "Indispensable",
+      "Motivante",
+      "À encourager",
+      "À combattre"
+    ],
+    "answerIndex": 3,
+    "explication": "La pédagogie institutionnelle lutte contre les dispositifs valorisant la compétition entre élèves."
+  },
+  {
+    "question": "8 - Qu’est-ce qu’une institution en pédagogie institutionnelle ?",
+    "options": [
+      "Un bâtiment scolaire",
+      "Une règle ou un dispositif collectif",
+      "Un programme officiel",
+      "Une sanction"
+    ],
+    "answerIndex": 1,
+    "explication": "Une institution est un opérateur collectif qui organise la vie du groupe et remplace l’action individuelle de l’adulte."
+  },
+  {
+    "question": "9 - Quel exemple simple illustre une institution selon Oury ?",
+    "options": [
+      "Une punition écrite",
+      "Une leçon",
+      "Une règle pour utiliser le savon",
+      "Un devoir maison"
+    ],
+    "answerIndex": 2,
+    "explication": "Oury explique qu’une simple règle permettant d’éviter les conflits est déjà une institution."
+  },
+  {
+    "question": "10 - Quelle institution permet l’expression libre des élèves ?",
+    "options": [
+      "Le conseil",
+      "Les ceintures",
+      "Le quoi de neuf",
+      "Les métiers"
+    ],
+    "answerIndex": 2,
+    "explication": "Le « Quoi de neuf ? » permet aux élèves de s’exprimer librement sur un sujet de leur choix."
+  },
+
+  {
+    "question": "11 - Quelle institution organise la vie démocratique de la classe ?",
+    "options": [
+      "Le conseil d’élèves",
+      "Les ceintures",  
+      "La monnaie intérieure",
+      "Les messages clairs"
+    ],
+    "answerIndex": 0,
+    "explication": "Le conseil d’élèves est l’instance centrale de discussion, de décision et de régulation du groupe."
+  },
+  {
+    "question": "12 - Qui anime le conseil d’élèves ?",
+    "options": [
+      "Uniquement l’enseignant",
+      "Un inspecteur",
+      "Un élève président et un secrétaire",
+      "Le directeur"
+    ],
+    "answerIndex": 2,
+    "explication": "Le conseil est animé par des élèves, ce qui favorise la responsabilisation et la coopération."
+  },
+  {
+    "question": "13 - Quel droit conserve l’enseignant lors du conseil ?",
+    "options": [
+      "Le droit de punir",
+      "Le droit de veto",
+      "Le droit de silence",
+      "Le droit d’exclure"
+    ],
+    "answerIndex": 1,
+    "explication": "L’enseignant participe au conseil et conserve un droit de veto garant du cadre institutionnel."
+  },
+  {
+    "question": "14 - Pourquoi le conseil est-il comparé à un œil ?",
+    "options": [
+      "Il surveille",
+      "Il observe les comportements",
+      "Il punit",
+      "Il note"
+    ],
+    "answerIndex": 1,
+    "explication": "Le conseil rend visibles les comportements de chacun et favorise la prise de conscience collective."
+  },
+  {
+    "question": "15 - Pourquoi le conseil est-il comparé à un rein ?",
+    "options": [
+      "Il sanctionne",
+      "Il trie les élèves",
+      "Il épure les tensions",
+      "Il sélectionne"
+    ],
+    "answerIndex": 2,
+    "explication": "Le conseil permet d’évacuer tensions et conflits par la parole plutôt que par la violence."
+  },
+  {
+    "question": "16 - Quel élément figure dans l’ordre du jour du conseil ?",
+    "options": [
+      "Les contrôles",
+      "Les punitions",
+      "Les notes",
+      "Les critiques"
+    ],
+    "answerIndex": 3,
+    "explication": "Les critiques font partie intégrante du conseil et permettent de réguler la vie collective."
+  },
+  {
+    "question": "17 - À quoi servent les métiers en classe ?",
+    "options": [
+      "À classer les élèves",
+      "À responsabiliser les élèves",
+      "À punir",
+      "À évaluer"
+    ],
+    "answerIndex": 1,
+    "explication": "Les métiers donnent à chaque élève une responsabilité et un rôle dans le groupe."
+  },
+  {
+    "question": "18 - Pourquoi les métiers sont-ils essentiels selon Oury ?",
+    "options": [
+      "Pour gagner du temps",
+      "Pour maintenir l’ordre",
+      "Pour créer le désir d’être en classe",
+      "Pour noter les élèves"
+    ],
+    "answerIndex": 2,
+    "explication": "Rien ne se fait sans désir : avoir une fonction permet à l’élève de se sentir indispensable."
+  },
+  {
+    "question": "19 - Que représentent les ceintures de comportement ?",
+    "options": [
+      "Des notes",
+      "Des sanctions",
+      "Des punitions",
+      "Des niveaux de maîtrise comportementale"
+    ],
+    "answerIndex": 3,
+    "explication": "Les ceintures symbolisent des niveaux de comportement associés à des droits et devoirs."
+  },
+  {
+    "question": "20 - Une ceinture obtenue peut-elle être retirée ?",
+    "options": [
+      "Toujours",
+      "Jamais",
+      "Seulement par l’enseignant",
+      "Seulement par le directeur"
+    ],
+    "answerIndex": 1,
+    "explication": "Une ceinture acquise ne peut pas être retirée, ce qui valorise les progrès durables."
+  },
+
+  {
+    "question": "21 - Comment progresse-t-on dans les ceintures ?",
+    "options": [
+      "Par décision de l’enseignant",
+      "Par tirage au sort",
+      "En en faisant la demande au conseil",
+      "Par examen écrit"
+    ],
+    "answerIndex": 2,
+    "explication": "L’élève demande lui-même le passage de ceinture au conseil après entraînement."
+  },
+  {
+    "question": "22 - À quoi servent les messages clairs ?",
+    "options": [
+      "À sanctionner",
+      "À régler les conflits par la parole",
+      "À noter",
+      "À donner des ordres"
+    ],
+    "answerIndex": 1,
+    "explication": "Les messages clairs permettent d’exprimer un problème sans violence et de rechercher une solution."
+  },
+  {
+    "question": "23 - Quelle institution favorise la communication orale régulière ?",
+    "options": [
+      "Le quoi de neuf",
+      "Le marché",
+      "Le conseil",
+      "Les ceintures"
+    ],
+    "answerIndex": 0,
+    "explication": "Le « Quoi de neuf ? » est un temps ritualisé de prise de parole."
+  },
+  {
+    "question": "24 - Que peut devenir un « quoi de neuf » ?",
+    "options": [
+      "Une punition",
+      "Un projet de classe",
+      "Un contrôle",
+      "Une sanction"
+    ],
+    "answerIndex": 1,
+    "explication": "Ce qui est présenté peut donner lieu à un projet personnel ou collectif."
+  },
+  {
+    "question": "25 - Que combat la PI face au travail scolaire ?",
+    "options": [
+      "Le plaisir d’apprendre",
+      "La coopération",
+      "L’autonomie",
+      "Le travail-corvée"
+    ],
+    "answerIndex": 3,
+    "explication": "La PI s’oppose à une vision du travail comme contrainte imposée."
+  },
+  {
+    "question": "26 - Que signifie la loi en pédagogie institutionnelle ?",
+    "options": [
+      "La volonté de l’adulte",
+      "Une punition",
+      "Une condition de la parole et de l’échange",
+      "Une contrainte inutile"
+    ],
+    "answerIndex": 2,
+    "explication": "La loi permet l’échange, la parole et l’accès au langage."
+  },
+  {
+    "question": "27 - La loi est-elle négociable en PI ?",
+    "options": [
+      "Selon les règles discutées",
+      "Jamais",
+      "Toujours",
+      "Uniquement par l’enseignant"
+    ],
+    "answerIndex": 0,
+    "explication": "Les règles peuvent évoluer et être discutées au conseil."
+  },
+  {
+    "question": "28 - Que permet le langage en PI ?",
+    "options": [
+      "De punir",
+      "D’exprimer et négocier les désirs",
+      "D’imposer",
+      "De classer"
+    ],
+    "answerIndex": 1,
+    "explication": "Le langage est la médiation essentielle pour réguler les relations et instituer les lois."
+  },
+  {
+    "question": "29 - Quels sont les quatre « L » de la PI ?",
+    "options": [
+      "Lieu, Loi, Livre, Leçon",
+      "Langage, Lecture, Loi, Liberté",
+      "Limite, Loi, Logique, Lien",
+      "Lieu, Limite, Loi, Langage"
+    ],
+    "answerIndex": 3,
+    "explication": "Les quatre L structurent le cadre institutionnel : Lieu, Limite, Loi, Langage."
+  },
+  {
+    "question": "30 - Pourquoi le lieu est-il important ?",
+    "options": [
+      "Pour surveiller",
+      "Pour permettre à l’élève d’exister comme sujet",
+      "Pour punir",
+      "Pour noter"
+    ],
+    "answerIndex": 1,
+    "explication": "L’élève doit pouvoir investir des lieux pour se construire comme « je » parmi les autres."
+  },
+
+  {
+    "question": "31 - Quelle est la fonction des limites ?",
+    "options": [
+      "Contraindre inutilement",
+      "Exclure",
+      "Faire exister l’autre",
+      "Punir"
+    ],
+    "answerIndex": 2,
+    "explication": "Les limites permettent de reconnaître l’autre comme distinct de soi."
+  },
+  {
+    "question": "32 - Pourquoi la PI refuse-t-elle l’arbitraire ?",
+    "options": [
+      "Parce qu’il crée de l’injustice",
+      "Parce qu’il fait gagner du temps",
+      "Parce qu’il renforce l’autorité",
+      "Parce qu’il motive"
+    ],
+    "answerIndex": 0,
+    "explication": "Les décisions arbitraires nuisent à la confiance et à la construction du collectif."
+  },
+  {
+    "question": "33 - Que vise la monnaie intérieure ?",
+    "options": [
+      "Enrichir les élèves",
+      "Noter",
+      "Punir",
+      "Réguler les échanges"
+    ],
+    "answerIndex": 3,
+    "explication": "La monnaie intérieure est un outil symbolique pour organiser les échanges et responsabilités."
+  },
+  {
+    "question": "34 - Quelle logique domine dans la PI ?",
+    "options": [
+      "La compétition",
+      "La coopération",
+      "La sélection",
+      "La comparaison"
+    ],
+    "answerIndex": 1,
+    "explication": "La coopération est au cœur de la pédagogie institutionnelle."
+  },
+  {
+    "question": "35 - Quel est le rôle principal de l’enseignant en PI ?",
+    "options": [
+      "Diriger seul",
+      "Sanctionner",
+      "Garantir le cadre",
+      "Se retirer totalement"
+    ],
+    "answerIndex": 2,
+    "explication": "L’enseignant est garant du cadre institutionnel et des lois."
+  },
+  {
+    "question": "36 - Que permet le conseil face aux conflits ?",
+    "options": [
+      "Les transformer en réflexion collective",
+      "Les ignorer",
+      "Les punir",
+      "Les aggraver"
+    ],
+    "answerIndex": 0,
+    "explication": "Les conflits deviennent des sources de réflexion et de résolution collective."
+  },
+  {
+    "question": "37 - Quelle est la finalité de la PI ?",
+    "options": [
+      "Former des élèves dociles",
+      "Faire respecter les programmes",
+      "Construire le vivre-ensemble",
+      "Accélérer les apprentissages"
+    ],
+    "answerIndex": 2,
+    "explication": "La PI vise la construction du vivre-ensemble et du sujet."
+  },
+  {
+    "question": "38 - Que refuse la PI concernant la réussite scolaire ?",
+    "options": [
+      "La réussite collective",
+      "La réussite compétitive",
+      "La réussite individualisée",
+      "La coopération"
+    ],
+    "answerIndex": 1,
+    "explication": "La PI critique la mise en concurrence des élèves."
+  },
+  {
+    "question": "39 - Quelle place a le désir dans les apprentissages ?",
+    "options": [
+      "Secondaire",
+      "Inutile",
+      "Fondamentale",
+      "Dangereuse"
+    ],
+    "answerIndex": 2,
+    "explication": "Pour Oury, rien ne se fait sans désir."
+  },
+  {
+    "question": "40 - Quel type de groupe vise la PI ?",
+    "options": [
+      "Un groupe hiérarchisé",
+      "Un groupe coopératif",
+      "Un groupe compétitif",
+      "Un groupe silencieux"
+    ],
+    "answerIndex": 1,
+    "explication": "La classe doit devenir un véritable groupe coopératif."
+  },
+
+  {
+    "question": "41 - Pourquoi distribuer de nombreux métiers ?",
+    "options": [
+      "Pour que chacun se sente indispensable",
+      "Pour occuper les élèves", 
+      "Pour punir",
+      "Pour surveiller"
+    ],
+    "answerIndex": 0,
+    "explication": "Chaque élève doit avoir une fonction pour s’investir dans le groupe."
+  },
+  {
+    "question": "42 - Quel est le rôle du secrétaire au conseil ?",
+    "options": [
+      "Punir",
+      "Surveiller",
+      "Diriger",
+      "Prendre des notes"
+    ],
+    "answerIndex": 3,
+    "explication": "Le secrétaire note les décisions et assure la mémoire du groupe."
+  },
+  {
+    "question": "43 - Que permet la sanction en PI ?",
+    "options": [
+      "Humilier",
+      "Exclure",
+      "Réparer",
+      "Noter"
+    ],
+    "answerIndex": 2,
+    "explication": "La sanction a une visée éducative et réparatrice."
+  },
+  {
+    "question": "44 - Pourquoi afficher les règles de classe ?",
+    "options": [
+      "Pour les rendre visibles et discutables",
+      "Pour punir",
+      "Pour décorer",
+      "Pour imposer"
+    ],
+    "answerIndex": 0,
+    "explication": "Les règles affichées restent modifiables et discutables au conseil."
+  },
+  {
+    "question": "45 - Que représente la ceinture noire ?",
+    "options": [
+      "La punition ultime",
+      "Le niveau maximal de maîtrise",
+      "L’exclusion",
+      "La fin de la scolarité"
+    ],
+    "answerIndex": 1,
+    "explication": "La ceinture noire symbolise le plus haut niveau de maîtrise comportementale."
+  },
+  {
+    "question": "46 - Quel outil aide à éviter les violences physiques ?",
+    "options": [
+      "Les punitions",
+      "Les notes",
+      "Les exclusions",
+      "Les messages clairs"
+    ],
+    "answerIndex": 3,
+    "explication": "Les messages clairs permettent de verbaliser les conflits."
+  },
+  {
+    "question": "47 - Quel est le cœur du groupe selon Oury ?",
+    "options": [
+      "Le règlement",
+      "Le conseil",
+      "Les devoirs",
+      "Les notes"
+    ],
+    "answerIndex": 1,
+    "explication": "Le conseil est le lieu où naissent les projets et les décisions collectives."
+  },
+  {
+    "question": "48 - Que refuse la PI face à l’immédiateté ?",
+    "options": [
+      "La médiation",
+      "La lenteur",
+      "La réflexion",
+      "La précipitation"
+    ],
+    "answerIndex": 3,
+    "explication": "La PI s’oppose à l’idéologie de la vitesse et de la précocité."
+  },
+  {
+    "question": "49 - Pourquoi parler de pédagogie institutionnelle ?",
+    "options": [
+       "À cause des institutions mises en place",
+      "À cause des programmes",
+      "À cause des bâtiments",
+      "À cause des lois nationales"
+    ],
+    "answerIndex": 0,
+    "explication": "Elle repose sur la création d’institutions organisant la vie du groupe."
+  },
+  {
+    "question": "50 - Quel est le pari fondamental de la PI ?",
+    "options": [
+      "Contrôler les élèves",
+      "Lutter contre les maux de l’école",
+      "Accélérer les apprentissages",
+      "Renforcer la sélection"
+    ],
+    "answerIndex": 1,
+    "explication": "La pédagogie institutionnelle vise à lutter contre les dysfonctionnements structurels de l’école."
+  }
+]

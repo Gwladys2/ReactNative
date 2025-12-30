@@ -1,0 +1,559 @@
+[
+  {
+    "question": "1 - En Médecine Traditionnelle Chinoise, qu’est-ce que le Qi ?",
+    "options": [
+      "Un organe invisible",
+      "Une énergie vitale en mouvement",
+      "Un liquide du corps",
+      "Un muscle"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Qi est l’énergie vitale. On ne la voit pas, mais elle permet tout : bouger, digérer, respirer, penser. Par exemple, quand tu es plein d’énergie le matin, ton Qi est fort."
+  },
+  {
+    "question": "2 - Le Qi est-il quelque chose de fixe ou immobile ?",
+    "options": [
+      "Oui, il ne bouge pas",
+      "Non, il est toujours en mouvement",
+      "Il bouge seulement chez les sportifs",
+      "Il bouge seulement la nuit"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Qi est toujours en mouvement. S’il s’arrête, il n’y a plus de vie. Comme l’électricité dans une maison : si elle ne circule plus, rien ne fonctionne."
+  },
+  {
+    "question": "3 - Selon la MTC, de quoi est constitué l’univers ?",
+    "options": [
+      "Uniquement de matière",
+      "Uniquement d’atomes",
+      "Uniquement de Qi",
+      "Uniquement de vide"
+    ],
+    "answerIndex": 2,
+    "explication": "En MTC, tout est Qi. La matière est du Qi condensé, et l’énergie est du Qi plus subtil."
+  },
+  {
+    "question": "4 - Dans le corps humain, le Qi correspond surtout à :",
+    "options": [
+      "La structure des os",
+      "Les processus de mouvement et de transformation",
+      "La forme du corps",
+      "La peau"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Qi représente tout ce qui fait fonctionner le corps : digestion, circulation, respiration, hormones, influx nerveux."
+  },
+  {
+    "question": "5 - Comment appelle-t-on le Qi global qui maintient la santé ?",
+    "options": [
+      "Wei Qi",
+      "Yuan Qi",
+      "Zheng Qi",
+      "Gu Qi"
+    ],
+    "answerIndex": 2,
+    "explication": "Le Zheng Qi est le Qi global du corps. S’il est fort, la personne est en bonne santé."
+  },
+  {
+    "question": "6 - Le Qi inné est aussi appelé :",
+    "options": [
+      "Qi acquis",
+      "Qi défensif",
+      "Qi originel",
+      "Qi nutritif"
+    ],
+    "answerIndex": 2,
+    "explication": "Le Qi inné est le Qi originel (Yuan Qi). Il est donné à la naissance par les parents."
+  },
+  {
+    "question": "7 - D’où provient le Qi inné ?",
+    "options": [
+      "De la nourriture",
+      "De l’air",
+      "Des parents",
+      "Du sport"
+    ],
+    "answerIndex": 2,
+    "explication": "Le Qi inné est transmis par les parents avant la naissance. C’est comme un capital de départ."
+  },
+  {
+    "question": "8 - Où est stocké principalement le Qi inné ?",
+    "options": [
+      "Dans le cœur",
+      "Dans les poumons",
+      "Dans la rate",
+      "Dans les reins"
+    ],
+    "answerIndex": 3,
+    "explication": "En MTC, les Reins stockent le Qi inné. Il diminue avec l’âge."
+  },
+  {
+    "question": "9 - Le Qi acquis correspond à :",
+    "options": [
+      "Le Qi transmis à la naissance",
+      "Le Qi produit après la naissance",
+      "Le Qi des émotions",
+      "Le Qi des muscles"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Qi acquis est produit après la naissance grâce à l’alimentation et à la respiration."
+  },
+  {
+    "question": "10 - Les deux sources principales du Qi acquis sont :",
+    "options": [
+      "Le sommeil et le sport",
+      "La nourriture et l’air",
+      "Le sang et les liquides",
+      "Les muscles et les nerfs"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Qi acquis vient de ce que l’on mange (aliments) et de ce que l’on respire (air)."
+  },
+  {
+    "question": "11 - Quel organe transforme les aliments en énergie ?",
+    "options": [
+      "Le foie",
+      "Le cœur",
+      "La rate",
+      "Le rein"
+    ],
+    "answerIndex": 2,
+    "explication": "La Rate transforme les aliments en Qi alimentaire. Si elle est faible, on est fatigué."
+  },
+  {
+    "question": "12 - Comment s’appelle le Qi extrait des aliments ?",
+    "options": [
+      "Tian Qi",
+      "Gu Qi",
+      "Wei Qi",
+      "Yuan Qi"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Gu Qi est l’énergie tirée de la digestion des aliments."
+  },
+  {
+    "question": "13 - Quel organe capte le Qi de l’air ?",
+    "options": [
+      "La rate",
+      "Le cœur",
+      "Le poumon",
+      "Le foie"
+    ],
+    "answerIndex": 2,
+    "explication": "Le Poumon capte le Qi de l’air lors de la respiration."
+  },
+  {
+    "question": "14 - Le Qi de l’air s’appelle :",
+    "options": [
+      "Gu Qi",
+      "Wei Qi",
+      "Tian Qi",
+      "Ying Qi"
+    ],
+    "answerIndex": 2,
+    "explication": "Le Tian Qi est l’énergie provenant de l’air que nous respirons."
+  },
+  {
+    "question": "15 - Le Zheng Qi se forme principalement :",
+    "options": [
+      "Dans les reins",
+      "Dans la poitrine",
+      "Dans l’estomac",
+      "Dans le cerveau"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Zheng Qi se forme dans la poitrine par la réunion du Qi de l’air et du Qi alimentaire."
+  },
+
+  {
+    "question": "16 - Combien de fonctions principales possède le Qi ?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answerIndex": 2,
+    "explication": "Le Qi a cinq fonctions : propulsion, réchauffement, défense, homéostasie et transformation."
+  },
+  {
+    "question": "17 - La propulsion du Qi permet :",
+    "options": [
+      "De réchauffer le corps",
+      "De faire circuler le sang",
+      "De produire les émotions",
+      "De stocker l’énergie"
+    ],
+    "answerIndex": 1,
+    "explication": "Sans propulsion du Qi, le sang et les liquides ne circulent pas."
+  },
+  {
+    "question": "18 - La fonction de réchauffement sert à :",
+    "options": [
+      "Protéger contre les microbes",
+      "Maintenir la température corporelle",
+      "Digérer les aliments",
+      "Produire le sang"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Qi maintient la chaleur du corps. Un Qi faible donne souvent froid."
+  },
+  {
+    "question": "19 - Quelle fonction du Qi protège contre les agressions externes ?",
+    "options": [
+      "Transformation",
+      "Homéostasie",
+      "Défense",
+      "Propulsion"
+    ],
+    "answerIndex": 2,
+    "explication": "La défense protège contre le froid, le vent, les virus."
+  },
+  {
+    "question": "20 - L’homéostasie du Qi permet :",
+    "options": [
+      "La digestion",
+      "Le maintien des organes en place",
+      "La respiration",
+      "La circulation du Wei Qi"
+    ],
+    "answerIndex": 1,
+    "explication": "Elle empêche les organes de s’affaisser (ex : prolapsus)."
+  },
+
+  {
+    "question": "21 - Combien existe-t-il de mouvements du Qi ?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answerIndex": 2,
+    "explication": "Il y a 4 mouvements : montée, descente, entrée et sortie."
+  },
+  {
+    "question": "22 - La montée du Qi correspond à :",
+    "options": [
+      "Un mouvement vers le bas",
+      "Un mouvement vers l’intérieur",
+      "Un mouvement vers le haut",
+      "Un mouvement immobile"
+    ],
+    "answerIndex": 2,
+    "explication": "La montée correspond au mouvement ascendant du Qi."
+  },
+  {
+    "question": "23 - Le Qi du Poumon a principalement quel mouvement ?",
+    "options": [
+      "Montée",
+      "Descente",
+      "Entrée",
+      "Sortie"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Qi du Poumon descend pour permettre une respiration correcte."
+  },
+  {
+    "question": "24 - Une montée excessive du Qi peut provoquer :",
+    "options": [
+      "Diarrhée",
+      "Vomissements",
+      "Fatigue",
+      "Froid"
+    ],
+    "answerIndex": 1,
+    "explication": "Quand le Qi monte à contre-sens, il peut provoquer vomissements ou toux."
+  },
+  {
+    "question": "25 - Une descente excessive du Qi peut entraîner :",
+    "options": [
+      "Insomnie",
+      "Toux",
+      "Diarrhée",
+      "Fièvre"
+    ],
+    "answerIndex": 2,
+    "explication": "Un Qi qui descend trop provoque diarrhée ou affaissement."
+  },
+
+  {
+    "question": "26 - Le Yuan Qi est :",
+    "options": [
+      "Le Qi défensif",
+      "Le Qi nutritif",
+      "Le Qi originel",
+      "Le Qi digestif"
+    ],
+    "answerIndex": 2,
+    "explication": "Le Yuan Qi est le Qi inné, source de la vitalité."
+  },
+  {
+    "question": "27 - Le Yuan Qi sert principalement à :",
+    "options": [
+      "Digérer",
+      "Respirer",
+      "Grandir et se développer",
+      "Transpirer"
+    ],
+    "answerIndex": 2,
+    "explication": "Il permet croissance, développement et reproduction."
+  },
+  {
+    "question": "28 - Le Ming Men est situé :",
+    "options": [
+      "Dans la tête",
+      "Dans la poitrine",
+      "Entre les deux reins",
+      "Dans l’estomac"
+    ],
+    "answerIndex": 2,
+    "explication": "Le Ming Men est la porte de la vie, source du Yuan Qi."
+  },
+  {
+    "question": "29 - Le Zong Qi est aussi appelé :",
+    "options": [
+      "Qi défensif",
+      "Qi de la poitrine",
+      "Qi des reins",
+      "Qi émotionnel"
+    ],
+    "answerIndex": 1,
+    "explication": "Il aide la respiration et la voix."
+  },
+  {
+    "question": "30 - Une faiblesse du Zong Qi provoque :",
+    "options": [
+      "Diarrhée",
+      "Voix faible et essoufflement",
+      "Fièvre",
+      "Douleurs lombaires"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Zong Qi soutient la respiration et la parole."
+  },
+
+  {
+    "question": "31 - Le Ying Qi est :",
+    "options": [
+      "Le Qi défensif",
+      "Le Qi nutritif",
+      "Le Qi inné",
+      "Le Qi émotionnel"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Ying Qi nourrit le corps et circule dans les vaisseaux."
+  },
+  {
+    "question": "32 - Le Ying Qi sert principalement à :",
+    "options": [
+      "Défendre le corps",
+      "Nourrir et produire le sang",
+      "Faire transpirer",
+      "Réchauffer la peau"
+    ],
+    "answerIndex": 1,
+    "explication": "Il nourrit les organes et aide à fabriquer le sang."
+  },
+  {
+    "question": "33 - Le Wei Qi est :",
+    "options": [
+      "Le Qi nutritif",
+      "Le Qi défensif",
+      "Le Qi digestif",
+      "Le Qi originel"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Wei Qi protège le corps contre les agressions."
+  },
+  {
+    "question": "34 - Où circule principalement le Wei Qi ?",
+    "options": [
+      "Dans le sang",
+      "À la surface du corps",
+      "Dans les os",
+      "Dans le cerveau"
+    ],
+    "answerIndex": 1,
+    "explication": "Il circule sous la peau et contrôle les pores."
+  },
+  {
+    "question": "35 - Le Wei Qi est plutôt :",
+    "options": [
+      "Yin",
+      "Yang",
+      "Neutre",
+      "Inactif"
+    ],
+    "answerIndex": 1,
+    "explication": "Il est Yang : rapide, mobile et protecteur."
+  },
+
+  {
+    "question": "36 - Le Wei Qi agit :",
+    "options": [
+      "Uniquement le jour",
+      "Uniquement la nuit",
+      "Différemment le jour et la nuit",
+      "Seulement en cas de maladie"
+    ],
+    "answerIndex": 2,
+    "explication": "Le jour en surface, la nuit à l’intérieur."
+  },
+  {
+    "question": "37 - Qui contrôle la transpiration ?",
+    "options": [
+      "Ying Qi",
+      "Wei Qi",
+      "Yuan Qi",
+      "Gu Qi"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Wei Qi ouvre et ferme les pores."
+  },
+  {
+    "question": "38 - Un Qi faible provoque surtout :",
+    "options": [
+      "Douleur aiguë",
+      "Fatigue",
+      "Fièvre élevée",
+      "Convulsions"
+    ],
+    "answerIndex": 1,
+    "explication": "Manque d’énergie, essoufflement, fatigue."
+  },
+  {
+    "question": "39 - Un Qi bloqué provoque surtout :",
+    "options": [
+      "Froid",
+      "Douleurs et tensions",
+      "Diarrhée",
+      "Fatigue extrême"
+    ],
+    "answerIndex": 1,
+    "explication": "Quand le Qi ne circule pas, il y a douleur."
+  },
+  {
+    "question": "40 - Une bonne santé dépend principalement :",
+    "options": [
+      "De la force musculaire",
+      "De l’âge",
+      "De la quantité et circulation du Qi",
+      "Du poids"
+    ],
+    "answerIndex": 2,
+    "explication": "Il faut assez de Qi et qu’il circule bien."
+  },
+
+  {
+    "question": "41 - La MTC est surtout une médecine :",
+    "options": [
+      "Curative",
+      "Préventive",
+      "Chirurgicale",
+      "Urgente"
+    ],
+    "answerIndex": 1,
+    "explication": "Elle cherche à prévenir avant que la maladie apparaisse."
+  },
+  {
+    "question": "42 - Entretenir le Qi permet :",
+    "options": [
+      "De guérir instantanément",
+      "De prévenir les maladies",
+      "De ne jamais vieillir",
+      "De supprimer les émotions"
+    ],
+    "answerIndex": 1,
+    "explication": "Un Qi entretenu = meilleure santé."
+  },
+  {
+    "question": "43 - Le Qi est comparable en médecine occidentale à :",
+    "options": [
+      "Les os",
+      "Le métabolisme et les échanges",
+      "Les muscles",
+      "La peau"
+    ],
+    "answerIndex": 1,
+    "explication": "Il correspond aux fonctions et communications du corps."
+  },
+  {
+    "question": "44 - La Rate est essentielle car elle :",
+    "options": [
+      "Stocke le Qi inné",
+      "Produit le Qi alimentaire",
+      "Protège contre les virus",
+      "Contrôle la respiration"
+    ],
+    "answerIndex": 1,
+    "explication": "Sans Rate forte, pas d’énergie."
+  },
+  {
+    "question": "45 - Le Poumon est essentiel car il :",
+    "options": [
+      "Produit le sang",
+      "Diffuse le Qi de l’air",
+      "Stocke l’énergie",
+      "Gère les émotions"
+    ],
+    "answerIndex": 1,
+    "explication": "Il apporte l’énergie de l’air."
+  },
+
+  {
+    "question": "46 - Le Qi est-il mesurable directement ?",
+    "options": [
+      "Oui",
+      "Non",
+      "Uniquement en laboratoire",
+      "Seulement chez les malades"
+    ],
+    "answerIndex": 1,
+    "explication": "On observe ses effets, pas le Qi lui-même."
+  },
+  {
+    "question": "47 - Un Qi abondant signifie :",
+    "options": [
+      "Un Qi bloqué",
+      "Un Qi dangereux",
+      "Un Qi fort et suffisant",
+      "Un Qi inutile"
+    ],
+    "answerIndex": 2,
+    "explication": "Un Qi abondant = vitalité."
+  },
+  {
+    "question": "48 - Le Qi est lié à la vie car :",
+    "options": [
+      "Il est visible",
+      "Il est immobile",
+      "Il permet toutes les fonctions",
+      "Il remplace les organes"
+    ],
+    "answerIndex": 2,
+    "explication": "Sans Qi, aucune fonction n’est possible."
+  },
+  {
+    "question": "49 - Un bon équilibre du Qi permet :",
+    "options": [
+      "D’éviter toute maladie",
+      "Une meilleure résistance",
+      "De ne plus dormir",
+      "D’arrêter de manger"
+    ],
+    "answerIndex": 1,
+    "explication": "Un Qi équilibré améliore la résistance globale."
+  },
+  {
+    "question": "50 - En résumé, le Qi est :",
+    "options": [
+      "Une croyance",
+      "Une énergie vitale centrale",
+      "Un organe caché",
+      "Une émotion"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Qi est l’énergie vitale indispensable à la vie."
+  }
+]

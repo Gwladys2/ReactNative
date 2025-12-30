@@ -1,0 +1,497 @@
+[
+  {
+    "question": "1 - Dans quel pays a été fondée l’école Summerhill ?",
+    "options": ["Écosse", "France", "Angleterre", "Irlande"],
+    "answerIndex": 2,
+    "explication": "Summerhill a été fondée en Angleterre dans les années 1920."
+  },
+  {
+    "question": "2 - Dans quel contexte historique Neill fonde-t-il Summerhill ?",
+    "options": [
+      "Après la Première Guerre mondiale",
+      "Après la Seconde Guerre mondiale",
+      "Pendant la révolution industrielle",
+      "Pendant les années 1960"
+    ],
+    "answerIndex": 0,
+    "explication": "La fondation suit la Première Guerre mondiale et la désillusion face à la société."
+  },
+  {
+    "question": "3 - Quelle idée centrale motive la création de Summerhill ?",
+    "options": [
+      "Former une élite scientifique",     
+      "Renforcer la discipline scolaire",
+      "Créer un Homme nouveau, libre et heureux",
+      "Préparer aux concours"
+    ],
+    "answerIndex": 2,
+    "explication": "Neill veut développer une société nouvelle par une éducation fondée sur la liberté."
+  },
+  {
+    "question": "4 - Quelle déception contribue à la fondation de Summerhill ?",
+    "options": [
+      "Le manque d’investissements dans la recherche",
+      "L'échec des politiques publiques et de l’école traditionnelle",
+      "L’absence de nouvelles technologies",
+      "Le niveau médiocre des enseignants"
+    ],
+    "answerIndex": 1,
+    "explication": "Neill est déçu par la politique et l’école publique traditionnelles."
+  },
+  {
+    "question": "5 - Quel livre rend Summerhill célèbre dans les années 1960 ?",
+    "options": [
+      "La liberté, pas l’anarchie",
+      "Libres enfants de Summerhill",
+      "La grande pédagogie",
+      "Psychologie de l’enfant"
+    ],
+    "answerIndex": 1,
+    "explication": "Le livre devient un best-seller et diffuse largement les idées de Neill."
+  },
+  {
+    "question": "6 - Quel événement français amplifie l’impact du livre de Neill ?",
+    "options": ["Mai 1968", "La réforme de 1989", "La révolution de 1848", "La guerre d’Algérie"],
+    "answerIndex": 0,
+    "explication": "Mai 1968 donne un grand écho au livre dans la jeunesse."
+  },
+  {
+    "question": "7 - Pourquoi Summerhill a-t-elle été menacée de fermeture en 1994 ?",
+    "options": [
+      "Elle n’avait plus d’élèves",
+      "Elle était trop coûteuse",
+      "Elle refusait les nouvelles technologies",
+      "Elle était jugée trop permissive par les autorités"
+    ],
+    "answerIndex": 3,
+    "explication": "Les inspecteurs lui reprochaient une trop grande liberté éducative."
+  },
+  {
+    "question": "8 - Selon Neill, que doit permettre l’éducation ?",
+    "options": [
+      "La compétition entre les élèves",
+      "La conformité aux normes sociales",
+      "La liberté et le bonheur",
+      "L’obéissance aux adultes"
+    ],
+    "answerIndex": 2,
+    "explication": "Le but premier est de permettre une vie joyeuse et libre."
+  },
+  {
+    "question": "9 - Quel rôle joue la communauté dans Summerhill ?",
+    "options": [
+      "Elle organise la vie démocratique via des assemblées",
+      "Un rôle secondaire",
+      "Elle impose toutes les décisions aux élèves",
+      "Elle reste strictement hiérarchique"
+    ],
+    "answerIndex": 0,
+    "explication": "Summerhill fonctionne grâce à des assemblées démocratiques."
+  },
+  {
+    "question": "10 - Comment Neill définit-il la réussite ?",
+    "options": [
+      "Accumuler des diplômes",
+      "Gagner beaucoup d'argent",
+      "La capacité à travailler joyeusement et vivre positivement",
+      "Obtenir de bonnes notes"
+    ],
+    "answerIndex": 2,
+    "explication": "Neill privilégie l’épanouissement plutôt que la réussite scolaire classique."
+  },
+  {
+    "question": "11 - Comment fonctionne le self-government à Summerhill ?",
+    "options": [
+      "Le directeur décide de tout",
+      "Les élèves votent seuls",
+      "Enfants et adultes votent ensemble, chacun ayant une voix",
+      "Les règles sont imposées par un conseil de professeurs"
+    ],
+    "answerIndex": 2,
+    "explication": "Chaque membre de l’école dispose d’une voix égale."
+  },
+  {
+    "question": "12 - Quel principe fondamental distingue Summerhill ?",
+    "options": [
+      "Les cours obligatoires",
+      "La liberté de ne pas aller en classe",
+      "Les examens fréquents",
+      "La discipline militaire"
+    ],
+    "answerIndex": 1,
+    "explication": "L’enfant peut choisir de suivre ou non les cours."
+  },
+  {
+    "question": "13 - Pour Neill, l’enfant est naturellement...",
+    "options": ["mauvais", "violent", "dangereux", "bon"],
+    "answerIndex": 3,
+    "explication": "Neill défend l'idée de la bonté originelle de l’enfant."
+  },
+  {
+    "question": "14 - Selon Neill, l’enfant possède un sens inné...",
+    "options": ["de la compétition", "de la justice", "de la hiérarchie", "du sacrifice"],
+    "answerIndex": 1,
+    "explication": "Neill pense que l’enfant a naturellement un sens de la justice."
+  },
+  {
+    "question": "15 - Quel est le rôle de l’enseignant selon Neill ?",
+    "options": [
+      "Découvrir l’intérêt de l’enfant et l’aider à l’explorer",
+      "Punir et corriger",
+      "Imposer un programme strict",
+      "Préparer les élèves aux examens"
+    ],
+    "answerIndex": 0,
+    "explication": "Le maître doit accompagner l’enfant dans ses intérêts spontanés."
+  },
+  {
+    "question": "16 - Pour Neill, quelle est la source principale de motivation ?",
+    "options": ["La récompense", "La punition", "L’intérêt personnel", "La compétition"],
+    "answerIndex": 2,
+    "explication": "Neill rejette les motivations externes et valorise l’intérêt intrinsèque."
+  },
+  {
+    "question": "17 - Quel type de relation élève-maître est privilégié à Summerhill ?",
+    "options": [
+      "Autoritaire",
+      "Hiérarchique",
+      "Strictement disciplinaire",
+      "Non figée et respectueuse"
+    ],
+    "answerIndex": 3,
+    "explication": "La relation doit être égalitaire, libre et basée sur la confiance."
+  },
+  {
+    "question": "18 - Que pense Neill des punitions ?",
+    "options": [
+      "Elles sont nécessaires",
+      "Elles doivent être fréquentes",
+      "Elles détruisent la confiance et la liberté",
+      "Elles améliorent la motivation"
+    ],
+    "answerIndex": 2,
+    "explication": "Neill refuse les punitions car elles brident le développement de l’enfant."
+  },
+  {
+    "question": "19 - Quel est l’objectif du self-government ?",
+    "options": [
+      "Apprendre le respect aveugle de l’autorité",
+      "Former des citoyens responsables",
+      "Réduire les conflits",
+      "Imposer des règles strictes"
+    ],
+    "answerIndex": 1,
+    "explication": "Le self-government permet aux enfants d'apprendre la démocratie."
+  },
+  {
+    "question": "20 - Quel apprentissage est central à Summerhill ?",
+    "options": [
+      "Apprendre à vivre",
+      "Apprendre les conjugaisons",
+      "Apprendre à réussir des concours",
+      "Apprendre les règles de politesse"
+    ],
+    "answerIndex": 0,
+    "explication": "Pour Neill, l’essentiel est d’apprendre à vivre harmonieusement."
+  },
+  {
+    "question": "21 - Quel courant pédagogique influence fortement Neill ?",
+    "options": ["Le behaviorisme", "L’éducation nouvelle", "Le structuralisme", "Le positivisme"],
+    "answerIndex": 1,
+    "explication": "L’éducation nouvelle valorise l’activité et l’intérêt de l’enfant."
+  },
+  {
+    "question": "22 - Selon l’éducation nouvelle, qu’est-ce qui provoque l’effort ?",
+    "options": ["La punition", "La compétition", "L’intérêt", "La peur"],
+    "answerIndex": 2,
+    "explication": "L’intérêt est vu comme moteur naturel de l’apprentissage."
+  },
+  {
+    "question": "23 - Quelle activité illustre l’apprentissage spontané selon Neill ?",
+    "options": [
+      "Réciter une leçon",
+      "Faire une boule de neige",
+      "Écrire une dissertation",
+      "Faire des exercices répétitifs"
+    ],
+    "answerIndex": 1,
+    "explication": "Neill explique que dans la fabrication d’une boule de neige, il y a déjà éducation."
+  },
+  {
+    "question": "24 - Quel psychanalyste influence particulièrement Neill ?",
+    "options": [ "Freud", "Piaget", "Skinner","Homer Lane"],
+    "answerIndex": 3,
+    "explication": "Homer Lane inspire Neill dans l’idée de liberté et d’expression."
+  },
+  {
+    "question": "25 - Quel autre théoricien marque sa pensée ?",
+    "options": [ "Bandura","Wilhelm Reich", "Montessori", "Vygotski"],
+    "answerIndex": 1,
+    "explication": "Reich influence Neill sur la libération du désir."
+  },
+  {
+    "question": "26 - Pour Neill, l’éducation traditionnelle est…",
+    "options": [
+      "Basée sur le cours magistral et l’autorité",
+      "Centrée sur l’enfant",
+      "Hautement démocratique",
+      "Respectueuse du rythme individuel"
+    ],
+    "answerIndex": 0,
+    "explication": "Neill critique la rigidité et l’autorité de l’école traditionnelle."
+  },
+  {
+    "question": "27 - Quelle est la position de Neill face à l’idéal imposé ?",
+    "options": [
+      "Il doit être imposé à l’enfant",
+      "Il doit être négocié",
+      "Il n’existe pas : c'est l’enfant qui choisit",
+      "Il doit être appliqué par l’enseignant uniquement"
+    ],
+    "answerIndex": 2,
+    "explication": "Neill ne veut imposer aucun idéal, c’est l’enfant qui construit le sien."
+  },
+  {
+    "question": "28 - Quelle affirmation correspond à la vision psychanalytique de Neill ?",
+    "options": [
+      "Le désir de l’enfant doit être brisé",
+      "Le désir doit être libéré pour permettre l’épanouissement",
+      "L’enfant doit réprimer ses émotions",
+      "Les émotions sont sans importance"
+    ],
+    "answerIndex": 1,
+    "explication": "La libération du désir est centrale dans sa pédagogie."
+  },
+  {
+    "question": "29 - Pour Neill, l’autonomie de l’enfant se construit…",
+    "options": ["Par l’obéissance",  "Par les récompenses", "Par la liberté","Par les sanctions"],
+    "answerIndex": 2,
+    "explication": "L’enfant devient autonome en expérimentant librement."
+  },
+  {
+    "question": "30 - Pourquoi Neill refuse-t-il la violence éducative ?",
+    "options": [
+      "Elle est inefficace et destructrice",
+      "Elle est traditionnelle",
+      "Elle est coûteuse",
+      "Elle prend trop de temps"
+    ],
+    "answerIndex": 0,
+    "explication": "La violence nuit à la confiance, au développement et à la liberté."
+  },
+  {
+    "question": "31 - Quelle critique négative courante vise Summerhill ?",
+    "options": [
+      "Elle est trop axée sur les mathématiques",
+      "Elle prive les enfants d’un accès systématique au savoir",
+      "Elle est trop sévère",
+      "Elle n'est pas assez chère"
+    ],
+    "answerIndex": 1,
+    "explication": "La liberté totale peut mener certains enfants à éviter les cours."
+  },
+  {
+    "question": "32 - Une autre critique évoque que Summerhill…",
+    "options": [  
+      "Est trop centrée sur les examens",
+      "Contrôle trop les élèves",
+      "N’a pas d’activités artistiques",
+      "Est adaptée aux familles aisées"
+    ],
+    "answerIndex": 0,
+    "explication": "On reproche à Summerhill d’être accessible surtout aux familles favorisées."
+  },
+  {
+    "question": "33 - Quelle critique vise la conception de l’enfant chez Neill ?",
+    "options": [
+      "Elle est trop pessimiste",
+      "Elle est trop optimiste",
+      "Elle est scientifique",
+      "Elle est religieuse"
+    ],
+    "answerIndex": 1,
+    "explication": "On lui reproche de croire naïvement en la bonté naturelle de l'enfant."
+  },
+  {
+    "question": "34 - Certains disent que Summerhill est…",
+    "options": [
+      "Un modèle facilement reproductible",
+      "Un exemple de discipline réussie",
+      "Un système militaire",
+      "Un système anarchique"
+    ],
+    "answerIndex": 3,
+    "explication": "Le fonctionnement libre est parfois perçu comme anarchique."
+  },
+  {
+    "question": "35 - Une critique positive affirme que Summerhill est…",
+    "options": [
+      "Une tentative unique et importante dans l’histoire de la pédagogie",
+      "Un modèle ennuyeux et routinier",
+      "Une école identique aux autres",
+      "Un système fondé sur l'obéissance"
+    ],
+    "answerIndex": 0,
+    "explication": "Summerhill est considérée comme une expérimentation majeure."
+  },
+  {
+    "question": "36 - Quelle idée positive est souvent soulignée ?",
+    "options": [   
+      "Le recours massif aux punitions",
+      "Le refus des activités artistiques",
+      "La prise en compte des émotions de l’enfant",
+      "L’enseignement centré sur la compétition"
+    ],
+    "answerIndex": 2,
+    "explication": "Neill valorise l’expression émotionnelle et l’estime de soi."
+  },
+  {
+    "question": "37 - Que reproche-t-on à Neill concernant sa théorie ?",
+    "options": [
+      "D’être trop complète",
+      "D’être trop religieuse",
+      "D’être trop scientifique",
+      "De ne pas avoir formalisé une théorie concrète"
+    ],
+    "answerIndex": 3,
+    "explication": "Neill a écrit beaucoup, mais sans établir un cadre théorique formel."
+  },
+  {
+    "question": "38 - Quel débat soulève Summerhill ?",
+    "options": [
+      "La place des technologies",
+      "La place de la liberté dans l’éducation",
+      "La place des uniformes",
+      "L’importance du sport"
+    ],
+    "answerIndex": 1,
+    "explication": "Le cœur du débat est la liberté éducative."
+  },
+  {
+    "question": "39 - Pour les critiques positives, quel est l’apport majeur de Neill ?",
+    "options": [
+      "L’autoritarisme",
+      "La compétition scolaire",
+      "La communauté scolaire et la démocratie",
+      "La création de manuels scolaires"
+    ],
+    "answerIndex": 2,
+    "explication": "La vie en communauté démocratique est une contribution essentielle."
+  },
+  {
+    "question": "40 - Selon les critiques négatives, pourquoi Summerhill peut-elle échouer ?",
+    "options": [  
+      "Parce qu’elle est trop exigeante",
+      "Parce qu’elle impose trop de règles",
+      "Parce que l’enfant risque de choisir la facilité",
+      "Parce qu’elle interdit les loisirs"
+    ],
+    "answerIndex": 2,
+    "explication": "La liberté totale peut conduire certains enfants à éviter les apprentissages scolaires."
+  },
+  {
+    "question": "41 - Summerhill existe-t-elle encore aujourd’hui ?",
+    "options": ["Non", "Oui", "Elle a fermé dans les années 1960", "Elle a fermé en 1994"],
+    "answerIndex": 1,
+    "explication": "Summerhill fonctionne toujours selon les principes de Neill."
+  },
+  {
+    "question": "42 - Quel texte international reflète l'esprit de Neill ?",
+    "options": [
+      "La Convention relative aux droits de l’enfant (1989)",
+      "La Déclaration de 1789",
+      "La Constitution française",
+      "Le traité de Rome"
+    ],
+    "answerIndex": 0,
+    "explication": "Le respect de l’enfant et de sa liberté est proche de la Convention."
+  },
+  {
+    "question": "43 - Neill est considéré comme…",
+    "options": [
+      "Un penseur mineur du XXe siècle",     
+      "Un écrivain religieux",
+      "Un scientifique du comportement",
+      "L’un des grands penseurs de l’éducation du XXe siècle"
+    ],
+    "answerIndex": 3,
+    "explication": "Son influence dans l’éducation alternative est majeure."
+  },
+  {
+    "question": "44 - Un héritage de Neill est visible dans…",
+    "options": [ 
+    "Les écoles libertaires et autogérées",
+      "Les écoles militaires",
+      "Les écoles à pédagogie stricte",
+      "Les écoles industrielles"
+    ],
+    "answerIndex": 0,
+    "explication": "L’approche libertaire s’inspire fortement de Neill."
+  },
+  {
+    "question": "45 - Les établissements autogérés créés en France en 1982 sont…",
+    "options": [
+      "Des écoles privées religieuses",
+      "Des écoles publiques expérimentales",
+      "Des universités militaires",
+      "Des centres de formation professionnelle"
+    ],
+    "answerIndex": 1,
+    "explication": "Ces établissements fonctionnent en partie sur le modèle de Summerhill."
+  },
+  {
+    "question": "46 - Quel lycée célèbre en France s’inspire directement de Neill ?",
+    "options": [
+      "Lycée Louis-le-Grand",
+      "Lycée Henri IV",
+      "Lycée Masséna" ,
+      "Lycée Autogéré de Paris"
+    ],
+    "answerIndex": 3,
+    "explication": "Le LAP s’inspire des pratiques d’autogestion."
+  },
+  {
+    "question": "47 - Quel type de pédagogie se réclame de Neill ?",
+    "options": [    
+      "Pédagogie militaire",
+      "Pédagogie behavioriste",
+      "Pédagogie libertaire",
+      "Pédagogie par compétences"
+    ],
+    "answerIndex": 2,
+    "explication": "Summerhill est une référence de la pédagogie libertaire."
+  },
+  {
+    "question": "48 - Que retient-on principalement de l’héritage de Neill ?",
+    "options": [
+      "La centralité des examens",
+      "Le respect absolu de la liberté de l’enfant",
+      "L’importance des sanctions",
+      "La hiérarchie stricte"
+    ],
+    "answerIndex": 1,
+    "explication": "La liberté est le pilier majeur de sa pédagogie."
+  },
+  {
+    "question": "49 - Quel est un point fondamental de l’héritage de Summerhill ?",
+    "options": [
+      "La création de communautés éducatives démocratiques",
+       "La dissolution des communautés scolaires",
+      "La fermeture des écoles alternatives",
+      "La suppression de la créativité"
+    ],
+    "answerIndex": 0,
+    "explication": "De nombreuses écoles fondées sur la communauté s’inspirent de Summerhill."
+  },
+  {
+    "question": "50 - Pourquoi Neill est-il toujours étudié aujourd’hui ?",
+    "options": [
+      "Parce qu’il a un modèle rigide à appliquer",
+      "Parce qu’il a inventé le système scolaire moderne",
+      "Parce qu’il a travaillé pour l’armée",
+      "Parce qu’il a créé une réflexion profonde sur liberté, bonheur et démocratie à l'école"
+    ],
+    "answerIndex": 3,
+    "explication": "Son œuvre interroge encore la finalité de l’école et le sens de l’éducation."
+  }
+]

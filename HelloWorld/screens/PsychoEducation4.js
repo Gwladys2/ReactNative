@@ -85,6 +85,11 @@ export default function LessonScreen({ navigation }) {
                         <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation2')}>🌈Les 1ères sciences psychologiques</Text>
                         <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation3')}>🌈La théorie freudienne part1</Text>
                          <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation4')}>🌈La théorie freudienne part2</Text>
+                          <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation5')}>🌈Piaget part1</Text>
+                           <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation6')}>🌈Piaget part2</Text>
+                            <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation7')}>🌈Henry Wallon</Text>
+                            <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation8')}>🌈Vygotski</Text>
+                            <Text style={styles.link} onPress={() => navigation.navigate('PsychoEducation9')}>🌈Les neurosciences</Text>
                         </View>
 
        </ScrollView>

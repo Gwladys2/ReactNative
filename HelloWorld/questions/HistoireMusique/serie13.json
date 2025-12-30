@@ -1,0 +1,302 @@
+[
+  {
+    "question": "1 - Quel compositeur est présenté comme le symbole du romantisme allemand après Beethoven ?",
+    "options": ["Mendelssohn", "Brahms", "Robert Schumann", "Schubert"],
+    "answerIndex": 2,
+    "explication": "Le cours présente Robert Schumann comme le musicien symbole du romantisme allemand."
+  },
+  {
+    "question": "2 - En quelle année Robert Schumann est-il né ?",
+    "options": ["1805", "1810", "1815", "1820"],
+    "answerIndex": 1,
+    "explication": "Robert Schumann est né le 8 juin 1810."
+  },
+  {
+    "question": "3 - Dans quelle ville est né Robert Schumann ?",
+    "options": ["Leipzig", "Dresde", "Zwickau", "Düsseldorf"],
+    "answerIndex": 2,
+    "explication": "Schumann est né à Zwickau."
+  },
+  {
+    "question": "4 - Entre quelles études Schumann hésite-t-il dans sa jeunesse ?",
+    "options": ["Droit et musique","Médecine et musique", "Philosophie et musique",  "Théologie et musique"],
+    "answerIndex": 0,
+    "explication": "Il hésite entre des études de droit et de musique."
+  },
+  {
+    "question": "5 - Dans quelle ville Schumann décide-t-il définitivement de se consacrer à la musique ?",
+    "options": ["Berlin", "Leipzig", "Vienne", "Bonn"],
+    "answerIndex": 1,
+    "explication": "C’est à Leipzig, entre 1830 et 1840, qu’il choisit la musique."
+  },
+  {
+    "question": "6 - De qui Schumann tombe-t-il éperdument amoureux à Leipzig ?",
+    "options": ["Clara Wieck", "Fanny Mendelssohn", "Josephine Lang", "Pauline Viardot"],
+    "answerIndex": 0,
+    "explication": "Il tombe amoureux de Clara Wieck, future Clara Schumann."
+  },
+  {
+    "question": "7 - Quelle activité Schumann développe-t-il en parallèle de la composition ?",
+    "options": ["Chef d’orchestre", "Professeur", "Critique musical", "Facteur de pianos"],
+    "answerIndex": 2,
+    "explication": "Il fonde une revue musicale et devient critique."
+  },
+  {
+    "question": "8 - En quelle année Schumann épouse-t-il Clara Wieck ?",
+    "options": ["1840","1835", "1838",  "1843"],
+    "answerIndex": 0,
+    "explication": "Après de longs procès, il épouse Clara en 1840."
+  },
+  {
+    "question": "9 - Quel poste Schumann obtient-il en 1843 ?",
+    "options": ["Chef d’orchestre à Berlin", "Professeur de composition à Leipzig", "Directeur de théâtre", "Organiste"],
+    "answerIndex": 1,
+    "explication": "Il devient professeur de composition au Conservatoire de Leipzig."
+  },
+  {
+    "question": "10 - Dans quelle ville ses problèmes de santé s’aggravent-ils ?",
+    "options": ["Leipzig", "Vienne", "Dresde", "Bonn"],
+    "answerIndex": 2,
+    "explication": "Entre 1844 et 1850, ses problèmes s’aggravent à Dresde."
+  },
+  {
+    "question": "11 - Quelle fonction Schumann occupe-t-il à Düsseldorf ?",
+    "options": ["Pianiste","Directeur de la musique", "Compositeur officiel",  "Critique"],
+    "answerIndex": 1,
+    "explication": "Il devient directeur de la musique à Düsseldorf."
+  },
+  {
+    "question": "12 - Quel acte dramatique Schumann commet-il en 1854 ?",
+    "options": ["Il se jette dans le Rhin","Il quitte la musique", "Il détruit ses œuvres",  "Il s’exile"],
+    "answerIndex": 0,
+    "explication": "Le 27 février 1854, il se jette dans le Rhin."
+  },
+  {
+    "question": "13 - Où Schumann est-il interné après sa tentative de suicide ?",
+    "options": ["Leipzig", "Dresde", "Vienne", "Endenich"],
+    "answerIndex": 3,
+    "explication": "Il est interné à Endenich."
+  },
+  {
+    "question": "14 - En quelle année Schumann meurt-il ?",
+    "options": ["1850", "1856", "1854", "1860"],
+    "answerIndex": 1,
+    "explication": "Schumann meurt le 29 juillet 1856."
+  },
+  {
+    "question": "15 - Quel qualificatif résume le style de Schumann ?",
+    "options": ["Tourmenté et passionné","Classique et équilibré", "Serein et lumineux",  "Rationnel"],
+    "answerIndex": 0,
+    "explication": "Son style est décrit comme tourmenté et passionné."
+  },
+  {
+    "question": "16 - Quels personnages symbolisent la dualité de Schumann ?",
+    "options": ["Apollon et Dionysos", "Faust et Méphisto", "Eusébius et Florestan", "Orphée et Eurydice"],
+    "answerIndex": 2,
+    "explication": "Eusébius et Florestan incarnent les deux pôles de sa personnalité."
+  },
+  {
+    "question": "17 - Quel caractère correspond à Eusébius ?",
+    "options": ["Tempétueux", "Volontaire", "Violent", "Rêveur et contemplatif"],
+    "answerIndex": 3,
+    "explication": "Eusébius est rêveur, méditatif et contemplatif."
+  },
+  {
+    "question": "18 - Quel caractère correspond à Florestan ?",
+    "options": ["Mélancolique", "Utopique", "Décidé et tempétueux", "Passif"],
+    "answerIndex": 2,
+    "explication": "Florestan représente l’élan volontaire et passionné."
+  },
+  {
+    "question": "19 - Quel instrument Schumann maîtrise-t-il particulièrement ?",
+    "options": ["Le violon","Le piano", "L’orgue",  "La flûte"],
+    "answerIndex": 1,
+    "explication": "Schumann possède une immense maîtrise de l’écriture pianistique."
+  },
+  {
+    "question": "20 - Quel genre vocal occupe une place centrale chez Schumann ?",
+    "options": ["Le Lied","L’opéra", "L’oratorio",  "La cantate"],
+    "answerIndex": 0,
+    "explication": "Schumann s’intéresse particulièrement aux Lieder."
+  },
+  {
+    "question": "21 - Quel poète inspire le cycle \"Les amours du poète\" ?",
+    "options": ["Goethe", "Heine", "Schiller", "Hölderlin"],
+    "answerIndex": 1,
+    "explication": "Dichterliebe est composé sur des textes de Heinrich Heine."
+  },
+  {
+    "question": "22 - Quel compositeur est peu à l’aise avec l’orchestre ?",
+    "options": ["Brahms", "Mendelssohn", "Schumann", "Bruckner"],
+    "answerIndex": 2,
+    "explication": "Le cours précise que Schumann est peu à l’aise avec l’orchestre."
+  },
+  {
+    "question": "23 - Combien d’années Schumann consacre-t-il presque exclusivement au piano ?",
+    "options": ["5", "9","7",  "12"],
+    "answerIndex": 1,
+    "explication": "Neuf années de sa vie sont entièrement dédiées au piano."
+  },
+  {
+    "question": "24 - Quelle œuvre pianistique date de 1838 ?",
+    "options": ["Fantaisie", "Carnaval", "Scènes d’enfants", "Davidsbündlertänze"],
+    "answerIndex": 2,
+    "explication": "Les Scènes d’enfants sont composées en 1838."
+  },
+  {
+    "question": "25 - Quel genre Schumann apprécie-t-il le moins ?",
+    "options": ["La musique de chambre","Le piano solo", "Le Lied",  "La symphonie"],
+    "answerIndex": 0,
+    "explication": "La musique de chambre n’est pas son genre préféré."
+  },
+  {
+    "question": "26 - Combien de symphonies Schumann compose-t-il ?",
+    "options": ["3", "4", "5", "6"],
+    "answerIndex": 2,
+    "explication": "Il compose 4 symphonies, auxquelles s’ajoute une symphonie numérotée 0."
+  },
+  {
+    "question": "27 - Comment sont décrites les symphonies de Schumann ?",
+    "options": ["Comme des modèles classiques", "Comme des sismographes des passions", "Comme des exercices formels", "Comme des œuvres décoratives"],
+    "answerIndex": 1,
+    "explication": "Elles enregistrent toutes les courbes des passions."
+  },
+  {
+    "question": "28 - Schumann cherche-t-il à imiter Beethoven ?",
+    "options": ["Oui consciemment", "Oui inconsciemment", "Par contrainte", "Non"],
+    "answerIndex": 3,
+    "explication": "Il ne se préoccupe pas des modèles préexistants."
+  },
+  {
+    "question": "29 - Comment Schumann est-il situé dans l’histoire symphonique ?",
+    "options": ["Après Mahler", "Avant Beethoven", "Entre Beethoven et Bruckner/Mahler", "En dehors du romantisme"],
+    "answerIndex": 2,
+    "explication": "Il forme une parenthèse entre Beethoven et Bruckner/Mahler."
+  },
+  {
+    "question": "30 - Quelle symphonie est dite « Rhénane » ?",
+    "options": ["La 3e","La 1re", "La 2e",  "La 4e"],
+    "answerIndex": 0,
+    "explication": "La Symphonie n°3 est surnommée « Rhénane »."
+  },
+  {
+    "question": "31 - Quelle tonalité pour la Symphonie Rhénane ?",
+    "options": ["Ré mineur", "Ut majeur", "La majeur", "Mi bémol majeur"],
+    "answerIndex": 3,
+    "explication": "Elle est en mi bémol majeur."
+  },
+  {
+    "question": "32 - Combien de mouvements comporte la Symphonie Rhénane ?",
+    "options": ["4", "5", "6", "7"],
+    "answerIndex": 1,
+    "explication": "Elle comporte exceptionnellement 5 mouvements."
+  },
+  {
+    "question": "33 - Quelle forme structure le premier mouvement de la Symphonie Rhénane ?",
+    "options": ["Rondo", "Fugue", "Allegro de sonate bithématique", "Variation"],
+    "answerIndex": 2,
+    "explication": "Le mouvement suit une forme de sonate bithématique."
+  },
+  {
+    "question": "34 - À quel personnage correspond le thème 1 ?",
+    "options": ["Eusébius", "Florestan", "Clara", "Le chœur"],
+    "answerIndex": 1,
+    "explication": "Le thème 1 est associé à Florestan."
+  },
+  {
+    "question": "35 - Quel thème est sous-utilisé ?",
+    "options": ["Le thème 2","Le thème unique", "Le thème 1",  "Le thème rythmique"],
+    "answerIndex": 0,
+    "explication": "Le thème 2 (Eusébius) est sous-utilisé."
+  },
+  {
+    "question": "36 - Quelle famille instrumentale domine l’orchestration ?",
+    "options": ["Cordes", "Bois", "Cuivres", "Percussions"],
+    "answerIndex": 2,
+    "explication": "Les cuivres dominent, fait typique du XIXe siècle allemand."
+  },
+  {
+    "question": "37 - Quelle caractéristique revient souvent chez Schumann ?",
+    "options": ["La sobriété", "La répétition obsessionnelle", "La clarté formelle", "La symétrie"],
+    "answerIndex": 1,
+    "explication": "L’obsession le pousse à répéter certains motifs."
+  },
+  {
+    "question": "38 - Que reproche-t-on souvent aux symphonies de Schumann ?",
+    "options": ["Leur longueur", "Leur orchestration pauvre", "Des maladresses symphoniques", "Leur classicisme"],
+    "answerIndex": 2,
+    "explication": "On parle de « maladresses symphoniques »."
+  },
+  {
+    "question": "39 - Que révèlent ces maladresses selon le cours ?",
+    "options": ["Une incompétence", "Une erreur technique", "Une imitation ratée", "Son combat intérieur"],
+    "answerIndex": 3,
+    "explication": "Elles révèlent son combat intérieur et sa vie."
+  },
+  {
+    "question": "40 - Le langage symphonique de Schumann est avant tout :",
+    "options": ["Post-beethovénien", "Classique", "Le dévoilement de sa personne", "Académique"],
+    "answerIndex": 2,
+    "explication": "Il est l’expression directe de sa personnalité."
+  },
+  {
+    "question": "41 - Quelle œuvre concertante majeure Schumann compose-t-il ?",
+    "options": ["Concerto pour violon", "Concerto pour piano en la mineur", "Double concerto", "Concerto pour violoncelle"],
+    "answerIndex": 1,
+    "explication": "Il compose un concerto pour piano et orchestre, op. 54."
+  },
+  {
+    "question": "42 - Dans quelle tonalité est ce concerto ?",
+    "options": [ "La mineur","Do mineur", "Ré majeur", "Mi bémol majeur"],
+    "answerIndex": 0,
+    "explication": "Le concerto est en la mineur."
+  },
+  {
+    "question": "43 - Qui crée le concerto comme soliste ?",
+    "options": ["Liszt", "Mendelssohn", "Clara Schumann", "Schumann lui-même"],
+    "answerIndex": 2,
+    "explication": "Clara Schumann est la pianiste lors de la création."
+  },
+  {
+    "question": "44 - Quelle particularité distingue ce concerto de la tradition classique ?",
+    "options": ["Le piano arrive tard", "Le piano apparaît dès le début", "Absence d’orchestre", "Un seul mouvement"],
+    "answerIndex": 1,
+    "explication": "Le soliste apparaît dès le début, contrairement à Mozart ou Beethoven."
+  },
+  {
+    "question": "45 - Ce concerto appartient davantage au monde :",
+    "options": ["De l’opéra", "Concertant", "Syrnphonique", "Baroque"],
+    "answerIndex": 2,
+    "explication": "Il relève davantage du monde symphonique."
+  },
+  {
+    "question": "46 - Quelle atmosphère domine le concerto ?",
+    "options": ["Martiale", "Tragique", "Ironique", "Rêve et poésie"],
+    "answerIndex": 3,
+    "explication": "Il plonge l’auditeur dans une atmosphère de rêve et de poésie."
+  },
+  {
+    "question": "47 - Quelle rareté caractérise le thème 1 du concerto ?",
+    "options": ["Il est atonal", "Il unit Florestan et Eusébius", "Il est purement rythmique", "Il est populaire"],
+    "answerIndex": 1,
+    "explication": "C’est un rare thème où les deux pôles s’équilibrent."
+  },
+  {
+    "question": "48 - Qu’est-ce qui régit la forme chez Schumann ?",
+    "options": ["La tradition", "La logique formelle", "La passion", "La symétrie"],
+    "answerIndex": 2,
+    "explication": "C’est la passion qui impose la structure."
+  },
+  {
+    "question": "49 - Comment qualifier la structure de ce concerto ?",
+    "options": ["Fantaisie personnelle","Rigide", "Académique",  "Classique pure"],
+    "answerIndex": 0,
+    "explication": "Les idées se multiplient librement : une véritable fantaisie."
+  },
+  {
+    "question": "50 - Robert Schumann est finalement défini comme :",
+    "options": ["Un héritier de Beethoven", "Un compositeur académique", "Le musicien symbole du romantisme allemand", "Un marginal hors du romantisme"],
+    "answerIndex": 2,
+    "explication": "Le cours conclut sur Schumann comme musicien symbole du romantisme allemand."
+  }
+]

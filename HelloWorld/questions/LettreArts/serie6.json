@@ -1,0 +1,309 @@
+[
+  {
+    "question": "1 - Qui sont les frères Goncourt ?",
+    "options": ["Des peintres symbolistes", "Des aristocrates collectionneurs et écrivains", "Des romantiques révolutionnaires", "Des critiques d'art uniquement"],
+    "answerIndex": 1,
+    "explication": "Edmond et Jules de Goncourt sont des aristocrates, collectionneurs et hommes de lettres."
+  },
+  {
+    "question": "2 - Quel artiste a réalisé un portrait des frères Goncourt ?",
+    "options": ["Paul Gavarni", "Watteau", "Manet", "Courbet"],
+    "answerIndex": 0,
+    "explication": "Paul Gavarni a portraituré Edmond et Jules de Goncourt."
+  },
+  {
+    "question": "3 - En quelle année les frères Goncourt s’installent-ils dans la maison qui deviendra le 'Grenier littéraire' ?",
+    "options": ["1850", "1868", "1875", "1884"],
+    "answerIndex": 1,
+    "explication": "La maison date de 1868, où Edmond tiendra plus tard son Grenier littéraire."
+  },
+  {
+    "question": "4 - Quel siècle constitue pour les Goncourt un modèle esthétique essentiel ?",
+    "options": ["Le XVIIe siècle", "Le XVIIIe siècle", "Le XIXe siècle", "Le XVIe siècle"],
+    "answerIndex": 1,
+    "explication": "Ils ont un goût prononcé pour le XVIIIe siècle et ses couleurs."
+  },
+  {
+    "question": "5 - Quelle caractéristique du XVIIIe siècle est particulièrement valorisée par les Goncourt ?",
+    "options": ["Sa sobriété", "Ses couleurs vives et variées", "Son austérité morale", "Son art religieux"],
+    "answerIndex": 1,
+    "explication": "Ils évoquent la « folie des couleurs » du XVIIIe siècle."
+  },
+  {
+    "question": "6 - Quel texte des Goncourt mentionne les couleurs 'gorge de pigeon' et 'pluie de rose' ?",
+    "options": ["Manette Salomon", "Journal (1857)", "Sœur Philomène", "Les Maîtresses de Louis XV"],
+    "answerIndex": 1,
+    "explication": "Ces descriptions proviennent du Journal, année 1857."
+  },
+  {
+    "question": "7 - Quel peintre du XVIIIe siècle est mentionné dans le diaporama ?",
+    "options": ["David", "Lancret", "Ingres", "Greuze"],
+    "answerIndex": 1,
+    "explication": "Nicolas Lancret et son œuvre Le Camargo dansant sont cités."
+  },
+  {
+    "question": "8 - Quelle œuvre de Watteau est référencée ?",
+    "options": ["L’Enseigne de Gersaint", "Pèlerinage à l’île de Cythère", "Pierrot", "La Finette"],
+    "answerIndex": 1,
+    "explication": "Le diaporama montre un détail de Pèlerinage à l’île de Cythère."
+  },
+  {
+    "question": "9 - Quel frère Goncourt réalise des dessins et aquarelles ?",
+    "options": ["Edmond", "Jules", "Les deux", "Aucun"],
+    "answerIndex": 1,
+    "explication": "Jules de Goncourt a produit des dessins, dont Le Bal Mabille."
+  },
+  {
+    "question": "10 - Quelle notion est centrale dans l’idée d'« écriture artiste » ?",
+    "options": ["L’imitation exacte de la réalité", "La transposition d’art", "La simplicité stylistique", "La pureté du récit linéaire"],
+    "answerIndex": 1,
+    "explication": "L’écriture artiste consiste à transposer des effets picturaux en littérature."
+  },
+
+  {
+    "question": "11 - Qui analyse l’écriture picturale comme une 'traduction intersémiotique' ?",
+    "options": ["Vouilloux", "Émilie Sitzia", "Zola", "Flaubert"],
+    "answerIndex": 1,
+    "explication": "Émilie Sitzia évoque cette idée dans un article sur Manette Salomon."
+  },
+  {
+    "question": "12 - Quel élément est décrit comme un défi dans la transposition littéraire ?",
+    "options": ["La perspective", "La couleur", "Le mouvement", "La profondeur"],
+    "answerIndex": 1,
+    "explication": "La couleur, intrinsèquement visuelle, pose problème dans son équivalent littéraire."
+  },
+  {
+    "question": "13 - Quel roman des Goncourt propose une réflexion théorique sur le réalisme élégant ?",
+    "options": ["Renée Mauperin", "Chérie", "Les Frères Zemganno", "Manette Salomon"],
+    "answerIndex": 2,
+    "explication": "Les Frères Zemganno (1879) contiennent une importante préface esthétique."
+  },
+  {
+    "question": "14 - Que défendent les Goncourt dans Les Frères Zemganno ?",
+    "options": ["Le réalisme du sordide", "Le réalisme de l'élégance", "Le symbolisme", "Le naturalisme radical"],
+    "answerIndex": 1,
+    "explication": "Ils affirment que le réalisme peut aussi décrire le beau, le raffiné."
+  },
+  {
+    "question": "15 - Quelle idée expriment-ils sur le réalisme 'qui pue' ?",
+    "options": ["Ils l’approuvent totalement", "Ils le rejettent entièrement", "Ils estiment qu’il doit être équilibré par une étude du beau", "Ils veulent en faire la norme unique"],
+    "answerIndex": 2,
+    "explication": "Ils considèrent que le réalisme ne doit pas s’enfermer dans la laideur."
+  },
+  {
+    "question": "16 - Quelle œuvre contient un art poétique détaillé des Goncourt ?",
+    "options": ["Chérie (préface)", "Madame Gervaisais", "La Fille Élisa", "Journal"],
+    "answerIndex": 0,
+    "explication": "La préface de Chérie (1884) expose un véritable art poétique."
+  },
+  {
+    "question": "17 - Quel élément stylistique le romancier doit-il poursuivre selon Edmond de Goncourt ?",
+    "options": ["Les tournures simples", "Le rythme et la cadence", "La neutralité absolue", "Le refus de l’image"],
+    "answerIndex": 1,
+    "explication": "Le romancier doit viser une prose rythmée et poétique."
+  },
+  {
+    "question": "18 - Que recherche l'écrivain selon la préface de Chérie ?",
+    "options": ["L’épithète rare", "L’absence d’ornements", "La brièveté maximale", "La neutralité lexicale"],
+    "answerIndex": 0,
+    "explication": "Les Goncourt défendent la quête de l’épithète rare et expressives."
+  },
+  {
+    "question": "19 - Quelle figure grammaticale les Goncourt acceptent-ils volontiers ?",
+    "options": ["Le cliché", "Le néologisme", "La tautologie", "L'hyperbate"],
+    "answerIndex": 1,
+    "explication": "Ils n’hésitent pas à créer de nouveaux mots si nécessaire."
+  },
+  {
+    "question": "20 - Quel roman des Goncourt met en scène un peintre nommé Coriolis ?",
+    "options": ["Chérie", "Renée Mauperin", "Manette Salomon", "Les Frères Zemganno"],
+    "answerIndex": 2,
+    "explication": "Manette Salomon (1867) est un roman centré sur la vie d’artistes."
+  },
+
+  {
+    "question": "21 - Comment est décrite la toile d’Adramiti peinte par Coriolis ?",
+    "options": ["Froide et sombre", "Brillante, légère et pleine de couleurs", "Monochrome", "Saturée de noir"],
+    "answerIndex": 1,
+    "explication": "Elle est décrite comme éclatante, fraîche, pleine de tons de fleurs."
+  },
+  {
+    "question": "22 - Quelle caractéristique du style Goncourt apparaît dans la description de cette toile ?",
+    "options": ["La simplification extrême", "La neutralité", "La picturalité sensorielle", "La froideur analytique"],
+    "answerIndex": 2,
+    "explication": "La description est riche de sensations visuelles et de couleurs."
+  },
+  {
+    "question": "23 - Quel type de discours est inséré dans Manette Salomon ?",
+    "options": ["Un discours politique", "Un discours scientifique", "Un discours artistique spécialisé", "Un discours religieux"],
+    "answerIndex": 2,
+    "explication": "Le roman inclut des analyses techniques sur la peinture."
+  },
+  {
+    "question": "24 - Quelle figure artistique est évoquée dans le discours technique du peintre ?",
+    "options": ["David", "Velázquez", "Monet", "Delacroix"],
+    "answerIndex": 1,
+    "explication": "Le peintre est dit 'coloriste à la Velázquez'."
+  },
+  {
+    "question": "25 - Quel est l’objectif du coloriste évoqué dans Manette Salomon ?",
+    "options": ["Supprimer tout contraste", "Garder les valeurs d’ombre et de lumière", "Éliminer le noir", "Peindre sans dessin préalable"],
+    "answerIndex": 1,
+    "explication": "Le peintre organise ombre et lumière avant d’ajouter la couleur."
+  },
+
+  {
+    "question": "26 - Quel terme caractérise l’écriture des Goncourt selon le cours ?",
+    "options": ["Baroque", "Impressionniste", "Classique", "Surréaliste"],
+    "answerIndex": 1,
+    "explication": "On parle d'« impressionnisme littéraire »."
+  },
+  {
+    "question": "27 - Quel mécanisme stylistique évoque Bernard Vouilloux ?",
+    "options": ["La métrique régulière", "La picturalisation du paysage", "La syntaxe sans subordonnées", "L’absence d’images"],
+    "answerIndex": 1,
+    "explication": "La description s’appuie sur un vocabulaire issu des arts visuels."
+  },
+  {
+    "question": "28 - Quel champ lexical est particulièrement présent chez les Goncourt ?",
+    "options": ["Les odeurs", "La politique", "Les arts visuels", "La religion"],
+    "answerIndex": 2,
+    "explication": "Ils puisent dans les vocabulaires spécialisés de la peinture."
+  },
+  {
+    "question": "29 - Quelle stratégie stylistique forment les 'touches successives' ?",
+    "options": ["Un réalisme plat", "Un impressionnisme littéraire", "Un symbolisme mystique", "Une poésie narrative"],
+    "answerIndex": 1,
+    "explication": "L’écriture procède comme une peinture impressionniste."
+  },
+  {
+    "question": "30 - Quel terme décrit les descriptions visuelles par allusion indirecte ?",
+    "options": ["L’isotopie thématique", "Le renvoi allusif", "La synecdoque", "Le chiasme"],
+    "answerIndex": 1,
+    "explication": "Le cours évoque l’efficacité des renvois allusifs à l’art."
+  },
+
+  {
+    "question": "31 - Quelle époque les Goncourt opposent au XIXe siècle perçu comme 'en deuil' ?",
+    "options": ["Le XVIIe siècle spirituel", "Le XVIIIe siècle coloré", "Le Moyen-Âge mystique", "La Renaissance italienne"],
+    "answerIndex": 1,
+    "explication": "Ils voient le XVIIIe siècle comme une explosion de couleurs."
+  },
+  {
+    "question": "32 - Que symbolise la couleur noire selon eux ?",
+    "options": ["Le luxe", "La créativité", "Le deuil", "La fantaisie"],
+    "answerIndex": 2,
+    "explication": "Ils affirment que le XIXe siècle a 'inventé' la vie en noir."
+  },
+  {
+    "question": "33 - Quelle est la particularité de Manette Salomon ?",
+    "options": ["Il est autobiographique", "Il est centré sur un milieu artistique parisien", "Il est un poème en prose", "Il est un roman historique"],
+    "answerIndex": 1,
+    "explication": "Manette Salomon met en scène des artistes et ateliers parisiens."
+  },
+  {
+    "question": "34 - Quelle fonction a la maison des Goncourt à partir de 1868 ?",
+    "options": ["Un salon politique", "Un grenier littéraire", "Un musée d'art", "Un observatoire scientifique"],
+    "answerIndex": 1,
+    "explication": "Edmond y tient son célèbre 'Grenier'."
+  },
+  {
+    "question": "35 - Comment peut-on définir le néologisme selon Edmond de Goncourt ?",
+    "options": ["Une faute grave", "Un enrichissement du vocabulaire", "Une concession à la mode", "Une faiblesse stylistique"],
+    "answerIndex": 1,
+    "explication": "Il admet les néologismes quand ils servent la phrase."
+  },
+
+  {
+    "question": "36 - Quel enjeu pose la traduction littéraire de la couleur selon Sitzia ?",
+    "options": ["L’objectivité", "L’équivalence entre visualité et langage", "L’usage du noir", "La transcription du mouvement"],
+    "answerIndex": 1,
+    "explication": "Trouver l’équivalence entre signes picturaux et littéraires est difficile."
+  },
+  {
+    "question": "37 - Comment est décrite la palette de Coriolis ?",
+    "options": ["Sombre et terreuse", "Comme un bouquet de fleurs", "Neutre et grise", "Monochrome"],
+    "answerIndex": 1,
+    "explication": "Elle est décrite comme 'la palette d’un vrai bouquet'."
+  },
+  {
+    "question": "38 - Que représente l’Orient dans Manette Salomon ?",
+    "options": ["Un cliché négatif", "Un décor saturé de lumière et de couleurs", "Un univers austère", "Un sujet politique"],
+    "answerIndex": 1,
+    "explication": "L’Orient est lumineux, éclatant, 'mouillé de poussière d’eau'."
+  },
+  {
+    "question": "39 - Que met en scène le discours technique du peintre ?",
+    "options": ["Le refus de toute règle", "Une théorie de la couleur et des valeurs", "Une réflexion philosophique", "Une satire du réalisme"],
+    "answerIndex": 1,
+    "explication": "Le peintre explique comment organiser valeurs et couleurs."
+  },
+  {
+    "question": "40 - Quelle est la posture des Goncourt face à la langue académique ?",
+    "options": ["Ils la suivent scrupuleusement", "Ils n’osent jamais y déroger", "Ils n’hésitent pas à la bousculer", "Ils la rejettent totalement"],
+    "answerIndex": 2,
+    "explication": "Ils acceptent des 'tours' qui pourraient déplaire aux puristes."
+  },
+
+  {
+    "question": "41 - Quel rôle joue la syntaxe dans l’impressionnisme littéraire des Goncourt ?",
+    "options": ["Elle est toujours classique", "Elle est simplifiée", "Elle produit un effet de touches successives", "Elle supprime les adjectifs"],
+    "answerIndex": 2,
+    "explication": "La syntaxe fragmentée crée un effet de petites touches picturales."
+  },
+  {
+    "question": "42 - Quelle vision du réalisme apparaît dans Les Frères Zemganno ?",
+    "options": ["Un réalisme du bas", "Un réalisme élargi au beau", "Un réalisme documentaire", "Un réalisme politique"],
+    "answerIndex": 1,
+    "explication": "Ils affirment que le réalisme peut décrire le raffiné et le joli."
+  },
+  {
+    "question": "43 - Quelle métaphore est sous-jacente dans l’idée d’écriture 'artiste' ?",
+    "options": ["La musique", "La peinture", "La sculpture", "L’architecture"],
+    "answerIndex": 1,
+    "explication": "Il s’agit de transposer en littérature des effets picturaux."
+  },
+  {
+    "question": "44 - À quelle école artistique se rapprochent-ils dans leur goût du XVIIIe ?",
+    "options": ["Le baroque espagnol", "Le rococo français", "Le néoclassicisme", "Le romantisme"],
+    "answerIndex": 1,
+    "explication": "Leur passion pour Watteau, Lancret, etc., renvoie au rococo."
+  },
+  {
+    "question": "45 - Quel est le lien entre collection et écriture chez les Goncourt ?",
+    "options": ["Aucun", "La collection inspire l'écriture", "Ils préfèrent la collection à l’écriture", "La collection empêche de créer"],
+    "answerIndex": 1,
+    "explication": "Leur passion des objets nourrit leur écriture artiste."
+  },
+
+  {
+    "question": "46 - Que symbolise la 'folie des couleurs' du XVIIIe siècle pour eux ?",
+    "options": ["L'excès moral", "La liberté et la joie", "La déchéance politique", "Le matérialisme"],
+    "answerIndex": 1,
+    "explication": "Les couleurs sont associées à la joie et à la fantaisie."
+  },
+  {
+    "question": "47 - Qu’est-ce qu’un musée de toiles imaginaires dans Manette Salomon ?",
+    "options": ["Une critique politique", "Une galerie fictive d’œuvres décrites littérairement", "Une série de peintures réelles", "Un musée réel de Paris"],
+    "answerIndex": 1,
+    "explication": "Les Goncourt inventent des tableaux qu’ils décrivent comme réels."
+  },
+  {
+    "question": "48 - Quel procédé littéraire renforce la sensation visuelle dans leurs descriptions ?",
+    "options": ["Les comparaisons colorées", "L'ironie", "La litote", "Les phrases sans verbes"],
+    "answerIndex": 0,
+    "explication": "Les comparaisons empruntées aux arts visuels intensifient la picturalité."
+  },
+  {
+    "question": "49 - Quelle dimension le roman Manette Salomon donne-t-il à l’artiste Coriolis ?",
+    "options": ["Une vision héroïque", "Une vision technique et sensible", "Une vision mythologique", "Une vision politique"],
+    "answerIndex": 1,
+    "explication": "Le roman explore la technique picturale et la sensibilité de l’artiste."
+  },
+  {
+    "question": "50 - Que signifie l’expression 'écriture artiste' chez les Goncourt ?",
+    "options": ["Une écriture simple", "Une écriture poétique influencée par la peinture", "Une écriture sans adjectifs", "Une écriture strictement réaliste"],
+    "answerIndex": 1,
+    "explication": "L’expression désigne une prose travaillée, picturale, poétique."
+  }
+]

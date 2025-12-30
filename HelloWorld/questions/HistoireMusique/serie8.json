@@ -1,243 +1,166 @@
 [
   {
-    "question": "1 - [Identification] Quel compositeur a écrit la Symphonie n°35 K.385 « Haffner » ?",
-    "options": ["Wolfgang Amadeus Mozart", "Joseph Haydn", "Johann Stamitz", "Ludwig van Beethoven"],
+    "question": "1 - [Compositeur] Qui a composé la symphonie n° 35 « Haffner » ?",
+    "options": ["Mozart", "Haydn", "Beethoven", "Bach"],
     "answerIndex": 0,
-    "explication": "La Symphonie n°35 « Haffner » a été composée par Mozart en 1774."
+    "explication": "La symphonie n°35 en ré majeur « Haffner » a été composée par Wolfgang Amadeus Mozart."
   },
   {
-    "question": "2 - [Date] En quelle année Mozart a-t-il composé cette symphonie ?",
-    "options": ["1774", "1773", "1785", "1762"],
-    "answerIndex": 0,
-    "explication": "La symphonie a été composée en 1774 à Salzbourg pour la famille Haffner."
+    "question": "2 - [Date] En quelle année a été publiée la première édition de cette symphonie ?",
+    "options": ["1783", "1785", "1787", "1790"],
+    "answerIndex": 1,
+    "explication": "La première édition a été réalisée en 1785 par Artaria, à Vienne."
   },
   {
-    "question": "3 - [Contexte] Pour quelle occasion la symphonie a-t-elle été commandée ?",
-    "options": ["Cérémonie honorant Sigmund Haffner", "Concert public à Vienne", "Fête religieuse", "Mariage royal"],
-    "answerIndex": 0,
-    "explication": "La symphonie a été commandée pour honorer Sigmund Haffner, notable de Salzbourg."
+    "question": "3 - [Instrumentation] Combien de cors sont utilisés dans cette symphonie ?",
+    "options": ["1", "3", "4", "2"],
+    "answerIndex": 3,
+    "explication": "Deux cors en ré sont utilisés dans l’instrumentation de la symphonie."
   },
   {
-    "question": "4 - [Style] Quel style caractérise ce mouvement ?",
-    "options": ["Classicisme viennois brillant", "Baroque tardif", "Romantisme", "Sturm und Drang"],
-    "answerIndex": 0,
-    "explication": "Le mouvement illustre le classicisme viennois, brillant et énergique."
+    "question": "4 - [Instrumentation] Quels instruments à vent Mozart utilise-t-il ?",
+    "options": ["Flûtes et hautbois seulement", "Clarinette et trompette uniquement", "Hautbois et trombones", "Flûtes, hautbois, clarinettes, bassons"],
+    "answerIndex": 3,
+    "explication": "L’orchestre comporte 2 flûtes, 2 hautbois, 2 clarinettes en la et 2 bassons."
   },
   {
-    "question": "5 - [Formation] Quelle est l’orchestration typique de ce mouvement ?",
-    "options": ["Cordes, bois, cuivres, timbales", "Cordes uniquement", "Bois et harpe", "Percussions et cuivres uniquement"],
+    "question": "5 - [Percussions] Quelles percussions sont présentes ?",
+    "options": ["Timbales", "Grosse caisse et cymbales", "Tambourin", "Aucune"],
     "answerIndex": 0,
-    "explication": "L’orchestre comprend cordes, bois, cuivres et timbales, typique du classicisme."
+    "explication": "Les timbales, accordées en ré et la, sont les seules percussions de cette symphonie."
   },
   {
-    "question": "6 - [Tempo] Quel est le tempo du premier mouvement ?",
-    "options": ["Allegro con spirito", "Andante", "Presto", "Adagio"],
-    "answerIndex": 0,
-    "explication": "Le mouvement est vif et énergique : Allegro con spirito."
+    "question": "6 - [Structure] Combien de mouvements comporte la symphonie « Haffner » ?",
+    "options": ["3", "4", "5", "6"],
+    "answerIndex": 1,
+    "explication": "La symphonie suit la structure classique en quatre mouvements : Allegro, Andante, Menuet et Trio, Presto."
   },
   {
-    "question": "7 - [Premier thème] Comment est le thème principal ?",
-    "options": ["Énergique et rythmé", "Paisible et méditatif", "Comique", "Sombre et dramatique"],
-    "answerIndex": 0,
-    "explication": "Le thème principal est vif, ponctué et énergique."
+    "question": "7 - [Premier mouvement] Quelle est la tonalité de l’Allegro con spirito ?",
+    "options": [ "Sol majeur", "La majeur", "Ré majeur","Fa majeur"],
+    "answerIndex": 2,
+    "explication": "Le premier mouvement est en ré majeur, tonalité brillante et joyeuse."
   },
   {
-    "question": "8 - [Second thème] Quel caractère présente le second thème ?",
-    "options": ["Lyrique et chantant", "Polyphonique complexe", "Humoristique", "Silencieux"],
-    "answerIndex": 0,
-    "explication": "Le second thème est plus lyrique et chantant, contrastant avec le premier."
+    "question": "8 - [Premier mouvement] Quelle est la particularité émotionnelle de ce mouvement ?",
+    "options": ["Uniquement joyeux", "Uniquement triste", "Oscille entre joie et inquiétude", "Comique léger"],
+    "answerIndex": 2,
+    "explication": "Le mouvement oscille entre joie et inquiétude, créant une énergie dramatique."
   },
   {
-    "question": "9 - [Développement] Quel est le rôle du développement ?",
-    "options": ["Modulations et dialogues instrumentaux", "Silence prolongé", "Improvisation libre", "Thème nouveau"],
+    "question": "9 - [Premier mouvement] Combien de mesures comporte ce mouvement ?",
+    "options": ["204", "84", "264", "120"],
     "answerIndex": 0,
-    "explication": "Le développement explore les thèmes avec modulations et dialogues entre instruments."
+    "explication": "L’Allegro con spirito comporte 204 mesures."
   },
   {
-    "question": "10 - [Réexposition] Que se passe-t-il lors de la réexposition ?",
-    "options": ["Retour des thèmes principaux dans la tonalité d’origine", "Introduction d’un nouveau thème", "Silence dramatique", "Répétition libre"],
-    "answerIndex": 0,
-    "explication": "Les thèmes principaux reviennent dans leur tonalité d’origine pour clôturer le mouvement."
+    "question": "10 - [Premier mouvement] Quelle atmosphère se dégage de ce mouvement par rapport à Salzbourg ?",
+    "options": ["Typiquement galante", "Au-delà de l’atmosphère galante", "Baroque", "Romantique"],
+    "answerIndex": 1,
+    "explication": "Mozart dépasse l’atmosphère galante de Salzbourg et ouvre de nouveaux horizons expressifs."
   },
   {
-    "question": "11 - [Dynamique] Comment sont les contrastes dynamiques ?",
-    "options": ["Maîtrisés et clairs", "Excessifs", "Monotones", "Aléatoires"],
+    "question": "11 - [Premier mouvement] Ce mouvement rappelle-t-il un style théâtral ?",
+    "options": ["Oui, l’Enlèvement au Sérail", "Non, uniquement symphonique", "Oui, Don Giovanni", "Non, style baroque"],
     "answerIndex": 0,
-    "explication": "Les contrastes sont clairs et contribuent à la vivacité et à l’expressivité du mouvement."
+    "explication": "Le mouvement, par son énergie et ses thèmes, rappelle le finale de L’Enlèvement au Sérail."
+  },
+  
+  {
+    "question": "19 - [Durée] Quelle est la durée approximative de la symphonie ?",
+    "options": ["15 minutes", "30 minutes", "40 minutes", "22 minutes"],
+    "answerIndex": 3,
+    "explication": "La symphonie dure environ 22 minutes."
   },
   {
-    "question": "12 - [Orchestration] Quel rôle des bois ?",
-    "options": ["Colorer et accompagner les cordes", "Porter le thème principal", "Créer chaos", "Improviser librement"],
+    "question": "20 - [Comparaison] Cette symphonie ressemble à quelle autre œuvre légère de Mozart ?",
+    "options": ["Symphonie n° 4 « Italienne » de Mendelssohn", "Symphonie n° 40", "L’Enlèvement au Sérail", "Don Giovanni"],
     "answerIndex": 0,
-    "explication": "Les bois ajoutent couleur et accompagnement aux cordes."
+    "explication": "Elle conserve un caractère léger et gai comparable à la Symphonie n°4 « Italienne » de Mendelssohn."
   },
   {
-    "question": "13 - [Orchestration] Quel rôle des cuivres et trompettes ?",
-    "options": ["Accentuer les points forts et donner majesté", "Porter le thème principal", "Créer des effets de silence", "Improviser"],
-    "answerIndex": 0,
-    "explication": "Les cuivres et trompettes ponctuent certains accents et renforcent la majesté du mouvement."
+    "question": "21 - [Edition] Qui a publié la première édition de la symphonie ?",
+    "options": ["Breitkopf & Härtel", "Artaria", "Bärenreiter", "Hermann"],
+    "answerIndex": 1,
+    "explication": "La première édition a été réalisée par Artaria à Vienne."
   },
   {
-    "question": "14 - [Orchestration] Quel rôle des timbales ?",
-    "options": ["Renforcer la rythmique et ponctuer les accents", "Porter le thème principal", "Accompagner le second thème", "Improviser librement"],
-    "answerIndex": 0,
-    "explication": "Les timbales soulignent les accents et la vivacité rythmique."
+    "question": "22 - [Instrument soliste] Quel groupe instrumental est prédominant dans cette symphonie ?",
+    "options": [ "Bois", "Cuivres", "Percussions","Cordes"],
+    "answerIndex": 3,
+    "explication": "Les cordes (violons, altos, violoncelles, contrebasses) sont prédominantes et assurent la continuité mélodique."
   },
   {
-    "question": "15 - [Forme] Quelle forme structurelle utilise Mozart ?",
-    "options": ["Forme sonate", "Rondo", "Fugue", "Suite de danses"],
-    "answerIndex": 0,
-    "explication": "Le mouvement est en forme sonate avec exposition, développement et réexposition."
+    "question": "23 - [Caractère général] Comment est globalement décrite la symphonie ?",
+    "options": ["Comique et légère", "Légère et gaie avec des passages de mélancolie", "Sombre et tragique", "Strictement baroque"],
+    "answerIndex": 1,
+    "explication": "La symphonie est légère et gaie mais comporte des séquences de mélancolie discrète."
   },
   {
-    "question": "16 - [Caractère] Quelle est l’atmosphère générale ?",
-    "options": ["Festive et brillante", "Sombre et tragique", "Paisible et méditative", "Humoristique"],
+    "question": "24 - [Premier mouvement] Quel sentiment secondaire est présent dans le second thème ?",
+    "options": ["Sourde et pensive inquiétude", "Pure joie", "Tristesse excessive", "Humour léger"],
     "answerIndex": 0,
-    "explication": "L’atmosphère est joyeuse, festive et brillante, reflétant le caractère cérémoniel de la commande."
+    "explication": "Le second thème du premier mouvement est empreint d'une sourde et pensive inquiétude."
   },
   {
-    "question": "17 - [Rythme] Quels motifs rythmiques dominent ?",
-    "options": ["Courts et ponctués", "Longs et fluides", "Polyphoniques", "Silencieux"],
-    "answerIndex": 0,
-    "explication": "Le mouvement utilise des motifs courts et ponctués, contribuant à son énergie."
+    "question": "25 - [Premier mouvement] L’Allegro con spirito doit être interprété :",
+    "options": ["Avec lenteur", "Avec une humeur comique", "Avec énergie et brillance","En style baroque strict"],
+    "answerIndex": 2,
+    "explication": "Il doit être joué de manière brillante et énergique, dramatique dans son expression."
   },
   {
-    "question": "18 - [Contraste] Comment Mozart crée-t-il le contraste ?",
-    "options": ["Entre thème vif et second thème lyrique", "Silence total", "Polyphonie complexe", "Improvisation"],
-    "answerIndex": 0,
-    "explication": "Le contraste entre vivacité rythmique et lyrisme du second thème enrichit l’expressivité."
+    "question": "26 - [Premier mouvement] Quelle est la signature rythmique du premier mouvement ?",
+    "options": ["3/4", "4/4", "2/4", "6/8"],
+    "answerIndex": 1,
+    "explication": "L’Allegro con spirito est en 4/4."
   },
   {
-    "question": "19 - [Virtuosité] Où se manifeste la virtuosité ?",
-    "options": ["Cordes rapides et bois colorés", "Cuivres seuls", "Timbales uniquement", "Silence prolongé"],
+    "question": "27 - [Premier mouvement] Comment ce mouvement se distingue-t-il de l’atmosphère galante ?",
+    "options": ["Il est plus sérieux et dramatique", "Il est plus léger", "Il est strictement dansant", "Il est uniquement lyrique"],
     "answerIndex": 0,
-    "explication": "Les cordes rapides et les bois apportent virtuosité et brillance au mouvement."
+    "explication": "Mozart introduit une dimension dramatique et oscillante qui dépasse l’atmosphère galante habituelle."
   },
   {
-    "question": "20 - [Développement] Quel dialogue instrumental est notable ?",
-    "options": ["Entre cordes et bois", "Entre timbales et cuivres", "Entre trompettes et percussion", "Entre basse continue et violon solo"],
-    "answerIndex": 0,
-    "explication": "Le développement met en valeur des dialogues subtils entre cordes et bois."
+    "question": "28 - [Premier mouvement] Le mouvement contient-il des éléments préfigurant l’opéra ?",
+    "options": [ "Non, purement symphonique", "Oui, Don Giovanni","Oui, en rappelant L’Enlèvement au Sérail", "Non, style baroque"],
+    "answerIndex": 2,
+    "explication": "Le mouvement rappelle l’exubérance théâtrale de L’Enlèvement au Sérail."
   },
   {
-    "question": "21 - [Exposition] Comment sont présentés les thèmes dans l’exposition ?",
-    "options": ["Clairs et contrastés", "Confus et mêlés", "Humoristiques", "Silencieux"],
+    "question": "29 - [Premier mouvement] Quelle impression générale dégage ce mouvement selon l’analyse ?",
+    "options": ["Dramatique et brillant", "Léger et comique", "Tragique et sombre", "Lyrique uniquement"],
     "answerIndex": 0,
-    "explication": "Les thèmes sont clairs et contrastés pour faciliter l’écoute et la compréhension."
+    "explication": "L’Allegro con spirito est dramatique et brillant, oscillant entre énergie et inquiétude."
   },
   {
-    "question": "22 - [Rythme] Quel rôle joue le rythme ?",
-    "options": ["Créer vivacité et énergie", "Ralentir le mouvement", "Créer chaos", "Silence total"],
-    "answerIndex": 0,
-    "explication": "Le rythme ponctué contribue à la vivacité et à l’énergie festive."
+    "question": "30 - [Instrumentation] Combien de trompettes sont utilisées dans cette symphonie ?",
+    "options": ["1", "3", "4", "2"],
+    "answerIndex": 3,
+    "explication": "Deux trompettes en ré accompagnent l’orchestre."
   },
   {
-    "question": "23 - [Dynamique] Comment Mozart utilise-t-il les nuances ?",
-    "options": ["Pour renforcer les accents et la clarté", "Pour masquer les thèmes", "Silence continu", "Improvisation libre"],
-    "answerIndex": 0,
-    "explication": "Les nuances servent à accentuer les points forts et à clarifier les thèmes."
+    "question": "31 - [Instrumentation] Combien de clarinettes Mozart ajoute-t-il dans l’orchestre ?",
+    "options": ["1", "2", "3", "Aucune"],
+    "answerIndex": 1,
+    "explication": "L’orchestre comprend 2 clarinettes en la."
+  },
+  
+  {
+    "question": "33 - [Durée] Combien de mesures comporte le Presto final ?",
+    "options": ["204", "84", "264", "300"],
+    "answerIndex": 2,
+    "explication": "Le Presto final compte 264 mesures."
   },
   {
-    "question": "24 - [Ambiance] Quelle émotion prédomine ?",
-    "options": ["Joie et éclat festif", "Tristesse et drame", "Calme méditatif", "Mysticisme"],
+    "question": "34 - [Premier mouvement] Quelle est l’importance dramatique de ce mouvement dans la symphonie ?",
+    "options": ["Il établit le contraste et l’énergie de l’œuvre", "Il est uniquement décoratif", "Il est léger et comique", "Il est lyrique uniquement"],
     "answerIndex": 0,
-    "explication": "L’émotion principale est joyeuse et éclatante, en adéquation avec l’événement festif."
+    "explication": "L’Allegro con spirito pose l’énergie dramatique et l’oscillation émotionnelle de la symphonie."
   },
   {
-    "question": "25 - [Comparaison] Cette symphonie est-elle proche stylistiquement d’autres œuvres ?",
-    "options": ["Oui, d’autres symphonies de jeunesse de Mozart", "Non, unique", "Ressemble à Bach", "Ressemble à Beethoven tardif"],
-    "answerIndex": 0,
-    "explication": "Elle est typique des symphonies de jeunesse de Mozart, joyeuses et brillantes."
-  },
-  {
-    "question": "26 - [Innovations] Quelle innovation stylistique est perceptible ?",
-    "options": ["Clarté orchestrale et dialogues instrumentaux", "Polyphonie stricte", "Silence prolongé", "Improvisation baroque"],
-    "answerIndex": 0,
-    "explication": "Mozart exploite la clarté orchestrale et les dialogues entre instruments."
-  },
-  {
-    "question": "27 - [Tonalité] Quelle est la tonalité du premier mouvement ?",
-    "options": ["Ré majeur", "Sol majeur", "Fa mineur", "Do majeur"],
-    "answerIndex": 0,
-    "explication": "Le premier mouvement est en ré majeur, conférant éclat et vivacité."
-  },
-  {
-    "question": "28 - [Thème] Quelle famille d’instruments introduit le thème principal ?",
-    "options": ["Cordes", "Cuivres", "Bois", "Timbales"],
-    "answerIndex": 0,
-    "explication": "Les cordes introduisent le thème principal vif et rythmé."
-  },
-  {
-    "question": "29 - [Contraste] Comment se fait le contraste dans le mouvement ?",
-    "options": ["Entre passages rythmiques et passages lyriques", "Silence total", "Polyphonie complexe", "Improvisation"],
-    "answerIndex": 0,
-    "explication": "Les passages rythmiques contrastent avec les moments lyriques pour enrichir l’expression."
-  },
-  {
-    "question": "30 - [Réexposition] Comment Mozart clôture-t-il le mouvement ?",
-    "options": ["Retour brillant des thèmes principaux", "Silence prolongé", "Improvisation", "Thème nouveau"],
-    "answerIndex": 0,
-    "explication": "Le mouvement se termine par la réexposition brillante des thèmes principaux."
-  },
-  {
-    "question": "31 - [Énergie] Quelle énergie domine le mouvement ?",
-    "options": ["Vive et entraînante", "Calme et méditative", "Sombre", "Humoristique"],
-    "answerIndex": 0,
-    "explication": "L’énergie est vive et entraînante, festive et brillante."
-  },
-  {
-    "question": "32 - [Orchestration] Quel rôle des cordes ?",
-    "options": ["Porter le thème principal et rythmer", "Créer silence", "Accentuer la basse", "Improviser"],
-    "answerIndex": 0,
-    "explication": "Les cordes portent le thème principal et assurent la vivacité rythmique."
-  },
-  {
-    "question": "33 - [Bois] Comment les bois contribuent-ils ?",
-    "options": ["Colorer le son et accompagner les cordes", "Porter le thème principal", "Créer chaos", "Improviser"],
-    "answerIndex": 0,
-    "explication": "Les bois ajoutent des couleurs harmoniques et dialoguent avec les cordes."
-  },
-  {
-    "question": "34 - [Cuivres] Comment les cuivres interviennent-ils ?",
-    "options": ["Renforcer les accents et la majesté", "Porter le thème principal", "Improviser", "Silence total"],
-    "answerIndex": 0,
-    "explication": "Les cuivres ponctuent les accents et donnent majesté au mouvement."
-  },
-  {
-    "question": "35 - [Motifs] Quels motifs rythmiques dominent ?",
-    "options": ["Courts et ponctués", "Longs et lents", "Polyphoniques", "Silencieux"],
-    "answerIndex": 0,
-    "explication": "Les motifs courts et ponctués donnent énergie et vitalité."
-  },
-  {
-    "question": "36 - [Clarté] Comment Mozart organise-t-il les thèmes ?",
-    "options": ["Clairs et contrastés", "Confus", "Polyphoniques complexes", "Aléatoires"],
-    "answerIndex": 0,
-    "explication": "Les thèmes sont clairs et contrastés pour une écoute aisée."
-  },
-  {
-    "question": "37 - [Virtuosité] Où se manifeste la virtuosité ?",
-    "options": ["Cordes rapides et bois colorés", "Timbales uniquement", "Cuivres seuls", "Silence"],
-    "answerIndex": 0,
-    "explication": "Les cordes rapides et les bois apportent virtuosité et brillance."
-  },
-  {
-    "question": "38 - [Expression] Quel contraste expressif est notable ?",
-    "options": ["Entre énergie rythmique et passages lyriques", "Silence", "Polyphonie stricte", "Humour"],
-    "answerIndex": 0,
-    "explication": "Le contraste entre passages rythmiques et passages lyriques enrichit le mouvement."
-  },
-  {
-    "question": "39 - [Innovation] Quelle innovation Mozart montre-t-il ?",
-    "options": ["Dialogue instrumentaux et clarté orchestrale", "Polyphonie stricte", "Silence prolongé", "Improvisation baroque"],
-    "answerIndex": 0,
-    "explication": "Mozart utilise des dialogues entre instruments et une orchestration claire."
-  },
-  {
-    "question": "40 - [Conclusion] Quels éléments caractérisent l’esthétique du mouvement ?",
-    "options": ["Énergie, clarté, virtuosité et joie", "Tristesse et lenteur", "Improvisation", "Polyphonie stricte"],
-    "answerIndex": 0,
-    "explication": "L’esthétique repose sur énergie, clarté, virtuosité et joie, typique du style festif de Mozart."
+    "question": "35 - [Premier mouvement] Quel mouvement suit immédiatement l’Allegro con spirito ?",
+    "options": ["Menuet", "Presto", "Andante", "Trio"],
+    "answerIndex": 2,
+    "explication": "L’Andante, en sol majeur, suit le premier mouvement et introduit une atmosphère plus lyrique."
   }
 ]
-

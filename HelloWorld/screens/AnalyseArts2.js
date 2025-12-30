@@ -80,8 +80,12 @@ export default function LessonScreen({ navigation }) {
             )}
 
          <View style={styles.linkContainer}>
-                                <Text style={styles.link} onPress={() => navigation.navigate('AnalyseArts')}>🎇Le radeau de la Méduse</Text>
-                                <Text style={styles.link} onPress={() => navigation.navigate('AnalyseArts2')}>🎇La mort de Sardapane</Text>
+                                 <Text style={styles.link} onPress={() => navigation.navigate('AnalyseArts')}>🎇Le radeau de la Méduse</Text>
+                                                               <Text style={styles.link} onPress={() => navigation.navigate('AnalyseArts2')}>🎇La mort de Sardapane</Text>
+                                                             <Text style={styles.link} onPress={() => navigation.navigate('AnalyseArts3')}>🎇Un enterrement à Ornans</Text>
+                                                             <Text style={styles.link} onPress={() => navigation.navigate('AnalyseArts4')}>🎇Le marché aux chevaux</Text>
+                                                             <Text style={styles.link} onPress={() => navigation.navigate('AnalyseArts5')}>🎇Des Glaneuses</Text>
+                                                             <Text style={styles.link} onPress={() => navigation.navigate('AnalyseArts6')}>🎇La liberté guidant le peuple</Text>
                               
                                 </View>
         

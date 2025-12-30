@@ -1,0 +1,557 @@
+[
+  {
+    "question": "1 - Qui est Janusz Korczak ?",
+    "options": [
+      "Un inspecteur de l’Éducation nationale",
+      "Un pédagogue et médecin polonais",
+      "Un philosophe français",
+      "Un enseignant universitaire uniquement"
+    ],
+    "answerIndex": 1,
+    "explication": "Janusz Korczak est un pédagogue polonais, également médecin pédiatre et écrivain. Il a consacré sa vie aux enfants, notamment aux enfants pauvres et orphelins."
+  },
+  {
+    "question": "2 - En quelle année Janusz Korczak est-il né ?",
+    "options": [
+      "1850",
+      "1905",
+      "1878",
+      "1890"
+    ],
+    "answerIndex": 3,
+    "explication": "Korczak est né en 1878 dans une famille juive polonaise, à une époque marquée par de fortes inégalités sociales."
+  },
+  {
+    "question": "3 - Quel événement tragique marque la fin de la vie de Korczak ?",
+    "options": [
+      "Une maladie",
+      "Un exil",
+      "Sa mort pendant la Seconde Guerre mondiale",
+      "Un accident"
+    ],
+    "answerIndex": 2,
+    "explication": "Korczak meurt en 1942, déporté avec les enfants de son orphelinat pendant la Shoah. Il a refusé de les abandonner."
+  },
+  {
+    "question": "4 - Quel premier métier exerce Korczak ?",
+    "options": [
+      "Journaliste",
+      "Instituteur",
+      "Avocat",
+      "Inspecteur"
+    ],
+    "answerIndex": 0,
+    "explication": "Korczak devient très jeune journaliste engagé. Il écrit pour dénoncer la misère sociale et défendre les enfants."
+  },
+  {
+    "question": "5 - Quel diplôme obtient-il en 1905 ?",
+    "options": [
+      "Philosophie",
+      "Sciences de l’éducation",
+      "Médecine",
+      "Droit"
+    ],
+    "answerIndex": 2,
+    "explication": "Korczak devient médecin pédiatre. Cette formation influence profondément sa vision éducative, centrée sur le soin et l’attention à l’enfant."
+  },
+  {
+    "question": "6 - Pourquoi Korczak abandonne-t-il sa carrière de pédiatre ?",
+    "options": [
+      "Par manque de succès",
+      "Pour ouvrir des orphelinats",
+      "Pour devenir enseignant",
+      "Pour écrire des romans"
+    ],
+    "answerIndex": 1,
+    "explication": "À 34 ans, Korczak choisit de se consacrer pleinement aux enfants pauvres en créant des orphelinats."
+  },
+  {
+    "question": "7 - En quelle année ouvre-t-il son premier orphelinat ?",
+    "options": [
+      "1905",
+      "1912",
+      "1919",
+      "1925"
+    ],
+    "answerIndex": 1,
+    "explication": "Le premier orphelinat pour enfants juifs ouvre en 1912 à Varsovie."
+  },
+  {
+    "question": "8 - Quel type d’enfants accueille-t-il dans ses orphelinats ?",
+    "options": [
+      "Uniquement des enfants sages",
+      "Des enfants riches",
+      "Des enfants des rues",
+      "Des enfants malades uniquement"
+    ],
+    "answerIndex": 2,
+    "explication": "Korczak accueille des enfants pauvres, souvent violents, en difficulté, livrés à eux-mêmes."
+  },
+  {
+    "question": "9 - Dans quel courant pédagogique s’inscrit Korczak ?",
+    "options": [
+      "La pédagogie traditionnelle",
+      "La pédagogie autoritaire",
+      "La pédagogie militaire",
+      "La pédagogie active et progressiste"
+    ],
+    "answerIndex": 3,
+    "explication": "Korczak appartient au courant de la pédagogie active, proche de Pestalozzi et Tolstoï."
+  },
+  {
+    "question": "10 - Quelle est une caractéristique centrale de son œuvre ?",
+    "options": [
+      "L’expérimentation pédagogique",
+      "L’enseignement magistral",
+      "La discipline stricte",
+      "La sélection des meilleurs élèves"
+    ],
+    "answerIndex": 0,
+    "explication": "Korczak met en œuvre concrètement ses idées dans ses orphelinats, qui servent de laboratoires pédagogiques."
+  },
+
+  {
+    "question": "11 - Quel principe fondamental guide son action éducative ?",
+    "options": [
+      "L’enfant doit obéir",
+      "L’enfant est un être humain à part entière",
+      "L’enfant est un adulte en devenir",
+      "L’enfant doit être corrigé"
+    ],
+    "answerIndex": 1,
+    "explication": "Pour Korczak, l’enfant est déjà un être humain complet, digne de respect."
+  },
+  {
+    "question": "12 - Quelle conception de l’autorité défend Korczak ?",
+    "options": [
+      "Autorité autoritaire",
+      "Absence totale d’autorité",
+      "Autorité punitive",
+      "Autorité négociée et expliquée"
+    ],
+    "answerIndex": 3,
+    "explication": "Korczak cherche une voie moyenne entre la contrainte et le laisser-faire."
+  },
+  {
+    "question": "13 - Pourquoi Korczak refuse-t-il le « tout, tout de suite » ?",
+    "options": [
+      "Pour punir les enfants",
+      "Pour développer la réflexion et l’attente",
+      "Pour gagner du temps",
+      "Pour éviter le dialogue"
+    ],
+    "answerIndex": 1,
+    "explication": "Il veut apprendre aux enfants à attendre, réfléchir et maîtriser leurs impulsions."
+  },
+  {
+    "question": "14 - Quel problème majeur rencontre Korczak dans ses orphelinats ?",
+    "options": [
+      "La violence et l’agitation des enfants",
+      "Le manque de moyens",
+      "Le refus des parents",
+      "Le manque d’enseignants"
+    ],
+    "answerIndex": 0,
+    "explication": "Les enfants sont souvent violents, bagarreurs, impulsifs et en grande souffrance."
+  },
+  {
+    "question": "15 - Pourquoi les punitions classiques échouent-elles selon lui ?",
+    "options": [
+      "Elles sont trop douces",
+      "Elles renforcent la violence",
+      "Elles sont inutiles face aux pulsions",
+      "Elles sont mal expliquées"
+    ],
+    "answerIndex": 2,
+    "explication": "Punir ne permet pas de comprendre ni de transformer les comportements."
+  },
+  {
+    "question": "16 - Quelle solution pédagogique Korczak met-il en place ?",
+    "options": [
+      "Plus de sanctions",
+      "Des dispositifs éducatifs",
+      "Un enseignement magistral",
+      "L’exclusion"
+    ],
+    "answerIndex": 1,
+    "explication": "Il crée des dispositifs concrets pour structurer la vie collective."
+  },
+  {
+    "question": "17 - Quel est l’objectif principal de ces dispositifs ?",
+    "options": [
+      "Obéir",
+      "Contrôler",
+      "Classer les élèves",
+      "Apprendre à penser et vivre ensemble"
+    ],
+    "answerIndex": 3,
+    "explication": "Les dispositifs visent l’autonomie, la réflexion et la citoyenneté."
+  },
+  {
+    "question": "18 - Quel dispositif apprend à attendre une réponse ?",
+    "options": [
+      "Le tribunal",
+      "La boîte aux lettres",
+      "Le parlement",
+      "Le tutorat"
+    ],
+    "answerIndex": 1,
+    "explication": "La boîte aux lettres oblige à formuler une demande et à attendre une réponse."
+  },
+  {
+    "question": "19 - Pourquoi écrire une lettre est-il éducatif ?",
+    "options": [
+       "Pour réfléchir avant d’agir",
+      "Pour punir",
+      "Pour obéir",
+      "Pour se taire"
+    ],
+    "answerIndex": 0,
+    "explication": "Écrire suppose de réfléchir, de hiérarchiser ses émotions et ses demandes."
+  },
+  {
+    "question": "20 - Quel dispositif régule les conflits violents ?",
+    "options": [
+      "La punition",
+      "Le tribunal des enfants",
+      "L’exclusion",
+      "La surveillance"
+    ],
+    "answerIndex": 1,
+    "explication": "Le tribunal permet de traiter les conflits de manière démocratique."
+  },
+
+  {
+    "question": "21 - Qui compose le tribunal des enfants ?",
+    "options": [
+      "Des adultes",
+      "Des enseignants",
+      "Des enfants juges",
+      "Des parents"
+    ],
+    "answerIndex": 2,
+    "explication": "Les juges sont des enfants tirés au sort, ce qui garantit l’égalité."
+  },
+  {
+    "question": "22 - Quel est le rôle de l’adulte au tribunal ?",
+    "options": [
+      "Décider",
+      "Punir",
+      "Diriger",
+      "Être greffier"
+    ],
+    "answerIndex": 3,
+    "explication": "L’adulte n’impose pas le jugement, il note et accompagne."
+  },
+  {
+    "question": "23 - Pourquoi les séances sont-elles à huis clos ?",
+    "options": [
+      "Pour punir",
+      "Pour protéger la parole",
+      "Pour exclure",
+      "Pour contrôler"
+    ],
+    "answerIndex": 1,
+    "explication": "Le huis clos favorise la sincérité et le respect."
+  },
+  {
+    "question": "24 - Quel autre dispositif organise la vie collective ?",
+    "options": [
+      "Le conseil d’autogestion",
+      "La punition collective",
+      "La note",
+      "La sanction"
+    ],
+    "answerIndex": 0,
+    "explication": "Le conseil d’autogestion permet aux enfants de gérer collectivement l’orphelinat."
+  },
+  {
+    "question": "25 - Quelle valeur fondamentale est travaillée ?",
+    "options": [
+      "La compétition",
+      "La sélection",
+      "L’obéissance",
+      "La citoyenneté"
+    ],
+    "answerIndex": 3,
+    "explication": "Korczak éduque les enfants à la démocratie et à la responsabilité."
+  },
+
+  {
+    "question": "26 - Quelle est la place du travail chez Korczak ?",
+    "options": [
+      "Une punition",
+      "Un moyen d’implication collective",
+      "Un contrôle",
+      "Une sanction"
+    ],
+    "answerIndex": 1,
+    "explication": "Le travail permet de participer à la vie collective."
+  },
+  {
+    "question": "27 - Quel principe fonde l’autogestion ?",
+    "options": [
+      "L’autorité de l’adulte",
+      "La liberté totale",
+      "La participation des enfants",
+      "La surveillance"
+    ],
+    "answerIndex": 2,
+    "explication": "Les enfants participent aux décisions qui les concernent."
+  },
+  {
+    "question": "28 - Quelle idée fondamentale sur l’enfant défend Korczak ?",
+    "options": [
+      "Il existe déjà pleinement",
+      "Il doit être façonné",
+      "Il doit obéir",
+      "Il doit être corrigé"
+    ],
+    "answerIndex": 0,
+    "explication": "L’enfant n’est pas un adulte inachevé mais un être à part entière."
+  },
+  {
+    "question": "29 - Quel risque accepte l’éducateur selon Korczak ?",
+    "options": [
+      "L’échec",
+      "La résistance de l’enfant",
+      "La punition",
+      "La désobéissance"
+    ],
+    "answerIndex": 1,
+    "explication": "Éduquer, c’est accepter que l’enfant résiste."
+  },
+  {
+    "question": "30 - Que ne peut pas faire l’éducateur à la place de l’enfant ?",
+    "options": [
+      "Apprendre",
+      "Observer",
+      "Accompagner",
+      "Expliquer"
+    ],
+    "answerIndex": 0,
+    "explication": "Apprendre et grandir sont des actes que l’enfant doit faire seul."
+  },
+
+  {
+    "question": "31 - Quel héritage majeur Korczak laisse-t-il ?",
+    "options": [
+      "La pédagogie autoritaire",
+      "La sélection scolaire",
+      "La punition éducative",
+      "Les droits de l’enfant"
+    ],
+    "answerIndex": 3,
+    "explication": "Ses idées inspirent la Convention internationale des droits de l’enfant (1989)."
+  },
+  {
+    "question": "32 - Quelle pédagogie s’inspire de Korczak ?",
+    "options": [
+      "La pédagogie Freinet",
+      "La pédagogie militaire",
+      "La pédagogie traditionnelle",
+      "La pédagogie magistrale"
+    ],
+    "answerIndex": 0,
+    "explication": "Freinet, Oury et Connac s’inscrivent dans cet héritage."
+  },
+  {
+    "question": "33 - Quel principe traverse toute son œuvre ?",
+    "options": [
+      "La contrainte",
+      "La peur",
+      "La soumission",
+      "Le respect"
+    ],
+    "answerIndex": 3,
+    "explication": "Le respect de l’enfant est central chez Korczak."
+  },
+  {
+    "question": "34 - Pourquoi Korczak refuse-t-il la manipulation éducative ?",
+    "options": [
+      "Elle est inefficace",
+      "Elle nie l’existence de l’enfant",
+      "Elle est interdite",
+      "Elle est trop lente"
+    ],
+    "answerIndex": 1,
+    "explication": "Reconnaître l’enfant comme sujet empêche toute manipulation."
+  },
+  {
+    "question": "35 - Quel rôle joue le langage dans ses dispositifs ?",
+    "options": [
+      "Punir",
+      "Contrôler",
+      "Comprendre et réguler",
+      "Faire taire"
+    ],
+    "answerIndex": 2,
+    "explication": "La parole permet de transformer la violence en pensée."
+  },
+  {
+    "question": "36 - Quel est l’objectif de la régulation différée ?",
+    "options": [
+      "Agir vite",
+      "Réfléchir avant d’agir",
+      "Punir",
+      "Éviter le dialogue"
+    ],
+    "answerIndex": 1,
+    "explication": "La différenciation temporelle aide à la maîtrise de soi."
+  },
+  {
+    "question": "37 - Quel est le sens du droit de se bagarrer ?",
+    "options": [
+      "La contrôler et la penser",
+      "Encourager la violence",
+      "Punir",
+      "Ignorer"
+    ],
+    "answerIndex": 0,
+    "explication": "Même la violence est encadrée pour être pensée et limitée."
+  },
+  {
+    "question": "38 - Pourquoi Korczak valorise-t-il l’auto-évaluation ?",
+    "options": [
+      "Pour noter",
+      "Pour responsabiliser",
+      "Pour punir",
+      "Pour classer"
+    ],
+    "answerIndex": 1,
+    "explication": "L’enfant apprend à se juger lui-même."
+  },
+  {
+    "question": "39 - Quelle est la finalité ultime de son projet éducatif ?",
+    "options": [
+      "Obéir",
+      "Réussir scolairement",
+      "Devenir citoyen",
+      "Être discipliné"
+    ],
+    "answerIndex": 2,
+    "explication": "Korczak forme des citoyens autonomes."
+  },
+  {
+    "question": "40 - Quelle posture éducative demande Korczak aux adultes ?",
+    "options": [
+      "S’abaisser",
+      "Commander",
+      "Contrôler",
+      "S’élever à la hauteur des sentiments de l’enfant"
+    ],
+    "answerIndex": 3,
+    "explication": "L’adulte doit s’élever pour ne pas blesser l’enfant."
+  },
+
+  {
+    "question": "41 - Quel type de démocratie expérimente Korczak ?",
+    "options": [
+      "Représentative",
+      "Autoritaire",
+      "Participative",
+      "Symbolique"
+    ],
+    "answerIndex": 2,
+    "explication": "Les enfants participent réellement aux décisions."
+  },
+  {
+    "question": "42 - Pourquoi Korczak refuse-t-il la morale imposée ?",
+    "options": [
+      "Elle est inefficace",
+      "Elle empêche la réflexion",
+      "Elle humilie",
+      "Elle est interdite"
+    ],
+    "answerIndex": 1,
+    "explication": "Il préfère des situations vécues et réfléchies."
+  },
+  {
+    "question": "43 - Quelle place accorde-t-il à l’erreur ?",
+    "options": [
+      "À punir",
+      "À ignorer",
+      "À comprendre",
+      "À supprimer"
+    ],
+    "answerIndex": 2,
+    "explication": "L’erreur est un support d’apprentissage."
+  },
+  {
+    "question": "44 - Pourquoi parle-t-on de pédagogie du risque ?",
+    "options": [
+      "Parce qu’éduquer implique l’incertitude",
+      "Parce qu’elle est dangereuse",
+      "Parce qu’elle est violente",
+      "Parce qu’elle est improvisée"
+    ],
+    "answerIndex": 0,
+    "explication": "Éduquer, c’est accepter de ne pas tout maîtriser."
+  },
+  {
+    "question": "45 - Quelle vision du temps éducatif défend Korczak ?",
+    "options": [
+      "L’urgence",
+      "La précipitation",
+      "La progressivité",
+      "La rapidité"
+    ],
+    "answerIndex": 2,
+    "explication": "Il faut avancer lentement et observer."
+  },
+  {
+    "question": "46 - Pourquoi Korczak observe-t-il le quotidien ?",
+    "options": [
+      "Pour punir",
+      "Pour comprendre l’enfant réel",
+      "Pour noter",
+      "Pour surveiller"
+    ],
+    "answerIndex": 1,
+    "explication": "Le quotidien révèle les besoins réels des enfants."
+  },
+  {
+    "question": "47 - Quelle est la place du collectif ?",
+    "options": [
+      "Secondaire",
+      "Inutile",
+      "Dangereuse",
+      "Centrale"
+    ],
+    "answerIndex": 3,
+    "explication": "Le collectif est le lieu d’apprentissage du vivre-ensemble."
+  },
+  {
+    "question": "48 - Quel lien existe entre Korczak et Oury ?",
+    "options": [
+      "Aucun",
+      "Une opposition",
+      "Une filiation pédagogique",
+      "Une critique"
+    ],
+    "answerIndex": 2,
+    "explication": "La pédagogie institutionnelle s’inspire directement de Korczak."
+  },
+  {
+    "question": "49 - Quelle phrase résume le mieux sa pensée ?",
+    "options": [
+      "L’enfant mérite le respect",
+      "L’enfant doit obéir",
+      "L’enfant est à façonner",
+      "L’enfant doit réussir"
+    ],
+    "answerIndex": 0,
+    "explication": "Le respect de l’enfant est le cœur de son projet."
+  },
+  {
+    "question": "50 - Pourquoi Korczak est-il encore étudié aujourd’hui ?",
+    "options": [
+      "Pour son époque",
+      "Pour sa radicalité éducative toujours actuelle",
+      "Pour ses punitions",
+      "Pour sa discipline"
+    ],
+    "answerIndex": 1,
+    "explication": "Ses idées répondent encore aux problèmes actuels de l’école."
+  }
+]

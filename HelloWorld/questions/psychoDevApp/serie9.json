@@ -1,0 +1,585 @@
+[
+  {
+    "question": "1 - Les neurosciences étudient principalement :",
+    "options": [
+      "Les comportements sociaux",
+      "Le système nerveux",
+      "Les apprentissages scolaires",
+      "La culture"
+    ],
+    "answerIndex": 1,
+    "explication": "Les neurosciences s’intéressent surtout au cerveau, aux neurones et au système nerveux. Elles cherchent à comprendre comment le cerveau fonctionne, comment il se développe et comment il permet de penser, ressentir et agir."
+  },
+  {
+    "question": "2 - Le terme « neurosciences » apparaît :",
+    "options": [
+      "Au XIXe siècle",
+      "Au début du XXe siècle",
+      "À la fin des années 1960",
+      "Dans les années 2000"
+    ],
+    "answerIndex": 2,
+    "explication": "Le mot « neurosciences » apparaît à la fin des années 1960, quand plusieurs disciplines commencent à travailler ensemble pour étudier le cerveau."
+  },
+  {
+    "question": "3 - Les neurosciences sont aujourd’hui :",
+    "options": [
+      "Uniquement biologiques",
+      "Uniquement médicales",
+      "Pluridisciplinaires",
+      "Opposées aux sciences humaines"
+    ],
+    "answerIndex": 2,
+    "explication": "Les neurosciences mélangent plusieurs domaines : biologie, médecine, psychologie, informatique, mathématiques. Elles ne se limitent pas à une seule science."
+  },
+  {
+    "question": "4 - L’IRM anatomique permet surtout :",
+    "options": [
+      "D’observer les émotions",
+      "De voir la morphologie du cerveau",
+      "De mesurer l’intelligence",
+      "D’évaluer la mémoire"
+    ],
+    "answerIndex": 1,
+    "explication": "L’IRM anatomique sert à voir la forme et la structure du cerveau, comme une photo détaillée, mais elle ne montre pas l’activité mentale."
+  },
+  {
+    "question": "5 - L’IRM fonctionnelle permet :",
+    "options": [
+      "De localiser les zones activées",
+      "D’observer le cerveau au repos",
+      "D’étudier les gènes",
+      "D’observer la moelle épinière"
+    ],
+    "answerIndex": 0,
+    "explication": "L’IRM fonctionnelle permet de voir quelles zones du cerveau s’activent quand une personne parle, réfléchit ou mémorise."
+  },
+
+  {
+    "question": "6 - Les neurosciences sociales visent à :",
+    "options": [
+      "Remplacer la sociologie",
+      "Cartographier le cerveau social",
+      "Supprimer la culture",
+      "Expliquer uniquement la biologie"
+    ],
+    "answerIndex": 1,
+    "explication": "Elles cherchent à comprendre quelles zones du cerveau sont impliquées quand on interagit avec les autres (empathie, coopération, jugement social)."
+  },
+  {
+    "question": "7 - Les sciences humaines sont parfois qualifiées de « molles » car :",
+    "options": [
+      "Elles manquent de données",
+      "Elles sont peu rigoureuses",
+      "Elles sont critiquées pour leur immaturité scientifique",
+      "Elles refusent la science"
+    ],
+    "answerIndex": 2,
+    "explication": "Certaines personnes considèrent (à tort) que les sciences humaines sont moins scientifiques car elles étudient des phénomènes complexes et difficiles à mesurer."
+  },
+  {
+    "question": "8 - L’eugénisme consiste à :",
+    "options": [
+      "Favoriser l’apprentissage",
+      "Étudier le cerveau",
+      "Améliorer la pédagogie",
+      "Sélectionner génétiquement les individus"
+    ],
+    "answerIndex": 3,
+    "explication": "L’eugénisme vise à choisir ou éliminer des individus selon leurs caractéristiques génétiques, ce qui pose de graves problèmes éthiques."
+  },
+  {
+    "question": "9 - Le retour du « biologique » interroge car il :",
+    "options": [
+      "Minore les facteurs environnementaux",
+      "Valorise la culture",
+      "Favorise l’éducation",
+      "Renforce la pédagogie"
+    ],
+    "answerIndex": 0,
+    "explication": "Se concentrer uniquement sur la biologie peut faire oublier le rôle essentiel de l’éducation, de la famille et de la société."
+  },
+  {
+    "question": "10 - Selon Franck Ramus, la dyslexie aurait une origine :",
+    "options": [
+      "Culturelle",
+      "Scolaire",
+      "Génétique",
+      "Émotionnelle"
+    ],
+    "answerIndex": 2,
+    "explication": "Franck Ramus pense que la dyslexie est en grande partie liée à des facteurs génétiques et au fonctionnement du cerveau."
+  },
+
+  {
+    "question": "11 - Le Conseil scientifique de l’éducation nationale a été créé pour :",
+    "options": [
+      "Former les enseignants",
+      "Contrôler les élèves",
+      "Remplacer les inspections",
+      "Éclairer les décisions éducatives"
+    ],
+    "answerIndex": 3,
+    "explication": "Ce conseil aide les décideurs politiques à s’appuyer sur des recherches scientifiques pour choisir les politiques éducatives."
+  },
+  {
+    "question": "12 - La majorité des membres du Conseil scientifique viennent :",
+    "options": [
+      "Des sciences de l’éducation",
+      "Des neurosciences et de la psychologie cognitive",
+      "De la sociologie",
+      "De la philosophie"
+    ],
+    "answerIndex": 1,
+    "explication": "Le conseil est surtout composé de chercheurs en neurosciences et en psychologie cognitive."
+  },
+  {
+    "question": "13 - Selon le cours, les neurosciences apportent peu à :",
+    "options": [
+      "La compréhension du cerveau",
+      "La psychologie du développement",
+      "La meilleure façon d’enseigner",
+      "La cognition"
+    ],
+    "answerIndex": 2,
+    "explication": "Connaître le fonctionnement du cerveau ne suffit pas pour savoir comment enseigner efficacement en classe."
+  },
+  {
+    "question": "14 - Le cerveau humain compte environ :",
+    "options": [
+      "10 milliards de neurones",
+      "50 milliards de neurones",
+      "86 milliards de neurones",
+      "200 milliards de neurones"
+    ],
+    "answerIndex": 2,
+    "explication": "Le cerveau humain contient environ 86 milliards de neurones, qui communiquent entre eux par des connexions."
+  },
+  {
+    "question": "15 - Le développement cérébral dépend :",
+    "options": [
+      "Uniquement des gènes",
+      "Uniquement de l’environnement",
+      "De la culture seulement",
+      "Des gènes et de l’environnement"
+    ],
+    "answerIndex": 3,
+    "explication": "Le cerveau se développe grâce à une interaction entre ce qui est inscrit dans les gènes et les expériences vécues."
+  },
+
+  {
+    "question": "16 - La plasticité cérébrale correspond :",
+    "options": [
+      "À la modification des connexions",
+      "À la rigidité du cerveau",
+      "À la création de neurones",
+      "À la maturation génétique"
+    ],
+    "answerIndex": 0,
+    "explication": "La plasticité cérébrale désigne la capacité du cerveau à modifier ses connexions quand on apprend ou qu’on vit de nouvelles expériences."
+  },
+  {
+    "question": "17 - À la naissance, le bébé possède :",
+    "options": [
+      "Peu de neurones",
+      "Toutes ses synapses",
+      "La majorité de ses neurones",
+      "Aucune connexion"
+    ],
+    "answerIndex": 2,
+    "explication": "Le bébé naît avec presque tous ses neurones, mais les connexions entre eux se développent après la naissance."
+  },
+  {
+    "question": "18 - Les interactions précoces sont nécessaires pour :",
+    "options": [
+      "Créer les gènes",
+      "Activer la plasticité cérébrale",
+      "Remplacer l’hérédité",
+      "Supprimer les périodes critiques"
+    ],
+    "answerIndex": 1,
+    "explication": "Les échanges avec les adultes (parler, jouer, toucher) sont essentiels pour activer le développement du cerveau."
+  },
+  {
+    "question": "19 - Une période critique correspond :",
+    "options": [
+      "À une période dangereuse",
+      "À la fin du développement",
+      "À un trouble",
+      "À une fenêtre de plasticité"
+    ],
+    "answerIndex": 3,
+    "explication": "C’est une période où le cerveau apprend très facilement certaines compétences, comme le langage."
+  },
+  {
+    "question": "20 - Les périodes critiques sont particulièrement importantes pour :",
+    "options": [
+      "Le langage",
+      "Le raisonnement logique",
+      "Les émotions",
+      "La mémoire adulte"
+    ],
+    "answerIndex": 1,
+    "explication": "Le langage doit être appris tôt car le cerveau est particulièrement sensible à cette période."
+  },
+
+  {
+    "question": "21 - La fermeture des périodes critiques est liée :",
+    "options": [
+      "À la puberté uniquement",
+      "À la scolarité",
+      "À la culture",
+      "À la maturation des circuits inhibiteurs"
+    ],
+    "answerIndex": 3,
+    "explication": "Quand certains circuits du cerveau mûrissent, ils limitent la plasticité, ce qui ferme les périodes critiques."
+  },
+
+  {
+    "question": "22 - Un environnement enrichi :",
+    "options": [
+      "Réduit les capacités d’apprentissage",
+      "N’a aucun effet",
+      "Augmente les capacités d’apprentissage",
+      "Rigidifie le cerveau"
+    ],
+    "answerIndex": 2,
+    "explication": "Un environnement riche (jeux, échanges, stimulation) favorise les apprentissages et le développement cérébral."
+  },
+
+  {
+    "question": "23 - Les orphelinats roumains ont montré :",
+    "options": [
+      "Une plasticité accrue",
+      "Des anomalies cérébrales liées à la privation",
+      "Des troubles irréversibles",
+      "Aucun effet"
+    ],
+    "answerIndex": 1,
+    "explication": "Les enfants privés de relations sociales ont montré des retards et anomalies dans le développement du cerveau."
+  },
+
+  {
+    "question": "24 - Le placement familial précoce :",
+    "options": [
+      "Améliore le développement",
+      "N’a pas d’effet",
+      "Aggrave les troubles",
+      "Empêche la plasticité"
+    ],
+    "answerIndex": 0,
+    "explication": "Plus l’enfant est placé tôt dans une famille stable, plus son développement s’améliore."
+  },
+
+  {
+    "question": "25 - Les biais de raisonnement sont :",
+    "options": [
+      "Des erreurs aléatoires",
+      "Des tendances systématiques",
+      "Des troubles cognitifs",
+      "Des maladies"
+    ],
+    "answerIndex": 1,
+    "explication": "Les biais sont des erreurs de raisonnement qui se répètent souvent chez les humains."
+  },
+
+  {
+    "question": "26 - Les biais remettent en cause :",
+    "options": [
+      "La biologie",
+      "La psychologie",
+      "La logique",
+      "La théorie piagétienne"
+    ],
+    "answerIndex": 3,
+    "explication": "Ils montrent que même les adultes font des erreurs que Piaget n’avait pas prévues."
+  },
+
+  {
+    "question": "27 - Le biais d’appariement consiste à :",
+    "options": [
+      "Appliquer la logique",
+      "Associer des éléments superficiels",
+      "Raisonner lentement",
+      "Inhiber l’intuition"
+    ],
+    "answerIndex": 1,
+    "explication": "On se base sur des ressemblances superficielles plutôt que sur un raisonnement logique."
+  },
+
+  {
+    "question": "28 - Le biais de croyance apparaît lorsque :",
+    "options": [
+      "La conclusion est logique",
+      "La prémisse est fausse",
+      "La logique est enseignée",
+      "La conclusion est crédible"
+    ],
+    "answerIndex": 3,
+    "explication": "On accepte une conclusion parce qu’elle paraît vraie, même si le raisonnement est faux."
+  },
+
+  {
+    "question": "29 - Le Système 1 est :",
+    "options": [
+      "Lent et analytique",
+      "Intuitif et rapide",
+      "Logique et volontaire",
+      "Conscient"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Système 1 fonctionne rapidement, automatiquement et sans effort conscient."
+  },
+
+  {
+    "question": "30 - Le Système 2 est :",
+    "options": [
+      "Automatique",
+      "Intuitif",
+      "Analytique et coûteux",
+      "Inconscient"
+    ],
+    "answerIndex": 2,
+    "explication": "Le Système 2 demande de l’attention et de l’effort, comme quand on résout un problème complexe."
+  },
+
+  {
+    "question": "31 - Le Système 3 correspond :",
+    "options": [
+      "À l’intuition",
+      "À la logique",
+      "À l’émotion",
+      "Au contrôle exécutif"
+    ],
+    "answerIndex": 3,
+    "explication": "Il permet de contrôler et corriger les réponses automatiques."
+  },
+
+  {
+    "question": "32 - Le contrôle inhibiteur permet :",
+    "options": [
+      "D’accélérer le raisonnement",
+      "D’éviter les erreurs",
+      "De supprimer l’intuition",
+      "De remplacer la logique"
+    ],
+    "answerIndex": 1,
+    "explication": "Il permet de bloquer une réponse intuitive incorrecte."
+  },
+
+  {
+    "question": "33 - Le test du marshmallow illustre :",
+    "options": [
+      "La mémoire",
+      "La logique",
+      "Le contrôle inhibiteur",
+      "La créativité"
+    ],
+    "answerIndex": 2,
+    "explication": "Il montre la capacité à attendre une récompense plus grande plutôt que céder à l’envie immédiate."
+  },
+
+  {
+    "question": "34 - La vicariance correspond à :",
+    "options": [
+      "Une erreur",
+      "Un changement de stratégie",
+      "Une automatisation",
+      "Une régression"
+    ],
+    "answerIndex": 1,
+    "explication": "On peut résoudre un même problème avec différentes stratégies."
+  },
+
+  {
+    "question": "35 - Une pédagogie efficace du raisonnement doit cibler :",
+    "options": [
+      "Le Système 1",
+      "Le Système 2 seulement",
+      "Le Système 3",
+      "La mémoire"
+    ],
+    "answerIndex": 2,
+    "explication": "Il faut apprendre à contrôler ses intuitions et corriger ses erreurs."
+  },
+
+  {
+    "question": "36 - Selon Damasio, la rationalité nécessite :",
+    "options": [
+      "Un apport émotionnel",
+      "L’absence d’émotion",
+      "Une forte logique",
+      "La suppression du corps"
+    ],
+    "answerIndex": 0,
+    "explication": "Les émotions aident à faire des choix pertinents."
+  },
+
+  {
+    "question": "37 - L’erreur de Descartes est :",
+    "options": [
+      "La primauté du cerveau",
+      "L’absence de logique",
+      "Le refus de l’émotion",
+      "La séparation esprit/corps"
+    ],
+    "answerIndex": 3,
+    "explication": "Descartes séparait l’esprit et le corps, ce que Damasio critique."
+  },
+
+  {
+    "question": "38 - Le cortex préfrontal ventromédian est impliqué dans :",
+    "options": [
+      "La vision",
+      "La mémoire",
+      "La prise de décision",
+      "Le langage"
+    ],
+    "answerIndex": 2,
+    "explication": "Cette zone aide à prendre des décisions en tenant compte des émotions."
+  },
+
+  {
+    "question": "39 - Les marqueurs somatiques sont :",
+    "options": [
+      "Des souvenirs",
+      "Des émotions corporelles associées aux décisions",
+      "Des réflexes",
+      "Des instincts"
+    ],
+    "answerIndex": 1,
+    "explication": "Ce sont des sensations corporelles qui orientent nos choix."
+  },
+
+  {
+    "question": "40 - Les émotions peuvent :",
+    "options": [
+      "Aider ou tromper le raisonnement",
+      "Toujours nuire au raisonnement",
+      "Remplacer la logique",
+      "Supprimer les biais"
+    ],
+    "answerIndex": 0,
+    "explication": "Les émotions peuvent être utiles mais aussi provoquer des erreurs."
+  },
+
+  {
+    "question": "41 - Le cortex préfrontal reçoit des informations :",
+    "options": [
+      "Uniquement sensorielles",
+      "Uniquement émotionnelles",
+      "Sensorielles et corporelles",
+      "Uniquement cognitives"
+    ],
+    "answerIndex": 2,
+    "explication": "Il combine ce que l’on perçoit, ce que l’on ressent et ce que l’on pense."
+  },
+
+  {
+    "question": "42 - L’homéostasie correspond :",
+    "options": [
+      "À un déséquilibre",
+      "À une émotion",
+      "À une maladie",
+      "À une régulation biologique"
+    ],
+    "answerIndex": 3,
+    "explication": "C’est la capacité du corps à maintenir son équilibre interne."
+  },
+
+  {
+    "question": "43 - Les sentiments permettent :",
+    "options": [
+      "Une économie cognitive",
+      "Une surcharge cognitive",
+      "Un raisonnement plus lent",
+      "Une suppression des émotions"
+    ],
+    "answerIndex": 0,
+    "explication": "Ils évitent de mobiliser constamment des réactions corporelles complètes."
+  },
+
+  {
+    "question": "44 - Le CPVM est activé lors :",
+    "options": [
+      "D’une réponse intuitive",
+      "De l’inhibition d’une stratégie erronée",
+      "D’un automatisme",
+      "D’une émotion brute"
+    ],
+    "answerIndex": 1,
+    "explication": "Il aide à bloquer une réponse intuitive incorrecte."
+  },
+
+  {
+    "question": "45 - Les fonctions exécutives sont liées :",
+    "options": [
+      "Au cortex préfrontal",
+      "Au cervelet",
+      "À l’amygdale",
+      "Au tronc cérébral"
+    ],
+    "answerIndex": 0,
+    "explication": "Elles permettent de planifier, inhiber et contrôler le comportement."
+  },
+
+  {
+    "question": "46 - La flexibilité cognitive correspond à :",
+    "options": [
+      "La rigidité",
+      "La mémorisation",
+      "L’intuition",
+      "Le passage d’un système à l’autre"
+    ],
+    "answerIndex": 3,
+    "explication": "Elle permet d’adapter sa façon de raisonner selon la situation."
+  },
+
+  {
+    "question": "47 - Les biais sont dits « tardifs » car :",
+    "options": [
+      "Ils apparaissent chez l’enfant",
+      "Ils sont biologiques",
+      "Ils concernent les adultes",
+      "Ils sont culturels"
+    ],
+    "answerIndex": 2,
+    "explication": "Même les adultes compétents font encore ces erreurs de raisonnement."
+  },
+
+  {
+    "question": "48 - La logique formelle est :",
+    "options": [
+      "Dépendante du contenu",
+      "Indépendante du contenu",
+      "Intuitive",
+      "Émotionnelle"
+    ],
+    "answerIndex": 1,
+    "explication": "Un raisonnement peut être logique même si son contenu est faux."
+  },
+
+  {
+    "question": "49 - Le raisonnement humain est qualifié de :",
+    "options": [
+      "Économe",
+      "Optimal",
+      "Toujours logique",
+      "Parfait"
+    ],
+    "answerIndex": 0,
+    "explication": "Le cerveau cherche des solutions rapides avec peu d’effort."
+  },
+
+  {
+    "question": "50 - Selon le cours, la cognition est :",
+    "options": [
+      "Séparée du corps",
+      "Ancrée dans le biologique et l’émotionnel",
+      "Purement logique",
+      "Indépendante du cerveau"
+    ],
+    "answerIndex": 1,
+    "explication": "Penser dépend du cerveau, du corps et des émotions, pas seulement de la logique."
+  }
+]
