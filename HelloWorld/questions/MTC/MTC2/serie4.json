@@ -1,0 +1,561 @@
+[
+  {
+    "question": "1 - Que sont les points spéciaux en Médecine Traditionnelle Chinoise ?",
+    "options": [
+      "Des points situés uniquement hors des méridiens",
+      "Des points sans fonction thérapeutique",
+      "Des points auxquels sont associées des fonctions spécifiques",
+      "Des points réservés à la chirurgie"
+    ],
+    "answerIndex": 2,
+    "explication": "Les points spéciaux sont des points d’acupuncture particuliers auxquels la MTC attribue des fonctions énergétiques précises."
+  },
+  {
+    "question": "2 - Où sont principalement situés les points MU ?",
+    "options": [
+      "Sur le dos",
+      "Sur la tête",
+      "Sur les membres",
+      "Sur la poitrine et l’abdomen"
+    ],
+    "answerIndex": 3,
+    "explication": "Les points MU sont situés sur la poitrine et l’abdomen, près des organes et entrailles sur lesquels ils agissent."
+  },
+  {
+    "question": "3 - Quel est le rôle principal des points MU ?",
+    "options": [
+      "Tonifier le Jing",
+      "Maintenir l’équilibre Yin-Yang des organes",
+      "Faire circuler le Sang dans les membres",
+      "Réguler uniquement les émotions"
+    ],
+    "answerIndex": 1,
+    "explication": "Les points MU sont des lieux de concentration énergétique des viscères et maintiennent l’équilibre Yin-Yang des organes thoraco-abdominaux."
+  },
+  {
+    "question": "4 - En cas de trouble d’un organe, quel signe peut apparaître au point MU correspondant ?",
+    "options": [
+      "Une hypersensibilité à la pression",  
+      "Une rougeur",
+      "Une paralysie",
+      "Une perte de chaleur"
+    ],
+    "answerIndex": 0,
+    "explication": "Lorsque l’organe est perturbé, le point MU devient souvent sensible ou douloureux à la pression."
+  },
+  {
+    "question": "5 - Pour quel type de pathologies utilise-t-on préférentiellement les points MU ?",
+    "options": [
+      "Les troubles chroniques",
+      "Les troubles émotionnels uniquement",
+      "Les problèmes aigus des entrailles",
+      "Les maladies génétiques"
+    ],
+    "answerIndex": 2,
+    "explication": "Les points MU sont surtout utilisés pour les troubles aigus, notamment ceux touchant les entrailles (Estomac, GI, Vessie…)."
+  },
+
+  {
+    "question": "6 - Où sont situés les points Shu du dos (Bei Shu) ?",
+    "options": [
+      "Sur le méridien de la Rate",
+      "Sur le méridien de la Vessie",
+      "Sur le méridien Ren Mai",
+      "Sur le méridien Du Mai"
+    ],
+    "answerIndex": 1,
+    "explication": "Les points Shu du dos sont situés sur le méridien de la Vessie, à 1,5 cun de la ligne médiane postérieure."
+  },
+  {
+    "question": "7 - À quelle distance de la ligne médiane postérieure se trouvent les points Bei Shu ?",
+    "options": [
+      "0,5 cun",
+      "1 cun",
+      "1,5 cun",
+      "2 cun"
+    ],
+    "answerIndex": 2,
+    "explication": "Les points Shu du dos se situent précisément à 1,5 cun de la ligne médiane postérieure (Du Mai)."
+  },
+  {
+    "question": "8 - Dans quels cas utilise-t-on surtout les points Shu du dos ?",
+    "options": [
+      "Problèmes aigus",
+      "Traumatismes récents",
+      "Troubles digestifs passagers",
+      "Problèmes chroniques"
+    ],
+    "answerIndex": 3,
+    "explication": "Les points Shu sont particulièrement indiqués dans les troubles chroniques et les déficiences des organes."
+  },
+  {
+    "question": "9 - Quel point Shu du dos correspond au Foie ?",
+    "options": [
+      "V17",
+      "V18",
+      "V19",
+      "V20"
+    ],
+    "answerIndex": 1,
+    "explication": "Gan Shu (V18) est le point Shu du dos du Foie, situé sous la vertèbre D9."
+  },
+  {
+    "question": "10 - Quel point Shu du dos est associé au Sang ?",
+    "options": [
+      "V15",
+      "V18",
+      "V17",
+      "V23"
+    ],
+    "answerIndex": 2,
+    "explication": "Ge Shu (V17) est le point Hui du Sang et joue un rôle central dans les pathologies sanguines."
+  },
+
+  {
+    "question": "11 - Que sont les points Hui ?",
+    "options": [
+      "Des points de dispersion",
+      "Des points où l’énergie se concentre par familles",
+      "Des points uniquement émotionnels",
+      "Des points hors méridiens"
+    ],
+    "answerIndex": 1,
+    "explication": "Les points Hui sont des points de réunion où l’énergie se concentre selon 8 familles spécifiques."
+  },
+  {
+    "question": "12 - Combien existe-t-il de points Hui ?",
+    "options": [
+      "5",
+      "6",
+      "8",
+      "12"
+    ],
+    "answerIndex": 2,
+    "explication": "Il existe 8 points Hui correspondant à 8 familles énergétiques."
+  },
+  {
+    "question": "13 - Quel est le point Hui des entrailles (Fu) ?",
+    "options": [
+      "RM17",
+      "F13",
+      "V17",
+      "RM12"
+    ],
+    "answerIndex": 3,
+    "explication": "RM12 (Zhong Wan) est le point Hui des entrailles, très utilisé pour les troubles digestifs."
+  },
+  {
+    "question": "14 - Quel est le point Hui des muscles et des tendons ?",
+    "options": [
+      "VB34",
+      "VB39",
+      "V11",
+      "P9"
+    ],
+    "answerIndex": 0,
+    "explication": "VB34 (Yang Ling Quan) est le point Hui des muscles et des tendons."
+  },
+  {
+    "question": "15 - Quel point Hui correspond aux os ?",
+    "options": [
+      "V11",
+      "VB34",
+      "VB39",
+      "P9"
+    ],
+    "answerIndex": 0,
+    "explication": "V11 (Da Zhu) est le point Hui des os."
+  },
+
+  {
+    "question": "16 - Où se situent les points Yuan ?",
+    "options": [
+      "Sur le tronc",
+      "Sur le dos",
+      "Près des poignets et des malléoles",
+      "Sur la tête"
+    ],
+    "answerIndex": 2,
+    "explication": "Les points Yuan se trouvent sur les quatre membres, près des poignets et des malléoles."
+  },
+  {
+    "question": "17 - Quel est le rôle diagnostique des points Yuan ?",
+    "options": [
+      "Ils indiquent un trouble émotionnel",
+      "Ils mesurent la température",
+      "Ils indiquent un excès de Sang",
+      "Ils sont douloureux quand l’organe est perturbé"
+    ],
+    "answerIndex": 3,
+    "explication": "Un point Yuan douloureux à la pression indique un déséquilibre de l’organe correspondant."
+  },
+  {
+    "question": "18 - Quel est le point Yuan du Foie ?",
+    "options": [
+      "F2",
+      "F3",
+      "F5",
+      "F8"
+    ],
+    "answerIndex": 1,
+    "explication": "F3 (Tai Chong) est le point Yuan du méridien du Foie."
+  },
+  {
+    "question": "19 - Quel est le point Yuan du Gros Intestin ?",
+    "options": [
+      "GI4",
+      "GI6",
+      "GI11",
+      "GI1"
+    ],
+    "answerIndex": 0,
+    "explication": "GI4 est le point Yuan du Gros Intestin et un point majeur en pratique clinique."
+  },
+  {
+    "question": "20 - À quoi servent principalement les points Yuan en pratique clinique ?",
+    "options": [
+      "Traiter les maladies génétiques",
+      "Renforcer le Jing",
+      "Évaluer et traiter les déséquilibres des organes",
+      "Réguler uniquement le Qi défensif"
+    ],
+    "answerIndex": 2,
+    "explication": "Les points Yuan sont utilisés à la fois pour le diagnostic palpatoire et le traitement des déséquilibres des organes."
+  },
+
+  {
+    "question": "21 - Que sont les points Luo ?",
+    "options": [
+      "Des points de dispersion",
+      "Des points reliant deux méridiens couplés",
+      "Des points hors méridiens",
+      "Des points émotionnels"
+    ],
+    "answerIndex": 1,
+    "explication": "Les points Luo permettent la communication énergétique entre deux méridiens couplés Yin-Yang."
+  },
+  {
+    "question": "22 - Quel est le point Luo du méridien de la Rate ?",
+    "options": [
+      "Rte3",
+      "Rte4",
+      "Rte5",
+      "Rte9"
+    ],
+    "answerIndex": 1,
+    "explication": "Rte4 est le point Luo de la Rate et permet de transférer l’énergie vers l’Estomac."
+  },
+  {
+    "question": "23 - Quel est le point Luo du méridien de l’Estomac ?",
+    "options": [
+      "E40",  
+      "E36",
+      "E42",
+      "E25"
+    ],
+    "answerIndex": 0,
+    "explication": "E40 est le point Luo de l’Estomac, notamment utilisé pour dissoudre les Tan."
+  },
+  {
+    "question": "24 - Quel principe guide l’association Yuan–Luo ?",
+    "options": [
+      "Tonifier la mère",
+      "Disperser le fils",
+      "Traiter le méridien atteint et son couplé",
+      "Traiter uniquement le méridien Yang"
+    ],
+    "answerIndex": 2,
+    "explication": "On associe le point Yuan du méridien atteint et le point Luo du méridien couplé (relation Biao-Li)."
+  },
+  {
+    "question": "25 - Pour une constipation, quelle association est correcte ?",
+    "options": [
+      "GI4 + E40",
+      "GI4 + P7",
+      "P9 + GI6",
+      "Rte4 + E36"
+    ],
+    "answerIndex": 1,
+    "explication": "On utilise GI4 (Yuan du GI) associé à P7 (Luo du Poumon), méridiens couplés."
+  },
+
+  {
+    "question": "26 - Que signifie l’idéogramme Xi ?",
+    "options": [
+      "Mer",
+      "Rivière",
+      "Source",
+      "Fissure"
+    ],
+    "answerIndex": 3,
+    "explication": "Xi signifie « fissure » et évoque une libération rapide de l’énergie."
+  },
+  {
+    "question": "27 - Dans quels cas utilise-t-on les points Xi ?",
+    "options": [
+      "Troubles chroniques",
+      "Troubles émotionnels",
+      "Pathologies aiguës",
+      "Prévention"
+    ],
+    "answerIndex": 2,
+    "explication": "Les points Xi sont des points d’urgence utilisés pour les affections aiguës."
+  },
+  {
+    "question": "28 - Quel est le point Xi du Poumon ?",
+    "options": [
+      "P6",  
+      "P5",
+      "P7",
+      "P9"
+    ],
+    "answerIndex": 0,
+    "explication": "P6 (Kong Zui) est le point Xi du Poumon, utilisé notamment en cas d’asthme ou d’hémoptysie."
+  },
+  {
+    "question": "29 - Où se situent les points Xi ?",
+    "options": [
+      "Sur le tronc",
+      "Sur la tête",
+      "Entre doigts et coudes / orteils et genoux",
+      "Uniquement sur le dos"
+    ],
+    "answerIndex": 2,
+    "explication": "Les points Xi se situent sur les membres, entre doigts et coudes ou orteils et genoux."
+  },
+  {
+    "question": "30 - Quel est le point Xi du Foie ?",
+    "options": [
+      "F2",
+      "F3",
+      "F6",
+      "F8"
+    ],
+    "answerIndex": 2,
+    "explication": "F6 (Zhong Du) est le point Xi du Foie."
+  },
+
+  {
+    "question": "31 - Les points Shu antiques sont situés :",
+    "options": [
+      "Sur le tronc",
+      "Sous le coude et le genou",
+      "Sur le dos",
+      "Sur la tête"
+    ],
+    "answerIndex": 1,
+    "explication": "Les points Shu antiques sont situés sous le coude et le genou sur chaque méridien."
+  },
+  {
+    "question": "32 - Combien de points Shu antiques existe-t-il par méridien ?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answerIndex": 2,
+    "explication": "Chaque méridien possède 5 points Shu antiques."
+  },
+  {
+    "question": "33 - Quel point Shu antique correspond aux troubles psychiques ?",
+    "options": [
+      "Ying",
+      "Shu",
+      "Jing (puit)",
+      "He"
+    ],
+    "answerIndex": 2,
+    "explication": "Le point Jing (puit) agit sur les troubles psychiques et l’anxiété."
+  },
+  {
+    "question": "34 - Quel point Shu antique est utilisé pour les troubles gastro-intestinaux ?",
+    "options": [
+      "Ying",
+      "Shu",
+      "Jing",
+      "He"
+    ],
+    "answerIndex": 3,
+    "explication": "Le point He (mer) agit sur les troubles digestifs et corrige le sens de l’énergie."
+  },
+  {
+    "question": "35 - Sur les méridiens Yin, le point « Puit » correspond à quel élément ?",
+    "options": [
+      "Feu",
+      "Bois",
+      "Terre",
+      "Métal"
+    ],
+    "answerIndex": 1,
+    "explication": "Sur les méridiens Yin, le point Puit correspond à l’élément Bois."
+  },
+
+  {
+    "question": "36 - Quelle méthode est utilisée en cas d’excès énergétique ?",
+    "options": [
+      "Tonifier la mère",
+      "Tonifier le fils",
+      "Disperser le fils",
+      "Disperser la mère"
+    ],
+    "answerIndex": 2,
+    "explication": "En cas d’excès, on disperse le fils selon la loi des 5 éléments."
+  },
+  {
+    "question": "37 - Pour un vide du Foie, quel point Shu antique est tonifié ?",
+    "options": [
+      "F2",
+      "F3",
+      "F4",
+      "F8"
+    ],
+    "answerIndex": 3,
+    "explication": "F8 est le point He (Eau), mère du Bois, utilisé pour tonifier le Foie."
+  },
+  {
+    "question": "38 - Pourquoi E36 tonifie-t-il l’Estomac ?",
+    "options": [
+      "C’est un point Jing",
+      "C’est un point Terre sur un méridien Terre",
+      "C’est un point Luo",
+      "C’est un point Mu"
+    ],
+    "answerIndex": 1,
+    "explication": "E36 est le point He (Terre) du méridien Estomac (Terre), il tonifie donc la Terre."
+  },
+  {
+    "question": "39 - Que sont les points Hors Méridiens ?",
+    "options": [
+      "Des points émotionnels",
+      "Des points secondaires",
+      "Des points situés en dehors des méridiens",
+      "Des points Shu du dos"
+    ],
+    "answerIndex": 2,
+    "explication": "Les points Hors Méridiens ne se situent pas sur les méridiens classiques."
+  },
+  {
+    "question": "40 - Les points Hua Tuo Jia Ji Xue sont localisés :",
+    "options": [
+      "Sur le ventre",
+      "Sur les membres",
+      "Sur la tête",
+      "Le long de la colonne vertébrale"
+    ],
+    "answerIndex": 3,
+    "explication": "Ils sont situés le long de la colonne, sous chaque vertèbre, à 0,5 cun de la ligne médiane."
+  },
+
+  {
+    "question": "41 - Quelle est la fonction principale des points Hua Tuo Jia Ji Xue ?",
+    "options": [
+      "Réguler le Qi des organes et traiter les douleurs locales",
+      "Tonifier le Jing",
+      "Traiter uniquement les émotions",
+      "Réguler la respiration"
+    ],
+    "answerIndex": 0,
+    "explication": "Ils régulent le Qi des organes et traitent les douleurs et raideurs locales."
+  },
+  {
+    "question": "42 - Les points Hua Tuo Jia Ji Xue liés au Foie se situent :",
+    "options": [
+      "D1 à D4",
+      "D4 à D7",
+      "D7 à D10",
+      "L1 à L2"
+    ],
+    "answerIndex": 2,
+    "explication": "Les points Hua Tuo Jia Ji Xue du Foie et de la VB sont situés de D7 à D10."
+  },
+  {
+    "question": "43 - Les points Hua Tuo Jia Ji Xue des Reins sont situés :",
+    "options": [
+      "D10 à D12",
+      "L1 à L2",
+      "L3 à L5",
+      "D4 à D7"
+    ],
+    "answerIndex": 1,
+    "explication": "Les Reins correspondent aux niveaux L1 à L2."
+  },
+  {
+    "question": "44 - Quel type de techniques peut être utilisé sur les points Hua Tuo Jia Ji Xue ?",
+    "options": [
+      "Uniquement massage",
+      "Uniquement acupuncture",
+      "Acupuncture et massage Tan Bo",
+      "Moxibustion uniquement"
+    ],
+    "answerIndex": 2,
+    "explication": "Ces points peuvent être travaillés en acupuncture et en massage Tan Bo."
+  },
+  {
+    "question": "45 - Les points Shu antiques sont comparés à :",
+    "options": [
+      "Un arbre",
+      "Une rivière",
+      "Un organe",
+      "Une montagne"
+    ],
+    "answerIndex": 1,
+    "explication": "Ils sont comparés à une rivière allant du puit (Jing) à la mer (He)."
+  },
+
+  {
+    "question": "46 - Quel point Shu antique est indiqué pour les affections hyperthermiques ?",
+    "options": [
+      "Jing",
+      "Ying",
+      "Shu",
+      "He"
+    ],
+    "answerIndex": 1,
+    "explication": "Le point Ying rafraîchit les chaleurs du méridien."
+  },
+  {
+    "question": "47 - Quel point Shu antique est indiqué pour les douleurs articulaires ?",
+    "options": [
+      "Jing",
+      "Ying",
+      "Shu",
+      "He"
+    ],
+    "answerIndex": 2,
+    "explication": "Le point Shu (rivière) est indiqué pour les douleurs et lourdeurs articulaires."
+  },
+  {
+    "question": "48 - Quel point Shu antique agit sur la toux et l’asthme ?",
+    "options": [
+      "Jing",
+      "Ying",
+      "Shu",
+      "Jing (fleuve)"
+    ],
+    "answerIndex": 3,
+    "explication": "Le point Jing (fleuve) est utilisé pour les troubles respiratoires comme la toux et l’asthme."
+  },
+  {
+    "question": "49 - Quelle famille énergétique possède un point Hui ?",
+    "options": [
+      "Les émotions",
+      "Les organes, entrailles, Sang, Qi, os, moelles",
+      "Les méridiens secondaires",
+      "Les climats"
+    ],
+    "answerIndex": 1,
+    "explication": "Les points Hui correspondent à 8 familles : Organes, Entrailles, Sang, Qi, Os, Moelles, Muscles/tendons et Vaisseaux."
+  },
+  {
+    "question": "50 - Pourquoi les points MU sont-ils privilégiés dans les troubles aigus digestifs ?",
+    "options": [
+      "Ils sont situés sur le dos",
+      "Ils agissent surtout sur les organes chroniques",
+      "Ils sont proches des entrailles concernées",
+      "Ils agissent uniquement sur les émotions"
+    ],
+    "answerIndex": 2,
+    "explication": "Les points MU sont proches des entrailles et particulièrement efficaces dans les troubles aigus."
+  }
+]

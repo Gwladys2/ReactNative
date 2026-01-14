@@ -1,0 +1,552 @@
+[
+  {
+    "question": "1 - Pour comprendre les effets physiologiques de l’acupuncture, l’organisme est considéré comme :",
+    "options": [
+      "Un système thermodynamique ouvert en interaction constante avec son environnement",
+      "Un système fermé fonctionnant indépendamment du milieu extérieur",
+      "Un ensemble mécanique composé uniquement de leviers biologiques",
+      "Un système énergétique isolé des processus biologiques"
+    ],
+    "answerIndex": 0,
+    "explication": "Le vivant est défini comme un système thermodynamique ouvert, capable d’échanger de l’énergie, de la matière et de l’information avec son environnement. L’acupuncture s’inscrit dans cette logique en modulant des boucles de régulation neurophysiologiques et neuroendocriniennes. Les autres propositions sont réductrices ou incompatibles avec la physiologie moderne."
+  },
+  {
+    "question": "2 - Quel système est reconnu comme le principal régulateur de l’équilibre fonctionnel de l’organisme ?",
+    "options": [
+      "Le système endocrinien, par l’action lente et diffuse des hormones",
+      "Le système nerveux, par son rôle de coordination et d’intégration",
+      "Le système immunitaire, par la défense contre les agressions",
+      "Le système digestif, par l’assimilation des nutriments"
+    ],
+    "answerIndex": 1,
+    "explication": "Le système nerveux assure une régulation rapide, précise et globale de l’organisme. Il coordonne les fonctions somatiques, végétatives et émotionnelles, et pilote les interactions avec les systèmes endocrinien et immunitaire. Les autres systèmes participent à l’homéostasie mais ne jouent pas ce rôle central."
+  },
+  {
+    "question": "3 - L’action initiale de l’acupuncture s’exerce principalement sur :",
+    "options": [
+      "Les organes profonds sans relais périphérique",
+      "Le tissu osseux et la moelle",
+      "Les structures cutanées, conjonctives et musculo-tendineuses",
+      "Le système vasculaire exclusivement"
+    ],
+    "answerIndex": 2,
+    "explication": "La stimulation acupuncturale agit d’abord sur la périphérie : peau, tissu conjonctif, fascias, muscles et tendons. Ces structures sont riches en récepteurs mécaniques et en terminaisons nerveuses capables de transmettre un message vers le système nerveux central."
+  },
+  {
+    "question": "4 - Le rôle central de l’hypothalamus dans les effets de l’acupuncture s’explique notamment par sa capacité à :",
+    "options": [
+      "Contrôler uniquement la motricité volontaire",
+      "Produire exclusivement des neurotransmetteurs périphériques",
+      "Assurer la conduction des influx sensitifs",
+      "Intégrer les informations nerveuses et déclencher des réponses neuroendocriniennes"
+    ],
+    "answerIndex": 3,
+    "explication": "L’hypothalamus est une structure clé d’intégration entre le système nerveux et le système endocrinien. Sa stimulation entraîne la libération de neuropeptides et d’hormones (β-endorphines, ACTH), expliquant les effets analgésiques, émotionnels et régulateurs de l’acupuncture."
+  },
+  {
+    "question": "5 - La persistance de certains effets thérapeutiques de l’acupuncture est principalement liée :",
+    "options": [
+      "À la libération de médiateurs hormonaux et neuropeptidiques à effet prolongé",
+      "À une contraction musculaire maintenue après la séance",
+      "À une augmentation durable du débit sanguin local",
+      "À un effet placebo systématique"
+    ],
+    "answerIndex": 0,
+    "explication": "Les médiateurs neuroendocriniens libérés après la stimulation acupuncturale ont souvent un effet retardé mais durable. Cela explique que les bénéfices cliniques puissent persister plusieurs heures ou jours après la séance, indépendamment de la stimulation locale immédiate."
+  },
+  {
+    "question": "6 - Pourquoi dit-on que la périphérie et le système nerveux sont étroitement liés en acupuncture ?",
+    "options": [
+      "Parce que la circulation sanguine y est plus importante",
+      "Parce qu’ils fonctionnent de façon indépendante",
+      "Parce qu’ils ont une origine embryologique commune",
+      "Parce que les hormones y agissent directement"
+    ],
+    "answerIndex": 2,
+    "explication": "La peau et le système nerveux se développent à partir du même tissu embryonnaire. Cette origine commune explique pourquoi une stimulation de la peau peut influencer le système nerveux."
+  },
+  {
+    "question": "7 - Quel organe joue un rôle central dans les effets antidouleur de l’acupuncture ?",
+    "options": [
+      "L’hypothalamus",
+      "Le cervelet",
+      "Le foie",
+      "Le tronc cérébral"
+    ],
+    "answerIndex": 0,
+    "explication": "L’hypothalamus est une zone du cerveau qui contrôle la douleur et les hormones. Lorsqu’il est stimulé, il libère des substances qui diminuent la douleur."
+  },
+  {
+    "question": "8 - Quelle substance est principalement responsable de l’effet antidouleur de l’acupuncture ?",
+    "options": [
+      "L’insuline",
+      "La dopamine",
+      "La mélatonine",
+      "Les β-endorphines"
+    ],
+    "answerIndex": 3,
+    "explication": "Les β-endorphines sont des substances produites par le cerveau qui agissent comme des antidouleurs naturels."
+  },
+  {
+    "question": "9 - Pourquoi certains effets de l’acupuncture durent-ils dans le temps ?",
+    "options": [
+      "À cause d’une contraction musculaire prolongée",
+      "À cause de la libération de substances à effet durable",
+      "À cause de la circulation sanguine",
+      "À cause d’un effet psychologique"
+    ],
+    "answerIndex": 1,
+    "explication": "L’acupuncture entraîne la libération de substances hormonales et nerveuses dont l’action peut durer plusieurs heures ou plusieurs jours."
+  },
+  {
+    "question": "10 - Quel système permet de diminuer l’impact émotionnel de la douleur ?",
+    "options": [
+      "Le système respiratoire",
+      "Le système digestif",
+      "Le système limbique",
+      "Le système musculaire"
+    ],
+    "answerIndex": 2,
+    "explication": "Le système limbique gère les émotions. Son activation par l’acupuncture permet de réduire la souffrance émotionnelle liée à la douleur."
+  },
+  {
+    "question": "11 - Quelle technique a permis d’observer l’action de l’acupuncture sur le cerveau ?",
+    "options": [
+      "L’IRM fonctionnelle",
+      "La radiographie",
+      "L’échographie",
+      "Le scanner osseux"
+    ],
+    "answerIndex": 0,
+    "explication": "L’IRM fonctionnelle permet de voir quelles zones du cerveau sont activées ou désactivées pendant une stimulation."
+  },
+  {
+    "question": "12 - Sur quels circuits agit l’acupuncture pour favoriser la relaxation ?",
+    "options": [
+      "Les circuits moteurs",
+      "Les circuits respiratoires",
+      "Les circuits digestifs",
+      "Les circuits dopaminergiques méso-limbiques"
+    ],
+    "answerIndex": 3,
+    "explication": "Les circuits dopaminergiques sont liés au bien-être et au plaisir. Leur stimulation favorise la détente et la relaxation."
+  },
+  {
+    "question": "13 - Que représentent les méridiens en acupuncture ?",
+    "options": [
+      "Des nerfs visibles à l’œil nu",
+      "Des voies de circulation du Qi et du sang",
+      "Des vaisseaux sanguins",
+      "Des structures osseuses"
+    ],
+    "answerIndex": 1,
+    "explication": "Les méridiens sont des trajets fonctionnels qui permettent la circulation de l’énergie et du sang dans le corps."
+  },
+  {
+    "question": "14 - Les trajets des méridiens correspondent surtout :",
+    "options": [
+      "Aux os",
+      "Aux artères",
+      "Aux tissus conjonctifs et aux fascias",
+      "Aux muscles striés uniquement"
+    ],
+    "answerIndex": 2,
+    "explication": "Les méridiens suivent principalement les tissus conjonctifs et les fascias, qui relient différentes parties du corps."
+  },
+  {
+    "question": "15 - La circulation du Qi dans un méridien peut être comparée à :",
+    "options": [
+      "Un influx nerveux périphérique",
+      "Une contraction musculaire",
+      "Un flux sanguin artériel",
+      "Un mouvement articulaire"
+    ],
+    "answerIndex": 0,
+    "explication": "Le Qi peut être rapproché d’un message nerveux qui circule dans le système nerveux périphérique."
+  },
+  {
+    "question": "16 - Quel phénomène explique le ressenti quand l’aiguille est bien placée ?",
+    "options": [
+      "La circulation sanguine locale",
+      "La mécanotransduction",
+      "Une contraction musculaire volontaire",
+      "Un effet placebo"
+    ],
+    "answerIndex": 1,
+    "explication": "Le tissu conjonctif s’enroule autour de l’aiguille et envoie un signal au cerveau, c’est ce qu’on appelle la mécanotransduction."
+  },
+  {
+    "question": "17 - Que recherche le praticien lorsqu’il manipule l’aiguille ?",
+    "options": [
+      "Un saignement",
+      "Le De Qi",
+      "Une douleur intense",
+      "Une contraction musculaire forte"
+    ],
+    "answerIndex": 1,
+    "explication": "Le De Qi est la sensation qui montre que le point est bien stimulé et que l’acupuncture sera efficace."
+  },
+  {
+    "question": "18 - Quel est l’effet principal des points situés sur les 14 méridiens ?",
+    "options": [
+      "Un effet local uniquement",
+      "Un effet psychologique",
+      "Un effet à distance dans le corps",
+      "Un effet placebo"
+    ],
+    "answerIndex": 2,
+    "explication": "Les points peuvent influencer d’autres zones du corps, pas seulement l’endroit où l’aiguille est posée."
+  },
+  {
+    "question": "19 - Les points situés aux articulations ont souvent :",
+    "options": [
+      "Un effet local seulement",
+      "Un effet psychologique",
+      "Aucun effet particulier",
+      "Un effet à distance"
+    ],
+    "answerIndex": 3,
+    "explication": "Les points près des articulations peuvent agir sur des organes ou zones éloignées du corps."
+  },
+  {
+    "question": "20 - Que signifie l’effet « à double sens » d’un point ?",
+    "options": [
+      "Il agit sur deux organes différents",
+      "Il régule selon l’état de l’organe",
+      "Il provoque deux maladies",
+      "Il annule son effet"
+    ],
+    "answerIndex": 1,
+    "explication": "Le point peut tonifier ou disperser selon que l’organe est trop faible ou trop fort."
+  },
+  {
+    "question": "21 - Que sont les repères anatomiques fixes ?",
+    "options": [
+      "Repères toujours visibles et stables",
+      "Repères qui bougent avec la posture",
+      "Repères uniquement musculaires",
+      "Repères temporaires"
+    ],
+    "answerIndex": 0,
+    "explication": "Ce sont des points du corps qui restent toujours au même endroit, comme le nombril ou certaines articulations."
+  },
+  {
+    "question": "22 - Quel est un exemple de repère anatomique fixe ?",
+    "options": [
+      "Les plis cutanés",
+      "Le nombril",
+      "Les muscles",
+      "La flexion du bras"
+    ],
+    "answerIndex": 1,
+    "explication": "Le nombril (RM8) est un point stable qui ne change pas selon la posture."
+  },
+  {
+    "question": "23 - Les plis cutanés sont considérés comme des repères :",
+    "options": [
+      "Fixes",
+      "Osseux",
+      "Mobiles",
+      "Vasculaires"
+    ],
+    "answerIndex": 2,
+    "explication": "Ils apparaissent et disparaissent selon la posture, donc ils sont mobiles."
+  },
+  {
+    "question": "24 - Qu’est-ce qu’un CUN ?",
+    "options": [
+      "Une mesure fixe en centimètres",
+      "Une mesure proportionnelle du corps",
+      "Une mesure digitale obligatoire",
+      "Une mesure osseuse"
+    ],
+    "answerIndex": 1,
+    "explication": "Le CUN est une unité de mesure relative à la taille du patient, adaptée à chaque personne."
+  },
+  {
+    "question": "25 - Combien de FEN contient 1 CUN ?",
+    "options": [
+      "5",
+      "8",
+      "12",
+      "10"
+    ],
+    "answerIndex": 3,
+    "explication": "1 CUN est divisé en 10 FEN, ce qui permet des mesures très précises sur le corps."
+  },
+  {
+    "question": "26 - Pourquoi bébé et adulte ont-ils le même nombre de CUN ?",
+    "options": [
+      "Parce que le CUN est fixe",
+      "Parce que le corps est proportionnel",
+      "Parce que les os sont identiques",
+      "Parce que la peau s’adapte"
+    ],
+    "answerIndex": 1,
+    "explication": "Le CUN est une mesure proportionnelle au corps, donc elle s’adapte à chaque taille."
+  },
+  {
+    "question": "27 - Quelle méthode de mesure est déconseillée ?",
+    "options": [
+      "Mesure proportionnelle",
+      "Mesure osseuse",
+      "Mesure digitale",
+      "Mesure anatomique"
+    ],
+    "answerIndex": 2,
+    "explication": "Les mesures digitales sont trop imprécises et varient selon la main de l’opérateur."
+  },
+  {
+    "question": "28 - Pourquoi éviter les mesures digitales ?",
+    "options": [
+       "Elles sont imprécises", 
+      "Elles sont dangereuses",
+      "Elles sont trop longues",
+      "Elles sont interdites"
+    ],
+    "answerIndex": 0,
+    "explication": "Le cours souligne qu’elles manquent de précision par rapport aux mesures proportionnelles."
+  },
+  {
+    "question": "29 - Quelle mesure est recommandée ?",
+    "options": [
+      "Digitale",
+      "En centimètres",
+      "Proportionnelle",
+      "Standardisée"
+    ],
+    "answerIndex": 2,
+    "explication": "La mesure proportionnelle au corps est la plus fiable pour trouver les points."
+  },
+  {
+    "question": "30 - Les points Jing se situent principalement :",
+    "options": [
+      "Sur le tronc",
+      "Sur les ongles",
+      "Sur la tête",
+      "Sur l’abdomen"
+    ],
+    "answerIndex": 1,
+    "explication": "Les points Jing sont situés aux extrémités des doigts et des orteils, souvent près des ongles."
+  },
+  {
+    "question": "31 - Quel méridien est lié au nerf sciatique selon le cours ?",
+    "options": [
+      "Poumon",
+      "Cœur",
+      "Estomac",
+      "Vessie"
+    ],
+    "answerIndex": 3,
+    "explication": "Le méridien de la Vessie suit en partie le trajet du nerf sciatique dans la jambe."
+  },
+  {
+    "question": "32 - Quel organe sensoriel sert de repère pour V1 ?",
+    "options": [
+       "Œil", 
+      "Oreille",
+      "Nez",
+      "Bouche"
+    ],
+    "answerIndex": 0,
+    "explication": "L’œil sert de point de référence fixe pour placer V1 sur le visage."
+  },
+  {
+    "question": "33 - Les points Hua Tuo sont repérés grâce à :",
+    "options": [
+      "Les plis cutanés",
+      "Les vertèbres",
+      "Les muscles",
+      "Les tendons"
+    ],
+    "answerIndex": 1,
+    "explication": "On utilise les vertèbres comme repères pour trouver les points Hua Tuo le long de la colonne."
+  },
+  {
+    "question": "34 - Le RM8 est situé au niveau :",
+    "options": [
+      "Du pubis",
+      "De la poitrine",
+      "Du genou",
+      "Du nombril"
+    ],
+    "answerIndex": 3,
+    "explication": "RM8 correspond au nombril, qui est un repère fixe du corps."
+  },
+  {
+    "question": "35 - La stimulation des points E36 et Rate6 diminue :",
+    "options": [
+      "La glycémie",
+      "Le cortisol et l’ACTH",
+      "La dopamine",
+      "La sérotonine"
+    ],
+    "answerIndex": 1,
+    "explication": "Chez les animaux stressés, ces points abaissent le cortisol et l’ACTH, liés au stress."
+  },
+  {
+    "question": "36 - L’équilibre physiologique passe par la balance entre :",
+    "options": [
+      "Qi et sang",
+      "Yin et Yang uniquement",
+      "Système parasympathique et orthosympathique",
+      "Muscles et tendons"
+    ],
+    "answerIndex": 2,
+    "explication": "Le corps équilibre ses fonctions grâce aux systèmes nerveux parasympathique et orthosympathique."
+  },
+  {
+    "question": "37 - En 1998, la stimulation de V67 augmente l’activité de :",
+    "options": [
+        "L’aire visuelle",
+      "L’aire motrice",
+      "L’aire auditive",
+      "L’aire limbique"
+    ],
+    "answerIndex": 0,
+    "explication": "V67 stimule l’aire visuelle, ce qui explique son usage dans certains troubles des yeux."
+  },
+  {
+    "question": "38 - Quelle structure est la cible principale des peptides sécrétés par l’acupuncture ?",
+    "options": [
+      "Le cervelet",
+      "Le cortex moteur",
+      "La moelle épinière",
+      "L’hypothalamus"
+    ],
+    "answerIndex": 3,
+    "explication": "Les peptides agissent surtout sur l’hypothalamus, qui régule hormones et fonctions corporelles."
+  },
+  {
+    "question": "39 - Les points agissent toujours :",
+    "options": [
+      "Uniquement localement",
+      "Sur un organe défini",
+      "Sur tous les organes",
+      "De façon aléatoire"
+    ],
+    "answerIndex": 1,
+    "explication": "Chaque point a une action sur un organe spécifique ou sur des zones proches."
+  },
+  {
+    "question": "40 - Les branches collatérales des méridiens sont appelées :",
+    "options": [
+      "Jing",
+      "Qi",
+      "Luo",
+      "Xue"
+    ],
+    "answerIndex": 2,
+    "explication": "Les petites branches qui relient les méridiens principaux sont appelées Luo."
+  },
+  {
+    "question": "41 - Les méridiens relient :",
+    "options": [
+         "Les éléments internes et externes du corps",
+      "Uniquement les organes",
+      "Seulement la peau",
+      "Seulement les muscles"
+    ],
+    "answerIndex": 0,
+    "explication": "Ils connectent les organes internes avec la peau et d’autres tissus externes."
+  },
+  {
+    "question": "42 - Les points GI15 et GI5 sont repérés grâce à :",
+    "options": [
+      "Des os",
+      "Des plis cutanés",
+      "Des creux de mouvement",
+      "Des ongles"
+    ],
+    "answerIndex": 2,
+    "explication": "Ces points apparaissent dans les creux formés lors des mouvements des articulations."
+  },
+  {
+    "question": "43 - Les points Jing sont situés principalement :",
+    "options": [
+      "Aux articulations",
+      "Aux extrémités",
+      "À l’abdomen",
+      "Au dos"
+    ],
+    "answerIndex": 1,
+    "explication": "Ils se trouvent sur les doigts et les orteils, aux extrémités des membres."
+  },
+  {
+    "question": "44 - Le message acupunctural circule :",
+    "options": [
+      "Uniquement dans le sang",
+      "Uniquement dans la peau",
+      "Uniquement dans les muscles",
+      "À différents niveaux nerveux"
+    ],
+    "answerIndex": 3,
+    "explication": "Les signaux passent par plusieurs niveaux du système nerveux, pas seulement localement."
+  },
+  {
+    "question": "45 - L’acupuncture peut agir sur :",
+    "options": [
+      "Seulement la douleur",
+      "Seulement l’émotionnel",
+      "Les systèmes somatique, viscéral et émotionnel",
+      "Uniquement le système digestif"
+    ],
+    "answerIndex": 2,
+    "explication": "Elle agit sur le corps (somatique), les organes (viscéral) et les émotions."
+  },
+  {
+    "question": "46 - La mécanotransduction modifie :",
+    "options": [
+       "Le milieu extracellulaire", 
+      "Le tissu osseux",
+      "Le sang",
+      "Les hormones uniquement"
+    ],
+    "answerIndex": 0,
+    "explication": "Les signaux mécaniques de l’aiguille changent le milieu autour des cellules (milieu extracellulaire)."
+  },
+  {
+    "question": "47 - Les repères mobiles dépendent :",
+    "options": [
+      "De l’âge",
+      "Du sexe",
+      "De la posture",
+      "De la température"
+    ],
+    "answerIndex": 2,
+    "explication": "Ces repères bougent selon la position du corps et le mouvement des articulations."
+  },
+  {
+    "question": "48 - Le De Qi est lié à :",
+    "options": [
+      "Une erreur de piqûre",
+      "Une sensation recherchée",
+      "Une complication",
+      "Un effet secondaire"
+    ],
+    "answerIndex": 1,
+    "explication": "Le De Qi est la sensation indiquant que le point est bien stimulé."
+  },
+  {
+    "question": "49 - Les méridiens ne sont pas visibles car :",
+    "options": [
+      "Ils n’existent pas",
+      "Ils sont invisibles",
+      "Ils changent de place",
+      "Ils sont composés de tissus différents"
+    ],
+    "answerIndex": 3,
+    "explication": "Les méridiens sont formés de différents tissus (fascias, conjonctif), donc invisibles à l’œil nu."
+  },
+  {
+    "question": "50 - L’objectif principal de l’acupuncture est :",
+    "options": [
+      "Supprimer les symptômes",
+      "Détruire la douleur",
+      "Restaurer l’équilibre dynamique du corps",
+      "Bloquer le système nerveux"
+    ],
+    "answerIndex": 2,
+    "explication": "L’acupuncture vise à rétablir l’équilibre fonctionnel et énergétique du corps."
+  }
+]

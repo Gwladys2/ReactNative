@@ -14,11 +14,11 @@
     "question": "2 - Selon la théorie de l’unicité, de quoi est constitué l’univers ?",
     "options": [
       "De matière uniquement",
-      "De Qi uniquement",
       "De cellules",
-      "De vide"
+      "De vide",
+      "De Qi uniquement"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explication": "La théorie de l’unicité dit que tout dans l’univers est constitué de Qi, qu’il soit visible (matière) ou invisible (énergie)."
   },
   {
@@ -90,23 +90,23 @@
   {
     "question": "9 - Quels sont les deux éléments qui forment le Qi acquis ?",
     "options": [
-      "Eau et feu",
       "Qi de l’air et Qi alimentaire",
+      "Eau et feu",
       "Sang et liquides",
       "Os et muscles"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explication": "Le Qi acquis est formé par le Qi de l’air (respiration) et le Qi des aliments (digestion)."
   },
   {
     "question": "10 - Quel organe transforme les aliments en Qi alimentaire ?",
     "options": [
       "Le Cœur",
-      "La Rate",
       "Le Foie",
-      "Le Rein"
+      "Le Rein",
+      "La Rate"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explication": "En MTC, la Rate (et l’Estomac) est responsable de la transformation des aliments en énergie (Qi alimentaire)."
   },
 
@@ -137,10 +137,10 @@
     "options": [
       "Gu Qi",
       "Ying Qi",
-      "Tian Qi",
-      "Wei Qi"
+      "Wei Qi",
+      "Tian Qi"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "explication": "Le Tian Qi correspond au Qi de l’air que nous respirons."
   },
   {
@@ -191,12 +191,12 @@
   {
     "question": "18 - Quelle fonction du Qi protège contre les maladies ?",
     "options": [
-      "Propulsion",
-      "Transformation",
       "Défense",
+      "Propulsion",
+      "Transformation", 
       "Montée"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "explication": "La fonction de défense permet au corps de résister aux agressions externes (froid, vent, microbes)."
   },
   {
@@ -214,11 +214,11 @@
     "question": "20 - Quelle fonction du Qi permet les transformations internes ?",
     "options": [
       "Défense",
-      "Transformation",
       "Montée",
-      "Descente"
+      "Descente",
+      "Transformation"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explication": "La transformation (Qi Hua) permet les changements comme digestion, urines, sueur, sang."
   },
 
@@ -236,12 +236,12 @@
   {
     "question": "22 - Quel mouvement correspond à l’élévation du Qi ?",
     "options": [
+      "Montée",
       "Descente",
       "Entrée",
-      "Montée",
       "Sortie"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "explication": "La montée correspond au mouvement ascendant du Qi."
   },
   {
@@ -249,10 +249,10 @@
     "options": [
       "Foie",
       "Rate",
-      "Poumon",
-      "Rein"
+      "Rein",
+      "Poumon"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "explication": "Le Qi du Poumon descend pour permettre la respiration correcte."
   },
   {
@@ -281,12 +281,12 @@
   {
     "question": "26 - Comment s’appelle le Qi originel ?",
     "options": [
+      "Yuan Qi",
       "Zong Qi",
       "Wei Qi",
-      "Yuan Qi",
       "Ying Qi"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "explication": "Le Yuan Qi est le Qi originel, inné, transmis par les parents."
   },
   {
@@ -303,12 +303,12 @@
   {
     "question": "28 - Où se situe le Ming Men ?",
     "options": [
-      "Dans la poitrine",
       "Entre les deux Reins",
+      "Dans la poitrine",
       "Dans la tête",
       "Dans l’estomac"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explication": "Le Ming Men est situé entre les deux Reins et est la source du Yuan Qi."
   },
   {
@@ -338,11 +338,11 @@
     "question": "31 - Qu’est-ce que le Ying Qi ?",
     "options": [
       "Le Qi défensif",
-      "Le Qi nutritif",
       "Le Qi originel",
-      "Le Qi émotionnel"
+      "Le Qi émotionnel",
+      "Le Qi nutritif"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explication": "Le Ying Qi est le Qi nourricier qui circule dans les vaisseaux sanguins."
   },
   {
@@ -359,12 +359,12 @@
   {
     "question": "33 - Qu’est-ce que le Wei Qi ?",
     "options": [
-      "Le Qi nutritif",
       "Le Qi défensif",
+      "Le Qi nutritif",
       "Le Qi digestif",
       "Le Qi du cœur"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explication": "Le Wei Qi est le Qi défensif qui protège le corps."
   },
   {
@@ -382,11 +382,11 @@
     "question": "35 - Le Wei Qi est surtout :",
     "options": [
       "Yin",
-      "Yang",
       "Neutre",
-      "Inactif"
+      "Inactif",
+      "Yang"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explication": "Le Wei Qi est plus Yang : il est rapide, mobile et protecteur."
   },
 
@@ -415,12 +415,12 @@
   {
     "question": "38 - Un Qi faible entraîne surtout :",
     "options": [
-      "Douleurs aiguës",
       "Fatigue et lassitude",
+      "Douleurs aiguës",
       "Fièvre élevée",
       "Convulsions"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explication": "Un Qi faible se manifeste par fatigue, manque d’énergie et essoufflement."
   },
   {
@@ -450,55 +450,55 @@
     "question": "41 - Quelle part du bien-être dépend de la quantité de Qi ?",
     "options": [
       "25 %",
-      "50 %",
       "75 %",
-      "100 %"
+      "100 %",
+      "50 %"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explication": "Selon le cours, 50 % du bien-être dépend de la quantité de Qi."
   },
   {
     "question": "42 - Quelle part du bien-être dépend de la circulation du Qi ?",
     "options": [
-      "25 %",
       "50 %",
+      "25 %", 
       "75 %",
       "100 %"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explication": "Les 50 % restants dépendent de la bonne circulation du Qi."
   },
   {
     "question": "43 - La MTC est avant tout une médecine :",
     "options": [
       "Curative uniquement",
-      "Préventive",
       "Chirurgicale",
-      "D’urgence"
+      "D’urgence",
+      "Préventive"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explication": "La MTC cherche à prévenir les maladies avant leur apparition."
   },
   {
     "question": "44 - Entretenir le Qi permet surtout :",
     "options": [
       "De vivre plus vite",
-      "De maintenir la santé",
       "De perdre du poids",
+      "De maintenir la santé",
       "De dormir moins"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explication": "Entretenir le Qi permet de rester en bonne santé et de prévenir les maladies."
   },
   {
     "question": "45 - Le Qi est comparable en médecine occidentale à :",
     "options": [
+       "Le métabolisme et les communications cellulaires",
       "La structure osseuse",
-      "Le métabolisme et les communications cellulaires",
       "Les muscles",
       "Les tendons"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explication": "Le Qi peut être comparé au métabolisme, aux hormones et aux influx nerveux."
   },
 
@@ -506,11 +506,11 @@
     "question": "46 - Quel organe est central dans la production du Qi alimentaire ?",
     "options": [
       "Le Poumon",
-      "La Rate",
       "Le Cœur",
-      "Le Foie"
+      "Le Foie",
+      "La Rate"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explication": "La Rate transforme les aliments en énergie utilisable."
   },
   {
@@ -528,11 +528,11 @@
     "question": "48 - Le Qi est-il statique ?",
     "options": [
       "Oui",
-      "Non",
       "Seulement la nuit",
+      "Non",
       "Uniquement chez les malades"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explication": "Le Qi est toujours en mouvement. Sans mouvement, il n’y a pas de vie."
   },
   {

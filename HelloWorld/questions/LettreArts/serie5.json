@@ -3,305 +3,306 @@
     "question": "1 - Quel écrivain défend Manet et les artistes refusés au Salon de 1866 ?",
     "options": ["Gustave Flaubert", "Émile Zola", "Baudelaire", "Balzac"],
     "answerIndex": 1,
-    "explication": "Dans son article du 30 avril 1866, Zola dénonce le jury du Salon et défend notamment Manet et Brigot."
+    "explication": "Émile Zola écrit un article pour dire que le jury du Salon est injuste. Il explique que Manet et d’autres artistes ont été refusés alors que leurs œuvres sont importantes et modernes."
   },
   {
     "question": "2 - Que reproche Zola au jury du Salon de 1866 ?",
     "options": ["D’être trop indulgent", "D’avoir volontairement refusé les œuvres réalistes", "D’avoir admis trop de peintres étrangers", "De privilégier l’art religieux"],
     "answerIndex": 1,
-    "explication": "Zola affirme que le jury a écarté ce qu’il appelle les « toiles fortes et vivantes »."
+    "explication": "Zola reproche au jury d’avoir refusé volontairement des peintures fortes et vivantes. Selon lui, le jury préfère des œuvres sages et traditionnelles plutôt que des œuvres qui montrent la vraie vie."
   },
   {
     "question": "3 - Quel artiste est cité par Zola comme symbole du naturalisme pictural ?",
     "options": ["Cabanel", "Manet", "Ingres", "Delacroix"],
     "answerIndex": 1,
-    "explication": "Zola revendique son admiration pour Manet, opposé à l’esthétique académique."
+    "explication": "Zola admire Manet parce qu’il peint le monde réel sans l’embellir. Pour lui, Manet représente une nouvelle manière honnête et moderne de peindre."
   },
   {
     "question": "4 - En littérature, quel auteur est présenté comme modèle du réalisme ?",
     "options": ["Victor Hugo", "Honoré de Balzac", "Lamartine", "Chateaubriand"],
     "answerIndex": 1,
-    "explication": "Balzac, avec La Comédie humaine, constitue la référence du roman réaliste."
+    "explication": "Balzac est considéré comme le grand écrivain du réalisme parce qu’il décrit la société telle qu’elle est, avec ses qualités mais aussi ses défauts."
   },
   {
     "question": "5 - Dans quel ouvrage Balzac décrit-il son projet de « peindre les mœurs » ?",
     "options": ["Le Père Goriot", "Illusions perdues", "L’Avant-propos de La Comédie humaine", "Splendeurs et misères des courtisanes"],
     "answerIndex": 2,
-    "explication": "L’Avant-propos (1842) définit le projet encyclopédique de Balzac."
+    "explication": "Dans l’Avant-propos, Balzac explique son objectif : montrer comment vivent les gens, comment fonctionne la société et comment les individus se comportent."
   },
   {
     "question": "6 - Avec quel domaine Balzac rapproche-t-il sa méthode littéraire ?",
     "options": ["Les mathématiques", "L’histoire naturelle", "La philosophie", "La biologie médicale"],
     "answerIndex": 1,
-    "explication": "Balzac évoque Buffon et l’idée d’un inventaire méthodique des espèces sociales."
+    "explication": "Balzac compare son travail à celui d’un scientifique qui classe les espèces. Lui classe les types de personnes dans la société (riches, pauvres, ambitieux, etc.)."
   },
   {
     "question": "7 - Quel courant prolonge le réalisme vers une méthode « scientifique » ?",
     "options": ["Le symbolisme", "Le naturalisme", "Le parnasse", "Le futurisme"],
     "answerIndex": 1,
-    "explication": "Le naturalisme, notamment chez Zola, applique les principes expérimentaux à la fiction."
+    "explication": "Le naturalisme veut observer la société comme une expérience scientifique. L’écrivain regarde les faits et montre les causes et les conséquences."
   },
   {
     "question": "8 - Selon Zola, quel est le rôle du romancier naturaliste ?",
     "options": ["Donner une morale explicite à ses œuvres", "Inventer librement sans contrainte", "Observer et expérimenter comme un savant", "Décrire uniquement le beau"],
     "answerIndex": 2,
-    "explication": "Zola compare le romancier à un expérimentateur qui révèle les mécanismes sociaux."
+    "explication": "Pour Zola, l’écrivain doit observer les gens comme un scientifique observe la nature, sans juger, et montrer comment la société influence les individus."
   },
   {
     "question": "9 - Quelle scène célèbre de Balzac illustre l’attention au trivial ?",
     "options": ["Le bal de la duchesse de Carigliano", "La pension Vauquer", "La bataille de Poitiers", "La rencontre de Lucien et Coralie"],
     "answerIndex": 1,
-    "explication": "La description détaillée et peu flatteuse de la pension Vauquer dans Le Père Goriot est emblématique."
+    "explication": "Balzac décrit en détail une pension sale et pauvre. Il montre la réalité quotidienne sans l’embellir, même si c’est laid ou triste."
   },
   {
     "question": "10 - Quelle caractéristique est centrale dans la description réaliste de Balzac ?",
     "options": ["La sublimation du réel", "L’idéalisation romantique", "La minutie descriptive du quotidien", "La recherche du sublime"],
     "answerIndex": 2,
-    "explication": "Balzac cherche à reproduire fidèlement les lieux, objets et ambiances du quotidien."
+    "explication": "Balzac décrit précisément les lieux, les objets et les habitudes de la vie quotidienne pour donner une impression de réalité."
   },
+
   {
     "question": "11 - Quel peintre réalise L’Enterrement à Ornans ?",
     "options": ["Courbet", "Manet", "Monet", "Daumier"],
     "answerIndex": 0,
-    "explication": "Gustave Courbet peint ce tableau monumental en 1850."
+    "explication": "Le tableau est peint par Gustave Courbet, un peintre réaliste qui veut représenter la vie ordinaire."
   },
   {
     "question": "12 - Pourquoi L’Enterrement à Ornans choque-t-il ?",
     "options": ["Il représente un sujet mythologique", "Il met en scène des gens ordinaires sur un format monumental", "Il critique l'Église", "Il est abstrait"],
     "answerIndex": 1,
-    "explication": "Courbet consacre un immense tableau à des villageois anonymes, ce qui bouleverse les codes académiques."
+    "explication": "Le tableau est très grand, comme ceux réservés aux rois ou aux héros, mais il montre de simples villageois. Cela choque le public."
   },
   {
     "question": "13 - Comment Champfleury défend-il Courbet ?",
     "options": ["En disant qu’il peint comme Raphael", "En critiquant l’abstraction", "En affirmant qu’un paysan vaut un prince", "En rejetant tout réalisme"],
     "answerIndex": 2,
-    "explication": "Champfleury explique que l’égalité des sujets est un principe du réalisme."
+    "explication": "Champfleury explique que toutes les personnes ont la même valeur et méritent d’être représentées en peinture."
   },
   {
     "question": "14 - Quel artiste est tourné en dérision dans une caricature associée au réalisme ?",
     "options": ["Zola", "Courbet", "Manet", "Cabanel"],
     "answerIndex": 0,
-    "explication": "Une caricature représente Zola comme écrivain de l’excrément, dénonçant le rejet moral du naturalisme."
+    "explication": "Zola est moqué parce qu’il défend un art qui montre la saleté, la misère et les aspects choquants de la réalité."
   },
   {
     "question": "15 - Selon Zola, qu’est-ce qu’un faux réalisme ?",
     "options": ["Un réalisme idéalisé", "Un réalisme sans âme ni tempérament", "Un réalisme politique", "Un réalisme photographique"],
     "answerIndex": 1,
-    "explication": "Il critique les artistes qui se contentent de sujets vulgaires sans véritable vision personnelle."
+    "explication": "Pour Zola, ce n’est pas suffisant de peindre des choses banales. Il faut aussi une vraie vision personnelle et de la force."
   },
   {
     "question": "16 - À propos de qui Zola déclare-t-il que tout paraît « en bois » dans ses toiles ?",
     "options": ["Manet", "Courbet", "Vollon", "Daubigny"],
     "answerIndex": 2,
-    "explication": "Zola critique sévèrement Antoine Vollon, qu’il accuse d’un réalisme artificiel."
+    "explication": "Zola reproche à Vollon de peindre des objets qui semblent rigides et sans vie. Pour lui, tout paraît figé, comme si c’était fait en bois et non vivant."
   },
   {
     "question": "17 - Quel critique entretient un rapport ambigu avec le réalisme ?",
     "options": ["Victor Hugo", "Baudelaire", "Théophile Gautier", "Mallarmé"],
     "answerIndex": 1,
-    "explication": "Baudelaire admire Courbet mais refuse un art purement naturaliste."
+    "explication": "Baudelaire admire certains peintres réalistes, mais il refuse une peinture qui se contente de copier la réalité sans imagination."
   },
   {
     "question": "18 - Quelle idée distingue l’artiste de « l’ouvrier » selon Baudelaire ?",
     "options": ["L’imitation exacte du réel", "La technique parfaite", "La capacité de recréer et d’unifier le réel", "La rapidité d’exécution"],
     "answerIndex": 2,
-    "explication": "Baudelaire insiste sur la part subjective et créatrice de l’artiste."
+    "explication": "Pour Baudelaire, l’artiste ne fait pas que copier la réalité. Il la transforme avec sa sensibilité et sa vision personnelle."
   },
   {
     "question": "19 - Manet est-il considéré comme un peintre réaliste ?",
     "options": ["Oui, unanimement", "Non, jamais", "Son statut est débattu", "Il est uniquement symboliste"],
     "answerIndex": 2,
-    "explication": "Manet occupe une position ambiguë entre réalisme et modernité picturale."
+    "explication": "Manet montre la réalité, mais d’une manière nouvelle. Certains le voient comme réaliste, d’autres comme un peintre moderne."
   },
   {
     "question": "20 - Quelle œuvre de Manet provoque un scandale en 1863 ?",
     "options": ["Le fifre", "Olympia", "Un bar aux Folies Bergère", "Le Déjeuner sur l’herbe"],
     "answerIndex": 3,
-    "explication": "Le Déjeuner sur l’herbe est refusé au Salon et exposé au Salon des refusés."
+    "explication": "Le tableau choque car il montre des personnes ordinaires dans une scène inhabituelle, sans idéalisation."
   },
   {
     "question": "21 - Quelle autre œuvre de Manet scandalise en 1863 ?",
     "options": ["Olympia", "La Jeune Fille en bleu", "Le portrait de Zola", "Le Liseur"],
     "answerIndex": 0,
-    "explication": "Olympia choque par son traitement moderne du nu."
+    "explication": "Olympia choque car le nu est représenté de façon directe, moderne et sans pudeur."
   },
   {
     "question": "22 - Qui réalise une caricature humoristique sur Olympia ?",
     "options": ["Zola", "Daumier", "Courbet", "Monet"],
     "answerIndex": 1,
-    "explication": "Daumier ironise sur le nom du tableau en suggérant que seule la chatte noire s’appelle Olympia."
+    "explication": "Daumier se moque du scandale en faisant une caricature humoristique autour du tableau."
   },
   {
     "question": "23 - Quel écrivain consacre un ouvrage élogieux à Manet en 1867 ?",
     "options": ["Baudelaire", "Goncourt", "Émile Zola", "Mallarmé"],
     "answerIndex": 2,
-    "explication": "Zola publie une étude qui contribue fortement à la célébrité de Manet."
+    "explication": "Zola écrit un livre pour défendre Manet et expliquer pourquoi son art est important et moderne."
   },
   {
     "question": "24 - Que représente Manet dans son portrait de Zola (1868) ?",
     "options": ["Zola écrivant une lettre", "Zola posant en extérieur", "Zola à son bureau entouré de références artistiques", "Zola en train de peindre"],
     "answerIndex": 2,
-    "explication": "Le tableau inclut notamment une gravure d’Olympia et une image de Velázquez."
+    "explication": "Zola est représenté comme un intellectuel, entouré d’objets qui montrent ses goûts artistiques."
   },
   {
     "question": "25 - Quel objet apparaît dans le portrait de Zola pour rappeler Manet ?",
     "options": ["Une palette", "Un portrait de Courbet", "Le livre 'Édouard Manet' écrit par Zola", "Une lettre du Salon"],
     "answerIndex": 2,
-    "explication": "Le livre posé sur le bureau renvoie directement à l’étude de Zola sur Manet."
+    "explication": "Le livre rappelle que Zola a soutenu Manet par ses écrits."
   },
-  
+
   {
     "question": "26 - En quelle année Courbet installe-t-il son Pavillon du réalisme ?",
     "options": ["1848", "1855", "1863", "1870"],
     "answerIndex": 1,
-    "explication": "Courbet ouvre son pavillon en marge de l’Exposition universelle de 1855."
+    "explication": "Courbet crée son propre espace d’exposition en 1855, en dehors des institutions officielles."
   },
   {
     "question": "27 - Pourquoi Courbet ouvre-t-il son propre pavillon ?",
     "options": ["Pour vendre plus facilement", "Parce qu’il a été blessé par l’académie", "Parce que ses œuvres sont refusées ou mal exposées", "Pour concurrencer Manet"],
     "answerIndex": 2,
-    "explication": "Courbet revendique son autonomie et expose ses œuvres hors du cadre officiel."
+    "explication": "Courbet refuse de dépendre du jury officiel et choisit d’exposer librement ses œuvres."
   },
   {
     "question": "28 - Comment Zola qualifie-t-il les œuvres académiques comme celles de Cabanel ?",
     "options": ["Des chefs-d’œuvre", "De la poudre de riz", "Des visions puissantes", "De la peinture scientifique"],
     "answerIndex": 1,
-    "explication": "Il oppose le faux raffinement académique à la vérité brute du réel."
+    "explication": "Zola critique une peinture trop lisse, trop jolie, qui cache la réalité sous une apparence élégante."
   },
   {
     "question": "29 - Quel concept Zola critique-t-il dans le tableau Retour du marché de Vollon ?",
     "options": ["Le déterminisme", "Le manque d’idéalisme", "L’absence de vérité dans la lumière et l’air", "Le symbolisme religieux"],
     "answerIndex": 2,
-    "explication": "Il reproche à Vollon de figer les objets et de supprimer la vie du réel."
+    "explication": "Zola reproche au tableau de ne pas donner une impression de vie réelle, comme si l’air et la lumière étaient absents."
   },
   {
     "question": "30 - Quel élément Courbet transforme-t-il en sujet noble dans L’Enterrement à Ornans ?",
     "options": ["Un mythe antique", "Un paysage imaginaire", "Un enterrement de village", "Une scène biblique"],
     "answerIndex": 2,
-    "explication": "Courbet élève une scène quotidienne au rang de monument pictural."
+    "explication": "Courbet montre qu’un événement simple de la vie quotidienne mérite autant d’importance qu’un sujet historique."
   },
-  
+
   {
     "question": "31 - Quel reproche majeur est fait à Courbet selon Champfleury ?",
     "options": ["D’être trop romantique", "De peindre des gens du peuple en grand format", "De manquer d’émotion", "D’imiter les maîtres anciens"],
     "answerIndex": 1,
-    "explication": "La critique refuse que des sujets ordinaires occupent la même place que les souverains."
+    "explication": "Les critiques trouvent choquant de représenter des gens ordinaires sur de très grandes toiles."
   },
   {
     "question": "32 - Quelle comparaison Champfleury fait-il pour défendre Courbet ?",
     "options": ["Le réalisme est comme la photographie", "Un paysan vaut un magistrat", "Le réel est supérieur au mythe", "L’art doit abolir toute hiérarchie"],
     "answerIndex": 1,
-    "explication": "Il évoque les œuvres de Largillière pour souligner l’injustice faite à Courbet."
+    "explication": "Champfleury explique que toutes les personnes ont la même valeur et méritent d’être représentées."
   },
   {
     "question": "33 - Pour Zola, pourquoi le naturalisme n’a-t-il pas à conclure moralement ?",
     "options": ["Parce que le romancier est immoral", "Parce que la conclusion appartient à l’expérience elle-même", "Parce qu’il veut être subjectif", "Parce que la morale n’intéresse pas le lecteur"],
     "answerIndex": 1,
-    "explication": "Zola compare la fiction naturaliste à une expérience scientifique."
+    "explication": "Zola pense que l’auteur doit montrer les faits et laisser le lecteur réfléchir seul."
   },
   {
     "question": "34 - Quelle dimension le réalisme revendique-t-il contre le romantisme ?",
     "options": ["L’imaginaire", "Le sublime", "La fidélité au réel", "L’exaltation du moi"],
     "answerIndex": 2,
-    "explication": "Le réalisme refuse l’idéalisme et cherche à décrire objectivement les sociétés."
+    "explication": "Le réalisme cherche à montrer la réalité telle qu’elle est, sans la rendre plus belle ou plus dramatique."
   },
   {
     "question": "35 - Quel terme apparaît dans le dictionnaire de l'Académie française en 1878 ?",
     "options": ["Naturalisme", "Réalisme", "Symbolisme", "Romantisme"],
     "answerIndex": 1,
-    "explication": "Le mot 'réalisme' est officialisé tardivement bien qu’il existe depuis les années 1820."
+    "explication": "Le mot devient officiel tardivement, même si le courant existait déjà depuis longtemps."
   },
-  
+
   {
     "question": "36 - Selon Balzac, qu’est-ce qu’un 'type' dans la Comédie humaine ?",
     "options": ["Un personnage abstrait", "Un mélange de traits observés dans plusieurs individus", "Un héros mythologique", "Un symbole politique"],
     "answerIndex": 1,
-    "explication": "Balzac construit des types en combinant des traits sociaux récurrents."
+    "explication": "Balzac crée des personnages qui représentent des catégories de personnes que l’on rencontre souvent."
   },
   {
     "question": "37 - Quelle caractéristique Courbet revendique-t-il dans son art ?",
     "options": ["L’imitation fidèle des maîtres", "La représentation de la vie réelle", "La peinture de sujets mythologiques", "La recherche du sublime"],
     "answerIndex": 1,
-    "explication": "Courbet veut représenter fidèlement les gens et les paysages de son époque."
+    "explication": "Courbet veut peindre ce qu’il voit autour de lui, sans inventer ni embellir."
   },
   {
     "question": "38 - Qui utilise l’expression « un coin de création vu à travers un tempérament » ?",
     "options": ["Manet", "Balzac", "Zola", "Baudelaire"],
     "answerIndex": 2,
-    "explication": "Zola insiste sur la nécessité d’une vision personnelle dans l’art."
+    "explication": "Zola explique que l’artiste montre la réalité à travers sa personnalité."
   },
   {
     "question": "39 - Que critique Zola dans le réalisme de Vollon ?",
     "options": ["Le manque de couleur", "L’exagération dramatique", "L’absence de vie et de lumière", "La composition trop complexe"],
     "answerIndex": 2,
-    "explication": "Il trouve les scènes figées et artificielles."
+    "explication": "Zola trouve que les tableaux manquent de mouvement et de vitalité."
   },
   {
     "question": "40 - Quel mouvement considère Zola comme le 'père' de l’art moderne ?",
     "options": ["Le romantisme", "Le symbolisme", "Le réalisme de Manet", "Le baroque"],
     "answerIndex": 2,
-    "explication": "Zola estime que Manet ouvre la voie à la peinture moderne."
+    "explication": "Zola pense que Manet ouvre une nouvelle manière de peindre, plus moderne."
   },
 
   {
     "question": "41 - Quel élément renforce la modernité d’Olympia ?",
     "options": ["Ses références mythologiques", "Son absence de modèle réel", "La frontalité du regard", "La présence d’un paysage"],
     "answerIndex": 2,
-    "explication": "Le modèle regarde le spectateur sans pudeur, ce qui choque le public."
+    "explication": "Le modèle regarde directement le spectateur, ce qui était choquant à l’époque."
   },
   {
     "question": "42 - Quel tableau de Manet est indirectement présent dans le portrait de Zola ?",
     "options": ["Le Balcon", "Olympia", "Le Déjeuner sur l’herbe", "Le Liseur"],
     "answerIndex": 1,
-    "explication": "Une estampe d’Olympia figure au-dessus du bureau de Zola."
+    "explication": "Une image du tableau apparaît dans le décor du portrait."
   },
   {
     "question": "43 - Que représente la gravure d’après Velázquez visible dans le portrait de Zola ?",
     "options": ["Une allégorie", "Un autoportrait", "Un rappel du classicisme espagnol admiré par Manet", "Un paysage historique"],
     "answerIndex": 2,
-    "explication": "Manet se revendique héritier de Velázquez."
+    "explication": "Cela montre que Manet admire les grands peintres espagnols."
   },
   {
     "question": "44 - Quel critique décrit Courbet comme un 'formidable ouvrier' ?",
     "options": ["Champfleury", "Baudelaire", "Zola", "Flaubert"],
     "answerIndex": 1,
-    "explication": "Baudelaire reconnaît la force brute du travail de Courbet."
+    "explication": "Baudelaire souligne la force et l’énergie du travail de Courbet."
   },
   {
     "question": "45 - Pourquoi Baudelaire qualifie-t-il Courbet d’'anti-surnaturaliste' ?",
     "options": ["Parce qu’il peint des scènes religieuses", "Parce qu’il refuse l’imagination", "Parce qu’il nie toute dimension spirituelle dans l’art", "Parce qu’il copie les anciens maîtres"],
     "answerIndex": 2,
-    "explication": "Courbet rejette toute transcendance et se limite au réel visible."
+    "explication": "Courbet refuse toute idée de mystère ou de spiritualité et se concentre sur ce qui est visible."
   },
 
   {
     "question": "46 - Qu’est-ce que la 'vérité brutale' selon Zola ?",
     "options": ["Un style romantique", "Une manière exagérée de décrire", "La force du réel tel qu’il est", "Une technique de peinture"],
     "answerIndex": 2,
-    "explication": "Zola revendique un réalisme énergique et sans fard."
+    "explication": "C’est montrer la réalité sans la rendre jolie, même si elle choque."
   },
   {
     "question": "47 - Quelle œuvre de Balzac est citée comme exemple de réalisme sordide ?",
     "options": ["Le Curé de Tours", "Le Père Goriot", "La Peau de chagrin", "Le Lys dans la vallée"],
     "answerIndex": 1,
-    "explication": "La célèbre description de la pension Vauquer illustre le goût balzacien pour le trivial."
+    "explication": "La description de la pension montre la misère et la saleté du quotidien."
   },
   {
     "question": "48 - Que reprochent les critiques à L’Enterrement à Ornans ?",
     "options": ["Un excès de couleurs", "Un manque de religion", "La laideur supposée des personnages", "Sa petite taille"],
     "answerIndex": 2,
-    "explication": "La représentation sans idéalisation de villageois choque les spectateurs."
+    "explication": "Les personnages ne sont pas embellis, ce qui choque le public."
   },
   {
     "question": "49 - Quel élément donne une dimension politique au réalisme de Courbet ?",
     "options": ["Son engagement monarchiste", "Sa proximité avec Napoléon III", "L’égalité des sujets représentés", "La glorification des rois"],
     "answerIndex": 2,
-    "explication": "Courbet refuse les hiérarchies traditionnelles et peint les gens du peuple comme des sujets dignes."
+    "explication": "Courbet montre que toutes les personnes sont aussi importantes les unes que les autres."
   },
   {
     "question": "50 - Quel lien unit Zola et Manet en 1868 ?",
     "options": ["Zola pose dans un tableau de Manet", "Manet écrit une critique sur Zola", "Ils cosignent un manifeste artistique", "Ils exposent ensemble au Salon officiel"],
     "answerIndex": 0,
-    "explication": "Manet réalise un portrait de Zola en hommage à son soutien critique."
+    "explication": "Manet peint Zola pour le remercier de l’avoir soutenu publiquement."
   }
 ]

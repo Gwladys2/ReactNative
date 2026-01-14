@@ -3,22 +3,22 @@
 "question": "1 - Quel est le premier geste à faire quand tu reçois un sujet commentaire comparé texte/image ?",
 "options": [
 "Commencer directement la rédaction",
-"Lire attentivement les deux œuvres puis repérer le thème commun",
 "Chercher des informations biographiques longues sur les auteurs",
-"Écrire une conclusion provisoire"
+"Écrire une conclusion provisoire",
+"Lire attentivement les deux œuvres puis repérer le thème commun"
 ],
-"answerIndex": 1,
+"answerIndex": 3,
 "explication": "Le premier geste est de lire/observer attentivement les deux œuvres et d'identifier rapidement le thème ou l'idée commune (ici : le paysage). Cela te donne la base pour formuler une problématique et construire ton plan. La biographie ou la rédaction viennent après."
 },
 {
 "question": "2 - Quelle formule décrit le mieux la nature d’un commentaire comparé texte/image ?",
 "options": [
 "Un résumé simultané des deux œuvres",
-"Une confrontation mise en dialogue des deux œuvres pour éclairer un même thème",
 "Une fiche biographique des auteurs",
+"Une confrontation mise en dialogue des deux œuvres pour éclairer un même thème",
 "Une traduction visuelle du texte"
 ],
-"answerIndex": 1,
+"answerIndex": 2,
 "explication": "Le commentaire comparé met les œuvres en dialogue : on compare leurs approches d'un même thème (ressemblances/différences) plutôt que de se contenter de résumer chacune séparément."
 },
 {
@@ -47,22 +47,22 @@
 "question": "5 - Quelle est la fonction de la problématique dans un commentaire comparé ?",
 "options": [
 "Donner une seule phrase de conclusion dès le départ",
-"Poser une question qui guide l'analyse comparative",
 "Énumérer tous les procédés littéraires et picturaux",
-"Remplacer l'annonce de plan"
+"Remplacer l'annonce de plan",
+"Poser une question qui guide l'analyse comparative"
 ],
-"answerIndex": 1,
+"answerIndex": 3,
 "explication": "La problématique est une question qui oriente le commentaire : elle synthétise le point à éclairer en comparant les œuvres (par ex. comment deux œuvres traduisent le sublime?)."
 },
 {
 "question": "6 - Lors de l'annonce du plan, que dois-tu éviter ?",
 "options": [
+ "Repeindre mot pour mot la problématique",   
 "Énoncer clairement les axes de comparaison",
-"Repeindre mot pour mot la problématique",
 "Donner le nombre d'axes",
 "Rédiger la logique du développement"
 ],
-"answerIndex": 1,
+"answerIndex": 0,
 "explication": "Il faut éviter de paraphraser inutilement la problématique. L'annonce de plan doit présenter brièvement la logique du développement (axes), pas répéter la question."
 },
 {
@@ -80,22 +80,22 @@
 "question": "8 - Dans un paragraphe comparatif, quelle organisation est la plus efficace ?",
 "options": [
 "Analyser entièrement le texte puis entièrement l'image, sans lien",
-"Analyser le texte, analyser l'image, puis comparer et mettre en relation",
 "Écrire uniquement des citations",
-"Donner des jugements de valeur sans justification"
+"Donner des jugements de valeur sans justification",
+"Analyser le texte, analyser l'image, puis comparer et mettre en relation"
 ],
-"answerIndex": 1,
+"answerIndex": 3,
 "explication": "La méthode '1-1-Comparer' (texte → image → mise en relation) est pédagogique : elle montre directement comment chaque œuvre traite l'idée et souligne les ressemblances/différences."
 },
 {
 "question": "9 - Que signifie 'sublime' dans le contexte romantique ?",
 "options": [
 "Un goût pour la simplicité et la mesure",
-"Une grandeur qui fascine et dépasse, mêlant beauté et effroi",
 "Un terme exclusivement pictural",
+"Une grandeur qui fascine et dépasse, mêlant beauté et effroi",
 "Une technique de peinture"
 ],
-"answerIndex": 1,
+"answerIndex": 2,
 "explication": "Le sublime romantique désigne une expérience esthétique où la grandeur de la nature provoque admiration et crainte, dépassant la simple beauté harmonieuse."
 },
 {
@@ -112,12 +112,12 @@
 {
 "question": "11 - Qu’observes-tu d’abord dans une image pour l’analyser ?",
 "options": [
+ "La composition (où sont les éléments), la lumière, les couleurs, le mouvement",   
 "La date du musée qui la possède",
-"La composition (où sont les éléments), la lumière, les couleurs, le mouvement",
 "La longévité du cadre",
 "Le prix éventuel de la lithographie"
 ],
-"answerIndex": 1,
+"answerIndex": 0,
 "explication": "Pour analyser une image, commence par la composition, la lumière, les couleurs, la perspective et l'atmosphère : ce sont les éléments qui produisent l'effet visuel et émotionnel."
 },
 {
@@ -135,11 +135,11 @@
 "question": "13 - Que veut montrer l’insert d’éléments musicaux (ex. 'corde de harpe') dans une description de paysage ?",
 "options": [
 "Que l'auteur aime jouer de la harpe",
-"Que le paysage produit une sensation harmonieuse et sonore, métaphore de l'émotion",
 "Que la scène est destinée à un concert",
-"Que l'on doit dessiner des instruments"
+"Que l'on doit dessiner des instruments",
+"Que le paysage produit une sensation harmonieuse et sonore, métaphore de l'émotion"
 ],
-"answerIndex": 1,
+"answerIndex": 3,
 "explication": "L'image musicale traduit la synesthésie : le paysage évoque un son, ce qui renforce l'impression d'harmonie et l'effet émotionnel produit sur le spectateur."
 },
 {
@@ -157,11 +157,11 @@
 "question": "15 - Quel rôle joue la mention d'Ossian et de la 'mythologie des nuages' chez Nodier ?",
 "options": [
 "Elle donne une précision géographique moderne",
-"Elle insère l'exotisme et la référence culturelle pour magnifier l'atmosphère romantique",
 "Elle critique la mythologie",
+"Elle insère l'exotisme et la référence culturelle pour magnifier l'atmosphère romantique",
 "Elle décrit la météo de façon scientifique"
 ],
-"answerIndex": 1,
+"answerIndex": 2,
 "explication": "La référence à Ossian et à la 'mythologie des nuages' crée une coloration exotique et littéraire qui participe à l'effet romantique et mythique du paysage."
 },
 {
@@ -178,34 +178,34 @@
 {
 "question": "17 - Quand tu analyses un passage du texte, que dois-tu faire pour chaque citation ?",
 "options": [
+    "Présenter la citation, l'expliquer mot à mot et montrer son effet sur la lecture",
 "Mettre la citation et la laisser sans commentaire",
-"Présenter la citation, l'expliquer mot à mot et montrer son effet sur la lecture",
 "Changer les mots pour les rendre plus modernes",
 "Supprimer les difficultés"
 ],
-"answerIndex": 1,
+"answerIndex": 0,
 "explication": "Il faut toujours insérer une citation, l'expliquer (procédés, sens) et relier cette explication à ton argumentation afin qu'elle serve la preuve de ton analyse."
 },
 {
 "question": "18 - Quelle est la faiblesse d’une comparaison qui se contente d’aligner des similitudes sans en tirer de perspective critique ?",
 "options": [
 "Elle est parfaite",
-"Elle reste descriptive et ne répond pas à la problématique comparative",
 "Elle devient trop originale",
-"Elle est trop courte"
+"Elle est trop courte",
+"Elle reste descriptive et ne répond pas à la problématique comparative"
 ],
-"answerIndex": 1,
+"answerIndex": 3,
 "explication": "Aligner seulement des ressemblances sans expliquer leur portée ne suffit pas : il faut interpréter, nuancer et montrer en quoi ces ressemblances ou différences éclairent la problématique."
 },
 {
 "question": "19 - Quelle méthode est recommandée pour trouver des axes pertinents ?",
 "options": [
 "Choisir des axes au hasard",
-"Partir du thème commun, puis des effets (émotion) et enfin des moyens (procédés)",
 "Recopier un plan trouvé en ligne sans l'adapter",
+"Partir du thème commun, puis des effets (émotion) et enfin des moyens (procédés)",
 "Écrire d'abord la conclusion"
 ],
-"answerIndex": 1,
+"answerIndex": 2,
 "explication": "Commencer par le thème, puis traiter les effets et enfin les moyens d'expression est une méthode structurée et facile à appliquer pour construire des axes pertinents et progressifs."
 },
 {
@@ -223,11 +223,11 @@
 "question": "21 - Pourquoi est-il utile d’identifier le 'point de vue' (perspective) dans un tableau ?",
 "options": [
 "Parce que cela donne le prix du tableau",
-"Parce que le point de vue (plongée, regard frontal, contre-plongée) influence la relation entre spectateur, sujet et émotion",
 "Parce que cela remplace l'analyse du texte",
-"Parce que cela sert à obtenir la date"
+"Parce que cela sert à obtenir la date",
+"Parce que le point de vue (plongée, regard frontal, contre-plongée) influence la relation entre spectateur, sujet et émotion"
 ],
-"answerIndex": 1,
+"answerIndex": 3,
 "explication": "Le point de vue modifie la perception du sujet : une plongée rend les choses petites et vulnérables, une contre-plongée les grandit, etc. C'est essentiel pour comprendre l'effet produit."
 },
 {
@@ -245,22 +245,22 @@
 "question": "23 - Quelle est la bonne attitude face à une difficulté de compréhension d’un détail ?",
 "options": [
 "L'ignorer et l'inventer",
-"Faire une hypothèse solide basée sur le texte/image et la justifier",
 "Supprimer le passage entier",
-"Copier la réponse d'un camarade"
+"Copier la réponse d'un camarade",
+"Faire une hypothèse solide basée sur le texte/image et la justifier"
 ],
-"answerIndex": 1,
+"answerIndex": 3,
 "explication": "Il vaut mieux formuler une hypothèse argumentée (expliquer pourquoi tu lis le détail ainsi) plutôt que de laisser le vide. L'argumentation est la clé."
 },
 {
 "question": "24 - Quelle remarque comparative sur le registre (ton) est productive ?",
 "options": [
-"Dire que le texte est 'drôle' sans preuve",
 "Identifier si le registre est lyrique, descriptif, pathétique, grave, ironique et montrer des exemples",
+"Dire que le texte est 'drôle' sans preuve",
 "Dire que le ton est 'correct'",
 "Ignorer le registre"
 ],
-"answerIndex": 1,
+"answerIndex": 0,
 "explication": "Repérer le registre (lyrique, descriptif...) et fournir des exemples permet de montrer concrètement comment chaque œuvre cherche à émouvoir ou à persuader."
 },
 {

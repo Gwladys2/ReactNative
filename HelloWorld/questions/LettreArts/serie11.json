@@ -1,0 +1,553 @@
+[
+  {
+    "question": "1 - Dans quel journal est publié « Le Peintre de la vie moderne » de Baudelaire ?",
+    "options": [
+      "La Presse",
+      "Le Figaro",
+      "Le Constitutionnel",
+      "La Revue des Deux Mondes"
+    ],
+    "answerIndex": 1,
+    "explication": "L’essai « Le Peintre de la vie moderne » est publié dans Le Figaro en trois livraisons en novembre et décembre 1863. Ce support journalistique souligne l’inscription de la réflexion de Baudelaire dans l’actualité et la modernité."
+  },
+  {
+    "question": "2 - Quel peintre se cache derrière l’appellation « M. G. » chez Baudelaire ?",
+    "options": [
+      "Constantin Guys",
+      "Eugène Delacroix",
+      "Gustave Courbet",
+      "Jean-François Millet"
+    ],
+    "answerIndex": 0,
+    "explication": "Baudelaire désigne Constantin Guys sous le nom de « M. G. » afin de préserver une certaine discrétion. Guys incarne pour lui le peintre idéal de la vie moderne, observateur attentif du présent."
+  },
+  {
+    "question": "3 - Comment Baudelaire définit-il la modernité ?",
+    "options": [
+      "Un rejet total de la tradition",
+      "Une simple imitation du réel",
+      "Le transitoire, le fugitif et le contingent",
+      "La supériorité du progrès technique"
+    ],
+    "answerIndex": 2,
+    "explication": "Baudelaire définit la modernité comme « le transitoire, le fugitif, le contingent », soit la part changeante de l’art, indissociable de l’éternel. L’artiste doit extraire l’intemporel de l’éphémère."
+  },
+  {
+    "question": "4 - Quelle conception du beau Baudelaire remet-il en cause ?",
+    "options": [
+      "Le beau romantique",
+      "Le beau naturel",
+      "Le beau moral",
+      "Le beau unique et absolu"
+    ],
+    "answerIndex": 3,
+    "explication": "Baudelaire s’oppose à la conception classique d’un beau unique, absolu et intemporel. Il affirme au contraire que le beau est composé d’un élément éternel et d’un élément relatif lié à l’époque."
+  },
+  {
+    "question": "5 - Que doit chercher l’artiste moderne selon Baudelaire ?",
+    "options": [
+      "L’imitation fidèle de l’Antiquité",
+      "L’éternel dans le transitoire",
+      "La pure abstraction",
+      "La provocation morale"
+    ],
+    "answerIndex": 1,
+    "explication": "Pour Baudelaire, l’artiste moderne doit dégager « l’éternel du transitoire », c’est-à-dire révéler une beauté durable à partir des formes éphémères de la vie contemporaine."
+  },
+  {
+    "question": "6 - Pourquoi Baudelaire défend-il l’« habit noir » ?",
+    "options": [
+      "Parce qu’il symbolise la modernité urbaine",
+      "Parce qu’il imite la noblesse ancienne",
+      "Parce qu’il est une mode passagère",
+      "Parce qu’il est imposé par l’Académie"
+    ],
+    "answerIndex": 0,
+    "explication": "L’habit noir représente pour Baudelaire la quintessence de la modernité : un vêtement sobre, uniforme, emblématique de la vie urbaine et bourgeoise du XIXe siècle."
+  },
+  {
+    "question": "7 - Quelle ville incarne principalement la modernité chez Baudelaire ?",
+    "options": [
+      "Londres",
+      "Rome",
+      "Paris",
+      "Venise"
+    ],
+    "answerIndex": 2,
+    "explication": "Paris est au cœur de la réflexion de Baudelaire : métropole en transformation sous Haussmann, elle devient le lieu privilégié de la vie moderne, du mouvement et du spectacle urbain."
+  },
+  {
+    "question": "8 - Quel type d’artiste Constantin Guys représente-t-il avant tout ?",
+    "options": [
+      "Un peintre d’histoire",
+      "Un peintre académique",
+      "Un artiste symboliste",
+      "Un observateur de la vie contemporaine"
+    ],
+    "answerIndex": 3,
+    "explication": "Constantin Guys est présenté comme un observateur passionné de la vie moderne : il saisit les scènes urbaines, mondaines et sociales, privilégiant le présent plutôt que le passé."
+  },
+  {
+    "question": "9 - Quelle technique artistique Baudelaire valorise-t-il chez Guys ?",
+    "options": [
+      "La fresque monumentale",
+      "L’esquisse et le croquis",
+      "La peinture d’atelier",
+      "La sculpture classique"
+    ],
+    "answerIndex": 1,
+    "explication": "Baudelaire valorise l’esquisse, le croquis et la rapidité d’exécution, car ils permettent de saisir le fugitif, le mouvement et l’essence de la modernité."
+  },
+  {
+    "question": "10 - Quel genre littéraire Baudelaire renouvelle-t-il avec Le Spleen de Paris ?",
+    "options": [
+      "Le poème en prose",
+      "La tragédie",
+      "Le sonnet",
+      "L’épopée"
+    ],
+    "answerIndex": 0,
+    "explication": "Avec Le Spleen de Paris, Baudelaire renouvelle le poème en prose, forme souple et fragmentée, capable de rendre les mouvements de l’âme et le rythme de la vie moderne."
+  },
+  {
+    "question": "11 - Quelle œuvre inspire Baudelaire pour le poème en prose ?",
+    "options": [
+      "Les Contemplations",
+      "Les Illuminations",
+      "Gaspard de la Nuit",
+      "Les Chants de Maldoror"
+    ],
+    "answerIndex": 2,
+    "explication": "Baudelaire s’inspire de Gaspard de la Nuit d’Aloysius Bertrand, qu’il admire pour sa capacité à transposer en prose les effets poétiques et picturaux."
+  },
+  {
+    "question": "12 - En quelle année Les Fleurs du mal sont-elles publiées ?",
+    "options": [
+      "1848",
+      "1861",
+      "1869",
+      "1857"
+    ],
+    "answerIndex": 3,
+    "explication": "Les Fleurs du mal paraissent en 1857. Le recueil est rapidement condamné pour outrage aux bonnes mœurs, ce qui marque durablement sa réception."
+  },
+  {
+    "question": "13 - Quel thème est central dans Les Fleurs du mal ?",
+    "options": [
+      "La célébration du progrès",
+      "Le spleen et le mal-être moderne",
+      "L’héroïsme antique",
+      "La foi religieuse triomphante"
+    ],
+    "answerIndex": 1,
+    "explication": "Le spleen, forme de mélancolie profonde et d’angoisse existentielle, est un thème central du recueil et exprime le malaise du poète face à la modernité."
+  },
+  {
+    "question": "14 - Comment peut-on définir le romantisme de Baudelaire ?",
+    "options": [
+      "Un romantisme naïf et lyrique",
+      "Un romantisme historique",
+      "Un romantisme social",
+      "Un romantisme déchiré et moderne"
+    ],
+    "answerIndex": 3,
+    "explication": "Le romantisme de Baudelaire est dit « déchiré » car il oscille entre aspiration à l’idéal et chute dans le spleen, entre élévation et damnation."
+  },
+  {
+    "question": "15 - Quelle image domine dans le poème « Spleen LXXVIII » ?",
+    "options": [
+      "La lumière triomphante",
+      "Le voyage exotique",
+      "L’enfermement et l’oppression",
+      "La communion avec la nature"
+    ],
+    "answerIndex": 2,
+    "explication": "Le poème est dominé par des images d’enfermement (couvercle, cachot, prison), traduisant l’oppression psychique et l’angoisse du spleen."
+  },
+   {
+    "question": "16 - Quel reproche Baudelaire adresse-t-il au romantisme traditionnel ?",
+    "options": [
+      "Son absence d’émotion",
+      "Son refus de la nature",
+      "Son attachement excessif à la science",
+      "Son culte du passé et de la couleur locale"
+    ],
+    "answerIndex": 3,
+    "explication": "Baudelaire critique le romantisme pour son attachement au passé et à la « couleur locale », qui détourne l’art de la représentation du présent et de la vie moderne."
+  },
+  {
+    "question": "17 - Quel rôle joue la ville moderne dans l’esthétique baudelairienne ?",
+    "options": [
+      "Elle est un simple décor",
+      "Elle est une source majeure d’inspiration artistique",
+      "Elle représente la décadence sans intérêt",
+      "Elle doit être idéalisée"
+    ],
+    "answerIndex": 1,
+    "explication": "La ville moderne, en particulier Paris, est une source essentielle d’inspiration : elle concentre le mouvement, la foule, la mode et les transformations du monde contemporain."
+  },
+  {
+    "question": "18 - Quel public nouveau influence la production artistique au XIXe siècle ?",
+    "options": [
+      "La bourgeoisie du commerce et de la banque",
+      "L’aristocratie d’Ancien Régime",
+      "Le clergé",
+      "Le monde rural"
+    ],
+    "answerIndex": 0,
+    "explication": "Baudelaire et ses contemporains constatent l’émergence d’un nouveau public bourgeois, lié au commerce et à la banque, qui consomme et influence les œuvres d’art."
+  },
+  {
+    "question": "19 - Que recherchent les peintres comme Caillebotte ou Pissarro dans la ville ?",
+    "options": [
+      "La mythologie antique",
+      "La reconstitution historique",
+      "Des effets visuels inédits du paysage urbain",
+      "La nature sauvage"
+    ],
+    "answerIndex": 2,
+    "explication": "Ces peintres explorent les perspectives nouvelles, les carrefours, les vues en hauteur et les effets de lumière propres à la ville moderne en mutation."
+  },
+  {
+    "question": "20 - Quel événement historique Constantin Guys couvre-t-il comme reporter ?",
+    "options": [
+      "La Révolution française",
+      "La guerre franco-prussienne",
+      "La Commune de Paris",
+      "La guerre de Crimée"
+    ],
+    "answerIndex": 3,
+    "explication": "Constantin Guys travaille comme reporter, notamment pour L’Illustrated London News, et couvre la guerre de Crimée, ce qui développe son regard vif et rapide."
+  },
+  {
+    "question": "21 - Quelle attitude Baudelaire attribue-t-il à Constantin Guys face à la vie moderne ?",
+    "options": [
+      "Un regard mélancolique",
+      "Un enthousiasme curieux et attentif",
+      "Un rejet critique",
+      "Une indifférence distante"
+    ],
+    "answerIndex": 1,
+    "explication": "Baudelaire décrit Guys comme un observateur enthousiaste, sensible à l’harmonie et à la beauté de la vie moderne malgré son tumulte."
+  },
+  {
+    "question": "22 - Quelle qualité essentielle définit l’artiste moderne selon Baudelaire ?",
+    "options": [
+      "La curiosité",
+      "La rigueur scientifique",
+      "La discipline académique",
+      "La foi religieuse"
+    ],
+    "answerIndex": 0,
+    "explication": "Baudelaire fait de la curiosité une vertu centrale de l’artiste moderne : elle lui permet d’explorer le monde, les foules, la mode et les métamorphoses du présent."
+  },
+  {
+    "question": "23 - Quel lien Baudelaire établit-il entre poésie et peinture ?",
+    "options": [
+      "La poésie doit imiter la peinture",
+      "La peinture doit illustrer la poésie",
+      "Les deux arts sont indépendants",
+      "Les deux arts partagent une même quête de l’essentiel"
+    ],
+    "answerIndex": 3,
+    "explication": "Baudelaire insiste sur une convergence des arts : poésie et peinture cherchent à saisir l’essentiel, le fugitif et l’éternel, chacune avec ses moyens propres."
+  },
+  {
+    "question": "24 - Pourquoi le croquis est-il supérieur à l’œuvre achevée pour Baudelaire ?",
+    "options": [
+      "Il est plus décoratif",
+      "Il est plus fidèle au réel",
+      "Il est plus facile à vendre",
+      "Il conserve la trace du mouvement et de l’instant"
+    ],
+    "answerIndex": 3,
+    "explication": "Le croquis permet de capter l’instant, l’énergie et la mobilité du réel, qualités essentielles pour représenter la modernité."
+  },
+  {
+    "question": "25 - Quelle forme poétique correspond le mieux à la vie moderne selon Baudelaire ?",
+    "options": [
+      "L’ode",
+      "Le poème en prose",
+      "Le sonnet classique",
+      "L’épopée"
+    ],
+    "answerIndex": 1,
+    "explication": "Le poème en prose offre une forme libre, fragmentée et souple, adaptée aux rythmes discontinus et aux chocs de la vie moderne."
+  },
+  {
+    "question": "26 - À qui Baudelaire adresse-t-il la préface du Spleen de Paris ?",
+    "options": [
+      "Arsène Houssaye",
+      "Victor Hugo",
+      "Théophile Gautier",
+      "Aloysius Bertrand"
+    ],
+    "answerIndex": 0,
+    "explication": "Baudelaire adresse la préface du Spleen de Paris à Arsène Houssaye, expliquant son projet d’une prose poétique adaptée à la modernité."
+  },
+  {
+    "question": "27 - Quel idéal Baudelaire juge-t-il impossible à atteindre durablement ?",
+    "options": [
+      "L’idéal politique",
+      "L’idéal esthétique absolu",
+      "L’idéal religieux",
+      "L’idéal scientifique"
+    ],
+    "answerIndex": 1,
+    "explication": "Dans Les Fleurs du mal, l’idéal est sans cesse recherché mais toujours menacé par la chute et le spleen, ce qui rend son accomplissement impossible."
+  },
+  {
+    "question": "28 - Pourquoi Les Fleurs du mal ont-elles été condamnées en 1857 ?",
+    "options": [
+      "Pour hérésie religieuse",
+      "Pour critique politique",
+      "Pour atteinte à la monarchie",
+      "Pour outrage aux bonnes mœurs"
+    ],
+    "answerIndex": 3,
+    "explication": "Le recueil est condamné pour outrage aux bonnes mœurs en raison de ses thèmes jugés scandaleux : érotisme, péché, damnation et spleen."
+  },
+  {
+    "question": "29 - Quelle figure symbolise le poète moderne chez Baudelaire ?",
+    "options": [
+      "Le prophète",
+      "Le flâneur",
+      "Le sage",
+      "Le héros"
+    ],
+    "answerIndex": 1,
+    "explication": "Le flâneur incarne le poète moderne : il observe la foule, la ville et les spectacles urbains tout en gardant une distance réflexive."
+  },
+  {
+    "question": "30 - Quelle tension structure l’œuvre de Baudelaire ?",
+    "options": [
+      "Entre idéal et spleen",
+      "Entre foi et raison",
+      "Entre nature et culture",
+      "Entre passé et avenir"
+    ],
+    "answerIndex": 0,
+    "explication": "L’œuvre de Baudelaire est structurée par la tension constante entre l’aspiration à l’idéal et l’expérience douloureuse du spleen, qui empêche toute harmonie durable."
+  },
+  {
+    "question": "31 - Quel sentiment domine dans l’expérience du spleen chez Baudelaire ?",
+    "options": [
+      "La joie",
+      "La sérénité",
+      "L’angoisse existentielle",
+      "L’enthousiasme"
+    ],
+    "answerIndex": 2,
+    "explication": "Le spleen se caractérise par une angoisse profonde, un sentiment d’oppression et de vide existentiel qui envahit le poète moderne."
+  },
+  {
+    "question": "32 - Quelle métaphore exprime l’écrasement psychologique dans « Spleen LXXVIII » ?",
+    "options": [
+      "La mer déchaînée",
+      "La nuit étoilée",
+      "Le désert",
+      "Le ciel bas et lourd comme un couvercle"
+    ],
+    "answerIndex": 3,
+    "explication": "Le « ciel bas et lourd » agit comme un couvercle qui écrase l’esprit, métaphore puissante de l’oppression mentale et morale du spleen."
+  },
+  {
+    "question": "33 - Quelle place occupe le mal dans Les Fleurs du mal ?",
+    "options": [
+      "Il est marginal",
+      "Il est au cœur de l’expérience poétique",
+      "Il est nié",
+      "Il est seulement moral"
+    ],
+    "answerIndex": 1,
+    "explication": "Le mal est central : il structure la vision du monde de Baudelaire, entre chute, péché, fascination et lucidité sur la condition humaine."
+  },
+  {
+    "question": "34 - Quelle figure religieuse est souvent inversée chez Baudelaire ?",
+    "options": [
+      "La figure du sacré",
+      "La figure du prophète",
+      "La figure de l’ange",
+      "La figure du saint"
+    ],
+    "answerIndex": 0,
+    "explication": "Baudelaire pratique une sacralité inversée : le sacré est détourné, mêlé au péché et à la damnation, ce qui choque la morale de son époque."
+  },
+  {
+    "question": "35 - Que symbolise la ville dans les poèmes urbains de Baudelaire ?",
+    "options": [
+      "La nature originelle",
+      "Le refuge spirituel",
+      "La modernité ambivalente",
+      "L’harmonie sociale"
+    ],
+    "answerIndex": 2,
+    "explication": "La ville est à la fois fascinante et infernale : elle incarne la modernité, le spectacle, mais aussi la corruption et l’aliénation."
+  },
+  {
+    "question": "36 - Quelle posture adopte le poète face à la foule ?",
+    "options": [
+      "Il s’y dissout complètement",
+      "Il la méprise",
+      "Il la fuit",
+      "Il l’observe tout en restant à distance"
+    ],
+    "answerIndex": 3,
+    "explication": "Le poète moderne se mêle à la foule mais conserve une distance critique : cette posture correspond à la figure du flâneur."
+  },
+  {
+    "question": "37 - Quelle qualité permet au flâneur de comprendre la modernité ?",
+    "options": [
+      "La discipline",
+      "La curiosité et l’observation",
+      "La solitude absolue",
+      "La nostalgie"
+    ],
+    "answerIndex": 1,
+    "explication": "La curiosité permet au flâneur d’observer les détails, les gestes et les scènes éphémères qui révèlent l’esprit de la modernité."
+  },
+  {
+    "question": "38 - Quelle opposition structure la poétique baudelairienne ?",
+    "options": [
+      "Éternel / transitoire",
+      "Campagne / ville",
+      "Art / science",
+      "Beauté / laideur"
+    ],
+    "answerIndex": 0,
+    "explication": "Baudelaire pense l’art comme une tension entre l’éternel et le transitoire : la beauté naît de leur combinaison."
+  },
+  {
+    "question": "39 - Pourquoi Baudelaire valorise-t-il la mode ?",
+    "options": [
+      "Parce qu’elle est superficielle",
+      "Parce qu’elle imite le passé",
+      "Parce qu’elle révèle l’esprit d’une époque",
+      "Parce qu’elle est universelle"
+    ],
+    "answerIndex": 2,
+    "explication": "La mode est essentielle car elle exprime le caractère éphémère et historique de la modernité, tout en contenant une part poétique."
+  },
+  {
+    "question": "40 - Quel rôle joue l’imagination chez l’artiste moderne ?",
+    "options": [
+      "Elle déforme la réalité",
+      "Elle est secondaire",
+      "Elle est inutile",
+      "Elle transfigure le réel"
+    ],
+    "answerIndex": 3,
+    "explication": "L’imagination permet de transformer le réel brut en œuvre d’art, en révélant sa dimension poétique et symbolique."
+  },
+  {
+    "question": "41 - Quelle critique Baudelaire adresse-t-il à l’art purement réaliste ?",
+    "options": [
+      "Il manque de spiritualité",
+      "Il est trop abstrait",
+      "Il est trop ancien",
+      "Il est trop élitiste"
+    ],
+    "answerIndex": 1,
+    "explication": "Baudelaire reproche au réalisme de se limiter à l’imitation du réel sans transfiguration poétique ni quête de sens."
+  },
+  {
+    "question": "42 - Quel rapport Baudelaire entretient-il avec le progrès ?",
+    "options": [
+      "Il en est méfiant et critique",
+      "Il l’idéalise",
+      "Il le rejette totalement",
+      "Il l’ignore"
+      
+    ],
+    "answerIndex": 0,
+    "explication": "Baudelaire se montre méfiant face au progrès matériel, qu’il juge incapable d’apporter un véritable progrès moral ou spirituel."
+  },
+  {
+    "question": "43 - Quelle figure féminine est récurrente chez Baudelaire ?",
+    "options": [
+      "La femme rédemptrice",
+      "La femme maternelle",
+      "La femme fatale et ambivalente",
+      "La femme absente"
+    ],
+    "answerIndex": 2,
+    "explication": "La femme baudelairienne est souvent ambivalente : source d’élévation idéale mais aussi de chute et de damnation."
+  },
+  {
+    "question": "44 - Quelle vision du monde moderne domine chez Baudelaire ?",
+    "options": [
+      "Optimiste",
+      "Utopique",
+      "Harmonieuse",
+      "Lucide et tragique"
+    ],
+    "answerIndex": 3,
+    "explication": "Baudelaire porte un regard lucide et tragique sur la modernité, conscient de ses séductions mais aussi de ses impasses."
+  },
+  {
+    "question": "45 - Quel rôle joue la souffrance dans la création poétique ?",
+    "options": [
+      "Elle est un obstacle",
+      "Elle est une source essentielle",
+      "Elle est inutile",
+      "Elle doit être effacée"
+    ],
+    "answerIndex": 1,
+    "explication": "La souffrance nourrit la création poétique : elle permet au poète d’explorer les profondeurs de l’âme humaine."
+  },
+  {
+    "question": "46 - Quelle image résume le mieux la condition du poète moderne ?",
+    "options": [
+      "L’albatros entravé",
+      "Le roi",
+      "Le prophète",
+      "Le soldat"
+    ],
+    "answerIndex": 0,
+    "explication": "L’albatros symbolise le poète : majestueux dans l’idéal, mais maladroit et humilié dans le monde réel."
+  },
+  {
+    "question": "47 - Quelle fonction Baudelaire attribue-t-il à l’art ?",
+    "options": [
+      "Divertir",
+      "Instruire moralement",
+      "Révéler une vérité poétique",
+      "Imiter la nature"
+    ],
+    "answerIndex": 2,
+    "explication": "L’art doit révéler une vérité poétique et existentielle, au-delà de la simple imitation ou de la morale."
+  },
+  {
+    "question": "48 - Quelle attitude Baudelaire adopte-t-il face à la morale bourgeoise ?",
+    "options": [
+      "Il s’y conforme",
+      "Il la défend",
+      "Il l’ignore",
+      "Il la provoque et la transgresse"
+    ],
+    "answerIndex": 3,
+    "explication": "Baudelaire provoque la morale bourgeoise en explorant des thèmes tabous comme l’érotisme, le mal et la damnation."
+  },
+  {
+    "question": "49 - Pourquoi Baudelaire est-il considéré comme un poète de la modernité ?",
+    "options": [
+      "Parce qu’il rompt avec toute tradition",
+      "Parce qu’il représente son époque dans sa complexité",
+      "Parce qu’il célèbre le progrès",
+      "Parce qu’il écrit uniquement en prose"
+    ],
+    "answerIndex": 1,
+    "explication": "Baudelaire incarne la modernité en saisissant les tensions, les contradictions et les bouleversements de son époque."
+  },
+  {
+    "question": "50 - Quelle formule résume le mieux la poétique de Baudelaire ?",
+    "options": [
+      "Chercher l’éternel dans le transitoire",
+      "Imiter fidèlement le réel",
+      "Fuir le présent",
+      "Glorifier le passé"
+    ],
+    "answerIndex": 0,
+    "explication": "Toute la poétique de Baudelaire repose sur cette formule : extraire une beauté éternelle à partir des formes fugitives du monde moderne."
+  }
+]

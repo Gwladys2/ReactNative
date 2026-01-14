@@ -1,0 +1,552 @@
+[
+  {
+    "question": "1 - Pourquoi le méridien de la Vessie est-il classé Tai Yang ?",
+    "options": [
+      "Parce qu’il est le plus superficiel",
+      "Parce qu’il contient beaucoup de Sang",
+      "Parce qu’il contrôle les muscles",
+      "Parce qu’il est le plus profond"
+    ],
+    "answerIndex": 0,
+    "explication": "Tai Yang signifie « Extrême Yang » : le méridien de la Vessie est très superficiel."
+  },
+  {
+    "question": "2 - Quel type de céphalée est typiquement lié au méridien de la Vessie ?",
+    "options": [
+      "Frontale",
+      "Occipitale",
+      "Orbitaire",
+      "Temporale"
+    ],
+    "answerIndex": 1,
+    "explication": "Les céphalées Tai Yang débutent à la nuque et remontent vers l’arrière du crâne."
+  },
+  {
+    "question": "3 - À quoi servent principalement les points Shu du dos (V13 à V23) ?",
+    "options": [
+      "Traiter uniquement les douleurs dorsales",
+      "Réguler les organes Zang et Fu",
+      "Tonifier les muscles",
+      "Traiter uniquement les émotions"
+    ],
+    "answerIndex": 1,
+    "explication": "Les points Shu du dos sont en relation directe avec les organes internes."
+  },
+  {
+    "question": "4 - Quel point est le plus important parmi les trous sacrés de la Vessie ?",
+    "options": [
+      "V31",
+      "V34",
+      "V33",
+      "V32"
+    ],
+    "answerIndex": 3,
+    "explication": "V32 est le plus utilisé, notamment en gynécologie."
+  },
+  {
+    "question": "5 - Pourquoi V32 est-il très utilisé en obstétrique ?",
+    "options": [
+      "Il calme les douleurs lombaires",
+      "Il nourrit le Sang",
+      "Il stimule les contractions utérines",
+      "Il fait descendre le Yang"
+    ],
+    "answerIndex": 2,
+    "explication": "V32 favorise la dilatation du col et les contractions."
+  },
+  {
+    "question": "6 - Quel est le point He (mer) du méridien de la Vessie ?",
+    "options": [
+      "V36",
+      "V40",
+      "V60",
+      "V57"
+    ],
+    "answerIndex": 1,
+    "explication": "V40 est le point He du méridien de la Vessie."
+  },
+  {
+    "question": "7 - Pourquoi V60 est-il appelé le « point aspirine » ?",
+    "options": [
+      "Il agit sur la fièvre élevée",
+      "Il calme les douleurs de type froid",
+      "Il endort profondément",
+      "Il agit sur les migraines"
+    ],
+    "answerIndex": 1,
+    "explication": "V60 est très efficace contre les douleurs de type vent-froid."
+  },
+  {
+    "question": "8 - Quel point marque la fin du méridien de la Vessie ?",
+    "options": [
+      "V57",
+      "V60",
+      "V62",
+      "V67"
+    ],
+    "answerIndex": 3,
+    "explication": "V67 est le dernier point du méridien de la Vessie."
+  },
+  {
+    "question": "9 - Pourquoi le méridien de l’Estomac contient-il beaucoup de Qi et de Sang ?",
+    "options": [
+      "Parce qu’il est Yin",
+      "Parce qu’il nourrit les muscles et le visage",
+      "Parce qu’il agit sur les os",
+      "Parce qu’il est couplé au Foie"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Yang Ming nourrit muscles et visage."
+  },
+  {
+    "question": "10 - Quels signes indiquent un Feu de l’Estomac ?",
+    "options": [
+      "Fatigue et frilosité",
+      "Œdèmes et diarrhées",
+      "Acné, gingivite, douleurs de gorge",
+      "Douleurs lombaires"
+    ],
+    "answerIndex": 2,
+    "explication": "Le Feu de l’Estomac donne des signes inflammatoires."
+  },
+  {
+    "question": "11 - Quel est le point Mu du Gros Intestin ?",
+    "options": [
+      "E36",
+      "E40",
+      "E24",
+      "E25"
+    ],
+    "answerIndex": 3,
+    "explication": "E25 est le point Mu du Gros Intestin."
+  },
+  {
+    "question": "12 - Pourquoi E36 est-il appelé « pied trois miles » ?",
+    "options": [
+      "Il agit sur la marche",
+      "Il renforce les os",
+      "Il permet de retrouver de l’énergie et de marcher longtemps",
+      "Il agit sur la vision"
+    ],
+    "answerIndex": 2,
+    "explication": "E36 redonne force et endurance."
+  },
+  {
+    "question": "13 - Quel point est majeur pour dissoudre les Tan (mucosités) ?",
+    "options": [
+      "Rte9",
+      "E25",
+      "E36",
+      "E40"
+    ],
+    "answerIndex": 3,
+    "explication": "E40 est le point clé pour dissoudre les mucosités."
+  },
+  {
+    "question": "14 - À quoi sert principalement le méridien de la Vésicule Biliaire ?",
+    "options": [
+      "Posture et équilibre latéral",  
+      "Respiration",
+      "Digestion",
+      "Circulation du Sang"
+    ],
+    "answerIndex": 0,
+    "explication": "La VB joue un rôle majeur dans l’équilibre latéral."
+  },
+  {
+    "question": "15 - Pourquoi le Shao Yang est-il appelé « énergie charnière » ?",
+    "options": [
+      "Il nourrit les organes",
+      "Il fait passer du Yin au Yang",
+      "Il stocke le Sang",
+      "Il est très profond"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Shao Yang agit comme un pivot énergétique."
+  },
+  {
+    "question": "16 - Quel point est un grand point de désintoxication ?",
+    "options": [
+      "VB20",
+      "VB8",
+      "VB41",
+      "VB34"
+    ],
+    "answerIndex": 1,
+    "explication": "VB8 est utilisé pour les intoxications et dépendances."
+  },
+  {
+    "question": "17 - Quel point est majeur pour le vent interne et externe ?",
+    "options": [
+      "VB34",
+      "VB30",
+      "VB20",
+      "VB21"
+    ],
+    "answerIndex": 2,
+    "explication": "VB20 est le point clé du vent."
+  },
+  {
+    "question": "18 - Quel point agit directement sur le nerf sciatique ?",
+    "options": [
+      "VB30",
+      "VB34",
+      "V36",
+      "Rte6"
+    ],
+    "answerIndex": 0,
+    "explication": "VB30 est situé sur le trajet du nerf sciatique."
+  },
+  {
+    "question": "19 - Quel est le point Hui des tendons et ligaments ?",
+    "options": [
+      "E36",
+      "VB34",
+      "VB30",
+      "F3"
+    ],
+    "answerIndex": 1,
+    "explication": "VB34 est le point de réunion des tendons."
+  },
+  {
+    "question": "20 - Pourquoi l’énergie des Reins doit-elle toujours être tonifiée ?",
+    "options": [
+      "Parce qu’elle agit sur les muscles",
+      "Parce qu’elle ne peut jamais être dispersée",
+      "Parce qu’elle est toujours en excès",
+      "Parce qu’elle est Yang"
+    ],
+    "answerIndex": 1,
+    "explication": "Il n’existe pas d’excès d’énergie des Reins."
+  },
+  {
+    "question": "21 - Quel point du Rein fait descendre le Feu Vide ?",
+    "options": [
+      "R3",
+      "R6",
+      "R1",
+      "R10"
+    ],
+    "answerIndex": 2,
+    "explication": "R1 fait descendre le Feu Vide."
+  },
+  {
+    "question": "22 - Quel est le point Yuan du méridien des Reins ?",
+    "options": [
+      "R10",
+      "R3",
+      "R1",
+      "R6"
+    ],
+    "answerIndex": 1,
+    "explication": "R3 est le point Yuan des Reins."
+  },
+  {
+    "question": "23 - Quel point ouvre le Yin Qiao Mai ?",
+    "options": [
+      "V62",
+      "R1",
+      "R6",
+      "R3"
+    ],
+    "answerIndex": 2,
+    "explication": "R6 ouvre le Yin Qiao Mai."
+  },
+  {
+    "question": "24 - Quel organe contrôle la libre circulation du Qi ?",
+    "options": [
+      "Cœur",
+      "Foie",
+      "Rate",
+      "Reins"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Foie assure la libre circulation du Qi."
+  },
+  {
+    "question": "25 - À quel élément est associé le Foie ?",
+    "options": [
+      "Feu",
+      "Métal",
+      "Bois",
+      "Terre"
+    ],
+    "answerIndex": 2,
+    "explication": "Le Foie appartient à l’élément Bois."
+  },
+  {
+    "question": "26 - Quel point est le point Yuan du Foie ?",
+    "options": [
+      "F2",
+      "F8",
+      "F1",
+      "F3"
+    ],
+    "answerIndex": 3,
+    "explication": "F3 est le point Yuan du Foie."
+  },
+  {
+    "question": "27 - Quel point rafraîchit le Feu du Foie ?",
+    "options": [
+      "F1",
+      "F2",
+      "VB34",
+      "F3"
+    ],
+    "answerIndex": 1,
+    "explication": "F2 élimine la chaleur du Foie."
+  },
+  {
+    "question": "28 - Quel méridien contrôle les muscles et l’homéostasie ?",
+    "options": [
+      "Foie",
+      "Rate",
+      "Reins",
+      "Poumon"
+    ],
+    "answerIndex": 1,
+    "explication": "La Rate contrôle les muscles."
+  },
+  {
+    "question": "29 - Quel est le point Jing du méridien de la Rate ?",
+    "options": [
+      "Rte1",
+      "Rte3",
+      "Rte6",
+      "Rte4"
+    ],
+    "answerIndex": 0,
+    "explication": "Rte1 est un point Jing."
+  },
+  {
+    "question": "30 - Quel point est un grand point de tonification de la Rate ?",
+    "options": [
+      "Rte6",
+      "Rte3",
+      "Rte9",
+      "Rte1"
+    ],
+    "answerIndex": 1,
+    "explication": "Rte3 est le point Yuan de la Rate."
+  },
+  {
+    "question": "31 - Quel point ouvre le Chong Mai ?",
+    "options": [
+      "Rte6",
+      "Rte9",
+      "Rte3",
+      "Rte4"
+    ],
+    "answerIndex": 3,
+    "explication": "Rte4 est le point d’ouverture du Chong Mai."
+  },
+  {
+    "question": "32 - Quel point est fondamental pour nourrir les trois Yin ?",
+    "options": [
+      "Rte9",
+      "Rte6",
+      "Rte10",
+      "Rte4"
+    ],
+    "answerIndex": 1,
+    "explication": "Rte6 croise Foie, Rate et Reins."
+  },
+  {
+    "question": "33 - Quel point est majeur pour éliminer l’Humidité ?",
+    "options": [
+      "E40",
+      "Rte9",
+      "Rte6",
+      "Rte10"
+    ],
+    "answerIndex": 1,
+    "explication": "Rte9 élimine l’Humidité."
+  },
+  {
+    "question": "34 - Quel point est appelé la « Mer du Sang » ?",
+    "options": [
+      "V17",
+      "F3",
+      "Rte6",
+      "Rte10"
+    ],
+    "answerIndex": 3,
+    "explication": "Rte10 est la Mer du Sang."
+  },
+  {
+    "question": "35 - Quel méridien est associé aux émotions de la rumination ?",
+    "options": [
+      "Cœur",
+      "Foie",
+      "Rate",
+      "Poumon"
+    ],
+    "answerIndex": 2,
+    "explication": "La rumination affecte la Rate."
+  },
+  {
+    "question": "36 - Quel méridien est le plus impliqué dans les migraines temporales ?",
+    "options": [
+      "Vessie",
+      "Vésicule Biliaire",
+      "Foie",
+      "Estomac"
+    ],
+    "answerIndex": 1,
+    "explication": "Les migraines temporales relèvent de la VB."
+  },
+  {
+    "question": "37 - Quel point est contre-indiqué pendant la grossesse ?",
+    "options": [
+      "Rte6",
+      "E36",
+      "VB34",
+      "R3"
+    ],
+    "answerIndex": 0,
+    "explication": "Rte6 peut déclencher les contractions."
+  },
+  {
+    "question": "38 - Quel méridien est associé au vent interne ?",
+    "options": [
+      "Foie",
+      "Rate",
+      "Poumon",
+      "Reins"
+    ],
+    "answerIndex": 0,
+    "explication": "Le Foie est lié au vent interne."
+  },
+  {
+    "question": "39 - Quel point est utilisé pour retourner un fœtus ?",
+    "options": [
+      "R1",
+      "VB41",
+      "V67",
+      "V60"
+    ],
+    "answerIndex": 2,
+    "explication": "V67 est utilisé pour la version fœtale."
+  },
+  {
+    "question": "40 - Quel méridien est couplé au Gros Intestin ?",
+    "options": [
+      "Vessie",
+      "Foie",
+      "Rate",
+      "Estomac"
+    ],
+    "answerIndex": 3,
+    "explication": "Le GI est couplé à l’Estomac."
+  },
+  {
+    "question": "41 - Quel point est un point diagnostic majeur du système digestif ?",
+    "options": [
+      "Rte3",
+      "E36",
+      "E25",
+      "Rte9"
+    ],
+    "answerIndex": 1,
+    "explication": "La sensibilité de E36 reflète l’état digestif."
+  },
+  {
+    "question": "42 - Quel méridien commence au pied et se termine à la tête ?",
+    "options": [
+      "Estomac",
+      "Foie",
+      "Vessie",
+      "Rate"
+    ],
+    "answerIndex": 2,
+    "explication": "La Vessie va du pied à la tête."
+  },
+  {
+    "question": "43 - Quel point est utilisé pour les troubles de jour (épilepsie diurne) ?",
+    "options": [
+      "R6",
+      "E36",
+      "R3",
+      "V62"
+    ],
+    "answerIndex": 3,
+    "explication": "V62 est lié aux troubles diurnes."
+  },
+  {
+    "question": "44 - Quel méridien est lié aux oreilles et aux vertiges ?",
+    "options": [
+      "Foie",
+      "Vésicule Biliaire",
+      "Reins",
+      "Estomac"
+    ],
+    "answerIndex": 1,
+    "explication": "La VB entoure l’oreille."
+  },
+  {
+    "question": "45 - Quel point calme l’esprit et ancre l’énergie ?",
+    "options": [
+      "R1",
+      "R6",
+      "F3",
+      "R3"
+    ],
+    "answerIndex": 0,
+    "explication": "R1 fait descendre l’énergie excessive."
+  },
+  {
+    "question": "46 - Quel méridien est responsable de la nutrition des yeux ?",
+    "options": [
+      "Rate",
+      "Cœur",
+      "Foie",
+      "Reins"
+    ],
+    "answerIndex": 2,
+    "explication": "Les yeux sont les orifices du Foie."
+  },
+  {
+    "question": "47 - Quel point est utilisé dans les troubles du cycle menstruel ?",
+    "options": [
+      "VB34",
+      "E36",
+      "Rte6",
+      "V40"
+    ],
+    "answerIndex": 2,
+    "explication": "Rte6 est majeur en gynécologie."
+  },
+  {
+    "question": "48 - Quel méridien est associé à la Terre ?",
+    "options": [
+      "Rate",
+      "Poumon",
+      "Foie",
+      "Reins"
+    ],
+    "answerIndex": 0,
+    "explication": "La Rate appartient à l’élément Terre."
+  },
+  {
+    "question": "49 - Quel point est majeur pour les troubles de l’Humidité chronique ?",
+    "options": [
+      "E40",
+      "Rte3",
+      "Rte9",
+      "F3"
+    ],
+    "answerIndex": 2,
+    "explication": "Rte9 élimine l’Humidité chronique."
+  },
+  {
+    "question": "50 - Quel méridien est central dans la gestion du stress émotionnel ?",
+    "options": [
+      "Cœur",
+      "Foie",
+      "Rate",
+      "Reins"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Foie régule les émotions et le stress."
+  }
+]

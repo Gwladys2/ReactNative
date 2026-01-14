@@ -7,7 +7,7 @@ import { View, Text, TouchableOpacity, StyleSheet } from 'react-native';
 const HomeScreen2 = ({ navigation }) => {
   const niveaux = [
     { label: 'Théorie fondamentale', screen: 'Qi' },
-    { label: "Les méridiens", screen: 'PsychoEducation' },
+    { label: "Les méridiens", screen: 'PointAcup' },
     { label: "Le diagnostique chinois", screen: 'PhiloEducation' },
     { label: "La diététique chinoise", screen: 'LettresArts' },
     { label: "Les procédés acupuncturaux", screen: 'AnalyseArts' },

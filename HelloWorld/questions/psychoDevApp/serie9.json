@@ -219,7 +219,7 @@
       "Les émotions",
       "La mémoire adulte"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explication": "Le langage doit être appris tôt car le cerveau est particulièrement sensible à cette période."
   },
 
@@ -274,7 +274,7 @@
   {
     "question": "25 - Les biais de raisonnement sont :",
     "options": [
-      "Des erreurs aléatoires",
+      "Des erreurs de raisonnement",
       "Des tendances systématiques",
       "Des troubles cognitifs",
       "Des maladies"

@@ -1,6 +1,6 @@
 import React, { useContext, useState } from 'react';
 import { View, Text, Button, StyleSheet, Alert } from 'react-native';
-import questions from '../../../questions/MTC/MTC1/serie4.json';
+import questions from '../../../questions/MTC/MTC2/serie2.json';
 import { ProgressContext } from '../../../context/ProgressContext';
 import HeaderStats from '../../../components/HeaderStats';
 import { ScrollView } from 'react-native';
@@ -63,7 +63,7 @@ export default function LessonScreen({ navigation }) {
             <Logo/>
             {!showRestart ? (
                 <>
-                    <Text style={styles.titre}> Les organes et entrailles</Text>
+                    <Text style={styles.titre}> Les méridiens: Ren Mai et Du Mai</Text>
 
                     <Text style={styles.question}>{current.question}</Text>
                     {current.options.map((option, i) => (
@@ -80,11 +80,11 @@ export default function LessonScreen({ navigation }) {
             )}
 
          <View style={styles.linkContainer}>
-                              <Text style={styles.link} onPress={() => navigation.navigate('Qi')}>🎈Le QI</Text>
-                              <Text style={styles.link} onPress={() => navigation.navigate('YinYang')}>🎈Le Yin et le Yang</Text>
-                              <Text style={styles.link} onPress={() => navigation.navigate('Elements')}>🎈Les 5 éléments</Text>
-                              <Text style={styles.link} onPress={() => navigation.navigate('OrganesEntrailles')}>🎈Organes et entrailles</Text>
-                              <Text style={styles.link} onPress={() => navigation.navigate('SangLO')}>🎈Le sang et les L.O</Text>
+                              <Text style={styles.link} onPress={() => navigation.navigate('PointAcup')}>✨Le point d'acupuncture</Text>
+                             <Text style={styles.link} onPress={() => navigation.navigate('RenMaiDuMai')}>✨Ren Mai et Du Mai</Text>
+                            <Text style={styles.link} onPress={() => navigation.navigate('MeridiensOrdin')}>✨Les méridiens ordinaires</Text>
+                             <Text style={styles.link} onPress={() => navigation.navigate('PointSpeciaux')}>✨Les points spéciaux</Text>
+                             
                               
                                 </View>
         

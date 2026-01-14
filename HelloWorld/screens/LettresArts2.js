@@ -75,14 +75,17 @@ export default function LessonScreen({ navigation }) {
                 <>
                     <Text style={styles.question}>Leçon terminée 🎉</Text>
                      <Button title="revenir à la liste des UE" onPress={() => navigation.navigate('ScienceEducation')} />
-                    <Button title="passer au commentaire comparé" onPress={() => navigation.navigate('LettresArts3')} />
+                    
                 </>
             )}
 
          <View style={styles.linkContainer}>
-                                        <Text style={styles.link} onPress={() => navigation.navigate('LettresArts')}> 🌱Introduction Part1</Text>
+                                         <Text style={styles.link} onPress={() => navigation.navigate('LettresArts')}> 🌱Introduction Part1</Text>
                                                                         <Text style={styles.link} onPress={() => navigation.navigate('LettresArts2')}>  🌱Introduction Part2</Text>
                                                                         <Text style={styles.link} onPress={() => navigation.navigate('LettresArts5')}>  🌱Le réalisme</Text>
+                                                                        <Text style={styles.link} onPress={() => navigation.navigate('LettresArts9')}>  🌱Le romantisme et couleur</Text>
+                                                                        <Text style={styles.link} onPress={() => navigation.navigate('LettresArts10')}>  🌱Portrait et paysage</Text>
+                                                                        <Text style={styles.link} onPress={() => navigation.navigate('LettresArts11')}>  🌱Le Peintre de la vie moderne</Text>
                                                                         <Text style={styles.link} onPress={() => navigation.navigate('LettresArts6')}>  🌱Les Goncourt et l’écriture « artiste »</Text>
                                                                         <Text style={styles.link} onPress={() => navigation.navigate('LettresArts7')}>  🌱Baudelaire, la vie moderne & le spleen</Text>
                                                                         <Text style={styles.link} onPress={() => navigation.navigate('LettresArts8')}>  🌱Femmes auteures / artistes au XIXᵉ siècle</Text>

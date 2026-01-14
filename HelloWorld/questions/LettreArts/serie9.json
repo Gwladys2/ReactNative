@@ -1,0 +1,555 @@
+[
+  {
+    "question": "1 - Comment Théophile Gautier divise-t-il le monde artistique dans son Histoire du romantisme ?",
+    "options": [
+      "Poètes et peintres",
+      "Flamboyants et grisâtres",
+      "Classiques et modernes",
+      "Anciens et contemporains"
+    ],
+    "answerIndex": 1,
+    "explication": "Gautier explique que le monde artistique est traversé par une opposition fondamentale. D’un côté, les « flamboyants » défendent un art vivant, coloré, expressif et passionné. De l’autre, les « grisâtres » privilégient un art sobre, intellectuel, froid et maîtrisé. Cette division permet à Gautier de résumer le conflit entre l’esthétique romantique et l’esthétique classique."
+  },
+  {
+    "question": "2 - Que symbolisent les « flamboyants » pour les romantiques ?",
+    "options": [
+      "La vie, la lumière et le mouvement",
+      "La retenue morale",
+      "La rigueur intellectuelle",
+      "La tradition académique"
+    ],
+    "answerIndex": 0,
+    "explication": "Pour les romantiques, les flamboyants représentent un art qui déborde d’énergie et de vie. Ils valorisent la lumière, le mouvement, l’intensité émotionnelle et l’expression du moi, en opposition à un art figé et contrôlé."
+  },
+  {
+    "question": "3 - Que reprochent les romantiques aux « grisâtres » ?",
+    "options": [
+      "Leur excès d’émotion",
+      "Leur rejet du dessin",
+      "Leur art fade et sans couleur",
+      "Leur manque de discipline"
+    ],
+    "answerIndex": 2,
+    "explication": "Les romantiques accusent les grisâtres de produire un art sans vie, dominé par l’intellect et les règles. Cet art est jugé terne, sans éclat ni émotion, incapable de toucher véritablement le spectateur."
+  },
+  {
+    "question": "4 - Pourquoi le rouge occupe-t-il une place centrale chez Gautier ?",
+    "options": [
+      "C’est une couleur symbolisant la passion",
+      "C’est une couleur académique",
+      "C’est une couleur religieuse",
+      "C’est une couleur neutre"
+    ],
+    "answerIndex": 0,
+    "explication": "Le rouge est pour Gautier la couleur de la passion, de la révolte, de l’énergie et du sang. Elle symbolise l’engagement romantique contre l’ordre classique et incarne la vitalité de l’art flamboyant."
+  },
+  {
+    "question": "5 - Quel événement rend célèbre le « gilet rouge » de Gautier ?",
+    "options": [
+      "La Révolution de 1848",
+      "La bataille d’Hernani",
+      "La publication des Orientales",
+      "Le Salon de 1846"
+    ],
+    "answerIndex": 1,
+    "explication": "Lors de la bataille d’Hernani en 1830, Gautier porte un gilet rouge pour afficher publiquement son soutien aux romantiques. Ce vêtement devient un symbole visible et provocateur de la rupture avec le classicisme."
+  },
+  {
+    "question": "6 - Quelle opposition structure la querelle artistique du XIXe siècle ?",
+    "options": [
+      "Réalisme et symbolisme",
+      "Poésie et peinture",
+      "Trait et couleur",
+      "Nature et culture"
+    ],
+    "answerIndex": 2,
+    "explication": "La querelle oppose le dessin (le trait), considéré comme rationnel, intellectuel et maîtrisé, à la couleur, jugée sensible, émotionnelle et instinctive. Cette opposition structure les débats artistiques du XIXe siècle."
+  },
+  {
+    "question": "7 - Pourquoi la couleur est-elle longtemps suspecte dans l’histoire de l’art ?",
+    "options": [
+      "Elle est jugée trompeuse et irrationnelle",
+      "Elle est difficile à produire",
+      "Elle coûte trop cher",
+      "Elle est réservée aux amateurs"
+    ],
+    "answerIndex": 0,
+    "explication": "La couleur est jugée dangereuse parce qu’elle séduit les sens avant la raison. Elle est perçue comme trompeuse, capable de détourner l’esprit et de provoquer des émotions incontrôlées."
+  },
+  {
+    "question": "8 - À quoi est traditionnellement associé le dessin ?",
+    "options": [
+      "À l’esprit et à la raison",
+      "À l’émotion",
+      "À la matière",
+      "À la féminité"
+    ],
+    "answerIndex": 0,
+    "explication": "Le dessin est associé à l’intellect, à la raison et à la maîtrise. Il repose sur des règles, des proportions et une construction logique, ce qui lui confère une valeur morale et éducative."
+  },
+  {
+    "question": "9 - Pourquoi la couleur est-elle assimilée à une « femme fardée » ?",
+    "options": [
+      "Parce qu’elle est rationnelle",
+      "Parce qu’elle est fragile",
+      "Parce qu’elle est dangereuse et séduisante",
+      "Parce qu’elle est naturelle"
+    ],
+    "answerIndex": 2,
+    "explication": "Cette métaphore exprime une méfiance morale : la couleur séduit, attire et trompe comme un maquillage. Elle est jugée artificielle et dangereuse parce qu’elle agit sur les sens plutôt que sur la raison."
+  },
+  {
+    "question": "10 - Pourquoi la couleur est-elle exclue de l’enseignement académique ?",
+    "options": [
+      "Elle est inutile",
+      "Elle est difficile à théoriser",
+      "Elle est trop récente",
+      "Elle est trop simple"
+    ],
+    "answerIndex": 1,
+    "explication": "Contrairement au dessin, la couleur ne se laisse pas facilement réduire à des règles fixes. Elle dépend de la perception, du contexte et de la sensibilité, ce qui la rend difficile à enseigner de manière scientifique."
+  },
+
+  {
+    "question": "11 - Quelle école artistique domine après l’Empire ?",
+    "options": [
+      "L’école romantique",
+      "L’école réaliste",
+      "L’école symboliste",
+      "L’école de David"
+    ],
+    "answerIndex": 3,
+    "explication": "Après l’Empire, l’école de Jacques-Louis David domine la scène artistique. Elle impose un art fondé sur le dessin, la clarté des formes, la discipline et la maîtrise intellectuelle, héritées de l’Antiquité et du classicisme."
+  },
+  {
+    "question": "12 - Quelle technique caractérise la peinture issue de David ?",
+    "options": [
+      "La juxtaposition brutale des couleurs",
+      "Les glacis transparents",
+      "L’abstraction",
+      "La touche visible"
+    ],
+    "answerIndex": 1,
+    "explication": "Les peintres issus de David utilisent des glacis, c’est-à-dire des couches fines et transparentes de peinture. Cette technique efface la trace du pinceau et donne un rendu lisse, contrôlé et parfaitement fini."
+  },
+  {
+    "question": "13 - Pourquoi les œuvres de Delacroix choquent-elles les davidiens ?",
+    "options": [
+      "Elles semblent inachevées",
+      "Elles manquent de dessin",
+      "Elles sont trop petites",
+      "Elles sont abstraites"
+    ],
+    "answerIndex": 1,
+    "explication": "Les davidiens reprochent à Delacroix de sacrifier le dessin au profit de la couleur. Les formes leur paraissent moins nettes, moins construites, ce qui est perçu comme une faute grave dans l’esthétique classique."
+  },
+  {
+    "question": "14 - Qui incarne le mieux le peintre coloriste romantique ?",
+    "options": [
+      "Poussin",
+      "David",
+      "Delacroix",
+      "Ingres"
+    ],
+    "answerIndex": 2,
+    "explication": "Delacroix incarne le peintre coloriste romantique car il privilégie la couleur, le mouvement, l’émotion et la touche visible, rompant avec la froideur et la rigueur du dessin académique."
+  },
+  {
+    "question": "15 - Qui incarne le peintre dessinateur ?",
+    "options": [
+      "Ingres",
+      "Delacroix",
+      "Géricault",
+      "Turner"
+    ],
+    "answerIndex": 0,
+    "explication": "Ingres défend toute sa vie la supériorité du dessin. Pour lui, la ligne est la base de l’art, garante de la clarté, de la beauté et de la vérité formelle."
+  },
+  {
+    "question": "16 - Comment Baudelaire dépasse-t-il l’opposition dessin / couleur ?",
+    "options": [
+      "En rejetant le dessin",
+      "En supprimant la peinture",
+      "En rejetant la couleur",
+      "En montrant qu’on peut dessiner avec la couleur"
+    ],
+    "answerIndex": 3,
+    "explication": "Baudelaire explique que la couleur peut structurer une œuvre autant que le dessin. Elle n’est pas un simple ornement, mais un véritable moyen de construction artistique."
+  },
+  {
+    "question": "17 - Quelle théorie scientifique influence Delacroix ?",
+    "options": [
+      "La théorie de Newton",
+      "La loi des contrastes de Chevreul",
+      "Le positivisme",
+      "La psychanalyse"
+    ],
+    "answerIndex": 1,
+    "explication": "Chevreul montre que les couleurs se modifient entre elles selon leur voisinage. Delacroix s’appuie sur cette théorie pour renforcer les contrastes et l’intensité émotionnelle de ses tableaux."
+  },
+  {
+    "question": "18 - Que signifie l’expression « tout lui est permis » pour le coloriste ?",
+    "options": [
+      "Il agit au hasard",
+      "Il refuse la nature",
+      "Il maîtrise intuitivement la couleur",
+      "Il n’a pas besoin de technique"
+    ],
+    "answerIndex": 2,
+    "explication": "Cette expression signifie que le vrai coloriste possède une connaissance instinctive des harmonies. Il peut prendre des libertés sans tomber dans le désordre, car son œil est formé."
+  },
+  {
+    "question": "19 - Pourquoi l’œil est-il central chez le coloriste ?",
+    "options": [
+      "Il remplace la raison",
+      "Il est purement biologique",
+      "Il est un instrument de mesure",
+      "Il perçoit les rapports entre les couleurs"
+    ],
+    "answerIndex": 3,
+    "explication": "L’œil permet de percevoir les relations entre les couleurs : contrastes, complémentarités, équilibres. C’est cette perception visuelle qui guide le coloriste."
+  },
+  {
+    "question": "20 - Pourquoi l’étude de la nature ne conduit-elle pas à la copie exacte ?",
+    "options": [
+      "L’art transforme la réalité",
+      "L’artiste invente tout",
+      "La nature est imparfaite",
+      "La couleur est instable"
+    ],
+    "answerIndex": 0,
+    "explication": "Pour les romantiques, l’artiste ne doit pas copier la nature, mais l’interpréter. L’œuvre traduit une vision personnelle, filtrée par la sensibilité et l’imagination."
+  },
+  {
+    "question": "21 - Selon Baudelaire, pourquoi le romantisme est-il coloriste ?",
+    "options": [
+      "Il imite la Renaissance",
+      "Il est scientifique",
+      "Il est né dans les pays du Nord",
+      "Il rejette la peinture"
+    ],
+    "answerIndex": 2,
+    "explication": "Baudelaire s’appuie sur la théorie des climats : dans les pays du Nord, le manque de lumière pousse les artistes à développer l’imaginaire et la couleur."
+  },
+  {
+    "question": "22 - Comment Baudelaire oppose-t-il Nord et Midi ?",
+    "options": [
+      "Nord rationnel / Midi rêveur",
+      "Nord imaginatif / Midi sculptural",
+      "Nord pauvre / Midi riche",
+      "Nord classique / Midi romantique"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Midi, baigné de lumière, privilégie la forme et la sculpture. Le Nord, plus sombre, développe la couleur, l’imagination et l’expressivité."
+  },
+  {
+    "question": "23 - Quel recueil illustre la flamboyance romantique en poésie ?",
+    "options": [
+      "Les Orientales",
+      "Les Contemplations",
+      "Les Fleurs du mal",
+      "Les Châtiments"
+    ],
+    "answerIndex": 0,
+    "explication": "Les Orientales de Victor Hugo se distinguent par une profusion de couleurs, de contrastes violents et d’images visuelles inspirées de la peinture."
+  },
+  {
+    "question": "24 - Comment Hugo utilise-t-il la couleur dans Les Orientales ?",
+    "options": [
+      "De façon symbolique uniquement",
+      "De manière réaliste",
+      "Avec retenue",
+      "Par juxtaposition audacieuse"
+    ],
+    "answerIndex": 3,
+    "explication": "Hugo juxtapose des couleurs vives et sombres sans transition douce, créant des effets violents et expressifs, proches de la peinture romantique."
+  },
+  {
+    "question": "25 - Comment la critique accueille-t-elle cette poésie colorée ?",
+    "options": [
+      "Avec inquiétude",
+      "Avec enthousiasme",
+      "Avec indifférence",
+      "Avec admiration unanime"
+    ],
+    "answerIndex": 0,
+    "explication": "La critique reproche à Hugo un excès de couleur et une poésie trop picturale, jugée choquante et contraire aux règles classiques."
+  },
+  {
+    "question": "26 - Pourquoi parle-t-on de « crudité chromatique » ?",
+    "options": [
+      "Les couleurs sont absentes",
+      "Les couleurs sont trop visibles",
+      "Les couleurs sont fades",
+      "Les couleurs sont symboliques"
+    ],
+    "answerIndex": 1,
+    "explication": "La crudité chromatique désigne l’usage de couleurs franches, violentes et non adoucies, perçues comme agressives par les classiques."
+  },
+  {
+    "question": "27 - Quel lien unit peinture et poésie romantique ?",
+    "options": [
+      
+      "La narration",
+      "Le réalisme",
+      "La morale",
+      "La couleur"
+    ],
+    "answerIndex": 3,
+    "explication": "Peinture et poésie romantique partagent le même goût pour la couleur, les contrastes et les effets visuels destinés à frapper l’imagination."
+  },
+  {
+    "question": "28 - Que produit l’abondance de couleurs dans le poème « Rêverie » ?",
+    "options": [
+      "Un effet documentaire",
+      "Une atmosphère neutre",
+      "Une atmosphère onirique",
+      "Un effet symboliste"
+    ],
+    "answerIndex": 2,
+    "explication": "L’abondance de couleurs plonge le lecteur dans un univers de rêve, détaché du réel, dominé par l’imaginaire."
+  },
+  {
+    "question": "29 - Pourquoi la couleur est-elle liée à l’excès romantique ?",
+    "options": [
+      "Elle transgresse les règles classiques",
+      "Elle est scientifique",
+      "Elle est rationnelle",
+      "Elle est décorative"
+    ],
+    "answerIndex": 0,
+    "explication": "La couleur rompt avec la mesure et l’équilibre classiques. Elle exprime le débordement émotionnel et la liberté romantique."
+  },
+  {
+    "question": "30 - Quelle valeur incarne la flamboyance ?",
+    "options": [
+      "La neutralité",
+      "La discipline",
+      "L’intensité expressive",
+      "La sobriété"
+    ],
+    "answerIndex": 2,
+    "explication": "La flamboyance cherche à exprimer avec force les émotions, les visions et la subjectivité de l’artiste."
+  },
+  {
+    "question": "31 - Pourquoi la couleur est-elle associée à la sensibilité ?",
+    "options": [
+      "Elle est abstraite",
+      "Elle touche directement les sens",
+      "Elle est mesurable",
+      "Elle est codifiée"
+    ],
+    "answerIndex": 1,
+    "explication": "La couleur agit immédiatement sur la vue et provoque des émotions sans passer par le raisonnement."
+  },
+  {
+    "question": "32 - Pourquoi le dessin est-il jugé moralement supérieur ?",
+    "options": [
+      "Il est plus coloré",
+      "Il est plus rationnel",
+      "Il est plus ancien",
+      "Il est plus populaire"
+    ],
+    "answerIndex": 1,
+    "explication": "Le dessin est associé à la maîtrise de soi, à la discipline et à la raison, valeurs considérées comme moralement supérieures."
+  },
+  {
+    "question": "33 - Que représente la touche visible chez Delacroix ?",
+    "options": [
+      "Une affirmation de liberté",
+      "Un manque de technique",
+      "Une contrainte académique",
+      "Une erreur"
+    ],
+    "answerIndex": 0,
+    "explication": "La touche visible affirme la présence de l’artiste, son geste et sa subjectivité, contre l’effacement académique."
+  },
+  {
+    "question": "34 - Pourquoi le romantisme valorise-t-il la couleur ?",
+    "options": [
+      "Elle imite la science",
+      "Elle respecte la tradition",
+      "Elle est économique",
+      "Elle permet l’expression du moi"
+    ],
+    "answerIndex": 3,
+    "explication": "La couleur permet d’exprimer les émotions, la personnalité et le tempérament de l’artiste."
+  },
+  {
+    "question": "35 - Quelle fonction la couleur remplit-elle en poésie ?",
+    "options": [
+      "Créer des images mentales",
+      "Structurer l’action",
+      "Remplacer le récit",
+      "Informer"
+    ],
+    "answerIndex": 0,
+    "explication": "La couleur aide le lecteur à visualiser le poème et à ressentir des impressions sensorielles."
+  },
+  {
+    "question": "36 - Pourquoi la couleur est-elle difficile à théoriser ?",
+    "options": [
+      "Elle est universelle",
+      "Elle est instable",
+      "Elle est absente",
+      "Elle est subjective"
+    ],
+    "answerIndex": 3,
+    "explication": "Chaque individu perçoit les couleurs différemment, ce qui empêche d’établir des règles universelles."
+  },
+  {
+    "question": "37 - Quelle rupture le romantisme opère-t-il ?",
+    "options": [
+      "Avec la sensibilité",
+      "Avec le classicisme",
+      "Avec la couleur",
+      "Avec la nature"
+    ],
+    "answerIndex": 1,
+    "explication": "Le romantisme rompt avec les règles, la retenue et l’équilibre du classicisme."
+  },
+  {
+    "question": "38 - Pourquoi Hugo est-il qualifié de poète coloriste ?",
+    "options": [
+      "Il peint",
+      "Il décrit peu",
+      "Il refuse le dessin",
+      "Il utilise la couleur comme un peintre"
+    ],
+    "answerIndex": 3,
+    "explication": "Hugo utilise les mots comme des couleurs pour créer des images visuelles fortes."
+  },
+  {
+    "question": "39 - Quel rôle joue l’imagination dans la théorie des climats ?",
+    "options": [
+      "Elle est secondaire",
+      "Elle est rationnelle",
+      "Elle est inutile",
+      "Elle compense le manque de lumière"
+    ],
+    "answerIndex": 3,
+    "explication": "Dans les régions peu lumineuses, l’imagination compense la pauvreté visuelle du réel."
+  },
+  {
+    "question": "40 - Pourquoi la couleur est-elle jugée dangereuse ?",
+    "options": [
+      "Elle est décorative",
+      "Elle est instable",
+      "Elle est trop visible",
+      "Elle excite les sens"
+    ],
+    "answerIndex": 3,
+    "explication": "Elle agit directement sur les émotions et peut échapper au contrôle de la raison."
+  },
+  {
+    "question": "41 - Quel est l’enjeu principal de la querelle trait / couleur ?",
+    "options": [
+      "La vente des œuvres",
+      "La technique",
+      "La morale artistique",
+      "La modernité"
+    ],
+    "answerIndex": 2,
+    "explication": "Il s’agit de savoir si l’art doit obéir à la raison et aux règles ou à la sensibilité et à l’émotion."
+  },
+  {
+    "question": "42 - Pourquoi la couleur est-elle liée au romantisme ?",
+    "options": [
+      "Elle est scientifique",
+      "Elle exprime l’excès et l’émotion",
+      "Elle est neutre",
+      "Elle est décorative"
+    ],
+    "answerIndex": 1,
+    "explication": "Le romantisme privilégie l’intensité émotionnelle, que la couleur permet d’exprimer pleinement."
+  },
+  {
+    "question": "43 - Que signifie « coloriste exaspéré » ?",
+    "options": [
+      
+      "Un peintre maladroit",
+      "Un peintre abstrait",
+      "Un peintre excessif dans la couleur",
+      "Un peintre académique"
+    ],
+    "answerIndex": 2,
+    "explication": "L’expression désigne un artiste qui pousse l’usage de la couleur à l’extrême."
+  },
+  {
+    "question": "44 - Pourquoi la poésie romantique est-elle dite picturale ?",
+    "options": [
+      "Elle crée des images visuelles par le langage",
+      "Elle décrit des tableaux",
+      "Elle imite les techniques visuelles",
+      "Elle refuse les mots"
+    ],
+    "answerIndex": 0,
+    "explication": "La poésie romantique cherche à faire voir, en produisant des images mentales aussi fortes que des tableaux."
+  },
+  {
+    "question": "45 - Quelle valeur commune unit Delacroix, Hugo et Baudelaire ?",
+    "options": [
+      "La tradition",
+      "La flamboyance",
+      "La retenue",
+      "La neutralité"
+    ],
+    "answerIndex": 1,
+    "explication": "Tous trois défendent un art intense, expressif et fondé sur la couleur et l’émotion."
+  },
+  {
+    "question": "46 - Pourquoi la couleur devient-elle un idéal romantique ?",
+    "options": [
+      "Elle est classique",
+      "Elle est scientifique",
+      "Elle est morale",
+      "Elle est expressive"
+    ],
+    "answerIndex": 3,
+    "explication": "La couleur permet d’exprimer directement les émotions et la subjectivité de l’artiste."
+  },
+  {
+    "question": "47 - Quelle place occupe la subjectivité dans l’art romantique ?",
+    "options": [
+      "Secondaire",
+      "Centrale",
+      "Inexistante",
+      "Négative"
+    ],
+    "answerIndex": 1,
+    "explication": "L’art romantique met le moi, la sensibilité et l’expérience personnelle au centre de la création."
+  },
+  {
+    "question": "48 - Pourquoi la couleur est-elle un langage artistique ?",
+    "options": [
+      "Elle structure",
+      "Elle informe",
+      "Elle exprime sans mots",
+      "Elle explique"
+    ],
+    "answerIndex": 2,
+    "explication": "La couleur transmet des émotions et des sensations sans passer par le langage verbal."
+  },
+  {
+    "question": "49 - Quelle est la finalité de la flamboyance romantique ?",
+    "options": [
+      "Exprimer une vision du monde",
+      "Imiter la nature",
+      "Choquer gratuitement",
+      "Respecter les règles"
+    ],
+    "answerIndex": 0,
+    "explication": "La flamboyance sert à exprimer une vision personnelle, passionnée et subjective du monde."
+  },
+  {
+    "question": "50 - Quel est l’enjeu esthétique central du cours ?",
+    "options": [
+      "Art contre science",
+      "Couleur contre dessin",
+      "Peinture contre poésie",
+      "Nord contre Sud"
+    ],
+    "answerIndex": 1,
+    "explication": "Le cours montre comment l’opposition entre dessin et couleur structure les débats esthétiques du romantisme."
+  }
+]

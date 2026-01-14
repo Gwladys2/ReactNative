@@ -1,0 +1,553 @@
+[
+  {
+    "question": "1 - À quelle catégorie littéraire appartient le portrait selon le cours ?",
+    "options": [
+      "La catégorie du descriptif",
+      "La catégorie narrative",
+      "La catégorie argumentative",
+      "La catégorie poétique"
+    ],
+    "answerIndex": 0,
+    "explication": "Le portrait relève de la catégorie du descriptif, car il consiste à décrire une personne."
+  },
+  {
+    "question": "2 - Qu’est-ce que la topographie ?",
+    "options": [
+      "La description d’un caractère",
+      "La description d’un lieu réel ou fictif",
+      "La description d’une action",
+      "La description d’un paysage imaginaire"
+    ],
+    "answerIndex": 1,
+    "explication": "La topographie est la description d’un lieu."
+  },
+  {
+    "question": "3 - Comment appelle-t-on la description de l’apparence extérieure d’une personne ?",
+    "options": [
+      "L’éthopée",
+      "La narration",
+      "La prosopographie",
+      "La topographie"
+    ],
+    "answerIndex": 2,
+    "explication": "La prosopographie désigne la description physique."
+  },
+  {
+    "question": "4 - Qu’est-ce que l’éthopée ?",
+    "options": [
+      "La description d’un événement",
+      "La description d’un décor",
+      "La description d’un paysage",
+      "La description psychologique ou morale"
+    ],
+    "answerIndex": 3,
+    "explication": "L’éthopée correspond à la description morale et psychologique."
+  },
+  {
+    "question": "5 - Pourquoi le portrait est-il une forme complexe de description ?",
+    "options": [
+      "Parce qu’il est réservé à la poésie",
+      "Parce qu’il unit description physique et morale",
+      "Parce qu’il est toujours très long",
+      "Parce qu’il mélange narration et dialogue"
+    ],
+    "answerIndex": 1,
+    "explication": "Il combine prosopographie et éthopée."
+  },
+  {
+    "question": "6 - Quelle critique Boileau adresse-t-il à certains auteurs descriptifs ?",
+    "options": [
+      "Ils abusent de détails inutiles",
+      "Ils décrivent trop peu",
+      "Ils manquent d’imagination",
+      "Ils utilisent un vocabulaire trop simple"
+    ],
+    "answerIndex": 0,
+    "explication": "Il critique l’abondance stérile."
+  },
+  {
+    "question": "7 - Quelle est l’attitude de la poétique classique envers la description ?",
+    "options": [
+      "Elle l’encourage sans limites",
+      "Elle s’en méfie",
+      "Elle la remplace par le dialogue",
+      "Elle la considère comme essentielle"
+    ],
+    "answerIndex": 1,
+    "explication": "La poétique classique se méfie des descriptions trop longues."
+  },
+  {
+    "question": "8 - Qu’est-ce que le locus amoenus dans la tradition antique ?",
+    "options": [
+      "Un lieu agréable et harmonieux",
+      "Un lieu urbain",
+      "Un lieu hostile",
+      "Un lieu effrayant"
+    ],
+    "answerIndex": 0,
+    "explication": "Le locus amoenus est un lieu idéalisé et paisible."
+  },
+  {
+    "question": "9 - Quelle caractéristique principale définit le paysage romantique ?",
+    "options": [
+      "La neutralité émotionnelle",
+      "L’exaltation des émotions",
+      "La fidélité scientifique",
+      "L’ordre et la symétrie"
+    ],
+    "answerIndex": 1,
+    "explication": "Le paysage romantique exprime les émotions."
+  },
+  {
+    "question": "10 - Que signifie l’expression « paysage-état d’âme » ?",
+    "options": [
+      "Un paysage strictement réaliste",
+      "Un paysage imaginaire",
+      "Un paysage qui reflète les sentiments",
+      "Un paysage sans présence humaine"
+    ],
+    "answerIndex": 2,
+    "explication": "La nature devient le miroir de l’âme."
+  },
+
+  {
+    "question": "11 - Selon Edmund Burke, qu’est-ce que le sublime négatif ?",
+    "options": [
+      "Une beauté artificielle",
+      "Une beauté fondée sur l’horreur et la grandeur",
+      "Une beauté douce",
+      "Une beauté religieuse"
+    ],
+    "answerIndex": 1,
+    "explication": "Il repose sur la peur et la grandeur."
+  },
+  {
+    "question": "12 - Quels paysages attirent les romantiques au XIXe siècle ?",
+    "options": [
+      "Les paysages sauvages et austères",
+      "Les paysages agricoles",
+      "Les paysages urbains modernes",
+      "Les paysages ordonnés"
+    ],
+    "answerIndex": 0,
+    "explication": "Ils recherchent des émotions fortes."
+  },
+  {
+    "question": "13 - Pourquoi la « belle horreur » plaît-elle aux romantiques ?",
+    "options": [
+      "Elle efface la subjectivité",
+      "Elle procure une émotion paradoxale",
+      "Elle rassure",
+      "Elle exprime la domination humaine"
+    ],
+    "answerIndex": 1,
+    "explication": "Plaisir mêlé de crainte."
+  },
+  {
+    "question": "14 - Qu’est-ce qu’un paysage composé ?",
+    "options": [
+      "Un paysage abstrait",
+      "Un paysage assemblé à partir de motifs",
+      "Un paysage photographique",
+      "Un paysage peint sur le vif"
+    ],
+    "answerIndex": 1,
+    "explication": "Il est construit artificiellement."
+  },
+  {
+    "question": "15 - Pourquoi le paysage composé est-il critiqué ?",
+    "options": [
+      "Il est trop réaliste",
+      "Il manque de technique",
+      "Il est trop émotionnel",
+      "Il manque de vérité naturelle"
+    ],
+    "answerIndex": 3,
+    "explication": "Il est jugé artificiel."
+  },
+  {
+    "question": "16 - Quelle est la position de Baudelaire sur le paysage historique ?",
+    "options": [
+      "Il l’admire",
+      "Il le critique sévèrement",
+      "Il le juge révolutionnaire",
+      "Il le considère comme naturel"
+    ],
+    "answerIndex": 1,
+    "explication": "Baudelaire dénonce un paysage figé et artificiel."
+  },
+  {
+    "question": "17 - Que reproche Baudelaire aux paysagistes historiques ?",
+    "options": [
+      "D’être trop modernes",
+      "D’utiliser la photographie",
+      "D’éliminer toute spontanéité naturelle",
+      "De manquer de couleur"
+    ],
+    "answerIndex": 2,
+    "explication": "Il critique leur rejet de la nature libre et imprévisible."
+  },
+  {
+    "question": "18 - En quoi Corot est-il un peintre novateur ?",
+    "options": [
+      "Il imite les modèles antiques",
+      "Il peint uniquement des portraits",
+      "Il rejette totalement la nature",
+      "Il observe directement la nature"
+    ],
+    "answerIndex": 3,
+    "explication": "Corot peint d’après nature avec sensibilité."
+  },
+  {
+    "question": "19 - Quelle est la fonction première du portrait depuis l’Antiquité ?",
+    "options": [
+      "Divertir",
+      "Conserver la mémoire",
+      "Décorer",
+      "Critiquer la société"
+    ],
+    "answerIndex": 1,
+    "explication": "Le portrait sert à garder la mémoire des individus."
+  },
+  {
+    "question": "20 - Que marque la démocratisation du portrait au XIXe siècle ?",
+    "options": [
+      "La disparition du modèle",
+      "Le rejet de la peinture",
+      "L’accès du portrait aux classes bourgeoises",
+      "La fin de l’art"
+    ],
+    "answerIndex": 2,
+    "explication": "Le portrait devient accessible à un public élargi."
+  },
+  {
+    "question": "21 - Pourquoi certains critiques parlent-ils de décadence du portrait ?",
+    "options": [
+      "Parce qu’il se diffuse largement",
+      "Parce qu’il devient abstrait",
+      "Parce qu’il disparaît",
+      "Parce qu’il devient trop cher"
+    ],
+    "answerIndex": 0,
+    "explication": "Sa diffusion massive est perçue comme une perte de qualité."
+  },
+  {
+    "question": "22 - Quelle est la position de Baudelaire sur la photographie ?",
+    "options": [
+      "Il la considère neutre",
+      "Il la célèbre comme un art majeur",
+      "Il l’ignore totalement",
+      "Il la critique comme négation de l’art"
+    ],
+    "answerIndex": 3,
+    "explication": "Il voit la photographie comme une menace pour l’art."
+  },
+  {
+    "question": "23 - Qu’est-ce qu’un portrait-carte de visite ?",
+    "options": [
+      "Un portrait funéraire",
+      "Un autoportrait",
+      "Un portrait miniature diffusé socialement",
+      "Un portrait officiel"
+    ],
+    "answerIndex": 2,
+    "explication": "C’est une photographie diffusée comme objet social."
+  },
+  {
+    "question": "24 - Que signifie l’expression « biographie dramatisée » chez Baudelaire ?",
+    "options": [
+      "Un portrait humoristique",
+      "Un récit fictif",
+      "Une exagération théâtrale",
+      "Un portrait révélant la vérité intérieure"
+    ],
+    "answerIndex": 3,
+    "explication": "Le portrait doit révéler la profondeur morale."
+  },
+  {
+    "question": "25 - Pourquoi le geste et le décor sont-ils importants dans un portrait ?",
+    "options": [
+      "Ils sont imposés par la mode",
+      "Ils participent à la révélation du caractère",
+      "Ils sont décoratifs",
+      "Ils montrent uniquement le statut social"
+    ],
+    "answerIndex": 1,
+    "explication": "Chaque détail aide à comprendre la personnalité."
+  },
+  {
+    "question": "26 - Pourquoi le portrait littéraire n’est-il jamais isolé dans un récit ?",
+    "options": [
+      "Il dépend de la narration",
+      "Il est inutile",
+      "Il remplace l’action",
+      "Il est purement décoratif"
+    ],
+    "answerIndex": 0,
+    "explication": "Il s’inscrit dans l’économie du récit."
+  },
+  {
+    "question": "27 - Où peut apparaître un portrait dans un texte narratif ?",
+    "options": [
+      "Uniquement à la fin",
+      "Jamais",
+      "Dans une pause ou de façon dispersée",
+      "Uniquement au début"
+    ],
+    "answerIndex": 2,
+    "explication": "Le portrait peut être fragmenté dans le récit."
+  },
+  {
+    "question": "28 - Pourquoi le portrait est-il au croisement du narratif et du descriptif ?",
+    "options": [
+      "Parce qu’il remplace la narration",
+      "Parce qu’il décrit un personnage agissant",
+      "Parce qu’il raconte une action",
+      "Parce qu’il interrompt le récit"
+    ],
+    "answerIndex": 1,
+    "explication": "Il décrit tout en servant l’action."
+  },
+  {
+    "question": "29 - Pourquoi le paysage a-t-il longtemps été considéré comme un genre mineur ?",
+    "options": [
+      "Il était religieux",
+      "Il était abstrait",
+      "Il était jugé décoratif",
+      "Il était trop difficile"
+    ],
+    "answerIndex": 2,
+    "explication": "Il était perçu comme secondaire."
+  },
+  {
+    "question": "30 - Qu’est-ce qui contribue à la reconnaissance du paysage ?",
+    "options": [
+      "Le réalisme scientifique",
+      "Le romantisme",
+      "La poésie classique",
+      "La photographie"
+    ],
+    "answerIndex": 1,
+    "explication": "Le romantisme valorise la nature."
+  },
+  {
+    "question": "31 - Quelle opposition structure le cours ?",
+    "options": [
+      "Portrait / action",
+      "Description / narration",
+      "Nature / société",
+      "Réalisme / abstraction"
+    ],
+    "answerIndex": 1,
+    "explication": "Le cours interroge la place de la description face à la narration."
+  },
+  {
+    "question": "32 - Pourquoi la description peut-elle poser problème ?",
+    "options": [
+      "Elle est trop moderne",
+      "Elle ralentit le récit",
+      "Elle est inutile",
+      "Elle est trop courte"
+    ],
+    "answerIndex": 1,
+    "explication": "Une description excessive peut interrompre l’action."
+  },
+  {
+    "question": "33 - Que cherche à éviter la poétique classique ?",
+    "options": [
+      "La clarté",
+      "La concision",
+      "La structure",
+      "La surcharge descriptive"
+    ],
+    "answerIndex": 3,
+    "explication": "Elle prône une description mesurée."
+  },
+  {
+    "question": "34 - Pourquoi le portrait est-il essentiel à la compréhension d’un personnage ?",
+    "options": [
+      "Il embellit le texte",
+      "Il révèle sa vérité intérieure",
+      "Il ralentit l’histoire",
+      "Il remplace le dialogue"
+    ],
+    "answerIndex": 1,
+    "explication": "Le portrait donne accès à la psychologie."
+  },
+  {
+    "question": "35 - Que symbolise la nature sauvage chez les romantiques ?",
+    "options": [
+      "La modernité",
+      "La liberté et la puissance",
+      "La maîtrise humaine",
+      "La civilisation"
+    ],
+    "answerIndex": 1,
+    "explication": "Elle incarne une force supérieure à l’homme."
+  },
+  {
+    "question": "36 - Quelle est la fonction principale du paysage romantique ?",
+    "options": [
+      "Informer",
+      "Exprimer des émotions",
+      "Décorer",
+      "Imiter l’Antiquité"
+    ],
+    "answerIndex": 1,
+    "explication": "Le paysage devient un moyen d’expression subjective."
+  },
+  {
+    "question": "37 - Pourquoi Baudelaire compare-t-il le portraitiste à un comédien ?",
+    "options": [
+      "Il copie mécaniquement",
+      "Il joue un rôle",
+      "Il révèle l’essence du personnage",
+      "Il exagère les traits"
+    ],
+    "answerIndex": 2,
+    "explication": "L’artiste doit comprendre et incarner son modèle."
+  },
+  {
+    "question": "38 - Pourquoi rien n’est indifférent dans un portrait ?",
+    "options": [
+      "Tout est décoratif",
+      "Tout est aléatoire",
+      "Tout est imposé",
+      "Tout est symbolique"
+    ],
+    "answerIndex": 3,
+    "explication": "Chaque détail participe au sens."
+  },
+  {
+    "question": "39 - Quelle est la finalité ultime du portrait selon Baudelaire ?",
+    "options": [
+      "La décoration",
+      "La révélation de l’âme",
+      "La célébrité",
+      "La ressemblance parfaite"
+    ],
+    "answerIndex": 1,
+    "explication": "Le portrait doit atteindre la vérité intérieure."
+  },
+  {
+    "question": "40 - Pourquoi le portrait et le paysage sont-ils longtemps jugés mineurs ?",
+    "options": [
+      "Ils sont trop modernes",
+      "Ils sont religieux",
+      "Ils manquent d’action",
+      "Ils sont trop abstraits"
+    ],
+    "answerIndex": 2,
+    "explication": "Ils étaient perçus comme secondaires."
+  },
+  {
+    "question": "41 - Comment le XIXe siècle transforme-t-il le paysage ?",
+    "options": [
+      "Il le rend décoratif",
+      "Il le rend scientifique",
+      "Il le rend expressif",
+      "Il le rend abstrait"
+    ],
+    "answerIndex": 2,
+    "explication": "Le paysage devient porteur d’émotions."
+  },
+  {
+    "question": "42 - Quelle est la principale nouveauté du portrait moderne ?",
+    "options": [
+      "La fiction",
+      "La disparition du modèle",
+      "La couleur",
+      "La diffusion sociale"
+    ],
+    "answerIndex": 3,
+    "explication": "Le portrait se démocratise."
+  },
+  {
+    "question": "43 - Quel lien unit portrait et mémoire ?",
+    "options": [
+      "La décoration",
+      "La fiction",
+      "La conservation des individus",
+      "L’oubli"
+    ],
+    "answerIndex": 2,
+    "explication": "Le portrait garde la trace des personnes."
+  },
+  {
+    "question": "44 - Pourquoi la photographie inquiète-t-elle Baudelaire ?",
+    "options": [
+      "Elle est trop lente",
+      "Elle remplace la création artistique",
+      "Elle est élitiste",
+      "Elle est trop chère"
+    ],
+    "answerIndex": 1,
+    "explication": "Il craint une disparition de l’imaginaire."
+  },
+  {
+    "question": "45 - Quelle est la fonction du décor dans un portrait littéraire ?",
+    "options": [
+      "Remplacer la psychologie",
+      "Allonger le récit",
+      "Situer socialement le personnage",
+      "Décorer le texte"
+    ],
+    "answerIndex": 2,
+    "explication": "Le décor donne des indices sur le personnage."
+  },
+  {
+    "question": "46 - Pourquoi le paysage devient-il un sujet autonome ?",
+    "options": [
+      "Grâce au romantisme",
+      "Grâce à la religion",
+      "Grâce à la science",
+      "Grâce au classicisme"
+    ],
+    "answerIndex": 0,
+    "explication": "Le romantisme valorise la nature."
+  },
+  {
+    "question": "47 - Quelle est la différence majeure entre paysage composé et paysage d’après nature ?",
+    "options": [
+      "Le format",
+      "La couleur",
+      "Le rapport au réel",
+      "La technique"
+    ],
+    "answerIndex": 2,
+    "explication": "L’un est artificiel, l’autre observé."
+  },
+  {
+    "question": "48 - Pourquoi le portrait est-il qualifié de « genre modeste » par Baudelaire ?",
+    "options": [
+      "Il est trompeur",
+      "Il est secondaire",
+      "Il est simple",
+      "Il cache une grande complexité"
+    ],
+    "answerIndex": 3,
+    "explication": "Il exige une grande intelligence artistique."
+  },
+  {
+    "question": "49 - Quelle tension traverse tout le cours ?",
+    "options": [
+      "Art / science",
+      "Peinture / littérature",
+      "Tradition / modernité",
+      "Description / sens"
+    ],
+    "answerIndex": 2,
+    "explication": "Le cours montre l’évolution des genres."
+  },
+  {
+    "question": "50 - Quel est l’enjeu principal du portrait et du paysage ?",
+    "options": [
+      "Décorer",
+      "Exprimer une vision du monde",
+      "Illustrer un mythe",
+      "Informer"
+    ],
+    "answerIndex": 1,
+    "explication": "Ils deviennent des moyens d’expression artistique."
+  }
+]

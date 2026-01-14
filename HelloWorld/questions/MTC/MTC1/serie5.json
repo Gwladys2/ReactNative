@@ -26,10 +26,10 @@
     "options": [
       "Yang",
       "Neutre",
-      "Yin",
-      "Variable"
+      "Variable",
+      "Yin"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "explication": "Le Sang est de nature Yin : il est visible, dense et relativement immobile. Il sert à contrôler et stabiliser l’activité Yang du Qi et de l’esprit."
   },
   {
@@ -46,9 +46,9 @@
   {
     "question": "5 - Quel organe transforme les aliments pour participer à la formation du Sang ?",
     "options": [
+      "La Rate",
       "Le Cœur",
       "Le Foie",
-      "La Rate",
       "Le Poumon"
     ],
     "answerIndex": 2,
@@ -70,10 +70,10 @@
     "options": [
       "La Rate",
       "Le Foie",
-      "Le Cœur",
-      "Le Rein"
+      "Le Rein",
+      "Le Cœur"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "explication": "Le Cœur gouverne le Sang et assure sa propulsion dans les vaisseaux."
   },
   {
@@ -103,10 +103,10 @@
     "options": [
       "Le Poumon",
       "Le Foie",
-      "Le Rein",
-      "La Rate"
+      "La Rate",
+      "Le Rein"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "explication": "Le Rein produit la moelle (os, cerveau) qui enrichit le Sang. Il existe une relation étroite entre le Jing et le Sang."
   },
 
@@ -124,12 +124,12 @@
   {
     "question": "12 - Quels signes indiquent un Sang en bonne santé ?",
     "options": [
-      "Peau sèche et cheveux cassants",
       "Tendons souples et peau hydratée",
+      "Peau sèche et cheveux cassants",
       "Fatigue intense",
       "Vertiges fréquents"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explication": "Un Sang harmonieux donne une peau souple, des muscles nourris et des articulations mobiles."
   },
   {
@@ -157,12 +157,12 @@
   {
     "question": "15 - Quel syndrome est fréquent après un accouchement selon la MTC ?",
     "options": [
-      "Excès de Qi",
       "Vide de Sang",
+      "Excès de Qi",
       "Chaleur du Foie",
       "Stagnation des Liquides"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explication": "Le post-partum entraîne une perte de Sang. Si elle n’est pas compensée, cela peut provoquer dépression ou baby blues."
   },
 
@@ -182,10 +182,10 @@
     "options": [
       "Douleurs piquantes",
       "Fièvre élevée",
-      "Vertiges et pâleur",
-      "Œdèmes"
+      "Œdèmes",
+      "Vertiges et pâleur"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "explication": "Le Vide de Sang donne des vertiges, une pâleur, une fatigue et parfois des tremblements."
   },
   {
@@ -202,12 +202,12 @@
   {
     "question": "19 - Quel type de douleur indique une Stagnation du Sang ?",
     "options": [
-      "Douleur sourde",
       "Douleur piquante et localisée",
+      "Douleur sourde",
       "Douleur diffuse",
       "Absence de douleur"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explication": "La douleur est vive, fixe et piquante, comme un coup de couteau."
   },
   {
@@ -237,11 +237,11 @@
     "question": "22 - Combien de types de Liquides Organiques existe-t-il ?",
     "options": [
       "1",
-      "2",
       "3",
-      "4"
+      "4",
+      "2"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explication": "On distingue deux types : les Jin (fluides) et les Ye (visqueux)."
   },
   {
@@ -260,10 +260,10 @@
     "options": [
       "Très mobiles",
       "Superficiels",
-      "Denses et profonds",
-      "Gazeux"
+      "Gazeux",
+      "Denses et profonds"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "explication": "Les Ye sont plus épais, visqueux et nourrissent les organes, articulations et le cerveau."
   },
   {
@@ -303,12 +303,12 @@
   {
     "question": "28 - Quel organe fabrique et transporte les Liquides Organiques ?",
     "options": [
-      "Le Foie",
       "La Rate",
+      "Le Foie",
       "Le Cœur",
       "Le Poumon"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explication": "La Rate est responsable de la transformation et du transport des Liquides Organiques."
   },
   {
@@ -338,11 +338,11 @@
     "question": "31 - Quel organe fabrique l’urine en MTC ?",
     "options": [
       "Le Rein",
-      "La Vessie",
       "Le Poumon",
-      "La Rate"
+      "La Rate",
+      "La Vessie"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explication": "En MTC, c’est la Vessie qui fabrique l’urine à partir du Yang des Reins."
   },
   {
@@ -360,11 +360,11 @@
     "question": "33 - Les Liquides Organiques participent-ils à la formation du Sang ?",
     "options": [
       "Non",
-      "Oui",
       "Uniquement chez l’enfant",
+      "Oui",
       "Seulement chez la femme"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explication": "Ils nourrissent et fluidifient le Sang et participent à sa formation."
   },
   {
@@ -393,45 +393,45 @@
   {
     "question": "36 - Quel organe faut-il tonifier pour nourrir les Liquides Organiques ?",
     "options": [
-      "Le Cœur",
       "La Rate",
+      "Le Cœur",
       "Le Foie",
       "Le Poumon"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explication": "La Rate est essentielle pour produire suffisamment de Liquides Organiques."
   },
   {
     "question": "37 - Pour bien nourrir le Sang, il faut tonifier :",
     "options": [
       "Le Yang",
-      "Le Yin",
       "Le Wei Qi",
-      "Le Zong Qi"
+      "Le Zong Qi",
+      "Le Yin"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explication": "Le Sang étant Yin, il faut nourrir le Yin du corps, notamment Rate et Reins."
   },
   {
     "question": "38 - Pour améliorer la circulation du Sang, il faut harmoniser :",
     "options": [
       "La Rate",
-      "Le Foie",
       "Le Rein",
+      "Le Foie",
       "Le Poumon"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explication": "Le Foie contrôle la circulation du Qi, qui elle-même contrôle celle du Sang."
   },
   {
     "question": "39 - Le Sang est-il uniquement matériel ?",
     "options": [
-      "Oui",
       "Non",
+      "Oui",
       "Uniquement chez l’adulte",
       "Uniquement chez l’enfant"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explication": "Le Sang a une composante énergétique et soutient l’esprit."
   },
   {
@@ -450,22 +450,22 @@
     "question": "41 - Le Sang nourrit-il le cerveau ?",
     "options": [
       "Non",
-      "Oui",
       "Seulement chez l’enfant",
+      "Oui",
       "Seulement chez la femme"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explication": "Le Sang nourrit le cerveau et soutient les fonctions mentales et sensorielles."
   },
   {
     "question": "42 - Une personne distraite et dépressive peut souffrir de :",
     "options": [
       "Chaleur du Sang",
-      "Vide de Sang",
       "Excès de Qi",
-      "Stagnation de Liquides"
+      "Stagnation de Liquides",
+      "Vide de Sang"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explication": "Le manque de Sang empêche l’ancrage du Shen, entraînant tristesse et distraction."
   },
   {
@@ -494,11 +494,11 @@
     "question": "45 - Les Jin Ye peuvent-ils se transformer l’un en l’autre ?",
     "options": [
       "Non",
-      "Oui",
       "Seulement les Jin",
-      "Seulement les Ye"
+      "Seulement les Ye",
+      "Oui"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explication": "Les Jin et les Ye peuvent se transformer selon les besoins du corps."
   },
 
@@ -527,23 +527,23 @@
   {
     "question": "48 - Une bonne santé repose sur :",
     "options": [
-      "Beaucoup de muscles",
       "Un Sang et des Liquides équilibrés",
+      "Beaucoup de muscles",
       "L’âge",
       "La génétique"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explication": "Sang et Liquides nourrissent, humidifient et stabilisent le corps et l’esprit."
   },
   {
     "question": "49 - Le Sang permet principalement :",
     "options": [
       "La défense",
-      "La nutrition et l’ancrage du Shen",
       "La respiration",
-      "La transpiration"
+      "La transpiration",
+      "La nutrition et l’ancrage du Shen"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explication": "Il nourrit le corps et soutient l’activité mentale."
   },
   {

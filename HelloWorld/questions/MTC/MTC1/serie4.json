@@ -1,559 +1,560 @@
 [
   {
-    "question": "1 - En Médecine Traditionnelle Chinoise, qu’est-ce que le Qi ?",
+    "question": "1 - En Médecine Traditionnelle Chinoise, comment sont considérés les organes (Zang) ?",
     "options": [
-      "Un organe invisible",
-      "Une énergie vitale en mouvement",
-      "Un liquide du corps",
-      "Un muscle"
+      "Comme des structures anatomiques isolées",
+      "Comme des systèmes fonctionnels interconnectés",
+      "Comme des centres nerveux",
+      "Comme des glandes hormonales"
     ],
     "answerIndex": 1,
-    "explication": "Le Qi est l’énergie vitale. On ne la voit pas, mais elle permet tout : bouger, digérer, respirer, penser. Par exemple, quand tu es plein d’énergie le matin, ton Qi est fort."
+    "explication": "En MTC, les organes sont des systèmes fonctionnels comprenant l’organe, le viscère associé, les tissus, les émotions, les orifices, les liquides et les composantes spirituelles."
   },
   {
-    "question": "2 - Le Qi est-il quelque chose de fixe ou immobile ?",
+    "question": "2 - Selon la théorie des cinq mouvements, à quel élément appartient le Cœur ?",
     "options": [
-      "Oui, il ne bouge pas",
-      "Non, il est toujours en mouvement",
-      "Il bouge seulement chez les sportifs",
-      "Il bouge seulement la nuit"
-    ],
-    "answerIndex": 1,
-    "explication": "Le Qi est toujours en mouvement. S’il s’arrête, il n’y a plus de vie. Comme l’électricité dans une maison : si elle ne circule plus, rien ne fonctionne."
-  },
-  {
-    "question": "3 - Selon la MTC, de quoi est constitué l’univers ?",
-    "options": [
-      "Uniquement de matière",
-      "Uniquement d’atomes",
-      "Uniquement de Qi",
-      "Uniquement de vide"
+      "Bois",
+      "Terre",
+      "Feu",
+      "Eau"
     ],
     "answerIndex": 2,
-    "explication": "En MTC, tout est Qi. La matière est du Qi condensé, et l’énergie est du Qi plus subtil."
+    "explication": "Le Cœur appartient à l’élément Feu. Il est considéré comme l’Empereur, maître des cinq organes et des six entrailles."
   },
   {
-    "question": "4 - Dans le corps humain, le Qi correspond surtout à :",
+    "question": "3 - Quelle fonction principale le Cœur assure-t-il concernant le Sang ?",
     "options": [
-      "La structure des os",
-      "Les processus de mouvement et de transformation",
-      "La forme du corps",
-      "La peau"
-    ],
-    "answerIndex": 1,
-    "explication": "Le Qi représente tout ce qui fait fonctionner le corps : digestion, circulation, respiration, hormones, influx nerveux."
-  },
-  {
-    "question": "5 - Comment appelle-t-on le Qi global qui maintient la santé ?",
-    "options": [
-      "Wei Qi",
-      "Yuan Qi",
-      "Zheng Qi",
-      "Gu Qi"
+      "Il fabrique le Sang",
+      "Il stocke le Sang",
+      "Il propulse le Sang dans les vaisseaux",
+      "Il purifie le Sang"
     ],
     "answerIndex": 2,
-    "explication": "Le Zheng Qi est le Qi global du corps. S’il est fort, la personne est en bonne santé."
+    "explication": "Le Cœur gouverne le Sang et les vaisseaux : il propulse le Sang dans tout le corps grâce au Qi du Cœur."
   },
   {
-    "question": "6 - Le Qi inné est aussi appelé :",
+    "question": "4 - Quel esprit (Shen) est logé dans le Cœur ?",
     "options": [
-      "Qi acquis",
-      "Qi défensif",
-      "Qi originel",
-      "Qi nutritif"
-    ],
-    "answerIndex": 2,
-    "explication": "Le Qi inné est le Qi originel (Yuan Qi). Il est donné à la naissance par les parents."
-  },
-  {
-    "question": "7 - D’où provient le Qi inné ?",
-    "options": [
-      "De la nourriture",
-      "De l’air",
-      "Des parents",
-      "Du sport"
-    ],
-    "answerIndex": 2,
-    "explication": "Le Qi inné est transmis par les parents avant la naissance. C’est comme un capital de départ."
-  },
-  {
-    "question": "8 - Où est stocké principalement le Qi inné ?",
-    "options": [
-      "Dans le cœur",
-      "Dans les poumons",
-      "Dans la rate",
-      "Dans les reins"
+      "Hun",
+      "Po",
+      "Yi",
+      "Shen"
     ],
     "answerIndex": 3,
-    "explication": "En MTC, les Reins stockent le Qi inné. Il diminue avec l’âge."
+    "explication": "Le Cœur abrite le Shen, qui englobe la conscience, la pensée, la vitalité et l’harmonie mentale globale."
   },
   {
-    "question": "9 - Le Qi acquis correspond à :",
+    "question": "5 - Quelle émotion est associée au Cœur ?",
     "options": [
-      "Le Qi transmis à la naissance",
-      "Le Qi produit après la naissance",
-      "Le Qi des émotions",
-      "Le Qi des muscles"
-    ],
-    "answerIndex": 1,
-    "explication": "Le Qi acquis est produit après la naissance grâce à l’alimentation et à la respiration."
-  },
-  {
-    "question": "10 - Les deux sources principales du Qi acquis sont :",
-    "options": [
-      "Le sommeil et le sport",
-      "La nourriture et l’air",
-      "Le sang et les liquides",
-      "Les muscles et les nerfs"
-    ],
-    "answerIndex": 1,
-    "explication": "Le Qi acquis vient de ce que l’on mange (aliments) et de ce que l’on respire (air)."
-  },
-  {
-    "question": "11 - Quel organe transforme les aliments en énergie ?",
-    "options": [
-      "Le foie",
-      "Le cœur",
-      "La rate",
-      "Le rein"
+      "La peur",
+      "La tristesse",
+      "La joie",
+      "La colère"
     ],
     "answerIndex": 2,
-    "explication": "La Rate transforme les aliments en Qi alimentaire. Si elle est faible, on est fatigué."
+    "explication": "La joie est l’émotion du Cœur. En quantité modérée elle nourrit le Cœur, mais en excès elle peut le léser."
   },
   {
-    "question": "12 - Comment s’appelle le Qi extrait des aliments ?",
+    "question": "6 - Quel est le liquide physiologique du Cœur ?",
     "options": [
-      "Tian Qi",
-      "Gu Qi",
-      "Wei Qi",
-      "Yuan Qi"
+      "La salive",
+      "La sueur",
+      "Les larmes",
+      "La sécrétion nasale"
     ],
     "answerIndex": 1,
-    "explication": "Le Gu Qi est l’énergie tirée de la digestion des aliments."
+    "explication": "La sueur est le liquide physiologique du Cœur. Sang et sueur ont la même origine en MTC."
   },
   {
-    "question": "13 - Quel organe capte le Qi de l’air ?",
+    "question": "7 - Sur quel organe externe le Cœur se reflète-t-il principalement ?",
     "options": [
-      "La rate",
-      "Le cœur",
-      "Le poumon",
-      "Le foie"
-    ],
-    "answerIndex": 2,
-    "explication": "Le Poumon capte le Qi de l’air lors de la respiration."
-  },
-  {
-    "question": "14 - Le Qi de l’air s’appelle :",
-    "options": [
-      "Gu Qi",
-      "Wei Qi",
-      "Tian Qi",
-      "Ying Qi"
-    ],
-    "answerIndex": 2,
-    "explication": "Le Tian Qi est l’énergie provenant de l’air que nous respirons."
-  },
-  {
-    "question": "15 - Le Zheng Qi se forme principalement :",
-    "options": [
-      "Dans les reins",
-      "Dans la poitrine",
-      "Dans l’estomac",
-      "Dans le cerveau"
+      "Les yeux",
+      "La langue",
+      "Les lèvres",
+      "Les oreilles"
     ],
     "answerIndex": 1,
-    "explication": "Le Zheng Qi se forme dans la poitrine par la réunion du Qi de l’air et du Qi alimentaire."
-  },
-
-  {
-    "question": "16 - Combien de fonctions principales possède le Qi ?",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answerIndex": 2,
-    "explication": "Le Qi a cinq fonctions : propulsion, réchauffement, défense, homéostasie et transformation."
+    "explication": "Le Cœur s’ouvre à la langue. L’apex de la langue reflète particulièrement l’état du Cœur."
   },
   {
-    "question": "17 - La propulsion du Qi permet :",
+    "question": "8 - Quel est le rôle principal du Maître du Cœur (Xin Bao) ?",
     "options": [
-      "De réchauffer le corps",
-      "De faire circuler le sang",
-      "De produire les émotions",
-      "De stocker l’énergie"
-    ],
-    "answerIndex": 1,
-    "explication": "Sans propulsion du Qi, le sang et les liquides ne circulent pas."
-  },
-  {
-    "question": "18 - La fonction de réchauffement sert à :",
-    "options": [
-      "Protéger contre les microbes",
-      "Maintenir la température corporelle",
       "Digérer les aliments",
-      "Produire le sang"
-    ],
-    "answerIndex": 1,
-    "explication": "Le Qi maintient la chaleur du corps. Un Qi faible donne souvent froid."
-  },
-  {
-    "question": "19 - Quelle fonction du Qi protège contre les agressions externes ?",
-    "options": [
-      "Transformation",
-      "Homéostasie",
-      "Défense",
-      "Propulsion"
+      "Produire le Qi",
+      "Protéger le Cœur",
+      "Stocker le Sang"
     ],
     "answerIndex": 2,
-    "explication": "La défense protège contre le froid, le vent, les virus."
+    "explication": "Le Maître du Cœur agit comme un paravent protecteur, empêchant les pervers externes d’atteindre directement le Cœur."
   },
   {
-    "question": "20 - L’homéostasie du Qi permet :",
+    "question": "9 - Avec quel organe le Maître du Cœur partage-t-il l’élément Feu ?",
     "options": [
-      "La digestion",
-      "Le maintien des organes en place",
-      "La respiration",
-      "La circulation du Wei Qi"
+      "Le Foie",
+      "Le Cœur",
+      "La Rate",
+      "Le Rein"
     ],
     "answerIndex": 1,
-    "explication": "Elle empêche les organes de s’affaisser (ex : prolapsus)."
+    "explication": "Le Maître du Cœur partage l’élément Feu avec le Cœur et participe aux fonctions liées au Sang."
+  },
+  {
+    "question": "10 - Quel organe est appelé « le couvercle des organes » ?",
+    "options": [
+      "Le Foie",
+      "La Rate",
+      "Le Rein",
+      "Le Poumon"
+    ],
+    "answerIndex": 3,
+    "explication": "Le Poumon est situé en position haute et protège les autres organes, d’où son appellation de couvercle."
   },
 
   {
-    "question": "21 - Combien existe-t-il de mouvements du Qi ?",
+    "question": "11 - Quelle est la fonction principale du Poumon concernant le Qi ?",
     "options": [
-      "2",
-      "3",
-      "4",
-      "5"
-    ],
-    "answerIndex": 2,
-    "explication": "Il y a 4 mouvements : montée, descente, entrée et sortie."
-  },
-  {
-    "question": "22 - La montée du Qi correspond à :",
-    "options": [
-      "Un mouvement vers le bas",
-      "Un mouvement vers l’intérieur",
-      "Un mouvement vers le haut",
-      "Un mouvement immobile"
-    ],
-    "answerIndex": 2,
-    "explication": "La montée correspond au mouvement ascendant du Qi."
-  },
-  {
-    "question": "23 - Le Qi du Poumon a principalement quel mouvement ?",
-    "options": [
-      "Montée",
-      "Descente",
-      "Entrée",
-      "Sortie"
+      "Il stocke le Qi",
+      "Il gouverne le Qi",
+      "Il fabrique le Jing",
+      "Il contrôle le Sang"
     ],
     "answerIndex": 1,
-    "explication": "Le Qi du Poumon descend pour permettre une respiration correcte."
+    "explication": "Le Poumon gouverne le Qi et contrôle la respiration, l’inspiration et l’expiration."
   },
   {
-    "question": "24 - Une montée excessive du Qi peut provoquer :",
+    "question": "12 - Quel organe est la racine du Qi respiratoire ?",
     "options": [
-      "Diarrhée",
-      "Vomissements",
-      "Fatigue",
-      "Froid"
-    ],
-    "answerIndex": 1,
-    "explication": "Quand le Qi monte à contre-sens, il peut provoquer vomissements ou toux."
-  },
-  {
-    "question": "25 - Une descente excessive du Qi peut entraîner :",
-    "options": [
-      "Insomnie",
-      "Toux",
-      "Diarrhée",
-      "Fièvre"
+      "Le Poumon",
+      "La Rate",
+      "Le Rein",
+      "Le Cœur"
     ],
     "answerIndex": 2,
-    "explication": "Un Qi qui descend trop provoque diarrhée ou affaissement."
+    "explication": "Le Rein réceptionne le Qi (Na Qi) et est la racine du Qi respiratoire."
+  },
+  {
+    "question": "13 - Quelle est l’émotion associée au Poumon ?",
+    "options": [
+      "La tristesse",
+      "La peur",
+      "La colère",
+      "La joie"
+    ],
+    "answerIndex": 0,
+    "explication": "La tristesse et l’anxiété sont les émotions du Poumon et affaiblissent son Qi."
+  },
+  {
+    "question": "14 - Quel est le liquide physiologique du Poumon ?",
+    "options": [
+      "La sueur",
+      "Les larmes",
+      "La sécrétion nasale",
+      "La salive"
+    ],
+    "answerIndex": 2,
+    "explication": "La sécrétion nasale est le liquide physiologique du Poumon."
+  },
+  {
+    "question": "15 - Quelle fonction le Poumon exerce-t-il sur la peau ?",
+    "options": [
+      "Il nourrit les muscles",
+      "Il contrôle les pores",
+      "Il stocke le Sang",
+      "Il gouverne les os"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Poumon contrôle l’ouverture et la fermeture des pores et régule la transpiration."
   },
 
   {
-    "question": "26 - Le Yuan Qi est :",
+    "question": "16 - À quel élément appartient le Foie ?",
     "options": [
-      "Le Qi défensif",
-      "Le Qi nutritif",
-      "Le Qi originel",
-      "Le Qi digestif"
+      "Feu",
+      "Terre",
+      "Bois",
+      "Eau"
     ],
     "answerIndex": 2,
-    "explication": "Le Yuan Qi est le Qi inné, source de la vitalité."
+    "explication": "Le Foie appartient à l’élément Bois, associé au printemps et au mouvement."
   },
   {
-    "question": "27 - Le Yuan Qi sert principalement à :",
+    "question": "17 - Quelle est la fonction principale du Foie selon l’expression Gan Zhu Shu Xie ?",
     "options": [
-      "Digérer",
-      "Respirer",
-      "Grandir et se développer",
-      "Transpirer"
-    ],
-    "answerIndex": 2,
-    "explication": "Il permet croissance, développement et reproduction."
-  },
-  {
-    "question": "28 - Le Ming Men est situé :",
-    "options": [
-      "Dans la tête",
-      "Dans la poitrine",
-      "Entre les deux reins",
-      "Dans l’estomac"
-    ],
-    "answerIndex": 2,
-    "explication": "Le Ming Men est la porte de la vie, source du Yuan Qi."
-  },
-  {
-    "question": "29 - Le Zong Qi est aussi appelé :",
-    "options": [
-      "Qi défensif",
-      "Qi de la poitrine",
-      "Qi des reins",
-      "Qi émotionnel"
+      "Stocker le Sang",
+      "Dégager et faire circuler le Qi",
+      "Produire le Qi",
+      "Contrôler l’eau"
     ],
     "answerIndex": 1,
-    "explication": "Il aide la respiration et la voix."
+    "explication": "Le Foie régit le drainage et la dispersion : il assure la libre circulation du Qi."
   },
   {
-    "question": "30 - Une faiblesse du Zong Qi provoque :",
+    "question": "18 - Quelle émotion est liée au Foie ?",
     "options": [
-      "Diarrhée",
-      "Voix faible et essoufflement",
-      "Fièvre",
-      "Douleurs lombaires"
+      "La peur",
+      "La tristesse",
+      "La réflexion",
+      "La colère"
+    ],
+    "answerIndex": 3,
+    "explication": "La colère est l’émotion du Foie et entraîne une montée excessive du Qi."
+  },
+  {
+    "question": "19 - Quel est le liquide physiologique du Foie ?",
+    "options": [
+      "La sueur",
+      "Les larmes",
+      "La salive",
+      "La sécrétion nasale"
     ],
     "answerIndex": 1,
-    "explication": "Le Zong Qi soutient la respiration et la parole."
-  },
-
-  {
-    "question": "31 - Le Ying Qi est :",
-    "options": [
-      "Le Qi défensif",
-      "Le Qi nutritif",
-      "Le Qi inné",
-      "Le Qi émotionnel"
-    ],
-    "answerIndex": 1,
-    "explication": "Le Ying Qi nourrit le corps et circule dans les vaisseaux."
+    "explication": "Les larmes sont le liquide physiologique du Foie, en lien avec les yeux."
   },
   {
-    "question": "32 - Le Ying Qi sert principalement à :",
+    "question": "20 - Quels tissus sont gouvernés par le Foie ?",
     "options": [
-      "Défendre le corps",
-      "Nourrir et produire le sang",
-      "Faire transpirer",
-      "Réchauffer la peau"
-    ],
-    "answerIndex": 1,
-    "explication": "Il nourrit les organes et aide à fabriquer le sang."
-  },
-  {
-    "question": "33 - Le Wei Qi est :",
-    "options": [
-      "Le Qi nutritif",
-      "Le Qi défensif",
-      "Le Qi digestif",
-      "Le Qi originel"
-    ],
-    "answerIndex": 1,
-    "explication": "Le Wei Qi protège le corps contre les agressions."
-  },
-  {
-    "question": "34 - Où circule principalement le Wei Qi ?",
-    "options": [
-      "Dans le sang",
-      "À la surface du corps",
-      "Dans les os",
-      "Dans le cerveau"
-    ],
-    "answerIndex": 1,
-    "explication": "Il circule sous la peau et contrôle les pores."
-  },
-  {
-    "question": "35 - Le Wei Qi est plutôt :",
-    "options": [
-      "Yin",
-      "Yang",
-      "Neutre",
-      "Inactif"
-    ],
-    "answerIndex": 1,
-    "explication": "Il est Yang : rapide, mobile et protecteur."
-  },
-
-  {
-    "question": "36 - Le Wei Qi agit :",
-    "options": [
-      "Uniquement le jour",
-      "Uniquement la nuit",
-      "Différemment le jour et la nuit",
-      "Seulement en cas de maladie"
-    ],
-    "answerIndex": 2,
-    "explication": "Le jour en surface, la nuit à l’intérieur."
-  },
-  {
-    "question": "37 - Qui contrôle la transpiration ?",
-    "options": [
-      "Ying Qi",
-      "Wei Qi",
-      "Yuan Qi",
-      "Gu Qi"
-    ],
-    "answerIndex": 1,
-    "explication": "Le Wei Qi ouvre et ferme les pores."
-  },
-  {
-    "question": "38 - Un Qi faible provoque surtout :",
-    "options": [
-      "Douleur aiguë",
-      "Fatigue",
-      "Fièvre élevée",
-      "Convulsions"
-    ],
-    "answerIndex": 1,
-    "explication": "Manque d’énergie, essoufflement, fatigue."
-  },
-  {
-    "question": "39 - Un Qi bloqué provoque surtout :",
-    "options": [
-      "Froid",
-      "Douleurs et tensions",
-      "Diarrhée",
-      "Fatigue extrême"
-    ],
-    "answerIndex": 1,
-    "explication": "Quand le Qi ne circule pas, il y a douleur."
-  },
-  {
-    "question": "40 - Une bonne santé dépend principalement :",
-    "options": [
-      "De la force musculaire",
-      "De l’âge",
-      "De la quantité et circulation du Qi",
-      "Du poids"
-    ],
-    "answerIndex": 2,
-    "explication": "Il faut assez de Qi et qu’il circule bien."
-  },
-
-  {
-    "question": "41 - La MTC est surtout une médecine :",
-    "options": [
-      "Curative",
-      "Préventive",
-      "Chirurgicale",
-      "Urgente"
-    ],
-    "answerIndex": 1,
-    "explication": "Elle cherche à prévenir avant que la maladie apparaisse."
-  },
-  {
-    "question": "42 - Entretenir le Qi permet :",
-    "options": [
-      "De guérir instantanément",
-      "De prévenir les maladies",
-      "De ne jamais vieillir",
-      "De supprimer les émotions"
-    ],
-    "answerIndex": 1,
-    "explication": "Un Qi entretenu = meilleure santé."
-  },
-  {
-    "question": "43 - Le Qi est comparable en médecine occidentale à :",
-    "options": [
-      "Les os",
-      "Le métabolisme et les échanges",
       "Les muscles",
-      "La peau"
+      "La peau",
+      "Les tendons",
+      "Les os"
     ],
-    "answerIndex": 1,
-    "explication": "Il correspond aux fonctions et communications du corps."
-  },
-  {
-    "question": "44 - La Rate est essentielle car elle :",
-    "options": [
-      "Stocke le Qi inné",
-      "Produit le Qi alimentaire",
-      "Protège contre les virus",
-      "Contrôle la respiration"
-    ],
-    "answerIndex": 1,
-    "explication": "Sans Rate forte, pas d’énergie."
-  },
-  {
-    "question": "45 - Le Poumon est essentiel car il :",
-    "options": [
-      "Produit le sang",
-      "Diffuse le Qi de l’air",
-      "Stocke l’énergie",
-      "Gère les émotions"
-    ],
-    "answerIndex": 1,
-    "explication": "Il apporte l’énergie de l’air."
+    "answerIndex": 2,
+    "explication": "Le Foie régit les tendons et l’état du Sang se reflète sur les ongles."
   },
 
   {
-    "question": "46 - Le Qi est-il mesurable directement ?",
+    "question": "21 - À quel élément appartient la Rate ?",
     "options": [
-      "Oui",
-      "Non",
-      "Uniquement en laboratoire",
-      "Seulement chez les malades"
-    ],
-    "answerIndex": 1,
-    "explication": "On observe ses effets, pas le Qi lui-même."
-  },
-  {
-    "question": "47 - Un Qi abondant signifie :",
-    "options": [
-      "Un Qi bloqué",
-      "Un Qi dangereux",
-      "Un Qi fort et suffisant",
-      "Un Qi inutile"
+      "Bois",
+      "Feu",
+      "Terre",
+      "Eau"
     ],
     "answerIndex": 2,
-    "explication": "Un Qi abondant = vitalité."
+    "explication": "La Rate appartient à l’élément Terre et est au centre de la production du Qi et du Sang."
   },
   {
-    "question": "48 - Le Qi est lié à la vie car :",
+    "question": "22 - Quelle est la fonction principale de la Rate ?",
     "options": [
-      "Il est visible",
-      "Il est immobile",
-      "Il permet toutes les fonctions",
-      "Il remplace les organes"
+      "Stocker le Jing",
+      "Transporter et transformer",
+      "Gouverner le Qi",
+      "Propulser le Sang"
+    ],
+    "answerIndex": 1,
+    "explication": "La Rate assure le transport et la transformation des aliments et des liquides."
+  },
+  {
+    "question": "23 - Quelle émotion est associée à la Rate ?",
+    "options": [
+      "La peur",
+      "La tristesse",
+      "La réflexion",
+      "La colère"
     ],
     "answerIndex": 2,
-    "explication": "Sans Qi, aucune fonction n’est possible."
+    "explication": "La réflexion excessive perturbe la Rate et affaiblit ses fonctions digestives."
   },
   {
-    "question": "49 - Un bon équilibre du Qi permet :",
+    "question": "24 - Quel est le liquide physiologique de la Rate ?",
     "options": [
-      "D’éviter toute maladie",
-      "Une meilleure résistance",
-      "De ne plus dormir",
-      "D’arrêter de manger"
+      "La sueur",
+      "La salive Xian",
+      "La salive Tuo",
+      "Les larmes"
     ],
     "answerIndex": 1,
-    "explication": "Un Qi équilibré améliore la résistance globale."
+    "explication": "La salive Xian, fluide et digestive, est associée à la Rate."
   },
   {
-    "question": "50 - En résumé, le Qi est :",
+    "question": "25 - Quels tissus sont contrôlés par la Rate ?",
     "options": [
-      "Une croyance",
-      "Une énergie vitale centrale",
-      "Un organe caché",
-      "Une émotion"
+      "Les tendons",
+      "Les os",
+      "La peau",
+      "Les muscles"
+    ],
+    "answerIndex": 3,
+    "explication": "La Rate contrôle les muscles et les quatre membres."
+  },
+
+  {
+    "question": "26 - À quel élément appartiennent les Reins ?",
+    "options": [
+      "Bois",
+      "Terre",
+      "Feu",
+      "Eau"
+    ],
+    "answerIndex": 3,
+    "explication": "Les Reins appartiennent à l’élément Eau et sont la racine du Ciel Antérieur."
+  },
+  {
+    "question": "27 - Quelle substance fondamentale est stockée par les Reins ?",
+    "options": [
+      "Le Sang",
+      "Le Qi",
+      "Le Jing",
+      "Les Liquides"
+    ],
+    "answerIndex": 2,
+    "explication": "Les Reins stockent le Jing, essence vitale liée à la croissance et à la reproduction."
+  },
+  {
+    "question": "28 - Quelle émotion est liée aux Reins ?",
+    "options": [
+      "La peur",
+      "La joie",
+      "La tristesse",
+      "La colère"
+    ],
+    "answerIndex": 0,
+    "explication": "La peur est l’émotion du Rein et entraîne une descente du Qi."
+  },
+  {
+    "question": "29 - Quel est le liquide physiologique du Rein ?",
+    "options": [
+      "La sueur",
+      "La salive Xian",
+      "La salive Tuo",
+      "Les larmes"
+    ],
+    "answerIndex": 2,
+    "explication": "La salive Tuo, plus épaisse, est liée au Rein et proche du Jing."
+  },
+  {
+    "question": "30 - Quels tissus sont gouvernés par les Reins ?",
+    "options": [
+      "Les muscles",
+      "Les os",
+      "La peau",
+      "Les tendons"
     ],
     "answerIndex": 1,
-    "explication": "Le Qi est l’énergie vitale indispensable à la vie."
+    "explication": "Les Reins régissent les os, les dents et les moelles."
+  },
+
+  {
+    "question": "31 - Quelle est l’ouverture externe des Reins ?",
+    "options": [
+      "La bouche",
+      "Les yeux",
+      "Les oreilles",
+      "Le nez"
+    ],
+    "answerIndex": 2,
+    "explication": "Les Reins s’ouvrent aux oreilles et gouvernent l’audition."
+  },
+  {
+    "question": "32 - Quel organe contrôle la montée du pur ?",
+    "options": [
+      "Le Poumon",
+      "La Rate",
+      "Le Foie",
+      "Le Rein"
+    ],
+    "answerIndex": 1,
+    "explication": "La Rate assure la montée du pur vers le Poumon et le Cœur."
+  },
+  {
+    "question": "33 - Quel organe est la mer du Sang ?",
+    "options": [
+      "Le Foie",
+      "Le Cœur",
+      "La Rate",
+      "Le Rein"
+    ],
+    "answerIndex": 0,
+    "explication": "Le Foie est appelé la mer du Sang et joue un rôle clé dans les menstruations."
+  },
+  {
+    "question": "34 - Quel organe gouverne la voix ?",
+    "options": [
+      "Le Cœur",
+      "Le Rein",
+      "Le Poumon",
+      "La Rate"
+    ],
+    "answerIndex": 2,
+    "explication": "Le Poumon est le maître de la voix grâce au Zong Qi."
+  },
+  {
+    "question": "35 - Quel organe est associé à l’hiver ?",
+    "options": [
+      "Le Foie",
+      "La Rate",
+      "Le Poumon",
+      "Le Rein"
+    ],
+    "answerIndex": 3,
+    "explication": "Le Rein est lié à l’hiver, saison du stockage et de la conservation."
+  },
+
+  {
+    "question": "36 - Quel organe est le fondement de la vie postnatale ?",
+    "options": [
+      "Le Rein",
+      "La Rate et l’Estomac",
+      "Le Poumon",
+      "Le Cœur"
+    ],
+    "answerIndex": 1,
+    "explication": "La Rate et l’Estomac sont la base de la production du Qi et du Sang après la naissance."
+  },
+  {
+    "question": "37 - Quel organe est le fondement du Ciel Antérieur ?",
+    "options": [
+      "Le Rein",
+      "Le Foie",
+      "La Rate",
+      "Le Cœur"
+    ],
+    "answerIndex": 0,
+    "explication": "Le Rein est la racine du Ciel Antérieur et de l’hérédité."
+  },
+  {
+    "question": "38 - Quelle relation unit le Poumon et le Rein ?",
+    "options": [
+      "Le Sang",
+      "La digestion",
+      "La respiration",
+      "Les émotions"
+    ],
+    "answerIndex": 2,
+    "explication": "Le Poumon gouverne la respiration et le Rein réceptionne le Qi."
+  },
+  {
+    "question": "39 - Quel organe est le plus facilement attaqué par les pervers externes ?",
+    "options": [
+      "Le Foie",
+      "Le Poumon",
+      "La Rate",
+      "Le Rein"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Poumon est fragile et directement exposé aux facteurs climatiques."
+  },
+  {
+    "question": "40 - Quel organe contrôle les menstruations ?",
+    "options": [
+      "Le Cœur",
+      "La Rate",
+      "Le Foie",
+      "Le Poumon"
+    ],
+    "answerIndex": 2,
+    "explication": "Le Foie régule le Sang et les méridiens Chong et Ren."
+  },
+
+  {
+    "question": "41 - Quelle est la relation entre le Foie et la Vésicule Biliaire ?",
+    "options": [
+      "Couple Yin-Yang",
+      "Biao-Li",
+      "Mère-Fils",
+      "Opposition"
+    ],
+    "answerIndex": 0,
+    "explication": "Le Foie (Yin) et la Vésicule Biliaire (Yang) forment un couple Yin-Yang."
+  },
+  {
+    "question": "42 - Quel organe régit les quatre membres ?",
+    "options": [
+      "Le Foie",
+      "La Rate",
+      "Le Rein",
+      "Le Poumon"
+    ],
+    "answerIndex": 1,
+    "explication": "La Rate nourrit les muscles et les quatre membres."
+  },
+  {
+    "question": "43 - Quelle est la saveur associée aux Reins ?",
+    "options": [
+      "Acide",
+      "Amer",
+      "Sucré",
+      "Salé"
+    ],
+    "answerIndex": 3,
+    "explication": "La saveur salée est associée à l’élément Eau et aux Reins."
+  },
+  {
+    "question": "44 - Quel organe gouverne la montée excessive du Yang en cas de colère ?",
+    "options": [
+      "Le Foie",
+      "Le Cœur",
+      "Le Poumon",
+      "La Rate"
+    ],
+    "answerIndex": 0,
+    "explication": "La colère entraîne une montée excessive du Yang du Foie."
+  },
+  {
+    "question": "45 - Quel organe contrôle l’ouverture et la fermeture des pores ?",
+    "options": [
+      "Le Rein",
+      "Le Poumon",
+      "La Rate",
+      "Le Foie"
+    ],
+    "answerIndex": 1,
+    "explication": "Le Poumon contrôle la peau et la transpiration."
+  },
+
+  {
+    "question": "46 - Quel organe est appelé l’Empereur ?",
+    "options": [
+      "Le Cœur",
+      "Le Foie",
+      "Le Rein",
+      "Le Poumon"
+    ],
+    "answerIndex": 0,
+    "explication": "Le Cœur est l’Empereur qui gouverne l’ensemble des fonctions."
+  },
+  {
+    "question": "47 - Quel organe est associé au printemps ?",
+    "options": [
+      "Le Poumon",
+      "La Rate",
+      "Le Foie",
+      "Le Rein"
+    ],
+    "answerIndex": 2,
+    "explication": "Le Foie est associé au printemps et à l’élan vital."
+  },
+  {
+    "question": "48 - Quel organe est responsable de la production du Sang ?",
+    "options": [
+      "Le Cœur",
+      "La Rate",
+      "Le Foie",
+      "Le Rein"
+    ],
+    "answerIndex": 1,
+    "explication": "La Rate produit le Sang à partir des essences alimentaires."
+  },
+  {
+    "question": "49 - Quel organe gouverne les tendons ?",
+    "options": [
+      "La Rate",
+      "Le Rein",
+      "Le Poumon",
+      "Le Foie"
+    ],
+    "answerIndex": 3,
+    "explication": "Les tendons sont gouvernés par le Foie et nourris par son Sang."
+  },
+  {
+    "question": "50 - Quel organe est responsable de la réception du Qi de l’air ?",
+    "options": [
+      "Le Cœur",
+      "Le Poumon",
+      "Le Rein",
+      "La Rate"
+    ],
+    "answerIndex": 2,
+    "explication": "Le Rein réceptionne le Qi inspiré par le Poumon (Na Qi)."
   }
 ]

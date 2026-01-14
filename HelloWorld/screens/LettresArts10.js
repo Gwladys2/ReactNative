@@ -1,10 +1,10 @@
 import React, { useContext, useState } from 'react';
 import { View, Text, Button, StyleSheet, Alert } from 'react-native';
-import questions from '../../../questions/MTC/MTC1/serie4.json';
-import { ProgressContext } from '../../../context/ProgressContext';
-import HeaderStats from '../../../components/HeaderStats';
+import questions from '../questions/LettreArts/serie10.json';
+import { ProgressContext } from '../context/ProgressContext';
+import HeaderStats from '../components/HeaderStats';
+import Logo from './Logo'; 
 import { ScrollView } from 'react-native';
-import Logo from '../../Logo';
 
 
 
@@ -63,7 +63,7 @@ export default function LessonScreen({ navigation }) {
             <Logo/>
             {!showRestart ? (
                 <>
-                    <Text style={styles.titre}> Les organes et entrailles</Text>
+                    <Text style={styles.titre}>Lettres et Arts: Portrait et paysage</Text>
 
                     <Text style={styles.question}>{current.question}</Text>
                     {current.options.map((option, i) => (
@@ -74,18 +74,23 @@ export default function LessonScreen({ navigation }) {
             ) : (
                 <>
                     <Text style={styles.question}>Leçon terminée 🎉</Text>
-                    <Button title="revenir à la liste des UE" onPress={() => navigation.navigate('MenuMedeChin')} />
-    
+                    <Button title="revenir à la liste des UE" onPress={() => navigation.navigate('ScienceEducation')} />
+                     
                 </>
             )}
 
          <View style={styles.linkContainer}>
-                              <Text style={styles.link} onPress={() => navigation.navigate('Qi')}>🎈Le QI</Text>
-                              <Text style={styles.link} onPress={() => navigation.navigate('YinYang')}>🎈Le Yin et le Yang</Text>
-                              <Text style={styles.link} onPress={() => navigation.navigate('Elements')}>🎈Les 5 éléments</Text>
-                              <Text style={styles.link} onPress={() => navigation.navigate('OrganesEntrailles')}>🎈Organes et entrailles</Text>
-                              <Text style={styles.link} onPress={() => navigation.navigate('SangLO')}>🎈Le sang et les L.O</Text>
-                              
+                                <Text style={styles.link} onPress={() => navigation.navigate('LettresArts')}> 🌱Introduction Part1</Text>
+                                <Text style={styles.link} onPress={() => navigation.navigate('LettresArts2')}>  🌱Introduction Part2</Text>
+                                <Text style={styles.link} onPress={() => navigation.navigate('LettresArts5')}>  🌱Le réalisme</Text>
+                                <Text style={styles.link} onPress={() => navigation.navigate('LettresArts9')}>  🌱Le romantisme et couleur</Text>
+                                <Text style={styles.link} onPress={() => navigation.navigate('LettresArts10')}>  🌱Portrait et paysage</Text>
+                                <Text style={styles.link} onPress={() => navigation.navigate('LettresArts11')}>  🌱Le Peintre de la vie moderne</Text>
+                                <Text style={styles.link} onPress={() => navigation.navigate('LettresArts6')}>  🌱Les Goncourt et l’écriture « artiste »</Text>
+                                <Text style={styles.link} onPress={() => navigation.navigate('LettresArts7')}>  🌱Baudelaire, la vie moderne & le spleen</Text>
+                                <Text style={styles.link} onPress={() => navigation.navigate('LettresArts8')}>  🌱Femmes auteures / artistes au XIXᵉ siècle</Text>
+                                <Text style={styles.link} onPress={() => navigation.navigate('LettresArts3')}> 🌱Le commentaire comparé</Text>
+                                 <Text style={styles.link} onPress={() => navigation.navigate('LettresArts4')}> 🌱Le petit lexique du Littéraire</Text>
                                 </View>
         
                 </ScrollView>
@@ -97,13 +102,11 @@ export default function LessonScreen({ navigation }) {
                 padding: 20, 
                 justifyContent: 'flex-start',
                 
-                
             },
             question: { 
                 fontSize: 20, 
                 marginBottom: 20, 
-                fontWeight: 'bold',
-                
+                fontWeight: 'bold' 
             },
             titre: { 
                 textAlign: 'center', 
@@ -118,11 +121,10 @@ export default function LessonScreen({ navigation }) {
                 flexWrap: 'wrap',            // ✅ permet le retour à la ligne si trop long
                 marginTop: 20,
                 marginBottom: 20,
-                
             },
             link: {
                 fontSize: 16,
-                color: '#141514ff',
+                color: '#007BFF',
                 textDecorationLine: 'none',
                 marginHorizontal: 8 , // ✅ espace horizontal entre les liens
                 fontSize:20

@@ -1,305 +1,604 @@
 [
   {
     "question": "1 - Quel changement social majeur affecte la place des femmes sous Napoléon Ier ?",
-    "options": ["Accès à la citoyenneté", "Droit de vote", "Retour à une stricte sujétion au père ou au mari", "Liberté juridique totale"],
+    "options": [
+      "Accès à la citoyenneté",
+      "Droit de vote",
+      "Retour à la stricte sujétion au père ou au mari",
+      "Liberté juridique totale"
+    ],
     "answerIndex": 2,
     "explication": "Le Code civil de Napoléon impose un retour à une autorité paternelle ou maritale très forte."
   },
+
   {
     "question": "2 - Quelle institution permettait aux femmes de la haute société d’exercer une influence culturelle aux XVIIᵉ et XVIIIᵉ siècles ?",
-    "options": ["Les académies", "Les cafés littéraires", "Les salons", "Les lycées féminins"],
-    "answerIndex": 2,
+    "options": [
+      "Les académies",
+      "Les cafés littéraires",
+      "Les lycées féminins",
+      "Les salons"
+    ],
+    "answerIndex": 3,
     "explication": "Les salons féminins étaient des lieux d’influence culturelle importants."
   },
+
   {
     "question": "3 - Quelle auteure tient un salon très fréquenté sous la Restauration ?",
-    "options": ["Mme de Staël", "Mme de Duras", "Mme de Récamier", "Mme de Girardin"],
-    "answerIndex": 1,
+    "options": [
+      "Mme de Staël",
+      "Mme de Récamier",
+      "Mme de Duras",
+      "Mme de Girardin"
+    ],
+    "answerIndex": 2,
     "explication": "La duchesse de Duras organise un salon très couru par l’intelligentsia."
   },
+
   {
     "question": "4 - Selon Anthony Glinoër, comment les femmes sont-elles perçues dans l’imaginaire bohème ?",
-    "options": ["Comme des artistes reconnues", "Comme des figures interchangeables", "Comme des leaders intellectuelles", "Comme des mécènes influentes"],
-    "answerIndex": 1,
+    "options": [
+       "Comme des figures interchangeables",
+      "Comme des artistes reconnues",
+      "Comme des leaders intellectuelles",
+      "Comme des mécènes influentes"
+    ],
+    "answerIndex": 0,
     "explication": "Les femmes n’y sont souvent que des silhouettes, dépourvues d’individualité."
   },
+
   {
-    "question": "5 - Dans *Manette Salomon*, que reprochent les Goncourt aux femmes ?",
-    "options": ["Une intelligence médiocre et une influence néfaste", "Une trop grande ambition artistique", "Un manque d'intérêt pour la famille", "Une présence excessive dans les ateliers"],
-    "answerIndex": 0,
+    "question": "5 - Dans Manette Salomon, que reprochent les Goncourt aux femmes ?",
+    "options": [
+      "Une trop grande ambition artistique",
+       "Une intelligence médiocre et une influence néfaste",
+      "Un manque d'intérêt pour la famille",
+      "Une présence excessive dans les ateliers"
+    ],
+    "answerIndex": 1,
     "explication": "Les Goncourt associent femmes et danger pour la création artistique."
   },
+
   {
     "question": "6 - Comment appelle-t-on au XIXᵉ siècle une femme considérée comme trop instruite ou trop littéraire ?",
-    "options": ["Une douairière", "Un bas-bleu", "Une muse", "Une égérie"],
-    "answerIndex": 1,
+    "options": [
+      "Une douairière",
+      "Une muse",
+      "Un bas-bleu",
+      "Une égérie"
+    ],
+    "answerIndex": 2,
     "explication": "Le terme « bas-bleu » désigne péjorativement une femme intellectuelle."
   },
+
   {
     "question": "7 - Quelle critique est souvent adressée aux femmes auteures selon Nathalie Heinich ?",
-    "options": ["Elles manquent d’imagination", "Leur travail est trop politique", "Elles renoncent à la féminité ou à l’écriture", "Elles écrivent trop d’ouvrages"],
-    "answerIndex": 2,
+    "options": [
+      "Elles renoncent à la féminité ou à l’écriture",
+      "Elles manquent d’imagination",
+      "Leur travail est trop politique",
+      "Elles écrivent trop d’ouvrages"
+    ],
+    "answerIndex": 0,
     "explication": "Elles doivent choisir entre écriture et féminité, dans une vision misogyne."
   },
+
   {
     "question": "8 - Quel terme latin rappelle le caractère public de l'acte d’écrire ?",
-    "options": ["scribere", "legere", "publicare", "editare"],
-    "answerIndex": 2,
+    "options": [
+      "scribere",
+      "legere",
+      "editare",
+      "publicare"
+    ],
+    "answerIndex": 3,
     "explication": "« Publicare » signifie rendre public, notion liée à la publication."
   },
+
   {
     "question": "9 - Quel ouvrage de Félicité de Genlis met en scène le problème de la femme auteur ?",
-    "options": ["La Femme auteur", "Corinne", "Indiana", "Rose et Blanche"],
-    "answerIndex": 0,
-    "explication": "Genlis publie *La Femme auteur* en 1802."
+    "options": [  
+      "Corinne",
+      "Indiana",
+      "La Femme auteur",
+      "Rose et Blanche"
+    ],
+    "answerIndex": 2,
+    "explication": "Genlis publie La Femme auteur en 1802."
   },
+
   {
-    "question": "10 - Qui écrit *Corinne ou l’Italie* ?",
-    "options": ["George Sand", "Germaine de Staël", "Marceline Desbordes-Valmore", "Mme de Genlis"],
+    "question": "10 - Qui écrit Corinne ou l’Italie ?",
+    "options": [
+      "George Sand",
+      "Germaine de Staël",
+      "Marceline Desbordes-Valmore",
+      "Mme de Genlis"
+    ],
     "answerIndex": 1,
-    "explication": "*Corinne* (1807) est un roman de Mme de Staël sur la femme artiste."
+    "explication": "Corinne (1807) est un roman de Mme de Staël sur la femme artiste."
   },
+
   {
     "question": "11 - Quel est le vrai nom de George Sand ?",
-    "options": ["Aurore Dupin", "Aurore Dudevant", "Aurore Vallon", "Aurore Duras"],
-    "answerIndex": 0,
+    "options": [    
+      "Aurore Dudevant",
+      "Aurore Vallon",
+      "Aurore Dupin",
+      "Aurore Duras"
+    ],
+    "answerIndex": 2,
     "explication": "George Sand naît Aurore Dupin en 1804."
   },
+
   {
     "question": "12 - À quel moment George Sand commence-t-elle sa carrière littéraire ?",
-    "options": ["1822", "1831", "1848", "1860"],
-    "answerIndex": 1,
-    "explication": "En 1831, elle quitte son mari et co-écrit *Rose et Blanche* avec Jules Sandeau."
+    "options": [
+      "1831",
+      "1822",
+      "1848",
+      "1860"
+    ],
+    "answerIndex": 0,
+    "explication": "En 1831, elle quitte son mari et co-écrit Rose et Blanche avec Jules Sandeau."
   },
+
   {
     "question": "13 - Quel roman marque la naissance du pseudonyme George Sand ?",
-    "options": ["Indiana", "La Petite Fadette", "Consuelo", "Le Meunier d’Angibault"],
-    "answerIndex": 0,
-    "explication": "C’est avec *Indiana* (1832) qu’elle adopte son pseudonyme."
+    "options": [  
+      "La Petite Fadette",
+      "Consuelo",
+      "Le Meunier d’Angibault",
+      "Indiana"
+    ],
+    "answerIndex": 3,
+    "explication": "C’est avec Indiana (1832) qu’elle adopte son pseudonyme."
   },
+
   {
-    "question": "14 - Comment Baudelaire juge-t-il George Sand dans ses *Journaux intimes* ?",
-    "options": ["Comme une grande artiste", "Comme un écrivain profond", "Comme une moraliste bavarde et lourde", "Comme une figure révolutionnaire"],
-    "answerIndex": 2,
+    "question": "14 - Comment Baudelaire juge-t-il George Sand dans ses Journaux intimes ?",
+    "options": [
+      "Comme une grande artiste",
+       "Comme une moraliste bavarde et lourde",
+      "Comme un écrivain profond",
+      "Comme une figure révolutionnaire"
+    ],
+    "answerIndex": 1,
     "explication": "Baudelaire la critique très durement, la jugeant bavarde et lourde."
   },
+
   {
     "question": "15 - Quelle habitude de vie George Sand adopte-t-elle, selon Balzac ?",
-    "options": ["Une vie d’ascète", "Une vie nocturne et bohème", "Une vie mondaine", "Une vie de voyageuse"],
-    "answerIndex": 1,
+    "options": [
+      "Une vie d’ascète",
+      "Une vie mondaine",
+      "Une vie nocturne et bohème",
+      "Une vie de voyageuse"
+    ],
+    "answerIndex": 2,
     "explication": "Balzac décrit ses nuits de travail et levées tardives."
   },
+
   {
     "question": "16 - Quel vêtement George Sand se met-elle à porter pour circuler librement à Paris ?",
-    "options": ["Une robe courte", "Un uniforme militaire", "Des habits masculins", "Un manteau oriental"],
-    "answerIndex": 2,
+    "options": [
+      "Des habits masculins",
+      "Une robe courte",
+      "Un uniforme militaire",
+      "Un manteau oriental"
+    ],
+    "answerIndex": 0,
     "explication": "Elle porte redingote, pantalon et cravate pour gagner en liberté."
   },
+
   {
     "question": "17 - Comment George Sand décrit-elle son choix de la littérature ?",
-    "options": ["Comme un destin mystique", "Comme un moyen d’expression pure", "Comme un gagne-pain", "Comme un renoncement"],
-    "answerIndex": 2,
-    "explication": "Dans *Histoire de ma vie*, elle dit écrire pour gagner sa vie."
+    "options": [
+      "Comme un destin mystique",
+      "Comme un gagne-pain",
+      "Comme un moyen d’expression pure",
+      "Comme un renoncement"
+    ],
+    "answerIndex": 1,
+    "explication": "Dans Histoire de ma vie, elle dit écrire pour gagner sa vie."
   },
+
   {
     "question": "18 - Quel type de romans George Sand écrit-elle dans les années 1840 ?",
-    "options": ["Romans gothiques", "Romans champêtres", "Romans policiers", "Romans historiques"],
-    "answerIndex": 1,
+    "options": [
+      "Romans gothiques",
+      "Romans policiers",
+      "Romans historiques",
+      "Romans champêtres"
+    ],
+    "answerIndex": 3,
     "explication": "Après sa période sociale, elle se tourne vers les romans champêtres."
   },
+
   {
     "question": "19 - Quel roman de Sand met en scène la condition de l’artiste féminine ?",
-    "options": ["Indiana", "Consuelo", "La Mare au diable", "La Ville noire"],
-    "answerIndex": 1,
-    "explication": "*Consuelo* (1842) explore la vie d’une artiste inspirée de Pauline Viardot."
+    "options": [
+      "Consuelo",
+      "Indiana",
+      "La Mare au diable",
+      "La Ville noire"
+    ],
+    "answerIndex": 0,
+    "explication": "Consuelo (1842) explore la vie d’une artiste inspirée de Pauline Viardot."
   },
+
   {
     "question": "20 - Qui inspire le personnage de Consuelo ?",
-    "options": ["Clara Schumann", "Pauline Viardot", "Fanny Mendelssohn", "Berthe Morisot"],
-    "answerIndex": 1,
+    "options": [
+      "Clara Schumann",
+      "Fanny Mendelssohn",
+      "Pauline Viardot",
+      "Berthe Morisot"
+    ],
+    "answerIndex": 2,
     "explication": "La cantatrice Pauline Viardot est le modèle de Consuelo."
   },
 
   {
     "question": "21 - Quel rôle jouaient les salons féminins au XVIIIᵉ siècle ?",
-    "options": ["Centres politiques", "Lieux de sociabilité littéraire", "Espaces scolaires", "Institutions officielles"],
+    "options": [
+      "Centres politiques",
+      "Lieux de sociabilité littéraire",
+      "Espaces scolaires",
+      "Institutions officielles"
+    ],
     "answerIndex": 1,
     "explication": "Ils formaient un cadre de discussion intellectuelle."
   },
+
   {
     "question": "22 - Comment Anthony Glinoër décrit-il les interventions des femmes dans les lieux publics ?",
-    "options": ["Pertinentes", "Importantes", "Intempestives", "Encouragées"],
-    "answerIndex": 2,
+    "options": [
+      "Pertinentes",
+      "Importantes",
+      "Encouragées",
+      "Intempestives"
+      
+    ],
+    "answerIndex": 3,
     "explication": "Les discours de l’époque jugent leurs interventions importunes."
   },
+
   {
     "question": "23 - Quelle activité féminine est valorisée dans l’extrait de Desbordes-Valmore ?",
-    "options": ["La peinture professionnelle", "La poésie", "L’organisation domestique", "La musique"],
-    "answerIndex": 2,
+    "options": [
+      "L’organisation domestique",
+      "La peinture professionnelle",
+      "La poésie",
+      "La musique"
+    ],
+    "answerIndex": 0,
     "explication": "L’auteure décrit Ondine comme « reine » du ménage."
   },
+
   {
     "question": "24 - Quel reproche est fait au bas-bleu dans l’iconographie de Daumier ?",
-    "options": ["Ignorance", "Désordre moral", "Délaissement du foyer", "Violence"],
+    "options": [
+      "Ignorance",
+      "Désordre moral",
+      "Délaissement du foyer",
+      "Violence"
+    ],
     "answerIndex": 2,
     "explication": "Daumier montre la mère écrivant alors que l’enfant est oublié."
   },
+
   {
     "question": "25 - Qu’est-ce que l’expression « arts d’agrément » ?",
-    "options": ["Arts professionnels", "Arts militaires", "Arts amateurs réservés aux femmes", "Arts religieux"],
+    "options": [
+      "Arts professionnels",
+      "Arts militaires",
+      "Arts amateurs réservés aux femmes",
+      "Arts religieux"
+    ],
     "answerIndex": 2,
     "explication": "Les femmes sont confinées à des arts non professionnels."
   },
+
   {
     "question": "26 - Quel statut social particulier caractérise George Sand ?",
-    "options": ["Origine exclusivement aristocratique", "Origine exclusivement bourgeoise", "Origine hybride, plébéienne et aristocratique", "Origine étrangère"],
-    "answerIndex": 2,
+    "options": [
+      "Origine exclusivement aristocratique",
+      "Origine exclusivement bourgeoise",
+      "Origine étrangère",
+      "Origine hybride, plébéienne et aristocratique"
+    ],
+    "answerIndex": 3,
     "explication": "Elle est mi-aristocrate par son père, mi-plébéienne par sa mère."
   },
+
   {
     "question": "27 - Quel roman de Sand met en scène la population ouvrière ?",
-    "options": ["La Ville noire", "Indiana", "La Mare au diable", "François le Champi"],
+    "options": [
+      "La Ville noire",
+      "Indiana",
+      "La Mare au diable",
+      "François le Champi"
+    ],
     "answerIndex": 0,
     "explication": "La Ville noire (1860) traite du monde ouvrier."
   },
+
   {
     "question": "28 - Quel personnage masculin accompagne Sand à ses débuts littéraires ?",
-    "options": ["Flaubert", "Balzac", "Jules Sandeau", "Mérimée"],
+    "options": [
+      "Flaubert",
+      "Balzac",
+      "Jules Sandeau",
+      "Mérimée"
+    ],
     "answerIndex": 2,
     "explication": "Elle commence en écrivant avec Jules Sandeau."
   },
+
   {
     "question": "29 - Quel élément de la vie de Sand montre son désir d’indépendance ?",
-    "options": ["Son mariage", "Son retour à la campagne", "Sa séparation et son départ pour Paris", "Son engagement religieux"],
-    "answerIndex": 2,
+    "options": [
+      "Son mariage", 
+      "Sa séparation et son départ pour Paris",
+      "Son retour à la campagne",
+      "Son engagement religieux"
+    ],
+    "answerIndex": 1,
     "explication": "En 1831 elle quitte son mari pour vivre de l’écriture."
   },
+
   {
     "question": "30 - Quelle critique commune vise les femmes auteures au XIXᵉ siècle ?",
-    "options": ["Manque de talent", "Danger moral et social", "Collaboration excessive", "Production insuffisante"],
-    "answerIndex": 1,
+    "options": [
+      "Manque de talent",
+      "Collaboration excessive",
+      "Production insuffisante",
+      "Danger moral et social"
+    ],
+    "answerIndex": 3,
     "explication": "Publier était vu comme une atteinte à la moralité féminine."
   },
 
   {
     "question": "31 - Quelle figure féminine influente tenait un célèbre salon au début du XIXᵉ siècle ?",
-    "options": ["Mme de Staël", "Mme de Charrière", "Mme de Sévigné", "Mme du Deffant"],
+    "options": [
+      "Mme de Staël",
+      "Mme de Charrière",
+      "Mme de Sévigné",
+      "Mme du Deffant"
+    ],
     "answerIndex": 0,
     "explication": "Mme de Staël joue un rôle majeur sous l’Empire et la Restauration."
   },
+
   {
     "question": "32 - Selon les Goncourt, pourquoi les femmes ne conviennent-elles pas aux artistes ?",
-    "options": ["Elles manquent de goût", "Elles manquent d’intelligence et blessent l’artiste", "Elles sont trop ambitieuses", "Elles sont trop instruites"],
-    "answerIndex": 1,
+    "options": [
+      "Elles manquent de goût",
+      "Elles sont trop ambitieuses",
+      "Elles manquent d’intelligence et blessent l’artiste",
+      "Elles sont trop instruites"
+    ],
+    "answerIndex": 2,
     "explication": "Elles seraient nuisibles à l’effort créatif."
   },
+
   {
     "question": "33 - Quel élément de l’idéologie patriarcale ressort de la critique du bas-bleu ?",
-    "options": ["Le rejet de la maternité", "La valorisation de la virilité", "L’incompatibilité entre féminité et écriture", "La nécessité du mariage"],
-    "answerIndex": 2,
+    "options": [
+      "Le rejet de la maternité",
+      "L’incompatibilité entre féminité et écriture",
+      "La valorisation de la virilité",
+      "La nécessité du mariage"
+    ],
+    "answerIndex": 1,
     "explication": "Écrire ferait perdre sa féminité."
   },
+
   {
     "question": "34 - Comment George Sand justifie-t-elle son activité littéraire ?",
-    "options": ["Par un désir de gloire", "Par une ambition politique", "Par nécessité économique", "Par désir d’imiter les hommes"],
-    "answerIndex": 2,
+    "options": [
+      "Par un désir de gloire",
+      "Par une ambition politique",
+      "Par désir d’imiter les hommes",
+      "Par nécessité économique"
+    ],
+    "answerIndex": 3,
     "explication": "Elle parle de la littérature comme d’un métier."
   },
+
   {
     "question": "35 - Quel romancier critique violemment George Sand pour son style ?",
-    "options": ["Zola", "Baudelaire", "Hugo", "Mérimée"],
-    "answerIndex": 1,
+    "options": [
+      "Baudelaire",
+      "Zola", 
+      "Hugo",
+      "Mérimée"
+    ],
+    "answerIndex": 0,
     "explication": "Baudelaire la traite de « bête » et « bavarde »."
   },
+
   {
     "question": "36 - Quelle artiste du XIXᵉ siècle figure aussi dans la présentation ?",
-    "options": ["Eva Gonzalès", "Berthe Morisot", "Rosa Bonheur", "Mary Cassatt"],
-    "answerIndex": 1,
+    "options": [
+      "Eva Gonzalès",
+      "Rosa Bonheur",
+      "Berthe Morisot",
+      "Mary Cassatt"
+    ],
+    "answerIndex": 2,
     "explication": "Berthe Morisot est citée comme artiste féminine."
   },
+
   {
     "question": "37 - Quelle musicienne célèbre est mentionnée ?",
-    "options": ["Pauline Viardot", "Clara Schumann", "George Sand", "Sophie Germain"],
+    "options": [
+      "Pauline Viardot",
+      "Clara Schumann",
+      "George Sand",
+      "Sophie Germain"
+    ],
     "answerIndex": 1,
     "explication": "Clara Schumann est citée dans le cours."
   },
+
   {
-    "question": "38 - Quel lien entre Pauline Viardot et George Sand justifie *Consuelo* ?",
-    "options": ["Viardot fut son amante", "Viardot fut son modèle artistique", "Viardot fut sa professeure de chant", "Viardot fut son éditrice"],
-    "answerIndex": 1,
+    "question": "38 - Quel lien entre Pauline Viardot et George Sand justifie Consuelo ?",
+    "options": [
+      "Viardot fut son amante",
+      "Viardot fut sa professeure de chant",
+      "Viardot fut son éditrice",
+      "Viardot fut son modèle artistique"
+    ],
+    "answerIndex": 3,
     "explication": "Viardot inspire le personnage de Consuelo."
   },
+
   {
-    "question": "39 - Quelle romancière évoque l’organisation domestique dans *L’Atelier d’un peintre* ?",
-    "options": ["Desbordes-Valmore", "George Sand", "Mme de Genlis", "Mme de Duras"],
+    "question": "39 - Quelle romancière évoque l’organisation domestique dans L’Atelier d’un peintre ?",
+    "options": [
+      "Desbordes-Valmore",
+      "George Sand",
+      "Mme de Genlis",
+      "Mme de Duras"
+    ],
     "answerIndex": 0,
     "explication": "Marceline Desbordes-Valmore décrit Ondine."
   },
+
   {
     "question": "40 - Comment l’imaginaire masculin représente-t-il les femmes dans les milieux artistiques ?",
-    "options": ["Comme des rivales", "Comme des muses créatrices", "Comme des présences insignifiantes", "Comme des égales"],
+    "options": [
+      "Comme des rivales",
+      "Comme des muses créatrices",
+      "Comme des présences insignifiantes",
+      "Comme des égales"
+    ],
     "answerIndex": 2,
     "explication": "Elles sont réduites à des silhouettes interchangeables."
   },
 
   {
     "question": "41 - Selon Soulié, quel est un signe distinctif du bas-bleu ?",
-    "options": ["La modestie", "Le rouge à lèvres", "Le turban", "Le tailleur masculin"],
-    "answerIndex": 2,
+    "options": [
+      "La modestie",
+      "Le rouge à lèvres",
+      "Le tailleur masculin",
+      "Le turban"
+    ],
+    "answerIndex": 3,
     "explication": "Le turban symbolise l’affectation intellectuelle."
   },
+
   {
     "question": "42 - Quelle accusation morale pèse sur la femme écrivaine ?",
-    "options": ["Vanité", "Démoralisation", "Ignorance", "Oisiveté"],
-    "answerIndex": 1,
+    "options": [
+      "Démoralisation",
+      "Vanité",
+      "Ignorance",
+      "Oisiveté"
+    ],
+    "answerIndex": 0,
     "explication": "Publier est perçu comme démoralisant pour une femme."
   },
+
   {
     "question": "43 - Quel portrait Balzac fait-il de Sand ?",
-    "options": ["Une femme très féminine", "Une femme fragile", "Une femme ‘garçon’", "Une mondaine raffinée"],
+    "options": [
+      "Une femme très féminine",
+      "Une femme fragile",
+      "Une femme ‘garçon’",
+      "Une mondaine raffinée"
+    ],
     "answerIndex": 2,
     "explication": "Il la décrit comme garçonne et artiste."
   },
-  {
+
+   {
     "question": "44 - Que permet à Sand son déguisement masculin ?",
-    "options": ["Être respectée", "Entrer en politique", "Circuler librement et anonymement", "Voyager à l’étranger"],
-    "answerIndex": 2,
+    "options": [
+      "Être respectée",
+      "Circuler librement et anonymement",
+      "Entrer en politique",
+      "Voyager à l’étranger"
+    ],
+    "answerIndex": 1,
     "explication": "Elle peut marcher, rentrer tard et aller au théâtre incognito."
   },
+
   {
     "question": "45 - Quelle critique esthétique Baudelaire adresse-t-il à Sand ?",
-    "options": ["Trop d’originalité", "Manque d’art", "Style trop obscur", "Manque de réalisme"],
-    "answerIndex": 1,
+    "options": [
+      "Trop d’originalité",
+      "Style trop obscur",
+      "Manque de réalisme",
+      "Manque d’art"
+    ],
+    "answerIndex": 3,
     "explication": "Il affirme qu’elle n’a ‘jamais été artiste’."
   },
+
   {
     "question": "46 - Quel genre littéraire Sand renouvelle-t-elle selon le cours ?",
-    "options": ["Le roman gothique", "Le roman policier", "Le roman champêtre", "La tragédie classique"],
-    "answerIndex": 2,
+    "options": [
+      "Le roman champêtre",
+      "Le roman gothique",
+      "Le roman policier",
+      "La tragédie classique"
+    ],
+    "answerIndex": 0,
     "explication": "Elle s’illustre notamment dans les romans champêtres."
   },
+
   {
     "question": "47 - Que représente pour Sand son domaine de Nohant ?",
-    "options": ["Une prison", "Un lieu d’inspiration", "Un héritage encombrant", "Un espace social mondain"],
-    "answerIndex": 1,
+    "options": [
+      "Une prison",
+      "Un héritage encombrant",
+      "Un lieu d’inspiration",
+      "Un espace social mondain"
+    ],
+    "answerIndex": 2,
     "explication": "Elle y reçoit, écrit et élève ses enfants."
   },
+
   {
     "question": "48 - Quel thème revient souvent dans les romans de Sand ?",
-    "options": ["La colonisation", "La paysannerie", "La mythologie", "La science"],
+    "options": [
+      "La colonisation",
+      "La paysannerie",
+      "La mythologie",
+      "La science"
+    ],
     "answerIndex": 1,
     "explication": "Elle s’intéresse profondément au monde rural."
   },
+
   {
     "question": "49 - Quelle contrainte sociale pèse sur les femmes dans les milieux artistiques selon Glinoër ?",
-    "options": ["Manque de formation", "Absence de génie", "Manque de statut dans les lieux publics", "Opposition des artistes femmes entre elles"],
-    "answerIndex": 2,
+    "options": [
+      "Manque de formation",
+      "Absence de génie",
+      "Opposition des artistes femmes entre elles",
+      "Manque de statut dans les lieux publics"
+    ],
+    "answerIndex": 3,
     "explication": "Elles n’ont pas la reconnaissance des pairs masculins."
   },
+
   {
     "question": "50 - Quel enjeu principal traverse toute la condition féminine au XIXᵉ siècle selon la présentation ?",
-    "options": ["L’excès d’éducation", "La conquête de la liberté et de la légitimité artistique", "La richesse croissante", "La participation à la guerre"],
-    "answerIndex": 1,
+    "options": [
+      "La conquête de la liberté et de la légitimité artistique",
+      "L’excès d’éducation",
+      "La richesse croissante",
+      "La participation à la guerre"
+    ],
+    "answerIndex": 0,
     "explication": "Les femmes cherchent à exister dans un milieu qui les marginalise."
   }
 ]
+
+   

@@ -125,12 +125,12 @@
   {
     "question": "12 - Pourquoi la température du corps reste-t-elle stable selon la MTC ?",
     "options": [
+      "Grâce à la restriction Yin/Yang",  
       "Grâce aux hormones",
-      "Grâce à la restriction Yin/Yang",
       "Grâce au cerveau",
       "Grâce à l’alimentation"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explication": "La température est stable car le Yin et le Yang se contrôlent mutuellement."
   },
   {
@@ -159,11 +159,11 @@
     "question": "15 - Pourquoi le feu contient-il du Yin ?",
     "options": [
       "Parce qu’il est froid",
-      "Parce qu’il a besoin de matière pour brûler",
       "Parce qu’il est immobile",
-      "Parce qu’il est sombre"
+      "Parce qu’il est sombre",
+      "Parce qu’il a besoin de matière pour brûler"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explication": "Le feu est Yang à l’extérieur, mais il a besoin de matière (Yin) pour exister."
   },
 
@@ -171,22 +171,22 @@
     "question": "16 - Que signifie l’interdépendance Yin/Yang ?",
     "options": [
       "Ils s’opposent uniquement",
-      "Ils existent toujours ensemble",
       "Ils sont indépendants",
+      "Ils existent toujours ensemble",
       "Ils sont en conflit permanent"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explication": "Le Yin ne peut pas exister sans le Yang, et inversement."
   },
   {
     "question": "17 - Quelle phrase est correcte ?",
     "options": [
+        "Le Yang contient le Yin",
       "Le Yin domine toujours le Yang",
-      "Le Yang contient le Yin",
       "Le Yin élimine le Yang",
       "Le Yang détruit le Yin"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explication": "On dit que le Yang contient le Yin et que le Yin retient le Yang."
   },
   {
@@ -261,10 +261,10 @@
     "options": [
       "Le refroidissement",
       "L’anabolisme",
-      "L’excitation",
-      "L’inhibition"
+      "L’inhibition",
+      "L’excitation"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "explication": "Le Yang excite, réchauffe et propulse."
   },
   {
@@ -283,11 +283,11 @@
     "question": "26 - Le catabolisme appartient plutôt au :",
     "options": [
       "Yin",
-      "Yang",
       "Les deux",
+      "Yang",
       "Aucun"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explication": "Le catabolisme (destruction, transformation) est une fonction Yang."
   },
   {
@@ -315,12 +315,12 @@
   {
     "question": "29 - Une chaleur due à un excès de Yang est appelée :",
     "options": [
+     "Chaleur plénitude",
       "Chaleur vide",
-      "Chaleur plénitude",
       "Froid vide",
       "Froid plénitude"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explication": "Un excès de Yang produit une chaleur dite de plénitude."
   },
   {
@@ -339,11 +339,11 @@
     "question": "31 - Un refroidissement hivernal correspond plutôt à :",
     "options": [
       "Un vide de Yang",
-      "Un excès de Yin",
       "Un excès de Yang",
-      "Un vide de Yin"
+      "Un vide de Yin",
+      "Un excès de Yin"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explication": "Le froid plénitude est lié à un excès de Yin."
   },
   {
@@ -372,18 +372,18 @@
     "question": "34 - La peau est plutôt :",
     "options": [
       "Yin",
-      "Yang",
       "Neutre",
-      "Variable"
+      "Variable",
+      "Yang"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explication": "La peau est externe, donc plutôt Yang."
   },
   {
     "question": "35 - Les os sont plutôt :",
     "options": [
-      "Yang",
-      "Yin",
+      "Yin",  
+      "Yang", 
       "Externes",
       "Excités"
     ],
@@ -416,12 +416,12 @@
   {
     "question": "38 - Sur le plan clinique, ces classifications sont :",
     "options": [
+      "Peu utiles",  
       "Essentielles",
       "Indispensables",
-      "Peu utiles",
       "Obligatoires"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "explication": "Le cours précise que ces détails ont peu d’utilité clinique."
   },
   {
@@ -451,11 +451,11 @@
     "question": "41 - Le Yin a un effet principalement :",
     "options": [
       "Réchauffant",
-      "Rafraîchissant",
       "Excitant",
-      "Propulsif"
+      "Propulsif",
+      "Rafraîchissant"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explication": "Le Yin rafraîchit et calme."
   },
   {
@@ -483,12 +483,12 @@
   {
     "question": "44 - Humecter et rafraîchir sont des fonctions :",
     "options": [
+      "Yin",  
       "Yang",
-      "Yin",
       "Mixtes",
       "Neutres"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explication": "Humecter et rafraîchir sont des fonctions Yin."
   },
   {
@@ -507,22 +507,22 @@
     "question": "46 - Le Yin et le Yang sont surtout utilisés pour :",
     "options": [
       "Nommer les maladies",
-      "Comprendre les déséquilibres",
       "Remplacer la médecine moderne",
-      "Faire des diagnostics précis"
+      "Faire des diagnostics précis",
+      "Comprendre les déséquilibres"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explication": "Ils servent à comprendre les déséquilibres du corps."
   },
   {
     "question": "47 - Une infection donne souvent :",
     "options": [
-      "Un froid vide",
       "Une chaleur plénitude",
+      "Un froid vide",
       "Un froid plénitude",
       "Un vide de Yin"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explication": "Les infections provoquent souvent un excès de Yang donc une chaleur plénitude."
   },
   {

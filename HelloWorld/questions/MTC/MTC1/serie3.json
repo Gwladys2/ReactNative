@@ -15,10 +15,10 @@
     "options": [
       "Non",
       "Oui, ils fonctionnent indépendamment",
-      "Oui, ils reposent sur l’alternance Yin/Yang",
-      "Uniquement en acupuncture"
+      "Uniquement en acupuncture",
+      "Oui, ils reposent sur l’alternance Yin/Yang"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "explication": "Les 5 éléments reposent sur l’alternance du Yin et du Yang : croissance, apogée, décroissance, repos."
   },
   {
@@ -35,12 +35,12 @@
   {
     "question": "4 - Pourquoi Wang Chong critiquait-il la théorie des 5 éléments ?",
     "options": [
+      "Elle était trop rigide",  
       "Elle était trop simple",
-      "Elle était trop rigide",
       "Elle était trop moderne",
       "Elle ne concernait pas la médecine"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explication": "Wang Chong estimait que cette théorie était trop rigide pour expliquer tous les phénomènes naturels."
   },
   {
@@ -125,12 +125,12 @@
   {
     "question": "12 - Quelle direction est associée à l’Eau ?",
     "options": [
+       "Nord", 
       "Sud",
       "Est",
-      "Nord",
       "Centre"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "explication": "Le Nord est associé au froid et donc à l’Eau."
   },
   {
@@ -158,12 +158,12 @@
   {
     "question": "15 - Quel organe appartient à l’élément Bois ?",
     "options": [
+       "Foie", 
       "Cœur",
-      "Rate",
-      "Foie",
+      "Rate", 
       "Rein"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "explication": "Le Foie est classé dans l’élément Bois."
   },
 
@@ -181,12 +181,12 @@
   {
     "question": "17 - Quel organe est lié à la peur ?",
     "options": [
+      "Rein",
       "Foie",
       "Cœur",
-      "Rein",
       "Poumon"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "explication": "La peur est associée à l’élément Eau et donc aux Reins."
   },
   {
@@ -204,11 +204,11 @@
     "question": "19 - Quelle saveur est associée à la Rate ?",
     "options": [
       "Acide",
-      "Amer",
       "Sucré",
+      "Amer",
       "Piquant"
     ],
-    "answerIndex": 2,
+    "answerIndex": 1,
     "explication": "Le goût sucré est associé à la Terre et à la Rate."
   },
   {
@@ -239,10 +239,10 @@
     "options": [
       "Terre",
       "Eau",
-      "Feu",
-      "Métal"
+      "Métal",
+      "Feu"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "explication": "Le Bois alimente le Feu : le Feu est donc le fils du Bois."
   },
   {
@@ -282,12 +282,12 @@
   {
     "question": "26 - L’expression « le Bois soulève la Terre » signifie :",
     "options": [
+      "Un excès du Foie qui perturbe la digestion",  
       "Un excès de Rate",
-      "Un excès du Foie qui perturbe la digestion",
       "Un excès du Rein",
       "Un excès du Poumon"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explication": "Un Foie trop fort (stress, colère) perturbe la Rate (digestion)."
   },
   {
@@ -317,21 +317,21 @@
     "options": [
       "Bois",
       "Feu",
-      "Métal",
-      "Eau"
+      "Eau",
+      "Métal"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "explication": "La peau est associée au Poumon, donc à l’élément Métal."
   },
   {
     "question": "30 - Quel organe faut-il traiter pour une sécheresse cutanée ?",
     "options": [
+      "Poumon",  
       "Foie",
       "Cœur",
-      "Poumon",
       "Rein"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "explication": "En MTC, la sécheresse de la peau est liée au Poumon."
   },
 
@@ -340,21 +340,21 @@
     "options": [
       "Colère",
       "Joie",
-      "Tristesse",
-      "Peur"
+      "Peur",
+      "Tristesse"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "explication": "La tristesse est associée à l’élément Métal et au Poumon."
   },
   {
     "question": "32 - Quelle couleur correspond au Foie ?",
     "options": [
+       "Vert", 
       "Rouge",
-      "Jaune",
-      "Vert",
+      "Jaune", 
       "Noir"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "explication": "Le vert est la couleur du printemps et du Bois."
   },
   {
@@ -438,12 +438,12 @@
   {
     "question": "40 - Le cycle de contrôle sert principalement à :",
     "options": [
+      "Maintenir l’équilibre",  
       "Créer des maladies",
-      "Maintenir l’équilibre",
       "Bloquer l’énergie",
       "Supprimer un élément"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explication": "Le cycle de contrôle empêche qu’un élément devienne excessif."
   },
 
@@ -451,11 +451,11 @@
     "question": "41 - L’auto-régulation signifie :",
     "options": [
       "Un déséquilibre permanent",
-      "Un retour spontané à l’équilibre",
       "Une destruction d’un élément",
-      "Une maladie chronique"
+      "Une maladie chronique",
+      "Un retour spontané à l’équilibre"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explication": "Grâce aux relations entre éléments, le système tend à revenir à l’équilibre."
   },
   {
@@ -494,12 +494,12 @@
   {
     "question": "45 - Une myopie, des ongles cassants et de l’irritabilité évoquent :",
     "options": [
+      "Un déséquilibre du Bois",  
       "Un déséquilibre du Métal",
-      "Un déséquilibre du Bois",
       "Un déséquilibre du Feu",
       "Un déséquilibre de l’Eau"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explication": "Les yeux, les ongles et la colère relèvent du Bois."
   },
 

@@ -24,12 +24,13 @@
   {
     "question": "3 - L'anacoluthe désigne :",
     "options": [
-      "Une rupture de construction grammaticale",
+      
       "Une absence de ponctuation",
       "Une suite d’idées logiques et ordonnées",
+      "Une rupture de construction grammaticale",
       "Une exagération volontaire"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "explication": "L'anacoluthe est une rupture de construction grammaticale. Exemple littéraire : 'Le nez de Cléopâtre, s’il eût été plus court, toute la face du monde en eût été changée.' Exemple du quotidien : 'Moi, mon frère, il a réussi son examen.'"
   },
   {
@@ -68,12 +69,13 @@
   {
     "question": "7 - L’antiphrase consiste à :",
     "options": [
-      "Dire le contraire de ce qu’on pense pour faire comprendre l’inverse",
+      
       "Répéter le même mot plusieurs fois",
       "Employer un mot dans un sens figuré",
+      "Dire le contraire de ce qu’on pense pour faire comprendre l’inverse",
       "Simplifier une expression complexe"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "explication": "L'antiphrase dit le contraire pour faire comprendre l'inverse (souvent ironique). Exemple littéraire : 'C’est du propre !' pour dire l’inverse. Exemple du quotidien : 'Bravo, t’as encore oublié tes clés !'"
   },
   {
@@ -124,11 +126,11 @@
     "question": "12 - L’asyndète consiste à :",
     "options": [
       "Relier tous les éléments d’une phrase par 'et'",
-      "Supprimer les liens de coordination (et, mais...)",
       "Répéter un mot en fin de vers",
-      "Faire rimer deux mots opposés"
+      "Faire rimer deux mots opposés",
+      "Supprimer les liens de coordination (et, mais...)"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explication": "L’asyndète supprime les liens logiques. Exemple littéraire : 'Je suis venu, j’ai vu, j’ai vaincu.' Exemple du quotidien : 'Il court, tombe, se relève.'"
   },
   {
@@ -202,10 +204,10 @@
     "options": [
       "Dire le contraire de ce qu’on pense",
       "Répéter une idée plusieurs fois",
-      "Dire moins pour faire entendre plus",
-      "Supprimer les liens logiques"
+      "Supprimer les liens logiques",
+      "Dire moins pour faire entendre plus"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "explication": "La litote sous-entend davantage que ce qu’elle dit. Exemple littéraire : 'Va, je ne te hais point.' Exemple du quotidien : 'Ce n’est pas mal' pour dire 'C’est très bien'."
   },
   {
@@ -256,11 +258,11 @@
     "question": "24 - Qu’est-ce qu’une ellipse ?",
     "options": [
       "Une phrase très longue sans ponctuation",
-      "Une suppression d’éléments dans une phrase",
       "Une inversion du sujet et du verbe",
-      "Une comparaison entre deux idées"
+      "Une comparaison entre deux idées",
+      "Une suppression d’éléments dans une phrase"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explication": "L’ellipse omet volontairement un mot. Exemple littéraire : 'Pierre mange plus que Paul [ne mange].' Exemple du quotidien : 'Elle arrive avant lui [n’arrive].'"
   },
   {

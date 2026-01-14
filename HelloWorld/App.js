@@ -39,6 +39,12 @@ import LettresArts5 from './screens/LettresArts5';
 import LettresArts6 from './screens/LettresArts6';
 import LettresArts7 from './screens/LettresArts7';
 import LettresArts8 from './screens/LettresArts8';
+import LettresArts9 from './screens/LettresArts9';
+import LettresArts10 from './screens/LettresArts10';
+import LettresArts11 from './screens/LettresArts11';
+
+
+
 import PsychoEducation2 from './screens/PsychoEducation2';
 import PsychoEducation3 from './screens/PsychoEducation3';
 import PsychoEducation4 from './screens/PsychoEducation4';
@@ -103,6 +109,11 @@ import OrganesEntrailles from './screens/medecineChinoise/MTC1/OrganesEntrailles
 import SangLO from './screens/medecineChinoise/MTC1/SangLO';
 import YinYang from './screens/medecineChinoise/MTC1/YinYang';
 
+import PointAcup from './screens/medecineChinoise/MTC2/PointAcupuncture';
+import MeridiensOrdin from './screens/medecineChinoise/MTC2/MeridiensOrdin';
+import PointSpeciaux from './screens/medecineChinoise/MTC2/PointSpeciaux';
+import RenMaiDuMai from './screens/medecineChinoise/MTC2/RenMaiDuMai';
+
 const Stack = createNativeStackNavigator();
 
 export default function App() {
@@ -139,6 +150,7 @@ export default function App() {
               <Stack.Screen name="PsychoEducation9" component={PsychoEducation9} />
               <Stack.Screen name="PhiloEducation" component={PhiloEducation} />
               <Stack.Screen name="PhiloEducation2" component={PhiloEducation2} />
+
               <Stack.Screen name="LettresArts" component={LettresArts} />
               <Stack.Screen name="LettresArts2" component={LettresArts2} />
               <Stack.Screen name="LettresArts3" component={LettresArts3} />
@@ -147,6 +159,10 @@ export default function App() {
               <Stack.Screen name="LettresArts6" component={LettresArts6} />
               <Stack.Screen name="LettresArts7" component={LettresArts7} />
               <Stack.Screen name="LettresArts8" component={LettresArts8} />
+              <Stack.Screen name="LettresArts9" component={LettresArts9} />
+              <Stack.Screen name="LettresArts10" component={LettresArts10} />
+              <Stack.Screen name="LettresArts11" component={LettresArts11} />
+
               <Stack.Screen name="Home" component={HomeScreen} />
               <Stack.Screen name="HTML 1" component={LessonScreen} />
               <Stack.Screen name="Accueil" component={Accueil} />
@@ -210,6 +226,14 @@ export default function App() {
                  <Stack.Screen name="OrganesEntrailles" component={OrganesEntrailles} />
                  <Stack.Screen name="SangLO" component={SangLO} />
                  <Stack.Screen name="YinYang" component={YinYang} />
+
+                 <Stack.Screen name="PointAcup" component={PointAcup} />
+                 <Stack.Screen name="MeridiensOrdin" component={ MeridiensOrdin} />
+                 <Stack.Screen name="PointSpeciaux" component={PointSpeciaux} />
+                 <Stack.Screen name="RenMaiDuMai" component={RenMaiDuMai} />
+               
+
+
 
             </Stack.Navigator>
           </View>

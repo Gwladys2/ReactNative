@@ -1,0 +1,302 @@
+[
+  {
+    "question": "1 - Combien existe-t-il de méridiens extraordinaires en MTC ?",
+    "options": ["8", "6", "10", "12"],
+    "answerIndex": 0,
+    "explication": "En Médecine Traditionnelle Chinoise, on distingue les méridiens ordinaires (au nombre de 12) et les méridiens extraordinaires, aussi appelés vaisseaux merveilleux. Ces derniers servent de réservoirs et de régulateurs de l’énergie du corps. Ils sont au nombre de 8."
+  },
+  {
+    "question": "2 - Quels sont les deux méridiens extraordinaires fondamentaux étudiés ici ?",
+    "options": ["Chong Mai et Dai Mai", "Yin Qiao Mai et Yang Qiao Mai", "Ren Mai et Du Mai", "Foie et Rate"],
+    "answerIndex": 2,
+    "explication": "Parmi les 8 méridiens extraordinaires, le Ren Mai et le Du Mai sont les plus fondamentaux car ils forment l’axe central du corps : le Ren Mai à l’avant (Yin) et le Du Mai à l’arrière (Yang). Ils régulent l’équilibre global du corps."
+  },
+  {
+    "question": "3 - Le Ren Mai est aussi appelé :",
+    "options": ["Méridien Gouverneur", "Mer des Yang", "Vaisseau de l’énergie", "Méridien de conception"],
+    "answerIndex": 3,
+    "explication": "Le Ren Mai est appelé « méridien de conception » car il est lié aux fonctions de reproduction, de développement, de fertilité et plus largement aux fonctions Yin du corps."
+  },
+  {
+    "question": "4 - Le Ren Mai est qualifié de :",
+    "options": ["Mer de tous les méridiens Yin", "Méridien des entrailles", "Méridien du Sang", "Mer de tous les méridiens Yang"],
+    "answerIndex": 0,
+    "explication": "Le Ren Mai est considéré comme la Mer de tous les méridiens Yin car il nourrit, rassemble et régule l’ensemble des méridiens Yin du corps."
+  },
+  {
+    "question": "5 - Sur quelle ligne du corps passe le Ren Mai ?",
+    "options": ["Ligne latérale", "Ligne scapulaire", "Ligne médiane antérieure", "Ligne médiane postérieure"],
+    "answerIndex": 2,
+    "explication": "Le Ren Mai suit la ligne médiane antérieure, c’est-à-dire le centre de l’avant du corps, du périnée jusqu’au visage."
+  },
+  {
+    "question": "6 - Où débute le trajet du Ren Mai ?",
+    "options": ["À l’ombilic", "Au sternum", "À la gorge", "Au périnée (RM1)"],
+    "answerIndex": 3,
+    "explication": "Le Ren Mai débute au périnée, au point RM1. Cette zone est considérée comme une porte énergétique majeure reliant plusieurs méridiens extraordinaires."
+  },
+  {
+    "question": "7 - Où se termine le trajet du Ren Mai ?",
+    "options": ["À la poitrine", "Au sommet du crâne", "Aux orbites", "À la nuque"],
+    "answerIndex": 2,
+    "explication": "Le Ren Mai se termine au niveau des orbites, autour des yeux, ce qui montre son lien avec la montée de l’énergie Yin vers le haut du corps."
+  },
+  {
+    "question": "8 - Anatomiquement, le Ren Mai suit principalement :",
+    "options": ["La ligne blanche abdominale", "Les muscles droits", "Les côtes", "Le diaphragme"],
+    "answerIndex": 1,
+    "explication": "Sur le plan anatomique, le trajet du Ren Mai correspond au passage des muscles droits de l’abdomen, situés de part et d’autre de la ligne médiane."
+  },
+  {
+    "question": "9 - La ligne blanche est constituée principalement de :",
+    "options": ["Fibres osseuses", "Fibres musculaires", "Fibres tendineuses (aponévroses)", "Fibres nerveuses"],
+    "answerIndex": 2,
+    "explication": "La ligne blanche est un raphé tendineux, formé par l’entrecroisement des aponévroses des muscles abdominaux. Elle ne contient pas de muscle."
+  },
+  {
+    "question": "10 - Quelle structure traverse la ligne blanche ?",
+    "options": ["Le foie", "L’ombilic", "Le sternum", "L’appendice xiphoïde"],
+    "answerIndex": 1,
+    "explication": "L’ombilic (nombril) traverse directement la ligne blanche, ce qui en fait une zone anatomique et énergétique particulière."
+  },
+  {
+    "question": "11 - Au-dessus de l’ombilic, la ligne blanche est :",
+    "options": ["Étroit", "Osseuse", "Absente", "Large"],
+    "answerIndex": 3,
+    "explication": "Au-dessus de l’ombilic, entre RM8 et RM17, la ligne blanche est plus large, ce qui explique une zone plus souple et plus accessible."
+  },
+  {
+    "question": "12 - En dessous de l’ombilic, la ligne blanche est :",
+    "options": ["Étroite", "Large", "Double", "Inexistante"],
+    "answerIndex": 0,
+    "explication": "Sous l’ombilic, entre RM2 et RM8, la ligne blanche est plus étroite, ce qui correspond à une zone plus dense et plus profonde."
+  },
+  {
+    "question": "13 - Les douleurs de la ligne blanche sont souvent liées :",
+    "options": ["Au cœur", "Aux poumons", "Aux intestins", "Au foie"],
+    "answerIndex": 2,
+    "explication": "Les douleurs sur la ligne blanche sont souvent liées aux intestins, car cette zone correspond énergétiquement au système digestif."
+  },
+  {
+    "question": "14 - Les points RM4 à RM13 ont souvent une action sur :",
+    "options": ["La vision", "La digestion (Rate)", "La respiration", "La peau"],
+    "answerIndex": 1,
+    "explication": "Les points RM4 à RM13 sont situés sur l’abdomen et agissent principalement sur la digestion, en particulier sur la Rate et l’Estomac."
+  },
+  {
+    "question": "15 - RM1 (Hui Yin) est un point :",
+    "options": ["Mu", "Luo", "Shu", "Jing"],
+    "answerIndex": 1,
+    "explication": "RM1 est un point Luo, ce qui signifie qu’il sert de point de connexion et de communication énergétique entre plusieurs méridiens."
+  },
+  {
+    "question": "16 - RM1 est le point de départ de :",
+    "options": ["Tous les méridiens", "Ren Mai uniquement", "Ren Mai, Du Mai et Chong Mai", "Du Mai uniquement"],
+    "answerIndex": 2,
+    "explication": "RM1 est un point fondamental commun au Ren Mai, au Du Mai et au Chong Mai, ce qui en fait une zone clé de circulation énergétique."
+  },
+  {
+    "question": "17 - Quelle est une indication majeure de RM1 ?",
+    "options": ["Asthme", "Insomnie", "Céphalées", "Hémorroïdes"],
+    "answerIndex": 3,
+    "explication": "RM1 est fréquemment utilisé dans les troubles du bas du corps, notamment les hémorroïdes, en raison de son action locale et énergétique."
+  },
+  {
+    "question": "18 - RM4 est appelé :",
+    "options": ["Temple du milieu", "Mer du Qi", "Passage important Origine", "Partage de l’eau"],
+    "answerIndex": 2,
+    "explication": "RM4 est appelé Guan Yuan, ce qui signifie « passage de l’origine », soulignant son rôle central dans l’énergie vitale du corps."
+  },
+  {
+    "question": "19 - RM4 est le point Mu de :",
+    "options": ["La Rate", "L’Intestin Grêle", "La Vessie", "L’Estomac"],
+    "answerIndex": 1,
+    "explication": "RM4 est le point Mu de l’Intestin Grêle, c’est-à-dire un point frontal ayant une action directe sur cet organe."
+  },
+  {
+    "question": "20 - RM4 tonifie principalement :",
+    "options": ["Le Yin uniquement", "Le Yang uniquement", "Le Sang uniquement", "Le Yin et le Yang"],
+    "answerIndex": 3,
+    "explication": "RM4 est un point majeur de tonification globale, capable de renforcer à la fois le Yin et le Yang."
+  },
+  {
+    "question": "21 - RM4 correspond au Dan Tian :",
+    "options": ["Antérieur", "Supérieur", "Postérieur", "Latéral"],
+    "answerIndex": 0,
+    "explication": "RM4 correspond au Dan Tian antérieur, centre énergétique inférieur lié à la vitalité, à la reproduction et à l’énergie de base."
+  },
+  {
+    "question": "22 - RM6 est appelé :",
+    "options": ["Mer du Yang", "Mer du Qi", "Mer du Sang", "Mer des Liquides"],
+    "answerIndex": 1,
+    "explication": "RM6 est nommé Qi Hai, ce qui signifie « Mer du Qi », indiquant son rôle majeur dans la production et la circulation de l’énergie."
+  },
+  {
+    "question": "23 - RM6 agit principalement sur :",
+    "options": ["Le Sang", "Le Qi acquis et le Yang", "Le Jing", "Le Shen uniquement"],
+    "answerIndex": 1,
+    "explication": "RM6 renforce le Qi acquis (issu de l’alimentation et de la respiration) et soutient le Yang du corps."
+  },
+  {
+    "question": "24 - RM6 est indiqué en cas de :",
+    "options": ["Asthme", "Fièvre", "Prolapsus", "Céphalées"],
+    "answerIndex": 2,
+    "explication": "RM6 est souvent utilisé dans les prolapsus car il a une action de maintien et de soutien de l’énergie."
+  },
+  {
+    "question": "25 - RM9 agit principalement sur :",
+    "options": ["Le Shen", "Le Sang", "Le Qi du Poumon", "Les Liquides Organiques"],
+    "answerIndex": 3,
+    "explication": "RM9 régule les Liquides Organiques, c’est-à-dire la gestion de l’eau dans le corps."
+  },
+  {
+    "question": "26 - RM9 est particulièrement indiqué pour :",
+    "options": ["Insomnie", "Vertiges", "Œdèmes", "Palpitations"],
+    "answerIndex": 2,
+    "explication": "RM9 est utilisé en cas d’œdèmes car il aide à drainer et transformer les excès de liquides."
+  },
+  {
+    "question": "27 - RM12 est le point Mu de :",
+    "options": ["Le Foie", "L’Estomac", "La Rate", "Le Cœur"],
+    "answerIndex": 1,
+    "explication": "RM12 est le point Mu de l’Estomac, ce qui lui confère une action directe sur les troubles digestifs."
+  },
+  {
+    "question": "28 - RM12 est aussi le point Hui de :",
+    "options": ["Les organes Yin", "Le Sang", "L’énergie Qi", "Les entrailles (Fu)"],
+    "answerIndex": 3,
+    "explication": "RM12 est le point Hui des entrailles (Fu), c’est-à-dire le point de réunion de tous les organes creux."
+  },
+  {
+    "question": "29 - RM12 est indiqué dans :",
+    "options": ["Gastrite et ulcères", "Sciatiques", "Asthme uniquement", "Hémorroïdes"],
+    "answerIndex": 0,
+    "explication": "RM12 est un point clé dans les pathologies de l’Estomac comme les gastrites ou les ulcères."
+  },
+  {
+    "question": "30 - RM17 est le point Hui de :",
+    "options": ["Le Jing", "Les os", "Le Qi", "Le Sang"],
+    "answerIndex": 2,
+    "explication": "RM17 est le point Hui du Qi, ce qui signifie qu’il régule la circulation de l’énergie dans tout le corps."
+  },
+  {
+    "question": "31 - RM17 ne sert pas à :",
+    "options": ["Ouvrir la poitrine", "Calmer l’asthme", "Débloquer le Qi", "Tonifier fortement le Qi"],
+    "answerIndex": 3,
+    "explication": "RM17 régule et fait circuler le Qi mais ne sert pas à le tonifier fortement."
+  },
+  {
+    "question": "32 - Le Du Mai est appelé :",
+    "options": ["Méridien du Sang", "Vaisseau Gouverneur", "Mer des Yin", "Méridien de conception"],
+    "answerIndex": 1,
+    "explication": "Le Du Mai est appelé Vaisseau Gouverneur car il gouverne et supervise les fonctions Yang du corps."
+  },
+  {
+    "question": "33 - Le Du Mai est la :",
+    "options": ["Mer du Sang", "Mer des Liquides", "Mer des méridiens Yang", "Mer des méridiens Yin"],
+    "answerIndex": 2,
+    "explication": "Le Du Mai est la Mer des méridiens Yang car il rassemble et contrôle tous les méridiens Yang."
+  },
+  {
+    "question": "34 - Le Du Mai supervise principalement :",
+    "options": ["Les manifestations Yang", "Les manifestations Yin", "Les Liquides", "Le Sang"],
+    "answerIndex": 0,
+    "explication": "Le Du Mai supervise toutes les manifestations Yang : chaleur, activité, mouvement et dynamisme."
+  },
+  {
+    "question": "35 - Le point maître du Du Mai est :",
+    "options": ["DM4", "IG3", "GI4", "VB20"],
+    "answerIndex": 1,
+    "explication": "IG3 est le point maître du Du Mai car il permet d’ouvrir et de débloquer ce méridien."
+  },
+  {
+    "question": "36 - Anatomiquement, le Du Mai est proche :",
+    "options": ["Des côtes", "Du diaphragme", "Du ligament longitudinal postérieur", "Des muscles abdominaux"],
+    "answerIndex": 2,
+    "explication": "Anatomiquement, le Du Mai suit une zone proche du ligament longitudinal postérieur de la colonne vertébrale."
+  },
+  {
+    "question": "37 - DM1 relie le Du Mai avec :",
+    "options": ["Le Ren Mai", "Le Foie", "La Rate", "Le Chong Mai"],
+    "answerIndex": 0,
+    "explication": "DM1 est un point de jonction qui relie le Du Mai et le Ren Mai au niveau du périnée."
+  },
+  {
+    "question": "38 - DM4 est appelé :",
+    "options": ["Mer du Feu", "Temple du Yang", "Porte de la Vie", "Grande Réunion"],
+    "answerIndex": 2,
+    "explication": "DM4 est appelé Ming Men, la Porte de la Vie, car il est considéré comme la source du feu vital."
+  },
+  {
+    "question": "39 - DM4 agit principalement sur :",
+    "options": ["Le Yin du Foie", "Le Qi du Poumon", "Le Sang du Cœur", "Le Yang des Reins"],
+    "answerIndex": 3,
+    "explication": "DM4 tonifie le Yang des Reins, essentiel pour la vitalité, la chaleur et la fonction sexuelle."
+  },
+  {
+    "question": "40 - DM4 est particulièrement indiqué pour :",
+    "options": ["Fièvre", "Insomnie", "Asthme", "Troubles sexuels"],
+    "answerIndex": 3,
+    "explication": "DM4 est un point majeur dans les troubles sexuels car il renforce l’énergie vitale des Reins."
+  },
+  {
+    "question": "41 - DM14 correspond à quelle vertèbre ?",
+    "options": ["T1", "C5", "C7", "L1"],
+    "answerIndex": 2,
+    "explication": "DM14 se situe sous la 7e vertèbre cervicale (C7), zone charnière entre le cou et le dos."
+  },
+  {
+    "question": "42 - DM14 est utilisé pour :",
+    "options": ["Réguler le Yang et l’immunité", "Traiter la digestion", "Tonifier le Yin", "Calmer l’esprit"],
+    "answerIndex": 0,
+    "explication": "DM14 régule le Yang et stimule les défenses de l’organisme, ce qui en fait un point clé de l’immunité."
+  },
+  {
+    "question": "43 - La puncture de DM14 est :",
+    "options": ["Recommandée", "Obligatoire", "Délicate et déconseillée", "Facultative"],
+    "answerIndex": 2,
+    "explication": "La puncture de DM14 est délicate en raison de sa proximité avec la moelle épinière."
+  },
+  {
+    "question": "44 - DM20 est appelé :",
+    "options": ["Temple du Ciel", "Cent Réunion", "Grande Apophyse", "Mer du Shen"],
+    "answerIndex": 1,
+    "explication": "DM20 est appelé Bai Hui, « Cent Réunion », car de nombreux méridiens s’y rejoignent."
+  },
+  {
+    "question": "45 - DM20 agit principalement sur :",
+    "options": ["Les douleurs lombaires", "Les troubles psychiques", "Les œdèmes", "Les troubles digestifs"],
+    "answerIndex": 1,
+    "explication": "DM20 agit sur le psychisme, la clarté mentale et l’équilibre émotionnel."
+  },
+  {
+    "question": "46 - DM20 est indiqué en cas de :",
+    "options": ["Hémorroïdes", "Diarrhée", "Gastrite", "Prolapsus"],
+    "answerIndex": 3,
+    "explication": "DM20 est utilisé dans les prolapsus car il fait monter le Yang et soutient les organes."
+  },
+  {
+    "question": "47 - Les points Si Shen Cong sont :",
+    "options": ["Des points Jing", "Des points Shu", "Des points hors méridiens autour de DM20", "Des points du Ren Mai"],
+    "answerIndex": 2,
+    "explication": "Les Si Shen Cong sont des points hors méridiens situés autour de DM20, utilisés pour l’esprit et le cerveau."
+  },
+  {
+    "question": "48 - Le Du Mai pénètre à l’intérieur du :",
+    "options": ["Cerveau", "Cœur", "Poumon", "Foie"],
+    "answerIndex": 0,
+    "explication": "Le Du Mai pénètre dans le cerveau, ce qui explique son action sur le système nerveux et le psychisme."
+  },
+  {
+    "question": "49 - Le Ren Mai et le Du Mai se rejoignent :",
+    "options": ["Au sommet du crâne", "À l’ombilic", "Au sternum", "Au périnée"],
+    "answerIndex": 3,
+    "explication": "Le Ren Mai et le Du Mai se rejoignent au périnée, point fondamental de connexion Yin et Yang."
+  },
+  {
+    "question": "50 - Le rôle global de Ren Mai et Du Mai est :",
+    "options": ["D’agir uniquement sur la douleur", "De remplacer les méridiens ordinaires", "De réguler Yin et Yang du corps", "D’agir seulement sur les organes"],
+    "answerIndex": 2,
+    "explication": "Le rôle principal du Ren Mai et du Du Mai est d’assurer l’équilibre général entre le Yin et le Yang du corps."
+  }
+]
