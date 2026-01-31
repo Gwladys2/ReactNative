@@ -1,8 +1,11 @@
 import React from 'react';
-import { View, Text, TouchableOpacity, StyleSheet } from 'react-native';
-
-
-
+import {
+  View,
+  Text,
+  TouchableOpacity,
+  StyleSheet,
+  ScrollView
+} from 'react-native';
 
 const HomeScreen2 = ({ navigation }) => {
   const niveaux = [
@@ -12,15 +15,17 @@ const HomeScreen2 = ({ navigation }) => {
     { label: "Lettres et Arts", screen: 'LettresArts' },
     { label: "Analyse de l'Arts", screen: 'AnalyseArts' },
     { label: "Histoire de la musique", screen: 'HistoireMusique' },
-    { label: "Métier de l'étudiant", screen: 'MetierEtudiant1' }
+    { label: "Métier de l'étudiant", screen: 'MetierEtudiant1' },
+    { label: "Faire face aux inégalités", screen: 'inegalite' }
   ];
 
   return (
-    <View style={styles.container}>
-     
-    
+    <ScrollView
+      contentContainerStyle={styles.container}
+      showsVerticalScrollIndicator={false}
+    >
       <Text style={styles.title}>Choisis ta matière :</Text>
-      
+
       {niveaux.map(({ label, screen }) => (
         <TouchableOpacity
           key={label}
@@ -30,20 +35,19 @@ const HomeScreen2 = ({ navigation }) => {
           <Text style={styles.buttonText}>{label}</Text>
         </TouchableOpacity>
       ))}
-     
-    </View>
+    </ScrollView>
   );
 };
 
 export default HomeScreen2;
 
+
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
+    padding: 20,
     backgroundColor: '#fff',
     alignItems: 'center',
-    justifyContent: 'center',
-    padding: 20,
+    paddingBottom: 40, // important pour éviter le footer
   },
   title: {
     fontSize: 15,
@@ -63,3 +67,4 @@ const styles = StyleSheet.create({
     fontSize: 18,
   },
 });
+

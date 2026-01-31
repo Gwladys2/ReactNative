@@ -100,6 +100,8 @@ import MetierEtudiant6 from './screens/MetierEtudiant6';
 import MetierEtudiant7 from './screens/MetierEtudiant7';
 import Footer from './components/Footer'; // ton composant Footer
 
+import Inegalite1 from './screens/semestre2/Inegalite'
+
 
 
 import MenuMedeChin from './screens/medecineChinoise/MenuMedeChin';
@@ -232,6 +234,8 @@ export default function App() {
                  <Stack.Screen name="PointSpeciaux" component={PointSpeciaux} />
                  <Stack.Screen name="RenMaiDuMai" component={RenMaiDuMai} />
                
+
+               <Stack.Screen name="inegalite" component={Inegalite1} />
 
 
 

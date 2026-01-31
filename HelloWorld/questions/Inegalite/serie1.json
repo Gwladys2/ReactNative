@@ -1,0 +1,436 @@
+[
+  {
+    "question": "1 - Quelle distinction fondamentale Simone de Beauvoir introduit-elle ?",
+    "options": ["Nature et culture", "Sexe et genre", "Corps et esprit", "Biologie et psychologie"],
+    "answerIndex": 1,
+    "explication": "Simone de Beauvoir distingue le sexe (donné biologique) du genre (construction sociale), montrant que les rôles féminins sont appris et non naturels."
+  },
+  {
+    "question": "2 - Que signifie la célèbre phrase « On ne naît pas femme, on le devient » ?",
+    "options": ["Les femmes choisissent leur sexe", "La féminité est innée", "La société façonne le genre féminin", "Le genre est purement biologique"],
+    "answerIndex": 2,
+    "explication": "Beauvoir explique que la société impose progressivement des normes et rôles qui construisent la féminité."
+  },
+  {
+    "question": "3 - Quelle idée centrale défend Marylène Patou-Mathis sur la préhistoire ?",
+    "options": ["Les femmes étaient uniquement cueilleuses", "Les hommes dominaient naturellement", "Les femmes étaient absentes des activités majeures", "La division sexuée du travail n’est pas prouvée"],
+    "answerIndex": 3,
+    "explication": "Les données archéologiques ne démontrent aucune division sexuée naturelle du travail au Paléolithique."
+  },
+  {
+    "question": "4 - Pourquoi les représentations classiques de la préhistoire sont-elles biaisées ?",
+    "options": ["Manque de fouilles", "Influence du regard masculin du XIXe siècle", "Manque de femmes", "Erreur scientifique récente"],
+    "answerIndex": 1,
+    "explication": "Les premiers archéologues projetaient leur propre organisation sociale patriarcale sur les sociétés préhistoriques."
+  },
+  {
+    "question": "5 - Quelle découverte remet en cause les stéréotypes de genre préhistoriques ?",
+    "options": ["Une grotte décorée", "Des outils masculins", "Des analyses ADN de squelettes", "Des récits mythologiques"],
+    "answerIndex": 2,
+    "explication": "Les analyses ADN ont montré que certaines tombes attribuées à des hommes puissants étaient en réalité celles de femmes."
+  },
+  {
+    "question": "6 - Que suggèrent les traces de pré-mâchage sur des dents masculines ?",
+    "options": ["Un rite religieux", "Une hiérarchie alimentaire", "Une participation aux tâches domestiques", "Un privilège masculin"],
+    "answerIndex": 2,
+    "explication": "Ces traces indiquent que les hommes participaient aussi à la préparation de la nourriture."
+  },
+  {
+    "question": "7 - Quelle vision actuelle domine sur les relations femmes-hommes au Paléolithique ?",
+    "options": ["Entraide et coopération","Rapports de domination", "Conflits permanents",  "Séparation stricte"],
+    "answerIndex": 0,
+    "explication": "Les scientifiques estiment que la survie nécessitait solidarité et coopération entre les sexes."
+  },
+  {
+    "question": "8 - Pourquoi les peintures rupestres pourraient-elles être féminines ?",
+    "options": ["Symbolisme religieux", "Forme des mains", "Couleurs utilisées", "Position des grottes"],
+    "answerIndex": 1,
+    "explication": "La longueur comparable de l’index et de l’annulaire correspond davantage aux mains féminines."
+  },
+  {
+    "question": "9 - Quelle découverte a remis en cause l’idée des chefs de guerre exclusivement masculins ?",
+    "options": ["Une tombe romaine", "Une peinture murale", "La tombe de Birka", "Un manuscrit médiéval"],
+    "answerIndex": 2,
+    "explication": "La tombe de Birka, attribuée à un chef viking, s’est révélée être celle d’une femme."
+  },
+  {
+    "question": "10 - Que montrent les recherches sur la division sexuée du travail ?",
+    "options": ["Qu’elle est biologique", "Qu’elle est universelle", "Qu’elle est immuable", "Qu’elle est construite"],
+    "answerIndex": 3,
+    "explication": "Les différences de rôles sont des constructions sociales et historiques."
+  },
+
+  {
+    "question": "11 - Quel rôle jouent les religions dans les normes de genre ?",
+    "options": ["Aucun", "Elles les remettent en cause", "Elles les reproduisent souvent", "Elles les abolissent"],
+    "answerIndex": 2,
+    "explication": "Les textes religieux ont historiquement légitimé la division sexuée des rôles sociaux."
+  },
+  {
+    "question": "12 - Pourquoi parle-t-on de résistance au genre dans les études religieuses ?",
+    "options": ["Manque de sources", "Refus d’analyse critique", "Excès de féminisme", "Neutralité scientifique"],
+    "answerIndex": 1,
+    "explication": "Les institutions religieuses résistent aux analyses qui questionnent leurs rapports de pouvoir genrés."
+  },
+  {
+    "question": "13 - Quelle religion est la plus avancée sur l’ordination des femmes ?",
+    "options": ["Catholicisme", "Islam", "Protestantisme", "Judaïsme orthodoxe"],
+    "answerIndex": 2,
+    "explication": "Les Églises protestantes, notamment anglicanes, ont ouvert l’ordination aux femmes."
+  },
+  {
+    "question": "14 - Pourquoi la prêtrise est-elle qualifiée de « dernier bastion masculin » ?",
+    "options": ["Manque de vocations", "Refus doctrinal persistant", "Absence de formation", "Interdit légal"],
+    "answerIndex": 1,
+    "explication": "L’accès aux fonctions religieuses de pouvoir reste majoritairement interdit aux femmes."
+  },
+  {
+    "question": "15 - Que signifie patriarcat ?",
+    "options": ["Pouvoir des mères", "Égalité des sexes", "Domination masculine structurante", "Société sans règles"],
+    "answerIndex": 2,
+    "explication": "Le patriarcat est un système social où les hommes détiennent le pouvoir politique, économique et symbolique."
+  },
+
+  {
+    "question": "16 - Quelle société accordait aux femmes des droits proches de ceux des hommes ?",
+    "options": ["Société gauloise","Rome antique",  "Empire napoléonien", "Moyen Âge chrétien"],
+    "answerIndex": 0,
+    "explication": "Chez les Gaulois et les Vikings, les femmes pouvaient être commerçantes, juges ou guerrières."
+  },
+  {
+    "question": "17 - Que symbolise la transmission du nom du père ?",
+    "options": ["L’égalité", "La filiation biologique", "Le patriarcat", "La neutralité sociale"],
+    "answerIndex": 2,
+    "explication": "Elle reflète historiquement la domination masculine dans la structure familiale."
+  },
+  {
+    "question": "18 - Que change le Code civil de 1804 pour les femmes ?",
+    "options": ["Recul des droits","Émancipation", "Égalité",  "Suffrage universel"],
+    "answerIndex": 0,
+    "explication": "Le Code Napoléon retire aux femmes mariées toute autonomie juridique."
+  },
+  {
+    "question": "19 - Quelle figure féminine incarne l’exception guerrière médiévale ?",
+    "options": ["Olympe de Gouges", "Louise Michel", "Simone Weil", "Jeanne d’Arc"],
+    "answerIndex": 3,
+    "explication": "Jeanne d’Arc a dirigé des armées mais fut condamnée pour transgression des normes de genre."
+  },
+  {
+    "question": "20 - Pourquoi dit-on que la Révolution française a oublié les femmes ?",
+    "options": ["Absence de mobilisation", "Refus de vote", "Droits civiques incomplets", "Désintérêt féminin"],
+    "answerIndex": 2,
+    "explication": "Les femmes ont été exclues des droits politiques malgré leur engagement révolutionnaire."
+  },
+
+  {
+    "question": "21 - Qui rédige la Déclaration des droits de la femme et de la citoyenne ?",
+    "options": ["Madame Roland", "Olympe de Gouges", "Louise Michel", "Simone de Beauvoir"],
+    "answerIndex": 1,
+    "explication": "Olympe de Gouges répond directement à la Déclaration de 1789 en revendiquant l’égalité juridique."
+  },
+  {
+    "question": "22 - Quelle conséquence subit Olympe de Gouges ?",
+    "options": ["Exil", "Emprisonnement", "Guillotine", "Silence politique"],
+    "answerIndex": 2,
+    "explication": "Elle est exécutée en 1793 pour ses positions politiques et féministes."
+  },
+  {
+    "question": "23 - Que permet la loi Jules Ferry ?",
+    "options": ["Instruction obligatoire","Mixité scolaire",  "Université pour les femmes", "Droit de vote"],
+    "answerIndex": 0,
+    "explication": "L’école devient gratuite, laïque et obligatoire pour les filles et les garçons."
+  },
+  {
+    "question": "24 - Quand les femmes obtiennent-elles le droit de vote en France ?",
+    "options": ["1936", "1944", "1958", "1965"],
+    "answerIndex": 1,
+    "explication": "Le droit de vote est accordé par ordonnance en avril 1944."
+  },
+  {
+    "question": "25 - Quel ouvrage déclenche une prise de conscience féministe majeure en 1949 ?",
+    "options": ["Le Deuxième Sexe", "La Condition féminine", "Émile", "La Femme mystifiée"],
+    "answerIndex": 0,
+    "explication": "Le livre de Simone de Beauvoir analyse la domination patriarcale."
+  },
+
+  {
+    "question": "26 - Quel mouvement revendique le droit à disposer de son corps ?",
+    "options": ["CGT", "PCF", "UNEF", "MLF"],
+    "answerIndex": 3,
+    "explication": "Le Mouvement de libération des femmes lutte pour contraception et avortement."
+  },
+  {
+    "question": "27 - Quelle loi autorise l’IVG en France ?",
+    "options": ["Loi Neuwirth", "Loi Veil", "Loi Roudy", "Loi Haby"],
+    "answerIndex": 1,
+    "explication": "La loi Veil de 1975 dépénalise l’avortement sous conditions."
+  },
+  {
+    "question": "28 - Que symbolise le procès de Bobigny ?",
+    "options": ["Répression", "Retour en arrière", "Neutralité juridique", "Avancée judiciaire"],
+    "answerIndex": 3,
+    "explication": "Il sensibilise l’opinion publique à l’injustice de la pénalisation de l’avortement."
+  },
+  {
+    "question": "29 - Quelle loi permet aux femmes de travailler sans l’autorisation du mari ?",
+    "options": ["1965", "1970", "1975", "1983"],
+    "answerIndex": 0,
+    "explication": "La loi de 1965 reconnaît enfin l’autonomie professionnelle des femmes."
+  },
+  {
+    "question": "30 - Que vise la loi sur la parité de 2000 ?",
+    "options": ["Égalité salariale", "Mixité scolaire", "Représentation politique", "Droits reproductifs"],
+    "answerIndex": 2,
+    "explication": "Elle cherche à corriger la sous-représentation des femmes en politique."
+  },
+
+  {
+    "question": "31 - Pourquoi dit-on que l’égalité juridique ne suffit pas ?",
+    "options": ["Lois trop anciennes", "Manque de femmes", "Inégalités persistantes", "Excès de droits"],
+    "answerIndex": 2,
+    "explication": "Les pratiques sociales et professionnelles restent inégalitaires malgré les lois."
+  },
+  {
+    "question": "32 - Qu’est-ce que le plafond de verre ?",
+    "options": ["Un mythe", "Un obstacle invisible", "Une loi", "Un choix personnel"],
+    "answerIndex": 1,
+    "explication": "Il désigne les barrières invisibles limitant l’accès des femmes aux postes de pouvoir."
+  },
+  {
+    "question": "33 - Quel est l’impact majeur de l’éducation des filles ?",
+    "options": ["Croissance économique","Baisse démographique",  "Autonomisation durable", "Uniformisation sociale"],
+    "answerIndex": 0,
+    "explication": "L’éducation améliore santé, droits et développement des sociétés."
+  },
+  {
+    "question": "34 - Combien de filles sont privées d’éducation dans le monde ?",
+    "options": ["22 millions", "52 millions", "122 millions", "200 millions"],
+    "answerIndex": 2,
+    "explication": "Selon l’UNICEF, 122 millions de filles sont exclues de l’école."
+  },
+  {
+    "question": "35 - Quel facteur freine particulièrement la scolarisation des filles ?",
+    "options": ["Pauvreté et conflits", "Manque d’intérêt", "Religion uniquement", "Urbanisation"],
+    "answerIndex": 0,
+    "explication": "Les obstacles sont structurels : pauvreté, violences, conflits, éloignement."
+  },
+
+  {
+    "question": "36 - Que questionne la mixité scolaire selon Mosconi ?",
+    "options": [ "Le niveau scolaire", "L’égalité réelle","La discipline", "La réussite masculine"],
+    "answerIndex": 1,
+    "explication": "La mixité ne garantit pas automatiquement l’égalité des sexes."
+  },
+  {
+    "question": "37 - Que montrent Baudelot et Establet ?",
+    "options": ["Supériorité masculine", "Échec scolaire des filles", "Réussite scolaire féminine", "Neutralité éducative"],
+    "answerIndex": 2,
+    "explication": "Les filles réussissent mieux scolairement mais restent désavantagées professionnellement."
+  },
+  {
+    "question": "38 - Pourquoi parle-t-on de révolution silencieuse ?",
+    "options": ["Peu de lois", "Avancées invisibles", "Manque de médias", "Refus social"],
+    "answerIndex": 1,
+    "explication": "Les progrès éducatifs féminins se sont faits sans bouleversement spectaculaire."
+  },
+  {
+    "question": "39 - Que signifie société inclusive ?",
+    "options": ["Uniformité", "Domination inversée", "Égalité et diversité", "Neutralité totale"],
+    "answerIndex": 2,
+    "explication": "Une société inclusive reconnaît et valorise les différences sans hiérarchie."
+  },
+  {
+    "question": "40 - Pourquoi éduquer aussi les garçons ?",
+    "options": ["Pour déconstruire les normes","Pour équilibrer",  "Pour renforcer l’autorité", "Pour maintenir l’ordre"],
+    "answerIndex": 0,
+    "explication": "L’égalité nécessite de transformer les normes masculines dominantes."
+  },
+
+  {
+    "question": "41 - Que montre Françoise Héritier sur les sociétés matriarcales ?",
+    "options": ["Elles dominent les hommes", "Elles n’existent pas", "Elles sont majoritaires", "Elles sont modernes"],
+    "answerIndex": 1,
+    "explication": "Héritier affirme qu’il n’existe pas de sociétés où les femmes dominent les hommes."
+  },
+  {
+    "question": "42 - Quelle différence entre matriarcat et matrilinéarité ?",
+    "options": ["Aucune", "Religion", "Pouvoir féminin vs filiation" ,"Économie"],
+    "answerIndex": 2,
+    "explication": "La matrilinéarité concerne la filiation, pas le pouvoir politique."
+  },
+  {
+    "question": "43 - Que défend Goettner-Abendroth ?",
+    "options": ["Domination féminine", "Mythes grecs", "Patriarcat universel", "Sociétés égalitaires"],
+    "answerIndex": 3,
+    "explication": "Elle décrit des sociétés centrées sur l’égalité et le partage."
+  },
+  {
+    "question": "44 - Pourquoi ces études sont-elles importantes ?",
+    "options": ["Pour contester le patriarcat","Par curiosité",  "Pour imposer un modèle", "Pour nier l’histoire"],
+    "answerIndex": 0,
+    "explication": "Elles montrent que d’autres organisations sociales sont possibles."
+  },
+  {
+    "question": "45 - Que montre l’histoire des femmes ?",
+    "options": ["Une domination naturelle", "Une absence féminine", "Une égalité constante", "Une inégalité construite"],
+    "answerIndex": 3,
+    "explication": "Les inégalités sont le produit de choix sociaux et historiques."
+  },
+
+  {
+    "question": "46 - Quel est le rôle de l’ONU en 1946 ?",
+    "options": ["Créer une armée",  "Vote féminin", "École mondiale","Commission sur la condition des femmes"],
+    "answerIndex": 3,
+    "explication": "L’ONU institutionnalise la lutte pour l’égalité des sexes."
+  },
+  {
+    "question": "47 - Pourquoi l’égalité progresse-t-elle lentement ?",
+    "options": ["Manque de lois", "Résistances culturelles", "Absence de femmes", "Éducation excessive"],
+    "answerIndex": 1,
+    "explication": "Les mentalités et structures sociales évoluent plus lentement que le droit."
+  },
+  {
+    "question": "48 - Quel lien entre genre et pouvoir ?",
+    "options": ["Aucun", "Pouvoir neutre", "Genre structure l’accès au pouvoir", "Pouvoir biologique"],
+    "answerIndex": 2,
+    "explication": "Les rapports de genre influencent l’accès aux ressources et décisions."
+  },
+  {
+    "question": "49 - Que montre l’histoire des suffragettes ?",
+    "options": ["Une mobilisation masculine", "Une conquête progressive des droits", "Un refus total des institutions", "Un mouvement élitiste"],
+    "answerIndex": 1,
+    "explication": "Les suffragettes illustrent une lutte longue et organisée des femmes pour obtenir le droit de vote, souvent face à une forte répression."
+  },
+  {
+    "question": "50 - Quel pays européen accorde le droit de vote aux femmes en premier ?",
+    "options": ["France", "Royaume-Uni", "Finlande", "Allemagne"],
+    "answerIndex": 2,
+    "explication": "Les Finlandaises obtiennent le droit de vote dès 1906, bien avant la majorité des pays européens."
+  },
+  {
+    "question": "51 - Pourquoi les guerres mondiales ont-elles favorisé des avancées pour les femmes ?",
+    "options": ["Par idéologie féministe", "Par nécessité économique", "Par choix politique durable", "Par pression religieuse"],
+    "answerIndex": 1,
+    "explication": "Les femmes ont remplacé les hommes mobilisés, montrant leur capacité à occuper des postes traditionnellement masculins."
+  },
+  {
+    "question": "52 - Que se passe-t-il pour les femmes après la Première Guerre mondiale ?",
+    "options": ["Maintien des acquis", "Accès massif au pouvoir", "Égalité salariale", "Retour au foyer"],
+    "answerIndex": 3,
+    "explication": "Une fois la guerre terminée, beaucoup de femmes sont renvoyées à leur rôle domestique."
+  },
+  {
+    "question": "53 - Pourquoi le droit de vote des femmes en France est-il tardif ?",
+    "options": ["Opposition politique durable","Manque de mobilisation",  "Refus religieux", "Faible population féminine"],
+    "answerIndex": 0,
+    "explication": "Les résistances politiques, notamment républicaines, ont longtemps bloqué le suffrage féminin."
+  },
+
+  {
+    "question": "54 - Quel rôle jouent les femmes dans la Résistance durant la Seconde Guerre mondiale ?",
+    "options": ["Secondaire", "Inexistant", "Actif et risqué", "Uniquement domestique"],
+    "answerIndex": 2,
+    "explication": "Elles ont transporté des armes, caché des personnes persécutées et participé aux réseaux clandestins."
+  },
+  {
+    "question": "55 - Pourquoi le droit de vote est-il accordé aux femmes en 1944 ?",
+    "options": ["Récompense symbolique", "Pression internationale", "Changement religieux", "Engagement dans la Résistance"],
+    "answerIndex": 3,
+    "explication": "Leur participation essentielle à la guerre et à la Résistance rend leur exclusion politique intenable."
+  },
+  {
+    "question": "56 - Que représente le livre « Le Deuxième Sexe » ?",
+    "options": ["Un manifeste politique", "Une analyse philosophique du patriarcat", "Un roman autobiographique", "Un traité juridique"],
+    "answerIndex": 1,
+    "explication": "Simone de Beauvoir y analyse les mécanismes sociaux, culturels et symboliques de la domination masculine."
+  },
+  {
+    "question": "57 - Quelle idée centrale développe Simone de Beauvoir ?",
+    "options": ["La supériorité féminine", "L’égalité naturelle", "La construction sociale de la féminité", "La neutralité du genre"],
+    "answerIndex": 2,
+    "explication": "Elle montre que la condition féminine résulte d’un apprentissage social."
+  },
+  {
+    "question": "58 - Quel objectif principal poursuit le MLF ?",
+    "options": ["Libérer la parole des femmes","Réformer les partis",  "Renforcer la famille traditionnelle", "Limiter le travail féminin"],
+    "answerIndex": 0,
+    "explication": "Le MLF vise l’émancipation globale des femmes, notamment le contrôle de leur corps."
+  },
+
+  {
+    "question": "59 - Pourquoi la contraception est-elle un enjeu majeur ?",
+    "options": ["Contrôle démographique", "Liberté reproductive", "Intérêt médical uniquement", "Pression économique"],
+    "answerIndex": 1,
+    "explication": "Elle permet aux femmes de choisir si et quand elles veulent avoir des enfants."
+  },
+  {
+    "question": "60 - Que change la loi Neuwirth de 1967 ?",
+    "options": ["Légalisation de l’IVG", "Autorisation de la contraception", "Mixité scolaire", "Parité politique"],
+    "answerIndex": 1,
+    "explication": "La loi Neuwirth autorise la contraception en France."
+  },
+  {
+    "question": "61 - Pourquoi l’IVG est-elle qualifiée d’enjeu de société ?",
+    "options": ["Débat médical", "Choix individuel", "Question morale privée", "Rapports de pouvoir"],
+    "answerIndex": 3,
+    "explication": "Elle révèle des rapports de pouvoir sur le corps des femmes et leur autonomie."
+  },
+  {
+    "question": "62 - Que montre la persistance des violences sexuelles ?",
+    "options": ["Une égalité atteinte", "Un phénomène marginal", "Une domination persistante", "Un excès de lois"],
+    "answerIndex": 2,
+    "explication": "Les violences sexuelles témoignent de rapports de domination encore profondément ancrés."
+  },
+  {
+    "question": "63 - Pourquoi parle-t-on de société inclusive ?",
+    "options": ["Uniformisation sociale", "Effacement des différences", "Reconnaissance de toutes les identités", "Suppression des lois"],
+    "answerIndex": 2,
+    "explication": "Une société inclusive vise l’égalité tout en respectant les différences."
+  },
+
+  {
+    "question": "64 - Quel est le lien entre genre et éducation ?",
+    "options": ["Aucun", "Transmission des normes", "Biologie scolaire", "Neutralité pédagogique"],
+    "answerIndex": 1,
+    "explication": "L’éducation participe à la reproduction ou à la remise en cause des normes de genre."
+  },
+  {
+    "question": "65 - Pourquoi l’égalité scolaire ne garantit-elle pas l’égalité professionnelle ?",
+    "options": ["Manque de diplômes", "Choix personnels", "Discriminations structurelles", "Faible motivation"],
+    "answerIndex": 2,
+    "explication": "Les femmes restent confrontées à des discriminations malgré leur réussite scolaire."
+  },
+  {
+    "question": "66 - Que désigne le concept de genre ?",
+    "options": ["Le sexe biologique", "Les rôles sociaux sexués", "L’orientation sexuelle", "L’identité personnelle"],
+    "answerIndex": 1,
+    "explication": "Le genre renvoie aux rôles, attentes et normes sociales associées au féminin et au masculin."
+  },
+  {
+    "question": "67 - Pourquoi l’égalité femmes-hommes est-elle récente historiquement ?",
+    "options": ["Manque de lois", "Refus féminin", "Domination patriarcale ancienne", "Progrès technologique"],
+    "answerIndex": 2,
+    "explication": "Le patriarcat structure les sociétés humaines depuis des siècles."
+  },
+  {
+    "question": "68 - Que montre l’approche historique du genre ?",
+    "options": ["Une nature immuable", "Une construction sociale évolutive", "Une supériorité masculine", "Une égalité originelle"],
+    "answerIndex": 1,
+    "explication": "Les rapports de genre varient selon les contextes historiques et culturels."
+  },
+
+  {
+    "question": "69 - Pourquoi les lois sont-elles nécessaires mais insuffisantes ?",
+    "options": ["Elles ne changent pas seules les mentalités","Elles sont trop complexes",  "Elles favorisent les hommes", "Elles sont ignorées"],
+    "answerIndex": 0,
+    "explication": "Les inégalités persistent si les représentations sociales ne changent pas."
+  },
+  {
+    "question": "70 - Quel est l’objectif global de l’UE 201 ?",
+    "options": ["Former des militantes", "Uniformiser les rôles sociaux", "Imposer un modèle unique", "Comprendre et combattre les inégalités"],
+    "answerIndex": 3,
+    "explication": "L’UE vise à donner des outils théoriques pour analyser et réduire les inégalités liées au genre."
+  }
+]
+
+  
