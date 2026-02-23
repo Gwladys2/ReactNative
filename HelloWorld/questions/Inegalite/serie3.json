@@ -1,0 +1,777 @@
+[
+  {
+    "question": "1 - Selon les données de la DEPP, quelle affirmation est correcte concernant le retard scolaire ?",
+    "options": [
+      "Les garçons sont moins souvent en retard que les filles",
+      "Les filles sont moins souvent en retard que les garçons",
+      "Il n’existe aucune différence",
+      "Le retard dépend uniquement du milieu social"
+    ],
+    "answerIndex": 1,
+    "explication": "Les données de la DEPP montrent que les filles sont moins souvent en retard scolaire que les garçons, et ce quel que soit le milieu social d’origine."
+  },
+  {
+    "question": "2 - À la fin du collège, vers quelle voie les filles s’orientent-elles davantage ?",
+    "options": [
+      "Vers l’enseignement général et technologique",
+      "Vers l’apprentissage exclusivement",
+      "Vers l’abandon scolaire",
+      "Vers la filière militaire"
+    ],
+    "answerIndex": 0,
+    "explication": "Les statistiques montrent qu’à la fin du collège, les filles s’orientent davantage vers l’enseignement général et technologique comparativement aux garçons."
+  },
+  {
+    "question": "3 - En seconde générale et technologique, quels enseignements sont davantage choisis par les garçons ?",
+    "options": [
+      "Les langues et littérature",
+      "Les arts plastiques",
+      "Les enseignements scientifiques et technologiques",
+      "Les sciences sociales uniquement"
+    ],
+    "answerIndex": 2,
+    "explication": "Les garçons choisissent plus fréquemment les enseignements scientifiques et technologiques, ce qui reflète une orientation différenciée selon le sexe."
+  },
+  {
+    "question": "4 - Selon Guichard et Huteau (2007), l’orientation préfigure quelle forme de différenciation ?",
+    "options": [
+      "Une différenciation uniquement sociale",
+      "Une différenciation culturelle",
+      "Une différenciation biologique",
+      "Une double différenciation verticale et horizontale"
+    ],
+    "answerIndex": 3,
+    "explication": "Guichard et Huteau expliquent que l’orientation scolaire préfigure la double différenciation observée dans l’emploi : horizontale (types de métiers) et verticale (hiérarchie des postes)."
+  },
+  {
+    "question": "5 - Que signifie dire que \"le travail est sexué\" ?",
+    "options": [
+      "Les métiers sont socialement associés à un sexe",
+      "Les femmes travaillent moins que les hommes",
+      "Le travail dépend de la biologie",
+      "Les diplômes sont identiques pour tous"
+    ],
+    "answerIndex": 0,
+    "explication": "Dire que le travail est sexué signifie que certains métiers sont socialement construits comme masculins ou féminins, indépendamment des compétences réelles."
+  },
+  {
+    "question": "6 - Selon les recherches citées (Dutrévis & Toczek), que provoque l’évaluation dans un domaine réputé masculin comme la géométrie ?",
+    "options": [
+      "Une amélioration automatique des résultats des filles",
+      "Aucun effet mesurable",
+      "Une suppression des stéréotypes",
+      "Une altération des performances des filles"
+    ],
+    "answerIndex": 3,
+    "explication": "Lorsque l’évaluation porte sur un domaine perçu comme masculin, les performances des filles peuvent être altérées en raison des stéréotypes de compétence."
+  },
+  {
+    "question": "7 - Selon Vouillot (2008), l’orientation correspond principalement à :",
+    "options": [
+      "Une décision administrative neutre",
+      "Un simple calcul économique",
+      "Une projection et affirmation identitaire",
+      "Une obligation légale"
+    ],
+    "answerIndex": 2,
+    "explication": "Pour Vouillot, l’orientation est le reflet d’une projection identitaire : elle traduit l’image que le sujet a de lui-même en tant qu’être sexué."
+  },
+  {
+    "question": "8 - Que désigne le processus d’auto-sélection ?",
+    "options": [
+      "Un tirage au sort des filières",
+      "Une sélection par les enseignants uniquement",
+      "Une orientation imposée par la famille",
+      "Le fait que les élèves se dirigent eux-mêmes vers des filières conformes aux normes de sexe"
+    ],
+    "answerIndex": 3,
+    "explication": "L’auto-sélection désigne le fait que filles et garçons se projettent spontanément vers des filières jugées cohérentes avec les attentes sociales liées à leur sexe."
+  },
+  {
+    "question": "9 - Selon Duru-Bellat (2004), les inégalités d’orientation influencent principalement :",
+    "options": [
+      "Les inégalités de carrière",
+      "Les loisirs scolaires",
+      "La durée des vacances",
+      "Le nombre d’examens"
+    ],
+    "answerIndex": 0,
+    "explication": "Duru-Bellat souligne que les inégalités d’orientation modèlent davantage les inégalités de carrière que les seules différences de réussite scolaire."
+  },
+  {
+    "question": "10 - L’orientation est qualifiée dans le cours de :",
+    "options": [
+      "Procédure neutre",
+      "Souci politique et souci de soi",
+      "Simple formalité administrative",
+      "Décision purement économique"
+    ],
+    "answerIndex": 1,
+    "explication": "L’orientation est à la fois un enjeu politique (organisation sociale du travail) et un enjeu personnel lié à la construction de l’identité."
+  },
+  {
+    "question": "11 - Le projet d’orientation révèle notamment :",
+    "options": [
+      "Le niveau d’ambition et la conformité aux normes sociales",
+      "Uniquement les résultats scolaires",
+      "La situation financière des parents",
+      "La proximité géographique d’un établissement"
+    ],
+    "answerIndex": 0,
+    "explication": "Le projet scolaire révèle l’image que l’élève a de lui-même, son ambition et son degré de conformité aux normes sociales liées au sexe et au statut social."
+  },
+  {
+    "question": "12 - Les formations et professions fonctionnent comme :",
+    "options": [
+      "Des structures biologiques",
+      "Des espaces neutres",
+      "Des systèmes d’exclusion officiels",
+      "Des contextes de socialisation"
+    ],
+    "answerIndex": 3,
+    "explication": "Les filières et professions sont des contextes de socialisation : elles véhiculent des normes, des prototypes et des attentes spécifiques."
+  },
+  {
+    "question": "13 - Que signifie le marquage sexué des savoirs ?",
+    "options": [
+      "Certains savoirs sont perçus comme féminins ou masculins",
+      "Les savoirs sont biologiquement différenciés",
+      "Les programmes scolaires sont différents légalement",
+      "Les examens sont séparés"
+    ],
+    "answerIndex": 0,
+    "explication": "Le marquage sexué signifie que certains savoirs ou disciplines sont socialement perçus comme correspondant davantage à un sexe qu’à l’autre."
+  },
+  {
+    "question": "14 - Selon Vouillot (2014), la \"fabrique à différences\" renvoie à :",
+    "options": [
+      "Un processus biologique naturel",
+      "Un système de socialisation produisant des normes différenciées",
+      "Une réforme scolaire récente",
+      "Une politique d’orientation européenne"
+    ],
+    "answerIndex": 1,
+    "explication": "La fabrique à différences désigne l’ensemble des processus de socialisation (famille, école, médias) qui produisent des normes différenciées selon le sexe."
+  },
+  {
+    "question": "15 - Pourquoi les garçons se détournent-ils souvent des études littéraires selon le cours ?",
+    "options": [
+      "Parce qu’elles sont plus difficiles",
+      "Parce qu’elles ne mènent à aucun métier",
+      "Parce qu’elles sont perçues comme féminines",
+      "Parce qu’elles sont interdites aux garçons"
+    ],
+    "answerIndex": 2,
+    "explication": "Les études littéraires sont socialement perçues comme féminines, ce qui conduit certains garçons à s’en détourner par conformité aux normes de masculinité."
+  },
+  {
+    "question": "16 - Selon Vouillot (2007), quel problème est principalement mis en avant dans les politiques publiques ?",
+    "options": [
+      "L’absence des garçons en filière scientifique",
+      "Le fait que seules les filles seraient éloignées des filières rentables",
+      "Le manque de financement",
+      "L’échec scolaire global"
+    ],
+    "answerIndex": 1,
+    "explication": "Les politiques publiques ont souvent présenté les filles comme principales concernées, supposément éloignées des filières rentables, invisibilisant l’absence des garçons dans les filières féminisées."
+  },
+  {
+    "question": "17 - Selon Kergoat (2010), le principe de séparation renvoie à :",
+    "options": [
+      "La division horizontale du travail",
+      "La hiérarchie salariale",
+      "La mixité obligatoire",
+      "La sélection académique"
+    ],
+    "answerIndex": 0,
+    "explication": "Le principe de séparation correspond à la division horizontale : certains métiers ou filières sont majoritairement occupés par un sexe."
+  },
+  {
+    "question": "18 - Le principe hiérarchique renvoie à :",
+    "options": [
+      "La division verticale du travail",
+      "La séparation géographique",
+      "La spécialisation universitaire",
+      "L’égalité salariale"
+    ],
+    "answerIndex": 0,
+    "explication": "Le principe hiérarchique correspond à la division verticale du travail : les métiers majoritairement masculins sont socialement plus valorisés."
+  },
+  {
+    "question": "19 - Selon Hirata et al. (2004), les différences entre hommes et femmes sont :",
+    "options": [
+      "Biologiques uniquement",
+      "Des construits sociaux",
+      "Naturelles et immuables",
+      "Déterminées génétiquement"
+    ],
+    "answerIndex": 1,
+    "explication": "Les auteurs affirment que les différences observées relèvent de constructions sociales et non d’une causalité biologique."
+  },
+  {
+    "question": "20 - Les rapports sociaux de sexe reposent principalement sur :",
+    "options": [
+      "Une complémentarité harmonieuse",
+      "Une indifférence sociale",
+      "Un rapport hiérarchique entre les sexes",
+      "Une absence de conflit"
+    ],
+    "answerIndex": 2,
+    "explication": "Les rapports sociaux de sexe reposent sur un rapport hiérarchique structurant les positions sociales respectives des hommes et des femmes."
+  },
+  {
+    "question": "21 - Pourquoi l’orientation est-elle considérée comme un vecteur d’inégalité ?",
+    "options": [
+      "Parce qu’elle reproduit la division sexuée du travail",
+      "Parce qu’elle supprime les différences sociales",
+      "Parce qu’elle est totalement neutre",
+      "Parce qu’elle dépend uniquement des résultats scolaires"
+    ],
+    "answerIndex": 0,
+    "explication": "L’orientation est un vecteur d’inégalité car elle reproduit la division sexuée du travail, en orientant différemment filles et garçons vers des filières hiérarchisées et socialement marquées."
+  },
+  {
+    "question": "22 - Que signifie la division horizontale du travail ?",
+    "options": [
+      "La hiérarchie des salaires",
+      "La répartition différenciée des métiers selon le sexe",
+      "La durée du temps de travail",
+      "La mobilité professionnelle"
+    ],
+    "answerIndex": 1,
+    "explication": "La division horizontale renvoie à la répartition différenciée des métiers ou filières entre les sexes : certains sont majoritairement féminins, d’autres masculins."
+  },
+  {
+    "question": "23 - La division verticale du travail correspond à :",
+    "options": [
+      "La séparation géographique des métiers",
+      "L’organisation des emplois par région",
+      "La spécialisation disciplinaire",
+      "La hiérarchisation des métiers selon leur valeur sociale"
+    ],
+    "answerIndex": 3,
+    "explication": "La division verticale désigne la hiérarchisation des métiers : ceux majoritairement occupés par les hommes sont souvent plus valorisés socialement et économiquement."
+  },
+  {
+    "question": "24 - Selon le cours, pourquoi la mixité des filières constitue-t-elle un enjeu important ?",
+    "options": [
+      "Pour réduire le nombre d’établissements",
+      "Pour uniformiser les diplômes",
+      "Pour supprimer les examens",
+      "Pour lutter contre la reproduction des inégalités de genre"
+    ],
+    "answerIndex": 3,
+    "explication": "La mixité des filières est un enjeu majeur car elle vise à réduire la reproduction des inégalités de genre dans la formation et l’emploi."
+  },
+  {
+    "question": "25 - L’orientation implique une \"mise en jeu\" de l’identité car :",
+    "options": [
+      "Elle engage l’image que l’on donne de soi",
+      "Elle est décidée uniquement par les enseignants",
+      "Elle dépend du hasard",
+      "Elle ne concerne que les résultats scolaires"
+    ],
+    "answerIndex": 0,
+    "explication": "Le choix d’orientation expose l’image que l’on a de soi au regard d’autrui et engage l’identité personnelle et sociale."
+  },
+  {
+    "question": "26 - Pourquoi peut-on dire que les filières sont hiérarchisées ?",
+    "options": [
+      "Parce qu’elles sont classées alphabétiquement",
+      "Parce qu’elles n’ont pas la même valeur sociale",
+      "Parce qu’elles durent toutes le même temps",
+      "Parce qu’elles sont obligatoires"
+    ],
+    "answerIndex": 1,
+    "explication": "Les filières sont hiérarchisées car certaines sont plus valorisées socialement et économiquement que d’autres, notamment les filières scientifiques."
+  },
+  {
+    "question": "27 - Les prototypes professionnels correspondent à :",
+    "options": [
+      "Des modèles biologiques",
+      "Des règlements officiels",
+      "Des représentations typiques associées à une profession",
+      "Des concours d’entrée"
+    ],
+    "answerIndex": 2,
+    "explication": "Les prototypes sont des représentations sociales associant à une profession des traits de personnalité, compétences et caractéristiques spécifiques."
+  },
+  {
+    "question": "28 - Selon le cours, l’absence des garçons dans les filières dites féminines :",
+    "options": [
+      "Est peu problématisée socialement",
+      "Est centrale dans les politiques publiques",
+      "Est considérée comme un progrès",
+      "N’a aucun impact économique"
+      
+    ],
+    "answerIndex": 0,
+    "explication": "Le cours souligne que l’absence des garçons dans les filières féminisées est peu perçue comme un problème, contrairement à la situation inverse."
+  },
+  {
+    "question": "29 - Pourquoi les choix d’orientation restent-ils différenciés malgré les politiques publiques ?",
+    "options": [
+      
+      "Parce que les filles réussissent moins bien",
+      "Parce que les enseignants imposent les choix",
+      "Parce que les diplômes sont différents",
+      "Parce que les normes sociales de sexe persistent"
+    ],
+    "answerIndex": 3,
+    "explication": "Les normes sociales de sexe continuent d’influencer les représentations et les choix, limitant l’efficacité des politiques publiques."
+  },
+  {
+    "question": "30 - L’orientation constitue un enjeu économique car :",
+    "options": [
+      "Elle détermine la couleur des diplômes",
+      "Elle influence la répartition future de la main-d’œuvre",
+      "Elle réduit les inégalités salariales automatiquement",
+      "Elle dépend uniquement des entreprises"
+    ],
+    "answerIndex": 1,
+    "explication": "L’orientation influence la future répartition des compétences sur le marché du travail et donc l’organisation économique globale."
+  },
+  {
+    "question": "31 - Le processus de conformité évoqué par Vouillot signifie que :",
+    "options": [
+      "Les élèves adaptent leurs choix aux attentes sociales liées au sexe",
+      "Les élèves choisissent librement sans influence",
+      "Les élèves subissent une obligation légale",
+      "Les familles imposent systématiquement les décisions"
+    ],
+    "answerIndex": 0,
+    "explication": "Les élèves tendent à conformer leurs choix aux attentes sociales associées à leur sexe afin d’être reconnus et légitimes."
+  },
+  {
+    "question": "32 - Lorsque la géométrie est présentée comme typiquement masculine :",
+    "options": [
+      "Les performances des garçons baissent",
+      "Les stéréotypes disparaissent",
+      "Les filles réussissent automatiquement mieux",
+      "Les performances des filles peuvent être affectées négativement"
+    ],
+    "answerIndex": 3,
+    "explication": "Les stéréotypes de compétence peuvent altérer les performances des filles lorsqu’un domaine est présenté comme masculin."
+  },
+  {
+    "question": "33 - L’orientation peut être qualifiée de \"projection\" car :",
+    "options": [
+      "Elle suppose d’imaginer un futur possible pour soi",
+      "Elle est décidée par l’État uniquement",
+      "Elle dépend d’un algorithme",
+      "Elle est automatique"
+    ],
+    "answerIndex": 0,
+    "explication": "L’orientation implique de se projeter dans un futur scolaire et professionnel correspondant à une image de soi possible."
+  },
+  {
+    "question": "34 - Les différences entre hommes et femmes, selon les rapports sociaux de sexe, sont :",
+    "options": [
+      "Naturelles et universelles",
+      "Socialement construites",
+      "Génétiquement déterminées",
+      "Sans impact sur le travail"
+    ],
+    "answerIndex": 1,
+    "explication": "Les différences observées relèvent de constructions sociales inscrites dans des rapports hiérarchiques."
+  },
+  {
+    "question": "35 - Les filières dites masculines sont souvent :",
+    "options": [
+      "Moins rémunératrices",
+      "Moins valorisées",
+      "Plus valorisées socialement",
+      "Interdites aux filles"
+    ],
+    "answerIndex": 2,
+    "explication": "Les filières majoritairement masculines bénéficient généralement d’une plus forte valorisation sociale et économique."
+  },
+  {
+    "question": "36 - L’échec à modifier l’orientation montre que :",
+    "options": [
+      "Les normes sociales sont profondément ancrées",
+      "Les lois sont inutiles",
+      "Les élèves refusent toute réforme",
+      "L’école est indépendante de la société"
+    ],
+    "answerIndex": 0,
+    "explication": "Malgré les politiques publiques, les normes sociales de genre restent puissantes et structurent durablement les choix d’orientation."
+  },
+  {
+    "question": "37 - L’orientation reflète aussi le degré d’ambition car :",
+    "options": [
+      "Elle situe le niveau que l’élève pense valoir",
+      "Elle est choisie au hasard",
+      "Elle dépend uniquement des parents",
+      "Elle est identique pour tous"
+    ],
+    "answerIndex": 0,
+    "explication": "Le projet d’orientation traduit l’idée que l’élève se fait de sa valeur et de ses capacités, révélant ainsi son niveau d’ambition."
+  },
+  {
+    "question": "38 - La socialisation différenciée agit notamment à travers :",
+    "options": [
+      "Les examens nationaux uniquement",
+      "La famille, l’école et les médias",
+      "Les concours d’entrée",
+      "Les entreprises privées"
+    ],
+    "answerIndex": 1,
+    "explication": "La famille, l’école et les médias participent à la construction de normes différenciées selon le sexe."
+  },
+  {
+    "question": "39 - Pourquoi parle-t-on d’enjeu identitaire dans l’orientation ?",
+    "options": [
+      "Parce qu’elle détermine la nationalité",
+      "Parce qu’elle fixe l’état civil",
+      "Parce qu’elle engage la reconnaissance sociale et l’image de soi",
+      "Parce qu’elle supprime les différences"
+    ],
+    "answerIndex": 2,
+    "explication": "Le choix d’orientation engage l’image que l’on a de soi et la reconnaissance que l’on espère obtenir de son environnement."
+  },
+  {
+    "question": "40 - La hiérarchisation des filières contribue à :",
+    "options": [
+      "Supprimer les inégalités",
+      "Uniformiser les carrières",
+      "Équilibrer automatiquement les salaires",
+      "Maintenir les inégalités entre les sexes"
+    ],
+    "answerIndex": 3,
+    "explication": "La hiérarchisation des filières renforce les inégalités, car les filières les plus valorisées restent majoritairement masculines."
+  },
+  {
+    "question": "41 - L’orientation scolaire participe à la reproduction sociale car :",
+    "options": [
+      "Elle maintient les répartitions différenciées entre groupes sociaux et sexes",
+      "Elle supprime les différences économiques",
+      "Elle garantit l’égalité salariale",
+      "Elle empêche toute hiérarchie professionnelle"
+    ],
+    "answerIndex": 0,
+    "explication": "L’orientation contribue à reproduire les inégalités sociales et de genre en orientant différemment les individus vers des filières hiérarchisées."
+  },
+  {
+    "question": "42 - L’expression \"souci de soi\" appliquée à l’orientation signifie :",
+    "options": [
+      "Une obligation administrative",
+      "Une réflexion personnelle sur son avenir et son identité",
+      "Une règle imposée par l’école",
+      "Une décision économique uniquement"
+    ],
+    "answerIndex": 1,
+    "explication": "L’orientation implique une réflexion personnelle sur ce que l’on veut devenir et sur l’image de soi que l’on souhaite construire."
+  },
+  {
+    "question": "43 - Pourquoi les professions sont-elles considérées comme des espaces de socialisation ?",
+    "options": [
+      "Parce qu’elles imposent des lois biologiques",
+      "Parce qu’elles sont indépendantes de la société",
+      "Parce qu’elles interdisent les différences",
+      "Parce qu’elles transmettent normes, valeurs et rôles sociaux"
+    ],
+    "answerIndex": 3,
+    "explication": "Les professions transmettent des normes, des valeurs et des attentes sociales, contribuant ainsi à la socialisation des individus."
+  },
+  {
+    "question": "44 - La pression évaluative peut produire quel effet ?",
+    "options": [
+      "Supprimer toute différence de performance",
+      "Renforcer automatiquement la motivation",
+      "Garantir l’objectivité totale",
+      "Influencer négativement les performances selon les stéréotypes"
+    ],
+    "answerIndex": 3,
+    "explication": "La pression évaluative peut activer des stéréotypes de compétence et influencer négativement les performances, notamment chez les filles en sciences."
+  },
+  {
+    "question": "45 - L’idée que certaines professions conviennent mieux à un sexe repose sur :",
+    "options": [
+      
+      "Des preuves biologiques universelles",
+      "Des représentations sociales partagées",
+      "Des lois internationales",
+      "Des décisions individuelles isolées"
+    ],
+    "answerIndex": 1,
+    "explication": "Ces idées reposent sur des représentations sociales construites et partagées, et non sur des différences biologiques."
+  },
+  {
+    "question": "46 - La projection dans un projet professionnel implique :",
+    "options": [
+      "Une absence de choix personnel",
+      "Une anticipation d’un futur possible",
+      "Une décision aléatoire",
+      "Une obligation sociale stricte"
+    ],
+    "answerIndex": 1,
+    "explication": "La projection consiste à imaginer un futur possible pour soi et à construire un projet cohérent avec cette image."
+  },
+  {
+    "question": "47 - Les normes de genre influencent l’orientation en :",
+    "options": [
+      "Supprimant les différences",
+      "Imposant une égalité parfaite",
+      "Orientant les préférences et les représentations des élèves",
+      "Éliminant toute hiérarchie"
+    ],
+    "answerIndex": 2,
+    "explication": "Les normes de genre influencent les représentations des capacités et des intérêts, orientant les choix scolaires et professionnels."
+  },
+  {
+    "question": "48 - La différenciation verticale renvoie principalement à :",
+    "options": [
+      "La hiérarchie de valeur entre métiers",
+      "La répartition géographique",
+      "La spécialisation disciplinaire",
+      "La mixité des classes"
+      
+    ],
+    "answerIndex": 0,
+    "explication": "La différenciation verticale renvoie à la hiérarchie entre métiers ou filières, certains étant plus valorisés que d’autres."
+  },
+  {
+    "question": "49 - Les stéréotypes de compétence peuvent entraîner :",
+    "options": [
+      "Une modification des performances scolaires",
+      "Une neutralité totale des évaluations",
+      "Une disparition des différences",
+      "Une égalité automatique"
+    ],
+    "answerIndex": 0,
+    "explication": "Les stéréotypes de compétence peuvent influencer la confiance en soi et donc les performances scolaires."
+  },
+  {
+    "question": "50 - Les politiques publiques visant l’égalité d’orientation cherchent notamment à :",
+    "options": [
+      "Renforcer les stéréotypes",
+      "Réduire les inégalités entre filles et garçons",
+      "Supprimer l’école obligatoire",
+      "Uniformiser les métiers"
+    ],
+    "answerIndex": 1,
+    "explication": "Ces politiques visent à réduire les écarts d’orientation entre filles et garçons et à favoriser la mixité des filières."
+  },
+  {
+    "question": "51 - La hiérarchie entre filières influence :",
+    "options": [
+      "La couleur des diplômes",
+      "La durée de la scolarité uniquement",
+      "La taille des classes",
+      "Les perspectives professionnelles et sociales"
+    ],
+    "answerIndex": 3,
+    "explication": "Les filières les plus valorisées offrent généralement de meilleures perspectives professionnelles et sociales."
+  },
+  {
+    "question": "52 - L’orientation peut être influencée par :",
+    "options": [
+      "Uniquement les résultats scolaires",
+      "Uniquement les enseignants",
+      "Uniquement la famille",
+      "Un ensemble de facteurs sociaux et identitaires"
+    ],
+    "answerIndex": 3,
+    "explication": "Les choix d’orientation résultent d’une combinaison de facteurs : sociaux, culturels, scolaires et identitaires."
+  },
+  {
+    "question": "53 - La conformité aux attentes sociales permet souvent :",
+    "options": [
+      "D’obtenir reconnaissance et légitimité sociale",
+      "De supprimer toute contrainte",
+      "D’éviter l’évaluation",
+      "D’échapper à la socialisation"
+    ],
+    "answerIndex": 0,
+    "explication": "Se conformer aux attentes sociales permet d’être reconnu comme légitime par son environnement social."
+  },
+  {
+    "question": "54 - Les filières masculines et féminines sont construites :",
+    "options": [
+      "Biologiquement",
+      "Génétiquement",
+      "Naturellement",
+      "Socialement"
+    ],
+    "answerIndex": 3,
+    "explication": "La distinction entre filières masculines et féminines est une construction sociale issue de la socialisation."
+  },
+  {
+    "question": "55 - La socialisation différenciée conduit les individus à :",
+    "options": [
+      "Ignorer les normes",
+      "Refuser toute influence",
+      "Intérioriser des attentes liées au sexe",
+      "Choisir toujours librement"
+    ],
+    "answerIndex": 2,
+    "explication": "La socialisation différenciée amène les individus à intérioriser des attentes et des normes liées à leur sexe."
+  },
+  {
+    "question": "56 - Les rapports sociaux de sexe sont caractérisés par :",
+    "options": [
+      "Une égalité parfaite",
+      "Une absence de hiérarchie",
+      "Une neutralité sociale",
+      "Une relation antagonique entre groupes"
+    ],
+    "answerIndex": 3,
+    "explication": "Les rapports sociaux de sexe impliquent des tensions et une hiérarchie entre groupes sociaux masculins et féminins."
+  },
+  {
+    "question": "57 - L’orientation reflète aussi les goûts individuels car :",
+    "options": [
+      "Elle traduit les intérêts et préférences personnels",
+      "Elle est imposée uniformément",
+      "Elle dépend uniquement du marché du travail",
+      "Elle est déterminée biologiquement"
+    ],
+    "answerIndex": 0,
+    "explication": "Les choix d’orientation traduisent aussi les intérêts personnels, même s’ils sont socialement influencés."
+  },
+  {
+    "question": "58 - Les normes sociales influencent l’orientation car elles :",
+    "options": [
+      "Suppriment toute liberté",
+      "Définissent ce qui est attendu selon le sexe",
+      "Empêchent toute réussite",
+      "Fixent les salaires"
+    ],
+    "answerIndex": 1,
+    "explication": "Les normes sociales définissent ce qui est jugé approprié ou attendu pour chaque sexe."
+  },
+  {
+    "question": "59 - L’orientation scolaire est liée aux rapports sociaux de sexe car :",
+    "options": [
+      "Elle est indépendante du travail",
+      "Elle est neutre socialement",
+      "Elle participe à la division sexuelle du travail",
+      "Elle supprime les hiérarchies"
+    ],
+    "answerIndex": 2,
+    "explication": "L’orientation contribue à la division sexuelle du travail en orientant différemment filles et garçons vers certains métiers."
+  },
+  {
+    "question": "60 - La reconnaissance sociale associée à un choix d’orientation dépend :",
+    "options": [
+      "Uniquement du diplôme obtenu",
+      "Uniquement du revenu futur",
+      "Des normes et valeurs sociales dominantes",
+      "Uniquement du niveau scolaire"
+    ],
+    "answerIndex": 2,
+    "explication": "La reconnaissance sociale dépend des normes et valeurs dominantes qui hiérarchisent les filières et les professions."
+  },
+   {
+    "question": "61 - L’orientation scolaire participe à la construction de l’identité car :",
+    "options": [
+      "Elle contribue à définir ce que l’on veut devenir",
+      "Elle dépend uniquement du hasard",
+      "Elle supprime toute différence sociale",
+      "Elle est imposée par la loi"
+    ],
+    "answerIndex": 0,
+    "explication": "L’orientation participe à la construction identitaire car elle engage la projection de soi dans un avenir scolaire et professionnel."
+  },
+  {
+    "question": "62 - Pourquoi les normes de genre persistent-elles dans les choix d’orientation ?",
+    "options": [
+      "Parce qu’elles sont biologiques",
+      "Parce qu’elles sont transmises par les processus de socialisation",
+      "Parce qu’elles sont inscrites dans les programmes scolaires",
+      "Parce qu’elles sont imposées par les examens"
+    ],
+    "answerIndex": 1,
+    "explication": "Les normes de genre persistent car elles sont transmises par la socialisation (famille, école, médias), ce qui influence durablement les représentations."
+  },
+  {
+    "question": "63 - Le système éducatif participe à la division sexuelle du travail en :",
+    "options": [
+      "Supprimant toute hiérarchie",
+      "Garantissant l’égalité parfaite",
+      "Orientant différemment filles et garçons",
+      "Uniformisant les diplômes"
+    ],
+    "answerIndex": 2,
+    "explication": "Le système éducatif contribue à la division sexuelle du travail en orientant différemment les élèves selon leur sexe."
+  },
+  {
+    "question": "64 - L’absence de mixité dans certaines filières entraîne principalement :",
+    "options": [
+      "Une reproduction des inégalités professionnelles",
+      "Une meilleure égalité salariale",
+      "Une neutralité sociale",
+      "Une homogénéité des compétences"
+      
+    ],
+    "answerIndex": 0,
+    "explication": "Le manque de mixité renforce la reproduction des inégalités professionnelles entre les sexes."
+  },
+  {
+    "question": "65 - Les choix d’orientation sont influencés par les représentations sociales car :",
+    "options": [
+      "Elles définissent ce qui paraît légitime ou approprié",
+      "Elles sont sans effet réel",
+      "Elles sont toujours conscientes",
+      "Elles sont identiques pour tous"
+    ],
+    "answerIndex": 0,
+    "explication": "Les représentations sociales définissent ce qui semble approprié ou légitime pour chaque sexe et influencent donc les choix."
+  },
+  {
+    "question": "66 - Les politiques d’égalité cherchent notamment à :",
+    "options": [
+      "Renforcer les différences",
+      "Modifier les représentations et pratiques sociales",
+      "Supprimer la scolarité obligatoire",
+      "Uniformiser les résultats scolaires"
+    ],
+    "answerIndex": 1,
+    "explication": "Les politiques d’égalité visent à transformer les représentations sociales et les pratiques qui produisent les inégalités."
+  },
+  {
+    "question": "67 - La hiérarchie sociale entre métiers est liée au genre car :",
+    "options": [
+      "Elle est naturelle",
+      "Elle est indépendante du travail",
+      "Elle dépend uniquement du diplôme",
+      "Certains métiers masculins sont davantage valorisés"
+    ],
+    "answerIndex": 3,
+    "explication": "Les métiers majoritairement masculins sont souvent plus valorisés socialement et économiquement."
+  },
+  {
+    "question": "68 - L’orientation est un enjeu politique car :",
+    "options": [
+      "Elle concerne uniquement les individus",
+      "Elle ne dépend pas de la société",
+      "Elle est neutre socialement",
+      "Elle influence l’organisation sociale et économique"
+    ],
+    "answerIndex": 3,
+    "explication": "L’orientation est un enjeu politique car elle influence la répartition des compétences et des positions sociales."
+  },
+  {
+    "question": "69 - Les différences d’orientation entre filles et garçons montrent que :",
+    "options": [
+      "Les choix sont socialement construits",
+      "Les résultats scolaires sont identiques",
+      "La biologie détermine tout",
+      "Les politiques publiques sont inutiles"
+    ],
+    "answerIndex": 0,
+    "explication": "Les différences d’orientation reflètent des constructions sociales liées aux normes de genre."
+  },
+  {
+    "question": "70 - Comprendre les mécanismes d’orientation permet principalement de :",
+    "options": [
+      "Supprimer toute hiérarchie",
+      "Identifier les processus produisant les inégalités",
+      "Empêcher les choix individuels",
+      "Uniformiser les parcours scolaires"
+    ],
+    "answerIndex": 1,
+    "explication": "Analyser l’orientation permet de comprendre les mécanismes sociaux qui produisent et reproduisent les inégalités."
+  }
+]

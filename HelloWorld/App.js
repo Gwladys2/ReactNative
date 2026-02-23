@@ -100,7 +100,20 @@ import MetierEtudiant6 from './screens/MetierEtudiant6';
 import MetierEtudiant7 from './screens/MetierEtudiant7';
 import Footer from './components/Footer'; // ton composant Footer
 
-import Inegalite1 from './screens/semestre2/Inegalite'
+import Inegalite1 from './screens/semestre2/Inegalite';
+import Inegalite2 from './screens/semestre2/Inegalite2';
+import Inegalite3 from './screens/semestre2/Inegalite3';
+
+import LettreArt2Part from './screens/semestre2/LettresArts2Part';
+import LettreArt2Part2 from './screens/semestre2/LettresArts2Part2';
+import LettreArt2Part3 from './screens/semestre2/LettresArts2Part3';
+import LettreArt2Part4 from './screens/semestre2/LettresArts2Part4';
+
+import MenuLettreArts from './screens/MenuLettreArts';
+
+import MenuAnalyseArts from './screens/MenuAnalyseArts';
+
+import AnalyseArt2Part from './screens/semestre2/AnalyseArts2Part';
 
 
 
@@ -194,12 +207,14 @@ export default function App() {
                 <Stack.Screen name="CoursPsychoEducation3" component={CoursPsychoEducation3} />
                 <Stack.Screen name="CoursPsychoEducation4" component={CoursPsychoEducation4} />
                 <Stack.Screen name="QuiAditQuoi" component={QuiAditQuoi} />
+
                 <Stack.Screen name="AnalyseArts" component={AnalyseArts} />
                 <Stack.Screen name="AnalyseArts2" component={AnalyseArts2} />
                 <Stack.Screen name="AnalyseArts3" component={AnalyseArts3} />
                 <Stack.Screen name="AnalyseArts4" component={AnalyseArts4} />
                 <Stack.Screen name="AnalyseArts5" component={AnalyseArts5} />
                 <Stack.Screen name="AnalyseArts6" component={AnalyseArts6} />
+
                  <Stack.Screen name="HistoireMusique" component={HistoireMusique} />
                  <Stack.Screen name="HistoireMusique2" component={HistoireMusique2} />
                  <Stack.Screen name="HistoireMusique3" component={HistoireMusique3} />
@@ -213,6 +228,7 @@ export default function App() {
                  <Stack.Screen name="HistoireMusique11" component={HistoireMusique11} />
                   <Stack.Screen name="HistoireMusique12" component={HistoireMusique12} />
                    <Stack.Screen name="HistoireMusique13" component={HistoireMusique13} />
+
                  <Stack.Screen name="LexiqueHistoireMusique" component={LexiqueHistoireMusique} />
                  <Stack.Screen name="MetierEtudiant1" component={MetierEtudiant1} />
                  <Stack.Screen name="MetierEtudiant2" component={MetierEtudiant2} />
@@ -236,8 +252,20 @@ export default function App() {
                
 
                <Stack.Screen name="inegalite" component={Inegalite1} />
+               <Stack.Screen name="Inegalite2" component={Inegalite2} />
+               <Stack.Screen name="Inegalite3" component={Inegalite3} />
 
+               <Stack.Screen name="LettresArts2Part" component={LettreArt2Part} />
+                <Stack.Screen name="LettresArts2Part2" component={LettreArt2Part2} />
+                <Stack.Screen name="LettresArts2Part3" component={LettreArt2Part3} />
+                <Stack.Screen name="LettresArts2Part4" component={LettreArt2Part4} />
 
+               <Stack.Screen name="MenuLettreArts" component={MenuLettreArts} />
+               <Stack.Screen name="MenuAnalyseArts" component={MenuAnalyseArts} />
+
+               
+              <Stack.Screen name="AnalyseArt2Part" component={AnalyseArt2Part} />
+              
 
             </Stack.Navigator>
           </View>

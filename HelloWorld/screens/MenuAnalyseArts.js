@@ -9,14 +9,9 @@ import {
 
 const HomeScreen2 = ({ navigation }) => {
   const niveaux = [
-    { label: 'Les Grands Pédagogues', screen: 'GrandPedagogue' },
-    { label: "Psychologie du développement et de l'éducation", screen: 'PsychoEducation' },
-    { label: "Philosophie de l'éducation", screen: 'PhiloEducation' },
-    { label: "Lettres et Arts", screen: 'MenuLettreArts' },
-    { label: "Analyse de l'Arts", screen: 'MenuAnalyseArts' },
-    { label: "Histoire de la musique", screen: 'HistoireMusique' },
-    { label: "Métier de l'étudiant", screen: 'MetierEtudiant1' },
-    { label: "Faire face aux inégalités", screen: 'inegalite' }
+    { label: 'Analyse des Arts partie 1', screen: 'AnalyseArts' },
+    { label: "Analyse des Arts partie 2", screen: 'AnalyseArt2Part' },
+   
   ];
 
   return (
@@ -59,7 +54,7 @@ const styles = StyleSheet.create({
     padding: 15,
     marginVertical: 10,
     borderRadius: 10,
-    backgroundColor: '#4CAF50',
+    backgroundColor: '#695910',
     alignItems: 'center',
   },
   buttonText: {

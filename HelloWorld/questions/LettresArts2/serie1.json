@@ -1,0 +1,772 @@
+[
+  {
+    "question": "1 - Dans son sens premier, que désigne le mot « ruine » ?",
+    "options": [
+      "Un bâtiment restauré",
+      "Un effondrement partiel ou total d’un édifice",
+      "Une construction inachevée",
+      "Un monument classé"
+    ],
+    "answerIndex": 1,
+    "explication": "Le sens premier du mot « ruine » désigne l’effondrement partiel ou total d’une construction, dû à une dégradation naturelle, une destruction volontaire ou accidentelle. Les autres propositions ne correspondent pas à la définition lexicale étudiée dans le cours."
+  },
+  {
+    "question": "2 - Au sens figuré, que peut signifier le terme « ruine » ?",
+    "options": [
+      "La restauration complète d’un système",
+      "Une altération profonde menant à la disparition",
+      "Une embellie soudaine",
+      "Une simple transformation esthétique"
+    ],
+    "answerIndex": 1,
+    "explication": "Au sens figuré, la ruine désigne une désagrégation ou une altération profonde d’une réalité abstraite (morale, politique, économique) pouvant conduire à sa disparition. Il ne s’agit ni d’une amélioration ni d’une simple transformation."
+  },
+  {
+    "question": "3 - Dans l’Antiquité grecque, quel événement fondateur est associé aux premières ruines littéraires ?",
+    "options": [
+      "La fondation d’Athènes",
+      "La chute de Sparte",
+      "La destruction de Troie",
+      "La construction du Parthénon"
+    ],
+    "answerIndex": 2,
+    "explication": "La destruction de Troie constitue l’un des premiers grands récits de ruines dans la littérature antique, notamment dans L’Iliade d’Homère et les tragédies d’Euripide. Elle symbolise la chute d’une civilisation et la mémoire du désastre."
+  },
+  {
+    "question": "4 - Quelle œuvre de Virgile met en scène la chute de Troie et l’errance d’Énée ?",
+    "options": [
+      "Les Bucoliques",
+      "Les Géorgiques",
+      "Les Métamorphoses",
+      "L’Énéide"
+    ],
+    "answerIndex": 3,
+    "explication": "L’Énéide de Virgile raconte la fuite d’Énée après la destruction de Troie et la fondation mythique de Rome. Les Bucoliques et Les Géorgiques ont d’autres thématiques, tandis que Les Métamorphoses sont d’Ovide."
+  },
+  {
+    "question": "5 - Chez les auteurs antiques, les ruines sont principalement associées à :",
+    "options": [
+      "La guerre et la chute des civilisations",
+      "Le progrès scientifique",
+      "La prospérité économique",
+      "La stabilité politique"
+    ],
+    "answerIndex": 0,
+    "explication": "Dans l’Antiquité, les ruines apparaissent surtout comme conséquence de guerres et d’effondrements politiques, comme la chute de Troie. Elles incarnent la fragilité des civilisations face au destin et au temps."
+  },
+  {
+    "question": "6 - Au Moyen Âge, les ruines de Babylone sont principalement interprétées comme :",
+    "options": [
+      "Un modèle architectural à imiter",
+      "Un symbole religieux et moral",
+      "Un simple décor sans signification",
+      "Une preuve scientifique"
+    ],
+    "answerIndex": 1,
+    "explication": "Au Moyen Âge, les ruines de Babylone prennent une dimension religieuse : elles symbolisent la chute liée au péché et au châtiment divin. Elles sont interprétées moralement et spirituellement, non esthétiquement."
+  },
+  {
+    "question": "7 - Selon Thomas d’Aquin, la beauté suppose notamment :",
+    "options": [
+      "La destruction et le désordre",
+      "L’obscurité et l’inachèvement",
+      "L’intégrité, la proportion et l’éclat",
+      "La nouveauté et l’originalité"
+    ],
+    "answerIndex": 2,
+    "explication": "Thomas d’Aquin définit la beauté par trois critères : l’intégrité (achèvement), la proportion (harmonie) et l’éclat (clarté). La ruine, étant incomplète, semble donc contraire à l’idéal de beauté médiéval."
+  },
+  {
+    "question": "8 - À la Renaissance, le terme « Rinascità » est employé par :",
+    "options": [
+      "Jacob Burckhardt",
+      "Jules Michelet",
+      "Giorgio Vasari",
+      "Jean-Jacques Ampère"
+    ],
+    "answerIndex": 2,
+    "explication": "Le terme « Rinascità » apparaît chez Giorgio Vasari dans Les Vies des plus excellents peintres, sculpteurs et architectes (1568). Les autres auteurs théorisent plus tard la notion de Renaissance au XIXe siècle."
+  },
+  {
+    "question": "9 - Quel humaniste redécouvre les ruines de Rome et contribue à inventer un nouveau regard sur l’Antiquité ?",
+    "options": [
+      "Francesco Petrarca",
+      "Hildebert de Lavardin",
+      "Benoît de Sainte-Maure",
+      "Ovide"
+    ],
+    "answerIndex": 0,
+    "explication": "Francesco Petrarca joue un rôle central dans la redécouverte des ruines de Rome au XIVe siècle. Il développe un regard mélancolique et historique sur l’Antiquité, participant à la naissance du goût des ruines."
+  },
+  {
+    "question": "10 - À la Renaissance, les antiquaires sont :",
+    "options": [
+      "Des marchands d’antiquités décoratives",
+      "Des artistes spécialisés dans les paysages",
+      "Des érudits étudiant les vestiges matériels de l’Antiquité",
+      "Des architectes religieux"
+    ],
+    "answerIndex": 2,
+    "explication": "Les antiquaires sont des érudits qui s’intéressent aux témoignages matériels de l’Antiquité (inscriptions, monuments, vestiges). Ils sont considérés comme les précurseurs de l’archéologie moderne."
+  },
+  {
+    "question": "11 - Dans la poésie grecque antique, les ruines apparaissent principalement comme :",
+    "options": [
+      "Un motif comique",
+      "Un simple décor architectural",
+      "Un témoignage de la grandeur passée",
+      "Un symbole de modernité"
+    ],
+    "answerIndex": 2,
+    "explication": "Dans la poésie grecque, notamment chez Homère et Euripide, les ruines sont liées à la mémoire d’une grandeur passée, comme celle de Troie. Elles évoquent la perte, la souffrance et la fragilité des cités humaines."
+  },
+  {
+    "question": "12 - Quelle idée essentielle est associée aux ruines dans les récits antiques ?",
+    "options": [
+      "La permanence absolue des empires",
+      "L’immortalité des constructions humaines",
+      "L’égalité sociale",
+      "La fragilité des civilisations face au temps et à la guerre"
+    ],
+    "answerIndex": 3,
+    "explication": "Les ruines dans l’Antiquité rappellent que même les plus grandes cités peuvent disparaître. Elles symbolisent la vulnérabilité des civilisations face à la guerre, au destin et au passage du temps."
+  },
+  {
+    "question": "13 - Dans la tradition latine, la chute de Troie permet surtout de :",
+    "options": [
+      "Justifier la fondation mythique de Rome",
+      "Exalter la démocratie grecque",
+      "Critiquer la religion romaine",
+      "Décrire un paysage pastoral"
+    ],
+    "answerIndex": 0,
+    "explication": "Chez Virgile, la destruction de Troie n’est pas seulement un désastre : elle devient le point de départ de la fondation de Rome par Énée. La ruine devient ainsi fondatrice d’un nouvel ordre historique."
+  },
+  {
+    "question": "14 - Au Moyen Âge, les ruines sont principalement perçues comme :",
+    "options": [
+      "Des objets d’étude scientifique",
+      "Des signes de décadence morale et spirituelle",
+      "Des modèles esthétiques idéalisés",
+      "Des lieux de divertissement"
+    ],
+    "answerIndex": 1,
+    "explication": "Dans la pensée médiévale, les ruines sont interprétées à travers un prisme religieux. Elles symbolisent la chute liée au péché, la vanité des grandeurs terrestres et la punition divine."
+  },
+  {
+    "question": "15 - Pourquoi, selon la définition médiévale de la beauté, la ruine pose-t-elle problème ?",
+    "options": [
+      "Parce qu’elle est trop ancienne",
+      "Parce qu’elle est incomplète et manque d’intégrité",
+      "Parce qu’elle est trop colorée",
+      "Parce qu’elle est trop moderne"
+    ],
+    "answerIndex": 1,
+    "explication": "Selon Thomas d’Aquin, la beauté suppose l’intégrité, la proportion et l’éclat. La ruine, étant incomplète et fragmentée, semble contredire l’exigence d’intégrité et apparaît donc comme imparfaite."
+  },
+  {
+    "question": "16 - L’apparition des ruines de Rome dans les textes médiévaux marque :",
+    "options": [
+      "La disparition totale de l’Antiquité",
+      "Une simple description topographique",
+      "Un début de fascination pour le passé romain",
+      "Une condamnation politique explicite"
+    ],
+    "answerIndex": 2,
+    "explication": "Les évocations médiévales des ruines de Rome témoignent d’un intérêt croissant pour l’Antiquité. Elles annoncent progressivement la redécouverte humaniste qui s’épanouira à la Renaissance."
+  },
+  {
+    "question": "17 - La Renaissance se caractérise notamment par :",
+    "options": [
+      "Le rejet total de l’Antiquité",
+      "La redécouverte et la valorisation des textes antiques",
+      "La fin de l’humanisme",
+      "La disparition de la mémoire historique"
+    ],
+    "answerIndex": 1,
+    "explication": "La Renaissance se définit par la redécouverte des textes et des vestiges antiques, ainsi que par le développement de l’humanisme. Elle marque une nouvelle valorisation de l’héritage gréco-romain."
+  },
+  {
+    "question": "18 - Pourquoi dit-on que le terme « Renaissance » est anachronique ?",
+    "options": [
+      "Parce qu’il est utilisé dès l’Antiquité",
+      "Parce qu’il est inventé au XXe siècle",
+      "Parce qu’il est appliqué après coup à une période qui ne se nommait pas ainsi",
+      "Parce qu’il n’a jamais existé"
+    ],
+    "answerIndex": 2,
+    "explication": "Le terme « Renaissance » est anachronique car il a été conceptualisé et théorisé après la période qu’il désigne. Les contemporains ne se définissaient pas eux-mêmes comme vivant une « Renaissance »."
+  },
+  {
+    "question": "19 - Chez Pétrarque, la contemplation des ruines de Rome suscite principalement :",
+    "options": [
+      "Une indifférence totale",
+      "Un intérêt purement économique",
+      "Une méditation mélancolique sur le temps",
+      "Un désir de destruction"
+    ],
+    "answerIndex": 2,
+    "explication": "Pétrarque développe un regard mélancolique sur les ruines de Rome. Elles deviennent le support d’une réflexion sur la grandeur passée, le passage du temps et la condition humaine."
+  },
+  {
+    "question": "20 - Les antiquaires de la Renaissance sont considérés comme les précurseurs de :",
+    "options": [
+      "La sociologie",
+      "L’archéologie",
+      "La psychologie",
+      "La chimie"
+    ],
+    "answerIndex": 1,
+    "explication": "Les antiquaires étudiaient les vestiges matériels de l’Antiquité (monuments, inscriptions, objets). Leur démarche érudite et méthodique annonce la naissance de l’archéologie moderne."
+  },
+  {
+    "question": "21 - Dans la définition lexicale étudiée en cours, la ruine peut aussi désigner :",
+    "options": [
+      "Une destruction partielle ou totale d’une chose",
+      "Un style architectural antique",
+      "Un genre musical médiéval",
+      "Un courant philosophique humaniste"
+    ],
+    "answerIndex": 0,
+    "explication": "Par extension, le terme « ruine » ne s’applique pas seulement aux bâtiments mais aussi à toute chose détruite partiellement ou totalement. Cette définition élargit le champ du concept au-delà du seul domaine architectural."
+  },
+  {
+    "question": "22 - Le « sentiment des ruines » renvoie principalement à :",
+    "options": [
+      "Une admiration technique pour les matériaux",
+      "Une mélancolie suscitée par la contemplation des vestiges",
+      "Une volonté de reconstruction immédiate",
+      "Une analyse scientifique des pierres"
+    ],
+    "answerIndex": 1,
+    "explication": "Le « sentiment des ruines » désigne l’émotion mélancolique éprouvée face aux vestiges du passé. Il s’agit d’une expérience affective et esthétique, et non d’une approche technique ou scientifique."
+  },
+  {
+    "question": "23 - Dans la peinture, le motif des ruines correspond à :",
+    "options": [
+      "La représentation d’édifices détruits dans un paysage",
+      "Une technique de fresque religieuse",
+      "Un portrait héroïque",
+      "Une nature morte florale"
+    ],
+    "answerIndex": 0,
+    "explication": "En peinture et en gravure, les ruines deviennent un motif artistique : il s’agit de représenter des édifices détruits ou des paysages comportant des vestiges. Ce thème prend de l’ampleur surtout à partir de la Renaissance."
+  },
+  {
+    "question": "24 - Dans les tragédies grecques, la ruine est souvent liée à :",
+    "options": [
+      "La prospérité économique",
+      "La victoire militaire",
+      "La vengeance divine et la souffrance humaine",
+      "La stabilité politique"
+    ],
+    "answerIndex": 2,
+    "explication": "Chez Euripide par exemple, la ruine est associée aux conséquences tragiques de la guerre et à la vengeance divine. Elle met en scène la souffrance des survivants et la destruction des cités."
+  },
+  {
+    "question": "25 - Dans la tradition médiévale, les ruines rappellent surtout :",
+    "options": [
+      "La modernité technique",
+      "La puissance éternelle des empires",
+      "La supériorité esthétique du passé",
+      "La vanité des grandeurs terrestres"
+    ],
+    "answerIndex": 3,
+    "explication": "Au Moyen Âge, les ruines sont interprétées comme des signes de la vanité des grandeurs humaines. Elles rappellent que toute puissance terrestre est fragile face au jugement divin et au temps."
+  },
+  {
+    "question": "26 - L’humanisme de la Renaissance implique :",
+    "options": [
+      "Un retour aux textes et aux modèles antiques",
+      "Un rejet de toute culture ancienne",
+      "Une indifférence à l’histoire",
+      "Une domination exclusive de la théologie"
+    ],
+    "answerIndex": 0,
+    "explication": "L’humanisme repose sur la redécouverte et l’étude des textes antiques. Il valorise la culture gréco-romaine comme fondement d’un renouveau intellectuel et artistique."
+  },
+  {
+    "question": "27 - La redécouverte des ruines romaines à la Renaissance favorise :",
+    "options": [
+      "La disparition de la conscience historique",
+      "L’émergence d’une nouvelle réflexion sur le temps",
+      "La fin de l’archéologie",
+      "Le rejet de l’Antiquité"
+    ],
+    "answerIndex": 1,
+    "explication": "La contemplation des ruines romaines suscite une réflexion nouvelle sur la temporalité, la mémoire et la grandeur passée. Elle contribue à l’émergence d’une conscience historique moderne."
+  },
+  {
+    "question": "28 - Les antiquaires s’intéressent principalement :",
+    "options": [
+      "Aux œuvres exclusivement religieuses",
+      "Aux vestiges matériels de l’Antiquité",
+      "Aux inventions industrielles",
+      "Aux traditions orales contemporaines"
+    ],
+    "answerIndex": 1,
+    "explication": "Les antiquaires étudient les vestiges concrets laissés par l’Antiquité : inscriptions, monuments, sculptures. Leur approche repose sur l’observation et l’analyse des traces matérielles."
+  },
+  {
+    "question": "29 - Le passage du Moyen Âge à la Renaissance modifie le regard sur les ruines car elles deviennent :",
+    "options": [
+      "Uniquement des preuves de péché",
+      "Des objets purement utilitaires",
+      "Des sources d’inspiration esthétique et historique",
+      "Des éléments sans signification"
+    ],
+    "answerIndex": 2,
+    "explication": "À la Renaissance, les ruines cessent d’être seulement des symboles religieux. Elles deviennent des objets d’admiration esthétique et des supports d’une réflexion sur l’histoire et la mémoire."
+  },
+  {
+    "question": "30 - La naissance du « goût des ruines » à la Renaissance correspond à :",
+    "options": [
+      "Un rejet total du passé",
+      "Une fascination nouvelle pour les vestiges anciens",
+      "Une interdiction de représenter des ruines",
+      "Une simple mode architecturale sans portée intellectuelle"
+    ],
+    "answerIndex": 1,
+    "explication": "Le « goût des ruines » désigne l’attrait nouveau pour les vestiges antiques. Cette fascination est à la fois esthétique, érudite et philosophique, révélant une nouvelle conscience du temps et de l’histoire."
+  },
+  {
+    "question": "31 - Dans L’Iliade, la destruction de Troie symbolise principalement :",
+    "options": [
+      "La victoire définitive de la paix",
+      "La fragilité des cités face à la guerre",
+      "La naissance de la démocratie",
+      "La supériorité économique grecque"
+    ],
+    "answerIndex": 1,
+    "explication": "Dans L’Iliade d’Homère, la chute de Troie illustre la vulnérabilité des cités humaines face à la guerre et au destin. Elle met en évidence la violence des conflits et la fin brutale d’une civilisation prestigieuse."
+  },
+  {
+    "question": "32 - Chez Euripide, les ruines de Troie permettent surtout de montrer :",
+    "options": [
+      "La prospérité commerciale",
+      "La souffrance des vainqueurs",
+      "La douleur des vaincus et des survivants",
+      "La reconstruction immédiate de la ville"
+    ],
+    "answerIndex": 2,
+    "explication": "Dans Hécube notamment, Euripide insiste sur la souffrance des vaincus, en particulier des femmes troyennes. Les ruines deviennent le théâtre de la douleur humaine après la catastrophe."
+  },
+  {
+    "question": "33 - Dans la tradition latine, la figure d’Énée incarne :",
+    "options": [
+      "La rupture totale avec le passé",
+      "La simple nostalgie du monde grec",
+      "La continuité entre la ruine de Troie et la fondation de Rome",
+      "La destruction volontaire de Rome"
+    ],
+    "answerIndex": 2,
+    "explication": "Énée représente la continuité historique : issu de la Troie détruite, il fonde symboliquement Rome. La ruine devient ainsi le point de départ d’une renaissance politique et mythique."
+  },
+  {
+    "question": "34 - Au Moyen Âge, les ruines antiques sont rarement étudiées pour :",
+    "options": [
+      "Leur valeur symbolique",
+      "Leur dimension religieuse",
+      "Leur portée morale",
+      "Leur intérêt archéologique scientifique"
+    ],
+    "answerIndex": 3,
+    "explication": "Au Moyen Âge, les ruines sont interprétées symboliquement et religieusement. L’approche scientifique et archéologique des vestiges n’apparaîtra véritablement qu’à la Renaissance."
+  },
+  {
+    "question": "35 - La réflexion médiévale sur la beauté insiste sur :",
+    "options": [
+      "L’intégrité et l’harmonie",
+      "La fragmentation volontaire",
+      "La destruction esthétique",
+      "L’inachèvement créatif"
+    ],
+    "answerIndex": 0,
+    "explication": "Selon Thomas d’Aquin, la beauté repose sur l’intégrité, la proportion et l’éclat. Une œuvre incomplète ou fragmentée, comme une ruine, semble donc contredire cet idéal."
+  },
+  {
+    "question": "36 - L’intérêt nouveau pour les ruines à la Renaissance traduit :",
+    "options": [
+      "Un rejet de toute spiritualité",
+      "Une nouvelle conscience historique",
+      "Une indifférence au passé",
+      "Une peur des civilisations antiques"
+    ],
+    "answerIndex": 1,
+    "explication": "La Renaissance développe une conscience historique nouvelle : les ruines sont perçues comme des traces du passé permettant de comprendre le temps et l’évolution des civilisations."
+  },
+  {
+    "question": "37 - La redécouverte des textes antiques favorise :",
+    "options": [
+      "La disparition de l’humanisme",
+      "La mise à distance du passé",
+      "Le développement des humanités",
+      "La suppression de l’étude du latin"
+    ],
+    "answerIndex": 2,
+    "explication": "La Renaissance voit se développer les humanités, fondées sur l’étude des textes grecs et latins. Cette redécouverte nourrit la réflexion sur l’Antiquité et sur ses vestiges matériels."
+  },
+  {
+    "question": "38 - Le regard de Pétrarque sur les ruines de Rome se caractérise par :",
+    "options": [
+      "Une approche purement technique",
+      "Une indifférence esthétique",
+      "Une condamnation religieuse exclusive",
+      "Une méditation personnelle et historique"
+    ],
+    "answerIndex": 3,
+    "explication": "Pétrarque contemple les ruines de Rome avec une sensibilité nouvelle : elles deviennent le support d’une méditation intime sur le temps, la grandeur passée et la décadence."
+  },
+  {
+    "question": "39 - Les antiquaires peuvent être considérés comme :",
+    "options": [
+      "Les fondateurs de l’archéologie moderne",
+      "Des marchands d’art uniquement",
+      "Des théologiens médiévaux",
+      "Des architectes militaires"
+    ],
+    "answerIndex": 0,
+    "explication": "Les antiquaires étudient méthodiquement les vestiges antiques. Leur travail annonce la naissance de l’archéologie scientifique, fondée sur l’observation et l’analyse des traces matérielles."
+  },
+  {
+    "question": "40 - Le « goût des ruines » implique :",
+    "options": [
+      "Une fascination esthétique et mélancolique",
+      "Un refus de représenter le passé",
+      "Une destruction volontaire des monuments",
+      "Une approche strictement utilitaire"
+    ],
+    "answerIndex": 0,
+    "explication": "Le goût des ruines désigne l’attrait esthétique et émotionnel pour les vestiges anciens. Il mêle admiration, mélancolie et réflexion sur la disparition."
+  },
+  {
+    "question": "41 - À la Renaissance, les ruines deviennent un objet d’étude car elles sont vues comme :",
+    "options": [
+      "Des preuves inutiles du passé",
+      "Des traces matérielles d’une grandeur antique",
+      "Des obstacles à la modernité",
+      "Des vestiges sans valeur artistique"
+    ],
+    "answerIndex": 1,
+    "explication": "Les ruines sont désormais perçues comme des témoignages concrets d’une grandeur antique. Elles permettent de reconstruire l’histoire et d’admirer les réalisations passées."
+  },
+  {
+    "question": "42 - Le passage d’une vision religieuse à une vision historique des ruines marque :",
+    "options": [
+      "La fin de toute spiritualité",
+      "Un simple changement décoratif",
+      "Une transformation du rapport au temps",
+      "Une disparition de la mémoire collective"
+    ],
+    "answerIndex": 2,
+    "explication": "Le regard change : les ruines ne sont plus seulement des symboles religieux, mais deviennent des supports d’analyse historique. Cela traduit une nouvelle conception du temps et de la mémoire."
+  },
+  {
+    "question": "43 - La contemplation des ruines à la Renaissance favorise :",
+    "options": [
+      "Une réflexion sur la condition humaine",
+      "Un rejet de l’histoire",
+      "Une indifférence au passé",
+      "Une suppression des arts"
+    ],
+    "answerIndex": 0,
+    "explication": "Les ruines invitent à méditer sur la fragilité des civilisations et sur la condition humaine. Elles rappellent que toute grandeur est soumise au temps."
+  },
+  {
+    "question": "44 - Dans la perspective humaniste, les ruines sont :",
+    "options": [
+      "Des preuves de décadence irrémédiable",
+      "Des supports pour comprendre et admirer l’Antiquité",
+      "Des éléments à effacer",
+      "Des vestiges sans intérêt intellectuel"
+    ],
+    "answerIndex": 1,
+    "explication": "Les humanistes voient dans les ruines des traces précieuses du passé antique. Elles permettent d’étudier, d’imiter et d’admirer les réalisations anciennes."
+  },
+  {
+    "question": "45 - Le motif des ruines en art contribue à :",
+    "options": [
+      "Ignorer la mémoire historique",
+      "Supprimer la dimension émotionnelle",
+      "Exprimer la mélancolie et la grandeur passée",
+      "Éliminer toute référence au temps"
+    ],
+    "answerIndex": 2,
+    "explication": "En peinture et en littérature, les ruines deviennent un motif chargé d’émotion. Elles expriment à la fois la nostalgie, la grandeur passée et la conscience du temps."
+  },
+  {
+    "question": "46 - La redécouverte de Rome à la Renaissance s’accompagne :",
+    "options": [
+      "D’une destruction systématique des vestiges",
+      "D’un oubli des textes antiques",
+      "D’un refus de toute érudition",
+      "D’un intérêt accru pour les monuments anciens"
+    ],
+    "answerIndex": 3,
+    "explication": "Les érudits et artistes de la Renaissance s’intéressent activement aux monuments romains. Ils les étudient, les dessinent et les analysent pour comprendre l’Antiquité."
+  },
+  {
+    "question": "47 - La ruine devient un objet esthétique lorsque :",
+    "options": [
+      "Elle est contemplée pour sa valeur artistique",
+      "Elle est immédiatement reconstruite",
+      "Elle est ignorée",
+      "Elle est uniquement exploitée économiquement"
+    ],
+    "answerIndex": 0,
+    "explication": "La ruine acquiert une valeur esthétique lorsqu’elle est admirée pour sa beauté fragmentaire et sa capacité à évoquer le passé, indépendamment de son utilité pratique."
+  },
+  {
+    "question": "48 - Le développement du goût des ruines révèle :",
+    "options": [
+      "Une absence de conscience historique",
+      "Une sensibilité nouvelle au passage du temps",
+      "Un refus de la mémoire collective",
+      "Une volonté de nier l’histoire"
+    ],
+    "answerIndex": 1,
+    "explication": "Le goût des ruines traduit une sensibilité accrue à la temporalité. Les vestiges rappellent le passage du temps et la transformation des civilisations."
+  },
+  {
+    "question": "49 - Dans la perspective du cours, la Renaissance constitue un tournant car :",
+    "options": [
+      "Les ruines disparaissent totalement",
+      "Elles ne sont plus représentées en art",
+      "Elles deviennent un objet central de réflexion esthétique et historique",
+      "Elles sont interdites dans la littérature"
+    ],
+    "answerIndex": 2,
+    "explication": "La Renaissance marque un moment clé : les ruines ne sont plus seulement des symboles religieux ou des décors narratifs, mais deviennent des objets centraux de réflexion artistique et historique."
+  },
+  {
+    "question": "50 - L’étude des ruines permet de comprendre :",
+    "options": [
+      "Uniquement l’architecture moderne",
+      "La permanence absolue des civilisations",
+      "La disparition totale de la mémoire",
+      "La relation entre mémoire, temps et histoire"
+    ],
+    "answerIndex": 3,
+    "explication": "Les ruines matérialisent le passage du temps. Leur étude éclaire le lien entre mémoire, disparition et conscience historique, thème central du cours."
+  },
+  {
+    "question": "51 - Dans Les Antiquités de Rome, Du Bellay médite principalement sur :",
+    "options": [
+      "La modernité politique française",
+      "La grandeur et la décadence de Rome",
+      "La mythologie grecque",
+      "La guerre contemporaine"
+    ],
+    "answerIndex": 1,
+    "explication": "Dans Les Antiquités de Rome, Du Bellay contemple les ruines romaines et réfléchit à la grandeur passée de l’Empire et à sa décadence. La ruine devient un support de méditation historique et morale."
+  },
+  {
+    "question": "52 - Chez Du Bellay, les ruines de Rome symbolisent :",
+    "options": [
+      "La permanence du pouvoir impérial",
+      "L’échec définitif de toute civilisation",
+      "La fragilité des empires face au temps",
+      "La supériorité de la Rome contemporaine"
+    ],
+    "answerIndex": 2,
+    "explication": "Les ruines rappellent que même la plus grande des civilisations peut disparaître. Du Bellay insiste sur la puissance du temps qui détruit toute grandeur humaine."
+  },
+  {
+    "question": "53 - Dans Le Songe, les visions successives ont pour fonction principale :",
+    "options": [
+      "D’exalter la richesse matérielle",
+      "D’illustrer la stabilité politique",
+      "De montrer l’effondrement progressif des puissances humaines",
+      "De célébrer la victoire militaire"
+    ],
+    "answerIndex": 2,
+    "explication": "Le Songe met en scène des visions symboliques où des puissances s’effondrent. Cette structure renforce l’idée que toute domination terrestre est vouée à disparaître."
+  },
+  {
+    "question": "54 - La poétique des ruines chez Du Bellay repose sur :",
+    "options": [
+      "Une description purement architecturale",
+      "Une indifférence émotionnelle",
+      "Une célébration de la reconstruction",
+      "Une méditation lyrique sur le temps"
+    ],
+    "answerIndex": 3,
+    "explication": "Du Bellay ne décrit pas seulement les ruines : il les transforme en objet lyrique. La poésie devient méditation sur le temps, la mémoire et la condition humaine."
+  },
+  {
+    "question": "55 - Dans Les Antiquités de Rome, le contraste entre passé et présent permet de :",
+    "options": [
+      "Mettre en valeur la grandeur antique disparue",
+      "Nier l’importance de l’Antiquité",
+      "Exalter uniquement la Rome moderne",
+      "Supprimer toute dimension historique"
+    ],
+    "answerIndex": 0,
+    "explication": "Du Bellay joue sur le contraste entre la Rome antique glorieuse et la Rome contemporaine en ruine pour souligner la décadence et la puissance destructrice du temps."
+  },
+  {
+    "question": "56 - La conscience historique moderne naît lorsque :",
+    "options": [
+      "On considère le passé comme différent du présent",
+      "On refuse toute mémoire",
+      "On ignore les vestiges matériels",
+      "On nie le passage du temps"
+    ],
+    "answerIndex": 0,
+    "explication": "La conscience historique implique de reconnaître une distance entre passé et présent. À la Renaissance, cette prise de conscience s’accentue grâce à la contemplation des ruines."
+  },
+  {
+    "question": "57 - La Renaissance se distingue du Moyen Âge par :",
+    "options": [
+      "Un rejet de toute religion",
+      "Une approche plus esthétique et érudite des ruines",
+      "Une absence d’intérêt pour l’Antiquité",
+      "Une suppression des études littéraires"
+    ],
+    "answerIndex": 1,
+    "explication": "À la Renaissance, les ruines ne sont plus seulement des symboles religieux : elles deviennent objets d’étude, d’admiration esthétique et de réflexion historique."
+  },
+  {
+    "question": "58 - Chez Du Bellay, le temps est représenté comme :",
+    "options": [
+      "Un facteur de progrès constant",
+      "Une force destructrice inévitable",
+      "Un élément secondaire",
+      "Une illusion poétique"
+    ],
+    "answerIndex": 1,
+    "explication": "Le temps est présenté comme une force puissante qui détruit empires et monuments. Cette idée est centrale dans la poétique des ruines."
+  },
+  {
+    "question": "59 - Le terme « humanités » à la Renaissance désigne :",
+    "options": [
+      "Les sciences expérimentales",
+      "Les études centrées sur les textes antiques",
+      "La théologie exclusivement",
+      "L’architecture militaire"
+    ],
+    "answerIndex": 1,
+    "explication": "Les humanités correspondent à l’étude des textes grecs et latins (rhétorique, poésie, histoire). Elles sont au cœur du projet humaniste."
+  },
+  {
+    "question": "60 - Le regard esthétique sur les ruines implique :",
+    "options": [
+      "Une admiration pour leur beauté fragmentaire",
+      "Une volonté de les détruire",
+      "Une indifférence émotionnelle",
+      "Un refus de les représenter"
+    ],
+    "answerIndex": 0,
+    "explication": "À la Renaissance, les ruines sont admirées pour leur beauté particulière, faite de fragmentation et de traces du passé."
+  },
+  {
+    "question": "61 - La méditation sur les ruines conduit à réfléchir sur :",
+    "options": [
+      "La supériorité technique moderne",
+      "La condition humaine et la mortalité",
+      "L’économie marchande",
+      "La géographie uniquement"
+    ],
+    "answerIndex": 1,
+    "explication": "Les ruines rappellent la finitude humaine et la disparition des civilisations. Elles invitent à une réflexion philosophique sur la condition humaine."
+  },
+  {
+    "question": "62 - Dans la perspective du cours, la ruine devient un objet artistique lorsqu’elle est :",
+    "options": [
+      "Ignorée",
+      "Rebâtie immédiatement",
+      "Contemplée et représentée",
+      "Supprimée des textes"
+    ],
+    "answerIndex": 2,
+    "explication": "La ruine acquiert une dimension artistique lorsqu’elle est représentée en littérature ou en peinture et investie d’une signification esthétique."
+  },
+  {
+    "question": "63 - La transition Moyen Âge / Renaissance marque :",
+    "options": [
+      "Une rupture totale avec le passé antique",
+      "Une continuité religieuse exclusive",
+      "Une transformation du rapport au passé",
+      "Une disparition des ruines"
+    ],
+    "answerIndex": 2,
+    "explication": "La Renaissance transforme le regard porté sur le passé : les ruines deviennent des objets d’étude historique et non plus seulement des symboles moraux."
+  },
+  {
+    "question": "64 - Chez Du Bellay, Rome devient :",
+    "options": [
+      "Un simple décor pittoresque",
+      "Un symbole de la puissance éternelle",
+      "Un modèle politique à imiter",
+      "Un symbole universel de la grandeur et de la chute"
+    ],
+    "answerIndex": 3,
+    "explication": "Rome incarne à la fois la grandeur suprême et la chute inévitable. Elle devient un symbole universel du destin des civilisations."
+  },
+  {
+    "question": "65 - La représentation artistique des ruines permet de :",
+    "options": [
+      "Matérialiser le passage du temps",
+      "Effacer la mémoire historique",
+      "Supprimer l’émotion",
+      "Ignorer le passé"
+    ],
+    "answerIndex": 0,
+    "explication": "Les ruines rendent visible le passage du temps. Elles matérialisent l’histoire et permettent de penser la transformation des civilisations."
+  },
+  {
+    "question": "66 - La redécouverte des vestiges romains favorise :",
+    "options": [
+      "La naissance d’une archéologie érudite",
+      "La suppression des études anciennes",
+      "L’abandon de l’histoire",
+      "La fin de l’humanisme"
+    ],
+    "answerIndex": 0,
+    "explication": "L’étude des vestiges matériels à la Renaissance marque les débuts d’une démarche archéologique fondée sur l’observation et l’érudition."
+  },
+  {
+    "question": "67 - Dans la poétique des ruines, la mélancolie provient de :",
+    "options": [
+      "La disparition de la mémoire",
+      "La conscience de la grandeur passée perdue",
+      "La supériorité du présent",
+      "La richesse économique"
+    ],
+    "answerIndex": 1,
+    "explication": "La mélancolie naît du contraste entre la splendeur passée et l’état actuel de ruine. Cette tension nourrit l’émotion esthétique."
+  },
+  {
+    "question": "68 - Le travail des antiquaires repose sur :",
+    "options": [
+      "L’imagination seule",
+      "La spéculation religieuse",
+      "L’étude concrète des vestiges",
+      "La poésie lyrique"
+    ],
+    "answerIndex": 2,
+    "explication": "Les antiquaires observent, décrivent et analysent les vestiges matériels. Leur méthode annonce l’archéologie scientifique."
+  },
+  {
+    "question": "69 - Dans le cours, la ruine est centrale car elle permet de penser :",
+    "options": [
+      "La permanence absolue",
+      "La destruction comme seule réalité",
+      "La rupture entre art et histoire",
+      "Le lien entre mémoire, art et temporalité"
+    ],
+    "answerIndex": 3,
+    "explication": "La ruine relie mémoire, art et temps. Elle est à la fois objet esthétique, trace historique et symbole de la temporalité."
+  },
+  {
+    "question": "70 - L’étude des ruines à la Renaissance révèle :",
+    "options": [
+      "Une nouvelle manière de comprendre l’histoire",
+      "Un rejet du passé",
+      "Une indifférence à l’Antiquité",
+      "Une disparition de la littérature"
+    ],
+    "answerIndex": 0,
+    "explication": "La Renaissance développe une nouvelle approche du passé : les ruines deviennent des sources pour comprendre l’histoire et réfléchir au devenir des civilisations."
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "question": "1 - Où apparaît l’Humanisme au XVe siècle ?",
+    "options": ["En France", "En Italie", "En Allemagne", "En Espagne"],
+    "answerIndex": 1,
+    "explication": "L’Humanisme apparaît en Italie au XVe siècle, notamment à Florence, avant de se diffuser dans toute l’Europe. L’Italie bénéficie d’un contexte favorable : richesse des cités-États, redécouverte des textes antiques et mécénat actif."
+  },
+  {
+    "question": "2 - Quel événement de 1453 favorise la redécouverte des textes antiques ?",
+    "options": ["La découverte de l’Amérique", "La Réforme protestante", "La chute de Constantinople", "La fondation de l’Académie française"],
+    "answerIndex": 2,
+    "explication": "La chute de Constantinople en 1453 entraîne la migration de savants byzantins vers l’Italie, apportant avec eux des manuscrits grecs antiques. Cela stimule l’étude du grec et la redécouverte des textes anciens."
+  },
+  {
+    "question": "3 - Quel changement fondamental caractérise l’Humanisme ?",
+    "options": ["Le rejet de la religion", "La centralité de l’homme", "La domination de la science expérimentale", "Le retour au polythéisme"],
+    "answerIndex": 1,
+    "explication": "L’Humanisme place l’homme au centre des préoccupations intellectuelles et artistiques. Ce changement de paradigme rompt avec la vision médiévale centrée principalement sur Dieu."
+  },
+  {
+    "question": "4 - Quelle invention vers 1450 transforme la diffusion du savoir ?",
+    "options": ["La boussole", "La lunette astronomique", "La poudre à canon", "L’imprimerie"],
+    "answerIndex": 3,
+    "explication": "L’imprimerie mise au point par Gutenberg vers 1450 permet la reproduction rapide des livres, favorisant la diffusion des textes antiques et des idées humanistes dans toute l’Europe."
+  },
+  {
+    "question": "5 - Quel artiste est associé à la grande coupole de Florence (1420-1436) ?",
+    "options": ["Filippo Brunelleschi", "Donatello", "Raphaël", "Bramante"],
+    "answerIndex": 0,
+    "explication": "Filippo Brunelleschi est l’architecte du dôme de Santa Maria del Fiore à Florence. Cette réalisation marque une prouesse technique et symbolise la renaissance des méthodes antiques de construction."
+  },
+  {
+    "question": "6 - Comment Giorgio Vasari qualifie-t-il le style gothique ?",
+    "options": ["Parfait et harmonieux", "Barbare et monstrueux", "Scientifique et rationnel", "Spirituel et lumineux"],
+    "answerIndex": 1,
+    "explication": "Giorgio Vasari critique sévèrement le style gothique, qu’il considère comme barbare et irrégulier, opposé à l’harmonie et aux proportions de l’Antiquité qu’il valorise."
+  },
+  {
+    "question": "7 - Quel est le rôle principal des Médicis à Florence ?",
+    "options": ["Ils dirigent l’Église romaine", "Ils organisent les croisades", "Ils soutiennent les artistes et les intellectuels", "Ils abolissent les corporations"],
+    "answerIndex": 2,
+    "explication": "Les Médicis jouent un rôle majeur de mécènes : ils financent artistes, architectes et penseurs. Leur soutien favorise l’essor artistique et intellectuel de Florence."
+  },
+  {
+    "question": "8 - Quel terme italien désigne la « renaissance » des arts selon Vasari ?",
+    "options": ["Illuminazione", "Rinascita", "Modernità", "Riforma"],
+    "answerIndex": 1,
+    "explication": "Le terme « Rinascita » est employé par Vasari pour désigner la renaissance des arts après ce qu’il considère comme une période de décadence médiévale."
+  },
+  {
+    "question": "9 - Quelle période correspond au Quattrocento ?",
+    "options": ["Le XIVe siècle", "Le XVIe siècle", "Le XVe siècle", "Le XIIIe siècle"],
+    "answerIndex": 2,
+    "explication": "Le Quattrocento correspond au XVe siècle (années 1400). Il désigne la Première Renaissance italienne, marquée par l’essor de la perspective et le retour aux modèles antiques."
+  },
+  {
+    "question": "10 - Quel type de sujet artistique réapparaît grâce à l’influence de l’Antiquité ?",
+    "options": ["Les scènes exclusivement bibliques", "Les portraits royaux uniquement", "Les scènes féodales", "Les thèmes mythologiques"],
+    "answerIndex": 3,
+    "explication": "La Renaissance voit la réactivation des thèmes mythologiques issus de l’Antiquité gréco-romaine. Ces sujets témoignent de l’intérêt renouvelé pour la culture antique et l’idéal classique."
+  },
+  {
+    "question": "11 - Quelle ville est considérée comme le principal foyer de la Renaissance au XVe siècle ?",
+    "options": ["Rome", "Venise", "Florence", "Milan"],
+    "answerIndex": 2,
+    "explication": "Florence est le principal foyer de la Renaissance au XVe siècle. Grâce à la richesse de ses marchands et au mécénat des Médicis, elle devient un centre artistique et intellectuel majeur."
+  },
+  {
+    "question": "12 - Quel mouvement philosophique est développé à Florence autour de Marsile Ficin ?",
+    "options": ["Le néoplatonisme", "Le stoïcisme", "Le matérialisme", "Le scepticisme"],
+    "answerIndex": 0,
+    "explication": "Marsile Ficin développe le néoplatonisme à Florence. Il cherche à concilier la pensée de Platon avec le christianisme, influençant profondément la culture artistique de la Renaissance."
+  },
+  {
+    "question": "13 - Que signifie le terme Cinquecento ?",
+    "options": ["Le XIIIe siècle", "Le XVe siècle", "Le XVIe siècle", "Le XVIIe siècle"],
+    "answerIndex": 2,
+    "explication": "Le Cinquecento désigne le XVIe siècle (années 1500). Il correspond à la Haute Renaissance, période de maturité artistique avec Léonard de Vinci, Raphaël et Michel-Ange."
+  },
+  {
+    "question": "14 - Quelle pratique adoptent Brunelleschi et Donatello à Rome ?",
+    "options": ["Ils copient uniquement des manuscrits", "Ils mesurent et étudient les ruines antiques", "Ils détruisent les monuments gothiques", "Ils restaurent les mosaïques byzantines"],
+    "answerIndex": 1,
+    "explication": "Brunelleschi et Donatello étudient et mesurent les monuments antiques à Rome afin de comprendre les proportions et techniques de construction. Cette démarche scientifique est caractéristique de l’esprit humaniste."
+  },
+  {
+    "question": "15 - Quel élément architectural emblématique est visible dans le Panthéon de Rome ?",
+    "options": ["L’arc-boutant", "La flèche gothique", "L’oculus", "La rosace"],
+    "answerIndex": 2,
+    "explication": "Le Panthéon possède un oculus au sommet de sa coupole. Cette ouverture circulaire laisse entrer la lumière et symbolise la perfection géométrique antique."
+  },
+  {
+    "question": "16 - Quelle évolution concerne le statut de l’artiste à la Renaissance ?",
+    "options": ["Il reste simple artisan anonyme", "Il devient un intellectuel reconnu", "Il est uniquement religieux", "Il dépend exclusivement des corporations"],
+    "answerIndex": 1,
+    "explication": "À la Renaissance, l’artiste acquiert un nouveau statut : il n’est plus seulement artisan mais devient un créateur intellectuel, souvent proche des élites politiques et culturelles."
+  },
+  {
+    "question": "17 - Quel genre artistique antique est réactivé en sculpture ?",
+    "options": ["La miniature enluminée", "Le vitrail narratif", "La tapisserie féodale", "La statue équestre"],
+    "answerIndex": 3,
+    "explication": "La statue équestre, inspirée des modèles antiques comme celle de Marc Aurèle, est réactivée à la Renaissance. Elle symbolise la puissance et la gloire politique."
+  },
+  {
+    "question": "18 - Quelle œuvre de Raphaël représente des philosophes antiques dans un cadre monumental ?",
+    "options": ["Le Jugement dernier", "L’École d’Athènes", "La Cène", "La Naissance de Vénus"],
+    "answerIndex": 1,
+    "explication": "L’École d’Athènes de Raphaël représente les grands penseurs antiques comme Platon et Aristote. L’architecture monumentale renvoie directement aux modèles classiques."
+  },
+  {
+    "question": "19 - Quelle caractéristique distingue la peinture de Masaccio ?",
+    "options": ["L’utilisation maîtrisée de la perspective", "L’absence totale de profondeur", "La suppression des figures humaines", "Le refus de toute influence antique"],
+    "answerIndex": 0,
+    "explication": "Masaccio est l’un des premiers à maîtriser la perspective linéaire, créant un espace cohérent et réaliste. Cette innovation marque une rupture avec l’art médiéval."
+  },
+  {
+    "question": "20 - Quel type de sujet se développe parallèlement aux thèmes religieux ?",
+    "options": ["Les scènes féodales exclusivement", "Les récits chevaleresques médiévaux", "Les scènes agricoles anonymes", "Les sujets mythologiques antiques"],
+    "answerIndex": 3,
+    "explication": "Les sujets mythologiques antiques se développent à la Renaissance. Ils témoignent du renouveau culturel et de l’intérêt pour la littérature gréco-romaine."
+  },
+  {
+    "question": "21 - Quelle période correspond au Trecento ?",
+    "options": ["Le XIVe siècle", "Le XVe siècle", "Le XVIe siècle", "Le XVIIe siècle"],
+    "answerIndex": 0,
+    "explication": "Le Trecento correspond au XIVe siècle (années 1300). Il est considéré comme la pré-Renaissance, avec des artistes comme Giotto amorçant un renouvellement stylistique."
+  },
+  {
+    "question": "22 - Quelle famille florentine joue un rôle majeur dans le mécénat artistique ?",
+    "options": ["Les Borgia", "Les Médicis", "Les Sforza", "Les Este"],
+    "answerIndex": 1,
+    "explication": "Les Médicis sont la grande famille florentine qui soutient activement les artistes et intellectuels. Leur mécénat favorise l’essor culturel de la Renaissance."
+  },
+  {
+    "question": "23 - Quelle est la principale source d’inspiration esthétique de la Renaissance ?",
+    "options": ["L’art gothique", "L’art byzantin", "L’Antiquité gréco-romaine", "L’art islamique"],
+    "answerIndex": 2,
+    "explication": "La Renaissance puise son inspiration dans l’Antiquité gréco-romaine. Les artistes redécouvrent les proportions, les thèmes et les formes classiques pour les adapter à leur époque."
+  },
+  {
+    "question": "24 - Quel artiste réalise la statue équestre du Gattamelata ?",
+    "options": ["Verrocchio", "Michel-Ange", "Bramante", "Donatello"],
+    "answerIndex": 3,
+    "explication": "Donatello réalise la statue équestre du Gattamelata à Padoue. Elle s’inspire des modèles antiques et symbolise la puissance militaire."
+  },
+  {
+    "question": "25 - Quel principe mathématique devient fondamental en peinture à la Renaissance ?",
+    "options": ["La perspective linéaire", "La frontalité byzantine", "La disproportion expressive", "L’abstraction symbolique"],
+    "answerIndex": 0,
+    "explication": "La perspective linéaire permet de représenter l’espace de manière réaliste grâce à un point de fuite. Elle incarne la rationalité et l’esprit scientifique de la Renaissance."
+  },
+  {
+    "question": "26 - Quel penseur cherche à concilier Platon et le christianisme ?",
+    "options": ["Pic de la Mirandole", "Marsile Ficin", "Thomas d’Aquin", "Érasme"],
+    "answerIndex": 1,
+    "explication": "Marsile Ficin traduit et commente Platon, cherchant à harmoniser sa pensée avec le christianisme. Il est une figure centrale du néoplatonisme florentin."
+  },
+  {
+    "question": "27 - Quelle innovation contribue fortement à la diffusion des idées humanistes ?",
+    "options": ["La construction des cathédrales gothiques", "L’essor des universités médiévales", "L’imprimerie", "La féodalité"],
+    "answerIndex": 2,
+    "explication": "L’imprimerie permet la diffusion rapide et large des textes antiques et humanistes. Elle transforme profondément la circulation du savoir en Europe."
+  },
+  {
+    "question": "28 - Quel architecte est associé au Tempietto de San Pietro in Montorio ?",
+    "options": ["Alberti", "Brunelleschi", "Giotto", "Bramante"],
+    "answerIndex": 3,
+    "explication": "Donato Bramante est l’architecte du Tempietto à Rome. Ce petit édifice circulaire reprend les formes antiques et symbolise l’idéal classique."
+  },
+  {
+    "question": "29 - Quel type de portrait renaît en sculpture à la Renaissance ?",
+    "options": ["Le portrait en buste inspiré des modèles antiques", "Le portrait caricatural", "Le portrait exclusivement religieux", "Le portrait abstrait"],
+    "answerIndex": 0,
+    "explication": "Le portrait en buste « à la florentine » s’inspire directement des bustes romains antiques. Il met en valeur l’individualité et la dignité du modèle."
+  },
+  {
+    "question": "30 - Quel changement caractérise le rapport aux ruines antiques ?",
+    "options": ["Elles sont détruites pour moderniser les villes", "Elles sont étudiées scientifiquement", "Elles sont ignorées", "Elles sont interdites d’accès"],
+    "answerIndex": 1,
+    "explication": "Les artistes et architectes de la Renaissance étudient les ruines antiques pour en comprendre les proportions et techniques. Cette approche scientifique marque une rupture avec le Moyen Âge."
+  },
+  {
+    "question": "31 - Quel artiste peint La Naissance de Vénus, symbole du renouveau mythologique ?",
+    "options": ["Raphaël", "Michel-Ange", "Sandro Botticelli", "Masaccio"],
+    "answerIndex": 2,
+    "explication": "Sandro Botticelli peint La Naissance de Vénus (vers 1484-1485). Cette œuvre illustre le retour des thèmes mythologiques antiques et l’idéal de beauté néoplatonicien."
+  },
+  {
+    "question": "32 - Quel édifice antique inspire fortement les architectes de la Renaissance par sa coupole ?",
+    "options": ["Le Panthéon de Rome", "Le Colisée", "Le Circus Maximus", "Les thermes de Caracalla"],
+    "answerIndex": 0,
+    "explication": "Le Panthéon de Rome, avec sa coupole monumentale et son oculus, devient un modèle majeur pour les architectes de la Renaissance, notamment pour Brunelleschi."
+  },
+  {
+    "question": "33 - Quelle idée caractérise le rapport humaniste au savoir ?",
+    "options": ["Le refus des textes antiques", "L’étude critique et philologique des sources", "La transmission orale uniquement", "Le rejet des langues anciennes"],
+    "answerIndex": 1,
+    "explication": "Les humanistes pratiquent une lecture critique des textes antiques, fondée sur la philologie. Ils cherchent à retrouver les versions originales et à corriger les erreurs de transmission médiévale."
+  },
+  {
+    "question": "34 - Quel artiste incarne la Haute Renaissance au XVIe siècle ?",
+    "options": ["Giotto", "Duccio", "Cimabue", "Raphaël"],
+    "answerIndex": 3,
+    "explication": "Raphaël est l’un des grands représentants de la Haute Renaissance (Cinquecento). Son œuvre se caractérise par l’harmonie, la clarté et l’équilibre des compositions."
+  },
+  {
+    "question": "35 - Quelle transformation touche la représentation du corps humain ?",
+    "options": ["Il devient abstrait et symbolique", "Il est ignoré dans les compositions", "Il est représenté selon un idéal harmonieux inspiré de l’Antiquité", "Il disparaît au profit du paysage"],
+    "answerIndex": 2,
+    "explication": "À la Renaissance, le corps humain est étudié scientifiquement et représenté selon des proportions idéales inspirées des modèles antiques, valorisant l’harmonie et la beauté."
+  },
+  {
+    "question": "36 - Quel élément architectural remplace progressivement les formes gothiques ?",
+    "options": ["L’arc-boutant", "L’arc en plein cintre", "La voûte en ogive", "La flèche élancée"],
+    "answerIndex": 1,
+    "explication": "L’arc en plein cintre, hérité de l’Antiquité romaine, remplace progressivement l’arc brisé gothique. Il symbolise le retour aux formes classiques."
+  },
+  {
+    "question": "37 - Quel humaniste est célèbre pour son Discours sur la dignité de l’homme ?",
+    "options": ["Marsile Ficin", "Érasme", "Pic de la Mirandole", "Thomas More"],
+    "answerIndex": 2,
+    "explication": "Pic de la Mirandole rédige le Discours sur la dignité de l’homme, texte majeur de l’Humanisme qui affirme la liberté et la grandeur de l’être humain."
+  },
+  {
+    "question": "38 - Quel espace devient un lieu d’émulation artistique à Florence grâce aux Médicis ?",
+    "options": ["Le jardin des Médicis", "Le château fort communal", "Le port marchand", "La cathédrale gothique"],
+    "answerIndex": 0,
+    "explication": "Le jardin des Médicis rassemble des sculptures antiques servant de modèles aux jeunes artistes. Il devient un véritable lieu de formation et d’émulation artistique."
+  },
+  {
+    "question": "39 - Quelle est la finalité principale de l’étude des proportions antiques ?",
+    "options": ["Décorer les églises uniquement", "Créer un art fondé sur l’harmonie et la mesure", "Imiter mécaniquement le passé", "Supprimer toute innovation"],
+    "answerIndex": 1,
+    "explication": "L’étude des proportions antiques vise à créer un art harmonieux et équilibré. Il ne s’agit pas de copier, mais d’atteindre un idéal esthétique fondé sur la mesure."
+  },
+  {
+    "question": "40 - Quelle caractéristique distingue la Renaissance du Moyen Âge selon Vasari ?",
+    "options": ["Le rejet total du christianisme", "L’absence d’art religieux", "La domination exclusive de la monarchie", "La renaissance des formes antiques et de la \"belle manière\""],
+    "answerIndex": 3,
+    "explication": "Pour Vasari, la Renaissance correspond à la redécouverte et à la renaissance des formes antiques, marquant un retour à la « belle manière » après la période gothique."
+  },
+  {
+    "question": "41 - Quelle discipline intellectuelle permet aux humanistes de retrouver les textes antiques dans leur version originale ?",
+    "options": ["La théologie dogmatique", "La philologie", "L’astrologie", "L’alchimie"],
+    "answerIndex": 1,
+    "explication": "La philologie consiste à étudier les textes anciens de manière critique afin d’en retrouver les versions les plus fiables. Elle est au cœur de la méthode humaniste."
+  },
+  {
+    "question": "42 - Quel artiste est l’auteur de La Trinité à Florence, œuvre emblématique de la perspective ?",
+    "options": ["Masaccio", "Botticelli", "Raphaël", "Donatello"],
+    "answerIndex": 0,
+    "explication": "Masaccio réalise La Trinité (1425-1428), fresque célèbre pour son usage rigoureux de la perspective linéaire, créant une illusion de profondeur réaliste."
+  },
+  {
+    "question": "43 - Quelle idée est centrale dans le Discours sur la dignité de l’homme ?",
+    "options": ["La prédestination absolue", "La supériorité des anges", "La liberté et la capacité d’auto-détermination de l’homme", "La condamnation de la science"],
+    "answerIndex": 2,
+    "explication": "Pic de la Mirandole affirme que l’homme est libre de se façonner lui-même. Cette idée illustre la confiance humaniste dans la dignité et les capacités humaines."
+  },
+  {
+    "question": "44 - Quelle caractéristique architecturale distingue le Tempietto de Bramante ?",
+    "options": ["Une façade gothique ornée", "Une structure circulaire inspirée des temples antiques", "Une tour fortifiée", "Une voûte en ogive monumentale"],
+    "answerIndex": 1,
+    "explication": "Le Tempietto adopte un plan circulaire inspiré des temples antiques romains, symbolisant l’harmonie et la perfection géométrique."
+  },
+  {
+    "question": "45 - Quelle période correspond à la Haute Renaissance ?",
+    "options": ["Le Trecento", "Le Quattrocento", "Le Cinquecento", "Le Duecento"],
+    "answerIndex": 2,
+    "explication": "La Haute Renaissance correspond au Cinquecento (XVIe siècle), période de maturité artistique avec Léonard de Vinci, Raphaël et Michel-Ange."
+  },
+  {
+    "question": "46 - Quel principe esthétique domine l’art de la Renaissance ?",
+    "options": ["La disproportion volontaire", "Le désordre décoratif", "L’expressivité chaotique", "L’harmonie des proportions"],
+    "answerIndex": 3,
+    "explication": "L’harmonie des proportions, inspirée des modèles antiques, devient un principe fondamental. Elle traduit la recherche d’équilibre et de mesure."
+  },
+  {
+    "question": "47 - Quelle innovation scientifique accompagne le développement artistique de la Renaissance ?",
+    "options": ["L’étude anatomique du corps humain", "Le refus de l’observation directe", "L’interdiction des dissections", "Le retour à la symbolique médiévale"],
+    "answerIndex": 0,
+    "explication": "Les artistes étudient l’anatomie pour représenter le corps humain de manière réaliste et idéale. Cette démarche scientifique illustre l’esprit humaniste."
+  },
+  {
+    "question": "48 - Quelle est la principale critique adressée au style gothique par les artistes de la Renaissance ?",
+    "options": ["Il est trop antique", "Il est irrationnel et dépourvu de règles", "Il manque de couleur", "Il est trop classique"],
+    "answerIndex": 1,
+    "explication": "Les artistes de la Renaissance reprochent au gothique son absence de proportions régulières et son éloignement des modèles antiques considérés comme rationnels."
+  },
+  {
+    "question": "49 - Quel rôle joue le mécénat dans le développement artistique ?",
+    "options": ["Il freine la créativité", "Il interdit les thèmes antiques", "Il finance et protège les artistes", "Il impose exclusivement l’art gothique"],
+    "answerIndex": 2,
+    "explication": "Le mécénat, notamment celui des Médicis, permet aux artistes de travailler dans des conditions favorables et d’explorer de nouveaux sujets et techniques."
+  },
+  {
+    "question": "50 - Quel monument antique sert de modèle pour les statues équestres de la Renaissance ?",
+    "options": ["La colonne Trajane", "Le temple de Vesta", "L’arc de Constantin", "La statue de Marc Aurèle"],
+    "answerIndex": 3,
+    "explication": "La statue équestre de Marc Aurèle à Rome inspire directement les artistes de la Renaissance pour représenter les chefs militaires et les souverains."
+  },
+  {
+    "question": "51 - Quelle transformation majeure marque le passage du Moyen Âge à la Renaissance ?",
+    "options": ["Le retour exclusif au monachisme", "La centralité de l’homme dans la pensée", "La disparition des universités", "L’abandon de toute référence antique"],
+    "answerIndex": 1,
+    "explication": "La Renaissance marque un changement de paradigme : l’homme devient le centre des réflexions philosophiques, artistiques et scientifiques, contrairement au Moyen Âge dominé par une vision théocentrique."
+  },
+  {
+    "question": "52 - Quelle œuvre symbolise l’étude des philosophes antiques dans un cadre monumental classique ?",
+    "options": ["La Cène", "Le Printemps", "L’École d’Athènes", "Le Jugement dernier"],
+    "answerIndex": 2,
+    "explication": "L’École d’Athènes représente les grands penseurs antiques dans un décor inspiré de l’architecture classique. Elle illustre l’hommage rendu à la pensée antique par la Renaissance."
+  },
+  {
+    "question": "53 - Quelle caractéristique distingue l’architecture de Brunelleschi ?",
+    "options": ["L’usage des arcs brisés gothiques", "La recherche de proportions mathématiques harmonieuses", "La verticalité extrême", "La décoration surchargée"],
+    "answerIndex": 1,
+    "explication": "Brunelleschi privilégie des proportions mathématiques rigoureuses inspirées de l’Antiquité. Son architecture repose sur l’équilibre et la rationalité."
+  },
+  {
+    "question": "54 - Quel événement de 1492 modifie la vision européenne du monde ?",
+    "options": ["La chute de Rome", "La signature de la Magna Carta", "La découverte de l’Amérique", "La fondation de Florence"],
+    "answerIndex": 2,
+    "explication": "La découverte de l’Amérique en 1492 élargit considérablement les horizons géographiques et intellectuels des Européens, renforçant l’esprit d’exploration propre à la Renaissance."
+  },
+  {
+    "question": "55 - Quel élément architectural antique est repris dans les façades de la Renaissance ?",
+    "options": ["Le fronton triangulaire", "La flèche gothique", "L’arc-boutant", "La rosace flamboyante"],
+    "answerIndex": 0,
+    "explication": "Le fronton triangulaire, typique des temples antiques, est repris dans l’architecture de la Renaissance pour affirmer le retour aux formes classiques."
+  },
+  {
+    "question": "56 - Quel aspect distingue le portrait à la Renaissance ?",
+    "options": ["Il reste anonyme", "Il valorise l’individualité du modèle", "Il est exclusivement religieux", "Il supprime toute ressemblance"],
+    "answerIndex": 1,
+    "explication": "Le portrait renaissant met en valeur l’individualité et la dignité du modèle, traduisant l’importance accordée à la personne dans la pensée humaniste."
+  },
+  {
+    "question": "57 - Quelle figure antique inspire les proportions idéales du corps humain ?",
+    "options": ["Le chevalier médiéval", "Le moine copiste", "Les statues grecques classiques", "Les figures gothiques allongées"],
+    "answerIndex": 2,
+    "explication": "Les statues grecques classiques servent de modèle pour les proportions idéales du corps humain. Elles incarnent l’équilibre et l’harmonie recherchés par les artistes."
+  },
+  {
+    "question": "58 - Quel rôle joue l’étude des ruines antiques ?",
+    "options": ["Elle permet de développer un art fondé sur l’observation et la mesure", "Elle vise à effacer le passé", "Elle remplace la formation artistique", "Elle interdit l’innovation"],
+    "answerIndex": 0,
+    "explication": "L’étude des ruines antiques permet aux artistes de comprendre les techniques et proportions anciennes. Cette démarche scientifique nourrit l’innovation artistique."
+  },
+  {
+    "question": "59 - Quelle notion esthétique devient centrale à la Renaissance ?",
+    "options": ["Le chaos décoratif", "La mesure et l’équilibre", "L’abstraction totale", "La disproportion expressive"],
+    "answerIndex": 1,
+    "explication": "La mesure et l’équilibre sont des notions clés de l’esthétique renaissante. Elles traduisent l’influence des modèles antiques et la recherche d’harmonie."
+  },
+  {
+    "question": "60 - Quel changement touche le statut social de l’artiste ?",
+    "options": ["Il devient simple ouvrier agricole", "Il est marginalisé", "Il est reconnu comme créateur intellectuel", "Il disparaît des cours princières"],
+    "answerIndex": 2,
+    "explication": "À la Renaissance, l’artiste est reconnu comme un créateur intellectuel. Il bénéficie du mécénat et accède à un prestige social inédit."
+  },
+  {
+    "question": "61 - Quelle ville devient un centre artistique majeur grâce à l’émulation entre États italiens ?",
+    "options": ["Naples", "Florence", "Pise", "Gênes"],
+    "answerIndex": 1,
+    "explication": "Florence devient un centre artistique majeur en raison de la concurrence entre cités-États italiennes et du mécénat des Médicis, favorisant une forte émulation culturelle."
+  },
+  {
+    "question": "62 - Quelle caractéristique distingue la peinture gothique de celle de la Renaissance ?",
+    "options": ["L’absence totale de figures religieuses", "La maîtrise mathématique de la perspective", "Un espace souvent symbolique et peu réaliste", "L’inspiration directe des temples romains"],
+    "answerIndex": 2,
+    "explication": "La peinture gothique privilégie souvent un espace symbolique, sans profondeur réaliste cohérente. La Renaissance introduit la perspective mathématique pour structurer l’espace."
+  },
+  {
+    "question": "63 - Quel principe guide la redécouverte de l’Antiquité à la Renaissance ?",
+    "options": ["Imiter mécaniquement les Anciens", "Dépasser les Anciens en s’inspirant de leurs modèles", "Refuser toute innovation", "Supprimer l’art religieux"],
+    "answerIndex": 1,
+    "explication": "Les artistes de la Renaissance ne cherchent pas à copier l’Antiquité mais à l’égaler voire la dépasser, en s’inspirant de ses principes d’harmonie et de proportion."
+  },
+  {
+    "question": "64 - Quel type d’architecture caractérise le Moyen Âge gothique critiqué par Vasari ?",
+    "options": ["Les arcs en ogive", "Les coupoles hémisphériques", "Les colonnes doriques", "Les frontons triangulaires"],
+    "answerIndex": 0,
+    "explication": "L’arc en ogive est typique de l’architecture gothique. Vasari critique ce style qu’il juge irrégulier par rapport aux proportions antiques."
+  },
+  {
+    "question": "65 - Quelle est la fonction du mécène à la Renaissance ?",
+    "options": ["Contrôler la production agricole", "Interdire les innovations techniques", "Remplacer les artistes", "Financer et soutenir la création artistique"],
+    "answerIndex": 3,
+    "explication": "Le mécène finance les artistes et leur assure protection et reconnaissance. Ce soutien permet le développement de projets ambitieux et innovants."
+  },
+  {
+    "question": "66 - Quelle innovation intellectuelle accompagne l’Humanisme ?",
+    "options": ["La soumission totale à l’autorité médiévale", "La lecture critique des textes anciens", "Le refus des langues anciennes", "L’abandon de l’éducation"],
+    "answerIndex": 1,
+    "explication": "Les humanistes développent une lecture critique des textes antiques grâce à la philologie, cherchant à retrouver les sources originales et à corriger les erreurs."
+  },
+  {
+    "question": "67 - Quelle œuvre architecturale symbolise la réussite technique de Brunelleschi ?",
+    "options": ["Le Colisée", "La coupole de Santa Maria del Fiore", "Le Tempietto", "Le château des Sforza"],
+    "answerIndex": 1,
+    "explication": "La coupole de Santa Maria del Fiore à Florence représente une prouesse technique majeure et symbolise le renouveau architectural de la Renaissance."
+  },
+  {
+    "question": "68 - Quel idéal esthétique domine la Renaissance ?",
+    "options": ["La verticalité extrême", "Le mysticisme obscur", "L’harmonie fondée sur la mesure", "La surcharge décorative"],
+    "answerIndex": 2,
+    "explication": "L’idéal esthétique de la Renaissance repose sur l’harmonie, la mesure et l’équilibre, hérités de l’Antiquité classique."
+  },
+  {
+    "question": "69 - Quelle pratique scientifique renforce la représentation réaliste du corps humain ?",
+    "options": ["L’étude anatomique", "La copie de manuscrits médiévaux", "L’abstraction symbolique", "Le refus d’observer la nature"],
+    "answerIndex": 0,
+    "explication": "L’étude anatomique permet aux artistes de mieux comprendre la structure du corps humain, améliorant la précision et le réalisme des représentations."
+  },
+  {
+    "question": "70 - Quelle est l’idée centrale de la Renaissance selon le cours ?",
+    "options": ["Le rejet total du passé", "La domination exclusive de la religion", "Une rupture sans continuité historique", "La réinvention de l’Antiquité pour créer une modernité nouvelle"],
+    "answerIndex": 3,
+    "explication": "La Renaissance ne consiste pas en une simple imitation de l’Antiquité, mais en sa réinterprétation pour fonder une modernité nouvelle, artistique et intellectuelle."
+  }
+]

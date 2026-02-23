@@ -1,0 +1,424 @@
+[
+  {
+    "question": "1 - Comment appelle-t-on les artistes flamands qui ont voyagé en Italie pour s’inspirer de l’Antiquité et de l’art italien ?",
+    "options": ["Les humanistes", "Les caravagesques", "Les romanistes", "Les classiques"],
+    "answerIndex": 2,
+    "explication": "Les artistes flamands ayant voyagé en Italie pour étudier l’Antiquité et les maîtres italiens sont appelés « romanistes ». Ils ont contribué à diffuser les modèles italiens dans les Flandres."
+  },
+  {
+    "question": "2 - Quel était l’un des principaux objectifs du voyage en Italie pour les artistes de la Renaissance ?",
+    "options": ["Étudier l’Antique et les grands maîtres", "Apprendre la sculpture médiévale", "Fonder des académies religieuses", "Développer le commerce maritime"],
+    "answerIndex": 0,
+    "explication": "Le voyage en Italie permettait d’étudier l’Antiquité, les chefs-d’œuvre italiens et de rencontrer d’autres artistes. L’Italie était considérée comme le centre artistique de l’Europe."
+  },
+  {
+    "question": "3 - Pourquoi le voyage en Italie restait-il rare jusqu’au milieu du XVIe siècle ?",
+    "options": ["Parce qu’il était interdit par l’Église", "Parce que les routes étaient fermées", "Parce qu’il n’avait aucun intérêt artistique", "Parce qu’il était coûteux et parfois dangereux"],
+    "answerIndex": 3,
+    "explication": "Le voyage en Italie était long, coûteux et parfois périlleux, ce qui limitait son accessibilité avant le milieu du XVIe siècle."
+  },
+  {
+    "question": "4 - Quel sentiment noble pousse les artistes à dépasser leurs concurrents dans l’acquisition de connaissances ?",
+    "options": ["La rivalité", "L’émulation", "La jalousie", "La compétition économique"],
+    "answerIndex": 1,
+    "explication": "L’émulation est considérée comme un sentiment noble qui pousse à se surpasser pour progresser et acquérir davantage de compétences et de savoirs."
+  },
+  {
+    "question": "5 - Quel artiste est considéré comme l’un des premiers à introduire la représentation du nu et des scènes mythologiques italiennes dans les Flandres ?",
+    "options": ["Jan Gossaert", "Hans Holbein", "Raphaël", "Michel-Ange"],
+    "answerIndex": 0,
+    "explication": "Jan Gossaert, aussi appelé Jan Mabuse, fut l’un des premiers à rapporter des modèles italiens aux Flandres, notamment la représentation du nu et les sujets mythologiques."
+  },
+  {
+    "question": "6 - Combien de grands voyages en Italie Albrecht Dürer a-t-il effectués ?",
+    "options": ["Un seul", "Trois", "Deux", "Quatre"],
+    "answerIndex": 2,
+    "explication": "Albrecht Dürer a effectué deux grands voyages en Italie : un premier entre 1494 et 1497, puis un second entre 1505 et 1507."
+  },
+  {
+    "question": "7 - Dans quel pays Hans Holbein devient-il peintre officiel du roi Henri VIII ?",
+    "options": ["France", "Angleterre", "Italie", "Espagne"],
+    "answerIndex": 1,
+    "explication": "Hans Holbein le Jeune devient peintre personnel du roi Henri VIII en Angleterre à partir de 1533."
+  },
+  {
+    "question": "8 - Quelle œuvre de Hans Holbein contient une anamorphose célèbre représentant un crâne humain ?",
+    "options": ["Le Christ mort", "Portrait d’Erasme", "Les Ambassadeurs", "Portrait de Thomas More"],
+    "answerIndex": 2,
+    "explication": "Dans « Les Ambassadeurs », Holbein intègre une anamorphose représentant un crâne, symbole de vanité et de rappel de la mort (memento mori)."
+  },
+  {
+    "question": "9 - Quel symbole représente le crâne dans l’art de la Renaissance ?",
+    "options": ["La sagesse", "La puissance politique", "La fertilité", "La vanité et la mortalité humaine"],
+    "answerIndex": 3,
+    "explication": "Le crâne est un symbole de vanité et de memento mori : il rappelle que la mort est inévitable et que les biens terrestres sont éphémères."
+  },
+  {
+    "question": "10 - Quelles disciplines composent le quadrivium ?",
+    "options": ["Logique, grammaire, rhétorique, poésie", "Peinture, sculpture, architecture, musique", "Géométrie, arithmétique, astronomie, musique", "Philosophie, théologie, médecine, droit"],
+    "answerIndex": 2,
+    "explication": "Le quadrivium correspond aux quatre disciplines scientifiques médiévales : géométrie, arithmétique, astronomie et musique."
+  },
+  {
+    "question": "11 - Quel ouvrage de Baldassare Castiglione décrit l’idéal de l’homme de cour humaniste ?",
+    "options": ["Le Prince", "L’Homme de cour", "Utopie", "Discours de la méthode"],
+    "answerIndex": 1,
+    "explication": "Dans « Le livre du courtisan », Castiglione décrit l’idéal humaniste de l’homme cultivé maîtrisant les arts, les langues et les activités physiques."
+  },
+  {
+    "question": "12 - Comment s’appelle le groupe de poètes français de la Renaissance comprenant Ronsard et Du Bellay ?",
+    "options": ["Les Classiques", "Les Humanistes", "Les Modernes", "La Pléiade"],
+    "answerIndex": 3,
+    "explication": "La Pléiade est un groupe de poètes français du XVIe siècle qui veulent enrichir la langue française en s’inspirant des modèles antiques."
+  },
+  {
+    "question": "13 - Quel roi français est associé à la bataille de Marignan en 1515 ?",
+    "options": ["François Ier", "Henri II", "Louis XII", "Charles VIII"],
+    "answerIndex": 0,
+    "explication": "François Ier remporte la célèbre bataille de Marignan en 1515, symbole de la puissance française et du début de son règne."
+  },
+  {
+    "question": "14 - Quel grand artiste italien est accueilli en France par François Ier et meurt au Clos Lucé ?",
+    "options": ["Michel-Ange", "Raphaël", "Titien", "Léonard de Vinci"],
+    "answerIndex": 3,
+    "explication": "Léonard de Vinci est invité par François Ier et s’installe au Clos Lucé, où il passe les dernières années de sa vie."
+  },
+  {
+    "question": "15 - Quel château commence à être construit en 1519 sous François Ier ?",
+    "options": ["Chambord", "Versailles", "Chenonceau", "Blois"],
+    "answerIndex": 0,
+    "explication": "Le château de Chambord est lancé en 1519 et constitue un symbole majeur de la Renaissance française."
+  },
+  {
+    "question": "16 - Quel orfèvre et sculpteur italien est appelé à la cour de France par François Ier ?",
+    "options": ["Donatello", "Benvenuto Cellini", "Brunelleschi", "Le Bernin"],
+    "answerIndex": 1,
+    "explication": "Benvenuto Cellini, artiste polyvalent, est invité par François Ier et réalise notamment des œuvres pour la cour française."
+  },
+  {
+    "question": "17 - Quel roi d’Espagne commande à Titien la série des « Poésies » ?",
+    "options": ["Charles Quint", "Philippe II", "Ferdinand d’Aragon", "Alphonse X"],
+    "answerIndex": 1,
+    "explication": "Titien réalise pour Philippe II d’Espagne une série de peintures mythologiques appelées « Poésies », destinées au plaisir des sens."
+  },
+  {
+    "question": "18 - Quelle idée exprime la formule « Voyager, c’est lire » ?",
+    "options": ["Le voyage est inutile", "Le voyage remplace l’éducation religieuse", "Le voyage est une forme d’apprentissage du monde", "Le voyage est un divertissement aristocratique"],
+    "answerIndex": 2,
+    "explication": "La formule signifie que voyager permet d’apprendre en observant la diversité du monde, comme on apprend en lisant un livre."
+  },
+  {
+    "question": "19 - Quel humaniste est fréquemment portraituré par Hans Holbein ?",
+    "options": ["Érasme", "Montaigne", "Rabelais", "Pétrarque"],
+    "answerIndex": 0,
+    "explication": "Hans Holbein réalise plusieurs portraits d’Érasme, figure majeure de l’humanisme européen."
+  },
+  {
+    "question": "20 - Quel mouvement artistique est symbolisé par l’introduction de modèles antiques et italiens en Europe du Nord ?",
+    "options": ["Le gothique international", "Le maniérisme tardif", "La Renaissance", "Le baroque"],
+    "answerIndex": 2,
+    "explication": "La Renaissance se caractérise par le retour aux modèles antiques et la diffusion des influences italiennes à travers l’Europe."
+  },
+  {
+    "question": "21 - Qui a écrit la formule « Rome est la tête des écoles de peinture » en évoquant le voyage des artistes ?",
+    "options": ["Giorgio Vasari", "Karel Van Mander", "Raphaël", "Michel-Ange"],
+    "answerIndex": 1,
+    "explication": "Karel Van Mander souligne l’importance de Rome comme centre majeur de formation artistique et destination privilégiée des peintres."
+  },
+  {
+    "question": "22 - Quel peintre allemand est célèbre pour sa gravure « Melancolia I » ?",
+    "options": ["Hans Holbein", "Albrecht Dürer", "Lucas Cranach", "Matthias Grünewald"],
+    "answerIndex": 1,
+    "explication": "Albrecht Dürer réalise « Melancolia I » en 1514, une gravure emblématique de la Renaissance nordique et de la réflexion intellectuelle humaniste."
+  },
+  {
+    "question": "23 - Quel type de savoir l’idéal humaniste valorise-t-il particulièrement ?",
+    "options": ["La connaissance technique uniquement", "La formation militaire exclusive", "La culture générale et les humanités", "La spécialisation religieuse"],
+    "answerIndex": 2,
+    "explication": "L’humanisme valorise une culture large incluant les langues anciennes, les arts, la philosophie et les sciences."
+  },
+  {
+    "question": "24 - Quelle idée exprime la citation affirmant que le voyage est « la meilleure école de la vie » ?",
+    "options": ["Le voyage développe l’expérience et la connaissance du monde", "Le voyage est dangereux pour la santé", "Le voyage est réservé aux élites religieuses", "Le voyage empêche l’étude des livres"],
+    "answerIndex": 0,
+    "explication": "Cette idée souligne que voyager permet d’apprendre par l’expérience directe, en découvrant d’autres cultures et modes de vie."
+  },
+  {
+    "question": "25 - Qui sont les deux personnages représentés dans « Les Ambassadeurs » de Holbein ?",
+    "options": ["Deux rois d’Angleterre", "Deux humanistes allemands", "Jean de Dinteville et Georges de Selve", "Deux marchands italiens"],
+    "answerIndex": 2,
+    "explication": "Le tableau représente Jean de Dinteville et Georges de Selve, deux diplomates français, entourés d’objets symboliques du savoir."
+  },
+  {
+    "question": "26 - Quel objet déformé dans « Les Ambassadeurs » révèle sa forme réelle seulement sous un certain angle ?",
+    "options": ["Un globe terrestre", "Une horloge", "Un livre ouvert", "Un crâne"],
+    "answerIndex": 3,
+    "explication": "Le crâne est représenté en anamorphose, visible correctement seulement sous un angle précis, symbole de la mortalité humaine."
+  },
+  {
+    "question": "27 - Quelle fonction principale remplissaient les portraits d’humanistes à la Renaissance ?",
+    "options": ["Décorer les palais royaux", "Glorifier la pensée et la connaissance", "Illustrer des récits mythologiques", "Servir de modèles religieux"],
+    "answerIndex": 1,
+    "explication": "Les portraits d’humanistes mettent en valeur l’intellect, la culture et le rôle du savoir dans la société."
+  },
+  {
+    "question": "28 - Quel roi français a attiré de nombreux artistes étrangers à sa cour pour renforcer le prestige artistique du royaume ?",
+    "options": ["Henri IV", "Charles IX", "François Ier", "Louis XIV"],
+    "answerIndex": 2,
+    "explication": "François Ier favorise le mécénat artistique et invite de nombreux artistes étrangers, notamment italiens."
+  },
+  {
+    "question": "29 - Quelle expression désigne le style artistique développé à Fontainebleau sous François Ier ?",
+    "options": ["Style gothique flamboyant", "Style bellifontain", "Style baroque royal", "Style classique français"],
+    "answerIndex": 1,
+    "explication": "Le style bellifontain désigne l’art développé à Fontainebleau sous l’influence d’artistes italiens invités en France."
+  },
+  {
+    "question": "30 - Quelle idée caractérise la circulation des modèles artistiques en Europe à la Renaissance ?",
+    "options": ["Les artistes restent dans leur région", "Les œuvres sont secrètes", "Les modèles artistiques circulent entre les pays", "L’art dépend uniquement de la religion"],
+    "answerIndex": 2,
+    "explication": "La Renaissance se caractérise par une forte circulation des artistes, des styles et des idées à travers l’Europe."
+  },
+  {
+    "question": "31 - Quel monument français est surnommé par Balzac « un diamant taillé à facettes serti par l’Indre » ?",
+    "options": ["Chenonceau", "Chambord", "Azay-le-Rideau", "Amboise"],
+    "answerIndex": 2,
+    "explication": "Azay-le-Rideau est comparé à un diamant par Balzac en raison de son élégance architecturale et de son emplacement sur l’eau."
+  },
+  {
+    "question": "32 - Quel rôle joue le mécénat royal dans la Renaissance française ?",
+    "options": ["Limiter la création artistique", "Financer et encourager les arts", "Contrôler les universités", "Remplacer les académies religieuses"],
+    "answerIndex": 1,
+    "explication": "Le mécénat royal soutient les artistes et permet le développement de l’art et de l’architecture."
+  },
+  {
+    "question": "33 - Quelle discipline artistique Léonard de Vinci ne pratiquait-il PAS ?",
+    "options": ["Peinture", "Architecture", "Ingénierie", "Imprimerie industrielle"],
+    "answerIndex": 3,
+    "explication": "Léonard était peintre, ingénieur et architecte, mais il n’est pas associé à l’imprimerie industrielle."
+  },
+  {
+    "question": "34 - Quelle œuvre célèbre de Léonard de Vinci est conservée au Louvre ?",
+    "options": ["La Joconde", "La Naissance de Vénus", "La Cène", "L’École d’Athènes"],
+    "answerIndex": 0,
+    "explication": "La Joconde est l’œuvre la plus célèbre de Léonard de Vinci et se trouve aujourd’hui au musée du Louvre."
+  },
+  {
+    "question": "35 - Quelle idée humaniste relie étroitement les arts et les lettres ?",
+    "options": ["Les arts doivent être religieux", "Les artistes doivent être isolés", "Les humanistes et musiciens sont frères", "Les sciences remplacent l’art"],
+    "answerIndex": 2,
+    "explication": "La pensée humaniste considère les disciplines artistiques et intellectuelles comme complémentaires."
+  },
+  {
+    "question": "36 - Quelle figure mythologique apparaît fréquemment dans la peinture de la Renaissance ?",
+    "options": ["Hercule", "Saint Pierre", "Charlemagne", "Napoléon"],
+    "answerIndex": 0,
+    "explication": "La mythologie antique, comme Hercule, est largement représentée dans l’art de la Renaissance."
+  },
+  {
+    "question": "37 - Quel terme latin est souvent associé à la représentation de la mort pour rappeler la fragilité de la vie ?",
+    "options": ["Carpe diem", "Memento mori", "Tabula rasa", "Veni vidi vici"],
+    "answerIndex": 1,
+    "explication": "Memento mori signifie « souviens-toi que tu vas mourir » et rappelle la mortalité humaine."
+  },
+  {
+    "question": "38 - Quelle grande dynastie royale anglaise est associée au règne d’Henri VIII ?",
+    "options": ["Les Stuart", "Les Tudor", "Les Plantagenêt", "Les Windsor"],
+    "answerIndex": 1,
+    "explication": "Henri VIII appartient à la dynastie Tudor, période importante pour la Renaissance anglaise."
+  },
+  {
+    "question": "39 - Quel est le rôle des guerres d’Italie dans la Renaissance française ?",
+    "options": ["Elles détruisent l’art italien", "Elles empêchent les échanges culturels", "Elles favorisent les contacts artistiques avec l’Italie", "Elles isolent la France"],
+    "answerIndex": 2,
+    "explication": "Les guerres d’Italie permettent la découverte directe de l’art italien par les Français et favorisent les influences artistiques."
+  },
+  {
+    "question": "40 - Quel est l’un des grands thèmes littéraires du sonnet de Du Bellay sur le voyage ?",
+    "options": ["La nostalgie du pays natal", "La gloire militaire", "La conquête du monde", "La supériorité de Rome"],
+    "answerIndex": 0,
+    "explication": "Dans son sonnet, Du Bellay exprime la nostalgie de son pays natal et valorise sa terre d’origine malgré la grandeur de Rome."
+  },
+  {
+    "question": "41 - Quelle ville italienne est décrite comme la destination principale des peintres en voyage d’étude ?",
+    "options": ["Florence", "Venise", "Rome", "Milan"],
+    "answerIndex": 2,
+    "explication": "Rome est considérée comme la « tête des écoles de peinture », car elle concentre les modèles antiques et les chefs-d’œuvre majeurs."
+  },
+  {
+    "question": "42 - Quel artiste flamand est représenté en autoportrait devant le Colisée de Rome ?",
+    "options": ["Marteen Van Heemskerk","Jan Gossaert",  "Pieter Bruegel", "Lucas van Leyden"],
+    "answerIndex": 0,
+    "explication": "Marteen Van Heemskerk se représente devant le Colisée pour montrer son lien direct avec l’Antiquité et son voyage en Italie."
+  },
+  {
+    "question": "43 - Quel type d’œuvre permet aux artistes d’étudier les modèles antiques directement sur place ?",
+    "options": ["Les fresques médiévales", "Les sculptures antiques", "Les manuscrits religieux", "Les vitraux gothiques"],
+    "answerIndex": 1,
+    "explication": "Les sculptures antiques, visibles notamment à Rome, servent de modèles d’étude pour l’anatomie, les proportions et les thèmes mythologiques."
+  },
+  {
+    "question": "44 - Quel élément symbolise souvent le savoir scientifique dans « Les Ambassadeurs » ?",
+    "options": [ "Des armes de guerre", "Des reliques religieuses","Des instruments de mesure", "Des bijoux précieux"],
+    "answerIndex": 2,
+    "explication": "Le tableau contient plusieurs instruments scientifiques (globes, cadrans), symboles de la connaissance humaine."
+  },
+  {
+    "question": "45 - Quel humaniste est ami de Thomas More et correspond avec lui ?",
+    "options": ["Érasme", "Rabelais", "Du Bellay", "Montaigne"],
+    "answerIndex": 0,
+    "explication": "Érasme et Thomas More entretiennent une correspondance intellectuelle importante, illustrant les réseaux humanistes européens."
+  },
+  {
+    "question": "46 - Quel genre littéraire François Rabelais illustre-t-il avec Gargantua et Pantagruel ?",
+    "options": ["La tragédie antique", "Le roman humaniste satirique", "La poésie lyrique", "La chronique historique"],
+    "answerIndex": 1,
+    "explication": "Rabelais utilise le roman satirique pour transmettre des idées humanistes et critiquer la société."
+  },
+  {
+    "question": "47 - Quel roi succède à François Ier en 1547 ?",
+    "options": ["Charles VIII", "Louis XII", "Henri IV", "Henri II"],
+    "answerIndex": 3,
+    "explication": "Henri II succède à François Ier et poursuit le développement artistique de la Renaissance française."
+  },
+  {
+    "question": "48 - Quelle œuvre de Jean Cousin représente la première femme de la mythologie associée à la chute humaine ?",
+    "options": ["Vénus", "Diane", "Pandore", "Junon"],
+    "answerIndex": 2,
+    "explication": "L’œuvre « Eva Prima Pandora » associe Ève et Pandore comme figures symboliques de l’origine du mal."
+  },
+  {
+    "question": "49 - Quel château français est directement associé à Léonard de Vinci durant son séjour en France ?",
+    "options": ["Clos Lucé","Blois", "Amboise",  "Chenonceau"],
+    "answerIndex": 0,
+    "explication": "Léonard de Vinci réside au Clos Lucé près d’Amboise, invité par François Ier."
+  },
+  {
+    "question": "50 - Quelle fonction Léonard de Vinci occupe-t-il auprès de François Ier ?",
+    "options": ["Premier peintre, ingénieur et architecte du roi", "Ambassadeur artistique", "Directeur des académies royales", "Maître des cérémonies"],
+    "answerIndex": 0,
+    "explication": "François Ier nomme Léonard « premier peintre, premier ingénieur et premier architecte du roi »."
+  },
+  {
+    "question": "51 - Quel artiste italien crée la célèbre salière d’or offerte à François Ier ?",
+    "options": ["Michel-Ange", "Donatello", "Benvenuto Cellini", "Le Bernin"],
+    "answerIndex": 2,
+    "explication": "Benvenuto Cellini réalise la célèbre salière de François Ier, chef-d’œuvre d’orfèvrerie."
+  },
+  {
+    "question": "52 - Quel thème mythologique est fréquent dans les commandes royales de la Renaissance ?",
+    "options": ["Les scènes de bataille médiévale", "Les récits bibliques uniquement", "Les mythes antiques", "Les légendes celtiques"],
+    "answerIndex": 2,
+    "explication": "Les souverains commandent souvent des œuvres inspirées de la mythologie antique, symbole de prestige et de culture."
+  },
+  {
+    "question": "53 - Quel artiste réalise « La Nymphe de Fontainebleau » ?",
+    "options": ["Primatice", "Benvenuto Cellini", "Jean Goujon", "Rosso Fiorentino"],
+    "answerIndex": 1,
+    "explication": "Benvenuto Cellini réalise cette œuvre emblématique du décor de Fontainebleau."
+  },
+  {
+    "question": "54 - Quel terme désigne la transformation artistique de Fontainebleau en « nouvelle Rome » ?",
+    "options": ["Classicisme royal", "Humanisme architectural", "Antiquisation", "Romanisation artistique"],
+    "answerIndex": 3,
+    "explication": "Fontainebleau est comparé à une nouvelle Rome en raison de l’influence massive des modèles antiques et italiens."
+  },
+  {
+    "question": "55 - Quel artiste réalise la sculpture équestre du condottiere Gattamelata ?",
+    "options": ["Michel-Ange", "Donatello", "Verrocchio", "Cellini"],
+    "answerIndex": 1,
+    "explication": "Donatello réalise la célèbre statue équestre du Gattamelata à Padoue."
+  },
+  {
+    "question": "56 - Quel élément symbolise la diffusion internationale de la Renaissance ?",
+    "options": ["La circulation des modèles","L’isolement des artistes",  "La fermeture des académies", "Le rejet de l’Antiquité"],
+    "answerIndex": 0,
+    "explication": "La Renaissance se diffuse grâce à la circulation des œuvres, des artistes et des idées à travers l’Europe."
+  },
+  {
+    "question": "57 - Quelle œuvre monumentale de Michel-Ange représente le Jugement dernier ?",
+    "options": ["La chapelle Sixtine", "Le Jugement Dernier", "David", "La Pietà"],
+    "answerIndex": 1,
+    "explication": "Le « Jugement Dernier » est la grande fresque réalisée par Michel-Ange sur le mur de la chapelle Sixtine."
+  },
+  {
+    "question": "58 - Quelle fresque célèbre de Raphaël représente les philosophes antiques ?",
+    "options": ["La Transfiguration", "La Dispute du Saint-Sacrement", "L’École d’Athènes", "La Madone Sixtine"],
+    "answerIndex": 2,
+    "explication": "L’École d’Athènes représente les grands penseurs de l’Antiquité et symbolise l’humanisme."
+  },
+  {
+    "question": "59 - Quel objectif politique accompagne souvent les grands programmes artistiques des rois ?",
+    "options": ["Diminuer les dépenses publiques", "Renforcer le prestige et l’autorité royale", "Encourager l’art populaire uniquement", "Supprimer les traditions anciennes"],
+    "answerIndex": 1,
+    "explication": "Les œuvres monumentales servent à affirmer le pouvoir et la grandeur du souverain."
+  },
+  {
+    "question": "60 - Quel phénomène culturel marque la Renaissance européenne ?",
+    "options": ["Le retour exclusif du gothique", "La disparition des échanges culturels", "La redécouverte et l’imitation de l’Antiquité", "L’abandon de la peinture figurative"],
+    "answerIndex": 2,
+    "explication": "La Renaissance repose sur la redécouverte des modèles antiques et leur adaptation dans les arts et la pensée."
+  },
+  {
+    "question": "61 - Quel artiste italien est décrit comme capable d’exceller en peinture, sculpture, architecture et philosophie selon François Ier ?",
+    "options": ["Raphaël", "Michel-Ange", "Titien", "Léonard de Vinci"],
+    "answerIndex": 3,
+    "explication": "François Ier admire profondément Léonard de Vinci, qu’il considère comme un génie universel maîtrisant de nombreuses disciplines."
+  },
+  {
+    "question": "62 - Quel type de relation unit souvent les souverains et les artistes pendant la Renaissance ?",
+    "options": ["Une relation de mécénat", "Une rivalité politique", "Une relation militaire", "Une relation commerciale uniquement"],
+    "answerIndex": 0,
+    "explication": "Les souverains soutiennent financièrement les artistes afin de renforcer leur prestige et de promouvoir les arts."
+  },
+  {
+    "question": "63 - Quel élément architectural caractérise fortement les châteaux de la Renaissance française ?",
+    "options": ["Les tours défensives massives", "Les vitraux gothiques colorés", "L’influence de l’architecture italienne classique", "Les remparts fortifiés médiévaux"],
+    "answerIndex": 2,
+    "explication": "Les châteaux de la Renaissance française intègrent des éléments inspirés de l’architecture italienne, notamment la symétrie et les ordres classiques."
+  },
+  {
+    "question": "64 - Quelle œuvre de Titien est liée aux commandes royales espagnoles destinées au plaisir esthétique et mythologique ?",
+    "options": ["Les Poésies", "Les Fresques Vaticanes", "La Madone Sixtine", "La Cène"],
+    "answerIndex": 0,
+    "explication": "La série des « Poésies » est commandée par Philippe II d’Espagne et regroupe des scènes mythologiques inspirées de la littérature antique."
+  },
+  {
+    "question": "65 - Quelle fonction symbolique les grandes constructions royales remplissent-elles à la Renaissance ?",
+    "options": ["Servir uniquement de résidences privées", "Affirmer le prestige politique du souverain", "Abriter des monastères exclusivement", "Remplacer les villes médiévales"],
+    "answerIndex": 1,
+    "explication": "Les grandes constructions comme Fontainebleau ou Chambord sont des symboles visibles de la puissance royale."
+  },
+  {
+    "question": "66 - Quelle idée résume le mieux l’idéal de l’homme cultivé selon l’humanisme ?",
+    "options": ["La maîtrise d’une seule discipline", "La formation intellectuelle et artistique complète", "La vie monastique", "La spécialisation scientifique exclusive"],
+    "answerIndex": 1,
+    "explication": "L’humanisme valorise l’homme complet, cultivé dans les arts, les lettres, les langues et les sciences."
+  },
+  {
+    "question": "67 - Quelle œuvre architecturale illustre particulièrement le développement artistique encouragé par François Ier ?",
+    "options": ["Le château de Chambord", "La cathédrale de Chartres", "Le Mont-Saint-Michel", "Le Panthéon de Rome"],
+    "answerIndex": 0,
+    "explication": "Le château de Chambord incarne l’ambition artistique et architecturale de la Renaissance française sous François Ier."
+  },
+  {
+    "question": "68 - Quelle notion artistique désigne une image volontairement déformée nécessitant un point de vue précis pour être comprise ?",
+    "options": ["Perspective linéaire", "Anamorphose", "Clair-obscur", "Symbolisme"],
+    "answerIndex": 1,
+    "explication": "L’anamorphose est une image déformée qui retrouve sa forme correcte lorsqu’elle est observée sous un angle particulier."
+  },
+  {
+    "question": "69 - Quel phénomène culturel favorise le développement d’une identité artistique européenne commune à la Renaissance ?",
+    "options": ["L’isolement des royaumes", "La fermeture des universités", "La circulation des artistes et des œuvres", "La disparition des voyages"],
+    "answerIndex": 2,
+    "explication": "Les échanges constants entre artistes, œuvres et idées contribuent à créer une culture artistique européenne partagée."
+  },
+  {
+    "question": "70 - Quel principe intellectuel est au cœur de la pensée humaniste ?",
+    "options": ["La centralité de l’être humain et de son éducation", "La supériorité des traditions médiévales", "Le rejet de l’Antiquité", "La domination de la théologie sur toutes les sciences"],
+    "answerIndex": 0,
+    "explication": "L’humanisme place l’être humain, sa dignité et son éducation au centre de la réflexion intellectuelle."
+  }
+
+
+]

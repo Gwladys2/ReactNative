@@ -1,0 +1,773 @@
+[
+  {
+    "question": "1 - Dans l’Antiquité romaine, qui avait généralement droit à un portrait sculpté ?",
+    "options": [
+      "Tous les citoyens",
+      "Les artistes célèbres",
+      "Les personnes ayant accompli des actions remarquables",
+      "Les membres de la famille impériale uniquement"
+    ],
+    "answerIndex": 2,
+    "explication": "Selon Pline l’Ancien, on ne réalisait des images d’hommes que pour ceux qui méritaient l’immortalité par une action d’éclat. Le portrait avait donc une fonction honorifique et mémorielle liée à la gloire publique."
+  },
+  {
+    "question": "2 - Que sont les « imagines majorum » dans la Rome antique ?",
+    "options": [
+      "Des portraits funéraires d’ancêtres réalisés à partir de moulages",
+      "Des statues religieuses représentant les dieux",
+      "Des fresques décoratives domestiques",
+      "Des portraits idéalisés d’empereurs"
+    ],
+    "answerIndex": 0,
+    "explication": "Les imagines majorum sont des portraits d’ancêtres patriciens réalisés à partir de moulages en cire. Ils servaient à préserver la mémoire familiale et à affirmer le prestige de la lignée."
+  },
+  {
+    "question": "3 - Que devient globalement le genre du portrait durant le Moyen Âge ?",
+    "options": [
+      "Il se développe fortement",
+      "Il devient exclusivement religieux",
+      "Il devient abstrait",
+      "Il disparaît largement comme genre autonome"
+    ],
+    "answerIndex": 3,
+    "explication": "Le cours souligne qu’au Moyen Âge, le portrait individuel disparaît largement comme genre artistique autonome. L’art privilégie alors la représentation symbolique et religieuse plutôt que l’individualité."
+  },
+  {
+    "question": "4 - Quel tableau est considéré comme le premier portrait peint depuis l’Antiquité ?",
+    "options": [
+      "Le Portrait de l’Arioste de Titien",
+      "Le Portrait de Jean II le Bon",
+      "La Dame à l’hermine de Léonard de Vinci",
+      "Le Portrait d’un homme de profil de Masaccio"
+    ],
+    "answerIndex": 1,
+    "explication": "Le portrait de Jean II le Bon (vers 1355) est considéré comme le premier portrait peint depuis l’Antiquité, marquant la redécouverte de la représentation individualisée."
+  },
+  {
+    "question": "5 - Quel artiste est associé à la démocratisation du portrait à la Renaissance ?",
+    "options": [
+      "Antonello da Messina",
+      "Michel-Ange",
+      "Raphaël",
+      "Giotto"
+    ],
+    "answerIndex": 0,
+    "explication": "Antonello da Messina contribue à la diffusion du portrait au-delà des élites, notamment grâce à un style naturaliste influencé par la peinture flamande."
+  },
+  {
+    "question": "6 - Selon Leon Battista Alberti, que permet la peinture des portraits ?",
+    "options": [
+      "D’idéaliser les figures religieuses",
+      "De remplacer la sculpture",
+      "De rendre présents les absents et les morts",
+      "De simplifier la représentation du corps"
+    ],
+    "answerIndex": 2,
+    "explication": "Alberti explique que la peinture possède une force quasi divine : elle rend présents les absents et permet aux morts de continuer à exister par leur image."
+  },
+  {
+    "question": "7 - Quelle est l’une des fonctions principales du portrait à la Renaissance ?",
+    "options": [
+      "Illustrer uniquement des récits mythologiques",
+      "Montrer le statut social et la personnalité",
+      "Servir exclusivement d’objet religieux",
+      "Remplacer les textes historiques"
+    ],
+    "answerIndex": 1,
+    "explication": "Le portrait renaissant sert à exprimer l’identité individuelle, la position sociale et les qualités morales du modèle. Il devient un outil de représentation sociale."
+  },
+  {
+    "question": "8 - Dans le diptyque des ducs d’Urbino, quelles vertus sont associées à la duchesse ?",
+    "options": [
+      "Les vertus cardinales",
+      "Les vertus civiques",
+      "Les vertus héroïques",
+      "Les vertus théologales"
+    ],
+    "answerIndex": 3,
+    "explication": "La duchesse est associée aux vertus théologales (foi, espérance, charité), tandis que le duc incarne les vertus cardinales. Cette distinction symbolique renforce la dimension morale du portrait."
+  },
+  {
+    "question": "9 - Quelle technique picturale est qualifiée de « technique reine » dans la peinture de la Renaissance ?",
+    "options": [
+      "La peinture à l’huile",
+      "La fresque",
+      "La tempera",
+      "La mosaïque"
+    ],
+    "answerIndex": 0,
+    "explication": "La peinture à l’huile devient la technique dominante car elle permet des effets de lumière, de texture et de modelé plus subtils que les techniques précédentes."
+  },
+  {
+    "question": "10 - Qui est surnommé le « prince des humanistes » ?",
+    "options": [
+      "Thomas More",
+      "Érasme de Rotterdam",
+      "Machiavel",
+      "Pétrarque"
+    ],
+    "answerIndex": 1,
+    "explication": "Érasme de Rotterdam est considéré comme le « prince des humanistes » en raison de son influence intellectuelle, de son travail sur les textes antiques et de sa vision morale et éducative."
+  },
+  {
+    "question": "11 - Quel principe artistique est partagé par l’Italie et les Flandres à la Renaissance ?",
+    "options": [
+      "L’abstraction géométrique",
+      "La disparition de la perspective",
+      "L’imitation de la nature",
+      "Le rejet de l’Antiquité"
+    ],
+    "answerIndex": 2,
+    "explication": "Les deux régions partagent une volonté d’imiter la nature, même si leurs méthodes diffèrent : perspective analytique en Italie, réalisme empirique dans les Flandres."
+  },
+  {
+    "question": "12 - Quel élément caractérise particulièrement le réalisme flamand ?",
+    "options": [
+      "La stylisation des formes",
+      "L’absence de profondeur",
+      "Le symbolisme religieux dominant",
+      "La maîtrise de la lumière et des textures"
+    ],
+    "answerIndex": 3,
+    "explication": "Les peintres flamands excellent dans la représentation de la lumière, des matières et des détails, ce qui donne un rendu extrêmement réaliste."
+  },
+  {
+    "question": "13 - Quelle idée exprime la phrase d’Érasme « On ne naît pas homme, on le devient » ?",
+    "options": [
+      "L’homme est déterminé par la nature",
+      "L’éducation forme l’être humain",
+      "La religion définit l’homme",
+      "La naissance sociale fixe le destin"
+    ],
+    "answerIndex": 1,
+    "explication": "Cette phrase humaniste affirme que l’homme se construit par l’éducation, la culture et le développement intellectuel."
+  },
+  {
+    "question": "14 - Quel rôle joue le portrait dans la mémoire familiale à la Renaissance ?",
+    "options": [
+      "Il glorifie les ancêtres et renforce la continuité familiale",
+      "Il remplace les archives écrites",
+      "Il sert uniquement à la décoration",
+      "Il est réservé aux institutions religieuses"
+    ],
+    "answerIndex": 0,
+    "explication": "Le portrait conserve la mémoire des ancêtres et transmet leur prestige aux générations suivantes, renforçant l’identité familiale."
+  },
+  {
+    "question": "15 - Quel effet produit un portrait très réaliste sur le spectateur selon les théories artistiques de la Renaissance ?",
+    "options": [
+      "Un effet décoratif",
+      "Un effet de présence",
+      "Un effet comique",
+      "Un effet symbolique uniquement"
+    ],
+    "answerIndex": 2,
+    "explication": "Le réalisme du portrait peut donner l’impression que la personne est réellement présente, créant une relation émotionnelle avec le spectateur."
+  },
+  {
+    "question": "16 - Quel rôle politique peut jouer le portrait à la Renaissance ?",
+    "options": [
+      "Supprimer les hiérarchies sociales",
+      "Remplacer les discours officiels",
+      "Illustrer uniquement la vie quotidienne",
+      "Servir le pouvoir et la représentation de l’autorité"
+    ],
+    "answerIndex": 3,
+    "explication": "Le portrait peut affirmer le prestige, la légitimité et l’autorité du pouvoir, notamment dans les représentations princières."
+  },
+  {
+    "question": "17 - Que cherche à exprimer le portrait humaniste ?",
+    "options": [
+      "L’individualité et la psychologie du modèle",
+      "Uniquement la beauté idéale",
+      "La fonction religieuse",
+      "Le mouvement du corps"
+    ],
+    "answerIndex": 0,
+    "explication": "Le portrait humaniste valorise la singularité de l’individu, sa personnalité et sa vie intérieure."
+  },
+  {
+    "question": "18 - Quelle caractéristique distingue la perspective italienne de la perspective flamande ?",
+    "options": [
+      "Elle est empirique",
+      "Elle est analytique et géométrique",
+      "Elle est inexistante",
+      "Elle est purement symbolique"
+    ],
+    "answerIndex": 1,
+    "explication": "Les artistes italiens développent une perspective mathématique et structurée, contrairement aux Flamands qui utilisent une observation empirique."
+  },
+  {
+    "question": "19 - Quel est l’un des objectifs principaux de l’humanisme européen ?",
+    "options": [
+      "Refuser l’Antiquité",
+      "Supprimer l’éducation classique",
+      "Limiter la diffusion du savoir",
+      "Valoriser les lettres et la culture antique"
+    ],
+    "answerIndex": 3,
+    "explication": "L’humanisme repose sur l’étude des textes antiques, la valorisation de l’éducation et le développement intellectuel de l’homme."
+  },
+  {
+    "question": "20 - Quel rôle jouent les princes et mécènes dans la Renaissance ?",
+    "options": [
+      "Ils soutiennent les artistes et les lettres",
+      "Ils interdisent les innovations artistiques",
+      "Ils imposent un style unique",
+      "Ils rejettent la culture antique"
+    ],
+    "answerIndex": 2,
+    "explication": "Les princes favorisent la diffusion de l’art et des lettres en finançant artistes et intellectuels, contribuant ainsi à l’essor culturel de la Renaissance."
+  },
+  {
+    "question": "21 - Quel auteur antique raconte le mythe d’Europe dans les Métamorphoses ?",
+    "options": [
+      "Virgile",
+      "Ovide",
+      "Homère",
+      "Hésiode"
+    ],
+    "answerIndex": 1,
+    "explication": "Le mythe d’Europe est raconté par Ovide dans les Métamorphoses. Ce récit antique inspire de nombreuses représentations artistiques à la Renaissance."
+  },
+  {
+    "question": "22 - Dans l’iconographie de l’époque moderne, comment l’Europe est-elle souvent représentée ?",
+    "options": [
+      "Comme une déesse guerrière",
+      "Comme un animal mythique",
+      "Comme une reine richement vêtue",
+      "Comme une simple paysanne"
+    ],
+    "answerIndex": 2,
+    "explication": "Dans certaines représentations symboliques, l’Europe est figurée comme une reine richement vêtue, incarnant la richesse, la puissance et la dignité du continent."
+  },
+  {
+    "question": "23 - Quel humaniste allemand est l’auteur de la Cosmographia Universalis ?",
+    "options": [
+      "Johannes Gutenberg",
+      "Albrecht Dürer",
+      "Martin Luther",
+      "Sébastien Münster"
+    ],
+    "answerIndex": 3,
+    "explication": "Sébastien Münster est un humaniste allemand célèbre pour sa Cosmographia Universalis, un ouvrage majeur de description du monde au XVIe siècle."
+  },
+  {
+    "question": "24 - Quel principe humaniste est au cœur de la pensée de la Renaissance ?",
+    "options": [
+      "La centralité de l’homme et de son éducation",
+      "La supériorité du Moyen Âge",
+      "Le rejet de la science",
+      "La domination de la tradition orale"
+    ],
+    "answerIndex": 0,
+    "explication": "L’humanisme place l’homme, son éducation et son développement intellectuel au centre de la réflexion culturelle."
+  },
+  {
+    "question": "25 - Quel peintre flamand est associé à l’Adoration de l’Agneau mystique ?",
+    "options": [
+      "Jan van Eyck",
+      "Pieter Bruegel",
+      "Hans Holbein",
+      "Rogier van der Weyden"
+    ],
+    "answerIndex": 0,
+    "explication": "Jan van Eyck, avec son frère Hubert, réalise l’Adoration de l’Agneau mystique, œuvre majeure considérée comme un manifeste de l’art nouveau flamand."
+  },
+  {
+    "question": "26 - Quelle ville est qualifiée de « Florence nordique » dans le cours ?",
+    "options": [
+      "Bruges",
+      "Gand",
+      "Anvers",
+      "Amsterdam"
+    ],
+    "answerIndex": 1,
+    "explication": "Gand est comparée à Florence en raison de son dynamisme artistique et économique durant la Renaissance du Nord."
+  },
+  {
+    "question": "27 - Qui sont les commanditaires représentés dans l’Adoration de l’Agneau mystique ?",
+    "options": [
+      "Les Médicis",
+      "Les ducs de Bourgogne",
+      "Joos Vijdt et Lysbette Borluut",
+      "Les rois d’Espagne"
+    ],
+    "answerIndex": 2,
+    "explication": "Les commanditaires du retable sont Joos Vijdt et son épouse Lysbette Borluut, représentés dans l’œuvre comme donateurs."
+  },
+  {
+    "question": "28 - Quelle caractéristique distingue particulièrement la peinture flamande de la peinture italienne ?",
+    "options": [
+      "L’abstraction symbolique",
+      "L’absence de perspective",
+      "Le rejet du réalisme",
+      "Une observation empirique de la réalité"
+    ],
+    "answerIndex": 3,
+    "explication": "La peinture flamande repose sur une observation empirique du réel, notamment dans le rendu minutieux des matières et de la lumière."
+  },
+  {
+    "question": "29 - Quelle œuvre de Jan van Eyck est souvent interprétée comme un portrait de couple symbolique ?",
+    "options": [
+      "Les époux Arnolfini",
+      "La Vierge du chancelier Rolin",
+      "L’Homme au turban rouge",
+      "La Vierge à l’Enfant"
+    ],
+    "answerIndex": 0,
+    "explication": "Les époux Arnolfini est célèbre pour sa richesse symbolique et son réalisme, souvent interprété comme un portrait conjugal à forte dimension sociale."
+  },
+  {
+    "question": "30 - Quel souverain est un grand mécène associé à la Renaissance bourguignonne ?",
+    "options": [
+      "Philippe le Bon",
+      "Charles Quint",
+      "Louis XI",
+      "François Ier"
+    ],
+    "answerIndex": 0,
+    "explication": "Philippe le Bon est un mécène majeur qui favorise le développement artistique en Bourgogne."
+  },
+  {
+    "question": "31 - Quel mouvement artistique marque une rupture avec l’esthétique gothique ?",
+    "options": [
+      "Le baroque",
+      "La Renaissance",
+      "Le maniérisme",
+      "Le romantisme"
+    ],
+    "answerIndex": 1,
+    "explication": "La Renaissance rompt avec l’esthétique gothique en redécouvrant l’Antiquité et en valorisant l’harmonie, la perspective et le naturalisme."
+  },
+  {
+    "question": "32 - Quelle figure mythologique enlève Europe dans le récit antique ?",
+    "options": [
+      "Mars",
+      "Neptune",
+      "Jupiter",
+      "Apollon"
+    ],
+    "answerIndex": 2,
+    "explication": "Dans le mythe, Jupiter enlève Europe sous la forme d’un taureau et l’emmène en Crète."
+  },
+  {
+    "question": "33 - Quelle idée est associée à la représentation symbolique de l’Europe dans l’iconographie ?",
+    "options": [
+      "La pauvreté du continent",
+      "La diversité et la richesse",
+      "La domination militaire",
+      "L’isolement culturel"
+    ],
+    "answerIndex": 1,
+    "explication": "Les représentations symboliques insistent sur la richesse et la diversité de l’Europe, souvent évoquées par ses couleurs et ses attributs."
+  },
+  {
+    "question": "34 - Quelle est une caractéristique essentielle du réalisme flamand ?",
+    "options": [
+      "La simplification des formes",
+      "La stylisation décorative",
+      "Le détail minutieux",
+      "L’absence de lumière"
+    ],
+    "answerIndex": 2,
+    "explication": "Le réalisme flamand se distingue par un souci extrême du détail et une observation attentive du réel."
+  },
+  {
+    "question": "35 - Quel est le rôle des donateurs dans les œuvres religieuses flamandes ?",
+    "options": [
+      "Ils remplacent les saints",
+      "Ils sont absents des compositions",
+      "Ils sont représentés comme spectateurs priants",
+      "Ils peignent eux-mêmes l’œuvre"
+    ],
+    "answerIndex": 2,
+    "explication": "Les donateurs sont souvent représentés en prière dans l’œuvre, manifestant leur piété et leur statut social."
+  },
+  {
+    "question": "36 - Quelle innovation majeure caractérise la peinture flamande du XVe siècle ?",
+    "options": [
+      "L’invention de la perspective linéaire",
+      "L’usage dominant de la fresque",
+      "La peinture monochrome",
+      "Le perfectionnement de la peinture à l’huile"
+    ],
+    "answerIndex": 3,
+    "explication": "Les Flamands perfectionnent la peinture à l’huile, permettant des effets de transparence et de lumière très subtils."
+  },
+  {
+    "question": "37 - Quelle œuvre est considérée comme le manifeste d’un art nouveau flamand ?",
+    "options": [
+      "L’Adoration de l’Agneau mystique",
+      "La Joconde",
+      "Le Jugement dernier de Michel-Ange",
+      "La Naissance de Vénus"
+    ],
+    "answerIndex": 0,
+    "explication": "L’Adoration de l’Agneau mystique est considérée comme une œuvre fondatrice du nouveau réalisme flamand."
+  },
+  {
+    "question": "38 - Quelle idée caractérise la Renaissance du Nord ?",
+    "options": [
+      "Une imitation stricte de l’art italien",
+      "Une synthèse entre tradition gothique et innovation",
+      "Un rejet du naturalisme",
+      "Une absence de symbolisme"
+    ],
+    "answerIndex": 1,
+    "explication": "La Renaissance du Nord combine des éléments gothiques avec des innovations techniques et naturalistes."
+  },
+  {
+    "question": "39 - Quelle qualité est particulièrement développée par les peintres flamands ?",
+    "options": [
+      "La simplification géométrique",
+      "La stylisation religieuse",
+      "La représentation de la lumière",
+      "La peinture monumentale"
+    ],
+    "answerIndex": 2,
+    "explication": "Les peintres flamands sont réputés pour leur capacité à représenter la lumière et les textures avec un réalisme exceptionnel."
+  },
+  {
+    "question": "40 - Quel rôle joue l’étude de l’Antiquité dans la Renaissance ?",
+    "options": [
+      "Elle est rejetée",
+      "Elle est secondaire",
+      "Elle est interdite",
+      "Elle sert de modèle culturel et artistique"
+    ],
+    "answerIndex": 3,
+    "explication": "L’étude de l’Antiquité fournit des modèles esthétiques, intellectuels et philosophiques essentiels à la Renaissance."
+  },
+  {
+    "question": "41 - Que signifie l’expression « effet de présence » dans la théorie du portrait à la Renaissance ?",
+    "options": [
+      "La ressemblance approximative du modèle",
+      "La sensation que la personne représentée est réellement présente",
+      "L’usage d’un fond architectural",
+      "La représentation en mouvement"
+    ],
+    "answerIndex": 1,
+    "explication": "L’effet de présence désigne la capacité du portrait à donner l’impression que la personne représentée est vivante et présente devant le spectateur."
+  },
+  {
+    "question": "42 - Quelle est l’une des fonctions principales du portrait princier à la Renaissance ?",
+    "options": [
+      "Divertir le public",
+      "Remplacer les chroniques historiques",
+      "Affirmer le pouvoir et la légitimité politique",
+      "Illustrer la vie quotidienne"
+    ],
+    "answerIndex": 2,
+    "explication": "Le portrait princier sert à affirmer l’autorité, la puissance et la légitimité du souverain, notamment par la mise en scène de sa dignité et de ses vertus."
+  },
+  {
+    "question": "43 - Dans le diptyque des ducs d’Urbino, que symbolisent les vertus cardinales associées au duc ?",
+    "options": [
+      "Ses qualités militaires uniquement",
+      "Ses défauts moraux",
+      "Ses devoirs religieux",
+      "Ses qualités morales et politiques idéales"
+    ],
+    "answerIndex": 3,
+    "explication": "Les vertus cardinales (justice, prudence, force, tempérance) représentent les qualités morales idéales d’un bon dirigeant."
+  },
+  {
+    "question": "44 - Quelle figure animale symbolise la charité dans certaines iconographies de la Renaissance ?",
+    "options": [
+      "Le pélican",
+      "Le lion",
+      "L’aigle",
+      "Le serpent"
+    ],
+    "answerIndex": 0,
+    "explication": "Le pélican symbolise la charité car on croyait qu’il nourrissait ses petits avec son propre sang, image du sacrifice et du don de soi."
+  },
+  {
+    "question": "45 - Quel objet symbolise la justice dans les représentations allégoriques ?",
+    "options": [
+      "L’épée et la balance",
+      "Le miroir",
+      "La couronne",
+      "La colombe"
+    ],
+    "answerIndex": 0,
+    "explication": "La justice est traditionnellement représentée avec une épée (punition) et une balance (équilibre et équité)."
+  },
+  {
+    "question": "46 - Quel objet est associé à la prudence dans l’iconographie symbolique ?",
+    "options": [
+      "Le sceptre",
+      "Le miroir",
+      "La lance",
+      "Le livre"
+    ],
+    "answerIndex": 1,
+    "explication": "Le miroir symbolise la prudence car il renvoie à la connaissance de soi et à la réflexion avant l’action."
+  },
+  {
+    "question": "47 - Quelle idée est au cœur de la querelle des Anciens et des Modernes ?",
+    "options": [
+      "La supériorité de la religion",
+      "Le refus de la science",
+      "La comparaison entre les modèles antiques et les créations modernes",
+      "La domination de l’art médiéval"
+    ],
+    "answerIndex": 2,
+    "explication": "La querelle oppose ceux qui considèrent l’Antiquité comme modèle absolu et ceux qui pensent que les modernes peuvent égaler ou dépasser les anciens."
+  },
+  {
+    "question": "48 - Quel auteur affirme que « tout est dit et l’on vient trop tard » en parlant des Anciens ?",
+    "options": [
+      "Voltaire",
+      "Montaigne",
+      "Descartes",
+      "Jean de La Bruyère"
+    ],
+    "answerIndex": 3,
+    "explication": "Jean de La Bruyère affirme que les Anciens ont déjà exprimé l’essentiel, ce qui alimente la querelle des Anciens et des Modernes."
+  },
+  {
+    "question": "49 - Quel écrivain défend l’idée que le siècle moderne peut rivaliser avec l’Antiquité ?",
+    "options": [
+      "Charles Perrault",
+      "Pascal",
+      "Rabelais",
+      "Corneille"
+    ],
+    "answerIndex": 0,
+    "explication": "Charles Perrault soutient que le siècle de Louis XIV peut être comparé à celui d’Auguste, affirmant la valeur des Modernes."
+  },
+  {
+    "question": "50 - Quel est l’un des objectifs du portrait funéraire ou mémoriel ?",
+    "options": [
+      "Créer une caricature",
+      "Maintenir la mémoire des défunts",
+      "Illustrer des mythes antiques",
+      "Décorer les palais"
+    ],
+    "answerIndex": 1,
+    "explication": "Le portrait mémoriel prolonge symboliquement la vie des défunts en conservant leur image."
+  },
+  {
+    "question": "51 - Quelle innovation permet une représentation plus réaliste des matières et des textures ?",
+    "options": [
+      "La tempera",
+      "La fresque",
+      "La peinture à l’huile",
+      "La gravure"
+    ],
+    "answerIndex": 2,
+    "explication": "La peinture à l’huile permet des glacis, des nuances et des effets de matière très subtils."
+  },
+  {
+    "question": "52 - Quel est le rôle de la perspective dans la peinture de la Renaissance ?",
+    "options": [
+      "Supprimer la profondeur",
+      "Simplifier les formes",
+      "Créer une surface plane",
+      "Donner une illusion d’espace tridimensionnel"
+    ],
+    "answerIndex": 3,
+    "explication": "La perspective permet de représenter la profondeur et de structurer l’espace de manière réaliste."
+  },
+  {
+    "question": "53 - Quel élément montre la continuité avec l’esthétique gothique dans la Renaissance du Nord ?",
+    "options": [
+      "Le réalisme des détails",
+      "Le rejet de la religion",
+      "L’abstraction totale",
+      "La disparition du symbolisme"
+    ],
+    "answerIndex": 0,
+    "explication": "La Renaissance du Nord conserve certains éléments gothiques tout en développant un réalisme très poussé."
+  },
+  {
+    "question": "54 - Quel est le principal objectif de l’esthétique classique héritée de l’Antiquité ?",
+    "options": [
+      "L’expression du chaos",
+      "L’harmonie et l’équilibre",
+      "La déformation des corps",
+      "La spontanéité pure"
+    ],
+    "answerIndex": 1,
+    "explication": "L’esthétique classique vise l’harmonie, l’équilibre et la proportion inspirés des modèles antiques."
+  },
+  {
+    "question": "55 - Quelle fonction peut avoir la médaille à la Renaissance ?",
+    "options": [
+      "Servir uniquement de monnaie",
+      "Illustrer des scènes religieuses",
+      "Diffuser l’image et la mémoire d’un personnage",
+      "Remplacer les tableaux"
+    ],
+    "answerIndex": 2,
+    "explication": "La médaille permet de diffuser l’image d’un individu et de conserver sa mémoire, comme un portrait portable."
+  },
+  {
+    "question": "56 - Quel est l’un des buts de la représentation des vertus dans le portrait ?",
+    "options": [
+      "Décorer l’image",
+      "Créer du mouvement",
+      "Simplifier la composition",
+      "Exprimer un idéal moral"
+    ],
+    "answerIndex": 3,
+    "explication": "Les vertus représentées dans les portraits traduisent les qualités morales que doit incarner le modèle."
+  },
+  {
+    "question": "57 - Pourquoi les familles puissantes commandent-elles des portraits collectifs ?",
+    "options": [
+      "Pour affirmer leur prestige et leur continuité",
+      "Pour imiter les artistes antiques",
+      "Pour enseigner la peinture",
+      "Pour décorer les églises uniquement"
+    ],
+    "answerIndex": 0,
+    "explication": "Les portraits familiaux servent à affirmer le prestige social et la continuité de la lignée."
+  },
+  {
+    "question": "58 - Quel rôle joue le regard du modèle dans les portraits renaissants ?",
+    "options": [
+      "Il est toujours absent",
+      "Il crée une relation avec le spectateur",
+      "Il sert uniquement à équilibrer la composition",
+      "Il est purement symbolique"
+    ],
+    "answerIndex": 1,
+    "explication": "Le regard peut établir un lien psychologique direct entre le modèle et le spectateur."
+  },
+  {
+    "question": "59 - Quelle qualité distingue particulièrement les portraits de la Renaissance ?",
+    "options": [
+      "La caricature",
+      "L’abstraction",
+      "La profondeur psychologique",
+      "La stylisation géométrique"
+    ],
+    "answerIndex": 2,
+    "explication": "Les portraits renaissants cherchent à représenter la personnalité et l’intériorité du modèle."
+  },
+  {
+    "question": "60 - Quel rôle joue le mécénat dans le développement artistique de la Renaissance ?",
+    "options": [
+      "Limiter la créativité",
+      "Contrôler les techniques",
+      "Supprimer les traditions",
+      "Financer et encourager la création artistique"
+    ],
+    "answerIndex": 3,
+    "explication": "Le mécénat permet aux artistes de travailler, d’innover et de produire des œuvres importantes."
+  },
+  {
+    "question": "61 - Pourquoi le portrait devient-il un genre majeur à la Renaissance ?",
+    "options": [
+      "Parce que la religion interdit les autres formes d’art",
+      "Parce que les artistes refusent la sculpture",
+      "Parce que l’individu et son identité deviennent des valeurs centrales",
+      "Parce que les techniques médiévales disparaissent totalement"
+    ],
+    "answerIndex": 2,
+    "explication": "La Renaissance valorise l’individu, sa personnalité et sa place dans la société. Le portrait devient donc un moyen privilégié d’exprimer cette nouvelle importance accordée à l’identité personnelle."
+  },
+  {
+    "question": "62 - Quel élément renforce souvent la dignité sociale d’un personnage dans un portrait officiel ?",
+    "options": [
+      "Un décor symbolique ou des attributs de pouvoir",
+      "Une posture déformée",
+      "Une absence totale de fond",
+      "Un cadrage flou"
+    ],
+    "answerIndex": 0,
+    "explication": "Les portraits officiels utilisent fréquemment des attributs (trône, vêtements riches, symboles politiques) pour affirmer la position sociale du modèle."
+  },
+  {
+    "question": "63 - Quelle caractéristique distingue particulièrement le portrait humaniste du portrait médiéval ?",
+    "options": [
+      "La suppression du visage",
+      "L’importance de l’individualité et du réalisme",
+      "La domination de la symbolique religieuse",
+      "La représentation uniquement de profil"
+    ],
+    "answerIndex": 1,
+    "explication": "Le portrait humaniste cherche à représenter l’individu réel, avec ses traits spécifiques et sa personnalité, contrairement à l’art médiéval plus symbolique."
+  },
+  {
+    "question": "64 - Quel rôle joue la mémoire dans la fonction du portrait ?",
+    "options": [
+      "Elle est secondaire",
+      "Elle empêche l’interprétation",
+      "Elle permet de conserver l’image et le souvenir des personnes",
+      "Elle remplace l’histoire écrite"
+    ],
+    "answerIndex": 2,
+    "explication": "Le portrait sert à conserver la mémoire d’un individu et à prolonger symboliquement sa présence dans le temps."
+  },
+  {
+    "question": "65 - Pourquoi les artistes de la Renaissance s’inspirent-ils de l’Antiquité ?",
+    "options": [
+      "Pour imiter uniquement les sujets religieux",
+      "Pour retrouver des modèles de beauté, d’harmonie et de savoir",
+      "Pour supprimer la perspective",
+      "Pour refuser toute innovation"
+    ],
+    "answerIndex": 1,
+    "explication": "L’Antiquité fournit des modèles esthétiques et intellectuels considérés comme idéaux : proportion, équilibre, beauté et réflexion philosophique."
+  },
+  {
+    "question": "66 - Quelle fonction symbolique peut avoir le vêtement dans un portrait ?",
+    "options": [
+      "Il n’a aucune signification",
+      "Il sert uniquement à couvrir le corps",
+      "Il indique le statut social et l’identité du modèle",
+      "Il remplace les attributs iconographiques"
+    ],
+    "answerIndex": 2,
+    "explication": "Les vêtements peuvent signaler la richesse, la fonction politique ou la position sociale du personnage représenté."
+  },
+  {
+    "question": "67 - Quel effet recherchent souvent les artistes en représentant les détails du visage avec précision ?",
+    "options": [
+      "Créer une image abstraite",
+      "Renforcer le réalisme et la singularité du modèle",
+      "Simplifier la composition",
+      "Supprimer l’expression"
+    ],
+    "answerIndex": 1,
+    "explication": "La précision des traits renforce l’impression de réalité et permet de saisir l’individualité du modèle."
+  },
+  {
+    "question": "68 - Pourquoi peut-on dire que le portrait est aussi un outil politique ?",
+    "options": [
+      "Parce qu’il remplace les lois",
+      "Parce qu’il impose une religion",
+      "Parce qu’il empêche la critique sociale",
+      "Parce qu’il construit et diffuse une image du pouvoir"
+    ],
+    "answerIndex": 3,
+    "explication": "Le portrait officiel façonne l’image publique du dirigeant et participe à la construction de son autorité."
+  },
+  {
+    "question": "69 - Quel lien existe entre portrait et prestige familial ?",
+    "options": [
+      "Aucun lien réel",
+      "Il permet de montrer la continuité et la gloire d’une lignée",
+      "Il remplace les documents juridiques",
+      "Il sert uniquement à décorer les maisons"
+    ],
+    "answerIndex": 1,
+    "explication": "Les portraits familiaux valorisent la mémoire des ancêtres et affirment la continuité sociale et symbolique de la famille."
+  },
+  {
+    "question": "70 - Pourquoi le réalisme est-il si important dans la peinture de la Renaissance ?",
+    "options": [
+      "Pour imiter la nature et rendre le monde visible avec précision",
+      "Pour simplifier la représentation",
+      "Pour supprimer la perspective",
+      "Pour rendre les images symboliques uniquement"
+    ],
+    "answerIndex": 0,
+    "explication": "La Renaissance valorise l’observation de la nature et la représentation fidèle du réel, considérées comme fondements de l’art et du savoir."
+  }
+
+]

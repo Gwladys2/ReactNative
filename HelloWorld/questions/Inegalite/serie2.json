@@ -1,0 +1,774 @@
+[
+  {
+    "question": "1 - Que signifiait le terme « coéducation » au XIXe siècle selon Buisson ?",
+    "options": [
+      "Une instruction identique pour tous les élèves",
+      "Une éducation religieuse commune",
+      "Une cohabitation en commun des sexes",
+      "Une école réservée aux filles"
+    ],
+    "answerIndex": 2,
+    "explication": "Dans le Dictionnaire de pédagogie (1911), Buisson définit la coéducation comme une « cohabitation en commun », c’est-à-dire la présence conjointe des filles et des garçons dans un même cadre éducatif."
+  },
+  {
+    "question": "2 - En quelle année apparaît officiellement le terme « mixité » dans le champ scolaire ?",
+    "options": [
+      "1950",
+      "1833",
+      "1793",
+      "1882"
+    ],
+    "answerIndex": 0,
+    "explication": "Le terme « mixité » apparaît dans les années 1950 pour désigner l’état d’une école où filles et garçons sont admis ensemble. Auparavant, on utilisait plutôt le terme de coéducation."
+  },
+  {
+    "question": "3 - Quelle loi de 1833 organise l’école primaire universelle en France ?",
+    "options": [
+      "La loi Ferry",
+      "La loi Guizot",
+      "La loi Haby",
+      "La loi Duruy"
+    ],
+    "answerIndex": 1,
+    "explication": "La loi Guizot de 1833 organise l’enseignement primaire public en France et impose aux communes l’ouverture d’une école de garçons, tout en admettant parfois les filles dans les petites communes pour des raisons économiques."
+  },
+  {
+    "question": "4 - Pourquoi la mixité s’est-elle d’abord développée dans les petites communes rurales au XIXe siècle ?",
+    "options": [
+      "Pour promouvoir l’égalité entre les sexes",
+      "Pour appliquer une réforme religieuse",
+      "Pour des raisons économiques et pratiques",
+      "Pour répondre à une demande des familles bourgeoises"
+    ],
+    "answerIndex": 2,
+    "explication": "La mixité dans les petites communes s’est développée principalement pour des raisons économiques : faute de moyens pour ouvrir des écoles séparées, filles et garçons étaient regroupés dans des classes uniques."
+  },
+  {
+    "question": "5 - Que prévoit le décret du 7 brumaire an II (1793) concernant l’éducation des filles ?",
+    "options": [
+      "Un enseignement scientifique avancé",
+      "Une préparation aux vertus domestiques",
+      "L’accès obligatoire au baccalauréat",
+      "Une éducation identique à celle des garçons"
+    ],
+    "answerIndex": 1,
+    "explication": "Le décret du 7 brumaire an II prévoit que les filles apprennent à lire, écrire, compter et soient formées aux travaux manuels afin de les préparer aux vertus de la vie domestique, montrant une différenciation éducative selon le sexe."
+  },
+  {
+    "question": "6 - Quelle loi rend la mixité obligatoire de la maternelle au lycée ?",
+    "options": [
+      "La loi Guizot",
+      "La loi Falloux",
+      "La loi Haby (1975)",
+      "La loi Ferry"
+    ],
+    "answerIndex": 2,
+    "explication": "La loi Haby de 1975 rend la mixité obligatoire dans l’enseignement primaire et secondaire en France, officialisant une pratique déjà largement répandue."
+  },
+  {
+    "question": "7 - Quelle est la critique principale formulée par Nicole Mosconi concernant la notion de mixité ?",
+    "options": [
+      "Elle favorise les inégalités religieuses",
+      "Elle suppose une neutralité fictive de l’élève",
+      "Elle empêche l’accès des filles aux sciences",
+      "Elle est contraire au principe de laïcité"
+    ],
+    "answerIndex": 1,
+    "explication": "Mosconi critique l’idée que la mixité considérerait les élèves comme des êtres neutres et indifférenciés. Cette neutralité masque les inégalités réelles entre filles et garçons et peut freiner une véritable mixité vécue."
+  },
+  {
+    "question": "8 - Que refusait d’enseigner l’enseignement secondaire féminin selon la loi Camille Sée (1880) ?",
+    "options": [
+      "Les langues vivantes",
+      "La couture",
+      "Le latin et la philosophie",
+      "La lecture"
+    ],
+    "answerIndex": 2,
+    "explication": "L’enseignement secondaire féminin instauré par la loi Camille Sée excluait notamment le latin, la philosophie et certaines disciplines scientifiques, maintenant une différenciation conforme aux rôles sociaux attribués aux sexes."
+  },
+  {
+    "question": "9 - Quel décret de 1959 rend la mixité officielle et prolonge l’obligation scolaire jusqu’à 16 ans ?",
+    "options": [
+      "Le décret Ferry",
+      "Le décret Guizot",
+      "Le décret Berthoin",
+      "Le décret Bérard"
+    ],
+    "answerIndex": 2,
+    "explication": "Le décret Berthoin de 1959 rend la mixité officielle et porte l’obligation scolaire à 16 ans, dans une perspective d’égalité des chances et d’élévation du niveau de formation."
+  },
+  {
+    "question": "10 - Selon le rapport DEPP 2025, quelle différence principale observe-t-on au collège ?",
+    "options": [
+      "Les garçons réussissent mieux en français",
+      "Les filles réussissent mieux en mathématiques",
+      "Les résultats sont identiques dans toutes les disciplines",
+      "Les filles réussissent mieux en français"
+    ],
+    "answerIndex": 3,
+    "explication": "Selon le rapport DEPP 2025, les filles obtiennent de meilleurs résultats en français que les garçons, tandis qu’elles ont des résultats légèrement inférieurs en mathématiques."
+  },
+  {
+    "question": "11 - Que signifie étymologiquement le mot « mixte » ?",
+    "options": [
+      "Séparer",
+      "Mélanger",
+      "Éduquer",
+      "Uniformiser"
+    ],
+    "answerIndex": 1,
+    "explication": "Le mot « mixte » vient du latin miscere, qui signifie « mélanger ». Il renvoie à l’idée de coexistence ou de mélange de deux éléments différents, ici les sexes."
+  },
+  {
+    "question": "12 - Quelle était la position de Condorcet concernant l’instruction des femmes ?",
+    "options": [
+      "Les femmes ne doivent pas recevoir d’instruction publique",
+      "Les femmes doivent être instruites séparément des hommes",
+      "L’instruction doit être donnée en commun aux deux sexes",
+      "Seules les femmes de la bourgeoisie doivent être instruites"
+    ],
+    "answerIndex": 2,
+    "explication": "Condorcet défendait l’idée que l’instruction devait être donnée en commun et que les femmes ne devaient pas être exclues de l’enseignement, car l’instruction fonde l’égalité entre citoyens."
+  },
+  {
+    "question": "13 - Pourquoi la séparation des sexes était-elle maintenue après la Révolution française ?",
+    "options": [
+      "Pour des raisons morales liées aux mœurs",
+      "Pour des raisons économiques",
+      "Pour favoriser la compétition scolaire",
+      "Pour répondre à une demande des élèves"
+    ],
+    "answerIndex": 0,
+    "explication": "La séparation des sexes à l’école était justifiée par des considérations morales. Les révolutionnaires ne remettaient pas fondamentalement en cause cette séparation, considérée comme garante des bonnes mœurs."
+  },
+  {
+    "question": "14 - Que prévoit la loi Duruy de 1867 concernant les écoles mixtes ?",
+    "options": [
+      "La suppression des écoles de filles",
+      "La nomination d’une femme pour enseigner les travaux d’aiguilles",
+      "L’interdiction de la mixité",
+      "L’obligation du baccalauréat pour les filles"
+    ],
+    "answerIndex": 1,
+    "explication": "La loi Duruy (1867) prévoit la nomination d’une femme dans les écoles mixtes pour enseigner notamment les travaux d’aiguilles, et améliore la rémunération des maîtresses."
+  },
+  {
+    "question": "15 - Quel était l’objectif politique de Duruy concernant l’éducation des filles ?",
+    "options": [
+      "Renforcer l’influence de l’Église",
+      "Maintenir la stricte séparation des sexes",
+      "Rompre avec l’influence des congrégations religieuses",
+      "Supprimer l’enseignement secondaire féminin"
+    ],
+    "answerIndex": 2,
+    "explication": "Duruy souhaitait réduire l’influence de l’Église sur l’éducation des filles et amorcer une laïcisation de l’enseignement, en renforçant le rôle de l’État."
+  },
+  {
+    "question": "16 - En 1914, combien de jeunes filles étaient scolarisées dans les écoles secondaires publiques ?",
+    "options": [
+      "35 000",
+      "100 000",
+      "69 200",
+      "58 000"
+    ],
+    "answerIndex": 0,
+    "explication": "En 1914, on comptait environ 35 000 filles dans l’enseignement secondaire public contre 69 200 garçons, ce qui illustre l’écart important d’accès à l’éducation secondaire."
+  },
+  {
+    "question": "17 - Quelle femme obtient le premier baccalauréat en 1861 à Lyon ?",
+    "options": [
+      "Madeleine Brès",
+      "Julie Daubié",
+      "Camille Sée",
+      "Nicole Mosconi"
+    ],
+    "answerIndex": 1,
+    "explication": "Julie Daubié est la première femme à obtenir le baccalauréat en France en 1861. Elle n’avait pas l’autorisation officielle de fréquenter les lieux d’études réservés aux hommes."
+  },
+  {
+    "question": "18 - Que montre l’évolution de la scolarisation des filles entre 1914 et 1930 ?",
+    "options": [
+      "Une diminution du nombre de filles scolarisées",
+      "Une stabilité des effectifs féminins",
+      "Une augmentation progressive des effectifs féminins",
+      "Une disparition des écoles de filles"
+    ],
+    "answerIndex": 2,
+    "explication": "Entre 1914 et 1930, le nombre de jeunes filles scolarisées dans le secondaire augmente (de 35 000 à 58 000), montrant une progression de l’accès des filles à l’éducation."
+  },
+  {
+    "question": "19 - Selon Duby et Perrot, quelle caractéristique distingue l’enseignement secondaire féminin au XIXe siècle ?",
+    "options": [
+      "Il est plus long que celui des garçons",
+      "Il inclut davantage de disciplines scientifiques",
+      "Il est identique à celui des garçons",
+      "Il a une durée et une ampleur inférieures à celui des garçons"
+    ],
+    "answerIndex": 3,
+    "explication": "Duby et Perrot soulignent que l’enseignement secondaire féminin n’a ni la durée ni l’ampleur de celui des garçons et exclut certaines disciplines prestigieuses comme le latin ou la philosophie."
+  },
+  {
+    "question": "20 - Selon Mosconi (1989), la généralisation de la mixité après la Seconde Guerre mondiale est principalement :",
+    "options": [
+      "Un choix pédagogique réfléchi",
+      "Une décision religieuse",
+      "Une mesure essentiellement économique et pratique",
+      "Une revendication féministe massive"
+    ],
+    "answerIndex": 2,
+    "explication": "Mosconi montre que la mixité s’est généralisée après la Seconde Guerre mondiale davantage pour des raisons économiques et pratiques que comme un véritable projet pédagogique ou idéologique."
+  },
+
+{
+    "question": "21 - Selon Mosconi, pourquoi la notion de « mixité » peut-elle poser problème ?",
+    "options": [
+      "Parce qu’elle impose une séparation stricte des sexes",
+      "Parce qu’elle repose sur l’idée d’un élève neutre et indifférencié",
+      "Parce qu’elle interdit l’accès des filles aux sciences",
+      "Parce qu’elle supprime l’autorité du professeur"
+    ],
+    "answerIndex": 1,
+    "explication": "Mosconi critique l’idée selon laquelle la mixité considérerait les élèves comme neutres et indifférenciés. Cette neutralité masque les différences sociales et de genre et empêche de penser réellement les inégalités."
+  },
+  {
+    "question": "22 - Quelle différence fondamentale distingue la coéducation de la simple mixité ?",
+    "options": [
+      "La coéducation implique une réflexion éducative sur les relations entre les sexes",
+      "La coéducation interdit les écoles privées",
+      "La mixité impose des programmes différents",
+      "La mixité supprime toute autorité adulte"
+    ],
+    "answerIndex": 0,
+    "explication": "La coéducation ne se limite pas à la présence conjointe des sexes ; elle implique un projet éducatif réfléchi sur la manière d’apprendre à vivre ensemble et à interagir entre filles et garçons."
+  },
+  {
+    "question": "23 - Quelle loi de 1880 organise l’enseignement secondaire des jeunes filles ?",
+    "options": [
+      "La loi Ferry",
+      "La loi Guizot",
+      "La loi Camille Sée",
+      "La loi Haby"
+    ],
+    "answerIndex": 2,
+    "explication": "La loi Camille Sée de 1880 organise l’enseignement secondaire féminin au niveau national, tout en maintenant des différences importantes avec celui des garçons."
+  },
+  {
+    "question": "24 - Pourquoi l’enseignement secondaire féminin du XIXe siècle est-il qualifié d’« assimilation incomplète » ?",
+    "options": [
+      "Parce qu’il était plus long que celui des garçons",
+      "Parce qu’il excluait certaines disciplines prestigieuses",
+      "Parce qu’il était réservé aux classes populaires",
+      "Parce qu’il était obligatoire pour toutes les filles"
+    ],
+    "answerIndex": 1,
+    "explication": "On parle d’assimilation incomplète car les filles accédaient au secondaire, mais avec des programmes allégés ou différents, excluant notamment le latin, la philosophie et certaines sciences."
+  },
+  {
+    "question": "25 - Quel événement de 1905 relance les débats sur la coéducation ?",
+    "options": [
+      "La loi Ferry",
+      "La loi de séparation de l’Église et de l’État",
+      "Le décret Berthoin",
+      "La loi Haby"
+    ],
+    "answerIndex": 1,
+    "explication": "La loi de 1905 sur la séparation de l’Église et de l’État ravive les débats sur la coéducation, qui devient un enjeu polémique dans le contexte des tensions autour de l’école laïque."
+  },
+  {
+    "question": "26 - Selon les défenseurs de la coéducation en 1905, la séparation des sexes favorise :",
+    "options": [
+      "L’égalité scolaire",
+      "La réussite scientifique",
+      "Une curiosité malsaine et des inégalités",
+      "Une meilleure discipline"
+    ],
+    "answerIndex": 2,
+    "explication": "Les partisans de la coéducation estiment que la séparation entretient des curiosités malsaines et des inégalités, alors que la coéducation favoriserait l’égalité et l’émulation intellectuelle."
+  },
+  {
+    "question": "27 - Quel décret de 1924 permet aux filles de suivre les mêmes programmes que les garçons dans le secondaire ?",
+    "options": [
+      "Le décret Ferry",
+      "Le décret Bérard",
+      "Le décret Guizot",
+      "Le décret Berthoin"
+    ],
+    "answerIndex": 1,
+    "explication": "Le décret Bérard de 1924 autorise les filles à suivre les mêmes programmes que les garçons dans le secondaire et à passer le même baccalauréat."
+  },
+  {
+    "question": "28 - Pourquoi l’entrée massive des femmes dans l’éducation après la Première Guerre mondiale pose-t-elle question ?",
+    "options": [
+      "Parce qu’elles refusaient d’enseigner aux garçons",
+      "Parce qu’elles étaient mieux rémunérées que les hommes",
+      "Parce qu’elles occupaient des postes précaires et moins valorisés",
+      "Parce qu’elles supprimaient la mixité"
+    ],
+    "answerIndex": 2,
+    "explication": "Après la Première Guerre mondiale, les femmes remplacent les hommes dans l’enseignement mais souvent avec des statuts précaires et des salaires plus faibles, ce qui contribue à une dévalorisation du métier."
+  },
+  {
+    "question": "29 - Quel lycée expérimental accepte filles et garçons entre les deux guerres sans être institutionnalisé ?",
+    "options": [
+      "Le lycée Louis-le-Grand",
+      "Le lycée de Saint-Maur-des-Fossés",
+      "Le lycée Henri-IV",
+      "Le lycée Condorcet"
+    ],
+    "answerIndex": 1,
+    "explication": "Le lycée de Saint-Maur-des-Fossés (1938) est un exemple d’établissement secondaire mixte toléré dans les faits pendant environ vingt ans, sans que cette pratique soit officiellement institutionnalisée."
+  },
+  {
+    "question": "30 - Selon Fize (2003), aujourd’hui la mixité est considérée principalement comme :",
+    "options": [
+      "Un grand principe fondateur de l’école moderne",
+      "Une modalité du fonctionnement de l’éducation nationale",
+      "Un principe religieux",
+      "Une expérimentation pédagogique marginale"
+    ],
+    "answerIndex": 1,
+    "explication": "Pour Fize, la mixité est aujourd’hui davantage une règle de fonctionnement de l’école républicaine qu’un principe fondateur comme la laïcité ou l’égalité."
+  },
+  {
+    "question": "31 - Selon le rapport DEPP 2025, au collège, les filles :",
+    "options": [
+      "Ont de meilleurs résultats en français que les garçons",
+      "Ont de meilleurs résultats en mathématiques que les garçons",
+      "Ont des résultats inférieurs dans toutes les matières",
+      "Ont exactement les mêmes résultats que les garçons"
+    ],
+    "answerIndex": 0,
+    "explication": "Le rapport DEPP 2025 indique que les filles obtiennent de meilleurs résultats en français que les garçons, mais restent légèrement en retrait en mathématiques."
+  },
+  {
+    "question": "32 - Après le collège, les garçons s’orientent davantage que les filles vers :",
+    "options": [
+      "La voie générale",
+      "La voie professionnelle, notamment l’apprentissage",
+      "Les études de santé",
+      "Les filières littéraires"
+    ],
+    "answerIndex": 1,
+    "explication": "Après le collège, les garçons sont plus nombreux à s’orienter vers la voie professionnelle et l’apprentissage, tandis que les filles choisissent davantage la voie générale et technologique."
+  },
+  {
+    "question": "33 - Dans les filières scientifiques au lycée, les filles sont :",
+    "options": [
+      "Majoritaires dans toutes les spécialités",
+      "Absentes des filières scientifiques",
+      "Moins nombreuses sauf dans les domaines liés à la santé",
+      "Plus nombreuses en mathématiques pures"
+    ],
+    "answerIndex": 2,
+    "explication": "Les filles sont globalement moins nombreuses dans les filières scientifiques, à l’exception des domaines liés à la santé où elles sont davantage représentées."
+  },
+  {
+    "question": "34 - Selon les données récentes, au baccalauréat, les filles :",
+    "options": [
+      "Réussissent moins bien que les garçons",
+      "Ont moins de mentions",
+      "Sont moins admises en voie générale",
+      "Ont plus souvent le bac et obtiennent plus de mentions"
+    ],
+    "answerIndex": 3,
+    "explication": "Les statistiques montrent que les filles réussissent mieux au baccalauréat que les garçons et obtiennent plus fréquemment des mentions, quelle que soit la série."
+  },
+  {
+    "question": "35 - Quelle convention internationale de 1979 est mentionnée dans le cours ?",
+    "options": [
+      "La Convention sur les droits de l’enfant",
+      "La Convention sur l’élimination de toutes les formes de discriminations à l’égard des femmes",
+      "La Convention européenne des droits de l’homme",
+      "La Charte sociale européenne"
+    ],
+    "answerIndex": 1,
+    "explication": "La Convention des Nations unies de 1979 vise l’élimination de toutes les formes de discriminations à l’égard des femmes et constitue une référence dans les politiques éducatives d’égalité."
+  },
+  {
+    "question": "36 - Aujourd’hui, les établissements non mixtes se trouvent principalement :",
+    "options": [
+      "Dans l’enseignement public",
+      "Dans les universités",
+      "Dans l’enseignement privé hors contrat",
+      "Dans les écoles maternelles publiques"
+    ],
+    "answerIndex": 2,
+    "explication": "Les établissements non mixtes sont aujourd’hui très minoritaires et se trouvent principalement dans l’enseignement privé hors contrat."
+  },
+  {
+    "question": "37 - Selon le cours, les inégalités d’orientation scolaire ont un impact direct sur :",
+    "options": [
+      "Les vacances scolaires",
+      "La taille des établissements",
+      "Les inégalités de salaire et de carrière",
+      "Le nombre d’enseignants"
+    ],
+    "answerIndex": 2,
+    "explication": "Les choix d’orientation différenciés entre filles et garçons influencent directement les inégalités de salaire et de déroulement de carrière dans le monde professionnel."
+  },
+  {
+    "question": "38 - Adolphe Ferrière considère que la coéducation implique :",
+    "options": [
+      "Une éducation strictement identique pour les deux sexes",
+      "Une confrontation éducative accompagnée par un adulte conscient des enjeux",
+      "Une séparation stricte des rôles sociaux",
+      "Une suppression des différences entre sexes"
+    ],
+    "answerIndex": 1,
+    "explication": "Pour Ferrière, la coéducation ne signifie pas une éducation identique, mais une confrontation éducative où l’adulte joue un rôle central pour accompagner la mixité."
+  },
+  {
+    "question": "39 - Pourquoi peut-on dire que la mixité s’est imposée « sans débat » après la Seconde Guerre mondiale ?",
+    "options": [
+      "Parce qu’elle faisait l’unanimité idéologique",
+      "Parce qu’elle était imposée par l’Église",
+      "Parce qu’elle résultait surtout de contraintes économiques",
+      "Parce qu’elle était réclamée massivement par les élèves"
+    ],
+    "answerIndex": 2,
+    "explication": "La mixité s’est généralisée pour des raisons pratiques et économiques plus que par une réflexion pédagogique approfondie ou un consensus idéologique."
+  },
+  {
+    "question": "40 - Quelle est la mission actuelle de l’école concernant l’égalité filles-garçons ?",
+    "options": [
+      "Maintenir des programmes différenciés",
+      "Favoriser l’égalité et le respect mutuel entre les élèves",
+      "Supprimer toute distinction statistique",
+      "Imposer des classes non mixtes"
+    ],
+    "answerIndex": 1,
+    "explication": "L’école a aujourd’hui pour mission de favoriser l’égalité entre les filles et les garçons, de promouvoir le respect mutuel et de lutter contre les discriminations."
+  },
+  {
+    "question": "41 - Au XIXe siècle, pourquoi l’éducation des filles est-elle considérée comme relevant d’abord de la famille ?",
+    "options": [
+      "Parce que l’État interdisait leur scolarisation",
+      "Parce qu’on considérait leur rôle futur comme domestique",
+      "Parce qu’elles réussissaient moins bien que les garçons",
+      "Parce que les écoles étaient exclusivement religieuses"
+    ],
+    "answerIndex": 1,
+    "explication": "L’éducation des filles était pensée en fonction de leur rôle futur de gardiennes du foyer. Leur formation visait prioritairement la sphère domestique, ce qui justifiait un moindre investissement scolaire public."
+  },
+  {
+    "question": "42 - Que montre l’existence d’écoles mixtes dès 1860 dans les petites communes ?",
+    "options": [
+      "Une volonté politique forte d’égalité",
+      "Une anticipation des lois Ferry",
+      "Une expérimentation pédagogique libertaire",
+      "Une adaptation pragmatique à des contraintes locales"
+    ],
+    "answerIndex": 3,
+    "explication": "Les écoles mixtes rurales apparaissent surtout pour des raisons pratiques et économiques : manque de moyens et faibles effectifs obligeaient à regrouper filles et garçons."
+  },
+  {
+    "question": "43 - La loi Falloux (1850) impose quoi concernant l’enseignement des filles ?",
+    "options": [
+      "La création obligatoire d’une école de filles dans les communes importantes",
+      "L’interdiction des écoles mixtes",
+      "L’accès des filles au baccalauréat",
+      "La suppression des écoles religieuses"
+    ],
+    "answerIndex": 0,
+    "explication": "La loi Falloux (1850) impose la création d’écoles de filles dans les communes de plus de 800 habitants, renforçant l’encadrement scolaire féminin tout en maintenant une séparation des sexes."
+  },
+  {
+    "question": "44 - Pourquoi les résistances à la mixité ont-elles été plus fortes dans le secondaire que dans le primaire ?",
+    "options": [
+      "Parce que le secondaire concernait les élites et les adolescents",
+      "Parce que le primaire était obligatoire",
+      "Parce que les garçons refusaient la mixité",
+      "Parce que les filles étaient majoritaires"
+    ],
+    "answerIndex": 0,
+    "explication": "Le secondaire concernait davantage les élites et les adolescents, ce qui renforçait les craintes morales et sociales liées à la cohabitation des sexes."
+  },
+  {
+    "question": "45 - Selon les opposants à la mixité dans les années 1950-1960, quel était le principal risque ?",
+    "options": [
+      "Une baisse du niveau scientifique",
+      "Une distraction nuisible aux apprentissages",
+      "Une augmentation des inégalités sociales",
+      "Une perte d’autorité des enseignants"
+    ],
+    "answerIndex": 1,
+    "explication": "Les adversaires de la mixité craignaient que la présence conjointe des sexes entraîne des distractions et nuise au sérieux des apprentissages scolaires."
+  },
+  {
+    "question": "46 - Pour les défenseurs de la mixité dans les années 1960, celle-ci permettait :",
+    "options": [
+      "Une meilleure séparation des rôles sociaux",
+      "Une réduction des programmes scolaires",
+      "Un enrichissement intellectuel réciproque",
+      "Une spécialisation précoce des élèves"
+    ],
+    "answerIndex": 2,
+    "explication": "Les défenseurs soutenaient que la mixité favorisait l’émulation et l’enrichissement intellectuel réciproque entre filles et garçons."
+  },
+  {
+    "question": "47 - Quelle évolution caractérise l’accès des femmes à l’université à la fin du XIXe siècle ?",
+    "options": [
+      "Une ouverture progressive des facultés",
+      "Une fermeture complète des universités",
+      "Une obligation universitaire pour les femmes",
+      "Une suppression du baccalauréat féminin"
+    ],
+    "answerIndex": 0,
+    "explication": "Les facultés s’ouvrent progressivement aux femmes : sciences en 1867, lettres en 1871, droit en 1884, pharmacie en 1892, marquant une avancée importante."
+  },
+  {
+    "question": "48 - Pourquoi peut-on dire que la mixité est aujourd’hui davantage une règle qu’un principe fondateur ?",
+    "options": [
+      "Parce qu’elle est facultative",
+      "Parce qu’elle est moins importante que la laïcité et l’égalité",
+      "Parce qu’elle concerne uniquement le privé",
+      "Parce qu’elle a remplacé l’égalité"
+    ],
+    "answerIndex": 1,
+    "explication": "Selon Fize, la mixité est une modalité d’organisation du système éducatif, tandis que les principes fondateurs demeurent la laïcité et l’égalité."
+  },
+  {
+    "question": "49 - Quelle tension traverse toute l’histoire de la mixité scolaire ?",
+    "options": [
+      "Entre égalité formelle et différenciation réelle des parcours",
+      "Entre école publique et école privée",
+      "Entre villes et campagnes",
+      "Entre enseignants et parents"
+    ],
+    "answerIndex": 0,
+    "explication": "L’histoire de la mixité montre un écart entre l’égalité affichée (présence conjointe) et la persistance de différences de programmes, d’orientations et de trajectoires scolaires."
+  },
+  {
+    "question": "50 - L’évolution de la mixité en France montre qu’elle s’est principalement imposée :",
+    "options": [
+      "Par des choix pédagogiques anticipés",
+      "Par des revendications étudiantes massives",
+      "Par des contraintes économiques et sociales progressives",
+      "Par décision exclusive des familles"
+    ],
+    "answerIndex": 2,
+    "explication": "La mixité s’est installée progressivement sous l’effet de contraintes économiques, sociales et politiques plus que comme un projet éducatif initialement structuré."
+  },
+  {
+    "question": "51 - En quoi la coéducation dépasse-t-elle la simple coprésence des sexes ?",
+    "options": [
+      "Elle implique un projet éducatif réfléchi sur les relations entre sexes",
+      "Elle impose des classes séparées selon le niveau",
+      "Elle supprime toute différence pédagogique",
+      "Elle concerne uniquement l’enseignement religieux"
+    ],
+    "answerIndex": 0,
+    "explication": "La coéducation ne se limite pas à la présence conjointe des filles et des garçons : elle suppose une réflexion pédagogique sur la manière d’apprendre à vivre et interagir ensemble."
+  },
+  {
+    "question": "52 - Pourquoi le terme « mixité » a-t-il progressivement remplacé celui de « coéducation » ?",
+    "options": [
+      "Parce qu’il insiste davantage sur l’instruction morale",
+      "Parce qu’il renvoie à un simple état de mélange sans projet éducatif explicite",
+      "Parce qu’il est d’origine religieuse",
+      "Parce qu’il exclut toute idée d’égalité"
+    ],
+    "answerIndex": 1,
+    "explication": "Le terme « mixité » met l’accent sur la coexistence des sexes sans nécessairement inclure un projet pédagogique réfléchi, contrairement à la coéducation."
+  },
+  {
+    "question": "53 - Quelle contradiction apparaît dans la pensée de Condorcet ?",
+    "options": [
+      "Il refuse toute instruction pour les femmes",
+      "Il prône l’égalité mais maintient une finalité domestique pour les filles",
+      "Il défend l’enseignement religieux obligatoire",
+      "Il souhaite interdire la mixité"
+    ],
+    "answerIndex": 1,
+    "explication": "Condorcet défend l’instruction commune et l’égalité, mais accepte que l’éducation des filles ne nuise pas aux « bonheurs de la famille », montrant une tension entre égalité civique et rôle domestique."
+  },
+  {
+    "question": "54 - Pourquoi l’enseignement secondaire féminin du XIXe siècle excluait-il le latin et la philosophie ?",
+    "options": [
+      "Par manque d’enseignants qualifiés",
+      "Parce que ces disciplines étaient jugées inutiles aux rôles sociaux féminins",
+      "Pour réduire la durée des études",
+      "Pour favoriser les sciences expérimentales"
+    ],
+    "answerIndex": 1,
+    "explication": "Le latin et la philosophie étaient associés à la formation intellectuelle des élites masculines. Les exclure du programme féminin permettait de maintenir la différenciation des rôles sociaux."
+  },
+  {
+    "question": "55 - L’expérience du lycée de Saint-Maur-des-Fossés montre que :",
+    "options": [
+      "La mixité était institutionnalisée dès les années 1930",
+      "La mixité pouvait exister sans reconnaissance officielle",
+      "Les filles y étaient minoritaires",
+      "Les programmes y étaient différents"
+    ],
+    "answerIndex": 1,
+    "explication": "Ce lycée secondaire mixte a fonctionné pendant environ vingt ans sans que la mixité soit officiellement généralisée, montrant un décalage entre pratiques et institutions."
+  },
+  {
+    "question": "56 - En quoi la mixité peut-elle masquer des inégalités persistantes ?",
+    "options": [
+      "En supprimant les statistiques scolaires",
+      "En uniformisant totalement les parcours",
+      "En donnant l’illusion d’égalité malgré des orientations différenciées",
+      "En interdisant les comparaisons internationales"
+    ],
+    "answerIndex": 2,
+    "explication": "La simple présence conjointe ne garantit pas l’égalité réelle : les parcours, choix d’orientation et réussites restent souvent différenciés selon le sexe."
+  },
+  {
+    "question": "57 - Pourquoi la Première Guerre mondiale constitue-t-elle un tournant pour les femmes dans l’enseignement ?",
+    "options": [
+      "Elles remplacent les hommes mobilisés",
+      "Elles obtiennent immédiatement l’égalité salariale",
+      "Elles accèdent massivement aux postes de direction",
+      "Elles quittent le système éducatif"
+    ],
+    "answerIndex": 0,
+    "explication": "La mobilisation des hommes ouvre des postes aux femmes, qui entrent plus largement dans l’enseignement, souvent dans des conditions précaires."
+  },
+  {
+    "question": "58 - La généralisation de la mixité après 1945 s’explique principalement par :",
+    "options": [
+      "Une revendication féministe unifiée",
+      "Des considérations économiques et organisationnelles",
+      "Une réforme religieuse",
+      "Une pression internationale immédiate"
+    ],
+    "answerIndex": 1,
+    "explication": "Après 1945, la mixité s’impose surtout pour des raisons pratiques (gestion des effectifs, coûts), plus que par une réflexion idéologique structurée."
+  },
+  {
+    "question": "59 - Quel paradoxe caractérise les résultats scolaires actuels des filles ?",
+    "options": [
+      "Elles réussissent moins bien dans toutes les disciplines",
+      "Elles réussissent mieux scolairement mais restent minoritaires dans certaines filières prestigieuses",
+      "Elles abandonnent plus tôt l’école",
+      "Elles sont exclues des études supérieures"
+    ],
+    "answerIndex": 1,
+    "explication": "Malgré de meilleurs résultats globaux (bac, mentions), les filles restent sous-représentées dans certaines filières scientifiques et techniques valorisées."
+  },
+  {
+    "question": "60 - En quoi les choix d’orientation au lycée prolongent-ils les inégalités ?",
+    "options": [
+      "Ils sont totalement neutres",
+      "Ils suppriment les écarts professionnels",
+      "Ils influencent les trajectoires professionnelles futures",
+      "Ils empêchent l’accès à l’université"
+    ],
+    "answerIndex": 2,
+    "explication": "Les choix d’orientation déterminent en partie les études supérieures et les carrières, contribuant ainsi aux écarts de salaires et de positions sociales."
+  },
+  {
+    "question": "61 - La notion de « neutralité de l’élève » critiquée par Mosconi signifie que :",
+    "options": [
+      "Les différences de genre sont ignorées au nom de l’égalité formelle",
+      "Les élèves sont séparés selon leur niveau",
+      "Les enseignants sont neutres politiquement",
+      "Les programmes sont identiques partout"
+    ],
+    "answerIndex": 0,
+    "explication": "Considérer l’élève comme neutre revient à ignorer les différences sociales et de genre, ce qui peut empêcher de traiter les inégalités réelles."
+  },
+  {
+    "question": "62 - Pourquoi la mixité peut-elle être considérée comme une « utopie » chez certains pédagogues ?",
+    "options": [
+      "Parce qu’elle nie toute différence biologique",
+      "Parce qu’elle vise un idéal d’égalité difficile à réaliser pleinement",
+      "Parce qu’elle est interdite par la loi",
+      "Parce qu’elle supprime l’autorité adulte"
+    ],
+    "answerIndex": 1,
+    "explication": "Dans le sens d’utopie, la mixité porte un idéal social d’égalité et d’émancipation qui se heurte aux réalités sociales et culturelles."
+  },
+  {
+    "question": "63 - Quel est l’effet des stéréotypes de genre dans les manuels scolaires anciens ?",
+    "options": [
+      "Ils renforcent la neutralité éducative",
+      "Ils contribuent à reproduire les rôles sociaux sexués",
+      "Ils favorisent l’égalité professionnelle",
+      "Ils disparaissent dès 1900"
+    ],
+    "answerIndex": 1,
+    "explication": "Les manuels anciens présentent souvent des représentations différenciées des rôles masculins et féminins, participant à la reproduction des normes sociales."
+  },
+  {
+    "question": "64 - Pourquoi la mixité ne suffit-elle pas à garantir l’égalité réelle ?",
+    "options": [
+      "Parce qu’elle concerne uniquement le primaire",
+      "Parce que les inégalités sociales et culturelles persistent",
+      "Parce qu’elle interdit la réussite scolaire",
+      "Parce qu’elle réduit la durée des études"
+    ],
+    "answerIndex": 1,
+    "explication": "La mixité spatiale n’efface pas les stéréotypes, les choix d’orientation différenciés et les inégalités sociales qui influencent les trajectoires."
+  },
+  {
+    "question": "65 - Quel principe reste central dans l’école républicaine selon Fize ?",
+    "options": [
+      "La spécialisation précoce",
+      "La laïcité et l’égalité",
+      "La séparation des sexes",
+      "La sélection élitiste"
+    ],
+    "answerIndex": 1,
+    "explication": "Pour Fize, les principes fondamentaux de l’école moderne restent la laïcité et l’égalité, la mixité étant une modalité d’organisation."
+  },
+  {
+    "question": "66 - L’histoire de la mixité révèle une tension constante entre :",
+    "options": [
+      "Ville et campagne",
+      "Public et privé",
+      "Égalité proclamée et différenciation effective",
+      "École et famille"
+    ],
+    "answerIndex": 2,
+    "explication": "La mixité affiche une égalité formelle, mais les pratiques et orientations montrent des différenciations persistantes."
+  },
+  {
+    "question": "67 - Pourquoi les filles sont-elles plus nombreuses à obtenir des mentions au baccalauréat ?",
+    "options": [
+      "Parce qu’elles choisissent davantage la voie professionnelle",
+      "Parce que leurs résultats scolaires moyens sont globalement meilleurs",
+      "Parce que les critères d’évaluation sont différents",
+      "Parce que les garçons sont exclus de certaines épreuves"
+    ],
+    "answerIndex": 1,
+    "explication": "Les données montrent que les filles réussissent globalement mieux au baccalauréat, ce qui se traduit par un nombre plus élevé de mentions."
+  },
+  {
+    "question": "68 - La mixité scolaire peut être vue comme un outil de démocratie car elle :",
+    "options": [
+      "Sépare les élèves selon leurs compétences",
+      "Favorise l’apprentissage du vivre-ensemble entre sexes",
+      "Réduit la durée des études",
+      "Supprime les différences culturelles"
+    ],
+    "answerIndex": 1,
+    "explication": "La mixité favorise la rencontre et l’apprentissage du respect mutuel entre filles et garçons, contribuant à une culture démocratique."
+  },
+  {
+    "question": "69 - Quelle limite actuelle demeure malgré les progrès en matière de mixité ?",
+    "options": [
+      "L’interdiction d’accès à l’université pour les femmes",
+      "La disparition des écoles publiques",
+      "La persistance d’inégalités professionnelles entre femmes et hommes",
+      "L’absence totale de statistiques sexuées"
+    ],
+    "answerIndex": 2,
+    "explication": "Malgré la réussite scolaire des filles, les inégalités salariales et professionnelles persistent, montrant que l’égalité scolaire ne garantit pas l’égalité sociale."
+  },
+  {
+    "question": "70 - L’ensemble du cours montre que la mixité est :",
+    "options": [
+      "Un processus historique progressif et ambivalent",
+      "Une réforme rapide et unanimement acceptée",
+      "Une mesure exclusivement religieuse",
+      "Un principe appliqué dès la Révolution sans résistance"
+    ],
+    "answerIndex": 0,
+    "explication": "La mixité s’est construite progressivement, entre avancées, résistances, motivations économiques et idéaux d’égalité, ce qui en fait un processus historique complexe et ambivalent."
+  }
+
+]

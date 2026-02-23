@@ -1,0 +1,774 @@
+[
+  {
+    "question": "1 - Que signifie le terme \"Renaissance\" dans le contexte du cours ?",
+    "options": [
+      "Une révolution scientifique",
+      "La redécouverte et la réappropriation de l’Antiquité après le Moyen Âge",
+      "La naissance de l’art gothique",
+      "La disparition des références religieuses"
+    ],
+    "answerIndex": 1,
+    "explication": "La Renaissance désigne une période de redécouverte des textes, des valeurs et des formes artistiques de l’Antiquité, après ce qui est perçu comme un temps de rupture durant le Moyen Âge."
+  },
+  {
+    "question": "2 - Quelle division historique Leonardo Bruni propose-t-il ?",
+    "options": [
+      "Antique – moderne – contemporain",
+      "Païen – chrétien – humaniste",
+      "Antique – médiane (Moyen Âge) – moderne",
+      "Mythique – classique – baroque"
+    ],
+    "answerIndex": 2,
+    "explication": "Leonardo Bruni structure l’histoire en trois périodes : l’Antiquité, un âge médian (le Moyen Âge) et l’époque moderne. Cette périodisation contribue à l’idée de Renaissance comme renouveau."
+  },
+  {
+    "question": "3 - Quel est le rôle des antiquaires à la Renaissance ?",
+    "options": [
+      "Ils détruisent les ruines antiques",
+      "Ils copient uniquement des œuvres religieuses",
+      "Ils peignent des fresques monumentales",
+      "Ils étudient les vestiges matériels de l’Antiquité"
+    ],
+    "answerIndex": 3,
+    "explication": "Les antiquaires sont des érudits qui s’intéressent aux traces matérielles de l’Antiquité (ruines, inscriptions, objets). Ils sont considérés comme les précurseurs de l’archéologie moderne."
+  },
+  {
+    "question": "4 - Quelle innovation artistique majeure apparaît à la Renaissance ?",
+    "options": [
+      "La perspective mathématique",
+      "L’abstraction totale",
+      "La disparition du fond",
+      "Le refus de la profondeur"
+    ],
+    "answerIndex": 0,
+    "explication": "La perspective mathématique, développée notamment par Brunelleschi, permet de représenter un espace cohérent et unifié, donnant une illusion réaliste de profondeur."
+  },
+  {
+    "question": "5 - Comment Alberti définit-il le tableau dans \"De pictura\" ?",
+    "options": [
+      "Comme un symbole religieux uniquement",
+      "Comme une fenêtre ouverte sur le monde",
+      "Comme un objet décoratif",
+      "Comme une copie exacte de la nature"
+    ],
+    "answerIndex": 1,
+    "explication": "Alberti compare le tableau à une « fenêtre ouverte sur le monde », soulignant que la peinture doit créer l’illusion d’un espace réel et structuré."
+  },
+  {
+    "question": "6 - Que signifie l’expression latine \"ut pictura poesis\" ?",
+    "options": [
+      "La peinture doit imiter la nature",
+      "La poésie est supérieure à la peinture",
+      "La poésie est comme la peinture",
+      "La peinture est une science mathématique"
+    ],
+    "answerIndex": 2,
+    "explication": "Cette formule d’Horace signifie « la poésie est comme la peinture ». Elle établit une analogie entre les deux arts et contribue à élever la peinture au rang d’art libéral."
+  },
+  {
+    "question": "7 - Quelle fonction principale les ruines remplissent-elles dans la peinture de la Renaissance ?",
+    "options": [
+      "Un simple décor sans signification",
+      "Un moyen d’illustrer la richesse du peintre",
+      "Une preuve d’abandon urbain",
+      "Un procédé de narrativisation et de structuration spatiale"
+    ],
+    "answerIndex": 3,
+    "explication": "Les ruines structurent l’espace du tableau, organisent la scène et portent une signification symbolique. Elles participent pleinement au récit pictural."
+  },
+  {
+    "question": "8 - Quel artiste est associé à l’invention de la perspective mathématique ?",
+    "options": [
+      "Filippo Brunelleschi",
+      "Giotto",
+      "Botticelli",
+      "Ghirlandaio"
+    ],
+    "answerIndex": 0,
+    "explication": "Filippo Brunelleschi est considéré comme l’inventeur de la perspective mathématique, qui permet une représentation géométrique et cohérente de l’espace."
+  },
+  {
+    "question": "9 - Pourquoi la Donation de Constantin est-elle importante dans le contexte du cours ?",
+    "options": [
+      "Elle prouve l’existence de l’Empire byzantin",
+      "Elle justifie historiquement les prétentions territoriales du pape",
+      "Elle fonde l’architecture gothique",
+      "Elle marque la fin de la Renaissance"
+    ],
+    "answerIndex": 1,
+    "explication": "La Donation de Constantin est un faux document utilisé par la papauté pour légitimer son pouvoir politique et territorial. Elle montre comment l’Antiquité est mobilisée à des fins idéologiques."
+  },
+  {
+    "question": "10 - Que permettent les ruines antiques dans des œuvres comme celles de Botticelli ou Ghirlandaio ?",
+    "options": [
+      "De supprimer toute référence religieuse",
+      "D’effacer le passé antique",
+      "De relier l’Antiquité païenne au christianisme",
+      "De représenter uniquement des scènes mythologiques"
+    ],
+    "answerIndex": 2,
+    "explication": "Les ruines antiques servent à créer un dialogue symbolique entre le monde païen antique et la révélation chrétienne. Elles inscrivent le christianisme dans une continuité historique."
+  },
+  {
+    "question": "11 - Quel humaniste démontre en 1440 que la Donation de Constantin est un faux ?",
+    "options": [
+      "Leonardo Bruni",
+      "Pétrarque",
+      "Lorenzo Valla",
+      "Poggio Bracciolini"
+    ],
+    "answerIndex": 2,
+    "explication": "Lorenzo Valla démontre en 1440, grâce à une analyse philologique, que la Donation de Constantin est un faux document. Cette critique humaniste montre l’importance du retour aux sources et à la rigueur linguistique à la Renaissance."
+  },
+  {
+    "question": "12 - Quelle transformation majeure de l’espace pictural s’opère entre le Moyen Âge et la Renaissance ?",
+    "options": [
+      "On passe d’un espace symbolique et fragmenté à un espace unifié et cohérent",
+      "On abandonne toute profondeur",
+      "On supprime l’architecture des tableaux",
+      "On remplace les figures humaines par des symboles"
+    ],
+    "answerIndex": 0,
+    "explication": "L’espace médiéval est souvent multiple et hiérarchisé symboliquement. À la Renaissance, l’espace devient unifié grâce à la perspective mathématique, créant une illusion réaliste de profondeur."
+  },
+  {
+    "question": "13 - Que signifie le terme latin \"media aetatis\" utilisé par Bruni ?",
+    "options": [
+      "Âge d’or",
+      "Moyen Âge",
+      "Nouvel Âge",
+      "Âge mythologique"
+    ],
+    "answerIndex": 1,
+    "explication": "Media aetatis signifie littéralement « âge médian ». Il désigne le Moyen Âge, considéré par les humanistes comme une période intermédiaire entre l’Antiquité et l’époque moderne."
+  },
+  {
+    "question": "14 - Quelle est la fonction de la perspective dans la peinture de Masaccio ?",
+    "options": [
+      "Décorer l’arrière-plan",
+      "Créer une illusion d’espace cohérent et réaliste",
+      "Accentuer les couleurs",
+      "Effacer la narration"
+    ],
+    "answerIndex": 1,
+    "explication": "Masaccio applique la perspective mathématique pour donner profondeur et cohérence à ses compositions. Elle organise l’espace autour d’un point de fuite unique."
+  },
+  {
+    "question": "15 - Pourquoi la doctrine de l’\"ut pictura poesis\" est-elle importante pour le statut de la peinture ?",
+    "options": [
+      "Elle subordonne la peinture à la poésie",
+      "Elle limite la peinture au décor religieux",
+      "Elle élève la peinture au rang d’art libéral",
+      "Elle interdit l’usage de la perspective"
+    ],
+    "answerIndex": 2,
+    "explication": "En assimilant la peinture à la poésie, considérée comme un art noble, cette doctrine permet de faire passer la peinture du statut d’art mécanique à celui d’art libéral."
+  },
+  {
+    "question": "16 - Parmi les catégories rhétoriques, laquelle correspond à la composition en peinture selon Alberti ?",
+    "options": [
+      "Memoria",
+      "Elocutio",
+      "Inventio",
+      "Dispositio"
+    ],
+    "answerIndex": 3,
+    "explication": "Chez Alberti, la Dispositio correspond à la compositio, c’est-à-dire l’organisation des éléments dans le tableau. Elle structure la narration visuelle."
+  },
+  {
+    "question": "17 - Quel rôle joue la lumière (lume) dans la théorie picturale d’Alberti ?",
+    "options": [
+      "Elle correspond à l’Elocutio et donne éclat et expressivité",
+      "Elle remplace totalement le dessin",
+      "Elle supprime la profondeur",
+      "Elle efface les figures secondaires"
+    ],
+    "answerIndex": 0,
+    "explication": "La lumière (lume) correspond à l’Elocutio en rhétorique. Elle donne éclat, relief et expressivité à la scène, participant à la dimension narrative."
+  },
+  {
+    "question": "18 - Dans les fresques de Botticelli à la Chapelle Sixtine, les ruines renvoient principalement à :",
+    "options": [
+      "La chute de l’Empire byzantin",
+      "La continuité entre Antiquité romaine et pouvoir chrétien",
+      "La fin du monde",
+      "La destruction de Jérusalem uniquement"
+    ],
+    "answerIndex": 1,
+    "explication": "Les ruines comme l’Arc de Constantin symbolisent la continuité entre Rome antique et Rome chrétienne, renforçant la légitimité du pouvoir pontifical."
+  },
+  {
+    "question": "19 - Pourquoi les antiquaires sont-ils considérés comme les précurseurs de l’archéologie ?",
+    "options": [
+      "Parce qu’ils reconstruisent les monuments détruits",
+      "Parce qu’ils peignent les ruines",
+      "Parce qu’ils étudient méthodiquement les vestiges matériels",
+      "Parce qu’ils écrivent des romans historiques"
+    ],
+    "answerIndex": 2,
+    "explication": "Les antiquaires collectent, analysent et interprètent les vestiges matériels de l’Antiquité. Leur démarche érudite annonce la méthode archéologique moderne."
+  },
+  {
+    "question": "20 - Quel est l’effet narratif principal de l’introduction des ruines dans une scène religieuse ?",
+    "options": [
+      "Supprimer toute référence antique",
+      "Créer un contraste temporel et symbolique entre passé et présent",
+      "Simplifier la composition",
+      "Rendre la scène abstraite"
+    ],
+    "answerIndex": 1,
+    "explication": "Les ruines introduisent une profondeur historique. Elles mettent en relation le passé antique et l’événement chrétien représenté, renforçant la dimension symbolique et narrative."
+  },
+  {
+    "question": "21 - Quel rôle joue Pétrarque dans la redécouverte de l’Antiquité ?",
+    "options": [
+      "Il détruit des manuscrits médiévaux",
+      "Il redécouvre et valorise les textes antiques",
+      "Il invente la perspective",
+      "Il fonde l’architecture gothique"
+    ],
+    "answerIndex": 1,
+    "explication": "Pétrarque est l’un des premiers humanistes à redécouvrir et valoriser les textes antiques. Il distingue les œuvres antiques des œuvres modernes et contribue à l’idée de renaissance culturelle."
+  },
+  {
+    "question": "22 - Pourquoi les ruines fascinent-elles les artistes de la Renaissance ?",
+    "options": [
+      "Parce qu’elles sont inutiles",
+      "Parce qu’elles permettent d’effacer le passé",
+      "Parce qu’elles témoignent de la grandeur antique et structurent l’espace pictural",
+      "Parce qu’elles remplacent les figures humaines"
+    ],
+    "answerIndex": 2,
+    "explication": "Les ruines incarnent la grandeur de Rome antique tout en servant d’éléments structurants dans la composition. Elles ont une valeur esthétique, historique et symbolique."
+  },
+  {
+    "question": "23 - Quelle œuvre théorique d’Alberti structure la réflexion sur la peinture ?",
+    "options": [
+      "De Architectura",
+      "De Oratore",
+      "De pictura",
+      "Ars Poetica"
+    ],
+    "answerIndex": 2,
+    "explication": "Dans De pictura (1435), Alberti élabore une théorie de la peinture fondée sur la perspective, la composition et l’analogie avec la rhétorique."
+  },
+  {
+    "question": "24 - Quelle est la principale différence entre fresques médiévales et peintures renaissantes ?",
+    "options": [
+      "Les fresques médiévales utilisent la perspective mathématique",
+      "Les peintures renaissantes abandonnent toute narration",
+      "Les fresques médiévales privilégient un espace hiérarchisé et symbolique",
+      "Les peintures renaissantes refusent la profondeur"
+    ],
+    "answerIndex": 2,
+    "explication": "Les fresques médiévales organisent l’espace selon une hiérarchie symbolique. À la Renaissance, l’espace devient cohérent et mathématiquement structuré."
+  },
+  {
+    "question": "25 - Quelle catégorie rhétorique correspond au choix du sujet en peinture ?",
+    "options": [
+      "Inventio",
+      "Dispositio",
+      "Actio",
+      "Memoria"
+    ],
+    "answerIndex": 0,
+    "explication": "L’Inventio correspond à la recherche et au choix du sujet. En peinture, elle détermine le thème représenté et les éléments à inclure dans la scène."
+  },
+  {
+    "question": "26 - Quel est l’objectif principal de la perspective mathématique ?",
+    "options": [
+      "Multiplier les points de vue",
+      "Créer une illusion réaliste de profondeur",
+      "Supprimer l’architecture",
+      "Accentuer les couleurs vives"
+    ],
+    "answerIndex": 1,
+    "explication": "La perspective mathématique permet d’organiser l’espace autour d’un point de fuite unique afin de produire une illusion réaliste de profondeur."
+  },
+  {
+    "question": "27 - Pourquoi la Donation de Constantin est-elle utilisée dans l’iconographie renaissante ?",
+    "options": [
+      "Pour critiquer la papauté",
+      "Pour représenter un événement mythologique",
+      "Pour légitimer le pouvoir politique du pape",
+      "Pour illustrer la chute de Rome"
+    ],
+    "answerIndex": 2,
+    "explication": "La Donation de Constantin, bien que fausse, sert à justifier les prétentions territoriales et politiques du pape en s’appuyant sur l’autorité de l’Antiquité."
+  },
+  {
+    "question": "28 - Quel est l’effet produit par l’intégration d’architectures antiques dans une scène chrétienne ?",
+    "options": [
+      "Créer un dialogue symbolique entre Antiquité et christianisme",
+      "Supprimer toute référence historique",
+      "Détruire la cohérence narrative",
+      "Limiter la scène à un décor neutre"
+    ],
+    "answerIndex": 0,
+    "explication": "L’intégration d’architectures antiques crée une continuité symbolique entre le monde païen et la révélation chrétienne, renforçant la profondeur historique de la scène."
+  },
+  {
+    "question": "29 - Quelle fonction remplit la Dispositio dans la théorie d’Alberti ?",
+    "options": [
+      "Elle correspond à la lumière",
+      "Elle organise la composition du tableau",
+      "Elle définit le support matériel",
+      "Elle concerne la mémoire du peintre"
+    ],
+    "answerIndex": 1,
+    "explication": "La Dispositio correspond à la compositio : l’organisation des figures et des éléments dans l’espace du tableau afin de structurer la narration."
+  },
+  {
+    "question": "30 - En quoi les ruines participent-elles à la narrativisation ?",
+    "options": [
+      "Elles effacent le récit",
+      "Elles remplacent les personnages principaux",
+      "Elles ajoutent une profondeur historique et symbolique au récit",
+      "Elles interdisent l’usage de la perspective"
+    ],
+    "answerIndex": 2,
+    "explication": "Les ruines enrichissent la narration en inscrivant la scène dans une temporalité longue. Elles évoquent le passé antique et donnent une dimension symbolique supplémentaire."
+  },
+
+  {
+    "question": "31 - Quel lien établit la Renaissance entre Antiquité et modernité ?",
+    "options": [
+      "Une rupture totale avec l’Antiquité",
+      "Une continuité assumée et réinterprétée",
+      "Un rejet des modèles antiques",
+      "Une indifférence au passé"
+    ],
+    "answerIndex": 1,
+    "explication": "La Renaissance ne copie pas simplement l’Antiquité : elle la réinterprète pour fonder une modernité nouvelle, fondée sur l’humanisme et le retour aux sources."
+  },
+  {
+    "question": "32 - Pourquoi peut-on dire que les ruines structurent l’espace pictural ?",
+    "options": [
+      "Elles servent de repères architecturaux organisant la profondeur",
+      "Elles effacent les personnages",
+      "Elles suppriment la perspective",
+      "Elles remplacent la lumière"
+    ],
+    "answerIndex": 0,
+    "explication": "Les ruines agissent comme des éléments architecturaux qui guident le regard et organisent la profondeur, contribuant à la cohérence spatiale du tableau."
+  },
+  {
+    "question": "33 - Quel est l’objectif de l’Elocutio en rhétorique, transposé à la peinture ?",
+    "options": [
+      "Choisir le sujet",
+      "Organiser la composition",
+      "Donner éclat et expressivité",
+      "Apprendre par cœur le discours"
+    ],
+    "answerIndex": 2,
+    "explication": "L’Elocutio correspond au style et à l’expression. En peinture, elle se traduit par la lumière, la couleur et les effets visuels qui donnent force et intensité à la scène."
+  },
+  {
+    "question": "34 - Quelle évolution marque le passage de Giotto à Masaccio ?",
+    "options": [
+      "Le retour à un espace symbolique médiéval",
+      "L’abandon des figures humaines",
+      "La suppression de l’architecture",
+      "L’affirmation d’une perspective mathématique cohérente"
+    ],
+    "answerIndex": 3,
+    "explication": "Giotto amorce une évolution vers le réalisme, mais Masaccio affirme pleinement la perspective mathématique, donnant une cohérence spatiale rigoureuse à ses compositions."
+  },
+  {
+    "question": "35 - Pourquoi la peinture était-elle considérée comme un art mécanique au Moyen Âge ?",
+    "options": [
+      "Parce qu’elle relevait d’un travail manuel",
+      "Parce qu’elle était interdite par l’Église",
+      "Parce qu’elle ne représentait que des paysages",
+      "Parce qu’elle était réservée aux nobles"
+    ],
+    "answerIndex": 0,
+    "explication": "Au Moyen Âge, la peinture est perçue comme un travail manuel relevant des arts mécaniques. La Renaissance cherche à l’élever au rang d’art libéral grâce à la théorie et à la rhétorique."
+  },
+  {
+    "question": "36 - Que symbolisent les ruines antiques dans une scène chrétienne ?",
+    "options": [
+      "La supériorité du paganisme",
+      "La continuité historique entre Rome antique et christianisme",
+      "La fin de toute croyance religieuse",
+      "La destruction du monde moderne"
+    ],
+    "answerIndex": 1,
+    "explication": "Les ruines antiques symbolisent le passage d’un monde païen à un monde chrétien. Elles inscrivent le christianisme dans une continuité historique et politique."
+  },
+  {
+    "question": "37 - Quel est le lien entre humanisme et étude des ruines ?",
+    "options": [
+      "L’humanisme ignore les vestiges matériels",
+      "L’humanisme valorise les sources antiques, y compris les vestiges matériels",
+      "L’humanisme rejette toute trace du passé",
+      "L’humanisme supprime l’étude de l’histoire"
+    ],
+    "answerIndex": 1,
+    "explication": "L’humanisme prône le retour aux sources antiques. Cela inclut non seulement les textes mais aussi les vestiges matériels étudiés par les antiquaires."
+  },
+  {
+    "question": "38 - Quelle est la finalité narrative de la peinture selon Alberti ?",
+    "options": [
+      "Créer une histoire visible et compréhensible",
+      "Supprimer toute dimension symbolique",
+      "Refuser la composition",
+      "Limiter la peinture à la décoration"
+    ],
+    "answerIndex": 0,
+    "explication": "Pour Alberti, la peinture doit raconter une histoire de manière claire et organisée. Elle fonctionne comme un discours visuel structuré."
+  },
+  {
+    "question": "39 - Pourquoi les ruines renforcent-elles la profondeur temporelle d’une œuvre ?",
+    "options": [
+      "Parce qu’elles effacent toute référence historique",
+      "Parce qu’elles évoquent un passé ancien intégré au présent de la scène",
+      "Parce qu’elles suppriment la narration",
+      "Parce qu’elles interdisent toute symbolique"
+    ],
+    "answerIndex": 1,
+    "explication": "Les ruines introduisent une dimension historique dans l’image. Elles rappellent l’Antiquité et mettent en relation différents temps au sein d’une même composition."
+  },
+  {
+    "question": "40 - En quoi la perspective contribue-t-elle à la révolution artistique de la Renaissance ?",
+    "options": [
+      "Elle fragmente l’espace",
+      "Elle supprime les figures secondaires",
+      "Elle unifie l’espace autour d’un point de fuite",
+      "Elle efface toute architecture"
+    ],
+    "answerIndex": 2,
+    "explication": "La perspective mathématique unifie l’espace pictural autour d’un point de fuite unique, créant une représentation cohérente et rationnelle du monde visible."
+  },
+  {
+    "question": "41 - Quelle est la principale caractéristique de l’espace pictural médiéval ?",
+    "options": [
+      "Un espace mathématiquement unifié",
+      "Un espace fragmenté et hiérarchisé symboliquement",
+      "Un espace entièrement abstrait",
+      "Un espace fondé sur un point de fuite unique"
+    ],
+    "answerIndex": 1,
+    "explication": "L’espace médiéval est organisé de manière symbolique et hiérarchisée. Il ne cherche pas à reproduire une profondeur réaliste mais à exprimer un ordre spirituel."
+  },
+  {
+    "question": "42 - Quel est l’effet du point de fuite dans la perspective renaissante ?",
+    "options": [
+      "Il organise toutes les lignes vers un même centre visuel",
+      "Il supprime l’illusion de profondeur",
+      "Il efface les personnages secondaires",
+      "Il fragmente la composition"
+    ],
+    "answerIndex": 0,
+    "explication": "Le point de fuite concentre les lignes de perspective vers un même endroit, créant une cohérence spatiale et une illusion de profondeur réaliste."
+  },
+  {
+    "question": "43 - Pourquoi les humanistes accordent-ils une grande importance aux manuscrits antiques ?",
+    "options": [
+      "Parce qu’ils veulent les censurer",
+      "Parce qu’ils représentent une source de savoir et de culture antique",
+      "Parce qu’ils remplacent les œuvres d’art",
+      "Parce qu’ils interdisent toute innovation"
+    ],
+    "answerIndex": 1,
+    "explication": "Les manuscrits antiques sont perçus comme des sources authentiques de savoir. Leur redécouverte permet aux humanistes de renouer avec la pensée et la culture classiques."
+  },
+  {
+    "question": "44 - Quelle dimension supplémentaire les ruines apportent-elles à une scène religieuse ?",
+    "options": [
+      "Une simplification narrative",
+      "Une suppression du passé",
+      "Une profondeur historique et symbolique",
+      "Une absence de signification"
+    ],
+    "answerIndex": 2,
+    "explication": "Les ruines introduisent une profondeur temporelle en reliant l’événement représenté à l’Antiquité. Elles enrichissent la signification religieuse et politique de la scène."
+  },
+  {
+    "question": "45 - Quelle est la correspondance picturale de l’Inventio selon Alberti ?",
+    "options": [
+      "La lumière",
+      "La composition",
+      "Le tracé et le contour",
+      "La mémoire"
+    ],
+    "answerIndex": 2,
+    "explication": "L’Inventio correspond à la circonscritio, c’est-à-dire le dessin et le contour. Elle concerne le choix et la définition des éléments représentés."
+  },
+  {
+    "question": "46 - En quoi la Renaissance transforme-t-elle le statut de l’artiste ?",
+    "options": [
+      "L’artiste reste un simple artisan",
+      "L’artiste devient un intellectuel et théoricien",
+      "L’artiste abandonne toute formation technique",
+      "L’artiste refuse la perspective"
+    ],
+    "answerIndex": 1,
+    "explication": "Grâce aux théories comme celles d’Alberti, l’artiste n’est plus seulement un artisan : il devient un créateur savant, maîtrisant mathématiques, rhétorique et composition."
+  },
+  {
+    "question": "47 - Quelle est la fonction politique des ruines dans certaines œuvres de la Renaissance ?",
+    "options": [
+      "Critiquer systématiquement l’Antiquité",
+      "Montrer la décadence artistique",
+      "Légitimer un pouvoir en s’appuyant sur l’héritage antique",
+      "Supprimer toute référence au passé"
+    ],
+    "answerIndex": 2,
+    "explication": "Les ruines peuvent servir à légitimer un pouvoir contemporain, notamment celui du pape, en établissant une continuité symbolique avec l’Empire romain."
+  },
+  {
+    "question": "48 - Quel est l’objectif principal de la compositio (Dispositio) dans un tableau ?",
+    "options": [
+      "Organiser les éléments pour rendre le récit clair",
+      "Effacer la profondeur",
+      "Multiplier les sujets",
+      "Remplacer la perspective"
+    ],
+    "answerIndex": 0,
+    "explication": "La compositio organise les figures et les éléments dans l’espace afin de rendre la scène compréhensible et harmonieuse."
+  },
+  {
+    "question": "49 - En quoi les ruines participent-elles à la structuration visuelle ?",
+    "options": [
+      "Elles guident le regard du spectateur",
+      "Elles suppriment l’architecture",
+      "Elles rendent l’image abstraite",
+      "Elles remplacent les personnages"
+    ],
+    "answerIndex": 0,
+    "explication": "Les ruines servent de repères visuels et architecturaux. Elles orientent le regard et contribuent à l’organisation spatiale du tableau."
+  },
+  {
+    "question": "50 - Quelle idée centrale résume la révolution artistique de la Renaissance ?",
+    "options": [
+      "Le refus de toute tradition",
+      "L’abandon de la narration",
+      "La rationalisation et l’unification de l’espace pictural",
+      "La suppression de l’Antiquité"
+    ],
+    "answerIndex": 2,
+    "explication": "La Renaissance introduit une rationalisation de l’espace grâce à la perspective et à la théorie artistique. L’espace devient cohérent, mesurable et unifié."
+  },
+  {
+    "question": "51 - Pourquoi peut-on dire que la Renaissance est un mouvement humaniste ?",
+    "options": [
+      "Parce qu’elle valorise le retour aux textes et savoirs antiques",
+      "Parce qu’elle supprime toute référence religieuse",
+      "Parce qu’elle refuse l’étude du passé",
+      "Parce qu’elle privilégie uniquement l’oralité"
+    ],
+    "answerIndex": 0,
+    "explication": "La Renaissance est humaniste car elle valorise le retour aux textes antiques, à la philologie et à l’étude critique des sources, plaçant l’être humain et le savoir au centre de la réflexion."
+  },
+  {
+    "question": "52 - Quel est le lien entre rhétorique et peinture selon Alberti ?",
+    "options": [
+      "Aucun lien n’existe",
+      "La peinture fonctionne comme un discours structuré",
+      "La peinture remplace totalement la rhétorique",
+      "La rhétorique interdit la représentation visuelle"
+    ],
+    "answerIndex": 1,
+    "explication": "Alberti établit une analogie entre rhétorique et peinture : comme un discours, le tableau doit être structuré (Inventio, Dispositio, Elocutio) pour raconter efficacement une histoire."
+  },
+  {
+    "question": "53 - Quel rôle joue l’architecture antique dans les tableaux renaissants ?",
+    "options": [
+      "Elle sert uniquement de décor neutre",
+      "Elle efface la dimension religieuse",
+      "Elle structure l’espace et renforce la symbolique",
+      "Elle supprime la profondeur"
+    ],
+    "answerIndex": 2,
+    "explication": "L’architecture antique organise l’espace perspectif tout en apportant une dimension symbolique liée à la grandeur passée de Rome."
+  },
+  {
+    "question": "54 - Quelle innovation distingue fondamentalement la peinture renaissante ?",
+    "options": [
+      "L’absence de narration",
+      "La suppression des figures humaines",
+      "La fragmentation de l’espace",
+      "L’usage scientifique de la perspective"
+    ],
+    "answerIndex": 3,
+    "explication": "La grande innovation est l’usage scientifique et mathématique de la perspective, qui permet de représenter un espace cohérent et mesurable."
+  },
+  {
+    "question": "55 - En quoi les ruines participent-elles à la mémoire collective ?",
+    "options": [
+      "Elles rappellent la grandeur et la continuité historique",
+      "Elles effacent le passé antique",
+      "Elles empêchent toute interprétation",
+      "Elles rendent la scène intemporelle"
+    ],
+    "answerIndex": 0,
+    "explication": "Les ruines sont des traces matérielles du passé. Elles incarnent la mémoire de l’Antiquité et permettent de l’intégrer visuellement au présent."
+  },
+  {
+    "question": "56 - Pourquoi la redécouverte des manuscrits antiques est-elle essentielle ?",
+    "options": [
+      "Elle permet d’interdire les œuvres médiévales",
+      "Elle offre un accès direct aux sources antiques",
+      "Elle remplace la peinture par l’écriture",
+      "Elle supprime la tradition chrétienne"
+    ],
+    "answerIndex": 1,
+    "explication": "La redécouverte des manuscrits antiques permet un accès direct aux textes originaux, favorisant une étude critique et érudite caractéristique de l’humanisme."
+  },
+  {
+    "question": "57 - Quelle est la fonction narrative principale d’un tableau selon la théorie renaissante ?",
+    "options": [
+      "Décorer un espace",
+      "Supprimer toute symbolique",
+      "Raconter une histoire claire et structurée",
+      "Effacer le contexte historique"
+    ],
+    "answerIndex": 2,
+    "explication": "La peinture doit raconter une histoire lisible. Elle fonctionne comme un discours visuel organisé, visant à transmettre un message compréhensible."
+  },
+  {
+    "question": "58 - Quel changement majeur affecte la représentation de l’espace à la Renaissance ?",
+    "options": [
+      "Le refus de toute profondeur",
+      "La multiplication anarchique des points de vue",
+      "La disparition des architectures",
+      "La centralisation autour d’un point de fuite unique"
+    ],
+    "answerIndex": 3,
+    "explication": "La centralisation de l’espace autour d’un point de fuite unique crée une cohérence visuelle et marque une rupture avec l’espace médiéval fragmenté."
+  },
+  {
+    "question": "59 - Pourquoi les ruines peuvent-elles être considérées comme un symbole de transition ?",
+    "options": [
+      "Elles représentent le passage d’un monde païen à un monde chrétien",
+      "Elles annoncent la fin de l’art",
+      "Elles détruisent la narration",
+      "Elles effacent toute référence religieuse"
+    ],
+    "answerIndex": 0,
+    "explication": "Les ruines symbolisent la transition entre l’Antiquité païenne et l’ère chrétienne, matérialisant le passage d’un ordre ancien à un nouvel ordre spirituel."
+  },
+  {
+    "question": "60 - Quelle idée résume le mieux l’intégration des ruines dans l’art renaissant ?",
+    "options": [
+      "Un simple goût pour le pittoresque",
+      "Un outil structurant et symbolique au service du récit",
+      "Une absence de signification",
+      "Un refus du passé antique"
+    ],
+    "answerIndex": 1,
+    "explication": "Les ruines ne sont pas de simples éléments décoratifs. Elles structurent l’espace, enrichissent la narration et renforcent la symbolique historique et religieuse."
+  },
+
+  {
+    "question": "61 - Pourquoi peut-on parler de \"révolution artistique\" à propos de la Renaissance ?",
+    "options": [
+      "Parce qu’elle abandonne toute référence antique",
+      "Parce qu’elle rationalise la représentation de l’espace et théorise l’art",
+      "Parce qu’elle supprime la narration",
+      "Parce qu’elle interdit l’architecture dans les tableaux"
+    ],
+    "answerIndex": 1,
+    "explication": "La Renaissance constitue une révolution artistique car elle introduit une représentation rationnelle de l’espace (perspective mathématique) et développe une véritable théorie de l’art, notamment avec Alberti."
+  },
+  {
+    "question": "62 - Quelle est la fonction principale de la circonscritio chez Alberti ?",
+    "options": [
+      "Organiser la composition",
+      "Définir le dessin et les contours des figures",
+      "Accentuer la lumière",
+      "Apprendre le discours par cœur"
+    ],
+    "answerIndex": 1,
+    "explication": "La circonscritio correspond au tracé et au contour des figures. Elle relève du dessin et correspond à l’Inventio dans l’analogie rhétorique d’Alberti."
+  },
+  {
+    "question": "63 - En quoi les ruines contribuent-elles à la cohérence visuelle d’un tableau ?",
+    "options": [
+      "Elles suppriment la profondeur",
+      "Elles rendent l’image abstraite",
+      "Elles servent d’éléments architecturaux structurants",
+      "Elles effacent les personnages principaux"
+    ],
+    "answerIndex": 2,
+    "explication": "Les ruines, en tant qu’éléments architecturaux, structurent l’espace perspectif. Elles contribuent à l’organisation visuelle et guident le regard du spectateur."
+  },
+  {
+    "question": "64 - Quel est le lien entre perspective et vision du monde à la Renaissance ?",
+    "options": [
+      "La perspective exprime une vision rationnelle et mesurable du monde",
+      "La perspective supprime toute logique spatiale",
+      "La perspective fragmente la réalité",
+      "La perspective refuse toute cohérence"
+    ],
+    "answerIndex": 0,
+    "explication": "La perspective mathématique traduit une vision rationnelle du monde, où l’espace peut être mesuré et organisé selon des lois géométriques."
+  },
+  {
+    "question": "65 - Pourquoi la peinture acquiert-elle un nouveau statut à la Renaissance ?",
+    "options": [
+      "Parce qu’elle devient purement décorative",
+      "Parce qu’elle est théorisée et rapprochée des arts libéraux",
+      "Parce qu’elle abandonne toute technique",
+      "Parce qu’elle refuse la narration"
+    ],
+    "answerIndex": 1,
+    "explication": "Grâce aux théories comme l’ut pictura poesis et aux écrits d’Alberti, la peinture est reconnue comme un art intellectuel, comparable à la poésie, et non plus seulement comme un art mécanique."
+  },
+  {
+    "question": "66 - Quel rôle joue la lumière dans la construction narrative d’un tableau ?",
+    "options": [
+      "Elle efface la composition",
+      "Elle supprime la profondeur",
+      "Elle met en valeur les éléments importants de la scène",
+      "Elle remplace le dessin"
+    ],
+    "answerIndex": 2,
+    "explication": "La lumière (lume) attire l’attention sur certains éléments, hiérarchise la scène et participe à l’expressivité du récit visuel."
+  },
+  {
+    "question": "67 - En quoi les ruines peuvent-elles être interprétées comme un signe de continuité ?",
+    "options": [
+      "Elles symbolisent la permanence d’un héritage antique intégré au présent",
+      "Elles marquent la fin de toute tradition",
+      "Elles détruisent la cohérence historique",
+      "Elles suppriment la symbolique religieuse"
+    ],
+    "answerIndex": 0,
+    "explication": "Les ruines incarnent l’héritage antique. Leur présence dans des scènes contemporaines ou chrétiennes montre une continuité entre passé et présent."
+  },
+  {
+    "question": "68 - Quel est l’effet de l’architecture antique dans la composition perspective ?",
+    "options": [
+      "Elle rend l’image plate",
+      "Elle renforce la profondeur et la structuration de l’espace",
+      "Elle supprime le point de fuite",
+      "Elle efface la narration"
+    ],
+    "answerIndex": 1,
+    "explication": "L’architecture antique, intégrée à la perspective, renforce la profondeur et l’organisation spatiale du tableau."
+  },
+  {
+    "question": "69 - Pourquoi peut-on dire que les ruines participent à une mise en scène du temps ?",
+    "options": [
+      "Parce qu’elles effacent toute référence historique",
+      "Parce qu’elles introduisent un dialogue entre passé et présent",
+      "Parce qu’elles suppriment la narration religieuse",
+      "Parce qu’elles rendent l’œuvre abstraite"
+    ],
+    "answerIndex": 1,
+    "explication": "Les ruines inscrivent le passé antique dans le présent de la scène représentée. Elles créent une superposition temporelle qui enrichit la signification de l’image."
+  },
+  {
+    "question": "70 - Quelle synthèse résume le mieux le rôle des ruines à la Renaissance ?",
+    "options": [
+      "Un élément purement décoratif",
+      "Un symbole de destruction sans signification",
+      "Un procédé esthétique, narratif et politique",
+      "Un rejet total de l’Antiquité"
+    ],
+    "answerIndex": 2,
+    "explication": "Les ruines remplissent plusieurs fonctions : elles structurent l’espace, enrichissent la narration et peuvent servir un discours politique ou religieux. Elles incarnent le dialogue entre Antiquité et modernité."
+  }
+]

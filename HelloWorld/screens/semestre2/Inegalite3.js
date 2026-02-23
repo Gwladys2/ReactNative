@@ -1,6 +1,6 @@
 import React, { useContext, useState } from 'react';
 import { View, Text, Button, StyleSheet, Alert } from 'react-native';
-import questions from '../../questions/Inegalite/serie1.json';
+import questions from '../../questions/Inegalite/serie3.json';
 import { ProgressContext } from '../../context/ProgressContext';
 import HeaderStats from '../../components/HeaderStats';
 import Logo from '../Logo';
@@ -65,7 +65,7 @@ export default function LessonScreen({ navigation }) {
             {!showRestart ? (
                 <>
                     
-                    <Text style={styles.titre}>Faire face aux inégalités. Penser le genre et bâtir une société inclusive: La place des femmes, une évolution encore trop silencieuse</Text>
+                    <Text style={styles.titre}>Faire face aux inégalités: l'orientation scolaire</Text>
 
                     <Text style={styles.question}>{current.question}</Text>
                     {current.options.map((option, i) => (
@@ -83,7 +83,7 @@ export default function LessonScreen({ navigation }) {
 
        <View style={styles.linkContainer}>
                                  <Text style={styles.link} onPress={() => navigation.navigate('inegalite')}> ✨La place des femmes</Text>
-                                 <Text style={styles.link} onPress={() => navigation.navigate('Inegalite2')}> 🌼Exemple de genre</Text>
+                                 <Text style={styles.link} onPress={() => navigation.navigate('Inegalite2')}> ✨Exemple de genre</Text>
                                 <Text style={styles.link} onPress={() => navigation.navigate('Inegalite3')}>✨L'orientation scolaire </Text>
                                  <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue4')}> 🌼</Text>
                                <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue5')}>🌼 </Text>

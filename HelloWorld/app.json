@@ -2,7 +2,7 @@
   "expo": {
     "name": "Glad Dev",
     "slug": "developpement-web",
-    "version": "1.0.35",
+    "version": "1.0.41",
     "orientation": "portrait",
     "icon": "./assets/LogoModif2.png",
     "userInterfaceStyle": "light",
@@ -16,7 +16,7 @@
       "supportsTablet": true
     },
     "android": {
-      "versionCode": 35,
+      "versionCode": 41,
       "adaptiveIcon": {
         "foregroundImage": "./assets/LogoModif2.png",
         "backgroundColor": "#ffffff"
