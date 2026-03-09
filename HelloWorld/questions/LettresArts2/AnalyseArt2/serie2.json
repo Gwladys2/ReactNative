@@ -1,0 +1,408 @@
+[
+  {
+    "question": "1 - Comment Leonardo Bruni rythme-t-il l’histoire de Florence au XVe siècle ?",
+    "options": [
+      "En deux temps : païen et chrétien",
+      "En quatre temps : grec, romain, médiéval, moderne",
+      "En trois temps : antique, médiane, moderne",
+      "En cinq temps : archaïque, classique, impérial, médiéval, renaissant"
+    ],
+    "answerIndex": 2,
+    "explication": "Leonardo Bruni présente l’histoire de Florence selon une division en trois temps : l’Antiquité, une période médiane, puis l’époque moderne. Cette périodisation est importante car elle participe à la naissance de l’idée de « moyen âge » comme époque intermédiaire entre l’Antiquité et la modernité renaissante."
+  },
+  {
+    "question": "2 - À quoi s’intéressent principalement les antiquaires à la Renaissance ?",
+    "options": [
+      "Aux témoignages de l’Antiquité, en particulier à ses vestiges matériels",
+      "Uniquement aux textes religieux médiévaux",
+      "Exclusivement aux traditions orales populaires",
+      "Aux œuvres contemporaines de la cour"
+    ],
+    "answerIndex": 0,
+    "explication": "Les antiquaires sont des érudits qui étudient l’Antiquité à travers les traces qu’elle a laissées, surtout les objets, monuments, inscriptions et ruines. C’est pour cela qu’ils sont souvent considérés comme des précurseurs de l’archéologie."
+  },
+  {
+    "question": "3 - Pourquoi les antiquaires sont-ils souvent considérés comme les précurseurs de l’archéologie ?",
+    "options": [
+      "Parce qu’ils inventent la perspective mathématique",
+      "Parce qu’ils restaurent toutes les ruines antiques",
+      "Parce qu’ils écrivent uniquement sur la mythologie",
+      "Parce qu’ils étudient méthodiquement les vestiges matériels du passé"
+    ],
+    "answerIndex": 3,
+    "explication": "Les antiquaires observent, décrivent et interprètent les vestiges matériels de l’Antiquité. Cette attention portée aux objets, aux ruines et aux traces concrètes du passé annonce la démarche archéologique, même si l’archéologie n’existe pas encore comme discipline autonome."
+  },
+  {
+    "question": "4 - Quel humaniste redécouvre le manuscrit du De Natura de Lucrèce ?",
+    "options": [
+      "Lorenzo Valla",
+      "Poggio Bracciolini",
+      "Leonardo Bruni",
+      "Leone Battista Alberti"
+    ],
+    "answerIndex": 1,
+    "explication": "Le cours mentionne Poggio Bracciolini comme celui qui redécouvre le manuscrit de Lucrèce. Cette redécouverte illustre parfaitement l’esprit humaniste de la Renaissance, fondé sur le retour aux textes antiques et leur réintégration dans la culture savante."
+  },
+  {
+    "question": "5 - Quel ouvrage Poggio Bracciolini rédige-t-il en 1448 ?",
+    "options": [
+      "De pictura",
+      "Histoire de Florence",
+      "De varietate Fortunae",
+      "Art poétique"
+    ],
+    "answerIndex": 2,
+    "explication": "Poggio Bracciolini est associé dans le cours à l’ouvrage De varietate Fortunae. Ce texte s’inscrit dans le contexte humaniste de réflexion sur l’histoire, le destin et la redécouverte du passé antique."
+  },
+  {
+    "question": "6 - Quel artiste est présenté dans le cours comme l’« inventeur » de la perspective mathématique ?",
+    "options": [
+      "Masaccio",
+      "Filippo Brunelleschi",
+      "Giotto",
+      "Botticelli"
+    ],
+    "answerIndex": 1,
+    "explication": "Le cours attribue à Filippo Brunelleschi l’invention de la perspective mathématique. Cette innovation est capitale dans l’histoire de l’art, car elle permet de représenter l’espace de manière cohérente, géométrique et unifiée."
+  },
+  {
+    "question": "7 - Quel peintre est associé dans le cours à l’œuvre La Trinité à Florence ?",
+    "options": [
+      "Masaccio",
+      "Giotto",
+      "Domenico Ghirlandaio",
+      "Maso di Banco"
+    ],
+    "answerIndex": 0,
+    "explication": "Masaccio est lié à La Trinité, œuvre emblématique de l’usage de la perspective renaissante. Cette peinture constitue un exemple majeur de l’espace unifié, fondé sur une construction visuelle rationnelle."
+  },
+  {
+    "question": "8 - Selon Alberti, à quoi le tableau est-il comparé ?",
+    "options": [
+      "À un miroir de l’âme",
+      "À un théâtre sacré",
+      "À une architecture idéale",
+      "À une fenêtre sur le monde"
+    ],
+    "answerIndex": 3,
+    "explication": "Dans le cours, Alberti définit le tableau comme une « fenêtre sur le monde ». Cette formule est essentielle : elle exprime l’idée que la peinture ouvre un espace visible cohérent, organisé selon les règles de la perspective et donné à voir comme une réalité ordonnée."
+  },
+  {
+    "question": "9 - Quelle formule d’Horace est au fondement du rapprochement entre peinture et poésie ?",
+    "options": [
+      "Ars longa, vita brevis",
+      "Carpe diem",
+      "Ut pictura poesis",
+      "Verba volant, scripta manent"
+    ],
+    "answerIndex": 2,
+    "explication": "La formule Ut pictura poesis signifie que la poésie sera comme la peinture. Elle sert de base à une réflexion théorique qui rapproche les arts du langage et les arts visuels, en montrant qu’ils partagent des fonctions de représentation, d’expression et de narration."
+  },
+  {
+    "question": "10 - Dans la rhétorique classique rappelée dans le cours, combien de catégories structurent la production du discours ?",
+    "options": [
+      "Cinq",
+      "Deux",
+      "Trois",
+      "Quatre"
+    ],
+    "answerIndex": 0,
+    "explication": "Le cours énumère cinq catégories de la production du discours : inventio, dispositio, elocutio, memoria et actio. Cette structure rhétorique est importante, car Alberti s’en inspire pour penser la peinture comme un art savant et organisé."
+  },
+  {
+    "question": "11 - Quelle catégorie rhétorique Alberti associe-t-il à la compositio en peinture ?",
+    "options": [
+      "Inventio",
+      "Dispositio",
+      "Memoria",
+      "Actio"
+    ],
+    "answerIndex": 1,
+    "explication": "Chez Alberti, la dispositio correspond à la compositio. Cela signifie que l’organisation des éléments dans le tableau joue un rôle comparable à l’organisation des parties d’un discours. La peinture est ainsi pensée comme une construction intellectuelle, et non comme une simple habileté manuelle."
+  },
+  {
+    "question": "12 - À quelle catégorie picturale Alberti rattache-t-il l’elocutio ?",
+    "options": [
+      "À la circonscritio",
+      "À la narratio",
+      "À la compositio",
+      "Au lume"
+    ],
+    "answerIndex": 3,
+    "explication": "Le cours précise qu’Alberti associe l’elocutio au lume, c’est-à-dire à l’éclat et à la lumière. Comme l’elocutio en rhétorique concerne la manière d’exprimer le discours, le lume renvoie en peinture à la qualité sensible et expressive de la représentation."
+  },
+  {
+    "question": "13 - Quel est l’effet majeur de la doctrine de l’ut pictura poesis sur le statut de la peinture ?",
+    "options": [
+      "Elle élève la peinture des arts mécaniques aux arts libéraux",
+      "Elle subordonne définitivement la peinture à l’architecture",
+      "Elle fait de la peinture un art exclusivement religieux",
+      "Elle supprime toute fonction narrative de la peinture"
+    ],
+    "answerIndex": 0,
+    "explication": "La doctrine de l’ut pictura poesis permet de donner à la peinture une dignité intellectuelle comparable à celle de la poésie. Grâce à ce rapprochement, la peinture cesse d’être considérée seulement comme un art manuel ou mécanique et accède au rang d’art véritable, relevant des arts libéraux."
+  },
+  {
+    "question": "14 - Dans le cours, les ruines sont présentées comme un procédé de quoi ?",
+    "options": [
+      "Simplification décorative",
+      "D’abstraction géométrique",
+      "Narrativisation",
+      "Neutralisation symbolique"
+    ],
+    "answerIndex": 2,
+    "explication": "Les ruines ne sont pas de simples éléments de décor : le cours insiste sur leur rôle dans la narrativisation. Elles structurent l’espace, orientent le regard, produisent du sens historique et symbolique, et participent ainsi au récit visuel."
+  },
+  {
+    "question": "15 - Dans La punition des rebelles de Botticelli, quel épisode biblique est représenté ?",
+    "options": [
+      "La fuite en Égypte",
+      "La révolte d’Aaron et Corée contre Moïse",
+      "Le jugement de Salomon",
+      "La conversion de saint Paul"
+    ],
+    "answerIndex": 1,
+    "explication": "Le cours indique que cette fresque de Botticelli illustre un épisode du Livre des Nombres : la révolte d’Aaron et Corée contre Moïse. Le sujet permet de lier l’image à des questions d’autorité, de légitimité religieuse et d’ordre divin."
+  },
+  {
+    "question": "16 - Quel monument romain est mentionné dans le cours comme ayant été construit en 315 pour commémorer la bataille du pont Milvius de 312 ?",
+    "options": [
+      "Le Colisée",
+      "Le Panthéon",
+      "Le Septizonium",
+      "L’arc de Constantin"
+    ],
+    "answerIndex": 3,
+    "explication": "L’arc de Constantin est présenté comme un monument commémoratif lié à la victoire du pont Milvius. Dans le cadre du cours, ce monument joue aussi un rôle symbolique fort, car il est réinvesti dans les représentations renaissantes pour articuler histoire antique, christianisme et pouvoir."
+  },
+  {
+    "question": "17 - Quelle formule latine inscrite sur l’arc de Constantin est citée dans le cours ?",
+    "options": [
+      "Nemo sibi assumat honorem nisi vocatus a deo tanquam Aron",
+      "Veni, vidi, vici",
+      "In principio erat verbum",
+      "Fiat lux"
+    ],
+    "answerIndex": 0,
+    "explication": "Le cours cite l’inscription Nemo sibi assumat honorem nisi vocatus a deo tanquam Aron. Elle signifie que personne ne doit s’attribuer un honneur sacré s’il n’est pas appelé par Dieu. Cette formule renforce le thème de la légitimité religieuse et du pouvoir conféré par une autorité supérieure."
+  },
+  {
+    "question": "18 - Quel humaniste démontre en 1440 que la Donation de Constantin est un faux ?",
+    "options": [
+      "Poggio Bracciolini",
+      "Leonardo Bruni",
+      "Lorenzo Valla",
+      "Alberti"
+    ],
+    "answerIndex": 2,
+    "explication": "Lorenzo Valla démontre la fausseté de la Donation de Constantin en 1440. Cette intervention est capitale dans l’histoire intellectuelle de la Renaissance, car elle montre comment la philologie humaniste peut remettre en cause des fondements idéologiques et politiques considérés jusque-là comme incontestables."
+  },
+  {
+    "question": "19 - À quoi servait la Donation de Constantin avant que sa fausseté soit démontrée ?",
+    "options": [
+      "À prouver l’existence historique de Moïse",
+      "À justifier la supériorité de Florence sur Rome",
+      "À établir l’origine de la perspective en peinture",
+      "À légitimer les prétentions territoriales et politiques de la papauté"
+    ],
+    "answerIndex": 3,
+    "explication": "Le cours explique que la Donation de Constantin servait à justifier les prétentions du pape au gouvernement des États pontificaux. Autrement dit, ce document soutenait politiquement l’autorité temporelle de la papauté en lui attribuant un fondement ancien et prestigieux."
+  },
+  {
+    "question": "20 - Dans L’adoration des bergers de Ghirlandaio, comment appelle-t-on le personnage qui montre ce qu’il faut regarder ?",
+    "options": [
+      "Le commanditaire",
+      "L’admoniteur",
+      "Le narrateur",
+      "Le témoin sacré"
+    ],
+    "answerIndex": 1,
+    "explication": "Le cours emploie le terme d’« admoniteur » pour désigner le personnage qui oriente le regard du spectateur vers l’élément important de l’image. Sa fonction est essentielle dans la lecture du tableau, car il guide l’interprétation et participe à la construction du sens."
+  },
+  {
+"question":"21 - Que recherchent principalement les humanistes de la Renaissance dans les monastères et bibliothèques ?",
+"options":["Des objets archéologiques","Des manuscrits médiévaux religieux uniquement","Des manuscrits antiques oubliés","Des œuvres contemporaines"],
+"answerIndex":2,
+"explication":"Les humanistes parcourent l’Europe à la recherche de manuscrits antiques perdus. Leur objectif est de retrouver les textes originaux de l’Antiquité grecque et romaine afin de restaurer le savoir ancien."
+},
+{
+"question":"22 - Quelle langue les humanistes cherchent-ils à retrouver dans sa pureté antique ?",
+"options":["Le latin classique","Le français médiéval","L’allemand ancien","Le grec moderne"],
+"answerIndex":0,
+"explication":"Les humanistes veulent restaurer la pureté du latin classique utilisé par les auteurs antiques comme Cicéron ou Virgile. Ils considèrent que le latin médiéval s’est éloigné de ce modèle."
+},
+{
+"question":"23 - Quel domaine d’étude vise à analyser les textes anciens pour en vérifier l’authenticité ?",
+"options":["La rhétorique","La théologie","La philosophie morale","La philologie"],
+"answerIndex":3,
+"explication":"La philologie consiste à étudier les textes anciens, leur langue et leur transmission afin de déterminer leur authenticité et leur sens original."
+},
+{
+"question":"24 - Quel principe artistique permet de représenter la profondeur sur une surface plane ?",
+"options":["Le clair-obscur","La perspective","La stylisation","L’abstraction"],
+"answerIndex":1,
+"explication":"La perspective permet de créer l’illusion de profondeur dans une image plane en utilisant des lignes de fuite et un point de convergence."
+},
+{
+"question":"25 - Quel objectif poursuit la perspective à la Renaissance ?",
+"options":["Supprimer la narration","Imiter la nature","Créer des images abstraites","Éviter la géométrie"],
+"answerIndex":2,
+"explication":"La perspective vise à produire une représentation cohérente du monde visible en imitant la perception humaine et l’organisation géométrique de l’espace."
+},
+{
+"question":"26 - Dans la théorie d’Alberti, que signifie la « compositio » ?",
+"options":["Le choix des pigments","L’organisation des éléments du tableau","La signature du peintre","La préparation du mur"],
+"answerIndex":1,
+"explication":"La compositio correspond à l’organisation des figures et des éléments dans l’image. Elle joue un rôle similaire à la structure d’un discours en rhétorique."
+},
+{
+"question":"27 - Quel est le rôle principal de la lumière dans la peinture renaissante ?",
+"options":["Donner du relief aux formes","Supprimer les ombres","Uniformiser les couleurs","Rendre l’image abstraite"],
+"answerIndex":0,
+"explication":"La lumière permet de modeler les volumes et de donner une impression de profondeur et de réalité aux figures."
+},
+{
+"question":"28 - Dans la peinture de la Renaissance, que symbolisent souvent les ruines antiques ?",
+"options":["La victoire militaire","La fin du monde","La richesse marchande","Le passage du temps et l’histoire"],
+"answerIndex":3,
+"explication":"Les ruines évoquent la grandeur passée de l’Antiquité et rappellent la dimension historique du monde représenté."
+},
+{
+"question":"29 - Quelle fonction joue l’architecture dans de nombreuses peintures de la Renaissance ?",
+"options":["Décor aléatoire","Élément religieux uniquement","Structure de l’espace pictural","Simple ornement"],
+"answerIndex":2,
+"explication":"L’architecture organise la perspective et structure l’espace visuel dans le tableau."
+},
+{
+"question":"30 - Quel principe guide la recherche artistique de la Renaissance ?",
+"options":["L’imitation de la nature","La rupture totale avec l’Antiquité","Le refus de la perspective","La simplification extrême"],
+"answerIndex":0,
+"explication":"Les artistes cherchent à imiter la nature de manière fidèle et rationnelle, en s’appuyant sur l’observation et les mathématiques."
+},
+
+{
+"question":"31 - Dans la rhétorique classique, quelle étape correspond à la recherche des idées ?",
+"options":["Memoria","Inventio","Actio","Elocutio"],
+"answerIndex":1,
+"explication":"L’inventio est la phase où l’on recherche les arguments et les idées qui serviront à construire le discours."
+},
+{
+"question":"32 - Dans la rhétorique, que signifie la notion d’elocutio ?",
+"options":["Organisation des idées","Mémorisation du discours","Recherche d’arguments","Style et expression"],
+"answerIndex":3,
+"explication":"L’elocutio concerne la manière d’exprimer les idées, le style et les choix linguistiques."
+},
+{
+"question":"33 - Quel est l’objectif principal de la narrativité dans une image ?",
+"options":["Raconter une histoire","Créer des formes abstraites","Supprimer le sens","Détruire la perspective"],
+"answerIndex":0,
+"explication":"La narrativité consiste à organiser l’image pour raconter un événement ou un récit compréhensible."
+},
+{
+"question":"34 - Quelle discipline rapproche la peinture et la poésie dans la pensée humaniste ?",
+"options":["La géométrie","La rhétorique","La médecine","L’astronomie"],
+"answerIndex":2,
+"explication":"La rhétorique permet de penser la peinture comme un discours visuel structuré."
+},
+{
+"question":"35 - Quel élément guide souvent le regard du spectateur dans un tableau ?",
+"options":["Le cadre","Le point de fuite","La signature","Le support"],
+"answerIndex":1,
+"explication":"Le point de fuite organise la perspective et dirige le regard vers un point précis."
+},
+{
+"question":"36 - Dans une œuvre narrative, quel est le rôle des personnages secondaires ?",
+"options":["Remplacer le sujet principal","Renforcer la compréhension du récit","Supprimer l’action","Décorer uniquement"],
+"answerIndex":3,
+"explication":"Les personnages secondaires contribuent à clarifier l’action et à enrichir la narration."
+},
+
+{
+"question":"37 - Quel principe intellectuel caractérise l’humanisme ?",
+"options":["Retour aux textes antiques","Refus de la culture antique","Abandon de la lecture","Rejet du savoir"],
+"answerIndex":0,
+"explication":"L’humanisme repose sur la redécouverte et l’étude des textes antiques pour comprendre l’homme et le monde."
+},
+{
+"question":"38 - Quel domaine d’étude permet de comprendre la langue des textes anciens ?",
+"options":["La physique","La philologie","La géométrie","La botanique"],
+"answerIndex":2,
+"explication":"La philologie analyse la langue et les manuscrits pour retrouver le sens original des textes."
+},
+{
+"question":"39 - Dans l’art de la Renaissance, pourquoi les artistes étudient-ils l’anatomie ?",
+"options":["Pour créer des monstres","Pour améliorer la représentation du corps humain","Pour copier des sculptures","Pour styliser les figures"],
+"answerIndex":1,
+"explication":"L’étude de l’anatomie permet de représenter le corps humain avec précision et réalisme."
+},
+{
+"question":"40 - Quel élément renforce la crédibilité visuelle d’une scène peinte ?",
+"options":["La cohérence de l’espace","La simplification extrême","L’absence de lumière","La déformation volontaire"],
+"answerIndex":3,
+"explication":"Une représentation cohérente de l’espace et des volumes rend la scène plus crédible."
+},
+
+{
+"question":"41 - Quelle valeur intellectuelle la Renaissance accorde-t-elle aux arts ?",
+"options":["Une valeur purement artisanale","Une valeur intellectuelle comparable aux lettres","Aucune valeur","Une valeur uniquement religieuse"],
+"answerIndex":1,
+"explication":"Grâce aux théories humanistes, la peinture devient un art intellectuel comparable à la poésie."
+},
+{
+"question":"42 - Quel rôle joue la géométrie dans la perspective ?",
+"options":["Organiser l’espace","Supprimer la profondeur","Détruire l’illusion","Créer des couleurs"],
+"answerIndex":0,
+"explication":"La perspective repose sur des règles géométriques qui structurent la représentation de l’espace."
+},
+{
+"question":"43 - Dans la peinture, que signifie le terme « narratif » ?",
+"options":["Abstrait","Symbolique uniquement","Décoratif","Qui raconte une histoire"],
+"answerIndex":3,
+"explication":"Une image narrative représente un événement ou une action compréhensible."
+},
+{
+"question":"44 - Quel principe artistique cherche à représenter le monde visible de manière crédible ?",
+"options":["Le réalisme","Le symbolisme","Le naturalisme","L’imitation de la nature"],
+"answerIndex":2,
+"explication":"Les artistes de la Renaissance cherchent à représenter le monde tel qu’il apparaît à l’œil humain."
+},
+
+{
+"question":"45 - Quel élément structure l’organisation d’un tableau selon Alberti ?",
+"options":["La compositio","La couleur","Le support","Le cadre"],
+"answerIndex":0,
+"explication":"La compositio organise la disposition des figures et des éléments dans l’image."
+},
+{
+"question":"46 - Dans la théorie de la perspective, où convergent les lignes ?",
+"options":["Au bord du tableau","Au point de fuite","Au centre de la figure","Au premier plan"],
+"answerIndex":2,
+"explication":"Les lignes de perspective convergent vers un point de fuite qui structure la profondeur de l’image."
+},
+{
+"question":"47 - Quel objectif poursuit la peinture narrative ?",
+"options":["Supprimer le sens","Raconter un événement","Éviter la représentation","Refuser l’histoire"],
+"answerIndex":1,
+"explication":"La peinture narrative organise les éléments visuels pour raconter un épisode précis."
+},
+{
+"question":"48 - Quel élément permet de comprendre l’époque représentée dans une image ?",
+"options":["Les ruines et l’architecture","La couleur unique","Le cadre","La signature"],
+"answerIndex":3,
+"explication":"Les éléments architecturaux ou les ruines situent souvent la scène dans une période historique."
+},
+
+{
+"question":"49 - Quelle méthode caractérise la recherche des humanistes ?",
+"options":["Analyse critique des textes","Imagination pure","Tradition orale","Transmission religieuse"],
+"answerIndex":0,
+"explication":"Les humanistes analysent les textes anciens de manière critique pour retrouver leur sens original."
+},
+{
+"question":"50 - Quel est l’objectif de la perspective dans une peinture ?",
+"options":["Créer une illusion de profondeur","Supprimer les formes","Uniformiser la lumière","Simplifier les volumes"],
+"answerIndex":2,
+"explication":"La perspective crée l’illusion d’un espace tridimensionnel sur une surface plane."
+}
+
+]

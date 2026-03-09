@@ -1,6 +1,6 @@
 import React, { useContext, useState } from 'react';
 import { View, Text, Button, StyleSheet, Alert } from 'react-native';
-import questions from '../../questions/LettresArts2/AnalyseArt2/serie1.json';
+import questions from '../../questions/LettresArts2/AnalyseArt2/serie3.json';
 import { ProgressContext } from '../../context/ProgressContext';
 import HeaderStats from '../../components/HeaderStats';
 import Logo from '../Logo';
@@ -65,7 +65,7 @@ export default function LessonScreen({ navigation }) {
             {!showRestart ? (
                 <>
                     
-                    <Text style={styles.titre}>Littérature et peinture:  L’Humanisme et l’esthétique de l’idéal classique</Text>
+                    <Text style={styles.titre}>Littérature et peinture:  l’imaginaire archéologique</Text>
 
                     <Text style={styles.question}>{current.question}</Text>
                     {current.options.map((option, i) => (

@@ -86,7 +86,7 @@ export default function LessonScreen({ navigation }) {
                                  <Text style={styles.link} onPress={() => navigation.navigate('LettresArts2Part2')}>✨Les ruines à la Renaissance</Text>
                                 <Text style={styles.link} onPress={() => navigation.navigate('LettresArts2Part3')}>✨L’humanisme et la Renaissance </Text>
                                  <Text style={styles.link} onPress={() => navigation.navigate('LettresArts2Part4')}> ✨De l’Humanisme aux Lumières</Text>
-                               <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue5')}>🌼 </Text>
+                               <Text style={styles.link} onPress={() => navigation.navigate('LettresArts2Part5')}>✨origines mythiques de l’art </Text>
                                 <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue6')}>🌼</Text>
                                                                                           
                                </View>

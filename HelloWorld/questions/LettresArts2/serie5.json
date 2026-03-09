@@ -1,0 +1,772 @@
+[
+{
+"question": "1 - Selon Pline l’Ancien, quel geste simple serait à l’origine de la peinture ?",
+"options": [
+"La gravure d’un symbole religieux",
+"La reproduction d’un paysage",
+"Le tracé du contour d’une ombre humaine",
+"La copie d’une sculpture"
+],
+"answerIndex": 2,
+"explication": "Dans son Histoire naturelle, Pline l’Ancien explique que l’origine de la peinture serait liée au fait de tracer les contours d’une ombre humaine projetée sur un mur. Ce geste simple aurait constitué la première tentative de représentation visuelle."
+},
+{
+"question": "2 - Qui est l’auteur romain de l’encyclopédie intitulée Histoire naturelle ?",
+"options": [
+"Pline l’Ancien",
+"Ovide",
+"Vitruve",
+"Cicéron"
+],
+"answerIndex": 0,
+"explication": "Pline l’Ancien est un auteur romain du Ier siècle qui a écrit l’Histoire naturelle, une vaste encyclopédie abordant de nombreux domaines dont la nature, les sciences et l’histoire de l’art."
+},
+{
+"question": "3 - Dans le récit de la fille de Butadès, quel matériau le père utilise-t-il pour modeler le portrait ?",
+"options": [
+"Du marbre",
+"Du bronze",
+"Du bois",
+"De l’argile"
+],
+"answerIndex": 3,
+"explication": "Selon le récit rapporté par Pline l’Ancien, le potier Butadès applique de l’argile sur les lignes tracées par sa fille autour de l’ombre du visage de son amant afin de créer un relief. Ce récit explique symboliquement l’invention de la sculpture."
+},
+{
+"question": "4 - Pourquoi la fille de Butadès trace-t-elle l’ombre du visage de son amant ?",
+"options": [
+"Pour réaliser une œuvre religieuse",
+"Pour conserver le souvenir de son amant qui part",
+"Pour apprendre à dessiner",
+"Pour décorer un mur"
+],
+"answerIndex": 1,
+"explication": "La jeune fille trace l’ombre du visage de son amant parce qu’il doit partir à l’étranger. Ce geste est motivé par le désir de garder une trace de lui, ce qui donne à la naissance de la peinture une dimension émotionnelle."
+},
+{
+"question": "5 - Comment appelle-t-on la science qui étudie les images et leurs significations symboliques ?",
+"options": [
+"L’esthétique",
+"La sémiologie",
+"L’iconologie",
+"L’archéologie"
+],
+"answerIndex": 2,
+"explication": "L’iconologie est la discipline qui analyse les images et leurs significations symboliques. Elle permet d’interpréter les représentations artistiques en tenant compte du contexte culturel, religieux ou historique."
+},
+{
+"question": "6 - Dans le duel entre Zeuxis et Parrhasios, que peint Parrhasios pour tromper son rival ?",
+"options": [
+"Un paysage",
+"Un rideau",
+"Une statue",
+"Une nature morte"
+],
+"answerIndex": 1,
+"explication": "Parrhasios peint un rideau avec une telle perfection que Zeuxis croit qu’il s’agit d’un véritable rideau et demande qu’on l’écarte pour voir la peinture derrière. Cela illustre la capacité de la peinture à tromper l’œil."
+},
+{
+"question": "7 - Quel concept artistique est illustré par l’histoire de Zeuxis et Parrhasios ?",
+"options": [
+"La mimèsis",
+"La perspective",
+"L’abstraction",
+"L’allégorie"
+],
+"answerIndex": 0,
+"explication": "La mimèsis est l’imitation du réel par l’art. L’histoire de Zeuxis et Parrhasios montre la capacité de l’artiste à reproduire la réalité avec une telle précision qu’elle trompe même le regard humain."
+},
+{
+"question": "8 - Quel dieu de la mythologie grecque est associé à la création de l’homme à partir d’argile ?",
+"options": [
+"Apollon",
+"Hermès",
+"Zeus",
+"Prométhée"
+],
+"answerIndex": 3,
+"explication": "Dans la mythologie grecque, Prométhée façonne les humains à partir d’argile. Ce mythe associe la création humaine au geste du sculpteur, soulignant le lien symbolique entre création divine et création artistique."
+},
+{
+"question": "9 - Dans Les Métamorphoses d’Ovide, quel matériau Pygmalion sculpte-t-il pour créer la femme idéale ?",
+"options": [
+"Marbre",
+"Argile",
+"Ivoire",
+"Bois"
+],
+"answerIndex": 2,
+"explication": "Pygmalion sculpte une statue en ivoire représentant la femme idéale. Il tombe amoureux de sa propre œuvre, qui est finalement animée par la déesse Vénus."
+},
+{
+"question": "10 - Qui est l’auteur antique des Métamorphoses ?",
+"options": [
+"Ovide",
+"Virgile",
+"Homère",
+"Hésiode"
+],
+"answerIndex": 0,
+"explication": "Ovide est un poète latin du Ier siècle auteur des Métamorphoses, une œuvre majeure de la mythologie antique qui raconte de nombreuses transformations et mythes, dont celui de Pygmalion."
+},
+{
+"question": "11 - Quelle figure biblique est considérée comme le patron des peintres ?",
+"options": [
+"Saint Luc",
+"Saint Pierre",
+"Saint Jean",
+"Saint Paul"
+],
+"answerIndex": 1,
+"explication": "Saint Luc est traditionnellement considéré comme le patron des peintres car la tradition chrétienne lui attribue la première représentation de la Vierge Marie."
+},
+{
+"question": "12 - Quel philosophe affirme la célèbre formule « Je pense donc je suis » ?",
+"options": [
+"Platon",
+"Aristote",
+"Plotin",
+"Descartes"
+],
+"answerIndex": 3,
+"explication": "René Descartes formule cette phrase dans ses Méditations métaphysiques. Elle exprime l’idée que la pensée est la preuve fondamentale de l’existence."
+},
+{
+"question": "13 - Quel artiste est souvent considéré comme l’inventeur de la peinture moderne selon Vasari ?",
+"options": [
+"Giotto",
+"Raphaël",
+"Léonard de Vinci",
+"Cimabue"
+],
+"answerIndex": 0,
+"explication": "Selon Giorgio Vasari, Giotto est celui qui a renouvelé la peinture en introduisant un style plus naturel et réaliste, rompant avec les conventions médiévales."
+},
+{
+"question": "14 - Quel sculpteur grec a écrit un traité nommé Le Canon sur les proportions du corps humain ?",
+"options": [
+"Phidias",
+"Praxitèle",
+"Polyclète",
+"Lysippe"
+],
+"answerIndex": 2,
+"explication": "Polyclète rédige Le Canon, un traité qui établit des proportions idéales du corps humain fondées sur des rapports mathématiques."
+},
+{
+"question": "15 - Selon Plotin, à quoi est comparé le travail moral de l’homme sur lui-même ?",
+"options": [
+"À l’écriture d’un livre",
+"Au travail du sculpteur sur une statue",
+"À la construction d’un temple",
+"À la peinture d’un portrait"
+],
+"answerIndex": 1,
+"explication": "Plotin compare l’amélioration morale de l’homme au travail du sculpteur : il faut retirer le superflu et polir l’âme pour faire apparaître la beauté intérieure."
+},
+{
+"question": "16 - Quelle œuvre de Michel-Ange illustre la création de l’homme dans la chapelle Sixtine ?",
+"options": [
+"La Pietà",
+"Le Jugement dernier",
+"La Tentation d’Adam",
+"La Création d’Adam"
+],
+"answerIndex": 3,
+"explication": "La Création d’Adam est une fresque célèbre du plafond de la chapelle Sixtine où Dieu transmet la vie à Adam par le geste de leurs doigts presque touchants."
+},
+{
+"question": "17 - Dans la mythologie grecque, quel personnage tombe amoureux de la statue qu’il a lui-même sculptée ?",
+"options": [
+"Pygmalion",
+"Prométhée",
+"Apollon",
+"Zeus"
+],
+"answerIndex": 0,
+"explication": "Pygmalion tombe amoureux de sa statue d’ivoire, qu’il considère comme la femme idéale. La déesse Vénus lui accorde finalement que la statue prenne vie."
+},
+{
+"question": "18 - Quel artiste baroque réalise la sculpture Le Rapt de Proserpine ?",
+"options": [
+"Michel-Ange",
+"Donatello",
+"Le Bernin",
+"Canova"
+],
+"answerIndex": 2,
+"explication": "Le Bernin, sculpteur baroque italien du XVIIe siècle, est célèbre pour ses œuvres dynamiques et expressives comme Le Rapt de Proserpine."
+},
+{
+"question": "19 - Dans l’histoire de Giotto, quel animal peint-il si réalistement que son maître tente de l’enlever ?",
+"options": [
+"Un papillon",
+"Un oiseau",
+"Un chien",
+"Une mouche"
+],
+"answerIndex": 3,
+"explication": "Selon une anecdote célèbre, Giotto peint une mouche si réaliste sur un tableau que son maître Cimabue tente de la chasser en pensant qu’elle est réelle."
+},
+{
+"question": "20 - Quel auteur des Lumières écrit des critiques d’art dans les Salons ?",
+"options": [
+"Voltaire",
+"Denis Diderot",
+"Montesquieu",
+"Rousseau"
+],
+"answerIndex": 1,
+"explication": "Denis Diderot rédige des critiques d’art appelées Salons, où il commente les expositions artistiques et développe une réflexion esthétique sur la peinture et la sculpture."
+},
+{
+"question": "21 - Quelle source religieuse majeure inspire de nombreuses œuvres artistiques à la Renaissance ?",
+"options": [
+"L’Énéide",
+"L’Iliade",
+"La Bible",
+"L’Odyssée"
+],
+"answerIndex": 2,
+"explication": "La Bible, composée de l’Ancien et du Nouveau Testament, constitue une source essentielle pour les artistes européens. De nombreuses peintures, sculptures et fresques représentent des scènes bibliques."
+},
+{
+"question": "22 - Quel auteur grec est célèbre pour avoir écrit L’Iliade et L’Odyssée ?",
+"options": [
+"Homère",
+"Ovide",
+"Hésiode",
+"Virgile"
+],
+"answerIndex": 0,
+"explication": "Homère est un poète grec antique auquel sont attribuées L’Iliade et L’Odyssée. Ces récits mythologiques ont fortement influencé l’imaginaire artistique occidental."
+},
+{
+"question": "23 - Dans la mythologie grecque, qui est le frère de Prométhée ?",
+"options": [
+"Apollon",
+"Hermès",
+"Atlas",
+"Épiméthée"
+],
+"answerIndex": 3,
+"explication": "Épiméthée est le frère de Prométhée. Son nom signifie « celui qui réfléchit après coup », contrairement à Prométhée qui signifie « le prévoyant »."
+},
+{
+"question": "24 - Quel concept décrit l’imitation de la nature par l’art ?",
+"options": [
+"La catharsis",
+"La mimèsis",
+"La perspective",
+"La rhétorique"
+],
+"answerIndex": 1,
+"explication": "La mimèsis désigne l’imitation du réel par l’art. Dans la tradition antique, l’artiste cherche à reproduire la nature avec le plus de fidélité possible."
+},
+{
+"question": "25 - Quel auteur antique écrit la Théogonie, racontant la généalogie des dieux ?",
+"options": [
+"Hésiode",
+"Homère",
+"Ovide",
+"Sophocle"
+],
+"answerIndex": 0,
+"explication": "Hésiode est un poète grec qui raconte l’origine et la généalogie des dieux dans la Théogonie. Cette œuvre a nourri l’imaginaire mythologique des artistes."
+},
+{
+"question": "26 - Dans le mythe de Prométhée, de quel matériau les hommes sont-ils façonnés ?",
+"options": [
+"Du marbre",
+"Du bronze",
+"De l’argile",
+"Du bois"
+],
+"answerIndex": 2,
+"explication": "Prométhée façonne les hommes à partir d’argile et d’eau. Ce geste évoque celui du sculpteur et renforce le lien symbolique entre création artistique et création divine."
+},
+{
+"question": "27 - Selon Alberti, peindre revient à faire quoi ?",
+"options": [
+"Imiter la sculpture",
+"Embrasser la surface d’une fontaine",
+"Reproduire les couleurs de la nature",
+"Raconter une histoire"
+],
+"answerIndex": 1,
+"explication": "Dans De pictura, Alberti compare la peinture à l’action d’embrasser la surface d’une fontaine. Cette métaphore souligne la relation entre peinture et reflet."
+},
+{
+"question": "28 - Quel personnage mythologique contemple son reflet dans l’eau et inspire une réflexion sur l’image ?",
+"options": [
+"Achille",
+"Ulysse",
+"Orphée",
+"Narcisse"
+],
+"answerIndex": 3,
+"explication": "Le mythe de Narcisse raconte l’histoire d’un jeune homme qui tombe amoureux de son propre reflet dans l’eau. Il est souvent utilisé pour réfléchir à la nature de l’image et de la représentation."
+},
+{
+"question": "29 - Dans l’histoire de Zeuxis, quel élément attire les oiseaux ?",
+"options": [
+"Des fleurs peintes",
+"Des pommes peintes",
+"Des raisins peints",
+"Du blé peint"
+],
+"answerIndex": 2,
+"explication": "Zeuxis peint des raisins avec un tel réalisme que les oiseaux viennent tenter de les manger. Cette anecdote illustre la puissance illusionniste de la peinture."
+},
+{
+"question": "30 - Quel auteur du Décaméron évoque le génie de Giotto ?",
+"options": [
+"Boccace",
+"Pétrarque",
+"Dante",
+"Machavel"
+],
+"answerIndex": 0,
+"explication": "Boccace, dans Le Décaméron, loue le talent de Giotto en affirmant que ses peintures semblent plus réelles que la réalité."
+},
+{
+"question": "31 - Quel auteur de la Renaissance écrit Les Vies des meilleurs peintres, sculpteurs et architectes ?",
+"options": [
+"Giorgio Vasari",
+"Léonard de Vinci",
+"Raphaël",
+"Michel-Ange"
+],
+"answerIndex": 1,
+"explication": "Giorgio Vasari est l’auteur des Vies des artistes, un ouvrage fondamental qui raconte l’histoire de nombreux artistes italiens et établit l’idée de progrès dans l’art."
+},
+{
+"question": "32 - Quel sculpteur baroque réalise Apollon et Daphné ?",
+"options": [
+"Canova",
+"Donatello",
+"Michel-Ange",
+"Le Bernin"
+],
+"answerIndex": 3,
+"explication": "Le Bernin est un sculpteur baroque italien célèbre pour ses œuvres dynamiques. Apollon et Daphné représente la transformation de Daphné en arbre."
+},
+{
+"question": "33 - Quelle ville italienne est célèbre pour la carrière de marbre de Carrare ?",
+"options": [
+"Carrare",
+"Rome",
+"Florence",
+"Milan"
+],
+"answerIndex": 0,
+"explication": "Le marbre de Carrare est l’un des matériaux les plus prestigieux utilisés par les sculpteurs depuis l’Antiquité, notamment par Michel-Ange."
+},
+{
+"question": "34 - Dans la mythologie, quelle déesse donne vie à la statue de Pygmalion ?",
+"options": [
+"Héra",
+"Artémis",
+"Vénus",
+"Athéna"
+],
+"answerIndex": 2,
+"explication": "Dans le mythe raconté par Ovide, la déesse Vénus exauce la prière de Pygmalion et donne vie à la statue qu’il a sculptée."
+},
+{
+"question": "35 - Quel philosophe grec est le maître de Platon ?",
+"options": [
+"Socrate",
+"Aristote",
+"Épicure",
+"Plotin"
+],
+"answerIndex": 1,
+"explication": "Socrate est le maître de Platon et l’une des figures majeures de la philosophie grecque. Son influence marque profondément la réflexion sur l’art et la beauté."
+},
+{
+"question": "36 - Quel sculpteur français du XVIIIe siècle est célèbre pour Milon de Crotone ?",
+"options": [
+"Bouchardon",
+"Pigalle",
+"Canova",
+"Falconet"
+],
+"answerIndex": 3,
+"explication": "Étienne-Maurice Falconet est un sculpteur français célèbre pour ses œuvres néoclassiques et ses réflexions sur l’art de la sculpture."
+},
+{
+"question": "37 - Dans la Bible, avec quoi Dieu façonne-t-il l’homme ?",
+"options": [
+"La pierre",
+"La poussière de la terre",
+"L’argile rouge",
+"L’eau"
+],
+"answerIndex": 2,
+"explication": "Dans le récit biblique de la Genèse, Dieu façonne l’homme à partir de la poussière de la terre puis lui insuffle la vie."
+},
+{
+"question": "38 - Quel sculpteur italien réalise le David entre 1501 et 1504 ?",
+"options": [
+"Donatello",
+"Michel-Ange",
+"Le Bernin",
+"Cellini"
+],
+"answerIndex": 0,
+"explication": "Le David de Michel-Ange est une sculpture monumentale de la Renaissance représentant le héros biblique avant son combat contre Goliath."
+},
+{
+"question": "39 - Quel mythe raconte l’histoire d’un sculpteur amoureux de sa statue ?",
+"options": [
+"Narcisse",
+"Orphée",
+"Pygmalion",
+"Persée"
+],
+"answerIndex": 3,
+"explication": "Le mythe de Pygmalion raconte l’histoire d’un sculpteur qui tombe amoureux de sa statue d’ivoire, finalement animée par Vénus."
+},
+{
+"question": "40 - Quelle déesse de la mythologie grecque aide parfois Prométhée dans certaines représentations artistiques ?",
+"options": [
+"Athéna",
+"Artémis",
+"Déméter",
+"Héra"
+],
+"answerIndex": 1,
+"explication": "Dans certaines représentations iconographiques, Athéna aide Prométhée dans la création de l’homme, symbolisant la sagesse et l’intelligence."
+},
+{
+"question": "41 - Dans De pictura, pourquoi Alberti rapproche-t-il la peinture de Narcisse ?",
+"options": [
+"Parce que Narcisse est un grand peintre de l’Antiquité",
+"Parce que Narcisse incarne la jalousie entre artistes",
+"Parce que la peinture doit représenter uniquement l’eau",
+"Parce que peindre revient à saisir une surface réfléchissante, comme une image sur l’eau"
+],
+"answerIndex": 3,
+"explication": "Alberti écrit que peindre, c’est comme « embrasser avec art la surface d’une fontaine ». La référence à Narcisse n’est donc pas décorative : elle sert à penser la peinture comme un art du reflet, de l’apparition visuelle et de la surface. Le peintre ne capture pas la chose elle-même, mais son apparence visible, comme Narcisse contemple une image reflétée dans l’eau. Cette comparaison est essentielle car elle relie la peinture à la fois à l’illusion, à la vision et à la question philosophique de la représentation."
+},
+{
+"question": "42 - Dans l’anecdote opposant Zeuxis à Parrhasios, pourquoi la victoire de Parrhasios est-elle considérée comme supérieure ?",
+"options": [
+"Parce qu’il a peint plus vite",
+"Parce qu’il a trompé un artiste et non de simples oiseaux",
+"Parce qu’il a utilisé une technique secrète",
+"Parce qu’il a travaillé sur un support plus noble"
+],
+"answerIndex": 1,
+"explication": "Zeuxis parvient à tromper les oiseaux avec des raisins peints, ce qui montre déjà un grand réalisme. Mais Parrhasios va plus loin : il trompe Zeuxis lui-même, c’est-à-dire un regard exercé, celui d’un artiste. Dans la logique du cours, cela montre un degré supérieur de mimèsis : il ne s’agit plus seulement d’imiter la nature au point de tromper un animal, mais de produire une illusion assez convaincante pour tromper un spécialiste de l’image. L’anecdote réfléchit donc à la puissance intellectuelle et perceptive de l’art."
+},
+{
+"question": "43 - Selon le cours, pourquoi le récit de la fille de Butadès est-il fondateur pour l’histoire de l’art ?",
+"options": [
+"Parce qu’il associe mémoire affective, contour et naissance de l’image",
+"Parce qu’il prouve scientifiquement l’origine grecque de tous les arts",
+"Parce qu’il explique l’invention de la perspective mathématique",
+"Parce qu’il montre la supériorité de la peinture sur la sculpture"
+],
+"answerIndex": 0,
+"explication": "Ce récit est fondateur car il unit plusieurs idées essentielles : l’absence, le désir de conserver une présence, le tracé du contour, puis le passage du dessin au relief. La jeune fille ne dessine pas pour faire une démonstration technique ; elle veut garder le souvenir de l’être aimé. Le cours montre ainsi que l’image naît aussi d’un besoin affectif et mémoriel. Ensuite, le père transforme cette ligne en volume grâce à l’argile : le récit articule donc peinture et sculpture dans une même origine symbolique."
+},
+{
+"question": "44 - Pourquoi le mythe de Prométhée intéresse-t-il particulièrement une réflexion sur la sculpture ?",
+"options": [
+"Parce qu’il invente le bronze",
+"Parce qu’il façonne l’homme comme un modeleur travaille la matière",
+"Parce qu’il interdit la représentation du corps humain",
+"Parce qu’il devient le patron officiel des sculpteurs"
+],
+"answerIndex": 2,
+"explication": "Prométhée est important pour la sculpture parce qu’il modèle l’homme à partir de matière terrestre, souvent décrite comme de l’argile mêlée d’eau. Ce geste rappelle directement celui du sculpteur ou du modeleur qui donne forme à une matière inerte. Le cours insiste sur cette analogie : la création de l’homme dans le mythe antique permet de penser l’artiste comme un créateur de formes vivantes. L’intérêt du mythe n’est donc pas seulement narratif, il est aussi théorique : il fait du geste plastique un geste quasi originel."
+},
+{
+"question": "45 - Dans les textes du cours, quelle dimension distingue le mythe de Pygmalion du mythe de Prométhée ?",
+"options": [
+"Le passage du bois à la pierre",
+"La question de la guerre entre les dieux",
+"La fondation de la cité",
+"L’investissement amoureux de l’artiste dans son œuvre"
+],
+"answerIndex": 3,
+"explication": "Prométhée renvoie surtout à la fabrication de l’humain comme acte de modelage, alors que Pygmalion introduit une autre dimension : l’artiste aime son œuvre. Le cours montre ainsi que Pygmalion ne parle pas seulement de technique, mais aussi de désir, d’idéalisation et de confusion entre création artistique et attachement affectif. L’œuvre n’est plus seulement un objet fabriqué : elle devient l’objet d’un amour. Cela ouvre une réflexion sur le pouvoir de l’art, sur l’illusion de vie et sur la projection du désir dans la matière."
+},
+{
+"question": "46 - Pourquoi le texte de Plotin sur le sculpteur est-il important dans le cours ?",
+"options": [
+"Parce qu’il transforme la sculpture en modèle de perfection morale intérieure",
+"Parce qu’il explique comment fabriquer une statue en bronze",
+"Parce qu’il décrit les ateliers de la Renaissance",
+"Parce qu’il rejette toute comparaison entre art et philosophie"
+],
+"answerIndex": 0,
+"explication": "Plotin utilise le travail du sculpteur comme métaphore éthique et spirituelle. Il explique qu’il faut enlever le superflu, redresser, polir, faire apparaître la beauté cachée. Dans le cours, ce texte est fondamental car il montre que la sculpture n’est pas seulement un art matériel : elle devient un modèle pour penser la formation de soi. Travailler son âme revient à sculpter sa propre statue intérieure. Cette analogie relie la pratique artistique à une réflexion philosophique sur la vertu et la transformation de l’être."
+},
+{
+"question": "47 - Dans Le Canon de Polyclète, sur quoi repose principalement la beauté du corps ?",
+"options": [
+"Sur la richesse des ornements",
+"Sur l’expression pathétique du visage",
+"Sur les rapports harmonieux et mathématiques entre les parties",
+"Sur la ressemblance avec un individu réel"
+],
+"answerIndex": 2,
+"explication": "Polyclète pense la beauté non comme une impression vague, mais comme le résultat de proportions équilibrées entre les différentes parties du corps. Le cours insiste sur cette idée : la beauté idéale se construit selon des rapports mesurables, harmonieux, presque mathématiques. C’est une conception fondamentale pour l’esthétique classique, car elle relie art, raison, ordre et mesure. La sculpture n’est pas ici une simple copie du réel, mais l’élaboration d’un idéal corporel réglé."
+},
+{
+"question": "48 - Pourquoi Giotto est-il présenté comme un tournant majeur dans l’histoire de la peinture ?",
+"options": [
+"Parce qu’il refuse toute représentation religieuse",
+"Parce qu’il réintroduit un style plus naturel après des formes jugées plus rigides",
+"Parce qu’il invente la peinture à l’huile",
+"Parce qu’il ne peint que des paysages"
+],
+"answerIndex": 1,
+"explication": "Le cours reprend l’idée, formulée notamment par Vasari, selon laquelle Giotto remet en lumière des principes plus naturels de représentation. Cela signifie qu’il redonne au corps, aux gestes, à l’espace et à l’émotion une présence plus crédible. Il ne s’agit pas encore du naturalisme de la Renaissance accomplie, mais d’un moment décisif de renouvellement. Giotto apparaît ainsi comme un point de bascule entre des codes plus anciens et une recherche accrue de vérité visuelle."
+},
+{
+"question": "49 - Que montre surtout l’anecdote de la mouche peinte par Giotto ?",
+"options": [
+"La supériorité du dessin sur la couleur",
+"La dimension politique de la peinture",
+"La nécessité d’imiter les Anciens",
+"La capacité de l’image à tromper le regard"
+],
+"answerIndex": 3,
+"explication": "Quand Cimabue tente de chasser la mouche peinte par Giotto, l’histoire montre que la peinture peut produire une illusion assez forte pour être prise pour le réel. Le cours relie ce type d’anecdote à la tradition de la mimèsis et du trompe-l’œil. L’intérêt n’est pas seulement amusant : il s’agit de réfléchir à ce qui fait la force de la représentation visuelle, capable d’agir sur le spectateur comme si l’objet représenté était réellement présent."
+},
+{
+"question": "50 - Pourquoi la figure de saint Luc est-elle importante pour l’histoire de la peinture chrétienne ?",
+"options": [
+"Parce qu’il est considéré comme le patron des peintres et comme auteur d’une première image de la Vierge",
+"Parce qu’il a inventé la perspective",
+"Parce qu’il a sculpté les premiers retables",
+"Parce qu’il a interdit les images religieuses"
+],
+"answerIndex": 0,
+"explication": "Saint Luc occupe une place symbolique majeure dans la tradition chrétienne des arts. Il est vu comme le patron des peintres, notamment parce qu’une tradition lui attribue une représentation de la Vierge. Dans le cours, cette figure permet de comprendre comment la pratique artistique peut être légitimée religieusement. Peindre n’est plus seulement une activité technique : cela peut devenir un acte noble, presque dévotionnel, inscrit dans une généalogie sacrée."
+},
+{
+"question": "51 - Dans le cours, que signifie principalement l’expression latine ut pictura poesis ?",
+"options": [
+"La peinture doit être plus fidèle que la poésie",
+"La peinture et la poésie entretiennent une parenté dans leurs pouvoirs de représentation",
+"La poésie doit remplacer les images",
+"La peinture ne peut rien raconter"
+],
+"answerIndex": 1,
+"explication": "L’expression ut pictura poesis signifie littéralement « comme la peinture, ainsi la poésie ». Elle sert à penser les liens entre arts visuels et arts du langage. Le cours montre que cette formule nourrit une réflexion sur les capacités communes de description, d’évocation, de narration et d’émotion. Il ne s’agit pas de dire que les deux arts sont identiques, mais qu’ils peuvent être comparés dans leurs effets et leurs ambitions représentatives."
+},
+{
+"question": "52 - En quoi le non finito de Michel-Ange peut-il être compris comme une pratique intellectualisée ?",
+"options": [
+"Parce qu’il prouve que l’artiste abandonne toujours ses œuvres par paresse",
+"Parce qu’il laisse voir la lutte entre l’idée, la matière et l’acte de libération de la forme",
+"Parce qu’il supprime toute réflexion sur le matériau",
+"Parce qu’il vise uniquement à accélérer la production"
+],
+"answerIndex": 2,
+"explication": "Le non finito ne doit pas être compris comme une simple inachèvement accidentel. Dans le cours, il est présenté comme une pratique fortement pensée, où l’on voit la figure émerger du bloc sans être complètement détachée de la matière. Cela rend visible la tension entre l’idée conçue par l’artiste et la résistance du marbre. Chez Michel-Ange, cette esthétique donne à voir le processus même de création : la sculpture semble se former sous nos yeux, comme si la matière contenait déjà la forme."
+},
+{
+"question": "53 - Selon les vers de Michel-Ange cités dans le cours, quel est le rôle de la main du sculpteur ?",
+"options": [
+"Elle obéit à l’entendement pour atteindre la forme contenue dans le marbre",
+"Elle agit au hasard sur la matière",
+"Elle imite mécaniquement la nature sans pensée",
+"Elle détruit la matière pour nier toute forme"
+],
+"answerIndex": 0,
+"explication": "Les vers cités montrent que le marbre contient potentiellement la forme, mais que seule la main guidée par l’intelligence peut l’atteindre. Le geste de sculpter n’est donc pas purement physique : il est dirigé par l’entendement. Cette idée est centrale dans le cours, car elle montre que la sculpture n’est pas seulement affaire de force ou d’habileté, mais aussi de conception, de jugement et de pensée."
+},
+{
+"question": "54 - Pourquoi Diderot admire-t-il particulièrement Falconet dans le passage cité ?",
+"options": [
+"Parce qu’il a inventé une nouvelle matière",
+"Parce qu’il a animé non seulement la statue, mais aussi le statuaire lui-même",
+"Parce qu’il refuse toute expression dans la sculpture",
+"Parce qu’il copie exactement l’Antiquité sans invention"
+],
+"answerIndex": 3,
+"explication": "Dans le texte cité, Diderot ne se contente pas de louer la qualité formelle de la sculpture. Il insiste sur la capacité de Falconet à faire sentir la vie, les émotions, la surprise, la joie et l’amour dans la pierre. Il va même jusqu’à dire qu’il anime le statuaire lui-même. Cela signifie que l’œuvre représente non seulement une figure, mais aussi un processus de vivification artistique. Le critique souligne ainsi le pouvoir de la sculpture de rendre sensible l’animation du vivant dans la matière inerte."
+},
+{
+"question": "55 - Pourquoi la question du processus est-elle particulièrement importante en sculpture, selon Falconet ?",
+"options": [
+"Parce qu’on peut toujours corriger librement un marbre terminé",
+"Parce que le travail sur le marbre devient difficilement réversible une fois dégrossi",
+"Parce que la couleur peut être changée à tout moment",
+"Parce que la matière ne résiste jamais"
+],
+"answerIndex": 1,
+"explication": "Falconet insiste sur une difficulté propre à la sculpture : lorsqu’un marbre est déjà largement entamé, il devient presque impossible de revenir en arrière sur des choix fondamentaux. Le cours utilise ce passage pour montrer que la sculpture engage fortement la responsabilité du geste. Contrairement à d’autres arts où certaines corrections sont possibles, le sculpteur doit anticiper, calculer et maîtriser le processus, car la matière retirée ne peut pas être restituée."
+},
+{
+"question": "56 - Que souligne la citation sur le Bernin capable de sculpter des heures durant « comme en extase » ?",
+"options": [
+"La dimension inspirée, intense et presque incarnée du travail sculptural",
+"La supériorité morale des assistants sur le maître",
+"La nécessité de travailler sans modèle",
+"L’abandon complet de la technique"
+],
+"answerIndex": 0,
+"explication": "La citation consacrée au Bernin insiste sur l’intensité physique et mentale de son travail. Il semble totalement absorbé, comme s’il voulait donner vie à la pierre par la force de sa concentration. Le cours utilise cette description pour montrer que la sculpture est pensée comme un acte où la technique, l’énergie du corps et la puissance de l’esprit s’unissent. Le sculpteur apparaît alors presque comme un médiateur entre la matière inerte et le vivant."
+},
+{
+"question": "57 - Dans le cours, pourquoi Le Rapt de Proserpine du Bernin est-il particulièrement frappant ?",
+"options": [
+"Parce qu’il efface tout mouvement",
+"Parce qu’il donne l’impression tactile que les doigts pénètrent la chair",
+"Parce qu’il refuse toute référence mythologique",
+"Parce qu’il représente un paysage sans figure"
+],
+"answerIndex": 2,
+"explication": "Le Rapt de Proserpine impressionne par la manière dont le marbre semble se comporter comme de la chair vivante. Les doigts de Pluton paraissent s’enfoncer dans le corps de Proserpine, produisant un effet presque impossible. Dans le cadre du cours, cette œuvre devient exemplaire de la virtuosité baroque : elle transforme la pierre dure en surface sensible, souple et émotive. Elle interroge aussi les limites de la matière et le pouvoir illusionniste de la sculpture."
+},
+{
+"question": "58 - Pourquoi l’œuvre Apollon et Daphné est-elle importante pour réfléchir au thème de la métamorphose ?",
+"options": [
+"Parce qu’elle supprime toute narration",
+"Parce qu’elle fige un instant de transformation où le corps devient autre sous nos yeux",
+"Parce qu’elle représente un simple portrait immobile",
+"Parce qu’elle rejette Ovide"
+],
+"answerIndex": 1,
+"explication": "Apollon et Daphné est une œuvre capitale car elle saisit le moment instable où Daphné devient laurier. Le cours montre que la sculpture ne représente pas seulement un état final ; elle capture un passage, une transition. Cela est particulièrement remarquable puisque la sculpture est, par définition, un art fixe. Le Bernin parvient pourtant à faire sentir le mouvement, le changement et le devenir dans la matière immobile."
+},
+{
+"question": "59 - Pourquoi la comparaison entre sculpture et philosophie chez Socrate puis Polyclète est-elle importante ?",
+"options": [
+"Parce qu’elle montre que former un corps ou une pensée suppose ordre, mesure et travail",
+"Parce qu’elle prouve que les philosophes étaient tous sculpteurs",
+"Parce qu’elle nie toute différence entre matière et idée",
+"Parce qu’elle réduit l’art à une simple décoration"
+],
+"answerIndex": 0,
+"explication": "La comparaison est importante parce qu’elle fait apparaître une analogie profonde entre l’élaboration d’une forme plastique et l’élaboration d’une pensée juste. Dans les deux cas, il faut de la mesure, un principe d’organisation et un travail de mise en ordre. Le cours mobilise cette idée pour montrer que la sculpture n’est pas un art inférieur ou purement manuel : elle est liée à une intelligence de la forme, et peut même servir de modèle conceptuel."
+},
+{
+"question": "60 - Pourquoi la présence de textes bibliques et coraniques sur la création de l’homme est-elle significative dans le cours ?",
+"options": [
+"Parce qu’elle montre que seule la tradition chrétienne parle de création",
+"Parce qu’elle oppose radicalement matière et souffle dans tous les cas",
+"Parce qu’elle met en évidence un imaginaire commun du façonnage de l’humain à partir de matière puis d’un principe vital",
+"Parce qu’elle interdit toute lecture artistique"
+],
+"answerIndex": 2,
+"explication": "Le rapprochement entre Bible et Coran montre que plusieurs traditions sacrées partagent l’image d’un humain façonné à partir de matière terrestre, puis animé par un souffle ou un esprit. Dans le cours, cette convergence renforce l’idée que la création de l’homme peut être pensée en termes plastiques : façonner, modeler, donner forme, insuffler la vie. Cela éclaire la proximité symbolique entre geste divin et geste de l’artiste."
+},
+{
+"question": "61 - Pourquoi la nature morte et le trompe-l’œil occupent-ils une place importante dans ce chapitre ?",
+"options": [
+"Parce qu’ils refusent toute imitation",
+"Parce qu’ils poussent à l’extrême la réflexion sur l’illusion visuelle et la présence du faux comme vrai",
+"Parce qu’ils sont uniquement décoratifs",
+"Parce qu’ils excluent toute virtuosité technique"
+],
+"answerIndex": 1,
+"explication": "La nature morte et le trompe-l’œil prolongent les récits antiques sur la mimèsis. Ils permettent d’examiner jusqu’où la peinture peut faire croire à la présence réelle des objets. Dans le cours, ces genres ne sont pas secondaires : ils constituent des laboratoires de l’illusion. Ils interrogent la frontière entre représentation et réalité, et montrent que la virtuosité artistique peut porter sur des objets simples aussi bien que sur des sujets héroïques."
+},
+{
+"question": "62 - Que met en valeur l’épisode de Lala de Cyzique cité par Pline l’Ancien ?",
+"options": [
+"La condamnation antique des femmes artistes",
+"La supériorité du paysage sur le portrait",
+"La possibilité pour une femme peintre de produire portraits et autoportrait au miroir",
+"La disparition du portrait dans l’Antiquité"
+],
+"answerIndex": 2,
+"explication": "Le passage sur Lala de Cyzique est important car il montre que l’Antiquité reconnaissait l’existence de femmes artistes. Le fait qu’elle peigne des portraits et son propre autoportrait au miroir est particulièrement significatif : cela relie création artistique, observation de soi et maîtrise technique. Dans le cours, cet exemple élargit la réflexion sur les pratiques artistiques et sur les figures de l’artiste au-delà des grands noms masculins."
+},
+{
+"question": "63 - Pourquoi le motif du miroir est-il théoriquement important dans ce cours ?",
+"options": [
+"Parce qu’il renvoie à la question du reflet, de l’autoportrait et de la médiation de l’image",
+"Parce qu’il sert uniquement d’accessoire décoratif",
+"Parce qu’il remplace toutes les autres techniques",
+"Parce qu’il empêche de voir la réalité"
+],
+"answerIndex": 0,
+"explication": "Le miroir est important parce qu’il matérialise le problème central de la représentation : on n’accède pas directement à la chose, mais à son image réfléchie. Il intervient dans le mythe de Narcisse, dans l’autoportrait, et plus largement dans toute une pensée de la peinture comme surface réfléchissante. Le cours montre ainsi que le miroir n’est pas un simple objet iconographique ; il sert à penser la nature même de l’image."
+},
+{
+"question": "64 - Dans le mythe de Pygmalion, pourquoi la transformation finale de la statue est-elle si importante pour l’histoire de l’art ?",
+"options": [
+"Parce qu’elle prouve que toutes les statues sont religieuses",
+"Parce qu’elle remplace la sculpture par la poésie",
+"Parce qu’elle exprime le rêve de l’art de produire du vivant à partir de l’inanimé",
+"Parce qu’elle condamne toute imitation du corps"
+],
+"answerIndex": 2,
+"explication": "La métamorphose finale concentre un rêve fondamental de l’art : faire surgir la vie depuis la matière inerte. En ce sens, Pygmalion est un mythe majeur pour penser la puissance de l’artiste. Le cours montre que cette histoire ne parle pas seulement d’amour ou de miracle divin, mais aussi d’un fantasme artistique profond : que l’œuvre devienne présence réelle, qu’elle cesse d’être seulement représentation pour devenir vivant."
+},
+{
+"question": "65 - Pourquoi le cours rapproche-t-il parfois création divine et geste artistique ?",
+"options": [
+"Pour nier toute différence entre l’homme et Dieu",
+"Pour montrer que l’artiste reproduit symboliquement un geste de façonnage, de mise en forme et parfois d’animation",
+"Pour interdire toute lecture mythologique",
+"Pour expliquer uniquement la peinture abstraite"
+],
+"answerIndex": 1,
+"explication": "Le rapprochement ne veut pas dire que l’artiste est littéralement un dieu. Il sert à montrer qu’il existe une analogie symbolique entre créer un être ou une forme et créer une œuvre. Dans les mythes comme chez Prométhée, dans les textes sacrés ou chez Pygmalion, on retrouve les gestes de façonner, modeler, insuffler, faire apparaître. Le cours s’appuie sur ces parallèles pour penser la grandeur et la complexité du travail artistique."
+},
+{
+"question": "66 - Pourquoi le David du Bernin se distingue-t-il de représentations plus classiques du même héros ?",
+"options": [
+"Parce qu’il montre David dans une action tendue, saisie pendant le combat",
+"Parce qu’il montre David endormi",
+"Parce qu’il remplace David par Goliath",
+"Parce qu’il supprime tout mouvement corporel"
+],
+"answerIndex": 0,
+"explication": "Le David du Bernin appartient à une esthétique baroque du mouvement et de la tension. Alors que d’autres versions célèbres montrent David avant l’action ou dans une posture plus stable, le Bernin le saisit dans un moment énergique, corps vrillé, concentré, prêt à lancer sa pierre. Le cours met en avant cette différence pour montrer comment la sculpture peut traduire un instant dramatique et non seulement une beauté idéale statique."
+},
+{
+"question": "67 - Dans la logique du cours, que révèle le thème de l’atelier d’artiste ?",
+"options": [
+"Qu’il s’agit d’un simple décor sans intérêt théorique",
+"Qu’il permet de réfléchir au statut de l’artiste, à son travail et à la fabrication même de l’œuvre",
+"Qu’il remplace l’étude des œuvres",
+"Qu’il sert seulement à exposer des outils"
+],
+"answerIndex": 1,
+"explication": "L’atelier n’est pas seulement un lieu matériel. Il permet de penser la création en acte, le statut social de l’artiste, la relation entre idée et exécution, entre modèle et œuvre achevée. Dans le cours, les scènes d’atelier montrent que l’art n’est pas seulement un résultat visible dans un musée ; c’est aussi une pratique, un espace de travail, un savoir-faire et une construction de l’image de l’artiste lui-même."
+},
+{
+"question": "68 - Pourquoi peut-on dire que le cours articule constamment matière et pensée ?",
+"options": [
+"Parce qu’il sépare toujours radicalement la technique de l’idée",
+"Parce qu’il montre que les œuvres naissent de matériaux concrets mais aussi de mythes, de concepts et de théories",
+"Parce qu’il refuse de commenter les textes",
+"Parce qu’il ne s’intéresse qu’aux supports matériels"
+],
+"answerIndex": 2,
+"explication": "C’est l’un des fils directeurs du chapitre : l’art est à la fois affaire de matière et de pensée. Les artistes travaillent l’argile, le marbre, la peinture, mais ils sont aussi nourris de textes fondateurs, de récits mythologiques, de réflexions philosophiques et d’idéaux esthétiques. Le titre même du cours va dans ce sens. Comprendre une œuvre, ce n’est donc pas seulement identifier son matériau ; c’est aussi saisir les idées et imaginaires qu’elle met en forme."
+},
+{
+"question": "69 - Pourquoi l’iconologie dépasse-t-elle une simple description visuelle ?",
+"options": [
+"Parce qu’elle cherche à interpréter le sens culturel, symbolique et intellectuel des images",
+"Parce qu’elle refuse toute étude des symboles",
+"Parce qu’elle consiste seulement à compter les personnages",
+"Parce qu’elle s’intéresse uniquement aux cadres"
+],
+"answerIndex": 0,
+"explication": "Décrire une image consiste à dire ce que l’on voit. L’iconologie va plus loin : elle cherche ce que cela signifie. Elle interroge les attributs, les références culturelles, les traditions visuelles, les codes religieux, politiques ou moraux. Dans le cours, cette démarche est importante car beaucoup d’images ne se comprennent pas pleinement sans leurs sources textuelles, mythologiques ou doctrinales."
+},
+{
+"question": "70 - En réunissant Butadès, Narcisse, Zeuxis, Prométhée, Pygmalion, Giotto, Michel-Ange et le Bernin, quelle idée générale du cours se dégage le mieux ?",
+"options": [
+"Que l’histoire de l’art se réduit à une liste de biographies",
+"Que les arts visuels sont pensés comme des pratiques capables d’imiter, de transformer, d’animer et de réfléchir le réel",
+"Que la sculpture est toujours supérieure à la peinture",
+"Que les mythes remplacent complètement l’analyse des œuvres"
+],
+"answerIndex": 1,
+"explication": "L’ensemble du chapitre montre que l’art n’est pas seulement fabrication d’objets beaux. Les récits d’origine, les mythes, les textes philosophiques et les exemples d’œuvres servent à penser plusieurs pouvoirs de l’art : imiter le réel, en conserver la trace, transformer la matière, produire l’illusion, donner l’impression de vie, réfléchir la relation entre visible et pensée. C’est cette vision large et profonde des arts visuels qui structure le cours."
+}
+]
