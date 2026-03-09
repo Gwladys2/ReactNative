@@ -65,7 +65,7 @@ export default function LessonScreen({ navigation }) {
             {!showRestart ? (
                 <>
                     
-                    <Text style={styles.titre}>Littérature et peinture:  L’Humanisme et l’esthétique de l’idéal classique</Text>
+                    <Text style={styles.titre}>Analyse des Arts partie 2:  L’Humanisme et l’esthétique de l’idéal classique</Text>
 
                     <Text style={styles.question}>{current.question}</Text>
                     {current.options.map((option, i) => (
@@ -82,11 +82,11 @@ export default function LessonScreen({ navigation }) {
             )}
 
        <View style={styles.linkContainer}>
-                                 <Text style={styles.link} onPress={() => navigation.navigate('AnalyseArt2Part')}> L’Humanisme et l’esthétique de l’idéal classique </Text>
-                                  <Text style={styles.link} onPress={() => navigation.navigate('AnalyseArt2Part2')}>✨Humanisme et Renaissance</Text>
-                                <Text style={styles.link} onPress={() => navigation.navigate('AnalyseArt2Part3')}>✨l’imaginaire archéologique</Text>
-                                 <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue4')}></Text>
-                               <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue5')}></Text>
+                                <Text style={styles.link} onPress={() => navigation.navigate('AnalyseArt2Part')}>✨ L’Humanisme et l’esthétique de l’idéal classique </Text>
+                                <Text style={styles.link} onPress={() => navigation.navigate('AnalyseArt2Part2')}>✨Humanisme et Renaissance</Text>
+                                <Text style={styles.link} onPress={() => navigation.navigate('AnalyseArt2Part3')}>✨Le portrait</Text>
+                                <Text style={styles.link} onPress={() => navigation.navigate('AnalyseArt2Part4')}>✨Circulations artistiques</Text>
+                                <Text style={styles.link} onPress={() => navigation.navigate('AnalyseArt2Part5')}>✨Origines mythiques de l’art</Text>
                                 <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue6')}></Text>
                                                                                           
                                </View>

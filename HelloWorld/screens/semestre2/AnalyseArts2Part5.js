@@ -1,6 +1,6 @@
 import React, { useContext, useState } from 'react';
 import { View, Text, Button, StyleSheet, Alert } from 'react-native';
-import questions from '../../questions/LettresArts2/serie5.json';
+import questions from '../../questions/LettresArts2/AnalyseArt2/serie5.json';
 import { ProgressContext } from '../../context/ProgressContext';
 import HeaderStats from '../../components/HeaderStats';
 import Logo from '../Logo';
@@ -65,7 +65,7 @@ export default function LessonScreen({ navigation }) {
             {!showRestart ? (
                 <>
                     
-                    <Text style={styles.titre}>Lettres et Arts partie 2: origines mythiques de l’art, la mimèsis et les relations entre art et pensée </Text>
+                    <Text style={styles.titre}>Analyse de l'Arts partie 2: origines mythiques de l’art, la mimèsis et les relations entre art et pensée </Text>
 
                     <Text style={styles.question}>{current.question}</Text>
                     {current.options.map((option, i) => (
@@ -82,12 +82,12 @@ export default function LessonScreen({ navigation }) {
             )}
 
        <View style={styles.linkContainer}>
-                                 <Text style={styles.link} onPress={() => navigation.navigate('LettresArts2Part')}> ✨Des ruines </Text>
-                                 <Text style={styles.link} onPress={() => navigation.navigate('LettresArts2Part2')}>✨Les ruines à la Renaissance</Text>
-                                <Text style={styles.link} onPress={() => navigation.navigate('LettresArts2Part3')}>✨L’humanisme et la Renaissance</Text>
-                                 <Text style={styles.link} onPress={() => navigation.navigate('LettresArts2Part4')}> ✨De l’Humanisme aux Lumières</Text>
-                               <Text style={styles.link} onPress={() => navigation.navigate('LettresArts2Part5')}>✨origines mythiques de l’art </Text>
-                                <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue6')}>🌼</Text>
+                                <Text style={styles.link} onPress={() => navigation.navigate('AnalyseArt2Part')}> ✨L’Humanisme et l’esthétique de l’idéal classique </Text>
+                                <Text style={styles.link} onPress={() => navigation.navigate('AnalyseArt2Part2')}>✨Humanisme et Renaissance</Text>
+                                <Text style={styles.link} onPress={() => navigation.navigate('AnalyseArt2Part3')}>✨Le portrait</Text>
+                                 <Text style={styles.link} onPress={() => navigation.navigate('AnalyseArt2Part4')}>✨Circulations artistiques</Text>
+                                <Text style={styles.link} onPress={() => navigation.navigate('AnalyseArt2Part5')}>✨Origines mythiques de l’art</Text>
+                                <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue6')}></Text>
                                                                                           
                                </View>
        

@@ -106,9 +106,8 @@ import Inegalite3 from './screens/semestre2/Inegalite3';
 
 import LettreArt2Part from './screens/semestre2/LettresArts2Part';
 import LettreArt2Part2 from './screens/semestre2/LettresArts2Part2';
-import LettreArt2Part3 from './screens/semestre2/LettresArts2Part3';
-import LettreArt2Part4 from './screens/semestre2/LettresArts2Part4';
-import LettreArt2Part5 from './screens/semestre2/LettresArts2Part5';
+import LettreArt2Part3 from './screens/semestre2/AnalyseArts2Part4';
+
 
 import MenuLettreArts from './screens/MenuLettreArts';
 
@@ -117,6 +116,8 @@ import MenuAnalyseArts from './screens/MenuAnalyseArts';
 import AnalyseArt2Part from './screens/semestre2/AnalyseArts2Part';
 import AnalyseArt2Part2 from './screens/semestre2/AnalyseArts2Part2';
 import AnalyseArt2Part3 from './screens/semestre2/AnalyseArts2Part3';
+import AnalyseArt2Part4 from './screens/semestre2/AnalyseArts2Part4';
+import AnalyseArt2Part5 from './screens/semestre2/AnalyseArts2Part5';
 
 
 
@@ -261,8 +262,7 @@ export default function App() {
                <Stack.Screen name="LettresArts2Part" component={LettreArt2Part} />
                 <Stack.Screen name="LettresArts2Part2" component={LettreArt2Part2} />
                 <Stack.Screen name="LettresArts2Part3" component={LettreArt2Part3} />
-                <Stack.Screen name="LettresArts2Part4" component={LettreArt2Part4} />
-                <Stack.Screen name="LettresArts2Part5" component={LettreArt2Part5} />
+                
 
                <Stack.Screen name="MenuLettreArts" component={MenuLettreArts} />
                <Stack.Screen name="MenuAnalyseArts" component={MenuAnalyseArts} />
@@ -271,6 +271,8 @@ export default function App() {
               <Stack.Screen name="AnalyseArt2Part" component={AnalyseArt2Part} />
               <Stack.Screen name="AnalyseArt2Part2" component={AnalyseArt2Part2} />
               <Stack.Screen name="AnalyseArt2Part3" component={AnalyseArt2Part3} />
+              <Stack.Screen name="AnalyseArt2Part4" component={AnalyseArt2Part4} />
+              <Stack.Screen name="AnalyseArt2Part5" component={AnalyseArt2Part5} />
               
 
             </Stack.Navigator>

@@ -1,623 +1,773 @@
 [
-{
-"question":"1 - Quel artiste est associé dans le cours à l’imaginaire archéologique à la Renaissance ?",
-"options":[
-"Sandro Botticelli",
-"Leonardo da Vinci",
-"Andrea Mantegna",
-"Raphaël"
-],
-"answerIndex":2,
-"explication":"Le cours présente Andrea Mantegna comme une figure centrale de l’imaginaire archéologique à la Renaissance. Ses œuvres témoignent d’un intérêt marqué pour l’Antiquité, notamment à travers la représentation de ruines et d’éléments architecturaux antiques."
-},
-{
-"question":"2 - Quel sujet religieux Andrea Mantegna représente-t-il dans deux tableaux étudiés dans le cours ?",
-"options":[
-"Saint Sébastien",
-"Saint Pierre",
-"Saint Jean",
-"Saint François"
-],
-"answerIndex":0,
-"explication":"Andrea Mantegna réalise plusieurs représentations de Saint Sébastien. Dans ces œuvres, le saint est souvent placé dans un décor architectural antique, ce qui renforce l’idée d’un dialogue entre christianisme et héritage antique."
-},
-{
-"question":"3 - Quel auteur antique est mentionné dans le cours pour son récit sur le peintre Zeuxis ?",
-"options":[
-"Vitruve",
-"Cicéron",
-"Ovide",
-"Pline l’Ancien"
-],
-"answerIndex":3,
-"explication":"Pline l’Ancien, dans son ouvrage Histoire naturelle, raconte l’histoire du peintre grec Zeuxis. Ce texte antique est une source importante pour les artistes et théoriciens de la Renaissance qui cherchent à comprendre les pratiques artistiques de l’Antiquité."
-},
-{
-"question":"4 - Quel livre mystérieux publié en 1499 est étudié dans le cours ?",
-"options":[
-"Le Décaméron",
-"Le Songe de Poliphile",
-"La Divine Comédie",
-"Les Métamorphoses"
-],
-"answerIndex":1,
-"explication":"Le Songe de Poliphile (Hypnerotomachia Poliphili), publié en 1499 à Venise, est un ouvrage célèbre pour sa richesse iconographique et typographique. Il mêle récit onirique, érudition antique et nombreuses illustrations."
-},
-{
-"question":"5 - Quel est le titre original latin du Songe de Poliphile ?",
-"options":[
-"Somnium Poliphili",
-"Hypnerotomachia Amoris",
-"Hypnerotomachia Poliphili",
-"De Amore Antiquo"
-],
-"answerIndex":2,
-"explication":"Le titre original de l’ouvrage est Hypnerotomachia Poliphili. Ce terme complexe signifie littéralement « le combat amoureux en rêve de Poliphile »."
-},
-{
-"question":"6 - Quel grand éditeur vénitien publie le Songe de Poliphile ?",
-"options":[
-"Johannes Gutenberg",
-"Alde Manuce",
-"Christophe Plantin",
-"Étienne Dolet"
-],
-"answerIndex":1,
-"explication":"Alde Manuce est l’éditeur vénitien qui publie le Songe de Poliphile en 1499. Il est célèbre pour ses innovations typographiques et notamment pour l’invention du caractère italique."
-},
-{
-"question":"7 - À quel célèbre poème médiéval le cours compare-t-il le récit du Songe de Poliphile ?",
-"options":[
-"La Divine Comédie",
-"La Chanson de Roland",
-"Le Décaméron",
-"Les Confessions"
-],
-"answerIndex":0,
-"explication":"Le cours évoque La Divine Comédie de Dante comme une référence importante pour comprendre la structure du récit onirique du Songe de Poliphile."
-},
-{
-"question":"8 - À quel auteur est généralement attribué le Songe de Poliphile ?",
-"options":[
-"Pétrarque",
-"Leon Battista Alberti",
-"Marsile Ficin",
-"Francesco Colonna"
-],
-"answerIndex":3,
-"explication":"L’ouvrage est généralement attribué à Francesco Colonna, moine dominicain. L’attribution repose notamment sur un acrostiche présent dans le livre."
-},
-{
-"question":"9 - En quelle année paraît l’édition originale du Songe de Poliphile ?",
-"options":[
-"1505",
-"1480",
-"1499",
-"1520"
-],
-"answerIndex":2,
-"explication":"L’édition originale du Songe de Poliphile est publiée en 1499 à Venise. Elle est célèbre pour la qualité exceptionnelle de sa typographie et de ses illustrations."
-},
-{
-"question":"10 - Quelle traduction française du Songe de Poliphile paraît en 1546 ?",
-"options":[
-"Celle de Jacques Martin",
-"Celle de Montaigne",
-"Celle de Rabelais",
-"Celle de Calvin"
-],
-"answerIndex":0,
-"explication":"Une traduction française du Songe de Poliphile est publiée en 1546 par Jacques Martin. Elle contribue à diffuser l’ouvrage dans le monde francophone."
-},
-{
-"question":"11 - Comment appelle-t-on la grande lettre décorative au début d’un texte dans les manuscrits ou livres illustrés ?",
-"options":[
-"Miniature",
-"Lettrine",
-"Enluminure",
-"Initiale gothique"
-],
-"answerIndex":1,
-"explication":"La lettrine est une grande lettre ornée placée au début d’un texte ou d’un paragraphe. Elle est fréquente dans les manuscrits médiévaux et les premiers livres imprimés."
-},
-{
-"question":"12 - Comment appelle-t-on les ornements figuratifs décorant les manuscrits médiévaux ?",
-"options":[
-"Lettrines",
-"Miniatures",
-"Marginalia",
-"Enluminures"
-],
-"answerIndex":3,
-"explication":"Les enluminures sont des décorations peintes dans les manuscrits médiévaux. Elles peuvent représenter des motifs décoratifs ou des scènes narratives."
-},
-{
-"question":"13 - Quel est l’exemple de livre illustré médiéval mentionné dans le cours ?",
-"options":[
-"Le Roman de la Rose",
-"La Divine Comédie",
-"Le Décaméron",
-"Le Prince"
-],
-"answerIndex":0,
-"explication":"Le Roman de la Rose est un célèbre texte médiéval souvent accompagné d’illustrations dans les manuscrits."
-},
-{
-"question":"14 - Quel domaine scientifique étudie les inscriptions gravées sur pierre ou métal ?",
-"options":[
-"L’archéologie",
-"La paléographie",
-"L’épigraphie",
-"La numismatique"
-],
-"answerIndex":2,
-"explication":"L’épigraphie est la discipline qui étudie les inscriptions gravées sur des supports durables comme la pierre, le métal ou l’argile."
-},
-{
-"question":"15 - Dans le cours, quel texte antique est évoqué à propos de l’histoire de Didon et Énée ?",
-"options":[
-"L’Iliade",
-"L’Enéide",
-"Les Métamorphoses",
-"L’Odyssée"
-],
-"answerIndex":1,
-"explication":"L’Enéide de Virgile raconte notamment l’histoire tragique de Didon et Énée. Ce récit est évoqué dans le cours à propos d’une inscription étudiée."
-},
-{
-"question":"16 - Quel auteur antique est à l’origine de l’Enéide ?",
-"options":[
-"Ovide",
-"Cicéron",
-"Horace",
-"Virgile"
-],
-"answerIndex":3,
-"explication":"Virgile est l’auteur de l’Enéide, grand poème épique latin racontant les aventures d’Énée après la chute de Troie."
-},
-{
-"question":"17 - Quel texte antique sur les hiéroglyphes est redécouvert à la Renaissance ?",
-"options":[
-"Hieroglyphica",
-"De Architectura",
-"Ars Poetica",
-"Naturalis Historia"
-],
-"answerIndex":0,
-"explication":"Le texte Hieroglyphica attribué à Horapollon est redécouvert au XVe siècle et suscite un grand intérêt pour l’interprétation symbolique des hiéroglyphes."
-},
-{
-"question":"18 - Qui est l’auteur du traité Hieroglyphica ?",
-"options":[
-"Platon",
-"Horapollon",
-"Ptolémée",
-"Plotin"
-],
-"answerIndex":2,
-"explication":"Le traité Hieroglyphica est attribué à Horapollon. Ce texte joue un rôle important dans l’imaginaire symbolique de la Renaissance."
-},
-{
-"question":"19 - Dans le cours, que cherchent à évoquer les ruines architecturales dans le Songe de Poliphile ?",
-"options":[
-"La destruction totale",
-"La guerre",
-"La modernité",
-"Un passé antique idéalisé"
-],
-"answerIndex":3,
-"explication":"Les ruines dans le Songe de Poliphile participent à une vision idéalisée de l’Antiquité. Elles créent un paysage chargé d’émotion et de mémoire."
-},
-{
-"question":"20 - Quel effet esthétique produit le paysage de ruines dans ce livre ?",
-"options":[
-"Une invitation au regard",
-"Une simplification visuelle",
-"Une abstraction",
-"Une neutralité esthétique"
-],
-"answerIndex":1,
-"explication":"Le paysage de ruines invite le lecteur à contempler l’Antiquité et à réfléchir à la relation entre passé et présent."
-},
-{
-"question":"21 - Quel type de relation le Songe de Poliphile met-il en scène entre littérature et image ?",
-"options":["Une opposition entre texte et image","Une absence totale d’illustrations","Une interaction étroite entre texte et images","Une domination de l’image sur le texte"],
-"answerIndex":2,
-"explication":"Le livre combine étroitement récit littéraire et images. Les gravures participent à la compréhension du texte et à la construction de l’imaginaire archéologique."
-},
-{
-"question":"22 - Dans le Songe de Poliphile, quel thème central organise le récit ?",
-"options":["La quête amoureuse de Poliphile","La guerre antique","La vie politique romaine","Une biographie historique"],
-"answerIndex":0,
-"explication":"Le récit raconte le rêve de Poliphile et sa quête amoureuse pour retrouver Polia."
-},
-{
-"question":"23 - Quel type de récit caractérise principalement le Songe de Poliphile ?",
-"options":["Un récit historique","Un traité scientifique","Une chronique politique","Un récit onirique"],
-"answerIndex":3,
-"explication":"L’ouvrage est structuré comme un rêve rempli de visions symboliques, d’architecture antique et d’énigmes."
-},
-{
-"question":"24 - Quel rôle joue la typographie dans le Songe de Poliphile ?",
-"options":["Elle est secondaire","Elle participe fortement à l’esthétique du livre","Elle est absente","Elle sert uniquement à la pagination"],
-"answerIndex":1,
-"explication":"La typographie est particulièrement soignée et fait partie de l’ambition esthétique du livre."
-},
-{
-"question":"25 - Quelle caractéristique distingue ce livre dans l’histoire de l’imprimerie ?",
-"options":["L’absence d’illustrations","Une impression monochrome","Une combinaison remarquable de texte et d’images","Un format très réduit"],
-"answerIndex":2,
-"explication":"Le livre est célèbre pour l’harmonie exceptionnelle entre typographie et illustrations."
-},
-{
-"question":"26 - Quelle ville est le centre de publication du Songe de Poliphile ?",
-"options":["Rome","Venise","Florence","Milan"],
-"answerIndex":1,
-"explication":"Le livre est publié à Venise, un centre majeur de l’imprimerie à la Renaissance."
-},
-{
-"question":"27 - Quel rôle joue l’Antiquité dans l’imaginaire du livre ?",
-"options":["Une source d’inspiration artistique","Un élément secondaire","Un simple décor","Un rejet du passé"],
-"answerIndex":0,
-"explication":"L’Antiquité inspire fortement les décors, les architectures et les symboles présents dans l’ouvrage."
-},
-{
-"question":"28 - Quel aspect scientifique le livre imite-t-il parfois ?",
-"options":["La cartographie","La botanique expérimentale","La médecine antique","Les ouvrages savants illustrés"],
-"answerIndex":3,
-"explication":"Le livre adopte parfois la forme et la rigueur visuelle des ouvrages scientifiques illustrés."
-},
-{
-"question":"29 - Quel type d’inscriptions est étudié dans l’épigraphie ?",
-"options":["Les manuscrits","Les inscriptions gravées","Les peintures murales","Les lettres manuscrites"],
-"answerIndex":2,
-"explication":"L’épigraphie analyse les inscriptions gravées sur pierre, métal ou autres supports durables."
-},
-{
-"question":"30 - Quel objectif a la transcription des inscriptions antiques ?",
-"options":["Comprendre et interpréter les textes anciens","Créer de nouvelles inscriptions","Décorer les monuments","Modifier les textes"],
-"answerIndex":0,
-"explication":"La transcription permet de conserver et d’analyser les inscriptions antiques."
-},
-{
-"question":"31 - Quelle discipline étudie les manuscrits anciens ?",
-"options":["La numismatique","La paléographie","La philologie","La codicologie"],
-"answerIndex":1,
-"explication":"La paléographie analyse l’écriture et les manuscrits anciens."
-},
-{
-"question":"32 - Quel rôle jouent les ruines dans l’imaginaire artistique de la Renaissance ?",
-"options":["Elles symbolisent la modernité","Elles effacent l’histoire","Elles détruisent le récit","Elles évoquent le passé antique"],
-"answerIndex":3,
-"explication":"Les ruines rappellent la grandeur passée de l’Antiquité."
-},
-{
-"question":"33 - Quelle fonction narrative peuvent avoir les ruines dans les images ?",
-"options":["Créer un contexte historique","Supprimer l’action","Empêcher la narration","Simplifier l’image"],
-"answerIndex":0,
-"explication":"Les ruines situent l’action dans un contexte historique et symbolique."
-},
-{
-"question":"34 - Quel sentiment les ruines peuvent-elles susciter ?",
-"options":["L’indifférence","La nostalgie et l’émotion","La neutralité","La peur"],
-"answerIndex":2,
-"explication":"Les ruines suscitent souvent une émotion liée au passage du temps."
-},
-{
-"question":"35 - Dans l’imaginaire archéologique, les ruines représentent souvent :",
-"options":["La destruction pure","Un passé idéalisé","Un monde futuriste","Une absence de culture"],
-"answerIndex":1,
-"explication":"Les ruines permettent de contempler un passé glorieux et idéalisé."
-},
-{
-"question":"36 - Quel type de paysage apparaît progressivement à la Renaissance ?",
-"options":["Paysage abstrait","Paysage marin","Paysage urbain","Paysage de ruines"],
-"answerIndex":3,
-"explication":"Le paysage de ruines devient un thème artistique important."
-},
-{
-"question":"37 - Quel rôle joue la mise en page dans le Songe de Poliphile ?",
-"options":["Organiser la lecture visuelle","Supprimer les images","Éviter les marges","Réduire le texte"],
-"answerIndex":0,
-"explication":"La mise en page organise la relation entre texte et image."
-},
-{
-"question":"38 - Dans les livres illustrés, quelle fonction peuvent avoir les images ?",
-"options":["Décorative uniquement","Narrative et explicative","Symbolique uniquement","Technique uniquement"],
-"answerIndex":2,
-"explication":"Les images peuvent expliquer, illustrer ou enrichir le texte."
-},
-{
-"question":"39 - Quel type d’objet antique apparaît souvent dans les illustrations ?",
-"options":["Machines modernes","Objets médiévaux","Monuments antiques","Instruments scientifiques"],
-"answerIndex":3,
-"explication":"Les monuments antiques sont fréquents dans les images du livre."
-},
-{
-"question":"40 - Quel effet les paysages de ruines produisent-ils sur le lecteur ?",
-"options":["Ils invitent à la contemplation","Ils empêchent la compréhension","Ils rendent le texte abstrait","Ils suppriment l’émotion"],
-"answerIndex":1,
-"explication":"Les ruines invitent le lecteur à réfléchir au passé."
-},
+  {
+    "question": "1 - Dans l’Antiquité romaine, qui avait généralement droit à un portrait sculpté ?",
+    "options": [
+      "Tous les citoyens",
+      "Les artistes célèbres",
+      "Les personnes ayant accompli des actions remarquables",
+      "Les membres de la famille impériale uniquement"
+    ],
+    "answerIndex": 2,
+    "explication": "Selon Pline l’Ancien, on ne réalisait des images d’hommes que pour ceux qui méritaient l’immortalité par une action d’éclat. Le portrait avait donc une fonction honorifique et mémorielle liée à la gloire publique."
+  },
+  {
+    "question": "2 - Que sont les « imagines majorum » dans la Rome antique ?",
+    "options": [
+      "Des portraits funéraires d’ancêtres réalisés à partir de moulages",
+      "Des statues religieuses représentant les dieux",
+      "Des fresques décoratives domestiques",
+      "Des portraits idéalisés d’empereurs"
+    ],
+    "answerIndex": 0,
+    "explication": "Les imagines majorum sont des portraits d’ancêtres patriciens réalisés à partir de moulages en cire. Ils servaient à préserver la mémoire familiale et à affirmer le prestige de la lignée."
+  },
+  {
+    "question": "3 - Que devient globalement le genre du portrait durant le Moyen Âge ?",
+    "options": [
+      "Il se développe fortement",
+      "Il devient exclusivement religieux",
+      "Il devient abstrait",
+      "Il disparaît largement comme genre autonome"
+    ],
+    "answerIndex": 3,
+    "explication": "Le cours souligne qu’au Moyen Âge, le portrait individuel disparaît largement comme genre artistique autonome. L’art privilégie alors la représentation symbolique et religieuse plutôt que l’individualité."
+  },
+  {
+    "question": "4 - Quel tableau est considéré comme le premier portrait peint depuis l’Antiquité ?",
+    "options": [
+      "Le Portrait de l’Arioste de Titien",
+      "Le Portrait de Jean II le Bon",
+      "La Dame à l’hermine de Léonard de Vinci",
+      "Le Portrait d’un homme de profil de Masaccio"
+    ],
+    "answerIndex": 1,
+    "explication": "Le portrait de Jean II le Bon (vers 1355) est considéré comme le premier portrait peint depuis l’Antiquité, marquant la redécouverte de la représentation individualisée."
+  },
+  {
+    "question": "5 - Quel artiste est associé à la démocratisation du portrait à la Renaissance ?",
+    "options": [
+      "Antonello da Messina",
+      "Michel-Ange",
+      "Raphaël",
+      "Giotto"
+    ],
+    "answerIndex": 0,
+    "explication": "Antonello da Messina contribue à la diffusion du portrait au-delà des élites, notamment grâce à un style naturaliste influencé par la peinture flamande."
+  },
+  {
+    "question": "6 - Selon Leon Battista Alberti, que permet la peinture des portraits ?",
+    "options": [
+      "D’idéaliser les figures religieuses",
+      "De remplacer la sculpture",
+      "De rendre présents les absents et les morts",
+      "De simplifier la représentation du corps"
+    ],
+    "answerIndex": 2,
+    "explication": "Alberti explique que la peinture possède une force quasi divine : elle rend présents les absents et permet aux morts de continuer à exister par leur image."
+  },
+  {
+    "question": "7 - Quelle est l’une des fonctions principales du portrait à la Renaissance ?",
+    "options": [
+      "Illustrer uniquement des récits mythologiques",
+      "Montrer le statut social et la personnalité",
+      "Servir exclusivement d’objet religieux",
+      "Remplacer les textes historiques"
+    ],
+    "answerIndex": 1,
+    "explication": "Le portrait renaissant sert à exprimer l’identité individuelle, la position sociale et les qualités morales du modèle. Il devient un outil de représentation sociale."
+  },
+  {
+    "question": "8 - Dans le diptyque des ducs d’Urbino, quelles vertus sont associées à la duchesse ?",
+    "options": [
+      "Les vertus cardinales",
+      "Les vertus civiques",
+      "Les vertus héroïques",
+      "Les vertus théologales"
+    ],
+    "answerIndex": 3,
+    "explication": "La duchesse est associée aux vertus théologales (foi, espérance, charité), tandis que le duc incarne les vertus cardinales. Cette distinction symbolique renforce la dimension morale du portrait."
+  },
+  {
+    "question": "9 - Quelle technique picturale est qualifiée de « technique reine » dans la peinture de la Renaissance ?",
+    "options": [
+      "La peinture à l’huile",
+      "La fresque",
+      "La tempera",
+      "La mosaïque"
+    ],
+    "answerIndex": 0,
+    "explication": "La peinture à l’huile devient la technique dominante car elle permet des effets de lumière, de texture et de modelé plus subtils que les techniques précédentes."
+  },
+  {
+    "question": "10 - Qui est surnommé le « prince des humanistes » ?",
+    "options": [
+      "Thomas More",
+      "Érasme de Rotterdam",
+      "Machiavel",
+      "Pétrarque"
+    ],
+    "answerIndex": 1,
+    "explication": "Érasme de Rotterdam est considéré comme le « prince des humanistes » en raison de son influence intellectuelle, de son travail sur les textes antiques et de sa vision morale et éducative."
+  },
+  {
+    "question": "11 - Quel principe artistique est partagé par l’Italie et les Flandres à la Renaissance ?",
+    "options": [
+      "L’abstraction géométrique",
+      "La disparition de la perspective",
+      "L’imitation de la nature",
+      "Le rejet de l’Antiquité"
+    ],
+    "answerIndex": 2,
+    "explication": "Les deux régions partagent une volonté d’imiter la nature, même si leurs méthodes diffèrent : perspective analytique en Italie, réalisme empirique dans les Flandres."
+  },
+  {
+    "question": "12 - Quel élément caractérise particulièrement le réalisme flamand ?",
+    "options": [
+      "La stylisation des formes",
+      "L’absence de profondeur",
+      "Le symbolisme religieux dominant",
+      "La maîtrise de la lumière et des textures"
+    ],
+    "answerIndex": 3,
+    "explication": "Les peintres flamands excellent dans la représentation de la lumière, des matières et des détails, ce qui donne un rendu extrêmement réaliste."
+  },
+  {
+    "question": "13 - Quelle idée exprime la phrase d’Érasme « On ne naît pas homme, on le devient » ?",
+    "options": [
+      "L’homme est déterminé par la nature",
+      "L’éducation forme l’être humain",
+      "La religion définit l’homme",
+      "La naissance sociale fixe le destin"
+    ],
+    "answerIndex": 1,
+    "explication": "Cette phrase humaniste affirme que l’homme se construit par l’éducation, la culture et le développement intellectuel."
+  },
+  {
+    "question": "14 - Quel rôle joue le portrait dans la mémoire familiale à la Renaissance ?",
+    "options": [
+      "Il glorifie les ancêtres et renforce la continuité familiale",
+      "Il remplace les archives écrites",
+      "Il sert uniquement à la décoration",
+      "Il est réservé aux institutions religieuses"
+    ],
+    "answerIndex": 0,
+    "explication": "Le portrait conserve la mémoire des ancêtres et transmet leur prestige aux générations suivantes, renforçant l’identité familiale."
+  },
+  {
+    "question": "15 - Quel effet produit un portrait très réaliste sur le spectateur selon les théories artistiques de la Renaissance ?",
+    "options": [
+      "Un effet décoratif",
+      "Un effet de présence",
+      "Un effet comique",
+      "Un effet symbolique uniquement"
+    ],
+    "answerIndex": 2,
+    "explication": "Le réalisme du portrait peut donner l’impression que la personne est réellement présente, créant une relation émotionnelle avec le spectateur."
+  },
+  {
+    "question": "16 - Quel rôle politique peut jouer le portrait à la Renaissance ?",
+    "options": [
+      "Supprimer les hiérarchies sociales",
+      "Remplacer les discours officiels",
+      "Illustrer uniquement la vie quotidienne",
+      "Servir le pouvoir et la représentation de l’autorité"
+    ],
+    "answerIndex": 3,
+    "explication": "Le portrait peut affirmer le prestige, la légitimité et l’autorité du pouvoir, notamment dans les représentations princières."
+  },
+  {
+    "question": "17 - Que cherche à exprimer le portrait humaniste ?",
+    "options": [
+      "L’individualité et la psychologie du modèle",
+      "Uniquement la beauté idéale",
+      "La fonction religieuse",
+      "Le mouvement du corps"
+    ],
+    "answerIndex": 0,
+    "explication": "Le portrait humaniste valorise la singularité de l’individu, sa personnalité et sa vie intérieure."
+  },
+  {
+    "question": "18 - Quelle caractéristique distingue la perspective italienne de la perspective flamande ?",
+    "options": [
+      "Elle est empirique",
+      "Elle est analytique et géométrique",
+      "Elle est inexistante",
+      "Elle est purement symbolique"
+    ],
+    "answerIndex": 1,
+    "explication": "Les artistes italiens développent une perspective mathématique et structurée, contrairement aux Flamands qui utilisent une observation empirique."
+  },
+  {
+    "question": "19 - Quel est l’un des objectifs principaux de l’humanisme européen ?",
+    "options": [
+      "Refuser l’Antiquité",
+      "Supprimer l’éducation classique",
+      "Limiter la diffusion du savoir",
+      "Valoriser les lettres et la culture antique"
+    ],
+    "answerIndex": 3,
+    "explication": "L’humanisme repose sur l’étude des textes antiques, la valorisation de l’éducation et le développement intellectuel de l’homme."
+  },
+  {
+    "question": "20 - Quel rôle jouent les princes et mécènes dans la Renaissance ?",
+    "options": [
+      "Ils soutiennent les artistes et les lettres",
+      "Ils interdisent les innovations artistiques",
+      "Ils imposent un style unique",
+      "Ils rejettent la culture antique"
+    ],
+    "answerIndex": 2,
+    "explication": "Les princes favorisent la diffusion de l’art et des lettres en finançant artistes et intellectuels, contribuant ainsi à l’essor culturel de la Renaissance."
+  },
+  {
+    "question": "21 - Quel auteur antique raconte le mythe d’Europe dans les Métamorphoses ?",
+    "options": [
+      "Virgile",
+      "Ovide",
+      "Homère",
+      "Hésiode"
+    ],
+    "answerIndex": 1,
+    "explication": "Le mythe d’Europe est raconté par Ovide dans les Métamorphoses. Ce récit antique inspire de nombreuses représentations artistiques à la Renaissance."
+  },
+  {
+    "question": "22 - Dans l’iconographie de l’époque moderne, comment l’Europe est-elle souvent représentée ?",
+    "options": [
+      "Comme une déesse guerrière",
+      "Comme un animal mythique",
+      "Comme une reine richement vêtue",
+      "Comme une simple paysanne"
+    ],
+    "answerIndex": 2,
+    "explication": "Dans certaines représentations symboliques, l’Europe est figurée comme une reine richement vêtue, incarnant la richesse, la puissance et la dignité du continent."
+  },
+  {
+    "question": "23 - Quel humaniste allemand est l’auteur de la Cosmographia Universalis ?",
+    "options": [
+      "Johannes Gutenberg",
+      "Albrecht Dürer",
+      "Martin Luther",
+      "Sébastien Münster"
+    ],
+    "answerIndex": 3,
+    "explication": "Sébastien Münster est un humaniste allemand célèbre pour sa Cosmographia Universalis, un ouvrage majeur de description du monde au XVIe siècle."
+  },
+  {
+    "question": "24 - Quel principe humaniste est au cœur de la pensée de la Renaissance ?",
+    "options": [
+      "La centralité de l’homme et de son éducation",
+      "La supériorité du Moyen Âge",
+      "Le rejet de la science",
+      "La domination de la tradition orale"
+    ],
+    "answerIndex": 0,
+    "explication": "L’humanisme place l’homme, son éducation et son développement intellectuel au centre de la réflexion culturelle."
+  },
+  {
+    "question": "25 - Quel peintre flamand est associé à l’Adoration de l’Agneau mystique ?",
+    "options": [
+      "Jan van Eyck",
+      "Pieter Bruegel",
+      "Hans Holbein",
+      "Rogier van der Weyden"
+    ],
+    "answerIndex": 0,
+    "explication": "Jan van Eyck, avec son frère Hubert, réalise l’Adoration de l’Agneau mystique, œuvre majeure considérée comme un manifeste de l’art nouveau flamand."
+  },
+  {
+    "question": "26 - Quelle ville est qualifiée de « Florence nordique » dans le cours ?",
+    "options": [
+      "Bruges",
+      "Gand",
+      "Anvers",
+      "Amsterdam"
+    ],
+    "answerIndex": 1,
+    "explication": "Gand est comparée à Florence en raison de son dynamisme artistique et économique durant la Renaissance du Nord."
+  },
+  {
+    "question": "27 - Qui sont les commanditaires représentés dans l’Adoration de l’Agneau mystique ?",
+    "options": [
+      "Les Médicis",
+      "Les ducs de Bourgogne",
+      "Joos Vijdt et Lysbette Borluut",
+      "Les rois d’Espagne"
+    ],
+    "answerIndex": 2,
+    "explication": "Les commanditaires du retable sont Joos Vijdt et son épouse Lysbette Borluut, représentés dans l’œuvre comme donateurs."
+  },
+  {
+    "question": "28 - Quelle caractéristique distingue particulièrement la peinture flamande de la peinture italienne ?",
+    "options": [
+      "L’abstraction symbolique",
+      "L’absence de perspective",
+      "Le rejet du réalisme",
+      "Une observation empirique de la réalité"
+    ],
+    "answerIndex": 3,
+    "explication": "La peinture flamande repose sur une observation empirique du réel, notamment dans le rendu minutieux des matières et de la lumière."
+  },
+  {
+    "question": "29 - Quelle œuvre de Jan van Eyck est souvent interprétée comme un portrait de couple symbolique ?",
+    "options": [
+      "Les époux Arnolfini",
+      "La Vierge du chancelier Rolin",
+      "L’Homme au turban rouge",
+      "La Vierge à l’Enfant"
+    ],
+    "answerIndex": 0,
+    "explication": "Les époux Arnolfini est célèbre pour sa richesse symbolique et son réalisme, souvent interprété comme un portrait conjugal à forte dimension sociale."
+  },
+  {
+    "question": "30 - Quel souverain est un grand mécène associé à la Renaissance bourguignonne ?",
+    "options": [
+      "Philippe le Bon",
+      "Charles Quint",
+      "Louis XI",
+      "François Ier"
+    ],
+    "answerIndex": 0,
+    "explication": "Philippe le Bon est un mécène majeur qui favorise le développement artistique en Bourgogne."
+  },
+  {
+    "question": "31 - Quel mouvement artistique marque une rupture avec l’esthétique gothique ?",
+    "options": [
+      "Le baroque",
+      "La Renaissance",
+      "Le maniérisme",
+      "Le romantisme"
+    ],
+    "answerIndex": 1,
+    "explication": "La Renaissance rompt avec l’esthétique gothique en redécouvrant l’Antiquité et en valorisant l’harmonie, la perspective et le naturalisme."
+  },
+  {
+    "question": "32 - Quelle figure mythologique enlève Europe dans le récit antique ?",
+    "options": [
+      "Mars",
+      "Neptune",
+      "Jupiter",
+      "Apollon"
+    ],
+    "answerIndex": 2,
+    "explication": "Dans le mythe, Jupiter enlève Europe sous la forme d’un taureau et l’emmène en Crète."
+  },
+  {
+    "question": "33 - Quelle idée est associée à la représentation symbolique de l’Europe dans l’iconographie ?",
+    "options": [
+      "La pauvreté du continent",
+      "La diversité et la richesse",
+      "La domination militaire",
+      "L’isolement culturel"
+    ],
+    "answerIndex": 1,
+    "explication": "Les représentations symboliques insistent sur la richesse et la diversité de l’Europe, souvent évoquées par ses couleurs et ses attributs."
+  },
+  {
+    "question": "34 - Quelle est une caractéristique essentielle du réalisme flamand ?",
+    "options": [
+      "La simplification des formes",
+      "La stylisation décorative",
+      "Le détail minutieux",
+      "L’absence de lumière"
+    ],
+    "answerIndex": 2,
+    "explication": "Le réalisme flamand se distingue par un souci extrême du détail et une observation attentive du réel."
+  },
+  {
+    "question": "35 - Quel est le rôle des donateurs dans les œuvres religieuses flamandes ?",
+    "options": [
+      "Ils remplacent les saints",
+      "Ils sont absents des compositions",
+      "Ils sont représentés comme spectateurs priants",
+      "Ils peignent eux-mêmes l’œuvre"
+    ],
+    "answerIndex": 2,
+    "explication": "Les donateurs sont souvent représentés en prière dans l’œuvre, manifestant leur piété et leur statut social."
+  },
+  {
+    "question": "36 - Quelle innovation majeure caractérise la peinture flamande du XVe siècle ?",
+    "options": [
+      "L’invention de la perspective linéaire",
+      "L’usage dominant de la fresque",
+      "La peinture monochrome",
+      "Le perfectionnement de la peinture à l’huile"
+    ],
+    "answerIndex": 3,
+    "explication": "Les Flamands perfectionnent la peinture à l’huile, permettant des effets de transparence et de lumière très subtils."
+  },
+  {
+    "question": "37 - Quelle œuvre est considérée comme le manifeste d’un art nouveau flamand ?",
+    "options": [
+      "L’Adoration de l’Agneau mystique",
+      "La Joconde",
+      "Le Jugement dernier de Michel-Ange",
+      "La Naissance de Vénus"
+    ],
+    "answerIndex": 0,
+    "explication": "L’Adoration de l’Agneau mystique est considérée comme une œuvre fondatrice du nouveau réalisme flamand."
+  },
+  {
+    "question": "38 - Quelle idée caractérise la Renaissance du Nord ?",
+    "options": [
+      "Une imitation stricte de l’art italien",
+      "Une synthèse entre tradition gothique et innovation",
+      "Un rejet du naturalisme",
+      "Une absence de symbolisme"
+    ],
+    "answerIndex": 1,
+    "explication": "La Renaissance du Nord combine des éléments gothiques avec des innovations techniques et naturalistes."
+  },
+  {
+    "question": "39 - Quelle qualité est particulièrement développée par les peintres flamands ?",
+    "options": [
+      "La simplification géométrique",
+      "La stylisation religieuse",
+      "La représentation de la lumière",
+      "La peinture monumentale"
+    ],
+    "answerIndex": 2,
+    "explication": "Les peintres flamands sont réputés pour leur capacité à représenter la lumière et les textures avec un réalisme exceptionnel."
+  },
+  {
+    "question": "40 - Quel rôle joue l’étude de l’Antiquité dans la Renaissance ?",
+    "options": [
+      "Elle est rejetée",
+      "Elle est secondaire",
+      "Elle est interdite",
+      "Elle sert de modèle culturel et artistique"
+    ],
+    "answerIndex": 3,
+    "explication": "L’étude de l’Antiquité fournit des modèles esthétiques, intellectuels et philosophiques essentiels à la Renaissance."
+  },
+  {
+    "question": "41 - Que signifie l’expression « effet de présence » dans la théorie du portrait à la Renaissance ?",
+    "options": [
+      "La ressemblance approximative du modèle",
+      "La sensation que la personne représentée est réellement présente",
+      "L’usage d’un fond architectural",
+      "La représentation en mouvement"
+    ],
+    "answerIndex": 1,
+    "explication": "L’effet de présence désigne la capacité du portrait à donner l’impression que la personne représentée est vivante et présente devant le spectateur."
+  },
+  {
+    "question": "42 - Quelle est l’une des fonctions principales du portrait princier à la Renaissance ?",
+    "options": [
+      "Divertir le public",
+      "Remplacer les chroniques historiques",
+      "Affirmer le pouvoir et la légitimité politique",
+      "Illustrer la vie quotidienne"
+    ],
+    "answerIndex": 2,
+    "explication": "Le portrait princier sert à affirmer l’autorité, la puissance et la légitimité du souverain, notamment par la mise en scène de sa dignité et de ses vertus."
+  },
+  {
+    "question": "43 - Dans le diptyque des ducs d’Urbino, que symbolisent les vertus cardinales associées au duc ?",
+    "options": [
+      "Ses qualités militaires uniquement",
+      "Ses défauts moraux",
+      "Ses devoirs religieux",
+      "Ses qualités morales et politiques idéales"
+    ],
+    "answerIndex": 3,
+    "explication": "Les vertus cardinales (justice, prudence, force, tempérance) représentent les qualités morales idéales d’un bon dirigeant."
+  },
+  {
+    "question": "44 - Quelle figure animale symbolise la charité dans certaines iconographies de la Renaissance ?",
+    "options": [
+      "Le pélican",
+      "Le lion",
+      "L’aigle",
+      "Le serpent"
+    ],
+    "answerIndex": 0,
+    "explication": "Le pélican symbolise la charité car on croyait qu’il nourrissait ses petits avec son propre sang, image du sacrifice et du don de soi."
+  },
+  {
+    "question": "45 - Quel objet symbolise la justice dans les représentations allégoriques ?",
+    "options": [
+      "L’épée et la balance",
+      "Le miroir",
+      "La couronne",
+      "La colombe"
+    ],
+    "answerIndex": 0,
+    "explication": "La justice est traditionnellement représentée avec une épée (punition) et une balance (équilibre et équité)."
+  },
+  {
+    "question": "46 - Quel objet est associé à la prudence dans l’iconographie symbolique ?",
+    "options": [
+      "Le sceptre",
+      "Le miroir",
+      "La lance",
+      "Le livre"
+    ],
+    "answerIndex": 1,
+    "explication": "Le miroir symbolise la prudence car il renvoie à la connaissance de soi et à la réflexion avant l’action."
+  },
+  {
+    "question": "47 - Quelle idée est au cœur de la querelle des Anciens et des Modernes ?",
+    "options": [
+      "La supériorité de la religion",
+      "Le refus de la science",
+      "La comparaison entre les modèles antiques et les créations modernes",
+      "La domination de l’art médiéval"
+    ],
+    "answerIndex": 2,
+    "explication": "La querelle oppose ceux qui considèrent l’Antiquité comme modèle absolu et ceux qui pensent que les modernes peuvent égaler ou dépasser les anciens."
+  },
+  {
+    "question": "48 - Quel auteur affirme que « tout est dit et l’on vient trop tard » en parlant des Anciens ?",
+    "options": [
+      "Voltaire",
+      "Montaigne",
+      "Descartes",
+      "Jean de La Bruyère"
+    ],
+    "answerIndex": 3,
+    "explication": "Jean de La Bruyère affirme que les Anciens ont déjà exprimé l’essentiel, ce qui alimente la querelle des Anciens et des Modernes."
+  },
+  {
+    "question": "49 - Quel écrivain défend l’idée que le siècle moderne peut rivaliser avec l’Antiquité ?",
+    "options": [
+      "Charles Perrault",
+      "Pascal",
+      "Rabelais",
+      "Corneille"
+    ],
+    "answerIndex": 0,
+    "explication": "Charles Perrault soutient que le siècle de Louis XIV peut être comparé à celui d’Auguste, affirmant la valeur des Modernes."
+  },
+  {
+    "question": "50 - Quel est l’un des objectifs du portrait funéraire ou mémoriel ?",
+    "options": [
+      "Créer une caricature",
+      "Maintenir la mémoire des défunts",
+      "Illustrer des mythes antiques",
+      "Décorer les palais"
+    ],
+    "answerIndex": 1,
+    "explication": "Le portrait mémoriel prolonge symboliquement la vie des défunts en conservant leur image."
+  },
+  {
+    "question": "51 - Quelle innovation permet une représentation plus réaliste des matières et des textures ?",
+    "options": [
+      "La tempera",
+      "La fresque",
+      "La peinture à l’huile",
+      "La gravure"
+    ],
+    "answerIndex": 2,
+    "explication": "La peinture à l’huile permet des glacis, des nuances et des effets de matière très subtils."
+  },
+  {
+    "question": "52 - Quel est le rôle de la perspective dans la peinture de la Renaissance ?",
+    "options": [
+      "Supprimer la profondeur",
+      "Simplifier les formes",
+      "Créer une surface plane",
+      "Donner une illusion d’espace tridimensionnel"
+    ],
+    "answerIndex": 3,
+    "explication": "La perspective permet de représenter la profondeur et de structurer l’espace de manière réaliste."
+  },
+  {
+    "question": "53 - Quel élément montre la continuité avec l’esthétique gothique dans la Renaissance du Nord ?",
+    "options": [
+      "Le réalisme des détails",
+      "Le rejet de la religion",
+      "L’abstraction totale",
+      "La disparition du symbolisme"
+    ],
+    "answerIndex": 0,
+    "explication": "La Renaissance du Nord conserve certains éléments gothiques tout en développant un réalisme très poussé."
+  },
+  {
+    "question": "54 - Quel est le principal objectif de l’esthétique classique héritée de l’Antiquité ?",
+    "options": [
+      "L’expression du chaos",
+      "L’harmonie et l’équilibre",
+      "La déformation des corps",
+      "La spontanéité pure"
+    ],
+    "answerIndex": 1,
+    "explication": "L’esthétique classique vise l’harmonie, l’équilibre et la proportion inspirés des modèles antiques."
+  },
+  {
+    "question": "55 - Quelle fonction peut avoir la médaille à la Renaissance ?",
+    "options": [
+      "Servir uniquement de monnaie",
+      "Illustrer des scènes religieuses",
+      "Diffuser l’image et la mémoire d’un personnage",
+      "Remplacer les tableaux"
+    ],
+    "answerIndex": 2,
+    "explication": "La médaille permet de diffuser l’image d’un individu et de conserver sa mémoire, comme un portrait portable."
+  },
+  {
+    "question": "56 - Quel est l’un des buts de la représentation des vertus dans le portrait ?",
+    "options": [
+      "Décorer l’image",
+      "Créer du mouvement",
+      "Simplifier la composition",
+      "Exprimer un idéal moral"
+    ],
+    "answerIndex": 3,
+    "explication": "Les vertus représentées dans les portraits traduisent les qualités morales que doit incarner le modèle."
+  },
+  {
+    "question": "57 - Pourquoi les familles puissantes commandent-elles des portraits collectifs ?",
+    "options": [
+      "Pour affirmer leur prestige et leur continuité",
+      "Pour imiter les artistes antiques",
+      "Pour enseigner la peinture",
+      "Pour décorer les églises uniquement"
+    ],
+    "answerIndex": 0,
+    "explication": "Les portraits familiaux servent à affirmer le prestige social et la continuité de la lignée."
+  },
+  {
+    "question": "58 - Quel rôle joue le regard du modèle dans les portraits renaissants ?",
+    "options": [
+      "Il est toujours absent",
+      "Il crée une relation avec le spectateur",
+      "Il sert uniquement à équilibrer la composition",
+      "Il est purement symbolique"
+    ],
+    "answerIndex": 1,
+    "explication": "Le regard peut établir un lien psychologique direct entre le modèle et le spectateur."
+  },
+  {
+    "question": "59 - Quelle qualité distingue particulièrement les portraits de la Renaissance ?",
+    "options": [
+      "La caricature",
+      "L’abstraction",
+      "La profondeur psychologique",
+      "La stylisation géométrique"
+    ],
+    "answerIndex": 2,
+    "explication": "Les portraits renaissants cherchent à représenter la personnalité et l’intériorité du modèle."
+  },
+  {
+    "question": "60 - Quel rôle joue le mécénat dans le développement artistique de la Renaissance ?",
+    "options": [
+      "Limiter la créativité",
+      "Contrôler les techniques",
+      "Supprimer les traditions",
+      "Financer et encourager la création artistique"
+    ],
+    "answerIndex": 3,
+    "explication": "Le mécénat permet aux artistes de travailler, d’innover et de produire des œuvres importantes."
+  },
+  {
+    "question": "61 - Pourquoi le portrait devient-il un genre majeur à la Renaissance ?",
+    "options": [
+      "Parce que la religion interdit les autres formes d’art",
+      "Parce que les artistes refusent la sculpture",
+      "Parce que l’individu et son identité deviennent des valeurs centrales",
+      "Parce que les techniques médiévales disparaissent totalement"
+    ],
+    "answerIndex": 2,
+    "explication": "La Renaissance valorise l’individu, sa personnalité et sa place dans la société. Le portrait devient donc un moyen privilégié d’exprimer cette nouvelle importance accordée à l’identité personnelle."
+  },
+  {
+    "question": "62 - Quel élément renforce souvent la dignité sociale d’un personnage dans un portrait officiel ?",
+    "options": [
+      "Un décor symbolique ou des attributs de pouvoir",
+      "Une posture déformée",
+      "Une absence totale de fond",
+      "Un cadrage flou"
+    ],
+    "answerIndex": 0,
+    "explication": "Les portraits officiels utilisent fréquemment des attributs (trône, vêtements riches, symboles politiques) pour affirmer la position sociale du modèle."
+  },
+  {
+    "question": "63 - Quelle caractéristique distingue particulièrement le portrait humaniste du portrait médiéval ?",
+    "options": [
+      "La suppression du visage",
+      "L’importance de l’individualité et du réalisme",
+      "La domination de la symbolique religieuse",
+      "La représentation uniquement de profil"
+    ],
+    "answerIndex": 1,
+    "explication": "Le portrait humaniste cherche à représenter l’individu réel, avec ses traits spécifiques et sa personnalité, contrairement à l’art médiéval plus symbolique."
+  },
+  {
+    "question": "64 - Quel rôle joue la mémoire dans la fonction du portrait ?",
+    "options": [
+      "Elle est secondaire",
+      "Elle empêche l’interprétation",
+      "Elle permet de conserver l’image et le souvenir des personnes",
+      "Elle remplace l’histoire écrite"
+    ],
+    "answerIndex": 2,
+    "explication": "Le portrait sert à conserver la mémoire d’un individu et à prolonger symboliquement sa présence dans le temps."
+  },
+  {
+    "question": "65 - Pourquoi les artistes de la Renaissance s’inspirent-ils de l’Antiquité ?",
+    "options": [
+      "Pour imiter uniquement les sujets religieux",
+      "Pour retrouver des modèles de beauté, d’harmonie et de savoir",
+      "Pour supprimer la perspective",
+      "Pour refuser toute innovation"
+    ],
+    "answerIndex": 1,
+    "explication": "L’Antiquité fournit des modèles esthétiques et intellectuels considérés comme idéaux : proportion, équilibre, beauté et réflexion philosophique."
+  },
+  {
+    "question": "66 - Quelle fonction symbolique peut avoir le vêtement dans un portrait ?",
+    "options": [
+      "Il n’a aucune signification",
+      "Il sert uniquement à couvrir le corps",
+      "Il indique le statut social et l’identité du modèle",
+      "Il remplace les attributs iconographiques"
+    ],
+    "answerIndex": 2,
+    "explication": "Les vêtements peuvent signaler la richesse, la fonction politique ou la position sociale du personnage représenté."
+  },
+  {
+    "question": "67 - Quel effet recherchent souvent les artistes en représentant les détails du visage avec précision ?",
+    "options": [
+      "Créer une image abstraite",
+      "Renforcer le réalisme et la singularité du modèle",
+      "Simplifier la composition",
+      "Supprimer l’expression"
+    ],
+    "answerIndex": 1,
+    "explication": "La précision des traits renforce l’impression de réalité et permet de saisir l’individualité du modèle."
+  },
+  {
+    "question": "68 - Pourquoi peut-on dire que le portrait est aussi un outil politique ?",
+    "options": [
+      "Parce qu’il remplace les lois",
+      "Parce qu’il impose une religion",
+      "Parce qu’il empêche la critique sociale",
+      "Parce qu’il construit et diffuse une image du pouvoir"
+    ],
+    "answerIndex": 3,
+    "explication": "Le portrait officiel façonne l’image publique du dirigeant et participe à la construction de son autorité."
+  },
+  {
+    "question": "69 - Quel lien existe entre portrait et prestige familial ?",
+    "options": [
+      "Aucun lien réel",
+      "Il permet de montrer la continuité et la gloire d’une lignée",
+      "Il remplace les documents juridiques",
+      "Il sert uniquement à décorer les maisons"
+    ],
+    "answerIndex": 1,
+    "explication": "Les portraits familiaux valorisent la mémoire des ancêtres et affirment la continuité sociale et symbolique de la famille."
+  },
+  {
+    "question": "70 - Pourquoi le réalisme est-il si important dans la peinture de la Renaissance ?",
+    "options": [
+      "Pour imiter la nature et rendre le monde visible avec précision",
+      "Pour simplifier la représentation",
+      "Pour supprimer la perspective",
+      "Pour rendre les images symboliques uniquement"
+    ],
+    "answerIndex": 0,
+    "explication": "La Renaissance valorise l’observation de la nature et la représentation fidèle du réel, considérées comme fondements de l’art et du savoir."
+  }
 
-{
-"question":"41 - Quel type d’imaginaire est au centre du cours ?",
-"options":["Scientifique","Archéologique","Politique","Religieux"],
-"answerIndex":2,
-"explication":"Le cours analyse l’imaginaire archéologique dans la littérature et la peinture."
-},
-{
-"question":"42 - Quel rôle jouent les inscriptions dans les monuments antiques ?",
-"options":["Pure décoration","Indication technique","Message symbolique ou historique","Aucun rôle"],
-"answerIndex":0,
-"explication":"Les inscriptions transmettent des informations historiques ou symboliques."
-},
-{
-"question":"43 - Quel effet visuel renforcent les ruines dans les images ?",
-"options":["La profondeur historique","La simplification","La neutralité","La symétrie"],
-"answerIndex":3,
-"explication":"Les ruines donnent l’impression d’un passé lointain et profond."
-},
-{
-"question":"44 - Quelle fonction peut avoir l’illustration dans un livre savant ?",
-"options":["Supprimer le texte","Expliquer visuellement le contenu","Décorer uniquement","Remplacer la lecture"],
-"answerIndex":1,
-"explication":"Les illustrations peuvent servir à clarifier des explications scientifiques."
-},
-{
-"question":"45 - Quelle relation unit texte et image dans les livres illustrés de la Renaissance ?",
-"options":["Une complémentarité","Une opposition","Une séparation totale","Une domination du texte"],
-"answerIndex":2,
-"explication":"Texte et image se complètent pour transmettre le savoir."
-},
-{
-"question":"46 - Quel élément architectural apparaît fréquemment dans les paysages de ruines ?",
-"options":["Les colonnes antiques","Les gratte-ciels","Les ponts modernes","Les machines"],
-"answerIndex":1,
-"explication":"Les colonnes antiques sont un symbole visuel fréquent des ruines."
-},
-{
-"question":"47 - Quel rôle joue l’Antiquité dans la culture de la Renaissance ?",
-"options":["Un modèle artistique","Un obstacle culturel","Un souvenir oublié","Une erreur historique"],
-"answerIndex":0,
-"explication":"La Renaissance redécouvre l’Antiquité comme modèle artistique et intellectuel."
-},
-{
-"question":"48 - Quel type de narration caractérise souvent les récits oniriques ?",
-"options":["Chronologique stricte","Scientifique","Politique","Symbolique et imagée"],
-"answerIndex":3,
-"explication":"Les récits de rêve utilisent des images symboliques et fantastiques."
-},
-{
-"question":"49 - Dans l’imaginaire archéologique, les monuments anciens sont souvent représentés comme :",
-"options":["Des structures modernes","Des fragments du passé","Des machines scientifiques","Des décorations abstraites"],
-"answerIndex":2,
-"explication":"Les monuments apparaissent souvent sous forme de ruines fragmentaires."
-},
-{
-"question":"50 - Quel effet la combinaison texte-image produit-elle dans ces livres ?",
-"options":["Une expérience visuelle et intellectuelle","Une simplification totale","Une perte de sens","Une lecture impossible"],
-"answerIndex":0,
-"explication":"La combinaison du texte et des images enrichit la compréhension et l’expérience de lecture."
-},
-{
-"question":"51 - Quel aspect du passé les ruines permettent-elles de rendre visible dans les images de la Renaissance ?",
-"options":[
-"La modernité technique",
-"La vie quotidienne médiévale",
-"La mémoire de l’Antiquité",
-"Le futur de la civilisation"
-],
-"answerIndex":2,
-"explication":"Les ruines rendent visible la mémoire de l’Antiquité. Elles permettent aux artistes de montrer la présence du passé dans le présent."
-},
-{
-"question":"52 - Quel élément visuel est souvent utilisé pour évoquer l’Antiquité dans les représentations artistiques ?",
-"options":[
-"Les colonnes antiques",
-"Les machines industrielles",
-"Les immeubles modernes",
-"Les cathédrales gothiques"
-],
-"answerIndex":0,
-"explication":"Les colonnes antiques sont un symbole visuel fort de l’architecture classique et apparaissent souvent dans les représentations de ruines."
-},
-{
-"question":"53 - Dans l’imaginaire archéologique, que suggèrent les fragments de monuments ?",
-"options":[
-"La perfection intacte",
-"Un avenir glorieux",
-"La disparition totale de la culture",
-"Les traces d’une civilisation passée"
-],
-"answerIndex":3,
-"explication":"Les fragments architecturaux évoquent les traces laissées par les civilisations anciennes et invitent à réfléchir à l’histoire."
-},
-{
-"question":"54 - Quelle relation le lecteur entretient-il avec les images dans les livres illustrés de la Renaissance ?",
-"options":[
-"Une distance critique",
-"Une observation attentive guidée par le texte",
-"Une incompréhension totale",
-"Une simple distraction"
-],
-"answerIndex":1,
-"explication":"Les images accompagnent le texte et guident la lecture visuelle du lecteur."
-},
-{
-"question":"55 - Quel type d’espace apparaît fréquemment dans les paysages de ruines ?",
-"options":[
-"Un espace abstrait",
-"Un espace industriel",
-"Un espace antique idéalisé",
-"Un espace moderne"
-],
-"answerIndex":2,
-"explication":"Les paysages de ruines représentent souvent un espace antique idéalisé qui mêle imagination et mémoire historique."
-},
-{
-"question":"56 - Quel rôle joue le rêve dans le récit du Songe de Poliphile ?",
-"options":[
-"Il sert uniquement de décor",
-"Il structure toute la narration",
-"Il est absent du récit",
-"Il apparaît seulement à la fin"
-],
-"answerIndex":1,
-"explication":"Le récit est construit comme un rêve dans lequel Poliphile traverse des paysages et des architectures symboliques."
-},
-{
-"question":"57 - Quel rôle joue l’Antiquité dans l’esthétique du livre ?",
-"options":[
-"Elle inspire les formes et les images",
-"Elle est totalement absente",
-"Elle est critiquée",
-"Elle est remplacée par le Moyen Âge"
-],
-"answerIndex":0,
-"explication":"L’Antiquité constitue une source majeure d’inspiration pour les images et les architectures représentées."
-},
-{
-"question":"58 - Quel type de langage visuel utilisent souvent les livres illustrés de la Renaissance ?",
-"options":[
-"Un langage purement abstrait",
-"Un langage minimaliste",
-"Un langage géométrique uniquement",
-"Un langage symbolique et érudit"
-],
-"answerIndex":3,
-"explication":"Les images contiennent souvent des symboles et des références érudites à l’Antiquité."
-},
-{
-"question":"59 - Quelle discipline permet d’interpréter les symboles antiques et les inscriptions ?",
-"options":[
-"La botanique",
-"La philologie",
-"La rhétorique",
-"L’épigraphie"
-],
-"answerIndex":2,
-"explication":"L’épigraphie permet d’étudier les inscriptions antiques et leur signification."
-},
-{
-"question":"60 - Quel effet les paysages de ruines produisent-ils sur le spectateur ?",
-"options":[
-"Ils invitent à réfléchir au passage du temps",
-"Ils suppriment toute émotion",
-"Ils rendent l’image abstraite",
-"Ils empêchent la narration"
-],
-"answerIndex":0,
-"explication":"Les ruines rappellent la fragilité des civilisations et le passage du temps."
-},
-{
-"question":"61 - Quel rôle joue la culture antique dans la Renaissance ?",
-"options":[
-"Un modèle intellectuel et artistique",
-"Une tradition oubliée",
-"Un simple décor",
-"Un obstacle culturel"
-],
-"answerIndex":1,
-"explication":"La Renaissance redécouvre et valorise la culture antique comme modèle artistique et intellectuel."
-},
-{
-"question":"62 - Quel type de paysage artistique se développe avec l’imaginaire archéologique ?",
-"options":[
-"Le paysage abstrait",
-"Le paysage marin",
-"Le paysage industriel",
-"Le paysage de ruines"
-],
-"answerIndex":3,
-"explication":"Le paysage de ruines devient un thème important dans l’art et la littérature."
-},
-{
-"question":"63 - Dans les livres illustrés, quelle fonction peuvent avoir les images ?",
-"options":[
-"Illustrer et compléter le texte",
-"Remplacer totalement le texte",
-"Supprimer la narration",
-"Servir uniquement de décor"
-],
-"answerIndex":0,
-"explication":"Les images illustrent et enrichissent le texte en facilitant la compréhension."
-},
-{
-"question":"64 - Quel domaine étudie les écritures anciennes et leur évolution ?",
-"options":[
-"La numismatique",
-"La philologie",
-"La paléographie",
-"L’archéologie"
-],
-"answerIndex":2,
-"explication":"La paléographie analyse les écritures anciennes et les manuscrits."
-},
-{
-"question":"65 - Dans l’imaginaire archéologique, que représentent souvent les ruines ?",
-"options":[
-"La modernité",
-"Une civilisation disparue",
-"Un futur imaginaire",
-"Une erreur historique"
-],
-"answerIndex":1,
-"explication":"Les ruines représentent les vestiges d’une civilisation passée."
-},
-{
-"question":"66 - Quel effet esthétique produit l’association texte-image ?",
-"options":[
-"Une confusion totale",
-"Une suppression du récit",
-"Une lecture fragmentée",
-"Une expérience visuelle et intellectuelle riche"
-],
-"answerIndex":3,
-"explication":"La combinaison du texte et de l’image enrichit l’expérience de lecture."
-},
-{
-"question":"67 - Quel rôle joue l’architecture antique dans les images ?",
-"options":[
-"Structurer l’espace visuel",
-"Supprimer la perspective",
-"Créer un effet abstrait",
-"Décorer uniquement"
-],
-"answerIndex":0,
-"explication":"Les architectures antiques structurent l’espace et donnent un cadre narratif aux images."
-},
-{
-"question":"68 - Dans les récits oniriques, que permettent les visions symboliques ?",
-"options":[
-"De raconter des événements politiques",
-"De supprimer toute narration",
-"De représenter des idées et émotions",
-"De simplifier l’image"
-],
-"answerIndex":2,
-"explication":"Les visions symboliques permettent d’exprimer des idées et des émotions à travers des images."
-},
-{
-"question":"69 - Quelle relation les humanistes entretiennent-ils avec l’Antiquité ?",
-"options":[
-"Ils la rejettent totalement",
-"Ils l’ignorent",
-"Ils la considèrent comme inutile",
-"Ils la redécouvrent et l’admirent"
-],
-"answerIndex":3,
-"explication":"Les humanistes redécouvrent les textes et les œuvres antiques et les considèrent comme des modèles."
-},
-{
-"question":"70 - Quel rôle joue l’imaginaire archéologique dans la culture de la Renaissance ?",
-"options":[
-"Il stimule la réflexion sur le passé et la mémoire",
-"Il supprime l’intérêt pour l’histoire",
-"Il remplace l’art religieux",
-"Il empêche l’étude de l’Antiquité"
-],
-"answerIndex":1,
-"explication":"L’imaginaire archéologique permet de réfléchir à la relation entre passé antique et culture contemporaine."
-}
 ]

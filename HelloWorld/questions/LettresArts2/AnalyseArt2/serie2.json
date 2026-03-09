@@ -1,408 +1,821 @@
 [
   {
-    "question": "1 - Comment Leonardo Bruni rythme-t-il l’histoire de Florence au XVe siècle ?",
+    "question": "1 - Quelle caractéristique principale est associée à la mentalité médiévale dans le cours ?",
     "options": [
-      "En deux temps : païen et chrétien",
-      "En quatre temps : grec, romain, médiéval, moderne",
-      "En trois temps : antique, médiane, moderne",
-      "En cinq temps : archaïque, classique, impérial, médiéval, renaissant"
+      "L’anthropocentrisme",
+      "Le rationalisme scientifique",
+      "Le théocentrisme",
+      "Le matérialisme"
     ],
     "answerIndex": 2,
-    "explication": "Leonardo Bruni présente l’histoire de Florence selon une division en trois temps : l’Antiquité, une période médiane, puis l’époque moderne. Cette périodisation est importante car elle participe à la naissance de l’idée de « moyen âge » comme époque intermédiaire entre l’Antiquité et la modernité renaissante."
+    "explication": "Le cours indique explicitement que la mentalité médiévale est « théocentrique ». Cela signifie que Dieu est placé au centre de la pensée, de l’organisation du monde et de la compréhension de l’existence humaine. L’homme n’est donc pas envisagé comme autonome ou central, mais comme dépendant d’un ordre divin supérieur."
   },
   {
-    "question": "2 - À quoi s’intéressent principalement les antiquaires à la Renaissance ?",
+    "question": "2 - Dans le texte de Pic de la Mirandole, qu’est-ce qui distingue fondamentalement l’Homme des autres créatures ?",
     "options": [
-      "Aux témoignages de l’Antiquité, en particulier à ses vestiges matériels",
-      "Uniquement aux textes religieux médiévaux",
-      "Exclusivement aux traditions orales populaires",
-      "Aux œuvres contemporaines de la cour"
+      "Il n’est pas prédéterminé et peut se définir lui-même",
+      "Il est naturellement supérieur aux anges",
+      "Il est privé de liberté",
+      "Il est uniquement destiné à obéir"
     ],
     "answerIndex": 0,
-    "explication": "Les antiquaires sont des érudits qui étudient l’Antiquité à travers les traces qu’elle a laissées, surtout les objets, monuments, inscriptions et ruines. C’est pour cela qu’ils sont souvent considérés comme des précurseurs de l’archéologie."
+    "explication": "Selon Pic de la Mirandole, l’Homme n’a reçu ni place fixe, ni visage propre, ni fonction définitivement assignée. Il peut donc se façonner lui-même par son libre arbitre. C’est cette absence de détermination stricte qui fait sa dignité particulière dans la pensée humaniste."
   },
   {
-    "question": "3 - Pourquoi les antiquaires sont-ils souvent considérés comme les précurseurs de l’archéologie ?",
+    "question": "3 - Où Dieu place-t-il l’Homme dans le texte de la Dignité de l’Homme pour qu’il contemple mieux le monde ?",
     "options": [
-      "Parce qu’ils inventent la perspective mathématique",
-      "Parce qu’ils restaurent toutes les ruines antiques",
-      "Parce qu’ils écrivent uniquement sur la mythologie",
-      "Parce qu’ils étudient méthodiquement les vestiges matériels du passé"
+      "Au sommet du ciel",
+      "Dans le désert",
+      "Dans un jardin clos",
+      "Au milieu du monde"
     ],
     "answerIndex": 3,
-    "explication": "Les antiquaires observent, décrivent et interprètent les vestiges matériels de l’Antiquité. Cette attention portée aux objets, aux ruines et aux traces concrètes du passé annonce la démarche archéologique, même si l’archéologie n’existe pas encore comme discipline autonome."
+    "explication": "Le texte cité dans le cours précise que Dieu place l’Homme « au milieu du Monde ». Cette position symbolique signifie que l’Homme occupe un lieu d’observation et de choix. Il peut contempler l’ensemble de la création et construire sa propre destinée, ce qui traduit bien la vision humaniste d’un être libre et capable de jugement."
   },
   {
-    "question": "4 - Quel humaniste redécouvre le manuscrit du De Natura de Lucrèce ?",
+    "question": "4 - Quelle idée de l’Homme s’oppose à la pensée médiévale dans le cours ?",
     "options": [
-      "Lorenzo Valla",
-      "Poggio Bracciolini",
-      "Leonardo Bruni",
-      "Leone Battista Alberti"
+      "L’Homme doit rester soumis aux modèles anciens sans les discuter",
+      "L’Homme crée sa propre destinée",
+      "L’Homme est condamné à imiter les animaux",
+      "L’Homme n’a aucune capacité de transformation"
     ],
     "answerIndex": 1,
-    "explication": "Le cours mentionne Poggio Bracciolini comme celui qui redécouvre le manuscrit de Lucrèce. Cette redécouverte illustre parfaitement l’esprit humaniste de la Renaissance, fondé sur le retour aux textes antiques et leur réintégration dans la culture savante."
+    "explication": "Le cours souligne que, dans la nouvelle conception humaniste, l’Homme n’est plus simplement un être qui reproduit un ordre déjà fixé. Il devient une créature capable de se construire elle-même. Cette idée s’oppose à une vision plus figée et hiérarchisée héritée de la pensée médiévale."
   },
   {
-    "question": "5 - Quel ouvrage Poggio Bracciolini rédige-t-il en 1448 ?",
+    "question": "5 - Quelle œuvre de Michel-Ange est mobilisée dans le cours pour illustrer une nouvelle conception de la création de l’homme ?",
     "options": [
-      "De pictura",
-      "Histoire de Florence",
-      "De varietate Fortunae",
-      "Art poétique"
+      "Le Jugement dernier",
+      "La Pietà",
+      "La Création d’Adam",
+      "Le David"
     ],
     "answerIndex": 2,
-    "explication": "Poggio Bracciolini est associé dans le cours à l’ouvrage De varietate Fortunae. Ce texte s’inscrit dans le contexte humaniste de réflexion sur l’histoire, le destin et la redécouverte du passé antique."
+    "explication": "Le cours présente la fresque de Michel-Ange représentant la Création d’Adam dans la chapelle Sixtine. Cette image est mise en relation avec la réflexion humaniste sur l’Homme, sa dignité, son corps et sa place dans le monde. Adam y apparaît comme une figure noble, puissante et magnifiée."
   },
   {
-    "question": "6 - Quel artiste est présenté dans le cours comme l’« inventeur » de la perspective mathématique ?",
+    "question": "6 - Où se trouve la fresque de Michel-Ange mentionnée dans le cours ?",
     "options": [
-      "Masaccio",
-      "Filippo Brunelleschi",
-      "Giotto",
-      "Botticelli"
+      "À Florence, au Palazzo Vecchio",
+      "À Rome, dans la chapelle Sixtine au Vatican",
+      "À Venise, au palais des Doges",
+      "À Milan, à la Pinacothèque de Brera"
     ],
     "answerIndex": 1,
-    "explication": "Le cours attribue à Filippo Brunelleschi l’invention de la perspective mathématique. Cette innovation est capitale dans l’histoire de l’art, car elle permet de représenter l’espace de manière cohérente, géométrique et unifiée."
+    "explication": "Le cours précise que l’œuvre de Michel-Ange, datée de 1508-1512, se trouve dans la chapelle Sixtine, au Vatican, à Rome. Il s’agit d’un lieu majeur de l’art de la Renaissance, où l’artiste développe une représentation monumentale du corps humain."
   },
   {
-    "question": "7 - Quel peintre est associé dans le cours à l’œuvre La Trinité à Florence ?",
+    "question": "7 - Que montre la comparaison entre des représentations médiévales d’Adam et Ève et celle de Michel-Ange ?",
     "options": [
-      "Masaccio",
-      "Giotto",
-      "Domenico Ghirlandaio",
-      "Maso di Banco"
+      "Une valorisation nouvelle du corps humain",
+      "La disparition totale du thème religieux",
+      "Le refus de toute référence antique",
+      "Le rejet de l’anatomie par les artistes"
     ],
     "answerIndex": 0,
-    "explication": "Masaccio est lié à La Trinité, œuvre emblématique de l’usage de la perspective renaissante. Cette peinture constitue un exemple majeur de l’espace unifié, fondé sur une construction visuelle rationnelle."
+    "explication": "La comparaison met en évidence le passage d’images plus schématiques ou symboliques à une représentation plus naturaliste, plus anatomique et plus noble du corps humain. Chez Michel-Ange, le corps devient un objet d’étude, de beauté et de puissance expressive, ce qui correspond à l’évolution humaniste et renaissante."
   },
   {
-    "question": "8 - Selon Alberti, à quoi le tableau est-il comparé ?",
+    "question": "8 - Quelle question est explicitement posée dans le cours à propos de la Création d’Adam ?",
     "options": [
-      "À un miroir de l’âme",
-      "À un théâtre sacré",
-      "À une architecture idéale",
-      "À une fenêtre sur le monde"
+      "Un lien avec la politique florentine ?",
+      "Un lien avec la mythologie grecque ?",
+      "Un lien avec la poésie latine ?",
+      "Un lien avec la connaissance de l’anatomie ?"
     ],
     "answerIndex": 3,
-    "explication": "Dans le cours, Alberti définit le tableau comme une « fenêtre sur le monde ». Cette formule est essentielle : elle exprime l’idée que la peinture ouvre un espace visible cohérent, organisé selon les règles de la perspective et donné à voir comme une réalité ordonnée."
+    "explication": "Le cours formule précisément la question d’un « lien avec la connaissance de l’anatomie ? ». Cette interrogation invite à comprendre que les artistes de la Renaissance ne représentent pas seulement des figures religieuses : ils s’appuient aussi sur l’observation du corps, des muscles, des proportions et parfois des dissections."
   },
   {
-    "question": "9 - Quelle formule d’Horace est au fondement du rapprochement entre peinture et poésie ?",
+    "question": "9 - Que désigne la Scala Naturae présentée dans le cours ?",
     "options": [
-      "Ars longa, vita brevis",
-      "Carpe diem",
-      "Ut pictura poesis",
-      "Verba volant, scripta manent"
+      "Une méthode de peinture à fresque",
+      "Une école de sculpture florentine",
+      "La théorie de la chaîne des êtres",
+      "Un traité de musique sacrée"
     ],
     "answerIndex": 2,
-    "explication": "La formule Ut pictura poesis signifie que la poésie sera comme la peinture. Elle sert de base à une réflexion théorique qui rapproche les arts du langage et les arts visuels, en montrant qu’ils partagent des fonctions de représentation, d’expression et de narration."
+    "explication": "La Scala Naturae désigne la « chaîne des êtres », c’est-à-dire une hiérarchie du vivant et de la création. Le cours explique que l’Homme s’y trouve au centre, car il unit le corps mortel et l’âme immortelle. Les humanistes reprennent cette idée tout en cherchant à aller plus loin dans la valorisation de l’humain."
   },
   {
-    "question": "10 - Dans la rhétorique classique rappelée dans le cours, combien de catégories structurent la production du discours ?",
+    "question": "10 - Quelle position l’Homme occupe-t-il dans la hiérarchie de la Scala Naturae selon le cours ?",
     "options": [
-      "Cinq",
-      "Deux",
-      "Trois",
-      "Quatre"
+      "Il est au centre de la hiérarchie",
+      "Il est placé au-dessous des animaux",
+      "Il est exclu de la hiérarchie",
+      "Il est confondu avec les anges"
     ],
     "answerIndex": 0,
-    "explication": "Le cours énumère cinq catégories de la production du discours : inventio, dispositio, elocutio, memoria et actio. Cette structure rhétorique est importante, car Alberti s’en inspire pour penser la peinture comme un art savant et organisé."
+    "explication": "Le cours précise que l’Homme est au centre de cette hiérarchie, parce qu’il est composé d’un corps mortel et d’une âme immortelle. Il constitue donc une sorte de médiation entre le monde terrestre et le monde céleste, ce qui renforce sa place particulière dans la pensée renaissante."
   },
   {
-    "question": "11 - Quelle catégorie rhétorique Alberti associe-t-il à la compositio en peinture ?",
+    "question": "11 - Dans l’extrait du Livre du courtisan, quelle compétence artistique ne doit pas être négligée ?",
     "options": [
-      "Inventio",
-      "Dispositio",
-      "Memoria",
-      "Actio"
+      "La gravure sur métal",
+      "Le dessin et la peinture",
+      "La mosaïque",
+      "L’architecture militaire"
     ],
     "answerIndex": 1,
-    "explication": "Chez Alberti, la dispositio correspond à la compositio. Cela signifie que l’organisation des éléments dans le tableau joue un rôle comparable à l’organisation des parties d’un discours. La peinture est ainsi pensée comme une construction intellectuelle, et non comme une simple habileté manuelle."
+    "explication": "Castiglione explique que l’homme accompli doit maîtriser de nombreux domaines : les langues, les lettres, les exercices physiques, la musique, mais aussi le dessin et la peinture. Cela montre l’idéal humaniste d’une formation complète, équilibrée, à la fois intellectuelle, artistique et corporelle."
   },
   {
-    "question": "12 - À quelle catégorie picturale Alberti rattache-t-il l’elocutio ?",
+    "question": "12 - Selon Castiglione dans le cours, quelles langues anciennes doivent être connues en priorité ?",
     "options": [
-      "À la circonscritio",
-      "À la narratio",
-      "À la compositio",
-      "Au lume"
+      "L’italien et l’espagnol",
+      "L’hébreu et l’arabe",
+      "Le français et l’anglais",
+      "Le latin et le grec"
     ],
     "answerIndex": 3,
-    "explication": "Le cours précise qu’Alberti associe l’elocutio au lume, c’est-à-dire à l’éclat et à la lumière. Comme l’elocutio en rhétorique concerne la manière d’exprimer le discours, le lume renvoie en peinture à la qualité sensible et expressive de la représentation."
+    "explication": "Dans l’extrait cité, Castiglione insiste sur la familiarité avec le latin et le grec. Ces langues donnent accès à l’abondance des textes antiques, poétiques, historiques et rhétoriques. Leur connaissance est donc essentielle dans la culture humaniste, fondée sur le retour aux sources de l’Antiquité."
   },
   {
-    "question": "13 - Quel est l’effet majeur de la doctrine de l’ut pictura poesis sur le statut de la peinture ?",
+    "question": "13 - Dans la lettre de Gargantua à Pantagruel, quelle langue doit être apprise en premier ?",
     "options": [
-      "Elle élève la peinture des arts mécaniques aux arts libéraux",
-      "Elle subordonne définitivement la peinture à l’architecture",
-      "Elle fait de la peinture un art exclusivement religieux",
-      "Elle supprime toute fonction narrative de la peinture"
+      "Le grec",
+      "Le latin",
+      "L’arabe",
+      "Le français"
     ],
     "answerIndex": 0,
-    "explication": "La doctrine de l’ut pictura poesis permet de donner à la peinture une dignité intellectuelle comparable à celle de la poésie. Grâce à ce rapprochement, la peinture cesse d’être considérée seulement comme un art manuel ou mécanique et accède au rang d’art véritable, relevant des arts libéraux."
+    "explication": "Le passage de Rabelais précise un ordre : « premièrement le grec, deuxièmement le latin », puis l’hébreu, le chaldéen et l’arabe. Ce détail est révélateur de l’importance exceptionnelle accordée au grec par les humanistes, car il permet un accès direct à une part essentielle du savoir antique."
   },
   {
-    "question": "14 - Dans le cours, les ruines sont présentées comme un procédé de quoi ?",
+    "question": "14 - Quelle discipline scientifique est mentionnée dans le cours comme participant à l’éducation humaniste ?",
     "options": [
-      "Simplification décorative",
-      "D’abstraction géométrique",
-      "Narrativisation",
-      "Neutralisation symbolique"
+      "L’alchimie",
+      "La théologie dogmatique",
+      "L’astronomie",
+      "La divination"
     ],
     "answerIndex": 2,
-    "explication": "Les ruines ne sont pas de simples éléments de décor : le cours insiste sur leur rôle dans la narrativisation. Elles structurent l’espace, orientent le regard, produisent du sens historique et symbolique, et participent ainsi au récit visuel."
+    "explication": "L’extrait de Pantagruel mentionne explicitement l’astronomie parmi les savoirs que le jeune homme doit apprendre. Cette présence montre que l’éducation humaniste ne se limite pas aux lettres : elle intègre aussi les sciences et les arts libéraux, dans une logique de formation universelle."
   },
   {
-    "question": "15 - Dans La punition des rebelles de Botticelli, quel épisode biblique est représenté ?",
+    "question": "15 - Quel auteur critique les médecins qui apprennent dans les livres sans observer directement les corps ?",
     "options": [
-      "La fuite en Égypte",
-      "La révolte d’Aaron et Corée contre Moïse",
-      "Le jugement de Salomon",
-      "La conversion de saint Paul"
+      "Baldassare Castiglione",
+      "André Vésale",
+      "Vitruve",
+      "Marsile Ficin"
     ],
     "answerIndex": 1,
-    "explication": "Le cours indique que cette fresque de Botticelli illustre un épisode du Livre des Nombres : la révolte d’Aaron et Corée contre Moïse. Le sujet permet de lier l’image à des questions d’autorité, de légitimité religieuse et d’ordre divin."
+    "explication": "Le cours cite André Vésale, dans la préface du De Humani corporis Fabrica (1543), pour dénoncer une médecine fondée sur la répétition des textes anciens plutôt que sur l’observation réelle. Sa critique s’inscrit dans l’esprit de la Renaissance : vérifier, voir, disséquer, comprendre concrètement."
   },
   {
-    "question": "16 - Quel monument romain est mentionné dans le cours comme ayant été construit en 315 pour commémorer la bataille du pont Milvius de 312 ?",
+    "question": "16 - Que reproche principalement Vésale aux médecins de son temps ?",
     "options": [
-      "Le Colisée",
-      "Le Panthéon",
-      "Le Septizonium",
-      "L’arc de Constantin"
+      "D’accorder trop d’importance à la sculpture",
+      "D’utiliser excessivement le latin",
+      "De rejeter complètement les auteurs anciens",
+      "De ne pas observer directement les objets qu’ils décrivent"
     ],
     "answerIndex": 3,
-    "explication": "L’arc de Constantin est présenté comme un monument commémoratif lié à la victoire du pont Milvius. Dans le cadre du cours, ce monument joue aussi un rôle symbolique fort, car il est réinvesti dans les représentations renaissantes pour articuler histoire antique, christianisme et pouvoir."
+    "explication": "Vésale explique que beaucoup de médecins parlent de choses qu’ils n’ont jamais observées eux-mêmes. Ils mémorisent des livres mais ne regardent pas réellement les corps. Cette critique valorise l’expérience, l’observation et la dissection, principes fondamentaux du renouvellement scientifique et artistique de la Renaissance."
   },
   {
-    "question": "17 - Quelle formule latine inscrite sur l’arc de Constantin est citée dans le cours ?",
+    "question": "17 - Quelle idée centrale ressort des citations sur Léonard de Vinci et Michel-Ange dans le cours ?",
     "options": [
-      "Nemo sibi assumat honorem nisi vocatus a deo tanquam Aron",
-      "Veni, vidi, vici",
-      "In principio erat verbum",
-      "Fiat lux"
+      "Les artistes étudient l’anatomie pour mieux représenter le corps",
+      "Les artistes refusent tout contact avec la science",
+      "Les artistes copient seulement les œuvres médiévales",
+      "Les artistes considèrent le corps comme secondaire"
     ],
     "answerIndex": 0,
-    "explication": "Le cours cite l’inscription Nemo sibi assumat honorem nisi vocatus a deo tanquam Aron. Elle signifie que personne ne doit s’attribuer un honneur sacré s’il n’est pas appelé par Dieu. Cette formule renforce le thème de la légitimité religieuse et du pouvoir conféré par une autorité supérieure."
+    "explication": "Les citations du cours montrent que Léonard et Michel-Ange s’intéressent fortement à l’intérieur du corps, aux muscles, aux os, aux articulations et aux mouvements. L’anatomie n’est donc pas séparée de l’art : elle devient un moyen de représenter plus justement, plus puissamment et plus intelligemment la figure humaine."
   },
   {
-    "question": "18 - Quel humaniste démontre en 1440 que la Donation de Constantin est un faux ?",
+    "question": "18 - Selon Alberti, que faut-il d’abord disposer lorsqu’on peint un nu ?",
     "options": [
-      "Poggio Bracciolini",
-      "Leonardo Bruni",
-      "Lorenzo Valla",
-      "Alberti"
+      "Les vêtements",
+      "Le décor",
+      "Les os et les muscles",
+      "Les couleurs"
     ],
     "answerIndex": 2,
-    "explication": "Lorenzo Valla démontre la fausseté de la Donation de Constantin en 1440. Cette intervention est capitale dans l’histoire intellectuelle de la Renaissance, car elle montre comment la philologie humaniste peut remettre en cause des fondements idéologiques et politiques considérés jusque-là comme incontestables."
+    "explication": "Alberti explique que, pour peindre correctement un nu, il faut d’abord penser la structure interne du corps : les os et les muscles. Ensuite seulement viennent la chair et la peau. Cette méthode montre que la représentation du corps à la Renaissance repose sur une logique constructive et anatomique."
   },
   {
-    "question": "19 - À quoi servait la Donation de Constantin avant que sa fausseté soit démontrée ?",
+    "question": "19 - Dans la quête des proportions idéales, quel texte antique est explicitement mobilisé par Léonard de Vinci ?",
     "options": [
-      "À prouver l’existence historique de Moïse",
-      "À justifier la supériorité de Florence sur Rome",
-      "À établir l’origine de la perspective en peinture",
-      "À légitimer les prétentions territoriales et politiques de la papauté"
+      "La Poétique d’Aristote",
+      "L’Histoire naturelle de Pline",
+      "La Théogonie d’Hésiode",
+      "Le De Architectura de Vitruve"
     ],
     "answerIndex": 3,
-    "explication": "Le cours explique que la Donation de Constantin servait à justifier les prétentions du pape au gouvernement des États pontificaux. Autrement dit, ce document soutenait politiquement l’autorité temporelle de la papauté en lui attribuant un fondement ancien et prestigieux."
+    "explication": "Le cours relie l’Homme de Vitruve de Léonard de Vinci au traité De Architectura de Vitruve. L’idée est que le corps humain possède des proportions harmonieuses qui peuvent servir de modèle à l’art et à l’architecture. Le corps devient ainsi une mesure de beauté et d’ordre."
   },
   {
-    "question": "20 - Dans L’adoration des bergers de Ghirlandaio, comment appelle-t-on le personnage qui montre ce qu’il faut regarder ?",
+    "question": "20 - Selon le cours, quelle figure géométrique symbolise le ciel dans l’étude des proportions ?",
     "options": [
-      "Le commanditaire",
-      "L’admoniteur",
-      "Le narrateur",
-      "Le témoin sacré"
+      "Le triangle",
+      "Le cercle",
+      "Le carré",
+      "L’hexagone"
     ],
     "answerIndex": 1,
-    "explication": "Le cours emploie le terme d’« admoniteur » pour désigner le personnage qui oriente le regard du spectateur vers l’élément important de l’image. Sa fonction est essentielle dans la lecture du tableau, car il guide l’interprétation et participe à la construction du sens."
+    "explication": "Le cours précise que le cercle est une forme parfaite associée au ciel, tandis que le carré symbolise la Terre. Cette symbolique géométrique joue un rôle important dans la pensée renaissante des proportions, car elle relie l’Homme à la fois au monde céleste et au monde terrestre."
   },
   {
-"question":"21 - Que recherchent principalement les humanistes de la Renaissance dans les monastères et bibliothèques ?",
-"options":["Des objets archéologiques","Des manuscrits médiévaux religieux uniquement","Des manuscrits antiques oubliés","Des œuvres contemporaines"],
+"question":"21 - Quel principe caractérise la pensée humaniste de la Renaissance ?",
+"options":[
+"La domination exclusive de la religion",
+"La disparition de la culture antique",
+"La centralité de l’Homme dans la réflexion",
+"Le rejet de toute éducation"
+],
 "answerIndex":2,
-"explication":"Les humanistes parcourent l’Europe à la recherche de manuscrits antiques perdus. Leur objectif est de retrouver les textes originaux de l’Antiquité grecque et romaine afin de restaurer le savoir ancien."
-},
-{
-"question":"22 - Quelle langue les humanistes cherchent-ils à retrouver dans sa pureté antique ?",
-"options":["Le latin classique","Le français médiéval","L’allemand ancien","Le grec moderne"],
-"answerIndex":0,
-"explication":"Les humanistes veulent restaurer la pureté du latin classique utilisé par les auteurs antiques comme Cicéron ou Virgile. Ils considèrent que le latin médiéval s’est éloigné de ce modèle."
-},
-{
-"question":"23 - Quel domaine d’étude vise à analyser les textes anciens pour en vérifier l’authenticité ?",
-"options":["La rhétorique","La théologie","La philosophie morale","La philologie"],
-"answerIndex":3,
-"explication":"La philologie consiste à étudier les textes anciens, leur langue et leur transmission afin de déterminer leur authenticité et leur sens original."
-},
-{
-"question":"24 - Quel principe artistique permet de représenter la profondeur sur une surface plane ?",
-"options":["Le clair-obscur","La perspective","La stylisation","L’abstraction"],
-"answerIndex":1,
-"explication":"La perspective permet de créer l’illusion de profondeur dans une image plane en utilisant des lignes de fuite et un point de convergence."
-},
-{
-"question":"25 - Quel objectif poursuit la perspective à la Renaissance ?",
-"options":["Supprimer la narration","Imiter la nature","Créer des images abstraites","Éviter la géométrie"],
-"answerIndex":2,
-"explication":"La perspective vise à produire une représentation cohérente du monde visible en imitant la perception humaine et l’organisation géométrique de l’espace."
-},
-{
-"question":"26 - Dans la théorie d’Alberti, que signifie la « compositio » ?",
-"options":["Le choix des pigments","L’organisation des éléments du tableau","La signature du peintre","La préparation du mur"],
-"answerIndex":1,
-"explication":"La compositio correspond à l’organisation des figures et des éléments dans l’image. Elle joue un rôle similaire à la structure d’un discours en rhétorique."
-},
-{
-"question":"27 - Quel est le rôle principal de la lumière dans la peinture renaissante ?",
-"options":["Donner du relief aux formes","Supprimer les ombres","Uniformiser les couleurs","Rendre l’image abstraite"],
-"answerIndex":0,
-"explication":"La lumière permet de modeler les volumes et de donner une impression de profondeur et de réalité aux figures."
-},
-{
-"question":"28 - Dans la peinture de la Renaissance, que symbolisent souvent les ruines antiques ?",
-"options":["La victoire militaire","La fin du monde","La richesse marchande","Le passage du temps et l’histoire"],
-"answerIndex":3,
-"explication":"Les ruines évoquent la grandeur passée de l’Antiquité et rappellent la dimension historique du monde représenté."
-},
-{
-"question":"29 - Quelle fonction joue l’architecture dans de nombreuses peintures de la Renaissance ?",
-"options":["Décor aléatoire","Élément religieux uniquement","Structure de l’espace pictural","Simple ornement"],
-"answerIndex":2,
-"explication":"L’architecture organise la perspective et structure l’espace visuel dans le tableau."
-},
-{
-"question":"30 - Quel principe guide la recherche artistique de la Renaissance ?",
-"options":["L’imitation de la nature","La rupture totale avec l’Antiquité","Le refus de la perspective","La simplification extrême"],
-"answerIndex":0,
-"explication":"Les artistes cherchent à imiter la nature de manière fidèle et rationnelle, en s’appuyant sur l’observation et les mathématiques."
+"explication":"L’humanisme place l’Homme au centre de la réflexion intellectuelle et culturelle. Il valorise ses capacités intellectuelles et morales ainsi que son potentiel de développement."
 },
 
 {
-"question":"31 - Dans la rhétorique classique, quelle étape correspond à la recherche des idées ?",
-"options":["Memoria","Inventio","Actio","Elocutio"],
-"answerIndex":1,
-"explication":"L’inventio est la phase où l’on recherche les arguments et les idées qui serviront à construire le discours."
-},
-{
-"question":"32 - Dans la rhétorique, que signifie la notion d’elocutio ?",
-"options":["Organisation des idées","Mémorisation du discours","Recherche d’arguments","Style et expression"],
-"answerIndex":3,
-"explication":"L’elocutio concerne la manière d’exprimer les idées, le style et les choix linguistiques."
-},
-{
-"question":"33 - Quel est l’objectif principal de la narrativité dans une image ?",
-"options":["Raconter une histoire","Créer des formes abstraites","Supprimer le sens","Détruire la perspective"],
+"question":"22 - Pourquoi les humanistes étudient-ils les textes antiques ?",
+"options":[
+"Pour retrouver des modèles intellectuels et culturels",
+"Pour remplacer toutes les religions",
+"Parce qu’ils sont les seuls textes autorisés",
+"Pour supprimer les langues modernes"
+],
 "answerIndex":0,
-"explication":"La narrativité consiste à organiser l’image pour raconter un événement ou un récit compréhensible."
-},
-{
-"question":"34 - Quelle discipline rapproche la peinture et la poésie dans la pensée humaniste ?",
-"options":["La géométrie","La rhétorique","La médecine","L’astronomie"],
-"answerIndex":2,
-"explication":"La rhétorique permet de penser la peinture comme un discours visuel structuré."
-},
-{
-"question":"35 - Quel élément guide souvent le regard du spectateur dans un tableau ?",
-"options":["Le cadre","Le point de fuite","La signature","Le support"],
-"answerIndex":1,
-"explication":"Le point de fuite organise la perspective et dirige le regard vers un point précis."
-},
-{
-"question":"36 - Dans une œuvre narrative, quel est le rôle des personnages secondaires ?",
-"options":["Remplacer le sujet principal","Renforcer la compréhension du récit","Supprimer l’action","Décorer uniquement"],
-"answerIndex":3,
-"explication":"Les personnages secondaires contribuent à clarifier l’action et à enrichir la narration."
+"explication":"Les humanistes redécouvrent les textes grecs et latins car ils contiennent des modèles de pensée, de philosophie et de littérature qui enrichissent la culture européenne."
 },
 
 {
-"question":"37 - Quel principe intellectuel caractérise l’humanisme ?",
-"options":["Retour aux textes antiques","Refus de la culture antique","Abandon de la lecture","Rejet du savoir"],
-"answerIndex":0,
-"explication":"L’humanisme repose sur la redécouverte et l’étude des textes antiques pour comprendre l’homme et le monde."
-},
-{
-"question":"38 - Quel domaine d’étude permet de comprendre la langue des textes anciens ?",
-"options":["La physique","La philologie","La géométrie","La botanique"],
-"answerIndex":2,
-"explication":"La philologie analyse la langue et les manuscrits pour retrouver le sens original des textes."
-},
-{
-"question":"39 - Dans l’art de la Renaissance, pourquoi les artistes étudient-ils l’anatomie ?",
-"options":["Pour créer des monstres","Pour améliorer la représentation du corps humain","Pour copier des sculptures","Pour styliser les figures"],
-"answerIndex":1,
-"explication":"L’étude de l’anatomie permet de représenter le corps humain avec précision et réalisme."
-},
-{
-"question":"40 - Quel élément renforce la crédibilité visuelle d’une scène peinte ?",
-"options":["La cohérence de l’espace","La simplification extrême","L’absence de lumière","La déformation volontaire"],
+"question":"23 - Quel rôle joue l’éducation dans l’humanisme ?",
+"options":[
+"Elle doit être limitée aux sciences",
+"Elle est inutile",
+"Elle doit être réservée aux nobles",
+"Elle permet de développer pleinement les capacités humaines"
+],
 "answerIndex":3,
-"explication":"Une représentation cohérente de l’espace et des volumes rend la scène plus crédible."
+"explication":"L’éducation humaniste vise à développer l’ensemble des capacités de l’individu : intellectuelles, morales, artistiques et physiques."
 },
 
 {
-"question":"41 - Quelle valeur intellectuelle la Renaissance accorde-t-elle aux arts ?",
-"options":["Une valeur purement artisanale","Une valeur intellectuelle comparable aux lettres","Aucune valeur","Une valeur uniquement religieuse"],
+"question":"24 - Que signifie la dignité de l’homme dans la pensée humaniste ?",
+"options":[
+"L’homme est condamné à rester immobile",
+"L’homme possède la liberté de se construire",
+"L’homme est inférieur aux animaux",
+"L’homme doit renoncer au savoir"
+],
 "answerIndex":1,
-"explication":"Grâce aux théories humanistes, la peinture devient un art intellectuel comparable à la poésie."
-},
-{
-"question":"42 - Quel rôle joue la géométrie dans la perspective ?",
-"options":["Organiser l’espace","Supprimer la profondeur","Détruire l’illusion","Créer des couleurs"],
-"answerIndex":0,
-"explication":"La perspective repose sur des règles géométriques qui structurent la représentation de l’espace."
-},
-{
-"question":"43 - Dans la peinture, que signifie le terme « narratif » ?",
-"options":["Abstrait","Symbolique uniquement","Décoratif","Qui raconte une histoire"],
-"answerIndex":3,
-"explication":"Une image narrative représente un événement ou une action compréhensible."
-},
-{
-"question":"44 - Quel principe artistique cherche à représenter le monde visible de manière crédible ?",
-"options":["Le réalisme","Le symbolisme","Le naturalisme","L’imitation de la nature"],
-"answerIndex":2,
-"explication":"Les artistes de la Renaissance cherchent à représenter le monde tel qu’il apparaît à l’œil humain."
+"explication":"Pour les humanistes, l’homme possède le libre arbitre et peut développer ses capacités grâce au savoir et à l’éducation."
 },
 
 {
-"question":"45 - Quel élément structure l’organisation d’un tableau selon Alberti ?",
-"options":["La compositio","La couleur","Le support","Le cadre"],
-"answerIndex":0,
-"explication":"La compositio organise la disposition des figures et des éléments dans l’image."
-},
-{
-"question":"46 - Dans la théorie de la perspective, où convergent les lignes ?",
-"options":["Au bord du tableau","Au point de fuite","Au centre de la figure","Au premier plan"],
+"question":"25 - Pourquoi l’étude du corps humain se développe-t-elle à la Renaissance ?",
+"options":[
+"Pour remplacer les textes religieux",
+"Parce que la peinture religieuse disparaît",
+"Pour mieux comprendre l’anatomie et représenter le corps",
+"Parce qu’elle est imposée par l’Église"
+],
 "answerIndex":2,
-"explication":"Les lignes de perspective convergent vers un point de fuite qui structure la profondeur de l’image."
-},
-{
-"question":"47 - Quel objectif poursuit la peinture narrative ?",
-"options":["Supprimer le sens","Raconter un événement","Éviter la représentation","Refuser l’histoire"],
-"answerIndex":1,
-"explication":"La peinture narrative organise les éléments visuels pour raconter un épisode précis."
-},
-{
-"question":"48 - Quel élément permet de comprendre l’époque représentée dans une image ?",
-"options":["Les ruines et l’architecture","La couleur unique","Le cadre","La signature"],
-"answerIndex":3,
-"explication":"Les éléments architecturaux ou les ruines situent souvent la scène dans une période historique."
+"explication":"L’étude anatomique permet de comprendre la structure du corps humain et d’améliorer les représentations artistiques."
 },
 
 {
-"question":"49 - Quelle méthode caractérise la recherche des humanistes ?",
-"options":["Analyse critique des textes","Imagination pure","Tradition orale","Transmission religieuse"],
-"answerIndex":0,
-"explication":"Les humanistes analysent les textes anciens de manière critique pour retrouver leur sens original."
+"question":"26 - Quel artiste est célèbre pour ses études anatomiques détaillées ?",
+"options":[
+"Raphaël",
+"Léonard de Vinci",
+"Donatello",
+"Botticelli"
+],
+"answerIndex":1,
+"explication":"Léonard de Vinci réalise de nombreux dessins anatomiques issus de dissections pour comprendre les muscles et les organes."
 },
+
 {
-"question":"50 - Quel est l’objectif de la perspective dans une peinture ?",
-"options":["Créer une illusion de profondeur","Supprimer les formes","Uniformiser la lumière","Simplifier les volumes"],
+"question":"27 - Quel est l’objectif principal des dissections à la Renaissance ?",
+"options":[
+"Observer directement le corps humain",
+"Créer des spectacles publics",
+"Illustrer des mythes",
+"Remplacer les livres scientifiques"
+],
+"answerIndex":0,
+"explication":"Les dissections permettent une observation directe de l’anatomie et améliorent les connaissances scientifiques."
+},
+
+{
+"question":"28 - Pourquoi les proportions du corps humain intéressent-elles les artistes ?",
+"options":[
+"Pour supprimer la créativité",
+"Pour simplifier les peintures",
+"Pour éviter l’étude du corps",
+"Pour comprendre l’harmonie du corps"
+],
+"answerIndex":3,
+"explication":"Les proportions permettent de représenter un corps équilibré et harmonieux, considéré comme idéal à la Renaissance."
+},
+
+{
+"question":"29 - Quel dessin célèbre illustre les proportions idéales du corps humain ?",
+"options":[
+"La Joconde",
+"La Cène",
+"L’Homme de Vitruve",
+"La Vierge aux rochers"
+],
 "answerIndex":2,
-"explication":"La perspective crée l’illusion d’un espace tridimensionnel sur une surface plane."
+"explication":"L’Homme de Vitruve de Léonard de Vinci illustre les proportions idéales du corps humain décrites par Vitruve."
+},
+
+{
+"question":"30 - Que symbolise le carré dans l’étude des proportions ?",
+"options":[
+"La Terre",
+"Le ciel",
+"La divinité",
+"L’infini"
+],
+"answerIndex":0,
+"explication":"Dans la symbolique géométrique de la Renaissance, le carré représente la Terre et le monde matériel."
+},
+
+{
+"question":"31 - Quelle caractéristique distingue les artistes de la Renaissance ?",
+"options":[
+"Le refus de l’innovation",
+"L’observation attentive de la nature",
+"La suppression de la perspective",
+"L’abandon de la peinture"
+],
+"answerIndex":1,
+"explication":"Les artistes observent directement la nature afin de représenter le monde avec plus de réalisme."
+},
+
+{
+"question":"32 - Quel principe scientifique devient essentiel à la Renaissance ?",
+"options":[
+"La magie",
+"La tradition orale",
+"La superstition",
+"L’observation et l’expérience"
+],
+"answerIndex":3,
+"explication":"Les savants privilégient l’observation et l’expérimentation pour comprendre le monde."
+},
+
+{
+"question":"33 - Quel domaine artistique profite directement des progrès de l’anatomie ?",
+"options":[
+"La sculpture et la peinture",
+"La musique",
+"La littérature",
+"La danse"
+],
+"answerIndex":0,
+"explication":"La connaissance de l’anatomie permet aux artistes de représenter le corps humain avec plus de précision."
+},
+
+{
+"question":"34 - Pourquoi les artistes étudient-ils les muscles ?",
+"options":[
+"Pour comprendre les mouvements du corps",
+"Pour supprimer les détails",
+"Pour simplifier les dessins",
+"Pour éviter l’anatomie"
+],
+"answerIndex":2,
+"explication":"L’étude des muscles permet de représenter correctement les mouvements et les tensions du corps."
+},
+
+{
+"question":"35 - Quel lien existe entre science et art à la Renaissance ?",
+"options":[
+"Ils sont opposés",
+"Ils se nourrissent mutuellement",
+"Ils sont totalement séparés",
+"Ils n’existent pas"
+],
+"answerIndex":1,
+"explication":"Les artistes utilisent les découvertes scientifiques, notamment en anatomie et en perspective."
+},
+
+{
+"question":"36 - Quelle qualité caractérise l’homme idéal de la Renaissance ?",
+"options":[
+"La spécialisation unique",
+"La passivité",
+"L’ignorance",
+"La polyvalence intellectuelle"
+],
+"answerIndex":3,
+"explication":"L’homme idéal maîtrise plusieurs disciplines : arts, sciences et lettres."
+},
+
+{
+"question":"37 - Quel est l’objectif de l’éducation humaniste ?",
+"options":[
+"Former un individu cultivé et équilibré",
+"Former uniquement des soldats",
+"Former uniquement des religieux",
+"Former uniquement des artistes"
+],
+"answerIndex":0,
+"explication":"L’éducation humaniste cherche à développer toutes les capacités de l’individu."
+},
+
+{
+"question":"38 - Pourquoi apprendre le grec et le latin ?",
+"options":[
+"Pour supprimer les langues modernes",
+"Pour accéder aux textes antiques",
+"Pour simplifier les études",
+"Pour limiter la culture"
+],
+"answerIndex":2,
+"explication":"La connaissance des langues anciennes permet de lire directement les textes de l’Antiquité."
+},
+
+{
+"question":"39 - Quelle transformation culturelle caractérise la Renaissance ?",
+"options":[
+"La disparition de la culture",
+"La redécouverte des savoirs antiques",
+"La suppression des universités",
+"L’abandon des arts"
+],
+"answerIndex":3,
+"explication":"La Renaissance redécouvre les œuvres antiques et les adapte à son époque."
+},
+
+{
+"question":"40 - Quel rôle joue la curiosité intellectuelle dans l’humanisme ?",
+"options":[
+"Elle encourage la recherche et le savoir",
+"Elle est considérée comme dangereuse",
+"Elle est interdite",
+"Elle est inutile"
+],
+"answerIndex":1,
+"explication":"La curiosité intellectuelle pousse les humanistes à explorer de nouveaux domaines de connaissance."
+},
+
+{
+"question":"41 - Quelle invention favorise la diffusion des idées humanistes ?",
+"options":[
+"La poudre à canon",
+"La boussole",
+"L’imprimerie",
+"Le moulin à vent"
+],
+"answerIndex":2,
+"explication":"L’imprimerie permet la diffusion rapide des livres et des idées."
+},
+
+{
+"question":"42 - Pourquoi l’imprimerie est-elle importante pour les humanistes ?",
+"options":[
+"Elle facilite la diffusion du savoir",
+"Elle remplace l’écriture",
+"Elle interdit les livres",
+"Elle supprime les bibliothèques"
+],
+"answerIndex":0,
+"explication":"Les livres peuvent être reproduits rapidement et diffusés largement."
+},
+
+{
+"question":"43 - Quelle valeur morale est centrale dans l’humanisme ?",
+"options":[
+"La violence",
+"La paresse",
+"La recherche de la connaissance",
+"L’ignorance"
+],
+"answerIndex":3,
+"explication":"La recherche du savoir est une valeur fondamentale de l’humanisme."
+},
+
+{
+"question":"44 - Quel rôle joue l’observation de la nature ?",
+"options":[
+"Elle est inutile",
+"Elle permet de mieux comprendre le monde",
+"Elle remplace la science",
+"Elle est interdite"
+],
+"answerIndex":1,
+"explication":"Observer la nature permet d’améliorer les connaissances scientifiques."
+},
+
+{
+"question":"45 - Pourquoi les artistes étudient-ils la perspective ?",
+"options":[
+"Pour supprimer la profondeur",
+"Pour simplifier les images",
+"Pour représenter l’espace de manière réaliste",
+"Pour éviter la géométrie"
+],
+"answerIndex":2,
+"explication":"La perspective permet de représenter la profondeur et l’espace."
+},
+
+{
+"question":"46 - Quel principe artistique se développe à la Renaissance ?",
+"options":[
+"La stylisation extrême",
+"La suppression des détails",
+"La recherche du réalisme",
+"La simplification totale"
+],
+"answerIndex":1,
+"explication":"Les artistes cherchent à représenter la réalité de façon fidèle."
+},
+
+{
+"question":"47 - Quel rôle joue la géométrie dans l’art ?",
+"options":[
+"Créer des compositions harmonieuses",
+"Supprimer la perspective",
+"Éviter les proportions",
+"Limiter la créativité"
+],
+"answerIndex":0,
+"explication":"La géométrie aide à structurer les compositions artistiques."
+},
+
+{
+"question":"48 - Quel idéal humain incarne Léonard de Vinci ?",
+"options":[
+"L’homme guerrier",
+"L’homme religieux",
+"L’homme universel",
+"L’homme solitaire"
+],
+"answerIndex":3,
+"explication":"Léonard de Vinci incarne l’idéal de l’homme universel maîtrisant plusieurs domaines."
+},
+
+{
+"question":"49 - Pourquoi la Renaissance est-elle un renouveau ?",
+"options":[
+"Elle redécouvre et transforme les savoirs antiques",
+"Elle supprime la science",
+"Elle refuse la culture",
+"Elle abandonne les arts"
+],
+"answerIndex":0,
+"explication":"Elle combine redécouverte des savoirs anciens et nouvelles méthodes scientifiques."
+},
+
+{
+"question":"50 - Quelle valeur centrale guide les humanistes ?",
+"options":[
+"La peur",
+"La connaissance",
+"La violence",
+"L’ignorance"
+],
+"answerIndex":2,
+"explication":"La connaissance est au cœur du projet humaniste."
+},
+
+{
+"question":"51 - Quelle idée relie science et art ?",
+"options":[
+"La recherche de l’harmonie",
+"La séparation totale",
+"La rivalité",
+"La suppression de la créativité"
+],
+"answerIndex":1,
+"explication":"Les deux disciplines cherchent à comprendre et représenter l’ordre du monde."
+},
+
+{
+"question":"52 - Quel élément du corps fascine les artistes ?",
+"options":[
+"Les muscles",
+"Les cheveux",
+"Les vêtements",
+"Les chaussures"
+],
+"answerIndex":3,
+"explication":"Les muscles permettent de comprendre les mouvements du corps."
+},
+
+{
+"question":"53 - Pourquoi les humanistes valorisent-ils l’esprit critique ?",
+"options":[
+"Pour analyser les idées et les textes",
+"Pour supprimer la réflexion",
+"Pour éviter les débats",
+"Pour interdire la science"
+],
+"answerIndex":0,
+"explication":"L’esprit critique permet de comprendre et d’analyser les connaissances."
+},
+
+{
+"question":"54 - Quel objectif poursuivent les artistes ?",
+"options":[
+"La beauté et l’harmonie",
+"La suppression des proportions",
+"L’évitement de la nature",
+"L’imitation du Moyen Âge"
+],
+"answerIndex":2,
+"explication":"Les artistes cherchent à représenter la beauté idéale inspirée de la nature."
+},
+
+{
+"question":"55 - Quelle discipline combine art et mathématiques ?",
+"options":[
+"La perspective",
+"La poésie",
+"La musique",
+"La danse"
+],
+"answerIndex":1,
+"explication":"La perspective utilise la géométrie pour représenter l’espace."
+},
+
+{
+"question":"56 - Pourquoi étudier les proportions du corps ?",
+"options":[
+"Pour comprendre les lois de l’harmonie",
+"Pour supprimer l’art",
+"Pour limiter la science",
+"Pour éviter l’observation"
+],
+"answerIndex":3,
+"explication":"Les proportions sont considérées comme un modèle d’équilibre et de beauté."
+},
+
+{
+"question":"57 - Quelle attitude caractérise les savants ?",
+"options":[
+"La curiosité et l’observation",
+"La passivité",
+"La peur de la connaissance",
+"Le rejet de la nature"
+],
+"answerIndex":0,
+"explication":"Les savants cherchent à observer et comprendre le monde."
+},
+
+{
+"question":"58 - Quelle relation l’homme entretient-il avec la nature ?",
+"options":[
+"L’homme ignore la nature",
+"L’homme cherche à comprendre la nature",
+"La nature est inutile",
+"La nature est interdite"
+],
+"answerIndex":2,
+"explication":"L’étude de la nature est centrale pour comprendre le monde."
+},
+
+{
+"question":"59 - Quelle valeur éducative est essentielle ?",
+"options":[
+"La culture générale",
+"La spécialisation extrême",
+"L’ignorance volontaire",
+"La rigidité intellectuelle"
+],
+"answerIndex":3,
+"explication":"La culture générale permet une vision globale des savoirs."
+},
+
+{
+"question":"60 - Quel est le but de la formation humaniste ?",
+"options":[
+"Former un individu complet",
+"Former uniquement des artistes",
+"Former uniquement des scientifiques",
+"Former uniquement des religieux"
+],
+"answerIndex":1,
+"explication":"La formation humaniste vise à développer toutes les capacités humaines."
+},
+
+{
+"question":"61 - Quelle importance a l’art dans la Renaissance ?",
+"options":[
+"Explorer la beauté et la nature",
+"Il est inutile",
+"Il est interdit",
+"Il remplace la science"
+],
+"answerIndex":2,
+"explication":"L’art devient un moyen de comprendre la nature et l’homme."
+},
+
+{
+"question":"62 - Quel principe relie science et art ?",
+"options":[
+"L’observation du réel",
+"La superstition",
+"La magie",
+"La tradition immuable"
+],
+"answerIndex":0,
+"explication":"L’observation est essentielle pour les scientifiques comme pour les artistes."
+},
+
+{
+"question":"63 - Quelle notion est essentielle dans l’humanisme ?",
+"options":[
+"La dignité de l’homme",
+"La peur de la connaissance",
+"La rigidité religieuse",
+"La suppression de l’éducation"
+],
+"answerIndex":3,
+"explication":"La dignité de l’homme repose sur sa capacité à penser et à apprendre."
+},
+
+{
+"question":"64 - Pourquoi la Renaissance valorise-t-elle la connaissance ?",
+"options":[
+"Parce qu’elle permet le progrès humain",
+"Parce qu’elle limite la société",
+"Parce qu’elle empêche la créativité",
+"Parce qu’elle supprime la culture"
+],
+"answerIndex":1,
+"explication":"La connaissance permet à l’homme de comprendre et transformer le monde."
+},
+
+{
+"question":"65 - Quelle idée résume l’esprit de la Renaissance ?",
+"options":[
+"L’exploration des capacités humaines",
+"La peur du changement",
+"La stagnation culturelle",
+"La disparition de l’éducation"
+],
+"answerIndex":2,
+"explication":"La Renaissance valorise l’exploration intellectuelle et artistique."
+},
+
+{
+"question":"66 - Quel rôle jouent les textes antiques ?",
+"options":[
+"Comprendre les fondements culturels",
+"Remplacer toute innovation",
+"Supprimer les sciences",
+"Limiter la réflexion"
+],
+"answerIndex":1,
+"explication":"Les textes antiques servent de référence culturelle et intellectuelle."
+},
+
+{
+"question":"67 - Quelle transformation intellectuelle apparaît ?",
+"options":[
+"Le développement de l’esprit critique",
+"La disparition des sciences",
+"La suppression des universités",
+"Le rejet du savoir"
+],
+"answerIndex":3,
+"explication":"Les humanistes encouragent l’analyse critique des textes et des idées."
+},
+
+{
+"question":"68 - Quelle idée structure la vision humaniste ?",
+"options":[
+"L’homme possède un potentiel intellectuel",
+"L’homme est incapable de progresser",
+"La connaissance est inutile",
+"La nature est incompréhensible"
+],
+"answerIndex":0,
+"explication":"L’humanisme repose sur la confiance dans les capacités humaines."
+},
+
+{
+"question":"69 - Quelle caractéristique décrit l’homme idéal ?",
+"options":[
+"Un individu cultivé et polyvalent",
+"Un individu ignorant",
+"Un individu passif",
+"Un individu isolé"
+],
+"answerIndex":2,
+"explication":"L’homme idéal est cultivé dans plusieurs domaines."
+},
+
+{
+"question":"70 - Quelle ambition poursuit l’humanisme ?",
+"options":[
+"Développer pleinement les capacités humaines",
+"Limiter la connaissance",
+"Supprimer l’éducation",
+"Interdire les arts"
+],
+"answerIndex":3,
+"explication":"L’humanisme cherche à permettre à l’homme de développer ses capacités intellectuelles et culturelles."
 }
-
 ]
