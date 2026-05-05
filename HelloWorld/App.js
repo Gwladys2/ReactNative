@@ -103,6 +103,12 @@ import Footer from './components/Footer'; // ton composant Footer
 import Inegalite1 from './screens/semestre2/Inegalite';
 import Inegalite2 from './screens/semestre2/Inegalite2';
 import Inegalite3 from './screens/semestre2/Inegalite3';
+import Inegalite4 from './screens/semestre2/Inegalite4';
+import Inegalite5 from './screens/semestre2/Inegalite5';
+import Inegalite6 from './screens/semestre2/Inegalite6';
+import Inegalite7 from './screens/semestre2/Inegalite7';
+import Inegalite8 from './screens/semestre2/Inegalite8';
+import Inegalite9 from './screens/semestre2/Inegalite9';
 
 import LettreArt2Part from './screens/semestre2/LettresArts2Part';
 import LettreArt2Part2 from './screens/semestre2/LettresArts2Part2';
@@ -258,6 +264,12 @@ export default function App() {
                <Stack.Screen name="inegalite" component={Inegalite1} />
                <Stack.Screen name="Inegalite2" component={Inegalite2} />
                <Stack.Screen name="Inegalite3" component={Inegalite3} />
+               <Stack.Screen name="Inegalite4" component={Inegalite4} />
+               <Stack.Screen name="Inegalite5" component={Inegalite5} />
+               <Stack.Screen name="Inegalite6" component={Inegalite6} />
+               <Stack.Screen name="Inegalite7" component={Inegalite7} />
+                <Stack.Screen name="Inegalite8" component={Inegalite8} />
+               <Stack.Screen name="Inegalite9" component={Inegalite9} />
 
                <Stack.Screen name="LettresArts2Part" component={LettreArt2Part} />
                 <Stack.Screen name="LettresArts2Part2" component={LettreArt2Part2} />

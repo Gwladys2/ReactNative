@@ -1,6 +1,6 @@
 import React, { useContext, useState } from 'react';
 import { View, Text, Button, StyleSheet, Alert } from 'react-native';
-import questions from '../../questions/Inegalite/serie1.json';
+import questions from '../../questions/Inegalite/serie6.json';
 import { ProgressContext } from '../../context/ProgressContext';
 import HeaderStats from '../../components/HeaderStats';
 import Logo from '../Logo';
@@ -65,7 +65,7 @@ export default function LessonScreen({ navigation }) {
             {!showRestart ? (
                 <>
                     
-                    <Text style={styles.titre}>Faire face aux inégalités. Penser le genre et bâtir une société inclusive: La place des femmes, une évolution encore trop silencieuse</Text>
+                    <Text style={styles.titre}>Faire face aux inégalités: Vers la société inclusive</Text>
 
                     <Text style={styles.question}>{current.question}</Text>
                     {current.options.map((option, i) => (
@@ -82,16 +82,16 @@ export default function LessonScreen({ navigation }) {
             )}
 
        <View style={styles.linkContainer}>
-<Text style={styles.link} onPress={() => navigation.navigate('inegalite')}> ✨La place des femmes</Text>
-                                 <Text style={styles.link} onPress={() => navigation.navigate('Inegalite2')}> 🌼Exemple de genre</Text>
-                                <Text style={styles.link} onPress={() => navigation.navigate('Inegalite3')}>✨L'orientation scolaire </Text>
-                                 <Text style={styles.link} onPress={() => navigation.navigate('Inegalite4')}> 🌼 Inégalité des genres</Text>
-                               <Text style={styles.link} onPress={() => navigation.navigate('Inegalite5')}>🌼société inclusive selon Gardou </Text>
-                                <Text style={styles.link} onPress={() => navigation.navigate('Inegalite6')}>🌼 Vers la société inclusive</Text>
-                                <Text style={styles.link} onPress={() => navigation.navigate('Inegalite7')}>🌼 S.I environnement scolaire et Universitaire</Text>
-                                 <Text style={styles.link} onPress={() => navigation.navigate('Inegalite8')}>🌼 Entreprises inclusives</Text>
-                                 <Text style={styles.link} onPress={() => navigation.navigate('Inegalite9')}>🌼 Les environnements capacitants</Text>                                                         
-                               </View>
+        <Text style={styles.link} onPress={() => navigation.navigate('inegalite')}> ✨La place des femmes</Text>
+                                         <Text style={styles.link} onPress={() => navigation.navigate('Inegalite2')}> 🌼Exemple de genre</Text>
+                                        <Text style={styles.link} onPress={() => navigation.navigate('Inegalite3')}>✨L'orientation scolaire </Text>
+                                         <Text style={styles.link} onPress={() => navigation.navigate('Inegalite4')}> 🌼 Inégalité des genres</Text>
+                                       <Text style={styles.link} onPress={() => navigation.navigate('Inegalite5')}>🌼société inclusive selon Gardou </Text>
+                                        <Text style={styles.link} onPress={() => navigation.navigate('Inegalite6')}>🌼 Vers la société inclusive</Text>
+                                        <Text style={styles.link} onPress={() => navigation.navigate('Inegalite7')}>🌼 S.I environnement scolaire et Universitaire</Text>
+                                         <Text style={styles.link} onPress={() => navigation.navigate('Inegalite8')}>🌼 Entreprises inclusives</Text>
+                                         <Text style={styles.link} onPress={() => navigation.navigate('Inegalite9')}>🌼 Les environnements capacitants</Text>                                                         
+                                       </View>
        
                
                              </ScrollView>

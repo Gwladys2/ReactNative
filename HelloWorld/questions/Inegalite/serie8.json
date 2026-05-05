@@ -1,0 +1,302 @@
+[
+  {
+    "question": "1 - Selon le cours, de quoi dépend la réaction d’une personne face à un événement ?",
+    "options": ["Uniquement de sa personnalité", "De son intelligence", "De son âge", "Du contexte, de la situation et des ressources"],
+    "answerIndex": 3,
+    "explication": "La réaction d’un individu dépend de plusieurs facteurs : le contexte, la situation (liée à l’environnement), ainsi que les ressources internes et externes dont il dispose."
+  },
+  {
+    "question": "2 - Quelle idée principale est associée au concept de « médecine constructive » apparu en 1957 ?",
+    "options": ["Soigner uniquement les maladies graves", "Adapter le travail au travailleur", "Augmenter la productivité à tout prix", "Supprimer toute difficulté au travail"],
+    "answerIndex": 1,
+    "explication": "Le concept de médecine constructive vise à adapter le travail à l’humain (« fitting the job to the worker »), en prenant en compte ses capacités plutôt que de l’adapter aux contraintes du travail."
+  },
+  {
+    "question": "3 - Que signifie la « santé cognitive » selon de Montmollin ?",
+    "options": ["La capacité à mobiliser des compétences pour agir et réussir", "Le fait de ne jamais tomber malade", "L’intelligence émotionnelle uniquement", "La mémoire à long terme"],
+    "answerIndex": 0,
+    "explication": "La santé cognitive correspond à la capacité d’un individu à disposer de compétences lui permettant de réussir, progresser et s’insérer socialement, évitant ainsi une « misère cognitive »."
+  },
+  {
+    "question": "4 - Selon Falzon, que doit proposer un environnement de travail capacitant ?",
+    "options": ["Des tâches sans difficulté", "Des tâches impossibles", "Des tâches exigeantes mais inaccessibles", "Des difficultés traitables et intéressantes"],
+    "answerIndex": 2,
+    "explication": "Falzon explique que les tâches doivent présenter des difficultés « traitables », c’est-à-dire accessibles et stimulantes, permettant l’apprentissage et le développement des compétences."
+  },
+  {
+    "question": "5 - Que sont les capabilités selon Amartya Sen ?",
+    "options": ["Les libertés réelles de mener une vie valorisée", "Les compétences scolaires uniquement", "Les ressources économiques", "Les obligations sociales"],
+    "answerIndex": 0,
+    "explication": "Les capabilités désignent les libertés réelles dont dispose une personne pour mener une vie qu’elle a des raisons de valoriser, au-delà des simples ressources disponibles."
+  },
+  {
+    "question": "6 - Quelle est la différence entre capabilités et accomplissements ?",
+    "options": ["Aucune différence", "Les accomplissements sont des ressources", "Les capabilités sont des résultats finaux", "Les capabilités sont des possibilités, les accomplissements sont les réalisations effectives"],
+    "answerIndex": 3,
+    "explication": "Les capabilités représentent les possibilités réelles d’agir, tandis que les accomplissements correspondent à ce que la personne réalise effectivement dans sa vie."
+  },
+  {
+    "question": "7 - Que montre l’exemple de la famine étudié par Amartya Sen ?",
+    "options": ["Qu’il n’y avait pas de nourriture", "Que l’accès aux ressources est aussi important que leur présence", "Que les gens refusaient de manger", "Que la nourriture était mauvaise"],
+    "answerIndex": 1,
+    "explication": "Sen montre que même si des ressources existent (comme la nourriture), elles ne sont pas toujours accessibles. Les facteurs de conversion jouent un rôle essentiel dans l’accès réel."
+  },
+  {
+    "question": "8 - Que sont les facteurs de conversion ?",
+    "options": ["Des ressources financières", "Des compétences individuelles uniquement", "Des éléments qui facilitent ou entravent l’usage des ressources", "Des lois politiques"],
+    "answerIndex": 2,
+    "explication": "Les facteurs de conversion sont l’ensemble des éléments (individuels, sociaux, environnementaux) qui permettent ou empêchent une personne d’utiliser les ressources disponibles."
+  },
+  {
+    "question": "9 - Dans l’exemple du droit de vote, que montre Sen ?",
+    "options": ["Que tout le monde vote automatiquement", "Que le droit seul ne suffit pas pour pouvoir réellement voter", "Que le vote est inutile", "Que seul l’État décide"],
+    "answerIndex": 1,
+    "explication": "Avoir un droit (comme voter) ne garantit pas sa mise en œuvre. Il faut des conditions concrètes (information, accès, organisation) pour transformer ce droit en capabilité réelle."
+  },
+  {
+    "question": "10 - Quel est l’objectif principal d’un environnement capacitant selon Falzon ?",
+    "options": ["Augmenter uniquement la performance économique", "Supprimer toute contrainte", "Limiter les apprentissages", "Développer les compétences et le pouvoir d’agir des individus"],
+    "answerIndex": 0,
+    "explication": "Un environnement capacitant vise à développer les compétences, l’autonomie et le pouvoir d’agir des individus en leur permettant d’exploiter les ressources disponibles."
+  },
+  {
+    "question": "11 - Que signifie le concept de « handicap de conversion » chez Sen ?",
+    "options": ["Un manque de motivation", "Une absence de droits", "Une incapacité physique uniquement", "Une difficulté à transformer les ressources en actions concrètes"],
+    "answerIndex": 3,
+    "explication": "Le handicap de conversion désigne le fait qu’une personne ne peut pas utiliser efficacement les ressources disponibles à cause de contraintes (sociales, environnementales ou individuelles)."
+  },
+  {
+    "question": "12 - Quel exemple illustre le handicap de conversion dans le cours ?",
+    "options": ["Une personne riche", "La famine malgré la présence de nourriture", "Un étudiant motivé", "Un travailleur qualifié"],
+    "answerIndex": 1,
+    "explication": "Sen montre que lors de famines, la nourriture peut exister mais rester inaccessible, ce qui illustre un problème de conversion des ressources en actions."
+  },
+  {
+    "question": "13 - Que représentent les facteurs de conversion ?",
+    "options": ["Des éléments qui facilitent ou empêchent l’usage des ressources", "Des lois économiques", "Des compétences scolaires", "Des outils techniques"],
+    "answerIndex": 0,
+    "explication": "Les facteurs de conversion influencent la capacité d’une personne à utiliser les ressources pour atteindre des objectifs concrets."
+  },
+  {
+    "question": "14 - Quel type de facteur de conversion correspond à l’accessibilité des transports ?",
+    "options": ["Individuel", "Psychologique", "Environnemental", "Biologique"],
+    "answerIndex": 2,
+    "explication": "L’accessibilité des transports relève de l’environnement matériel et structurel, donc d’un facteur environnemental."
+  },
+  {
+    "question": "15 - Que faut-il pour transformer une ressource en capabilité ?",
+    "options": ["Des conditions favorables et des facteurs de conversion", "Uniquement de la volonté", "Uniquement des moyens financiers", "Du hasard"],
+    "answerIndex": 0,
+    "explication": "Une ressource n’est utile que si les conditions permettent son utilisation effective, ce qui dépend des facteurs de conversion."
+  },
+  {
+    "question": "16 - Quel est l’objectif d’un environnement capacitant selon Falzon ?",
+    "options": ["Réduire les coûts", "Augmenter la productivité", "Supprimer les difficultés", "Développer les compétences et le pouvoir d’agir"],
+    "answerIndex": 3,
+    "explication": "Un environnement capacitant vise à développer les compétences, l’autonomie et les possibilités d’action des individus."
+  },
+  {
+    "question": "17 - Que signifie l’approche universelle dans un environnement capacitant ?",
+    "options": ["Ignorer les différences", "Prendre en compte les différences entre individus", "Uniformiser les pratiques", "Standardiser les individus"],
+    "answerIndex": 1,
+    "explication": "L’approche universelle vise à adapter l’environnement aux différences (âge, handicap, culture) pour éviter l’exclusion."
+  },
+  {
+    "question": "18 - Quel est le rôle des ressources internes ?",
+    "options": ["Créer des lois", "Modifier l’environnement", "Permettre à la personne d’agir selon ses capacités", "Supprimer les contraintes"],
+    "answerIndex": 2,
+    "explication": "Les ressources internes (compétences, connaissances) permettent à la personne d’agir dans une situation donnée."
+  },
+  {
+    "question": "19 - Que sont les accomplissements selon Sen ?",
+    "options": ["Des ressources disponibles", "Les actions réellement réalisées", "Des contraintes sociales", "Des capacités théoriques"],
+    "answerIndex": 1,
+    "explication": "Les accomplissements correspondent à ce qu’une personne réalise effectivement dans sa vie."
+  },
+  {
+    "question": "20 - Quelle est la finalité des capabilités ?",
+    "options": ["Permettre le choix réel de vie", "Accumuler des ressources", "Réduire les efforts", "Augmenter les contraintes"],
+    "answerIndex": 0,
+    "explication": "Les capabilités visent à offrir des libertés réelles permettant de choisir sa vie."
+  },
+  {
+    "question": "21 - Que signifie « ressources externes » ?",
+    "options": ["Les émotions", "Les compétences", "Les motivations", "Les éléments de l’environnement accessibles à la personne"],
+    "answerIndex": 3,
+    "explication": "Les ressources externes sont les éléments fournis par l’environnement (outils, aides, organisation)."
+  },
+  {
+    "question": "22 - Que montre l’exemple du droit de vote ?",
+    "options": ["Que tout le monde vote", "Que le droit seul ne suffit pas", "Que le vote est obligatoire", "Que le vote est inutile"],
+    "answerIndex": 1,
+    "explication": "Avoir un droit ne garantit pas son usage : il faut des conditions concrètes pour l’exercer."
+  },
+  {
+    "question": "23 - Que signifie « pouvoir d’être et de faire » ?",
+    "options": ["L’autonomie et la liberté d’action", "Une obligation sociale", "Une contrainte économique", "Une règle politique"],
+    "answerIndex": 0,
+    "explication": "Cela renvoie à la capacité réelle d’agir librement et de mener une vie choisie."
+  },
+  {
+    "question": "24 - Que vise l’approche des capabilités ?",
+    "options": ["Uniformiser les sociétés", "Réduire les libertés", "Évaluer la justice à partir des libertés réelles", "Supprimer les différences"],
+    "answerIndex": 2,
+    "explication": "Sen propose d’évaluer la justice sociale à partir des libertés réelles des individus."
+  },
+  {
+    "question": "25 - Pourquoi une ressource peut-elle être inutilisable ?",
+    "options": ["À cause des facteurs de conversion", "Car elle est inutile", "Car elle est trop chère", "Car elle est inconnue"],
+    "answerIndex": 0,
+    "explication": "Sans conditions favorables, une ressource peut exister mais ne pas être utilisable."
+  },
+  {
+    "question": "26 - Que propose Falzon avec la théorie du hamac ?",
+    "options": ["Supprimer les efforts", "Créer du repos", "Éliminer les tâches", "Maintenir des difficultés intéressantes"],
+    "answerIndex": 3,
+    "explication": "Il ne faut pas supprimer toutes les difficultés mais les rendre stimulantes et formatrices."
+  },
+  {
+    "question": "27 - Que permet un environnement capacitant ?",
+    "options": ["Limiter l’action", "Développer les compétences et l’autonomie", "Réduire les choix", "Supprimer les interactions"],
+    "answerIndex": 1,
+    "explication": "Il permet aux individus d’apprendre, de progresser et d’élargir leurs possibilités d’action."
+  },
+  {
+    "question": "28 - Que signifie « apprendre par l’action » ?",
+    "options": ["Lire uniquement", "Observer uniquement", "Développer des compétences en réalisant des tâches", "Éviter les erreurs"],
+    "answerIndex": 2,
+    "explication": "L’apprentissage se fait en pratiquant et en résolvant des situations concrètes."
+  },
+  {
+    "question": "29 - Que favorise un environnement capacitant au travail ?",
+    "options": ["La passivité", "Le développement professionnel", "L’isolement", "La rigidité"],
+    "answerIndex": 1,
+    "explication": "Il favorise l’évolution professionnelle, l’apprentissage et l’engagement des individus."
+  },
+  {
+    "question": "30 - Quelle est la condition pour qu’une ressource devienne utile ?",
+    "options": ["Pouvoir être identifiée et utilisée", "Être coûteuse", "Être rare", "Être imposée"],
+    "answerIndex": 0,
+    "explication": "Une ressource doit être identifiable et utilisable pour devenir réellement utile."
+  },
+   {
+    "question": "31 - Que cherche à développer un environnement capacitant chez l’individu ?",
+    "options": ["La dépendance", "La conformité", "La passivité", "Le pouvoir d’agir"],
+    "answerIndex": 3,
+    "explication": "Un environnement capacitant vise à renforcer le pouvoir d’agir, c’est-à-dire la capacité réelle de faire des choix et d’agir efficacement."
+  },
+  {
+    "question": "32 - Quelle dimension relie les capacités individuelles et l’environnement ?",
+    "options": ["La performance", "Le pouvoir d’agir", "La contrainte", "La hiérarchie"],
+    "answerIndex": 1,
+    "explication": "Le pouvoir d’agir se situe à l’intersection entre les capacités de la personne et les conditions offertes par l’environnement."
+  },
+  {
+    "question": "33 - Que signifie « mobiliser une ressource » ?",
+    "options": ["Savoir l’utiliser dans une situation concrète", "La posséder uniquement", "La stocker", "L’ignorer"],
+    "answerIndex": 0,
+    "explication": "Mobiliser une ressource signifie être capable de l’utiliser concrètement dans une situation donnée."
+  },
+  {
+    "question": "34 - Pourquoi l’environnement doit-il proposer des défis accessibles ?",
+    "options": ["Pour éviter l’effort", "Pour simplifier le travail", "Pour permettre l’apprentissage et le développement", "Pour réduire le temps"],
+    "answerIndex": 2,
+    "explication": "Des défis accessibles stimulent l’apprentissage et permettent le développement des compétences sans décourager l’individu."
+  },
+  {
+    "question": "35 - Que signifie l’expression « ressources en mosaïque » ?",
+    "options": ["Des connaissances fragmentées et peu structurées", "Des connaissances solides", "Des ressources complètes", "Des outils techniques"],
+    "answerIndex": 0,
+    "explication": "Les connaissances en mosaïque sont fragmentées et peuvent limiter la capacité d’action efficace."
+  },
+  {
+    "question": "36 - Que peut entraîner une « misère cognitive » ?",
+    "options": ["Une réussite scolaire", "Une autonomie accrue", "Une amélioration sociale", "Une misère sociale"],
+    "answerIndex": 3,
+    "explication": "Selon de Montmollin, une faiblesse des connaissances peut conduire à une exclusion sociale."
+  },
+  {
+    "question": "37 - Que signifie « adapter le travail au travailleur » ?",
+    "options": ["Standardiser les tâches", "Tenir compte des capacités de l’individu", "Augmenter la difficulté", "Réduire les interactions"],
+    "answerIndex": 1,
+    "explication": "Cela signifie concevoir le travail en fonction des capacités humaines pour améliorer l’efficacité et le bien-être."
+  },
+  {
+    "question": "38 - Quel est le rôle des opportunités dans un environnement capacitant ?",
+    "options": ["Limiter les actions", "Créer des contraintes", "Permettre le développement des capacités", "Réduire l’autonomie"],
+    "answerIndex": 2,
+    "explication": "Les opportunités permettent aux individus d’apprendre, d’agir et de développer leurs compétences."
+  },
+  {
+    "question": "39 - Que favorise la formation dans un environnement capacitant ?",
+    "options": ["La stagnation", "Le développement des compétences", "La dépendance", "La rigidité"],
+    "answerIndex": 1,
+    "explication": "La formation permet d’acquérir de nouvelles compétences et d’élargir les possibilités d’action."
+  },
+  {
+    "question": "40 - Que signifie « autonomie » dans ce contexte ?",
+    "options": ["Capacité à agir de manière indépendante", "Isolement total", "Absence de règles", "Refus d’aide"],
+    "answerIndex": 0,
+    "explication": "L’autonomie correspond à la capacité d’agir par soi-même en mobilisant ses ressources."
+  },
+  {
+    "question": "41 - Que caractérise un environnement non capacitant ?",
+    "options": ["Beaucoup d’opportunités", "Un accompagnement fort", "Des ressources accessibles", "Un manque de moyens et d’opportunités"],
+    "answerIndex": 3,
+    "explication": "Un environnement non capacitant limite les possibilités d’action en raison d’un manque de ressources, d’accompagnement ou d’opportunités."
+  },
+  {
+    "question": "42 - Que permet l’accompagnement dans un environnement capacitant ?",
+    "options": ["Limiter l’autonomie", "Faciliter l’apprentissage et la progression", "Supprimer les difficultés", "Créer des dépendances"],
+    "answerIndex": 1,
+    "explication": "L’accompagnement aide l’individu à progresser et à mobiliser ses ressources."
+  },
+  {
+    "question": "43 - Quel est le lien entre apprentissage et action ?",
+    "options": ["L’apprentissage se fait en agissant", "Ils sont indépendants", "L’action empêche d’apprendre", "L’apprentissage est théorique uniquement"],
+    "answerIndex": 0,
+    "explication": "L’apprentissage est renforcé par l’action, qui permet de développer des compétences concrètes."
+  },
+  {
+    "question": "44 - Que signifie « élargir les choix » dans le développement humain ?",
+    "options": ["Limiter les options", "Imposer des décisions", "Augmenter les libertés réelles", "Réduire les possibilités"],
+    "answerIndex": 2,
+    "explication": "Élargir les choix signifie augmenter les libertés réelles des individus dans leur vie."
+  },
+  {
+    "question": "45 - Que doit faire un environnement pour être réellement capacitant ?",
+    "options": ["Permettre l’usage réel des ressources", "Fournir uniquement des outils", "Réduire les interactions", "Imposer des règles strictes"],
+    "answerIndex": 0,
+    "explication": "Il ne suffit pas de fournir des ressources, il faut permettre leur utilisation effective."
+  },
+  {
+    "question": "46 - Quel est le rôle des ressources dans le pouvoir d’agir ?",
+    "options": ["Elles limitent l’action", "Elles sont inutiles", "Elles remplacent les compétences", "Elles permettent d’agir si elles sont mobilisées"],
+    "answerIndex": 3,
+    "explication": "Les ressources sont essentielles mais doivent être mobilisées pour permettre l’action."
+  },
+  {
+    "question": "47 - Que signifie « développement humain » dans ce contexte ?",
+    "options": ["Croissance économique", "Amélioration des capacités et des libertés", "Réduction des choix", "Uniformisation sociale"],
+    "answerIndex": 1,
+    "explication": "Le développement humain vise à améliorer les capacités et les libertés des individus."
+  },
+  {
+    "question": "48 - Que permet un environnement favorable ?",
+    "options": ["Limiter les compétences", "Réduire les libertés", "Développer les possibilités d’action", "Supprimer les efforts"],
+    "answerIndex": 2,
+    "explication": "Un environnement favorable permet d’élargir les possibilités d’action et de développement."
+  },
+  {
+    "question": "49 - Quel est le rôle des conditions de situation dans l’action ?",
+    "options": ["Elles n’ont aucun rôle", "Elles influencent la capacité d’agir", "Elles empêchent toujours l’action", "Elles sont secondaires"],
+    "answerIndex": 1,
+    "explication": "Les conditions de situation influencent directement la possibilité d’agir efficacement."
+  },
+  {
+    "question": "50 - Que faut-il pour dynamiser un environnement de travail ?",
+    "options": ["Aider à mobiliser les ressources disponibles", "Réduire les tâches", "Supprimer les objectifs", "Limiter les interactions"],
+    "answerIndex": 0,
+    "explication": "Il faut aider les individus à utiliser les ressources existantes pour développer leur pouvoir d’agir."
+  }
+]

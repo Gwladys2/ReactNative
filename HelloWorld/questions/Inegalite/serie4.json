@@ -1,0 +1,302 @@
+[
+  {
+    "question": "1 - Que désigne l’« aveuglement » des sciences sociales évoqué dans le cours ?",
+    "options": ["Le refus d’étudier le genre", "Une erreur méthodologique volontaire", "L’absence de prise en compte des inégalités entre hommes et femmes", "Une critique des statistiques"],
+    "answerIndex": 2,
+    "explication": "Le cours souligne que les sciences sociales ont longtemps été « aveugles » aux inégalités de genre, c’est-à-dire qu’elles ne prenaient pas en compte ou sous-estimaient les différences de traitement entre hommes et femmes."
+  },
+  {
+    "question": "2 - Que signifie l’acception « individualiste » de l’identité de genre ?",
+    "options": ["Chaque individu définit librement son identité de genre", "Le genre est fixé biologiquement", "Le genre dépend uniquement de la société", "Le genre est déterminé par la famille"],
+    "answerIndex": 0,
+    "explication": "L’acception individualiste considère qu’il existe autant d’identités de genre que de personnes, avec une possibilité d’évolution selon les expériences et les contextes de vie."
+  },
+  {
+    "question": "3 - Quelle caractéristique définit une personne non binaire selon le cours ?",
+    "options": ["Elle se considère uniquement masculine", "Elle change de genre chaque jour", "Elle est en transition de genre", "Elle ne se reconnaît ni dans le masculin ni dans le féminin"],
+    "answerIndex": 3,
+    "explication": "Une personne non binaire ne s’identifie pas exclusivement aux catégories traditionnelles de masculin ou féminin, remettant en question cette dichotomie."
+  },
+  {
+    "question": "4 - Qu’est-ce qu’une personne cisgenre ?",
+    "options": ["Une personne sans identité de genre", "Une personne dont le genre correspond au sexe assigné à la naissance", "Une personne en transition", "Une personne non binaire"],
+    "answerIndex": 1,
+    "explication": "Une personne cisgenre est une personne dont l’identité de genre correspond au sexe qui lui a été assigné à la naissance."
+  },
+  {
+    "question": "5 - Dans l’acception socio-politique, que désigne le genre ?",
+    "options": ["Un système de normes sociales liées aux sexes", "Une caractéristique biologique", "Une émotion individuelle", "Une identité fixe"],
+    "answerIndex": 0,
+    "explication": "Le genre est défini comme un ensemble de normes sociales qui dictent les comportements appropriés selon les catégories de sexe."
+  },
+  {
+    "question": "6 - Quel principe de la division sexuelle du travail attribue des tâches différentes aux hommes et aux femmes ?",
+    "options": ["Le principe d’égalité", "Le principe de hiérarchisation", "Le principe de séparation", "Le principe de spécialisation"],
+    "answerIndex": 2,
+    "explication": "Le principe de séparation consiste à attribuer des rôles différents aux hommes et aux femmes, notamment en distinguant sphère productive et reproductive."
+  },
+  {
+    "question": "7 - Que signifie le principe de hiérarchisation dans les rapports sociaux de sexe ?",
+    "options": ["Les tâches sont réparties équitablement", "Les activités masculines sont valorisées plus que celles des femmes", "Les femmes dominent les hommes", "Les tâches sont interchangeables"],
+    "answerIndex": 1,
+    "explication": "Le principe de hiérarchisation signifie que les activités associées aux hommes sont socialement plus valorisées que celles associées aux femmes."
+  },
+  {
+    "question": "8 - Selon le cours, les rapports sociaux de sexe sont :",
+    "options": ["Limités à la famille", "Absents dans l’école", "Uniquement économiques", "Présents dans toutes les sphères sociales"],
+    "answerIndex": 3,
+    "explication": "Les rapports sociaux de sexe structurent l’ensemble de la société et sont présents dans toutes ses dimensions (travail, famille, politique, etc.)."
+  },
+  {
+    "question": "9 - Quel rôle joue l’école dans les rapports sociaux de sexe selon Mosconi ?",
+    "options": ["Elle contribue à leur reproduction", "Elle les supprime totalement", "Elle est neutre", "Elle les ignore"],
+    "answerIndex": 0,
+    "explication": "L’école participe à la reproduction des rapports sociaux de sexe en influençant les savoirs et les pratiques jugés légitimes selon le sexe."
+  },
+  {
+    "question": "10 - Qu’est-ce que le système de genre selon Parini ?",
+    "options": ["Une identité individuelle", "Un cadre macrosocial structurant les interactions", "Un phénomène biologique", "Un concept psychologique"],
+    "answerIndex": 1,
+    "explication": "Le système de genre est un cadre macrosocial qui organise les rapports sociaux de sexe autour d’enjeux comme le travail, la reproduction et le pouvoir politique."
+  },
+  {
+    "question": "11 - Que signifie le terme « gender fluid » ?",
+    "options": ["Une identité fixe", "Une identité biologique", "Une identité de genre qui fluctue dans le temps", "Une absence de genre"],
+    "answerIndex": 2,
+    "explication": "Le terme « gender fluid » désigne une identité de genre qui varie selon les moments de la vie ou les contextes sociaux."
+  },
+  {
+    "question": "12 - Que caractérise une personne transgenre ?",
+    "options": ["Son identité de genre ne correspond pas au sexe assigné à la naissance", "Elle change de genre quotidiennement", "Elle refuse toute catégorisation", "Elle est non binaire"],
+    "answerIndex": 0,
+    "explication": "Une personne transgenre a une identité de genre différente du sexe qui lui a été assigné à la naissance."
+  },
+  {
+    "question": "13 - Que signifie la « valence différentielle des sexes » ?",
+    "options": ["Une égalité entre les sexes", "Une différence biologique", "Une hiérarchie sociale entre les sexes", "Une neutralité des rôles"],
+    "answerIndex": 2,
+    "explication": "Ce concept renvoie à une hiérarchisation sociale où un sexe est valorisé par rapport à l’autre."
+  },
+  {
+    "question": "14 - Pourquoi dit-on que le genre « fait système » ?",
+    "options": ["Parce qu’il est individuel", "Parce qu’il est aléatoire", "Parce qu’il dépend de la biologie", "Parce qu’il structure un ensemble cohérent de rapports sociaux"],
+    "answerIndex": 3,
+    "explication": "Le genre organise de manière globale les relations sociales et les rapports de pouvoir entre les sexes."
+  },
+  {
+    "question": "15 - À quelle sphère les hommes sont-ils majoritairement assignés selon Kergoat ?",
+    "options": ["La sphère productive", "La sphère domestique", "La sphère reproductive", "La sphère familiale"],
+    "answerIndex": 0,
+    "explication": "Les hommes sont majoritairement assignés à la sphère productive, c’est-à-dire au travail professionnel."
+  },
+  {
+    "question": "16 - Que désigne la production symbolique ?",
+    "options": ["Une production industrielle", "Un ensemble de représentations justifiant les inégalités", "Une production biologique", "Un processus éducatif neutre"],
+    "answerIndex": 1,
+    "explication": "La production symbolique correspond aux discours et représentations qui légitiment les inégalités entre les sexes."
+  },
+  {
+    "question": "17 - Que signifie « faire le genre » ?",
+    "options": ["Refuser le genre", "Apprendre le genre à l’école", "Produire le genre dans les interactions sociales", "Changer de genre"],
+    "answerIndex": 2,
+    "explication": "Le genre est construit dans les interactions sociales quotidiennes, il est « fait » en permanence."
+  },
+  {
+    "question": "18 - Le genre est considéré comme :",
+    "options": ["Une essence biologique", "Un processus dynamique", "Une donnée naturelle", "Une règle fixe"],
+    "answerIndex": 1,
+    "explication": "Le genre est un processus en constante construction, et non une caractéristique fixe."
+  },
+  {
+    "question": "19 - Que permet d’analyser le système de genre ?",
+    "options": ["Les phénomènes sociaux complexes", "Les émotions individuelles", "Les capacités cognitives", "Les comportements isolés"],
+    "answerIndex": 0,
+    "explication": "Le système de genre permet d’analyser les mécanismes complexes de domination et d’organisation sociale."
+  },
+  {
+    "question": "20 - Pourquoi abandonner la recherche d’une cause unique du genre ?",
+    "options": ["Parce que le genre est simple", "Parce que le genre est uniquement biologique", "Parce que les phénomènes sont multicausaux", "Parce que le genre n’existe pas"],
+    "answerIndex": 2,
+    "explication": "Le genre résulte de multiples processus sociaux, il ne peut pas être expliqué par une seule cause."
+  },
+  {
+    "question": "21 - Que recouvre le contrôle de la reproduction dans le système de genre ?",
+    "options": ["Uniquement la biologie", "Les enjeux de filiation et d’héritage", "Les loisirs familiaux", "Les choix individuels"],
+    "answerIndex": 1,
+    "explication": "Le contrôle de la reproduction inclut des enjeux sociaux comme la filiation, l’héritage et la transmission."
+  },
+  {
+    "question": "22 - Que signifie la division sexuelle du savoir ?",
+    "options": ["Tous apprennent la même chose", "Les savoirs sont neutres", "Les savoirs sont répartis selon le sexe", "Les savoirs sont universels"],
+    "answerIndex": 2,
+    "explication": "Certains savoirs sont considérés comme plus appropriés pour un sexe que pour l’autre."
+  },
+  {
+    "question": "23 - Le système de genre se situe à quel niveau ?",
+    "options": ["Individuel", "Microsocial", "Macrosocial", "Biologique"],
+    "answerIndex": 2,
+    "explication": "Le système de genre est un cadre macrosocial qui structure les interactions."
+  },
+  {
+    "question": "24 - Que signifie que les rapports sociaux de sexe sont imbriqués ?",
+    "options": ["Ils sont indépendants", "Ils sont biologiques", "Ils sont fixes", "Ils interagissent avec d’autres rapports sociaux"],
+    "answerIndex": 3,
+    "explication": "Ils s’articulent avec d’autres rapports sociaux comme la classe ou l’origine sociale."
+  },
+  {
+    "question": "25 - Que produit la division sexuelle du travail ?",
+    "options": ["Une répartition égalitaire", "Une spécialisation hiérarchisée", "Une neutralité sociale", "Une disparition des rôles"],
+    "answerIndex": 1,
+    "explication": "Elle produit une répartition différenciée et hiérarchisée des tâches entre hommes et femmes."
+  },
+  {
+    "question": "26 - Que désigne l’accès à l’espace politique dans le système de genre ?",
+    "options": ["La participation aux loisirs", "L’accès au travail domestique", "La participation aux décisions publiques", "L’éducation familiale"],
+    "answerIndex": 2,
+    "explication": "Cela renvoie à la capacité d’accéder aux sphères de pouvoir et de décision."
+  },
+  {
+    "question": "27 - Que signifie « accomplir le genre » ?",
+    "options": ["Changer de sexe", "Refuser les normes", "Adopter des comportements socialement attendus", "Ignorer les interactions"],
+    "answerIndex": 2,
+    "explication": "Accomplir le genre consiste à agir conformément aux attentes sociales liées au sexe."
+  },
+  {
+    "question": "28 - Que caractérise une personne gender queer ?",
+    "options": ["Une identité strictement masculine", "Une identité uniquement féminine", "Une identité stable", "Une identité hors des catégories traditionnelles"],
+    "answerIndex": 3,
+    "explication": "Une personne gender queer ne se définit pas dans les catégories classiques masculin/féminin."
+  },
+  {
+    "question": "29 - Que signifie que le genre est une « activité » ?",
+    "options": ["Il est passif", "Il est produit dans l’action sociale", "Il est inné", "Il est biologique"],
+    "answerIndex": 1,
+    "explication": "Le genre est constamment produit dans les interactions sociales et les pratiques quotidiennes."
+  },
+  {
+    "question": "30 - Que vise la production symbolique des rapports sociaux de sexe ?",
+    "options": ["Justifier les inégalités", "Créer des lois", "Organiser l’économie", "Produire des biens"],
+    "answerIndex": 0,
+    "explication": "Elle vise à légitimer la distribution inégale des rôles et des positions entre les sexes."
+  },
+  {
+    "question": "31 - Que signifie que le genre est « situé » ?",
+    "options": ["Il dépend uniquement de la biologie", "Il est universel", "Il est fixe", "Il varie selon les contextes sociaux"],
+    "answerIndex": 3,
+    "explication": "Le genre est situé car il dépend des contextes sociaux, historiques et culturels dans lesquels il se construit."
+  },
+  {
+    "question": "32 - Quel est le lien entre genre et interaction sociale ?",
+    "options": ["Le genre est produit dans les interactions", "Le genre est indépendant des interactions", "Le genre est biologique", "Le genre est fixe"],
+    "answerIndex": 0,
+    "explication": "Le genre se construit et se manifeste dans les interactions sociales quotidiennes."
+  },
+  {
+    "question": "33 - Que signifie la notion de « cours d’action » ?",
+    "options": ["Une règle juridique", "Une suite d’actions socialement organisées", "Une émotion", "Une donnée biologique"],
+    "answerIndex": 1,
+    "explication": "Les cours d’action désignent les comportements organisés selon des normes sociales, notamment de genre."
+  },
+  {
+    "question": "34 - Que met en évidence l’analyse marxiste de Kergoat ?",
+    "options": ["L’égalité sociale", "La neutralité du travail", "Les rapports de pouvoir liés au travail", "L’absence de hiérarchie"],
+    "answerIndex": 2,
+    "explication": "Kergoat montre que la division du travail est liée à des rapports de domination entre sexes."
+  },
+  {
+    "question": "35 - Que signifie « rapports intrasexes » ?",
+    "options": ["Relations entre sexes différents", "Relations biologiques", "Relations politiques", "Relations entre individus du même sexe"],
+    "answerIndex": 3,
+    "explication": "Les rapports intrasexes concernent les relations au sein d’un même groupe de sexe."
+  },
+  {
+    "question": "36 - Que désignent les « places » dans les rapports sociaux de sexe ?",
+    "options": ["Les positions sociales occupées", "Les lieux physiques", "Les émotions", "Les capacités biologiques"],
+    "answerIndex": 0,
+    "explication": "Les places correspondent aux positions sociales attribuées selon le sexe."
+  },
+  {
+    "question": "37 - Que signifie l’accès aux ressources concrètes ?",
+    "options": ["Accès aux loisirs", "Accès aux moyens matériels", "Accès aux idées", "Accès aux émotions"],
+    "answerIndex": 1,
+    "explication": "Cela désigne l’accès aux ressources matérielles comme le travail ou les revenus."
+  },
+  {
+    "question": "38 - Que permet la production symbolique ?",
+    "options": ["Créer des biens", "Organiser l’économie", "Transformer les lois", "Légitimer les inégalités sociales"],
+    "answerIndex": 3,
+    "explication": "Elle sert à justifier et rendre acceptables les inégalités entre les sexes."
+  },
+  {
+    "question": "39 - Que signifie « division sociosexuée des savoirs » ?",
+    "options": ["Une égalité des savoirs", "Une spécialisation neutre", "Une répartition des savoirs selon le sexe", "Une absence de distinction"],
+    "answerIndex": 2,
+    "explication": "Certains savoirs sont associés à un sexe plutôt qu’à l’autre."
+  },
+  {
+    "question": "40 - Que produit l’école selon le cours ?",
+    "options": ["Une reproduction des rapports sociaux de sexe", "Une neutralité totale", "Une suppression des inégalités", "Une absence d’influence"],
+    "answerIndex": 0,
+    "explication": "L’école contribue à reproduire les inégalités de genre à travers ses pratiques et contenus."
+  },
+  {
+    "question": "41 - Pourquoi s’intéresser aux processus plutôt qu’aux causes uniques ?",
+    "options": ["Parce que les causes sont simples", "Parce que les phénomènes sont multicausaux", "Parce que les causes sont inutiles", "Parce que le genre est biologique"],
+    "answerIndex": 1,
+    "explication": "Les phénomènes liés au genre sont complexes et reposent sur plusieurs facteurs."
+  },
+  {
+    "question": "42 - Que désignent les « régimes de genre » ?",
+    "options": ["Des lois biologiques", "Des identités individuelles", "Des configurations sociales du genre", "Des émotions"],
+    "answerIndex": 2,
+    "explication": "Les régimes de genre renvoient aux formes d’organisation du genre dans une société donnée."
+  },
+  {
+    "question": "43 - Que signifie « interactionnel » ?",
+    "options": ["Lié aux émotions", "Lié à la biologie", "Lié aux interactions sociales", "Lié à l’économie"],
+    "answerIndex": 2,
+    "explication": "Le terme interactionnel renvoie aux échanges entre individus dans la société."
+  },
+  {
+    "question": "44 - Que signifie « micropolitique » dans le genre ?",
+    "options": ["Les lois nationales", "Les interactions quotidiennes de pouvoir", "Les institutions internationales", "Les règles biologiques"],
+    "answerIndex": 1,
+    "explication": "La micropolitique concerne les rapports de pouvoir dans les interactions quotidiennes."
+  },
+  {
+    "question": "45 - Que signifie « perceptuel » dans le genre ?",
+    "options": ["Lié à la perception et à l’interprétation", "Lié aux lois", "Lié à l’économie", "Lié aux institutions"],
+    "answerIndex": 0,
+    "explication": "Le perceptuel concerne la manière dont on perçoit et interprète les comportements de genre."
+  },
+  {
+    "question": "46 - Que signifie que le genre est une « propriété en cours de réalisation » ?",
+    "options": ["Il est fixe", "Il est biologique", "Il est terminé", "Il se construit en permanence"],
+    "answerIndex": 3,
+    "explication": "Le genre n’est jamais achevé, il est constamment produit dans l’action."
+  },
+  {
+    "question": "47 - Que signifie « normes sociales » dans le genre ?",
+    "options": ["Des lois naturelles", "Des attentes sociales partagées", "Des règles biologiques", "Des instincts"],
+    "answerIndex": 1,
+    "explication": "Les normes sociales sont des attentes collectives sur les comportements appropriés."
+  },
+  {
+    "question": "48 - Que signifie « domination » dans le système de genre ?",
+    "options": ["Une égalité parfaite", "Une hiérarchie sociale entre groupes", "Une absence de pouvoir", "Une neutralité sociale"],
+    "answerIndex": 1,
+    "explication": "La domination désigne un rapport de pouvoir où un groupe est favorisé par rapport à un autre."
+  },
+  {
+    "question": "49 - Que signifie « transformation des rapports sociaux » ?",
+    "options": ["Le maintien des inégalités", "Le changement des relations sociales", "L’arrêt des interactions", "La fixation des rôles"],
+    "answerIndex": 1,
+    "explication": "Les rapports sociaux évoluent dans le temps sous l’effet de changements sociaux."
+  },
+  {
+    "question": "50 - Que permet l’étude du genre en sciences sociales ?",
+    "options": ["Ignorer les différences", "Comprendre les mécanismes d’inégalités", "Supprimer la société", "Étudier uniquement la biologie"],
+    "answerIndex": 1,
+    "explication": "L’étude du genre permet d’analyser les mécanismes qui produisent et maintiennent les inégalités entre les sexes."
+  }
+]

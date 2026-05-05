@@ -1,0 +1,302 @@
+[
+  {
+    "question": "1 - Que signifie une société inclusive ?",
+    "options": ["Une société qui exclut les différences", "Une société qui intègre uniquement les personnes handicapées", "Une société qui prend en compte tous les individus et leurs besoins", "Une société centrée sur la performance"],
+    "answerIndex": 2,
+    "explication": "Une société inclusive vise à prendre en compte toutes les personnes, leurs différences, leurs besoins et leur participation à la vie sociale."
+  },
+  {
+    "question": "2 - Quel est l’objectif principal de l’école inclusive ?",
+    "options": ["Sélectionner les meilleurs élèves", "Accueillir tous les élèves en tenant compte de leurs besoins", "Uniformiser les apprentissages", "Isoler les élèves en difficulté"],
+    "answerIndex": 1,
+    "explication": "L’école inclusive vise à accueillir tous les élèves, quels que soient leurs besoins, en adaptant les pratiques pédagogiques."
+  },
+  {
+    "question": "3 - Que signifie BEP dans le contexte éducatif ?",
+    "options": ["Besoins éducatifs particuliers", "Base éducative primaire", "Bilan éducatif personnalisé", "Besoins émotionnels prioritaires"],
+    "answerIndex": 0,
+    "explication": "Les BEP désignent les besoins éducatifs particuliers, qui consistent à adapter l’enseignement en fonction des difficultés rencontrées par les élèves."
+  },
+  {
+    "question": "4 - Quelle approche privilégie les BEP ?",
+    "options": ["Une approche basée sur les déficits", "Une approche médicale", "Une approche centrée sur les besoins et les difficultés", "Une approche standardisée"],
+    "answerIndex": 2,
+    "explication": "Les BEP privilégient une approche centrée sur les besoins des élèves plutôt que sur leurs déficits ou diagnostics."
+  },
+  {
+    "question": "5 - Qui a introduit la notion de besoins éducatifs particuliers ?",
+    "options": ["Jean Piaget", "Mary Warnock", "Freud", "Durkheim"],
+    "answerIndex": 1,
+    "explication": "Mary Warnock a introduit la notion de 'special educational needs' dans les années 1975-1978 en Angleterre."
+  },
+  {
+    "question": "6 - Quelle est la caractéristique principale d’un élève à haut potentiel ?",
+    "options": ["Un retard scolaire", "Un QI inférieur à la moyenne", "Une avance intellectuelle significative", "Une difficulté motrice"],
+    "answerIndex": 2,
+    "explication": "Un élève à haut potentiel possède une avance intellectuelle, souvent mesurée par un QI supérieur à 125-130."
+  },
+  {
+    "question": "7 - Quelle proportion d’élèves peut présenter des BEP au cours de sa scolarité ?",
+    "options": ["5 %", "50 %", "20 %", "1 %"],
+    "answerIndex": 2,
+    "explication": "Environ 20 % des élèves peuvent avoir des besoins éducatifs particuliers à un moment de leur parcours scolaire."
+  },
+  {
+    "question": "8 - Quelle est la différence entre difficulté d’apprentissage et trouble d’apprentissage ?",
+    "options": ["Aucune différence", "Le trouble est temporaire", "La difficulté est interne", "Le trouble est durable et interne"],
+    "answerIndex": 3,
+    "explication": "Les troubles d’apprentissage sont durables et d’origine interne, tandis que les difficultés peuvent être temporaires et liées à l’environnement."
+  },
+  {
+    "question": "9 - Quelle est une cause possible des difficultés d’apprentissage ?",
+    "options": ["Un manque de motivation uniquement", "Un handicap sensoriel", "Une intelligence supérieure", "Une pédagogie parfaite"],
+    "answerIndex": 1,
+    "explication": "Les difficultés d’apprentissage peuvent être causées par des facteurs externes comme un handicap visuel, auditif ou un contexte social."
+  },
+  {
+    "question": "10 - Que signifie l’accessibilité dans une école inclusive ?",
+    "options": ["Adapter uniquement les examens", "Créer des classes séparées", "Anticiper les obstacles dès la conception des activités", "Simplifier les contenus"],
+    "answerIndex": 2,
+    "explication": "L’accessibilité consiste à anticiper les obstacles dès la conception des situations d’apprentissage pour tous les élèves."
+  },
+  {
+    "question": "11 - Quel est un objectif de l’éducation inclusive ?",
+    "options": ["Exclure les élèves en difficulté", "Favoriser la compétition", "Garantir l’égalité des droits et des chances", "Standardiser les parcours"],
+    "answerIndex": 2,
+    "explication": "L’éducation inclusive vise à garantir l’égalité des droits et des chances pour tous les élèves."
+  },
+  {
+    "question": "12 - Que cherche à développer l’éducation inclusive ?",
+    "options": ["Uniquement les compétences scolaires", "Toutes les dimensions de la personne", "La discipline uniquement", "La performance académique"],
+    "answerIndex": 1,
+    "explication": "L’éducation inclusive vise à développer toutes les dimensions de la personne : cognitive, sociale et émotionnelle."
+  },
+  {
+    "question": "13 - Quel principe affirme que chaque personne est unique et digne ?",
+    "options": ["Principe de sélection", "Principe d’égalité stricte", "Principe de performance", "Principe de l’éducation inclusive"],
+    "answerIndex": 3,
+    "explication": "L’éducation inclusive repose sur l’idée que chaque personne est unique, digne et a droit à l’apprentissage."
+  },
+  {
+    "question": "14 - Quelle est une caractéristique des élèves à haut potentiel ?",
+    "options": ["Une pensée linéaire", "Une pensée en arborescence", "Une absence d’émotions", "Une lenteur cognitive"],
+    "answerIndex": 1,
+    "explication": "Les élèves à haut potentiel ont souvent une pensée en arborescence, ce qui signifie qu’ils font de nombreuses associations d’idées."
+  },
+  {
+    "question": "15 - Que signifie le terme 'handicap' selon la loi de 2005 ?",
+    "options": ["Une déficience uniquement physique", "Une limitation d’activité ou de participation liée à l’environnement", "Un manque de motivation", "Une incapacité scolaire"],
+    "answerIndex": 1,
+    "explication": "Le handicap est défini comme une limitation d’activité ou restriction de participation liée à une interaction entre l’individu et son environnement."
+  },
+  {
+    "question": "16 - Quel dispositif permet de compenser le handicap à l’école ?",
+    "options": ["Le PPC et le PPS", "Le QCM", "Le livret scolaire", "Le conseil de classe"],
+    "answerIndex": 0,
+    "explication": "Le Plan Personnalisé de Compensation (PPC) inclut le Plan Personnalisé de Scolarisation (PPS) pour adapter la scolarité."
+  },
+  {
+    "question": "17 - Quel est le rôle des AESH ?",
+    "options": ["Évaluer les élèves", "Sanctionner les comportements", "Accompagner les élèves en situation de handicap", "Créer les programmes"],
+    "answerIndex": 2,
+    "explication": "Les AESH accompagnent les élèves en situation de handicap pour favoriser leur autonomie et leur inclusion."
+  },
+  {
+    "question": "18 - Quelle est une condition de l’école inclusive ?",
+    "options": ["Uniformité des élèves", "Travail en partenariat", "Suppression des différences", "Classement des élèves"],
+    "answerIndex": 1,
+    "explication": "L’école inclusive repose sur un travail de partenariat entre l’école, la famille et les professionnels."
+  },
+  {
+    "question": "19 - Quel est un objectif du projet de vie dans l’inclusion ?",
+    "options": ["Faire des élèves des objets de soin", "Rendre les personnes autonomes et actrices", "Standardiser les parcours", "Réduire les ambitions"],
+    "answerIndex": 1,
+    "explication": "Le projet de vie vise à rendre les personnes actrices de leur parcours et non de simples objets de prise en charge."
+  },
+  {
+    "question": "20 - Quelle est une caractéristique des troubles d’apprentissage ?",
+    "options": ["Ils sont temporaires", "Ils sont visibles physiquement", "Ils sont internes et persistants", "Ils disparaissent seuls"],
+    "answerIndex": 2,
+    "explication": "Les troubles d’apprentissage sont d’origine interne, persistants et ne disparaissent pas sans accompagnement adapté."
+  },
+   {
+    "question": "21 - Que signifie le terme 'mainstream' dans le contexte de l’inclusion ?",
+    "options": ["Créer des écoles spécialisées", "Intégrer les élèves dans les classes ordinaires", "Supprimer les évaluations", "Former uniquement les enseignants spécialisés"],
+    "answerIndex": 1,
+    "explication": "Le 'mainstream' désigne la scolarisation des élèves à besoins particuliers dans les classes ordinaires."
+  },
+  {
+    "question": "22 - Quelle est la particularité des troubles d’apprentissage ?",
+    "options": ["Ils sont visibles physiquement", "Ils sont causés uniquement par l’environnement", "Ils sont internes et spécifiques", "Ils sont temporaires"],
+    "answerIndex": 2,
+    "explication": "Les troubles d’apprentissage sont internes et liés au fonctionnement cognitif."
+  },
+  {
+    "question": "23 - La dyslexie concerne principalement :",
+    "options": ["Le calcul", "La lecture", "L’écriture motrice", "Le langage oral"],
+    "answerIndex": 1,
+    "explication": "La dyslexie touche les capacités de lecture (décodage et compréhension)."
+  },
+  {
+    "question": "24 - Quel trouble est lié à l’orthographe ?",
+    "options": ["Dyscalculie", "Dyspraxie", "Dysorthographie", "Dysphasie"],
+    "answerIndex": 2,
+    "explication": "La dysorthographie affecte spécifiquement l’orthographe."
+  },
+  {
+    "question": "25 - Quelle est la finalité de la compensation du handicap ?",
+    "options": ["Créer une différence", "Rétablir l’égalité des chances", "Exclure les élèves", "Réduire les exigences"],
+    "answerIndex": 1,
+    "explication": "Elle vise à rétablir l’égalité des droits et des chances."
+  },
+  {
+    "question": "26 - Quel organisme oriente les élèves en situation de handicap ?",
+    "options": ["MDPH", "CAF", "Pôle emploi", "Inspection académique"],
+    "answerIndex": 0,
+    "explication": "La MDPH est l’organisme chargé des décisions liées au handicap."
+  },
+  {
+    "question": "27 - Que signifie ULIS ?",
+    "options": ["Unité locale d’insertion scolaire", "Unité localisée pour l’inclusion scolaire", "Union libre d’insertion sociale", "Unité linguistique internationale scolaire"],
+    "answerIndex": 1,
+    "explication": "ULIS signifie Unité Localisée pour l’Inclusion Scolaire."
+  },
+  {
+    "question": "28 - Quel est le rôle du PPS ?",
+    "options": ["Évaluer les enseignants", "Organiser les loisirs", "Adapter la scolarité de l’élève", "Sanctionner les élèves"],
+    "answerIndex": 2,
+    "explication": "Le PPS adapte le parcours scolaire aux besoins de l’élève."
+  },
+  {
+    "question": "29 - Quelle est une caractéristique d’un retard d’apprentissage ?",
+    "options": ["Il est définitif", "Il est irréversible", "Il est temporaire avec rattrapage possible", "Il est invisible"],
+    "answerIndex": 2,
+    "explication": "Le retard est temporaire et peut être compensé."
+  },
+  {
+    "question": "30 - Quelle est une caractéristique d’un trouble d’apprentissage ?",
+    "options": ["Il disparaît rapidement", "Il est lié uniquement à l’école", "Il est durable et persistant", "Il est causé par l’enseignant"],
+    "answerIndex": 2,
+    "explication": "Un trouble est durable et nécessite des adaptations."
+  },
+  {
+    "question": "31 - Quel facteur peut causer une difficulté d’apprentissage ?",
+    "options": ["Un trouble interne uniquement", "Un environnement défavorable", "Une intelligence élevée", "Une motivation forte"],
+    "answerIndex": 1,
+    "explication": "Les difficultés peuvent venir du contexte social ou environnemental."
+  },
+  {
+    "question": "32 - Quelle est une mission des enseignants dans l’inclusion ?",
+    "options": ["Uniformiser les pratiques", "Ignorer les différences", "Prendre en compte la diversité des élèves", "Classer les élèves"],
+    "answerIndex": 2,
+    "explication": "L’enseignant adapte ses pratiques aux besoins variés."
+  },
+  {
+    "question": "33 - Que vise l’accessibilité pédagogique ?",
+    "options": ["Adapter uniquement les examens", "Anticiper les obstacles à l’apprentissage", "Simplifier les contenus", "Supprimer les difficultés"],
+    "answerIndex": 1,
+    "explication": "Elle consiste à anticiper les obstacles dès la conception."
+  },
+  {
+    "question": "34 - Quelle est une caractéristique des élèves allophones ?",
+    "options": ["Ils maîtrisent la langue", "Ils ont un trouble cognitif", "Ils ne parlent pas la langue du pays", "Ils refusent l’école"],
+    "answerIndex": 2,
+    "explication": "Les élèves allophones ne maîtrisent pas la langue du pays d’accueil."
+  },
+  {
+    "question": "35 - Quelle est une mission du CASNAV ?",
+    "options": ["Former uniquement", "Accueillir et évaluer les élèves allophones", "Créer les programmes", "Organiser les examens"],
+    "answerIndex": 1,
+    "explication": "Le CASNAV accompagne les élèves allophones."
+  },
+  {
+    "question": "36 - Quelle est une caractéristique des élèves itinérants ?",
+    "options": ["Parcours stable", "Toujours en réussite", "Ruptures possibles de scolarité", "Refus de l’école"],
+    "answerIndex": 2,
+    "explication": "Leur mode de vie peut entraîner des interruptions scolaires."
+  },
+  {
+    "question": "37 - Que vise l’égalité des chances ?",
+    "options": ["Même traitement pour tous", "Adapter les moyens selon les besoins", "Favoriser les meilleurs", "Réduire les écarts"],
+    "answerIndex": 1,
+    "explication": "Elle implique d’adapter les ressources selon les besoins."
+  },
+  {
+    "question": "38 - Selon Gardou, que faut-il reconnaître ?",
+    "options": ["La performance", "La normalité", "La vulnérabilité de chacun", "La hiérarchie"],
+    "answerIndex": 2,
+    "explication": "Chaque individu possède une part de vulnérabilité."
+  },
+  {
+    "question": "39 - Quel est le rôle du partenariat ?",
+    "options": ["Remplacer l’école", "Coordonner les acteurs", "Limiter les actions", "Créer des conflits"],
+    "answerIndex": 1,
+    "explication": "Le partenariat permet une meilleure coordination autour de l’élève."
+  },
+  {
+    "question": "40 - Un environnement capacitante permet :",
+    "options": ["Limiter les capacités", "Développer les compétences", "Exclure les différences", "Uniformiser"],
+    "answerIndex": 1,
+    "explication": "Il favorise le développement des capacités de chacun."
+  },
+  {
+    "question": "41 - L’autonomisation signifie :",
+    "options": ["Abandonner l’élève", "Rendre l’élève acteur", "Supprimer l’aide", "Réduire les exigences"],
+    "answerIndex": 1,
+    "explication": "Elle vise à rendre l’élève actif dans son apprentissage."
+  },
+  {
+    "question": "42 - L’inclusion sociale vise :",
+    "options": ["Exclure", "Uniformiser", "Faire participer tous les individus", "Réduire les droits"],
+    "answerIndex": 2,
+    "explication": "Elle permet à chacun de participer à la vie sociale."
+  },
+  {
+    "question": "43 - Dans le supérieur, l’enseignant doit :",
+    "options": ["Standardiser", "Adapter aux besoins des étudiants", "Ignorer les différences", "Simplifier"],
+    "answerIndex": 1,
+    "explication": "Il doit tenir compte de la diversité des étudiants."
+  },
+  {
+    "question": "44 - Quelle loi encadre le handicap ?",
+    "options": ["1905", "2005", "1989", "2010"],
+    "answerIndex": 1,
+    "explication": "La loi du 11 février 2005 est la référence en France."
+  },
+  {
+    "question": "45 - Le handicap est :",
+    "options": ["Individuel uniquement", "Social uniquement", "Interaction individu-environnement", "Scolaire uniquement"],
+    "answerIndex": 2,
+    "explication": "Il résulte d’une interaction entre la personne et son environnement."
+  },
+  {
+    "question": "46 - Le tutorat permet :",
+    "options": ["Sanctionner", "Aider à la réussite", "Exclure", "Évaluer"],
+    "answerIndex": 1,
+    "explication": "Il aide à accompagner l’étudiant dans ses apprentissages."
+  },
+  {
+    "question": "47 - Les aménagements d’examen peuvent inclure :",
+    "options": ["Moins de questions", "Tiers temps", "Suppression de l’épreuve", "Notation différente"],
+    "answerIndex": 1,
+    "explication": "Le tiers temps est un aménagement courant."
+  },
+  {
+    "question": "48 - Les élèves ESH sont :",
+    "options": ["Toujours exclus", "Toujours intégrés", "Plus exposés aux inégalités", "Toujours accompagnés"],
+    "answerIndex": 2,
+    "explication": "Ils sont plus exposés aux risques d’exclusion."
+  },
+  {
+    "question": "49 - Une école inclusive doit :",
+    "options": ["Sélectionner", "Adapter les environnements", "Exclure", "Uniformiser"],
+    "answerIndex": 1,
+    "explication": "Elle doit rendre les environnements accessibles."
+  },
+  {
+    "question": "50 - L’objectif final de l’inclusion est :",
+    "options": ["Uniformiser", "Exclure", "Permettre à chacun de trouver sa place", "Réduire les différences"],
+    "answerIndex": 2,
+    "explication": "L’inclusion vise à permettre à chacun de participer pleinement à la société."
+  }
+]

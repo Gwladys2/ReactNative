@@ -1,0 +1,302 @@
+[
+  {
+    "question": "1 - Que signifie une société inclusive selon Charles Gardou ?",
+    "options": ["Une société sans lois", "Une société qui exclut certaines personnes", "Une société qui reconnaît et inclut toutes les diversités", "Une société basée uniquement sur la performance"],
+    "answerIndex": 2,
+    "explication": "Une société inclusive vise à reconnaître toutes les différences humaines et à permettre à chacun de participer pleinement, sans exclusion."
+  },
+  {
+    "question": "2 - Quel est l’objectif principal de l’inclusion ?",
+    "options": ["Uniformiser les individus", "Adapter la société à la diversité des personnes", "Exclure les différences", "Renforcer les normes sociales strictes"],
+    "answerIndex": 1,
+    "explication": "L’inclusion consiste à adapter la société pour qu’elle prenne en compte toutes les singularités plutôt que d’imposer une norme unique."
+  },
+  {
+    "question": "3 - Historiquement, comment étaient perçues les personnes en situation de handicap ?",
+    "options": ["Comme pleinement intégrées", "Comme différentes mais acceptées", "Comme marginalisées ou exclues", "Comme valorisées socialement"],
+    "answerIndex": 2,
+    "explication": "Pendant longtemps, les personnes en situation de handicap ont été marginalisées, exclues ou invisibilisées dans la société."
+  },
+  {
+    "question": "4 - Quelle notion s’oppose à l’inclusion ?",
+    "options": ["La participation", "L’intégration", "L’accessibilité", "L’exclusion"],
+    "answerIndex": 3,
+    "explication": "L’exclusion consiste à mettre à l’écart certaines personnes, contrairement à l’inclusion qui vise leur pleine participation."
+  },
+  {
+    "question": "5 - Quelle est la différence entre intégration et inclusion ?",
+    "options": ["L’intégration impose une adaptation de la personne", "L’inclusion exclut les différences", "L’intégration supprime les normes", "Il n’y a aucune différence"],
+    "answerIndex": 0,
+    "explication": "L’intégration demande à la personne de s’adapter à la société, tandis que l’inclusion implique que la société s’adapte à la diversité des individus."
+  },
+  {
+    "question": "6 - Que critique Gardou dans les sociétés traditionnelles ?",
+    "options": ["Le manque de technologie", "Le manque de diversité", "Leur tendance à exclure les personnes différentes", "Leur ouverture excessive"],
+    "answerIndex": 2,
+    "explication": "Gardou critique les sociétés qui excluent ou marginalisent les personnes différentes au lieu de les inclure."
+  },
+  {
+    "question": "7 - Que signifie « vivre ensemble » dans une société inclusive ?",
+    "options": ["Ignorer les différences", "Partager un espace en respectant les différences", "Imposer une norme unique", "Créer des catégories sociales rigides"],
+    "answerIndex": 1,
+    "explication": "Le « vivre ensemble » implique la cohabitation respectueuse des différences dans un même espace social."
+  },
+  {
+    "question": "8 - Quelle est la première étape vers une société inclusive ?",
+    "options": ["Supprimer les lois", "Reconnaître la diversité humaine", "Uniformiser les comportements", "Créer des exclusions contrôlées"],
+    "answerIndex": 1,
+    "explication": "Reconnaître que chaque individu est différent est essentiel pour construire une société inclusive."
+  },
+  {
+    "question": "9 - Quel rôle joue la norme dans l’exclusion ?",
+    "options": ["Elle favorise la diversité", "Elle n’a aucun impact", "Elle peut exclure ceux qui ne s’y conforment pas", "Elle garantit l’égalité parfaite"],
+    "answerIndex": 2,
+    "explication": "Les normes sociales peuvent exclure les personnes qui ne correspondent pas aux critères définis comme « normaux »."
+  },
+  {
+    "question": "10 - Quelle valeur est centrale dans une société inclusive ?",
+    "options": ["La compétition", "La hiérarchie", "La sélection", "L’égalité des droits"],
+    "answerIndex": 3,
+    "explication": "Une société inclusive repose sur l’égalité des droits et des chances pour tous."
+  },
+  {
+    "question": "11 - Quelle transformation implique l’inclusion ?",
+    "options": ["Transformer la société", "Transformer uniquement les individus", "Ne rien changer", "Renforcer les exclusions"],
+    "answerIndex": 0,
+    "explication": "L’inclusion nécessite une transformation des structures sociales pour accueillir toutes les différences."
+  },
+  {
+    "question": "12 - Quelle est une conséquence de l’exclusion sociale ?",
+    "options": ["Participation accrue", "Isolement des individus", "Reconnaissance sociale", "Égalité renforcée"],
+    "answerIndex": 1,
+    "explication": "L’exclusion conduit souvent à l’isolement et à la marginalisation des personnes concernées."
+  },
+  {
+    "question": "13 - Que signifie « accessibilité » dans une société inclusive ?",
+    "options": ["Limiter l’accès aux services", "Créer des barrières", "Permettre à tous d’accéder aux ressources et espaces", "Réserver les services à certains groupes"],
+    "answerIndex": 2,
+    "explication": "L’accessibilité consiste à rendre les lieux, services et informations accessibles à tous, sans discrimination."
+  },
+  {
+    "question": "14 - Quel est le rôle des politiques publiques dans l’inclusion ?",
+    "options": ["Ignorer les inégalités", "Renforcer les discriminations", "Favoriser l’égalité et l’accès pour tous", "Supprimer les droits"],
+    "answerIndex": 2,
+    "explication": "Les politiques publiques doivent promouvoir l’égalité et mettre en place des dispositifs favorisant l’inclusion."
+  },
+  {
+    "question": "15 - Quelle idée est fausse concernant l’inclusion ?",
+    "options": ["Elle concerne tous les individus", "Elle valorise la diversité", "Elle impose l’uniformité", "Elle vise l’égalité"],
+    "answerIndex": 2,
+    "explication": "L’inclusion ne cherche pas à uniformiser les individus, mais à valoriser leurs différences."
+  },
+  {
+    "question": "16 - Pourquoi parle-t-on de « diversité humaine » ?",
+    "options": ["Parce que tous les individus sont identiques", "Parce que les différences sont nombreuses et naturelles", "Parce que les différences doivent être supprimées", "Parce que seules certaines différences comptent"],
+    "answerIndex": 1,
+    "explication": "La diversité humaine renvoie à la variété des caractéristiques physiques, sociales et culturelles des individus."
+  },
+  {
+    "question": "17 - Quel est un obstacle majeur à l’inclusion ?",
+    "options": ["La reconnaissance des droits", "L’accessibilité", "Les préjugés et stéréotypes", "La solidarité"],
+    "answerIndex": 2,
+    "explication": "Les préjugés et stéréotypes empêchent souvent l’acceptation des différences et freinent l’inclusion."
+  },
+  {
+    "question": "18 - Quelle est la finalité d’une société inclusive ?",
+    "options": ["Créer des élites", "Réduire les droits", "Garantir la participation de tous", "Uniformiser les comportements"],
+    "answerIndex": 2,
+    "explication": "L’objectif est de permettre à chacun de participer pleinement à la vie sociale, économique et culturelle."
+  },
+  {
+    "question": "19 - Que suppose l’inclusion au niveau individuel ?",
+    "options": ["Changer les autres uniquement", "Accepter et respecter les différences", "Ignorer les inégalités", "Refuser la diversité"],
+    "answerIndex": 1,
+    "explication": "L’inclusion implique une attitude d’ouverture et de respect envers les différences individuelles."
+  },
+  {
+    "question": "20 - Quelle notion est essentielle pour comprendre l’inclusion ?",
+    "options": ["La normalisation", "La discrimination", "La participation sociale", "L’exclusion volontaire"],
+    "answerIndex": 2,
+    "explication": "La participation sociale est au cœur de l’inclusion : chacun doit pouvoir prendre part à la vie collective."
+  },
+  {
+    "question": "21 - Que remet en question une société inclusive ?",
+    "options": ["Les droits fondamentaux", "Les normes sociales excluantes", "La diversité humaine", "Les institutions publiques"],
+    "answerIndex": 1,
+    "explication": "Une société inclusive remet en question les normes qui produisent de l’exclusion afin de permettre la participation de tous."
+  },
+  {
+    "question": "22 - Quelle est une caractéristique d’une société exclusive ?",
+    "options": ["La participation collective", "L’ouverture à tous", "La mise à l’écart de certains groupes", "L’égalité des droits"],
+    "answerIndex": 2,
+    "explication": "Une société exclusive se définit par la marginalisation de certains groupes jugés différents."
+  },
+  {
+    "question": "23 - Que signifie l’équité ?",
+    "options": ["Traiter tout le monde strictement pareil", "Donner plus à certains sans raison", "Adapter les ressources selon les besoins", "Supprimer les différences"],
+    "answerIndex": 2,
+    "explication": "L’équité consiste à ajuster les moyens pour compenser les inégalités et permettre une réelle égalité des chances."
+  },
+  {
+    "question": "24 - Que désigne l’invisibilisation ?",
+    "options": ["Rendre visible une minorité", "Donner plus de droits", "Ignorer certaines populations", "Valoriser la diversité"],
+    "answerIndex": 2,
+    "explication": "L’invisibilisation correspond au fait de ne pas reconnaître ou représenter certains groupes dans la société."
+  },
+  {
+    "question": "25 - Quelle est une conséquence d’une norme trop rigide ?",
+    "options": ["Une meilleure adaptation", "Une inclusion renforcée", "Une exclusion accrue", "Une diversité favorisée"],
+    "answerIndex": 2,
+    "explication": "Des normes rigides excluent les personnes qui ne peuvent pas s’y conformer."
+  },
+  {
+    "question": "26 - Quelle approche favorise l’inclusion ?",
+    "options": ["Uniformiser les individus", "Adapter les environnements", "Exclure les différences", "Hiérarchiser les individus"],
+    "answerIndex": 1,
+    "explication": "L’adaptation des environnements permet de répondre aux besoins variés des individus."
+  },
+  {
+    "question": "27 - Quelle est la place de la différence dans une société inclusive ?",
+    "options": ["Elle est valorisée", "Elle est supprimée", "Elle est ignorée", "Elle est sanctionnée"],
+    "answerIndex": 0,
+    "explication": "Dans une société inclusive, la différence est considérée comme une richesse."
+  },
+  {
+    "question": "28 - Quel concept s’oppose à la discrimination ?",
+    "options": ["La hiérarchie", "La sélection", "L’exclusion", "L’inclusion"],
+    "answerIndex": 3,
+    "explication": "L’inclusion vise à lutter contre les discriminations et à garantir l’égalité."
+  },
+  {
+    "question": "29 - Que signifie la participation sociale ?",
+    "options": ["Être passif dans la société", "Être acteur de la vie collective", "Suivre uniquement les normes", "Se conformer sans réflexion"],
+    "answerIndex": 1,
+    "explication": "La participation sociale implique que chacun puisse contribuer activement à la société."
+  },
+  {
+    "question": "30 - Quel rôle joue l’éducation dans l’inclusion ?",
+    "options": ["Ignorer les différences", "Former à la diversité et à l’acceptation", "Renforcer les exclusions", "Uniformiser les comportements"],
+    "answerIndex": 1,
+    "explication": "L’éducation sensibilise à la diversité et développe des valeurs inclusives."
+  },
+  {
+    "question": "31 - Quelle attitude favorise l’inclusion ?",
+    "options": ["La fermeture", "Le rejet", "L’ouverture d’esprit", "L’indifférence"],
+    "answerIndex": 2,
+    "explication": "L’ouverture d’esprit permet de mieux accepter les différences et de favoriser l’inclusion."
+  },
+  {
+    "question": "32 - Qu’est-ce qu’un stéréotype ?",
+    "options": ["Une analyse scientifique", "Une idée complexe", "Une représentation neutre", "Une idée simplifiée et souvent erronée"],
+    "answerIndex": 3,
+    "explication": "Un stéréotype est une représentation simplifiée qui peut conduire à des jugements injustes."
+  },
+  {
+    "question": "33 - Quel est l’effet des préjugés ?",
+    "options": ["Ils renforcent les discriminations", "Ils favorisent l’égalité", "Ils suppriment les différences", "Ils améliorent la cohésion"],
+    "answerIndex": 0,
+    "explication": "Les préjugés conduisent à des jugements biaisés et à des discriminations."
+  },
+  {
+    "question": "34 - Quelle est une condition essentielle de l’inclusion ?",
+    "options": ["La hiérarchie sociale", "La reconnaissance des besoins spécifiques", "L’exclusion des minorités", "La suppression des droits"],
+    "answerIndex": 1,
+    "explication": "Reconnaître les besoins spécifiques permet d’adapter les réponses et de favoriser l’inclusion."
+  },
+  {
+    "question": "35 - Que signifie l’égalité des chances ?",
+    "options": ["Ignorer les différences", "Favoriser certains groupes", "Permettre à chacun de réussir avec des moyens adaptés", "Donner exactement la même chose à tous"],
+    "answerIndex": 2,
+    "explication": "L’égalité des chances implique d’adapter les ressources pour compenser les inégalités."
+  },
+  {
+    "question": "36 - Quel est le rôle de la société dans l’inclusion ?",
+    "options": ["S’adapter aux individus", "Imposer des normes strictes", "Exclure les différences", "Ignorer les besoins"],
+    "answerIndex": 0,
+    "explication": "Dans une logique inclusive, c’est à la société de s’adapter aux individus et non l’inverse."
+  },
+  {
+    "question": "37 - Quel est un frein à l’inclusion ?",
+    "options": ["L’accessibilité", "La solidarité", "Les stéréotypes", "La participation"],
+    "answerIndex": 2,
+    "explication": "Les stéréotypes empêchent la reconnaissance des individus dans leur singularité."
+  },
+  {
+    "question": "38 - Que vise une politique inclusive ?",
+    "options": ["Réduire les droits", "Favoriser la participation de tous", "Uniformiser la population", "Créer des exclusions"],
+    "answerIndex": 1,
+    "explication": "Une politique inclusive cherche à garantir la participation de tous les citoyens."
+  },
+  {
+    "question": "39 - Que signifie adapter un environnement ?",
+    "options": ["Le rendre accessible à tous", "Le rendre plus complexe", "Le réserver à certains", "Le standardiser"],
+    "answerIndex": 0,
+    "explication": "Adapter un environnement signifie le rendre accessible à une diversité de personnes."
+  },
+  {
+    "question": "40 - Quelle est la finalité de l’inclusion ?",
+    "options": ["Créer une élite", "Renforcer les différences", "Garantir la participation sociale de tous", "Supprimer les normes"],
+    "answerIndex": 2,
+    "explication": "L’objectif principal de l’inclusion est de permettre à chacun de participer pleinement à la société."
+  },
+  {
+    "question": "41 - Que signifie reconnaître la singularité d’une personne ?",
+    "options": ["La considérer comme identique aux autres", "Ignorer ses besoins", "Prendre en compte ses caractéristiques propres", "La catégoriser uniquement"],
+    "answerIndex": 2,
+    "explication": "Reconnaître la singularité consiste à prendre en compte les spécificités de chaque individu, sans le réduire à une norme."
+  },
+  {
+    "question": "42 - Quel est un levier pour favoriser l’inclusion ?",
+    "options": ["Renforcer les normes rigides", "Développer l’accessibilité", "Exclure les minorités", "Ignorer les différences"],
+    "answerIndex": 1,
+    "explication": "L’accessibilité permet à chacun d’accéder aux ressources et espaces, favorisant ainsi l’inclusion."
+  },
+  {
+    "question": "43 - Quelle est une erreur fréquente concernant l’inclusion ?",
+    "options": ["Penser qu’elle concerne tout le monde", "Croire qu’elle valorise la diversité", "Penser qu’elle impose une uniformité", "La relier à l’égalité"],
+    "answerIndex": 2,
+    "explication": "L’inclusion ne cherche pas à uniformiser, mais à intégrer les différences dans la société."
+  },
+  {
+    "question": "44 - Quelle notion complète l’égalité dans une logique inclusive ?",
+    "options": ["La compétition", "La sélection", "L’exclusion", "L’équité"],
+    "answerIndex": 3,
+    "explication": "L’équité permet d’adapter les moyens pour garantir une véritable égalité des chances."
+  },
+  {
+    "question": "45 - Quel rôle jouent les institutions dans l’inclusion ?",
+    "options": ["Elles doivent garantir l’accès pour tous", "Elles doivent exclure certains groupes", "Elles doivent rester neutres", "Elles doivent renforcer les normes"],
+    "answerIndex": 0,
+    "explication": "Les institutions ont la responsabilité de mettre en place des dispositifs favorisant l’inclusion."
+  },
+  {
+    "question": "46 - Que produit la discrimination ?",
+    "options": ["Une meilleure cohésion", "Une égalité renforcée", "Des inégalités", "Une inclusion totale"],
+    "answerIndex": 2,
+    "explication": "La discrimination crée des inégalités en traitant différemment les individus de manière injuste."
+  },
+  {
+    "question": "47 - Quelle valeur est indispensable à l’inclusion ?",
+    "options": ["Le rejet", "Le respect", "La hiérarchie", "La compétition"],
+    "answerIndex": 1,
+    "explication": "Le respect des différences est une condition essentielle pour construire une société inclusive."
+  },
+  {
+    "question": "48 - Que signifie rendre un espace inclusif ?",
+    "options": ["Le rendre accessible à tous", "Le réserver à une élite", "Le complexifier", "Le standardiser"],
+    "answerIndex": 0,
+    "explication": "Un espace inclusif est conçu pour être utilisable par tous, quelles que soient leurs différences."
+  },
+  {
+    "question": "49 - Quelle est une conséquence positive de l’inclusion ?",
+    "options": ["La marginalisation", "L’exclusion", "La participation accrue", "La discrimination"],
+    "answerIndex": 2,
+    "explication": "L’inclusion permet à davantage de personnes de participer activement à la vie sociale."
+  },
+  {
+    "question": "50 - Quelle idée résume le mieux une société inclusive ?",
+    "options": ["Exclure les différences", "Uniformiser les individus", "Hiérarchiser les personnes", "Permettre à chacun de trouver sa place"],
+    "answerIndex": 3,
+    "explication": "Une société inclusive vise à ce que chacun, quelles que soient ses différences, puisse participer et trouver sa place."
+  }
+]

@@ -82,14 +82,16 @@ export default function LessonScreen({ navigation }) {
             )}
 
        <View style={styles.linkContainer}>
-                                 <Text style={styles.link} onPress={() => navigation.navigate('inegalite')}> ✨La place des femmes</Text>
-                                <Text style={styles.link} onPress={() => navigation.navigate('Inegalite2')}> 🌼Exemple de genre</Text>
-                                <Text style={styles.link} onPress={() => navigation.navigate('Inegalite3')}>✨L'orientation scolaire </Text>
-                                 <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue4')}> 🌼</Text>
-                               <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue5')}>🌼 </Text>
-                                <Text style={styles.link} onPress={() => navigation.navigate('GrandPedagogue6')}>🌼</Text>
-                                                                                          
-                               </View>
+ <Text style={styles.link} onPress={() => navigation.navigate('inegalite')}> ✨La place des femmes</Text>
+                                  <Text style={styles.link} onPress={() => navigation.navigate('Inegalite2')}> 🌼Exemple de genre</Text>
+                                 <Text style={styles.link} onPress={() => navigation.navigate('Inegalite3')}>✨L'orientation scolaire </Text>
+                                  <Text style={styles.link} onPress={() => navigation.navigate('Inegalite4')}> 🌼 Inégalité des genres</Text>
+                                <Text style={styles.link} onPress={() => navigation.navigate('Inegalite5')}>🌼société inclusive selon Gardou </Text>
+                                 <Text style={styles.link} onPress={() => navigation.navigate('Inegalite6')}>🌼 Vers la société inclusive</Text>
+                                 <Text style={styles.link} onPress={() => navigation.navigate('Inegalite7')}>🌼 S.I environnement scolaire et Universitaire</Text>
+                                  <Text style={styles.link} onPress={() => navigation.navigate('Inegalite8')}>🌼 Entreprises inclusives</Text>
+                                  <Text style={styles.link} onPress={() => navigation.navigate('Inegalite9')}>🌼 Les environnements capacitants</Text>                                                         
+                                </View>
        
                
                              </ScrollView>

@@ -1,0 +1,552 @@
+[
+  {
+    "question": "1 - Quelle est la différence entre diversité et inclusion selon Verna Myers ?",
+    "options": [
+      "La diversité concerne uniquement le recrutement",
+      "L’inclusion est une obligation légale",
+      "La diversité est une stratégie économique",
+      "La diversité consiste à être invité, l’inclusion à participer activement"
+    ],
+    "answerIndex": 3,
+    "explication": "Selon Verna Myers, la diversité correspond au fait d’être invité (présence), tandis que l’inclusion signifie être réellement intégré et pouvoir participer activement (ex : danser à la fête)."
+  },
+  {
+    "question": "2 - Quelle proportion de personnes déclare un handicap au cours de sa vie active ?",
+    "options": [
+      "2 sur 10",
+      "5 sur 10",
+      "8 sur 10",
+      "1 sur 10"
+    ],
+    "answerIndex": 1,
+    "explication": "Le cours indique que 5 personnes sur 10 déclarent un handicap au cours de leur vie active, que ce soit temporaire ou permanent."
+  },
+  {
+    "question": "3 - Quelle est la première source de discrimination à l’embauche en France ?",
+    "options": [
+      "Le handicap",
+      "L’âge",
+      "Le genre",
+      "L’origine ethnique"
+    ],
+    "answerIndex": 0,
+    "explication": "Le handicap est identifié comme la première source de discrimination à l’embauche en France selon les données présentées (INSEE, Agefiph, etc.)."
+  },
+  {
+    "question": "4 - Quel est le taux de handicaps invisibles en entreprise ?",
+    "options": [
+      "20%",
+      "50%",
+      "80%",
+      "30%"
+    ],
+    "answerIndex": 2,
+    "explication": "Environ 80% des handicaps sont dits invisibles (troubles cognitifs, maladies chroniques, troubles psychiques, etc.), ce qui rend leur prise en compte plus complexe."
+  },
+  {
+    "question": "5 - Quel est le taux de chômage des personnes en situation de handicap en 2020 ?",
+    "options": [
+      "18%",
+      "9%",
+      "25%",
+      "12%"
+    ],
+    "answerIndex": 0,
+    "explication": "Le taux de chômage des personnes en situation de handicap est de 18%, soit le double de celui de la population générale (9%)."
+  },
+  {
+    "question": "6 - Que prévoit la loi de 2005 pour les entreprises de plus de 20 salariés ?",
+    "options": [
+      "Former tous les employés au handicap",
+      "Créer un service spécialisé",
+      "Verser une prime aux salariés",
+      "Employer au moins 6% de travailleurs handicapés"
+    ],
+    "answerIndex": 3,
+    "explication": "La loi de 2005 impose aux entreprises de plus de 20 salariés d’employer au moins 6% de personnes en situation de handicap, sous peine de contribution financière."
+  },
+  {
+    "question": "7 - Quel est le rôle principal du référent handicap en entreprise ?",
+    "options": [
+      "Sanctionner les discriminations",
+      "Informer, accompagner et faire le lien entre les acteurs",
+      "Recruter uniquement des travailleurs handicapés",
+      "Gérer les salaires"
+    ],
+    "answerIndex": 1,
+    "explication": "Le référent handicap agit comme un tiers de confiance : il informe, oriente, accompagne les salariés et fait le lien entre les différents acteurs internes et externes."
+  },
+  {
+    "question": "8 - Qu’est-ce qu’une entreprise adaptée (EA) ?",
+    "options": [
+      "Une entreprise publique",
+      "Une entreprise sans salariés",
+      "Une entreprise employant au moins 55% de travailleurs handicapés",
+      "Une entreprise temporaire"
+    ],
+    "answerIndex": 2,
+    "explication": "Une entreprise adaptée est une structure à but social qui emploie au moins 55% de personnes en situation de handicap dans des conditions adaptées."
+  },
+  {
+    "question": "9 - Quelle bonne pratique est recommandée face à un salarié en situation de handicap ?",
+    "options": [
+      "Demander sa pathologie pour mieux comprendre",
+      "Respecter son choix de communication sur son handicap",
+      "Le traiter différemment systématiquement",
+      "Limiter ses missions"
+    ],
+    "answerIndex": 1,
+    "explication": "Il est essentiel de respecter la volonté du salarié concernant la communication autour de son handicap, notamment sur le contenu et les personnes à informer."
+  },
+  {
+    "question": "10 - Quel facteur est le plus incitatif pour embaucher une personne handicapée selon l’enquête IFOP ?",
+    "options": [
+      "Les obligations légales",
+      "Les sanctions financières",
+      "Les campagnes de sensibilisation",
+      "L’accès à des profils correspondant aux besoins"
+    ],
+    "answerIndex": 3,
+    "explication": "Le principal facteur incitatif est l’accès à des profils correspondant aux besoins de l’entreprise (53%), devant les aides ou obligations administratives."
+  },
+  {
+    "question": "11 - Que se passe-t-il si une entreprise n’atteint pas le seuil de 6% de travailleurs handicapés ?",
+    "options": [
+      "Elle est fermée",
+      "Elle doit licencier",
+      "Elle doit verser une contribution financière",
+      "Elle est exonérée d’impôts"
+    ],
+    "answerIndex": 2,
+    "explication": "Si le quota de 6% n’est pas atteint, l’entreprise doit verser une contribution annuelle destinée à financer des actions en faveur de l’emploi des personnes handicapées."
+  },
+  {
+    "question": "12 - Depuis quelle année la déclaration DOETH est-elle obligatoire mensuellement ?",
+    "options": [
+      "2018",
+      "2020",
+      "2005",
+      "2015"
+    ],
+    "answerIndex": 1,
+    "explication": "Depuis le 1er janvier 2020, les entreprises doivent effectuer une Déclaration Obligatoire d’Emploi des Travailleurs Handicapés (DOETH) chaque mois."
+  },
+  {
+    "question": "13 - Dans quelle condition une entreprise doit-elle avoir un référent handicap ?",
+    "options": [
+      "Plus de 250 salariés",
+      "Plus de 50 salariés",
+      "Toutes les entreprises",
+      "Seulement dans le secteur public"
+    ],
+    "answerIndex": 0,
+    "explication": "Depuis 2020, les entreprises de plus de 250 salariés ont l’obligation de désigner un référent handicap."
+  },
+  {
+    "question": "14 - Quelle est la fonction du référent handicap comme “interface” ?",
+    "options": [
+      "Remplacer les managers",
+      "Créer des lois",
+      "Faire le lien entre acteurs internes et externes",
+      "Contrôler les salariés"
+    ],
+    "answerIndex": 2,
+    "explication": "Le référent handicap agit comme intermédiaire entre les différents acteurs (salariés, direction, organismes externes) pour faciliter l’inclusion."
+  },
+  {
+    "question": "15 - Qu’est-ce qu’un ESAT ?",
+    "options": [
+      "Une école spécialisée",
+      "Un service administratif",
+      "Une entreprise privée classique",
+      "Une structure médico-sociale permettant une activité professionnelle protégée"
+    ],
+    "answerIndex": 3,
+    "explication": "Les ESAT permettent aux personnes en situation de handicap d’exercer une activité professionnelle avec un accompagnement médico-social dans un environnement protégé."
+  },
+  {
+    "question": "16 - Quelle pratique est à éviter en entreprise ?",
+    "options": [
+      "Porter un jugement sur le salarié",
+      "Adapter le poste de travail",
+      "Dialoguer avec le salarié",
+      "Respecter ses besoins"
+    ],
+    "answerIndex": 0,
+    "explication": "Il est essentiel d’éviter les jugements, car ils peuvent renforcer les discriminations et nuire à l’inclusion."
+  },
+  {
+    "question": "17 - Que signifie individualiser la gestion du handicap ?",
+    "options": [
+      "Appliquer les mêmes règles à tous",
+      "Adapter chaque situation au cas par cas",
+      "Ignorer les différences",
+      "Uniformiser les postes"
+    ],
+    "answerIndex": 1,
+    "explication": "Chaque situation de handicap est unique, même pour une même pathologie, ce qui nécessite une adaptation personnalisée."
+  },
+  {
+    "question": "18 - Selon l’enquête IFOP, l’inclusion est perçue comme :",
+    "options": [
+      "Uniquement une contrainte",
+      "Sans impact",
+      "Une opportunité d’innovation et de performance",
+      "Une obligation inutile"
+    ],
+    "answerIndex": 2,
+    "explication": "Une partie importante des répondants voit l’inclusion comme un levier de performance et d’innovation pour l’entreprise."
+  },
+  {
+    "question": "19 - Quel pourcentage environ considère l’inclusion comme une opportunité ?",
+    "options": [
+      "20%",
+      "40%",
+      "60%",
+      "76%"
+    ],
+    "answerIndex": 3,
+    "explication": "Environ 76% des répondants considèrent l’inclusion comme une opportunité d’ouverture à de nouveaux profils."
+  },
+  {
+    "question": "20 - Quelle perception est fréquente concernant l’embauche de personnes handicapées ?",
+    "options": [
+      "Facile",
+      "Sans difficulté",
+      "Difficile",
+      "Inutile"
+    ],
+    "answerIndex": 2,
+    "explication": "Une majorité des répondants perçoit encore l’embauche de personnes handicapées comme difficile, notamment selon les contraintes organisationnelles."
+  },
+  {
+    "question": "21 - Quel type de handicap est perçu comme le plus facile à intégrer ?",
+    "options": [
+      "Psychique",
+      "Cognitif",
+      "Auditif",
+      "Mental"
+    ],
+    "answerIndex": 2,
+    "explication": "Les handicaps auditifs sont généralement perçus comme plus faciles à intégrer que les handicaps psychiques ou cognitifs."
+  },
+  {
+    "question": "22 - Quel handicap est perçu comme le plus difficile à intégrer ?",
+    "options": [
+      "Auditif",
+      "Psychique ou mental",
+      "Moteur",
+      "Visuel"
+    ],
+    "answerIndex": 1,
+    "explication": "Les handicaps psychiques ou mentaux sont souvent perçus comme plus complexes à intégrer en raison de leur invisibilité et de leur variabilité."
+  },
+  {
+    "question": "23 - Quelle difficulté est souvent rencontrée par les salariés handicapés ?",
+    "options": [
+      "Changer de métier",
+      "Se faire respecter",
+      "Prendre des congés",
+      "Travailler seul"
+    ],
+    "answerIndex": 1,
+    "explication": "Se faire respecter est une difficulté fréquemment évoquée, liée aux représentations sociales et aux préjugés."
+  },
+  {
+    "question": "24 - Quelle est une difficulté dans la progression professionnelle ?",
+    "options": [
+      "Accéder à la hiérarchie",
+      "Changer de bureau",
+      "Avoir un salaire",
+      "Signer un contrat"
+    ],
+    "answerIndex": 0,
+    "explication": "Les personnes en situation de handicap rencontrent souvent des obstacles pour progresser dans la hiérarchie."
+  },
+  {
+    "question": "25 - Que peut provoquer la présence d’un collègue handicapé ?",
+    "options": [
+      "Une baisse de performance",
+      "Un changement de regard sur le handicap",
+      "Une suppression de poste",
+      "Une sanction"
+    ],
+    "answerIndex": 1,
+    "explication": "La présence d’un collègue handicapé contribue souvent à changer positivement les représentations et les attitudes."
+  },
+  {
+    "question": "26 - Travailler avec une personne handicapée permet souvent :",
+    "options": [
+      "D’éviter les responsabilités",
+      "De ralentir le travail",
+      "De créer des conflits",
+      "De développer de nouvelles pratiques"
+    ],
+    "answerIndex": 3,
+    "explication": "Cela peut amener à repenser les pratiques professionnelles et à innover dans l’organisation du travail."
+  },
+  {
+    "question": "27 - Quelle idée fausse existe encore ?",
+    "options": [
+      "Le handicap nécessite toujours des aménagements",
+      "Le handicap n’existe pas",
+      "Le handicap est toujours visible",
+      "Le handicap empêche de travailler"
+    ],
+    "answerIndex": 2,
+    "explication": "Beaucoup pensent encore que le handicap est toujours visible, alors que 80% des handicaps sont invisibles."
+  },
+  {
+    "question": "28 - Quel rôle joue l’AGEFIPH ?",
+    "options": [
+      "Former les étudiants",
+      "Aider à l’insertion professionnelle des personnes handicapées",
+      "Contrôler les entreprises",
+      "Gérer les salaires"
+    ],
+    "answerIndex": 1,
+    "explication": "L’AGEFIPH soutient l’insertion professionnelle des personnes handicapées via des aides, accompagnements et financements."
+  },
+  {
+    "question": "29 - Quel facteur facilite l’embauche selon les entreprises ?",
+    "options": [
+      "Des profils adaptés aux besoins",
+      "Des sanctions plus fortes",
+      "Moins de lois",
+      "Plus de concurrence"
+    ],
+    "answerIndex": 0,
+    "explication": "L’adéquation entre le profil du candidat et les besoins de l’entreprise est le principal facteur facilitateur."
+  },
+  {
+    "question": "30 - Quel impact la crise économique a-t-elle sur les travailleurs handicapés ?",
+    "options": [
+      "Moins impactés",
+      "Pas impactés",
+      "Également impactés",
+      "Plus impactés"
+    ],
+    "answerIndex": 3,
+    "explication": "Une majorité estime que les travailleurs handicapés sont plus impactés par les crises économiques, notamment en raison de leur vulnérabilité sur le marché du travail."
+  },
+  {
+    "question": "31 - Que signifie une société inclusive ?",
+    "options": [
+      "Une société sans règles",
+      "Une société réservée à certains groupes",
+      "Une société qui exclut les différences",
+      "Une société qui permet la participation de tous"
+    ],
+    "answerIndex": 3,
+    "explication": "Une société inclusive vise à permettre à chaque individu, quelles que soient ses caractéristiques, de participer pleinement à la vie sociale."
+  },
+  {
+    "question": "32 - Quelle approche est mise en avant dans le cours pour favoriser l’inclusion ?",
+    "options": [
+      "Approche punitive",
+      "Approche par les environnements capacitants",
+      "Approche économique",
+      "Approche administrative"
+    ],
+    "answerIndex": 1,
+    "explication": "L’approche par les environnements capacitants consiste à adapter l’environnement pour permettre aux individus de développer leurs capacités."
+  },
+  {
+    "question": "33 - Que signifie adapter un environnement capacitant ?",
+    "options": [
+      "Modifier l’environnement pour favoriser les capacités",
+      "Supprimer les règles",
+      "Isoler les individus",
+      "Standardiser les pratiques"
+    ],
+    "answerIndex": 0,
+    "explication": "Un environnement capacitant est un environnement qui s’adapte aux besoins des individus pour favoriser leur autonomie et leur développement."
+  },
+  {
+    "question": "34 - L’école inclusive vise à :",
+    "options": [
+      "Séparer les élèves",
+      "Uniformiser les apprentissages",
+      "Exclure les élèves en difficulté",
+      "Accueillir tous les élèves quelles que soient leurs différences"
+    ],
+    "answerIndex": 3,
+    "explication": "L’école inclusive vise à accueillir tous les élèves, en tenant compte de leurs besoins spécifiques."
+  },
+  {
+    "question": "35 - L’université inclusive implique :",
+    "options": [
+      "Des adaptations pour les étudiants",
+      "Aucune modification",
+      "Une sélection stricte",
+      "Une exclusion des étudiants en difficulté"
+    ],
+    "answerIndex": 0,
+    "explication": "Elle implique des aménagements pédagogiques, techniques et organisationnels pour permettre à tous les étudiants de réussir."
+  },
+  {
+    "question": "36 - Une ville inclusive doit :",
+    "options": [
+      "Limiter l’accès aux services",
+      "Favoriser l’accessibilité pour tous",
+      "Réduire les infrastructures",
+      "Prioriser certains habitants"
+    ],
+    "answerIndex": 1,
+    "explication": "Une ville inclusive garantit l’accessibilité des espaces publics et des services à l’ensemble de la population."
+  },
+  {
+    "question": "37 - L’inclusion des personnes âgées concerne :",
+    "options": [
+      "Uniquement la santé",
+      "Leur isolement",
+      "Leur participation sociale",
+      "Leur exclusion progressive"
+    ],
+    "answerIndex": 2,
+    "explication": "L’inclusion des personnes âgées vise à maintenir leur participation sociale et leur autonomie."
+  },
+  {
+    "question": "38 - Quelle critique peut être faite à l’inclusion ?",
+    "options": [
+      "Elle est inutile",
+      "Elle est trop simple",
+      "Elle peut être seulement symbolique",
+      "Elle est interdite"
+    ],
+    "answerIndex": 2,
+    "explication": "Une critique fréquente est que l’inclusion peut parfois être superficielle ou symbolique sans transformation réelle."
+  },
+  {
+    "question": "39 - Que signifie marginaliser un salarié ?",
+    "options": [
+      "L’intégrer pleinement",
+      "Le valoriser",
+      "Le mettre à l’écart",
+      "L’accompagner"
+    ],
+    "answerIndex": 2,
+    "explication": "Marginaliser signifie mettre une personne à l’écart du groupe, ce qui est contraire aux principes d’inclusion."
+  },
+  {
+    "question": "40 - Pourquoi faut-il vérifier les aménagements de poste ?",
+    "options": [
+      "Pour les supprimer",
+      "Pour s’assurer qu’ils restent adaptés",
+      "Pour réduire les coûts",
+      "Pour éviter les discussions"
+    ],
+    "answerIndex": 1,
+    "explication": "Les besoins peuvent évoluer, il est donc nécessaire de vérifier régulièrement que les aménagements sont toujours adaptés."
+  },
+  {
+    "question": "41 - Quelle est une conséquence positive de l’inclusion ?",
+    "options": [
+      "Réduction des compétences",
+      "Augmentation des conflits",
+      "Amélioration de l’innovation",
+      "Baisse de performance"
+    ],
+    "answerIndex": 2,
+    "explication": "L’inclusion favorise la diversité des points de vue, ce qui stimule l’innovation et la performance collective."
+  },
+  {
+    "question": "42 - Quelle attitude est recommandée face au handicap ?",
+    "options": [
+      "Ignorer la situation",
+      "Adopter une vigilance adaptée",
+      "Surprotéger",
+      "Exclure"
+    ],
+    "answerIndex": 1,
+    "explication": "Il faut agir de manière normale tout en étant attentif aux besoins spécifiques de la personne."
+  },
+  {
+    "question": "43 - Pourquoi ne faut-il pas demander la pathologie d’un salarié ?",
+    "options": [
+      "Par manque d’intérêt",
+      "Parce que c’est interdit",
+      "Parce que c’est inutile",
+      "Parce que c’est compliqué"
+    ],
+    "answerIndex": 1,
+    "explication": "Demander la pathologie relève de la vie privée et est interdit, afin de protéger les droits du salarié."
+  },
+  {
+    "question": "44 - Que signifie inclusion dans le travail ?",
+    "options": [
+      "Adapter l’environnement de travail",
+      "Exclure les différences",
+      "Standardiser les postes",
+      "Réduire les effectifs"
+    ],
+    "answerIndex": 0,
+    "explication": "L’inclusion implique d’adapter le travail aux individus et non l’inverse."
+  },
+  {
+    "question": "45 - Quel est un enjeu majeur de l’inclusion ?",
+    "options": [
+      "Réduire les coûts",
+      "Favoriser l’égalité des chances",
+      "Augmenter la hiérarchie",
+      "Limiter les recrutements"
+    ],
+    "answerIndex": 1,
+    "explication": "L’inclusion vise à garantir l’égalité des chances pour tous, indépendamment des différences."
+  },
+  {
+    "question": "46 - Que permet l’inclusion dans une équipe ?",
+    "options": [
+      "Uniformiser les profils",
+      "Réduire la diversité",
+      "Valoriser les différences",
+      "Supprimer les interactions"
+    ],
+    "answerIndex": 2,
+    "explication": "L’inclusion valorise les différences individuelles comme une richesse pour le collectif."
+  },
+  {
+    "question": "47 - Quelle est une limite de l’inclusion ?",
+    "options": [
+      "Elle est toujours efficace",
+      "Elle peut manquer de moyens concrets",
+      "Elle supprime les problèmes",
+      "Elle est obligatoire partout"
+    ],
+    "answerIndex": 1,
+    "explication": "Sans moyens concrets (financiers, humains), l’inclusion peut rester théorique."
+  },
+  {
+    "question": "48 - Pourquoi sensibiliser au handicap ?",
+    "options": [
+      "Pour sanctionner",
+      "Pour informer et changer les représentations",
+      "Pour exclure",
+      "Pour contrôler"
+    ],
+    "answerIndex": 1,
+    "explication": "La sensibilisation permet de lutter contre les stéréotypes et de favoriser une meilleure compréhension."
+  },
+  {
+    "question": "49 - Quelle est une caractéristique d’un environnement inclusif ?",
+    "options": [
+      "Rigidité",
+      "Accessibilité",
+      "Exclusion",
+      "Uniformité"
+    ],
+    "answerIndex": 1,
+    "explication": "Un environnement inclusif est accessible et adapté à la diversité des besoins."
+  },
+  {
+    "question": "50 - Quel est l’objectif global de l’inclusion ?",
+    "options": [
+      "Créer des différences",
+      "Maintenir les inégalités",
+      "Limiter l’accès",
+      "Permettre la participation de tous"
+    ],
+    "answerIndex": 3,
+    "explication": "L’objectif de l’inclusion est de permettre à chacun de participer pleinement à la société, sans discrimination."
+  }
+]
